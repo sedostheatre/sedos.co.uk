@@ -1,0 +1,10 @@
+name = "Sedos"
+homepage = "https://sedos.co.uk/"
+tags = []
+features = []
+min_version = "0.22.1"
+languageCode = "en"
+
+[author]
+  name = ""
+  homepage = ""
