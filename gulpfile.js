@@ -1,5 +1,6 @@
 const fs = require('fs');
 const gulp = require('gulp');
+const spawn = require('child_process').spawn;
 const toml = require('toml');
 const path = require('path');
 const sass = require('gulp-sass');

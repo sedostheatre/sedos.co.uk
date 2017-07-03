@@ -18,9 +18,11 @@
   "homepage": "https://github.com/olevett/sedos.co.uk#readme",
   "devDependencies": {},
   "dependencies": {
+    "child_process": "^1.0.2",
     "fs": "^0.0.1-security",
     "gulp": "gulpjs/gulp#4.0",
     "gulp-sass": "^3.1.0",
+    "normalize-scss": "^7.0.0",
     "toml": "^2.3.2"
   }
 }
