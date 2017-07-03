@@ -16,12 +16,11 @@
     "url": "https://github.com/olevett/sedos.co.uk/issues"
   },
   "homepage": "https://github.com/olevett/sedos.co.uk#readme",
-  "devDependencies": {
-    "gulp": "^3.9.1"
-  },
+  "devDependencies": {},
   "dependencies": {
-    "child_process": "^1.0.2",
     "fs": "^0.0.1-security",
-    "js-yaml": "^3.8.4"
+    "gulp": "gulpjs/gulp#4.0",
+    "gulp-sass": "^3.1.0",
+    "toml": "^2.3.2"
   }
 }
