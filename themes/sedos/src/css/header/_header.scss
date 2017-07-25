@@ -1,25 +1,25 @@
 header {
-    flex: none;
+  flex: none;
 }
 
 .header {
+  display: flex;
+  padding: 1.5em;
+  background: $light-grey;
+
+  .header-title {
     display: flex;
-    padding: 1.5em;
-    background: $light-grey;    
+    align-items: baseline;
 
-    .header-title {
-        display: flex;
-        align-items: baseline;
+    h1 {
+      margin: 0;
+    }   
 
-        h1 {
-            margin: 0;
-        }
-    
-        a {
-            &:hover, &:link, &:active, &:visited {
-                text-decoration: none;
-                color: inherit;
-            }
-        }
+    a { 
+      &:hover, &:link, &:active, &:visited {
+        text-decoration: none;
+        color: inherit;
+      }
     }
+  }
 }

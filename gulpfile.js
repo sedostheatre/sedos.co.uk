@@ -7,7 +7,7 @@ const sass = require('gulp-sass');
 
 const THEME_NAME = toml.parse(fs.readFileSync('./config.toml', 'utf8')).theme;
 const THEME_PATH = path.join(__dirname, 'themes', THEME_NAME);
-const THEME_SCSS = path.join(THEME_PATH, 'src', 'css', '*.scss');
+const THEME_SCSS = path.join(THEME_PATH, 'src', 'css', '**', '*.scss');
 
 gulp.task('sass', function () {
   return gulp.src(THEME_SCSS)
@@ -28,4 +28,4 @@ gulp.task('hugo', (cb) => {
   });
 });
 
-gulp.task('default', gulp.parallel('hugo', 'sass:watch'));
+gulp.task('default', gulp.parallel('hugo', 'sass', 'sass:watch'));
