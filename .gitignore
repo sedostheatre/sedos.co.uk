@@ -1,6 +1,2 @@
-public
-node_modules
-
-themes/sedos/static/css/
-
-yarn-error\.log
+tools/
+output/

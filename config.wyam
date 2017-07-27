@@ -1,0 +1,21 @@
+#n Wyam.Markdown
+#n Wyam.Yaml
+#n Wyam.Html
+#n Wyam.Razor
+
+Settings["title"] = "Sedos";
+
+Pipelines.Add("Shows",
+    ReadFiles("Shows/*/*.md"),
+    FrontMatter(Yaml()),
+    Markdown()
+);
+
+Pipelines.Add("Index",
+	ReadFiles("*.md"),    
+	FrontMatter(Yaml()),
+	Markdown(),
+    Concat(ReadFiles("*.cshtml")),
+    Razor(),
+	WriteFiles(".html")
+);
