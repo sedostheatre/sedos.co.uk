@@ -1,11 +1,28 @@
+@using System.Linq;
+
 <!-- Menu -->
 
 <a href="/shows">Shows</a>
 
+<h2>Shows</h2>
 <!-- Top level of next 3 shows -->
-@foreach(var document in Documents["Shows"])
-{
-    <h2>@document["name"]</h2>
-}
+<ul>
+    @foreach(var document in Documents["Shows"])
+    {
+        <li>    
+            <h2>@document.Get("title","defaultName")</h2>
+        </li>
+    }
+</ul>
 
+<h2>News</h2>
 <!-- Feed -->
+<ul>
+    <!-- @foreach(var document in Documents["ShowNews"])
+    {
+        <li>    
+            @document["title"]
+        </li>
+    } -->
+</ul>
+

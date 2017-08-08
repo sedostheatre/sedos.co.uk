@@ -2,13 +2,13 @@
 #n Wyam.Yaml
 #n Wyam.Html
 #n Wyam.Razor
+#n Wyam.Metadata
 
 Settings["title"] = "Sedos";
 
 Pipelines.Add("Shows",
-    ReadFiles("Shows/*/*.md"),
-    FrontMatter(Yaml()),
-    Markdown()
+    ReadFiles("Shows/*.yml"),    
+    Yaml(),
 );
 
 Pipelines.Add("Index",
