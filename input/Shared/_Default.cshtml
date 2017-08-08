@@ -2,10 +2,11 @@
 <html>
   @Html.Partial("Partials/_head")
   <body>
-    <div id="main-wrapper">
-        <div class="container">
-            @RenderBody()
-        </div>
-    </div>
+    <main class="wrapper">
+      @Html.Partial("Partials/_Navigation")
+      <div id="main-wrapper">  
+          @RenderBody()
+      </div>
+    </main>    
   </body>
 </html>

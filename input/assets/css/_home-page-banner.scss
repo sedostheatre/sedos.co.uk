@@ -1,0 +1,27 @@
+.home-page-banner {
+    &.row {
+        padding-top: 4rem;
+    }
+
+    .show-title {
+        text-align: center;
+        width: 100%;
+        color: $color-initial;
+        margin-bottom: 0;
+    }
+
+    .show-byline {
+        text-align: center;
+        width: 100%;
+        color: $color-tertiary;
+    }
+
+    .flyer-image {
+        width: 100%;
+    }
+
+    .border {
+        background-color: $color-secondary;
+        padding-bottom: 1rem;
+    }
+}

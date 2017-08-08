@@ -26,3 +26,7 @@ Pipelines.Add("Index",
     Razor(),
 	WriteFiles(".html")
 );
+
+Pipelines.Add("Resources",
+	CopyFiles("**/*.jpg")
+);
