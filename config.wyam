@@ -3,12 +3,19 @@
 #n Wyam.Html
 #n Wyam.Razor
 #n Wyam.Metadata
+#n Wyam.Sass
 
 Settings["title"] = "Sedos";
 
 Pipelines.Add("Shows",
     ReadFiles("Shows/*.yml"),    
-    Yaml(),
+    Yaml()
+);
+
+Pipelines.Add("Sass",
+    ReadFiles("assets/css/main.scss"),
+    Sass().WithCompactOutputStyle(),
+    WriteFiles()
 );
 
 Pipelines.Add("Index",
