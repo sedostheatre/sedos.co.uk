@@ -1,15 +1,13 @@
-<div class="container">
-    <div class="">
-        <div class="row home-page-banner">        
+<div class="jumbotron home-page-banner">
+    <div class="container">
+        <div class="row">        
             @foreach(var document in Documents["Shows"])
             {
-                <div class="column">
-                    <div class="border">
-                        @{
-                            var imagePath = @document.Get("home-page", "/Shows/the-rivals/rivals-header.jpg");
-                            var imageLink = @Context.GetLink(imagePath);
-                        }
-                        <img class="flyer-image" src="@imageLink">
+                var imagePath = @document.Get("home-page", "/Shows/the-rivals/rivals-header.jpg");
+                var imageLink = @Context.GetLink(imagePath);
+                <div class="col-md-4 show-tile">
+                    <img class="flyer-image" src="@imageLink">               
+                    <div class="show-details">
                         <h2 class="show-title">@document.Get("title","defaultName")</h2>
                         <div class="show-byline">@document["byline"]</div>
                     </div>
