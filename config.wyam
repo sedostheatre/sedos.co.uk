@@ -25,8 +25,8 @@ Pipelines.Add("UpcomingShows",
 
 Pipelines.Add("UpcomingShowImages",
     Documents("UpcomingShows"),
-    ReadFiles((doc, ctx) => doc.DirectoryPath(Keys.RelativeFileDir).CombineFile(doc.Get<string>("flyer"))),
-     Image()
+    ReadFiles((doc, ctx) => doc.Get<string>("ImageFilePath")),
+    Image()
         .SetJpegQuality(100).Resize(350, 450).SetSuffix("-home"),
     WriteFiles()
 );
