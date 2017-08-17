@@ -176,4 +176,7 @@
     <package id="System.Xml.XDocument" version="4.3.0" targetFramework="net462" />
     <package id="NETStandard.Library" version="1.6.1" targetFramework="net462" />
   </package>
+  <package id="Wyam.Images" version="0.18.5" targetFramework="net462">
+    <package id="ImageProcessor" version="2.5.2" targetFramework="net462" />
+  </package>
 </packages>
