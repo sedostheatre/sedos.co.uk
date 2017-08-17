@@ -9,7 +9,7 @@
 Settings["title"] = "Sedos";
 
 Pipelines.Add("UpcomingShows",
-    ReadFiles("shows/*/index.yml"),    
+    ReadFiles("Shows/*/index.yml"),    
     Yaml(),
     OrderBy((doc, ctx) => doc.Get<IEnumerable<DateTime>>("showtimes").OrderBy(x => x).First()),
     Take(3),
