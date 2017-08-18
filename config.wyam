@@ -27,7 +27,7 @@ Pipelines.Add("UpcomingShowImages",
     Documents("UpcomingShows"),
     ReadFiles((doc, ctx) => doc.Get<string>("ImageFilePath")),
     Image()
-        .SetJpegQuality(100).Resize(350, 450).SetSuffix("-home"),
+        .SetJpegQuality(100).Resize(350, 400).SetSuffix("-home"),
     WriteFiles()
 );
 
@@ -44,4 +44,8 @@ Pipelines.Add("Index",
     Concat(ReadFiles("*.cshtml")),
     Razor(),
 	WriteFiles(".html")
+);
+
+Pipelines.Add("ImageAssets",
+    CopyFiles("assets/images/*.*")
 );
