@@ -1,0 +1,46 @@
+.show-card {
+    background: $blue;
+    width: 100%;
+    height: 400px;
+
+    display: flex; 
+    flex-flow: row nowrap;
+    align-items: flex-end;
+
+    background-position-x: center;
+    background-position-y: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    .show-details {
+        width: 100%;
+        background: transparentize(#000000, 0.3);
+    }
+        
+    .show-title, .show-byline {
+        text-align: center;
+        width: 100%;
+        color: $light-blue;
+    }        
+}
+
+.header-image {
+    background-position-x: center;
+    background-position-y: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 70vh;
+    border-radius: 0;
+}
+
+.banner {
+    width: 100%;
+    background: $blue;
+    color: $white;
+    padding: 0.4em 0;
+}
+
+.upcoming-shows {
+    background: $grey;
+    padding: 1em 0;
+}

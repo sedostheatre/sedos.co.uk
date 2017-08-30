@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+  @Html.Partial("Partials/_head")
+  <body>
+    @Html.Partial("Partials/_Navigation")
+    <div class="main-wrapper">  
+        @RenderBody()
+    </div>
+
+    @Html.Partial("Partials/_Footer")
+  </body>
+</html>

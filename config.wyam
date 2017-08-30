@@ -1,0 +1,51 @@
+#n Wyam.Markdown
+#n Wyam.Yaml
+#n Wyam.Html
+#n Wyam.Razor
+#n Wyam.Metadata
+#n Wyam.Sass
+#n Wyam.Images
+
+Settings["title"] = "Sedos";
+
+Pipelines.Add("UpcomingShows",
+    ReadFiles("Shows/*/index.yml"),    
+    Yaml(),
+    OrderBy((doc, ctx) => doc.Get<IEnumerable<DateTime>>("showtimes").OrderBy(x => x).First()),
+    Take(3),
+    Meta("ImageFilePath", (doc, ctx) => 
+        doc.DirectoryPath(Keys.RelativeFileDir).CombineFile(doc.Get<string>("flyer"))
+    ),
+    Meta("HomePageImagePath", (doc, ctx) => {
+        var inputFile = new FilePath(doc.Get<string>("flyer"));
+        var outputFile = new FilePath(inputFile.FileNameWithoutExtension + "-home").AppendExtension(inputFile.Extension);
+        return doc.DirectoryPath(Keys.RelativeFileDir).CombineFile(outputFile);
+    })
+);
+
+Pipelines.Add("UpcomingShowImages",
+    Documents("UpcomingShows"),
+    ReadFiles((doc, ctx) => doc.Get<string>("ImageFilePath")),
+    Image()
+        .SetJpegQuality(100).Resize(350, 400).SetSuffix("-home"),
+    WriteFiles()
+);
+
+Pipelines.Add("Sass",
+    ReadFiles("assets/css/main.scss"),
+    Sass().WithCompactOutputStyle(),
+    WriteFiles()
+);
+
+Pipelines.Add("Index",
+	ReadFiles("*.md"),    
+	FrontMatter(Yaml()),
+	Markdown(),
+    Concat(ReadFiles("*.cshtml")),
+    Razor(),
+	WriteFiles(".html")
+);
+
+Pipelines.Add("ImageAssets",
+    CopyFiles("assets/images/*.*")
+);

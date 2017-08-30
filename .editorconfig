@@ -1,7 +1,8 @@
-[*.html]
+[*]
 indent_style = space
-indent_size = 2
 
-[*.scss, *.sass]
-indent_style = space
+[*.cshtml]
+indent_size = 4
+
+[*.md]
 indent_size = 2
