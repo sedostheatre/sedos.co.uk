@@ -7,20 +7,13 @@
             <h2>Upcoming shows</h2>
         </div>
     </div>
+
     <div class="upcoming-shows">
         <div class="container">
             <div class="row">        
                 @foreach(var document in Documents["UpcomingShows"])
                 {
-                    var imageLink = @document.Get("HomePageImagePath", "No Image");
-                    <div class="col-md-4">
-                        <div class="show-card"  style="background-image: url(@Context.GetLink(imageLink))">
-                            <div class="show-details">
-                                <h2 class="show-title">@document.Get("title","defaultName")</h2>
-                                <div class="show-byline">@document["byline"]</div>
-                            </div>
-                        </div>
-                    </div>
+                   Html.RenderPartial("Partials/_ShowCard", document);
                 }
             </div>
         </div>
