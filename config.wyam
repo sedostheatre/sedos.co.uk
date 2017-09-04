@@ -47,5 +47,5 @@ Pipelines.Add("Index",
 );
 
 Pipelines.Add("ImageAssets",
-    CopyFiles("assets/images/*.*")
+    CopyFiles("assets/images/**/*.*")
 );

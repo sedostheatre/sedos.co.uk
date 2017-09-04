@@ -3,5 +3,18 @@
 }
 
 .main-navigation {
-    position: absolute !important;
+    background-color: $blue;
+}
+
+.navbar-brand {
+    .logo {
+        height: 80px;
+    }       
+
+    .nav-link {
+        color: $white;
+    }
+
+    padding-top: 0;
+    padding-bottom: 0;
 }
