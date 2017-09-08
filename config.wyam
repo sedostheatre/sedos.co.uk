@@ -38,12 +38,17 @@ Pipelines.Add("Sass",
 );
 
 Pipelines.Add("Index",
+    ReadFiles("index.cshtml"),
+    Razor(),
+	WriteFiles(".html")
+);
+
+Pipelines.Add("Markdown",
 	ReadFiles("*.md"),    
 	FrontMatter(Yaml()),
 	Markdown(),
-    Concat(ReadFiles("*.cshtml")),
-    Razor(),
-	WriteFiles(".html")
+    Razor().WithViewStart("Layout/_PageViewStart.cshtml"),
+    WriteFiles(".html")
 );
 
 Pipelines.Add("ImageAssets",
