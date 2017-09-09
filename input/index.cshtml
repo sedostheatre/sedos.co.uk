@@ -1,4 +1,19 @@
-<div class="header-image" style="background-image: url(@Context.GetLink("assets/images/frenemies.jpg"))">
+<div class="header-carousel">
+    <div id="carouselExampleSlidesOnly" class="carousel slide" data-ride="carousel">
+        <div class="carousel-inner" role="listbox">
+            @{
+                var firstHeaderImage = Documents["HeaderImages"].First();
+                <div class="carousel-item header-carousel-image active" style="background-image: url(@Context.GetLink(firstHeaderImage))">
+                </div>
+            }
+            
+            @foreach(var headerImage in Documents["HeaderImages"].Skip(1))
+            {
+                <div class="carousel-item header-carousel-image" style="background-image: url(@Context.GetLink(headerImage))">
+                </div>
+            }
+        </div>
+    </div>
 </div>
 
 <div class="upcoming-shows-container">
