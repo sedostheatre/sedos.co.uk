@@ -1,3 +1,4 @@
+---
 title: "The Rivals"
 byline: "By Richard Brinsley Sheridan"
 showtimes:

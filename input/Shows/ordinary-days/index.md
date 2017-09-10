@@ -1,3 +1,4 @@
+---
 title: "Ordinary Days"
 byline: "Music and Lyrics by Adam Gwon"
 showtimes:
@@ -12,7 +13,10 @@ headers:
   - "Headers\all-cast.jpg"
 ---
 
-> "[*Ordinary Days*] captures with stinging clarity that uneasy moment in youth when doubts begin to cloud hopes for a >future of unlimited possibility." — Charles Isherwood, The New York Times
+<blockquote class="blockquote">
+  <p>[Ordinary Days] captures with stinging clarity that uneasy moment in youth when doubts begin to cloud hopes for a future of unlimited possibility.</p>
+  <footer class="blockquote-footer">Charles Isherwood,<cite title=" The New York Times"> The New York Times</cite></footer>
+</blockquote>
 
 **From one of musical theatre's most exciting new composers comes *Ordinary Days*, a refreshingly honest and funny musical about making real connections in the city that never sleeps (but probably should at some point).**
 
