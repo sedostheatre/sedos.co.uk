@@ -16,9 +16,9 @@ Pipelines.Add("HeaderImages",
 );
 
 Pipelines.Add("UpcomingShows",
-    ReadFiles("Shows/*/index.yml"),    
-    Yaml(),
-    OrderBy((doc, ctx) => doc.Get<IEnumerable<DateTime>>("showtimes").OrderBy(x => x).First()),
+    ReadFiles("Shows/*/index.md"),    
+    FrontMatter(Yaml()),
+    	Markdown(),
     Meta("HomePageImage", (doc, ctx) => 
         ctx.Execute(
             new IModule[] {
@@ -29,8 +29,10 @@ Pipelines.Add("UpcomingShows",
             new IDocument[] {
                  doc
             }
-        ).First()
-    )
+        ).FirstOrDefault()
+    ),
+    Razor().WithViewStart("Layout/_ShowViewStart.cshtml"),
+    WriteFiles(".html")
 );
 
 Pipelines.Add("Sass",

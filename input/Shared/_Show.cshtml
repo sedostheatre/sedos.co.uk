@@ -1,0 +1,13 @@
+@{
+	Layout = "_Default";
+}
+
+@model IDocument
+
+<div class="page-wrapper">
+    <div class="container">
+        <h1>@Model["title"]</h1>
+        
+        @RenderBody()
+    </div>
+</div>

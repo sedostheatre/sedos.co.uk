@@ -3,7 +3,9 @@
 <div class="col-md-4 show-card-wrapper">
     <div class="show-card" style="background-image: url(@Context.GetLink(Model["HomePageImage"] as IDocument))">
         <div class="show-details">
-            <h2 class="show-title">@Model.Get("title","defaultName")</h2>
+            <a href="@Context.GetLink(Model)">
+                <h2 class="show-title">@Model["title"]</h2>
+            </a>
             <div class="show-byline">@Model["byline"]</div>
         </div>
     </div>

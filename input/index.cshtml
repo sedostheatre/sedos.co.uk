@@ -26,9 +26,15 @@
     <div class="upcoming-shows">
         <div class="container">
             <div class="row">        
-                @foreach(var document in Documents["UpcomingShows"].Take(3))
-                {
-                   Html.RenderPartial("Partials/_ShowCard", document);
+                @{
+                    var upcomignShows = Documents["UpcomingShows"]
+                        .Where(show => show.Get<IEnumerable<DateTime>>("showtimes").Any())
+                        .OrderBy(show => show.Get<IEnumerable<DateTime>>("showtimes").OrderBy(x => x).FirstOrDefault())    
+                        .Take(3);
+                    foreach(var document in upcomignShows) 
+                    {
+                        Html.RenderPartial("Partials/_ShowCard", document);
+                    }
                 }
             </div>
         </div>
