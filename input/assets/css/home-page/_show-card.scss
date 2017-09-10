@@ -2,6 +2,12 @@
     padding-top: 15px;
     padding-bottom: 15px;
 
+    .show-card-link {
+        &:hover {
+            text-decoration: none;
+        }
+    }
+
     .show-card {
         background: $blue;
         width: 100%;
@@ -18,13 +24,19 @@
 
         .show-details {
             width: 100%;
-            background: transparentize(#000000, 0.3);
+            background: transparentize($blue, 0.3);
         }
             
-        .show-title, .show-byline {
+        .show-title {
             text-align: center;
             width: 100%;
-            color: $light-blue;
-        }        
+            color: $white;
+        }
+
+        .show-byline {
+            text-align: center;
+            width: 100%;
+            color: darken($white, 20);
+        }
     }
 }
