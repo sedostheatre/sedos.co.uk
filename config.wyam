@@ -19,7 +19,6 @@ Pipelines.Add("UpcomingShows",
     ReadFiles("Shows/*/index.yml"),    
     Yaml(),
     OrderBy((doc, ctx) => doc.Get<IEnumerable<DateTime>>("showtimes").OrderBy(x => x).First()),
-    Take(3),
     Meta("HomePageImage", (doc, ctx) => 
         ctx.Execute(
             new IModule[] {

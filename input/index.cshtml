@@ -26,7 +26,7 @@
     <div class="upcoming-shows">
         <div class="container">
             <div class="row">        
-                @foreach(var document in Documents["UpcomingShows"])
+                @foreach(var document in Documents["UpcomingShows"].Take(3))
                 {
                    Html.RenderPartial("Partials/_ShowCard", document);
                 }
