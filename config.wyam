@@ -20,22 +20,18 @@ Pipelines.Add("UpcomingShows",
     Yaml(),
     OrderBy((doc, ctx) => doc.Get<IEnumerable<DateTime>>("showtimes").OrderBy(x => x).First()),
     Take(3),
-    Meta("ImageFilePath", (doc, ctx) => 
-        doc.DirectoryPath(Keys.RelativeFileDir).CombineFile(doc.Get<string>("flyer"))
-    ),
-    Meta("HomePageImagePath", (doc, ctx) => {
-        var inputFile = new FilePath(doc.Get<string>("flyer"));
-        var outputFile = new FilePath(inputFile.FileNameWithoutExtension + "-home").AppendExtension(inputFile.Extension);
-        return doc.DirectoryPath(Keys.RelativeFileDir).CombineFile(outputFile);
-    })
-);
-
-Pipelines.Add("UpcomingShowImages",
-    Documents("UpcomingShows"),
-    ReadFiles((doc, ctx) => doc.Get<string>("ImageFilePath")),
-    Image()
-        .SetJpegQuality(100).Resize(350, 400).SetSuffix("-home"),
-    WriteFiles()
+    Meta("HomePageImage", (doc, ctx) => 
+        ctx.Execute(
+            new IModule[] {
+                ReadFiles((doc2, ctx2) => doc.DirectoryPath(Keys.RelativeFileDir).CombineFile(doc.Get<string>("flyer"))),
+                Image().SetJpegQuality(100).Resize(350, 400).SetSuffix("-home"),
+                WriteFiles()
+            }, 
+            new IDocument[] {
+                 doc
+            }
+        ).First()
+    )
 );
 
 Pipelines.Add("Sass",
