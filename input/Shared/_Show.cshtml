@@ -3,11 +3,22 @@
 }
 
 @model IDocument
-
 <div class="page-wrapper">
+    @{
+        var headerImages = ((IEnumerable<IDocument>)Model["HeaderImages"]).ToList();
+        if(!headerImages.Any())
+        {
+            headerImages = Documents["HeaderImages"].ToList();
+        }
+
+        Html.RenderPartial("Partials/_NarrowHeaderCarousel", headerImages);
+    }
+    <div class="banner">
+        <div class="container">
+            <h1>@Model["title"]</h1>
+        </div>
+    </div>
     <div class="container">
-        <h1>@Model["title"]</h1>
-        
         @RenderBody()
     </div>
 </div>

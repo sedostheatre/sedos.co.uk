@@ -23,13 +23,25 @@ Pipelines.Add("UpcomingShows",
         ctx.Execute(
             new IModule[] {
                 ReadFiles((doc2, ctx2) => doc.DirectoryPath(Keys.RelativeFileDir).CombineFile(doc.Get<string>("flyer"))),
-                Image().SetJpegQuality(100).Resize(350, 400).SetSuffix("-home"),
+                Image().SetJpegQuality(100).Resize(350, 400),
                 WriteFiles()
             }, 
             new IDocument[] {
                  doc
             }
         ).FirstOrDefault()
+    ),
+    Meta("HeaderImages", (doc, ctx) => 
+        ctx.Execute(
+            new IModule[] {
+                ReadFiles((doc2, ctx2) => doc.DirectoryPath(Keys.RelativeFileDir).CombineFile("Headers/*.*")),
+                Image().SetJpegQuality(80).Resize(width: 1280, height: null),
+                WriteFiles()
+            }, 
+            new IDocument[] {
+                 doc
+            }
+        )
     ),
     Razor().WithViewStart("Layout/_ShowViewStart.cshtml"),
     WriteFiles(".html")

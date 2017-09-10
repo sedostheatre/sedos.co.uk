@@ -3,6 +3,8 @@
 }
 
 <div class="page-wrapper">
+    @Html.Partial("Partials/_NarrowHeaderCarousel", Documents["HeaderImages"].ToList())
+    
     <div class="container">
         @RenderBody()
     </div>

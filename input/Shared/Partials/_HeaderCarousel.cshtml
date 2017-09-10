@@ -1,0 +1,19 @@
+@model IReadOnlyCollection<IDocument>
+
+<div class="header-carousel">
+    <div class="carousel slide" data-ride="carousel">
+        <div class="carousel-inner" role="listbox">
+            @{
+                var firstHeaderImage = Model.First();
+                <div class="carousel-item header-carousel-image active" style="background-image: url(@Context.GetLink(firstHeaderImage))">
+                </div>
+            }
+            
+            @foreach(var headerImage in Model.Skip(1))
+            {
+                <div class="carousel-item header-carousel-image" style="background-image: url(@Context.GetLink(headerImage))">
+                </div>
+            }
+        </div>
+    </div>
+</div>

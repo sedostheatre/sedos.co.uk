@@ -28,26 +28,3 @@
         }        
     }
 }
-
-.header-carousel {
-    .header-carousel-image {
-        background-position-x: center;
-        background-position-y: center;
-        background-size: cover;
-        background-repeat: no-repeat;
-        height: 70vh;
-        border-radius: 0;
-    }
-}
-
-.banner {
-    width: 100%;
-    background: $blue;
-    color: $white;
-    padding: 0.4em 0;
-}
-
-.upcoming-shows {
-    background: $grey;
-    padding: 1em 0;
-}
