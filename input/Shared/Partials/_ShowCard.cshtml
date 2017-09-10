@@ -1,14 +1,13 @@
 @model IDocument
 
 <div class="col-md-4 show-card-wrapper">
-    <div class="show-card" style="background-image: url(@Context.GetLink(Model["HomePageImage"] as IDocument))">
-        <div class="show-details">
-            <a href="@Context.GetLink(Model)">
+    <a href="@Context.GetLink(Model)">
+        <div class="show-card" style="background-image: url(@Context.GetLink(Model["HomePageImage"] as IDocument))">
+            <div class="show-details">
                 <h2 class="show-title">@Model["title"]</h2>
-            </a>
-            <div class="show-byline">@Model["byline"]</div>
+                <div class="show-byline">@Model["byline"]</div>
+            </div>
         </div>
-    </div>
+    </a>
     <!-- show dates made friendly -->
-    <!-- link to show page -->
 </div>
