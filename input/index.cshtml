@@ -13,6 +13,7 @@
                 @{
                     var upcomignShows = Documents["UpcomingShows"]
                         .Where(show => show.Get<IEnumerable<DateTime>>("showtimes").Any())
+                        .Where(show => show.Get<IEnumerable<DateTime>>("showtimes").OrderBy(x=>x).Last() > DateTime.Now)
                         .OrderBy(show => show.Get<IEnumerable<DateTime>>("showtimes").OrderBy(x => x).FirstOrDefault())    
                         .Take(3);
                     foreach(var document in upcomignShows) 

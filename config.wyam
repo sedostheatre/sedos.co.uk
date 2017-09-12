@@ -19,17 +19,19 @@ Pipelines.Add("UpcomingShows",
     ReadFiles("Shows/*/index.md"),    
     FrontMatter(Yaml()),
     	Markdown(),
-    Meta("HomePageImage", (doc, ctx) => 
-        ctx.Execute(
-            new IModule[] {
-                ReadFiles((doc2, ctx2) => doc.DirectoryPath(Keys.RelativeFileDir).CombineFile(doc.Get<string>("flyer"))),
-                Image().SetJpegQuality(100).Resize(350, 400),
-                WriteFiles()
-            }, 
-            new IDocument[] {
-                 doc
-            }
-        ).FirstOrDefault()
+    If((doc, ctx) => doc.ContainsKey("flyer"), 
+        Meta("HomePageImage", (doc, ctx) => 
+            ctx.Execute(
+                new IModule[] {
+                    ReadFiles((doc2, ctx2) => doc.DirectoryPath(Keys.RelativeFileDir).CombineFile(doc.Get<string>("flyer"))),
+                    Image().SetJpegQuality(100).Resize(350, 400),
+                    WriteFiles()
+                }, 
+                new IDocument[] {
+                    doc
+                }
+            ).FirstOrDefault()
+        )
     ),
     Meta("HeaderImages", (doc, ctx) => 
         ctx.Execute(
@@ -53,8 +55,8 @@ Pipelines.Add("Sass",
     WriteFiles()
 );
 
-Pipelines.Add("Index",
-    ReadFiles("index.cshtml"),
+Pipelines.Add("RootHtml",
+    ReadFiles("*.cshtml"),
     Razor(),
 	WriteFiles(".html")
 );

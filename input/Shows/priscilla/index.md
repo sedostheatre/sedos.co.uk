@@ -3,5 +3,4 @@ title: "Priscilla"
 byline: ""
 showtimes:
   - 2017-11-22 19:30:00
-flyer: "home-page.jpg"
 ---

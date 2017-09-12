@@ -1,0 +1,29 @@
+@Html.Partial("Partials/_NarrowHeaderCarousel", Documents["HeaderImages"].ToList())
+
+<div class="all-shows-container">
+         
+    @{
+        var upcomingShows = Documents["UpcomingShows"]
+            .Where(show => show.Get<IEnumerable<DateTime>>("showtimes").Any())
+            .OrderBy(show => show.Get<IEnumerable<DateTime>>("showtimes").OrderBy(x => x).FirstOrDefault())
+            .GroupBy(show => show.Get<IEnumerable<DateTime>>("showtimes").OrderBy(x => x).First().Year)
+            .OrderByDescending(grouping => grouping.Key);
+        foreach(var grouping in upcomingShows)
+        {
+            <div class="banner">
+                <div class="container">
+                    <h1>@grouping.Key</h1>
+                </div>
+            </div>
+            
+            <div class="container">
+                <div class="row">   
+                    @foreach(var show in grouping) 
+                    {
+                        Html.RenderPartial("Partials/_ShowArchiveCard", show);
+                    }
+                </div>
+            </div>
+        }
+    }        
+</div>
