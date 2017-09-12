@@ -19,6 +19,39 @@
         </div>
     </div>
     <div class="container">
-        @RenderBody()
+        <div class="row">
+            <div class="col-md-8">
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus in nibh non nunc dignissim blandit eu ac est. Duis at cursus leo. Sed vel quam eu ante posuere pretium eget sit amet nunc. Duis placerat, augue consequat ultrices pellentesque, ex neque dictum dolor, quis feugiat justo leo id nunc. Mauris vulputate metus urna, eu pulvinar tellus ullamcorper sit amet. Mauris risus nisi, luctus eget nisl at, accumsan condimentum risus. Cras eros nisi, dignissim sit amet malesuada eget, laoreet eget purus. Nulla facilisi. Phasellus lobortis lacus vestibulum, dapibus orci ac, pellentesque urna. 
+
+                <ul class="nav nav-pills nav-fill">
+                    <li class="nav-item">
+                        <a class="nav-link active" href="#">Details</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Production Photos</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="#">Rehearsal Photos</a>
+                    </li>
+                </ul>
+                @RenderBody()
+            </div>
+            <div class="col-md-4">
+                <h4>@Model.Get("Venue")</h4>
+                @{
+                    var showDates = Model.Get("showtimes", Enumerable.Empty<DateTime>()).OrderBy(x => x);
+                    if(showDates.Any())
+                    {
+                        <ul>
+                            @foreach(var showDate in showDates)
+                            {
+                                <li>@showDate</li>
+                            }
+                        </ul>
+                    }
+                }
+                <button class="btn">Buy Tickets!</button>
+            </div>
+        </div>
     </div>
 </div>
