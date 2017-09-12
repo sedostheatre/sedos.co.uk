@@ -11,12 +11,12 @@
         <div class="container">
             <div class="row">        
                 @{
-                    var upcomignShows = Documents["UpcomingShows"]
+                    var upcomingShows = Documents["UpcomingShows"]
                         .Where(show => show.Get<IEnumerable<DateTime>>("showtimes").Any())
                         .Where(show => show.Get<IEnumerable<DateTime>>("showtimes").OrderBy(x=>x).Last() > DateTime.Now)
                         .OrderBy(show => show.Get<IEnumerable<DateTime>>("showtimes").OrderBy(x => x).FirstOrDefault())    
                         .Take(3);
-                    foreach(var document in upcomignShows) 
+                    foreach(var document in upcomingShows) 
                     {
                         Html.RenderPartial("Partials/_ShowCard", document);
                     }
