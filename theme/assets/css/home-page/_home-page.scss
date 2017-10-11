@@ -4,3 +4,29 @@
     background: $grey;
     padding: 1em 0;
 }
+
+.home-page-show-carousel-item {
+    background-position-x: center;
+    background-position-y: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 70vh;
+    border-radius: 0;
+    
+    a, a:focus, a:hover { 
+        color: white;
+        text-decoration: none;
+    }
+
+    .show-details {
+        background-color: rgba(0, 0, 0, 0.2);
+    }
+
+    .container {
+        height: 100%;
+
+        .row {
+            height: 100%;            
+        }        
+    }
+}

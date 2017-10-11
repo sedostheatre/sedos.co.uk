@@ -1,33 +1,26 @@
-@Html.Partial("Partials/_HeaderCarousel", Documents["HeaderImages"].ToList())
+<div class="header-carousel">
+    <div class="carousel slide" data-ride="carousel">
+        <div class="carousel-inner" role="listbox">
+            @{
+                var firstShow = Documents["UpcomingShows"].First();
 
-<div class="upcoming-shows-container">
-    <div class="banner">
-        <div class="container">
-            <h2>Upcoming shows</h2>
-        </div>
-    </div>
+                Html.RenderPartial("Partials/_HomePageCarouselItem", Tuple.Create(firstShow, true));
 
-    <div class="upcoming-shows">
-        <div class="container">
-            <div class="row">        
-                @{
-                    var upcomingShows = Documents["UpcomingShows"]
-                        .Where(show => show.Get<IEnumerable<DateTime>>("showtimes").Any())
-                        .Where(show => show.Get<IEnumerable<DateTime>>("showtimes").OrderBy(x=>x).Last() > DateTime.Now)
-                        .OrderBy(show => show.Get<IEnumerable<DateTime>>("showtimes").OrderBy(x => x).FirstOrDefault())    
-                        .Take(3);
-                    foreach(var document in upcomingShows) 
-                    {
-                        Html.RenderPartial("Partials/_ShowCard", document);
-                    }
-                }
-            </div>
+                foreach(var show in Documents["UpcomingShows"].Skip(1)) 
+                {
+                    Html.RenderPartial("Partials/_HomePageCarouselItem", Tuple.Create(show, false));
+                }                
+            }            
         </div>
     </div>
 </div>
 
+<div class="banner"> 
+    <div class="container">
+        <h2>News</h2>
+    </div>
+</div>
 <div class="container">
-    <h2>News</h2>
     <ul>
         <li>Priscilla first rehearsal</li>
         <li>Frankenstein....</li>
