@@ -16,7 +16,7 @@ Pipelines.Add("HeaderImages",
 );
 
 Pipelines.Add("UpcomingShows",
-    ReadFiles("Shows/*/index.md"),    
+    ReadFiles("Shows/*/*/index.md"),    
     FrontMatter(Yaml()),
     	Markdown(),
     If((doc, ctx) => doc.ContainsKey("flyer"), 
