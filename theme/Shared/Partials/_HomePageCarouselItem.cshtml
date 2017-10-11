@@ -1,0 +1,29 @@
+@model Tuple<IDocument, bool>
+
+@{
+    var homePageImageDocument = ((IEnumerable<IDocument>)Model.Item1["HeaderImages"]).FirstOrDefault();
+    var link = homePageImageDocument == null ? "" : Context.GetLink(homePageImageDocument);
+}
+
+<div class="home-page-show-carousel-item carousel-item @(Model.Item2 ? "active" : "")" style="background-image: url(@link)">
+    <a href="@Context.GetLink(Model.Item1)">
+        <div class="container">                        
+            <div class="row justify-content-end align-items-end">                                                        
+                <div class="show-details col-4">
+                    <h1>@Model.Item1["Title"]</h1>
+                    @{
+                        var dates = Model.Item1.Get<IEnumerable<DateTime>>("showtimes").OrderBy(x => x).Select(x => x.ToString("ddd d MMM yyyy")).Distinct();
+                        if(dates.Count() > 2) 
+                        {
+                            <h3>@dates.First() - @dates.Last()</h3>
+                        }
+                        if(dates.Count() == 1) 
+                        {
+                            <h3>@dates.Single()</h3>
+                        }                                        
+                    }                                    
+                </div>                                              
+            </div>
+        </div>
+    </a>                          
+</div>

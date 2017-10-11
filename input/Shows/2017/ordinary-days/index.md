@@ -9,8 +9,6 @@ showtimes:
   - 2017-09-30 19:00:00
 flyer: "home-page.jpg"
 venue: "Bridewell Theatre"
-headers:
-  - "Headers\all-cast.jpg"
 ---
 
 <blockquote class="blockquote">

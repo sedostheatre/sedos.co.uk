@@ -3,12 +3,12 @@
 <div class="all-shows-container">
          
     @{
-        var upcomingShows = Documents["UpcomingShows"]
+        var allShows = Documents["AllShows"]
             .Where(show => show.Get<IEnumerable<DateTime>>("showtimes").Any())
             .OrderBy(show => show.Get<IEnumerable<DateTime>>("showtimes").OrderBy(x => x).FirstOrDefault())
             .GroupBy(show => show.Get<IEnumerable<DateTime>>("showtimes").OrderBy(x => x).First().Year)
             .OrderByDescending(grouping => grouping.Key);
-        foreach(var grouping in upcomingShows)
+        foreach(var grouping in allShows)
         {
             <div class="banner">
                 <div class="container">
