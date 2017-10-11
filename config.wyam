@@ -15,7 +15,7 @@ Pipelines.Add("HeaderImages",
     WriteFiles()
 );
 
-Pipelines.Add("UpcomingShows",
+Pipelines.Add("AllShows",
     ReadFiles("Shows/*/*/index.md"),    
     FrontMatter(Yaml()),
     	Markdown(),
@@ -47,6 +47,18 @@ Pipelines.Add("UpcomingShows",
     ),
     Razor().WithViewStart("Layout/_ShowViewStart.cshtml"),
     WriteFiles(".html")
+);
+
+Pipelines.Add("UpcomingShows",
+    Documents("AllShows"),
+    Where((doc, ctx) => {
+        var showTimes = doc.Get<IEnumerable<DateTime>>("showtimes").OrderBy(x => x);
+        return showTimes.Any() && showTimes.Last() > DateTime.Now;
+    }),
+    OrderBy((doc, ctx) => {
+        return doc.Get<IEnumerable<DateTime>>("showtimes").OrderBy(x => x).First();
+    }),
+    Take(3)
 );
 
 Pipelines.Add("Sass",
