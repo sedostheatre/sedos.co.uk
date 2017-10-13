@@ -1,6 +1,6 @@
 ---
 title: "Ordinary Days"
-byline: "Music and Lyrics by Adam Gwon"
+subtitle: "Music and Lyrics by Adam Gwon"
 showtimes:
   - 2017-09-27 21:00:00
   - 2017-09-28 21:00:00

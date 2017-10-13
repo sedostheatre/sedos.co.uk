@@ -1,6 +1,6 @@
 ---
-title: "The Rivals"
-byline: "By Richard Brinsley Sheridan"
+title: The Rivals
+subtitle: By Richard Brinsley Sheridan
 showtimes:
   - 2017-09-19 19:30:00
   - 2017-09-20 19:30:00
@@ -8,5 +8,5 @@ showtimes:
   - 2017-09-22 19:30:00
   - 2017-09-23 14:30:00
   - 2017-09-23 19:30:00
-flyer: "home-page.jpg"
+flyer: home-page.jpg
 ---

@@ -1,6 +1,6 @@
 ---
 title: "The Nether"
-byline: "By Jeninifer Haley"
+subtitle: "By Jeninifer Haley"
 showtimes:
   - 2017-09-26 19:00:00
   - 2017-09-27 19:00:00

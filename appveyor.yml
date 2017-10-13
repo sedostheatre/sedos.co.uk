@@ -1,0 +1,32 @@
+branches:
+  only:
+    - master
+    
+environment:
+  access_token:
+    # EDIT the encrypted version of your GitHub access token
+    secure: Z7b3dGgsgmT9voKqDgZNtmsB/CMrRvgDzLDWyEAEejfgH9zGKxTUvFN3zKUa6LW5
+
+build_script:
+  - .\build.ps1 -Target "Build"
+
+on_success:
+  # Switch branches to gh-pages, clean the folder, copy everything in from the Wyam output, and commit/push
+  # See http://www.appveyor.com/docs/how-to/git-push for more info
+  - git config --global credential.helper store
+  # EDIT your Git email and name
+  - git config --global user.email $env:op_build_user_email
+  - git config --global user.name $env:op_build_user
+  - ps: Add-Content "$env:USERPROFILE\.git-credentials" "https://$($env:access_token):x-oauth-basic@github.com`n"
+  - git checkout gh-pages
+  - git rm -rf .
+  - xcopy ..\output . /E
+  # EDIT your domain name or remove if not using a custom domain
+  - echo sedos.l3v5y.co.uk > CNAME
+  # EDIT the origin of your repository - have to reset it here because AppVeyor pulls from SSH, but GitHub won't accept SSH pushes
+  - git remote set-url origin https://github.com/Wyamio/Wyam.Web.git
+  - git add -A
+  - git commit -a -m "Commit from AppVeyor"
+  - git push
+
+-- op_build_user_email

@@ -7,23 +7,24 @@
 
 <div class="home-page-show-carousel-item carousel-item @(Model.Item2 ? "active" : "")" style="background-image: url(@link)">
     <a href="@Context.GetLink(Model.Item1)">
-        <div class="container">                        
-            <div class="row justify-content-end align-items-end">                                                        
+        <div class="container">
+            <div class="row justify-content-end align-items-end">
                 <div class="show-details col-4">
                     <h1>@Model.Item1["Title"]</h1>
                     @{
-                        var dates = Model.Item1.Get<IEnumerable<DateTime>>("showtimes").OrderBy(x => x).Select(x => x.ToString("ddd d MMM yyyy")).Distinct();
-                        if(dates.Count() > 2) 
+                        if(!string.IsNullOrWhiteSpace(Model.Item1.Get("Subtitle", "")))
                         {
-                            <h3>@dates.First() - @dates.Last()</h3>
+                            <h2>@Model.Item1.Get("Subtitle","")</h2>
                         }
-                        if(dates.Count() == 1) 
+                    }
+                    @{
+                        if(!string.IsNullOrWhiteSpace(Model.Item1.Get("ShowtimeSummary", "")))
                         {
-                            <h3>@dates.Single()</h3>
-                        }                                        
-                    }                                    
-                </div>                                              
+                            <h3>@Model.Item1.Get("ShowtimeSummary","")</h3>
+                        }
+                    }
+                </div>
             </div>
         </div>
-    </a>                          
+    </a>
 </div>
