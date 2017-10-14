@@ -22,7 +22,11 @@
 </div>
 <div class="container">
     <ul>
-        <li>Priscilla first rehearsal</li>
-        <li>Frankenstein....</li>
+        @{
+            foreach(var newsItem in Documents["News"])
+            {
+                <li>@newsItem["Title"]</li>
+            }
+        }
     </ul>
 </div>

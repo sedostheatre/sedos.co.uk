@@ -61,6 +61,12 @@ Pipelines.Add("UpcomingShows",
     Take(3)
 );
 
+Pipelines.Add("News",
+    ReadFiles("news/*.md"),
+    FrontMatter(Yaml()),
+    Markdown()
+);
+
 Pipelines.Add("Sass",
     ReadFiles("assets/css/main.scss"),
     Sass().WithCompactOutputStyle(),
