@@ -4,6 +4,8 @@ branches:
   only:
   - master
 
+skip_branch_with_pr: true 
+
 environment:
   op_build_user_email: oliver.levett@softwire.com
   op_build_user: Oliver Levett
