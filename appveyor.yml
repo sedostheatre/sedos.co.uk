@@ -10,8 +10,8 @@
     access_token:
       secure: 9Nh/ksA0kj/DSf7MH0CtgiJ960vbX7A4+xwt/DKYihBEjD+aurjVqswu9clNt73H
   build_script:
-  - ps: .\build.ps1 -Target "Build"
-  on_success:
+    - ps: .\build.ps1 -Target "Build"
+  deploy_script:
     - xcopy .\output ..\output\ /E
     - git config --global credential.helper store
     - git config --global user.email $env:op_build_user_email
