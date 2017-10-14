@@ -1,32 +1,30 @@
+version: 1.0.{build}
+
 branches:
   only:
-    - master
-    
+  - master
+
 environment:
+  op_build_user_email: oliver.levett@softwire.com
+  op_build_user: Oliver Levett
   access_token:
-    # EDIT the encrypted version of your GitHub access token
-    secure: Z7b3dGgsgmT9voKqDgZNtmsB/CMrRvgDzLDWyEAEejfgH9zGKxTUvFN3zKUa6LW5
+    secure: 9Nh/ksA0kj/DSf7MH0CtgiJ960vbX7A4+xwt/DKYihBEjD+aurjVqswu9clNt73H
 
 build_script:
-  - .\build.ps1 -Target "Build"
-
-on_success:
-  # Switch branches to gh-pages, clean the folder, copy everything in from the Wyam output, and commit/push
-  # See http://www.appveyor.com/docs/how-to/git-push for more info
-  - git config --global credential.helper store
-  # EDIT your Git email and name
-  - git config --global user.email $env:op_build_user_email
-  - git config --global user.name $env:op_build_user
-  - ps: Add-Content "$env:USERPROFILE\.git-credentials" "https://$($env:access_token):x-oauth-basic@github.com`n"
-  - git checkout gh-pages
-  - git rm -rf .
-  - xcopy ..\output . /E
-  # EDIT your domain name or remove if not using a custom domain
-  - echo sedos.l3v5y.co.uk > CNAME
-  # EDIT the origin of your repository - have to reset it here because AppVeyor pulls from SSH, but GitHub won't accept SSH pushes
-  - git remote set-url origin https://github.com/Wyamio/Wyam.Web.git
-  - git add -A
-  - git commit -a -m "Commit from AppVeyor"
-  - git push
-
--- op_build_user_email
+- ps: .\build.ps1 -Target "Build"
+deploy_script:
+- ps: >-
+    xcopy .\output ..\output\ /E
+    git config --global credential.helper store
+    git config --global user.email $env:op_build_user_email
+    git config --global user.name $env:op_build_user
+    Add-Content "$env:USERPROFILE\.git-credentials" "https://$($env:access_token):x-oauth-basic@github.com`n"
+    git reset HEAD --hard
+    git checkout gh-pages
+    git rm -rf .
+    xcopy ..\output . /E
+    echo sedos.l3v5y.co.uk > CNAME
+    git remote set-url origin https://github.com/olevett/sedos.co.uk.git
+    git add -A
+    git commit -a -m "Commit from AppVeyor"
+    git push origin gh-pages
