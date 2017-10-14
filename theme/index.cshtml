@@ -22,7 +22,11 @@
 </div>
 <div class="container">
     <ul>
-        <li>Priscilla first rehearsal</li>
-        <li>Frankenstein....</li>
+        @{
+            foreach(var newsItem in Documents["LatestNews"])
+            {
+                <li><a href="@Context.GetLink(newsItem)">@newsItem["Title"]</a></li>
+            }
+        }
     </ul>
 </div>

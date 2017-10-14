@@ -1,7 +1,8 @@
-@Html.Partial("Partials/_NarrowHeaderCarousel", Documents["HeaderImages"].ToList())
+---
+title: Shows
+---
 
-<div class="all-shows-container">
-         
+<div class="all-shows-container">        
     @{
         var allShows = Documents["AllShows"]
             .Where(show => show.Get<IEnumerable<DateTime>>("showtimes").Any())
