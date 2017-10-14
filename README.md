@@ -22,3 +22,10 @@ Changes will be rebuilt and the page should update in sync.
   - Makes it easy to get up and running, doesn't need any special tools and handles bootstrapping itself
 - Sass for styling
   - Supported by wyam, nice syntax to work with
+- Bootstrap for framework
+  - Because it's easy :)
+- AppVeyor for CI
+  - Because I have an account and it mostly works
+- GitHub pages for hosting
+  - Up for debate, was just easy to get up and running
+ 
