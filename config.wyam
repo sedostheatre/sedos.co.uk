@@ -65,7 +65,7 @@ Pipelines.Add("News",
     ReadFiles("news/*.md"),
     FrontMatter(Yaml()),
     Markdown(),
-    Razor().WithViewStart("Layout/_PageViewStart.cshtml"),
+    Razor().WithViewStart("Layout/_NewsArticleViewStart.cshtml"),
     WriteFiles(".html")
 );
 
@@ -83,9 +83,16 @@ Pipelines.Add("Sass",
     WriteFiles()
 );
 
-Pipelines.Add("TopLevelPages",
-    ReadFiles("index.cshtml", "shows.cshtml", "news.cshtml"),
+Pipelines.Add("Index",
+    ReadFiles("index.cshtml"),
     Razor(),
+	WriteFiles(".html")
+);
+
+Pipelines.Add("TopLevelPages",
+    ReadFiles("shows.cshtml", "news.cshtml"),
+    FrontMatter(Yaml()),
+    Razor().WithViewStart("Layout/_PageViewStart.cshtml"),
 	WriteFiles(".html")
 );
 
