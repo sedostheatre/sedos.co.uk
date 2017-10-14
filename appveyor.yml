@@ -21,6 +21,7 @@ on_success:
   - git reset HEAD --hard
   - git checkout gh-pages
   - git rm -rf .
+  - git clean -fdx
   - xcopy ..\output . /E
   - echo sedos.l3v5y.co.uk > CNAME
   - git remote set-url origin https://github.com/olevett/sedos.co.uk.git
