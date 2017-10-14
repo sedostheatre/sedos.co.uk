@@ -64,7 +64,17 @@ Pipelines.Add("UpcomingShows",
 Pipelines.Add("News",
     ReadFiles("news/*.md"),
     FrontMatter(Yaml()),
-    Markdown()
+    Markdown(),
+    Razor().WithViewStart("Layout/_PageViewStart.cshtml"),
+    WriteFiles(".html")
+);
+
+Pipelines.Add("LatestNews", 
+    Documents("News"),
+    OrderBy((doc, ctx) => {
+        return doc.Get<DateTime>("date");
+    }).Descending(),
+    Take(3)
 );
 
 Pipelines.Add("Sass",
@@ -73,8 +83,8 @@ Pipelines.Add("Sass",
     WriteFiles()
 );
 
-Pipelines.Add("RootHtml",
-    ReadFiles("*.cshtml"),
+Pipelines.Add("TopLevelPages",
+    ReadFiles("index.cshtml", "shows.cshtml", "news.cshtml"),
     Razor(),
 	WriteFiles(".html")
 );

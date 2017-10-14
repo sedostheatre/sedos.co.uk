@@ -23,9 +23,9 @@
 <div class="container">
     <ul>
         @{
-            foreach(var newsItem in Documents["News"])
+            foreach(var newsItem in Documents["LatestNews"])
             {
-                <li>@newsItem["Title"]</li>
+                <li><a href="@Context.GetLink(newsItem)">@newsItem["Title"]</a></li>
             }
         }
     </ul>
