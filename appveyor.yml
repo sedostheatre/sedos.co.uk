@@ -9,10 +9,8 @@
     op_build_user: Oliver Levett
     access_token:
       secure: 9Nh/ksA0kj/DSf7MH0CtgiJ960vbX7A4+xwt/DKYihBEjD+aurjVqswu9clNt73H
-
   build_script:
   - ps: .\build.ps1 -Target "Build"
-
   on_success:
     - xcopy .\output ..\output\ /E
     - git config --global credential.helper store
@@ -29,7 +27,6 @@
     - git add -A
     - git commit -a -m "Commit from AppVeyor"
     - git push origin gh-pages
-
 -
   image: Visual Studio 2017
   branches:
