@@ -3,7 +3,7 @@
   branches:
     only:
     - master
-  version: {build}
+  version: "{build}"
   environment:
     op_build_user_email: oliver.levett@softwire.com
     op_build_user: Oliver Levett
@@ -35,7 +35,7 @@
   branches:
     except:
     - master
-  version: {build}
+  version: "{build}"
   build_script:
   - ps: .\build.ps1 -Target "Build"
   
