@@ -9,18 +9,18 @@
     <a href="@Context.GetLink(Model.Item1)">
         <div class="container">
             <div class="row justify-content-end align-items-end">
-                <div class="show-details col-4">
+                <div class="show-details col-md-4">
                     <h1>@Model.Item1["Title"]</h1>
                     @{
                         if(!string.IsNullOrWhiteSpace(Model.Item1.Get("Subtitle", "")))
                         {
-                            <h2>@Model.Item1.Get("Subtitle","")</h2>
+                            <h2 class="show-subtitle">@Model.Item1["Subtitle"]</h2>
                         }
                     }
                     @{
                         if(!string.IsNullOrWhiteSpace(Model.Item1.Get("ShowtimeSummary", "")))
                         {
-                            <h3>@Model.Item1.Get("ShowtimeSummary","")</h3>
+                            <h3 class="showtime-summary">@Model.Item1["ShowtimeSummary"]</h3>
                         }
                     }
                 </div>
