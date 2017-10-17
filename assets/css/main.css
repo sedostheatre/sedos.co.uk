@@ -39,3 +39,7 @@
 .home-page-show-carousel-item .container { height: 100%; }
 
 .home-page-show-carousel-item .container .row { height: 100%; }
+
+.social-icons { list-style: none; flex-direction: row; display: flex; padding: 0; float: right; }
+
+.social-icons .social-icon { height: 2rem; margin: 0 0.25rem; }
