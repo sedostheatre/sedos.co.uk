@@ -30,7 +30,11 @@
 
 .home-page-show-carousel-item a, .home-page-show-carousel-item a:focus, .home-page-show-carousel-item a:hover { color: white; text-decoration: none; }
 
-.home-page-show-carousel-item .show-details { background-color: rgba(0, 0, 0, 0.2); }
+.home-page-show-carousel-item .show-details { background-color: rgba(0, 0, 0, 0.4); }
+
+.home-page-show-carousel-item .show-details .show-subtitle { font-size: 1.5rem; }
+
+.home-page-show-carousel-item .show-details .showtime-summary { font-size: 1rem; }
 
 .home-page-show-carousel-item .container { height: 100%; }
 
