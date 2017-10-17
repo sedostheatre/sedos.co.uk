@@ -8,6 +8,11 @@
 
 Settings["title"] = "Sedos";
 
+Pipelines.Add("Social",
+    ReadFiles("social.yml"),
+    Yaml()
+);
+
 Pipelines.Add("HeaderImages",
     ReadFiles("assets/images/headers/*.*"),
     Image()
@@ -18,7 +23,7 @@ Pipelines.Add("HeaderImages",
 Pipelines.Add("AllShows",
     ReadFiles("Shows/*/*/index.md"),    
     FrontMatter(Yaml()),
-    	Markdown(),
+    Markdown(),
     If((doc, ctx) => doc.ContainsKey("flyer"), 
         Meta("HomePageImage", (doc, ctx) => 
             ctx.Execute(
