@@ -1,8 +1,26 @@
 <footer class="banner">
     <div class="container">
-        Resident at bridewell
-    
-        <div class="social">
+        <div class="row justify-content-between">
+            <div class="col-4">
+                <p>Resident at the <a href="http://www.sbf.org.uk/theatre">Bridewell Theatre</a></p>
+                <p>
+                    <small>Sedos is a registered charity No. 1099443</small>
+                </p>
+            </div>
+            <div class="col-4">
+                <div class="pull-right">
+                    <ul class="social-icons">                    
+                        @foreach(var social in Documents["Social"])  
+                        {
+                            <li>
+                                <a href="@social["url"]" aria-label="@social["name"]">
+                                    <img class="social-icon" src="@social["image"]"></img>
+                                </a>
+                            </li>
+                        }
+                    </ul>
+                </div>
+            </div>
         </div>
     </div>
 </footer>
