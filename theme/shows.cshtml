@@ -4,12 +4,27 @@ title: Shows
 
 <div class="all-shows-container">        
     @{
-        var allShows = Documents["AllShows"]
+        var futureShows = Documents["AllShows"]
             .Where(show => show.Get<IEnumerable<DateTime>>("showtimes").Any())
-            .OrderBy(show => show.Get<IEnumerable<DateTime>>("showtimes").OrderBy(x => x).FirstOrDefault())
+            .Where(show => show.Get<IEnumerable<DateTime>>("showtimes").OrderBy(x => x).Last() >= DateTime.Now);
+
+        var pastShows = Documents["AllShows"]
+            .Where(show => show.Get<IEnumerable<DateTime>>("showtimes").Any())
+            .Except(futureShows)
+            .OrderBy(show => show.Get<IEnumerable<DateTime>>("showtimes").OrderBy(x => x).First())
             .GroupBy(show => show.Get<IEnumerable<DateTime>>("showtimes").OrderBy(x => x).First().Year)
             .OrderByDescending(grouping => grouping.Key);
-        foreach(var grouping in allShows)
+
+        <div class="container">
+            <div class="row">   
+                @foreach(var show in futureShows) 
+                {
+                    Html.RenderPartial("Partials/_ShowArchiveCard", show);
+                }
+            </div>
+        </div>
+
+        foreach(var grouping in pastShows)
         {
             <div class="banner">
                 <div class="container">
