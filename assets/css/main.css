@@ -26,7 +26,9 @@
 
 .upcoming-shows { background: #ccc; padding: 1em 0; }
 
-.home-page-show-carousel-item { background-position-x: center; background-position-y: center; background-size: cover; background-repeat: no-repeat; height: 70vh; border-radius: 0; }
+.home-page-show-carousel-item { height: 70vh; border-radius: 0; }
+
+.home-page-show-carousel-item .home-page-image { background-position-x: center; background-position-y: center; background-size: cover; background-repeat: no-repeat; }
 
 .home-page-show-carousel-item a, .home-page-show-carousel-item a:focus, .home-page-show-carousel-item a:hover { color: white; text-decoration: none; }
 
@@ -36,9 +38,7 @@
 
 .home-page-show-carousel-item .show-details .showtime-summary { font-size: 1rem; }
 
-.home-page-show-carousel-item .container { height: 100%; }
-
-.home-page-show-carousel-item .container .row { height: 100%; }
+.home-page-show-carousel-item .row { height: 100%; }
 
 .social-icons { list-style: none; flex-direction: row; display: flex; padding: 0; float: right; }
 
