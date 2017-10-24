@@ -6,10 +6,13 @@
 }
 
 .home-page-show-carousel-item {
-    background-position-x: center;
-    background-position-y: center;
-    background-size: cover;
-    background-repeat: no-repeat;
+    .home-page-image{ 
+        background-position-x: center;
+        background-position-y: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+
     height: 70vh;
     border-radius: 0;
     
@@ -30,11 +33,7 @@
         }
     }
 
-    .container {
-        height: 100%;
-
-        .row {
-            height: 100%;            
-        }        
-    }
+    .row {
+        height: 100%;            
+    }        
 }
