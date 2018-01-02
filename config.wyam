@@ -17,6 +17,7 @@ Pipelines.Add("HeaderImages",
     ReadFiles("assets/images/headers/*.*"),
     Image()
         .SetJpegQuality(80).Resize(width: 1280, height: null),
+        OrderBy(@doc["Title"]),
     WriteFiles()
 );
 
