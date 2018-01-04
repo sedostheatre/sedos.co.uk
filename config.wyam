@@ -71,6 +71,7 @@ Pipelines.Add("News",
     ReadFiles("news/*.md"),
     FrontMatter(Yaml()),
     Markdown(),
+    Excerpt().WithOuterHtml(false),
     Razor().WithViewStart("Layout/_NewsArticleViewStart.cshtml"),
     WriteFiles(".html")
 );

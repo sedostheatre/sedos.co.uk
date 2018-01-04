@@ -21,12 +21,12 @@
     </div>
 </div>
 <div class="container">
-    <ul>
-        @{
-            foreach(var newsItem in Documents["LatestNews"])
-            {
-                <li><a href="@Context.GetLink(newsItem)">@newsItem["Title"]</a></li>
-            }
-        }
-    </ul>
+    <div class="row">   
+    @{
+        foreach(var newsItem in Documents["LatestNews"])
+        {
+            Html.RenderPartial("Partials/_NewsItemHomePageCard", @newsItem);
+        }    
+    }
+    </div>
 </div>
