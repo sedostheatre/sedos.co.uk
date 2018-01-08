@@ -146,3 +146,7 @@ Pipelines.Add("Markdown",
 Pipelines.Add("ImageAssets",
     CopyFiles("assets/images/**/*.*")
 );
+
+Pipelines.Add("NetlifyAdmin",
+    CopyFiles("admin/**/*.*")
+);
