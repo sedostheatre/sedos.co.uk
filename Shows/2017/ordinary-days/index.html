@@ -65,21 +65,19 @@
     
 <div class="container">
     <div class="row">
-        <div class="col-md-8">
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus in nibh non nunc dignissim blandit eu ac est. Duis at cursus leo. Sed vel quam eu ante posuere pretium eget sit amet nunc. Duis placerat, augue consequat ultrices pellentesque, ex neque dictum dolor, quis feugiat justo leo id nunc. Mauris vulputate metus urna, eu pulvinar tellus ullamcorper sit amet. Mauris risus nisi, luctus eget nisl at, accumsan condimentum risus. Cras eros nisi, dignissim sit amet malesuada eget, laoreet eget purus. Nulla facilisi. Phasellus lobortis lacus vestibulum, dapibus orci ac, pellentesque urna. 
-
-            <ul class="nav nav-pills nav-fill">
+        <div class="col-md-8" role="tabpanel">
+            <ul class="nav nav-tabs nav-fill" role="tablist" id="myTab">
                 <li class="nav-item">
-                    <a class="nav-link active" href="#">Details</a>
+                    <a class="nav-link active" id="details-tab" data-toggle="tab" href="#details" role="tab" aria-controls="details" aria-expanded="false">Details</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="#">Production Photos</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="#">Rehearsal Photos</a>
-                </li>
+                    <a class="nav-link" id="production-photos-tab" data-toggle="tab" href="#production-photos" role="tab" aria-controls="production-photos" aria-expanded="false">Production Photos</a>
+                </li>               
             </ul>
-            <blockquote class="blockquote">
+            <div class="tab-content" id="myTabContent">
+                <div role="tabpanel" class="tab-pane fade active show" id="details" aria-labelledby="details-tab" aria-expanded="false">
+                    <p>
+                        <blockquote class="blockquote">
   <p>[Ordinary Days] captures with stinging clarity that uneasy moment in youth when doubts begin to cloud hopes for a future of unlimited possibility.</p>
   <footer class="blockquote-footer">Charles Isherwood,<cite title=" The New York Times"> The New York Times</cite></footer>
 </blockquote>
@@ -89,6 +87,11 @@
 <p>For <em>Ordinary Days</em>, Adam Gwon won the 2008 Fred Ebb Award for excellence in musical theatre songwriting and the 2011 Kleban Award in the Lyricist category.</p>
 <p><strong>PLEASE NOTE</strong>: <em>Ordinary Days</em> is being performed as part of a two show evening of theatre and will take place after performances of drama The Nether.</p>
 
+                    </p>
+                </div>
+                <div class="tab-pane fade" id="production-photos" role="tabpanel" aria-labelledby="production-photos-tab" aria-expanded="true">
+                </div>
+            </div>
         </div>
         <div class="col-md-4">
             <h4>Bridewell Theatre</h4>
