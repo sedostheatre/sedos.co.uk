@@ -3,4 +3,8 @@
     background: $blue;
     color: $white;
     padding: 0.4em 0;
+
+    &.empty-divider {
+        height: 3em;
+    }
 }
