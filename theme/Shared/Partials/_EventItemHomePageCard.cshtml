@@ -1,0 +1,14 @@
+@model IDocument
+
+<div class="col-md-3 col-sm-6">
+    <div class="card event-card">
+        <div class="card-block event-excerpt" style="background-image: url(@Context.GetLink((IDocument)Model["LeadImage"]))">
+            <h4 class="card-title">@Model["title"]</h4>
+        </div>
+        <div class="card-footer text-muted">
+            <a href="@Context.GetLink(Model)" >
+                see more...
+            </a>
+        </div>
+    </div>
+</div>

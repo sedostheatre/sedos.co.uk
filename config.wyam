@@ -81,7 +81,39 @@ Pipelines.Add("LatestNews",
     OrderBy((doc, ctx) => {
         return doc.Get<DateTime>("date");
     }).Descending(),
-    Take(3)
+    Take(4)
+);
+
+Pipelines.Add("Events",
+    ReadFiles("events/*.md"),
+    FrontMatter(Yaml()),
+    Markdown().UseExtension<Markdig.Extensions.Bootstrap.BootstrapExtension>(),
+    Excerpt().WithOuterHtml(false),
+    Meta("LeadImage", (doc, ctx) => 
+        ctx.Execute(
+            new IModule[] {
+                ReadFiles((doc2, ctx2) => doc.DirectoryPath(Keys.RelativeFileDir).CombineFile(doc.Get<string>("image"))),
+                Image().SetJpegQuality(100).Resize(300, 300),
+                WriteFiles()
+            }, 
+            new IDocument[] {
+                doc
+            }
+        ).FirstOrDefault()
+    ),
+    Razor().WithViewStart("Layout/_EventViewStart.cshtml"),
+    WriteFiles(".html")
+);
+
+Pipelines.Add("UpcomingEvents", 
+    Documents("Events"),
+    Where((doc, ctx) => {
+        return doc.Get<IEnumerable<DateTime>>("times").Any(time => time > DateTime.Now);
+    }),
+    OrderBy((doc, ctx) => {
+        return doc.Get<IEnumerable<DateTime>>("times").Where(time => time > DateTime.Now).OrderBy(time => time).First();
+    }),
+    Take(4)
 );
 
 Pipelines.Add("Sass",
