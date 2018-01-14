@@ -129,7 +129,7 @@ Pipelines.Add("Index",
 );
 
 Pipelines.Add("TopLevelPages",
-    ReadFiles("shows.cshtml", "news.cshtml"),
+    ReadFiles("whatson.cshtml", "news.cshtml"),
     FrontMatter(Yaml()),
     Razor().WithViewStart("Layout/_PageViewStart.cshtml"),
 	WriteFiles(".html")
