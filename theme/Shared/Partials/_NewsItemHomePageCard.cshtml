@@ -1,12 +1,15 @@
 @model IDocument
 
 <div class="col-md-3 col-sm-6">
-    <a href="@Context.GetLink(Model)" >
-        <div class="card">
-            <div class="card-block">
-                <h4 class="card-title">@Model["title"]</h4>
-                <p class="card-text">@Html.Raw(Model["Excerpt"])</p>
-            </div>
+    <div class="card news-card">
+        <div class="card-block news-excerpt">
+            <h4 class="card-title">@Model["title"]</h4>
+            <p class="card-text ">@Html.Raw(Model["Excerpt"])</p>
         </div>
-    </a>
+        <div class="card-footer text-muted">
+            <a href="@Context.GetLink(Model)" >
+                see more...
+            </a>
+        </div>
+    </div>
 </div>
