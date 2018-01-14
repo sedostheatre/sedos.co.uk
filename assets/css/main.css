@@ -10,6 +10,8 @@
 
 .banner { width: 100%; background: #044484; color: #ffffff; padding: 0.4em 0; }
 
+.banner.empty-divider { height: 3em; }
+
 .header-carousel .header-carousel-image { background-position-x: center; background-position-y: center; background-size: cover; background-repeat: no-repeat; height: 70vh; border-radius: 0; }
 
 .header-carousel-narrow .header-carousel-image { background-position-x: center; background-position-y: center; background-size: cover; background-repeat: no-repeat; height: 40vh; border-radius: 0; }
