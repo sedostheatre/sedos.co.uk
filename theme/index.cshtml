@@ -31,3 +31,20 @@
     }
     </div>
 </div>
+
+<div class="banner"> 
+    <div class="container">
+        <h2>Events</h2>
+    </div>
+</div>
+
+<div class="container events-section">
+    <div class="row">   
+    @{
+        foreach(var eventItem in Documents["UpcomingEvents"])
+        {
+            Html.RenderPartial("Partials/_EventItemHomePageCard", @eventItem);
+        }    
+    }
+    </div>
+</div>
