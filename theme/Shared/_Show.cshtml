@@ -1,8 +1,22 @@
 @{
-	Layout = "_Page";
+	Layout = "_Default";
 }
 
 @model IDocument
+
+<div class="header-carousel">
+    <div class="carousel slide" data-ride="carousel">
+        <div class="carousel-inner" role="listbox">
+            @{
+                Html.RenderPartial("Partials/_HomePageCarouselItem", Tuple.Create(Model, true));
+            }            
+        </div>
+    </div>
+</div>
+
+<div class="banner empty-divider"> 
+</div>
+
 <div class="container">
     <div class="row">
         <div class="col-md-8" role="tabpanel">
