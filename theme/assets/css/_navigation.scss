@@ -20,3 +20,16 @@
     padding-top: 0;
     padding-bottom: 0;
 }
+
+.btn.btn-buy-tickets {
+    color: $highlight;
+    border-color: $highlight;
+
+    &:active, &:hover {
+        color: $blue;
+        background-color: $highlight;
+        border-color: $highlight;
+    }
+}
+
+
