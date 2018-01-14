@@ -8,6 +8,10 @@
 
 .navbar-brand .nav-link { color: #ffffff; }
 
+.btn.btn-buy-tickets { color: #ffe484; border-color: #ffe484; }
+
+.btn.btn-buy-tickets:active, .btn.btn-buy-tickets:hover { color: #044484; background-color: #ffe484; border-color: #ffe484; }
+
 .banner { width: 100%; background: #044484; color: #ffffff; padding: 0.4em 0; }
 
 .banner.empty-divider { height: 3em; }
