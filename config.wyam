@@ -24,7 +24,7 @@ Pipelines.Add("HeaderImages",
 Pipelines.Add("AllShows",
     ReadFiles("Shows/*/*/index.md"),    
     FrontMatter(Yaml()),
-    Markdown(),
+    Markdown().UseExtension<Markdig.Extensions.Bootstrap.BootstrapExtension>(),
     If((doc, ctx) => doc.ContainsKey("flyer"), 
         Meta("HomePageImage", (doc, ctx) => 
             ctx.Execute(
@@ -70,7 +70,7 @@ Pipelines.Add("UpcomingShows",
 Pipelines.Add("News",
     ReadFiles("news/*.md"),
     FrontMatter(Yaml()),
-    Markdown(),
+    Markdown().UseExtension<Markdig.Extensions.Bootstrap.BootstrapExtension>(),
     Excerpt().WithOuterHtml(false),
     Razor().WithViewStart("Layout/_NewsArticleViewStart.cshtml"),
     WriteFiles(".html")
@@ -106,7 +106,7 @@ Pipelines.Add("TopLevelPages",
 Pipelines.Add("Markdown",
 	ReadFiles("*.md"),    
 	FrontMatter(Yaml()),
-	Markdown(),
+	Markdown().UseExtension<Markdig.Extensions.Bootstrap.BootstrapExtension>(),
     Razor().WithViewStart("Layout/_PageViewStart.cshtml"),
     WriteFiles(".html")
 );
