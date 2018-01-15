@@ -23,11 +23,11 @@ collections:
         fields:
           - {wlabel: "show time", widget: "datetime", format: "YYYY-MM-DD hh:mmZ"}
       - {label: "Show details", name: "body", widget: "markdown"}
-  - name: "shows-details" 
+  - name: "show-details" 
     label: "Show Details"
     description: >
       Details about shows
-    folder: "input/shows-details"
+    folder: "input/show-details"
     slug: "{{title}}"
     create: true
     fields:
