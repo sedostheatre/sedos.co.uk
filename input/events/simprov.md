@@ -2,7 +2,7 @@
 title: Simprov
 times:
   - 2018-01-26 19:30:00
-image: banner.jpg
+image: assets/images/events/simprov-banner.jpg
 ---
 
 Simprov happens fortnightly. Some other copy should probably go in here.
