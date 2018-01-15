@@ -41,7 +41,7 @@ Pipelines.Add("AllShows",
         ctx.Execute(
             new IModule[] {
                 ReadFiles((doc2, ctx2) => doc.Get<string>("flyer")),
-                Image().SetJpegQuality(80).Resize(350, 400),
+                Image().SetJpegQuality(80).Resize(width: null, height: 360),
                 WriteFiles()
             }, 
             new IDocument[] {

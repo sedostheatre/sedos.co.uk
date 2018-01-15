@@ -11,6 +11,7 @@ showtimes:
 primary-color: "#B1D1FC"
 showtime-summary: Tues 23 Jan - Sat 27 Jan, 7:30pm (Sat matinee 2:30pm)
 header-image: assets/images/headers/2018-dolls-house-flyerimage.jpg
+flyer: assets/images/flyers/2018-dolls-house-flyerimage.jpg
 ---
 
 > I think I'm a human being before anything else. I don't care what other people say. I don't care what people write in books. I need to think for myself.
