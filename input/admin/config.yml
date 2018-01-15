@@ -5,7 +5,6 @@ backend:
   branch: master
   repo: olevett/sedos.co.uk
 
-
 collections:
   - name: "shows"
     label: "Show"
@@ -15,14 +14,24 @@ collections:
     slug: "{{title}}"
     create: true
     fields:
-      - {label: "Title", name: "title", widget: "string", tagname: "h1"}
-      - {label: "Subtitle", name: "subtitle", widget: "string", tagname: "h2"}
+      - label: "Title"
+        name: "title"
+        widget: "string"
+        tagname: "h1"
+      - label: "Subtitle"
+        name: "subtitle"
+        widget: "string"
+        tagname: "h2"
       - name: showtimes
         label: Show times
         widget: list
         fields:
-          - {wlabel: "show time", widget: "datetime", format: "YYYY-MM-DD hh:mmZ"}
-      - {label: "Show details", name: "body", widget: "markdown"}
+          - label: "show time"
+            widget: "datetime"
+            format: "YYYY-MM-DD hh:mmZ"
+      - label: "Show details"
+        name: "body"
+        widget: "markdown"
   - name: "show-details" 
     label: "Show Details"
     description: >
@@ -31,9 +40,18 @@ collections:
     slug: "{{title}}"
     create: true
     fields:
-      - {label: "Show", name: "show", widget: "relation", collection: "shows", searchFields: "[title]", valueField: "title"}
-      - {label: "Section", name: "section", widget: "string"}
-      - {label: "Section content", name: "body", widget: "markdown"}
+      - label: "Show"
+        name: "show"
+        widget: "relation"
+        collection: "shows"
+        searchFields: "[title]"
+        valueField: "title"
+      - label: "Section"
+        name: "section"
+        widget: "string"
+      - label: "Section content"  
+        name: "body"
+        widget: "markdown"
   - name: "news" 
     label: "News"
     description: >
@@ -42,9 +60,17 @@ collections:
     slug: "{{title}}"
     create: true
     fields:
-      - {label: "Title", name: "title", widget: "string", tagname: "h1"}
-      - {label: "Publish Date", name: "date", widget: "date", format: "YYYY-MM-DD"}
-      - {label: "Article content", name: "body", widget: "markdown"}
+      - label: "Title"
+        name: "title"
+        widget: "string"
+        tagname: "h1"
+      - label: "Publish Date"
+        name: "date"
+        widget: "date"
+        format: "YYYY-MM-DD"
+      - label: "Article content"
+        name: "body"
+        widget: "markdown"
   - name: "events" 
     label: "Event"
     description: >
@@ -53,11 +79,19 @@ collections:
     slug: "{{title}}"
     create: true
     fields:
-      - {label: "Title", name: "title", widget: "string", tagname: "h1"}
-      - {label: "Publish Date", name: "date", widget: "date", format: "YYYY-MM-DD"}
-      - {label: "Article content", name: "body", widget: "markdown"}
-      - name: times
-        label: Event times
+      - label: "Title"
+        name: "title"
+        widget: "string"
+        tagname: "h1"
+      - label: "Publish Date"
+        name: "date"
+        widget: "date"
+        format: "YYYY-MM-DD"
+      - label: "Article content"
+        name: "body"
+        widget: "markdown"
+      - label: Event times
+        name: times        
         widget: list
         fields:
           - {wlabel: "event time", widget: "datetime", format: "YYYY-MM-DD hh:mmZ"}
