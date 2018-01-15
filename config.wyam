@@ -21,6 +21,12 @@ Pipelines.Add("FallbackHeaders",
     WriteFiles()
 );
 
+Pipelines.Add("ShowDetails",
+    ReadFiles("show-details/*.md"),
+    FrontMatter(Yaml()),
+    Markdown().UseExtension<Markdig.Extensions.Bootstrap.BootstrapExtension>()
+);
+
 Pipelines.Add("AllShows",
     ReadFiles("shows/*.md"),    
     FrontMatter(Yaml()),
@@ -73,6 +79,7 @@ Pipelines.Add("News",
     Razor().WithViewStart("Layout/_NewsArticleViewStart.cshtml"),
     WriteFiles(".html")
 );
+
 
 Pipelines.Add("LatestNews", 
     Documents("News"),
