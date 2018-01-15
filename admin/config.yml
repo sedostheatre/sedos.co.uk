@@ -2,7 +2,7 @@ media_folder: "input/assets/uploads"
 
 backend:
   name: git-gateway
-  branch: netlify
+  branch: netlify-cms
   repo: olevett/sedos.co.uk
 
 
