@@ -22,4 +22,4 @@ collections: # A list of collections the CMS should be able to edit
         label: Show times
         widget: list
         fields:
-          - {label: "Name", name: "name", widget: "datetime", format: "YYYY-MM-DD hh:mma"}
+          - {widget: "datetime", format: "YYYY-MM-DD hh:mma"}
