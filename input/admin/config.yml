@@ -6,33 +6,61 @@ backend:
   repo: olevett/sedos.co.uk
 
 
-collections: # A list of collections the CMS should be able to edit
-  - name: "shows" # Used in routes, ie.: /admin/collections/:slug/edit
-    label: "Show" # Used in the UI, ie.: "New Post"
+collections:
+  - name: "shows"
+    label: "Show"
     description: >
       Somewhere to put shows
     folder: "input/shows"
-    slug: "{{year}}-{{title}}"
-    create: true # Allow users to create new documents in this collection
-    fields: # The fields each document in this collection have
+    slug: "{{title}}"
+    create: true
+    fields:
       - {label: "Title", name: "title", widget: "string", tagname: "h1"}
       - {label: "Subtitle", name: "subtitle", widget: "string", tagname: "h2"}
-      - {label: "Publish Date", name: "date", widget: "datetime", format: "YYYY-MM-DD hh:mma"}
       - name: showtimes
         label: Show times
         widget: list
         fields:
           - {wlabel: "show time", widget: "datetime", format: "YYYY-MM-DD hh:mmZ"}
       - {label: "Show details", name: "body", widget: "markdown"}
-  - name: "shows-details" # Used in routes, ie.: /admin/collections/:slug/edit
-    label: "Show" # Used in the UI, ie.: "New Post"
+  - name: "shows-details" 
+    label: "Show Details"
     description: >
-      Somewhere to put shows
+      Details about shows
     folder: "input/shows-details"
     slug: "{{title}}"
-    create: true # Allow users to create new documents in this collection
-    fields: # The fields each document in this collection have
+    create: true
+    fields:
       - {label: "Show", name: "show", widget: "relation", collection: "shows", searchFields: "[title]", valueField: "title"}
       - {label: "Section", name: "section", widget: "string"}
       - {label: "Section content", name: "body", widget: "markdown"}
-
+  - name: "news" 
+    label: "News"
+    description: >
+      News articles
+    folder: "input/news"
+    slug: "{{title}}"
+    create: true
+    fields:
+      - {label: "Title", name: "title", widget: "string", tagname: "h1"}
+      - {label: "Publish Date", name: "date", widget: "date", format: "YYYY-MM-DD"}
+      - {label: "Article content", name: "body", widget: "markdown"}
+  - name: "events" 
+    label: "Event"
+    description: >
+      Events
+    folder: "input/events"
+    slug: "{{title}}"
+    create: true
+    fields:
+      - {label: "Title", name: "title", widget: "string", tagname: "h1"}
+      - {label: "Publish Date", name: "date", widget: "date", format: "YYYY-MM-DD"}
+      - {label: "Article content", name: "body", widget: "markdown"}
+      - name: times
+        label: Event times
+        widget: list
+        fields:
+          - {wlabel: "event time", widget: "datetime", format: "YYYY-MM-DD hh:mmZ"}
+      - label: "Featured Image"
+        name: "image"
+        widget: "image"
