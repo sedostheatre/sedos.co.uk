@@ -4,3 +4,20 @@ backend:
   name: git-gateway
   branch: netlify
   repo: olevett/sedos.co.uk
+
+
+collections: # A list of collections the CMS should be able to edit
+  - name: "shows" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Show" # Used in the UI, ie.: "New Post"
+    description: >
+      Somewhere to put shows
+    folder: "_posts"
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      - {label: "Title", name: "title", widget: "string", tagname: "h1"}
+      - {label: "Publish Date", name: "date", widget: "datetime", format: "YYYY-MM-DD hh:mma"}
+      - {label: "Cover Image", name: "image", widget: "image", required: false, tagname: ""}
+      - {label: "Body", name: "body", widget: "markdown"}
+    meta:
+      - {label: "SEO Description", name: "description", widget: "text"}
