@@ -11,8 +11,8 @@ collections: # A list of collections the CMS should be able to edit
     label: "Show" # Used in the UI, ie.: "New Post"
     description: >
       Somewhere to put shows
-    folder: "input/Shows"
-    slug: "{{year}}/{{slug}}/index"
+    folder: "input/shows"
+    slug: "{{year}}-{{title}}"
     create: true # Allow users to create new documents in this collection
     fields: # The fields each document in this collection have
       - {label: "Title", name: "title", widget: "string", tagname: "h1"}
@@ -22,4 +22,17 @@ collections: # A list of collections the CMS should be able to edit
         label: Show times
         widget: list
         fields:
-          - {label: "Name", name: "name", widget: "datetime", format: "YYYY-MM-DD hh:mma"}
+          - {wlabel: "show time", widget: "datetime", format: "YYYY-MM-DD hh:mmZ"}
+      - {label: "Show details", name: "body", widget: "markdown"}
+  - name: "shows-details" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Show" # Used in the UI, ie.: "New Post"
+    description: >
+      Somewhere to put shows
+    folder: "input/shows-details"
+    slug: "{{title}}"
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      - {label: "Show", name: "show", widget: "relation", collection: "shows", searchFields: "[title]", valueField: "title"}
+      - {label: "Section", name: "section", widget: "string"}
+      - {label: "Section content", name: "body", widget: "markdown"}
+
