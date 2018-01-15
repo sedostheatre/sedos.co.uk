@@ -93,8 +93,6 @@ collections:
       - label: Event times
         name: times        
         widget: list
-        fields:
-          - {wlabel: "event time", widget: "datetime", format: "YYYY-MM-DD hh:mmZ"}
       - label: "Featured Image"
         name: "image"
         widget: "image"
