@@ -1,4 +1,4 @@
-media_folder: "input/assets/uploads"
+media_folder: "input/assets"
 
 backend:
   name: git-gateway
