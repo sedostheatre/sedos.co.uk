@@ -2,5 +2,24 @@ media_folder: "input/assets/uploads"
 
 backend:
   name: git-gateway
-  branch: netlify
+  branch: master
   repo: olevett/sedos.co.uk
+
+
+collections: # A list of collections the CMS should be able to edit
+  - name: "shows" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "Show" # Used in the UI, ie.: "New Post"
+    description: >
+      Somewhere to put shows
+    folder: "input/Shows"
+    slug: "{{year}}/{{slug}}/index"
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      - {label: "Title", name: "title", widget: "string", tagname: "h1"}
+      - {label: "Subtitle", name: "subtitle", widget: "string", tagname: "h2"}
+      - {label: "Publish Date", name: "date", widget: "datetime", format: "YYYY-MM-DD hh:mma"}
+      - name: showtimes
+        label: Show times
+        widget: list
+        fields:
+          - {label: "Name", name: "name", widget: "datetime", format: "YYYY-MM-DD hh:mma"}
