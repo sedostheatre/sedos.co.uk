@@ -25,7 +25,7 @@ collections:
       - name: showtimes
         label: Show times
         widget: list
-        fields:
+        field:
           - label: "show time"
             widget: "datetime"
             format: "YYYY-MM-DD hh:mmZ"
