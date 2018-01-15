@@ -8,7 +8,7 @@ showtimes:
   - 2017-09-30 14:30:00
   - 2017-09-30 19:00:00
 flyer: "home-page.jpg"
-venue: "Bridewell Theatre"
+header-image: assets/images/headers/2017-ordinary-days-header-image.jpg
 ---
 
 <blockquote class="blockquote">

@@ -1,7 +1,7 @@
 @model Tuple<IDocument, bool>
 
 @{
-    var homePageImageDocument = ((IEnumerable<IDocument>)Model.Item1["HeaderImages"]).FirstOrDefault();
+    var homePageImageDocument = (IDocument)Model.Item1["header-image"];
     var link = homePageImageDocument == null ? "" : Context.GetLink(homePageImageDocument);
 }
 
@@ -19,9 +19,9 @@
                     }
                 }
                 @{
-                    if(!string.IsNullOrWhiteSpace(Model.Item1.Get("ShowtimeSummary", "")))
+                    if(!string.IsNullOrWhiteSpace(Model.Item1.Get("showtime-summary", "")))
                     {
-                        <h3 class="showtime-summary">@Model.Item1["ShowtimeSummary"]</h3>
+                        <h3 class="showtime-summary">@Model.Item1["showtime-summary"]</h3>
                     }
                 }
             </div>

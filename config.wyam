@@ -13,8 +13,8 @@ Pipelines.Add("Social",
     Yaml()
 );
 
-Pipelines.Add("HeaderImages",
-    ReadFiles("assets/images/headers/*.*"),
+Pipelines.Add("FallbackHeaders",
+    ReadFiles("assets/images/headers/fallback/*.*"),
     Image()
         .SetJpegQuality(80).Resize(width: 1280, height: null),
     OrderBy(@doc["Title"]),
@@ -22,34 +22,32 @@ Pipelines.Add("HeaderImages",
 );
 
 Pipelines.Add("AllShows",
-    ReadFiles("Shows/*/*/index.md"),    
+    ReadFiles("shows/*.md"),    
     FrontMatter(Yaml()),
     Markdown().UseExtension<Markdig.Extensions.Bootstrap.BootstrapExtension>(),
-    If((doc, ctx) => doc.ContainsKey("flyer"), 
-        Meta("HomePageImage", (doc, ctx) => 
-            ctx.Execute(
-                new IModule[] {
-                    ReadFiles((doc2, ctx2) => doc.DirectoryPath(Keys.RelativeFileDir).CombineFile(doc.Get<string>("flyer"))),
-                    Image().SetJpegQuality(100).Resize(350, 400),
-                    WriteFiles()
-                }, 
-                new IDocument[] {
-                    doc
-                }
-            ).FirstOrDefault()
-        )
-    ),
-    Meta("HeaderImages", (doc, ctx) => 
+    Meta("header-image", (doc, ctx) => 
         ctx.Execute(
             new IModule[] {
-                ReadFiles((doc2, ctx2) => doc.DirectoryPath(Keys.RelativeFileDir).CombineFile("Headers/*.*")),
-                Image().SetJpegQuality(80).Resize(width: 1280, height: null),
+                ReadFiles((doc2, ctx2) => doc.Get<string>("header-image")),
+                Image().SetJpegQuality(80).Resize(width: 1280, height: null), 
                 WriteFiles()
             }, 
             new IDocument[] {
-                 doc
+                doc
             }
-        )
+        ).FirstOrDefault()
+    ),
+    Meta("flyer", (doc, ctx) => 
+        ctx.Execute(
+            new IModule[] {
+                ReadFiles((doc2, ctx2) => doc.Get<string>("flyer")),
+                Image().SetJpegQuality(80).Resize(350, 400),
+                WriteFiles()
+            }, 
+            new IDocument[] {
+                doc
+            }
+        ).FirstOrDefault()
     ),
     Razor().WithViewStart("Layout/_ShowViewStart.cshtml"),
     WriteFiles(".html")
@@ -89,10 +87,10 @@ Pipelines.Add("Events",
     FrontMatter(Yaml()),
     Markdown().UseExtension<Markdig.Extensions.Bootstrap.BootstrapExtension>(),
     Excerpt().WithOuterHtml(false),
-    Meta("LeadImage", (doc, ctx) => 
+    Meta("image", (doc, ctx) => 
         ctx.Execute(
             new IModule[] {
-                ReadFiles((doc2, ctx2) => doc.DirectoryPath(Keys.RelativeFileDir).CombineFile(doc.Get<string>("image"))),
+                ReadFiles((doc2, ctx2) => doc.Get<string>("image")),
                 Image().SetJpegQuality(100).Resize(300, 300),
                 WriteFiles()
             }, 
