@@ -8,9 +8,9 @@
 <div class="home-page-show-carousel-item carousel-item @(Model.Item2 ? "active" : "")">
     <a href="@Context.GetLink(Model.Item1)">
         <div class="row">
-            <div class="col home-page-image" style="background-image: url(@link)">
+            <div class="col-md home-page-image" style="background-image: url(@link)">
             </div>
-            <div class="col" style="background: @Model.Item1.Get("primary-color","#044484")">
+            <div class="col-md home-page-details" style="background: @Model.Item1.Get("primary-color","#044484")">
                 <h1 class="show-title">@Model.Item1["Title"]</h1>
                 @{
                     if(!string.IsNullOrWhiteSpace(Model.Item1.Get("Subtitle", "")))

@@ -29,9 +29,21 @@
     .row {
         height: 100%;
     }
-
+    
     h1.show-title {
-        font-size: 6em;
+        font-size: 4.5em;
+        font-weight: 900;
+        margin-bottom: 0;
+    }
+
+    h2.show-subtitle {
+        font-size: 2em;
+        font-weight: 700;
+    }
+
+    h3.showtime-summary {
+        font-size: 1.5em;
+        font-weight: 300;
     }
 }
 
