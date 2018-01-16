@@ -1,17 +1,13 @@
 ---
-title: "A Doll's House"
-subtitle: "Something something subtitle"
+title: A Doll's House
+subtitle: Something something subtitle
 showtimes:
-  - 2018-01-23 19:30:00
-  - 2018-01-24 19:30:00
-  - 2018-01-25 19:30:00
-  - 2018-01-26 19:30:00
-  - 2018-01-27 19:30:00
-  - 2018-01-27 14:30:00
-primary-color: "#B1D1FC"
-showtime-summary: Tues 23 Jan - Sat 27 Jan, 7:30pm (Sat matinee 2:30pm)
-header-image: assets/images/headers/2018-dolls-house-flyerimage.jpg
-flyer: assets/images/flyers/2018-dolls-house-flyerimage.jpg
+  - 2018-01-23T19:30:00.000Z
+  - 2018-01-24T19:30:00.000Z
+  - 2018-01-25T19:30:00.000Z
+  - 2018-01-26T19:30:00.000Z
+  - 2018-01-27T19:30:00.000Z
+  - 2018-01-27T14:30:00.000Z
 ---
 
 > I think I'm a human being before anything else. I don't care what other people say. I don't care what people write in books. I need to think for myself.
