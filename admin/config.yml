@@ -29,9 +29,21 @@ collections:
           - label: "show time"
             widget: "datetime"
             format: "YYYY-MM-DD hh:mmZ"
+      - name: showtime-summary
+        label: "Summary of show times"
+        widget: "string"
       - label: "Show details"
         name: "body"
         widget: "markdown"
+      - label: "Primary colour"
+        name: "primary-color"
+        widget: "string"
+      - label: Header image (displayed on home page and show page)
+        name: header-image
+        widget: "image"
+      - label: Flyer image (displayed on shows page)
+        name: header-image
+        widget: "image"
   - name: "show-details" 
     label: "Show Details"
     description: >
