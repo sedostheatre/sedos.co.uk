@@ -30,8 +30,6 @@
 
 .show-card-wrapper .show-card .show-title { text-align: center; width: 100%; color: #ffffff; }
 
-.upcoming-shows { background: #ccc; padding: 1em 0; }
-
 .home-page-show-carousel-item { height: 70vh; border-radius: 0; }
 
 .home-page-show-carousel-item .home-page-image { background-position-x: center; background-position-y: center; background-size: cover; background-repeat: no-repeat; }
@@ -47,6 +45,16 @@
 .home-page-show-carousel-item .row { height: 100%; }
 
 .home-page-show-carousel-item h1.show-title { font-size: 6em; }
+
+.header-carousel .carousel-indicators { overflow-x: initial; }
+
+.header-carousel .carousel-indicators li { width: auto; height: auto; text-indent: initial; }
+
+.header-carousel .carousel-indicators li .hero-indicator-image { width: 70px; height: 70px; background-position-x: center; background-position-y: center; background-size: cover; background-repeat: no-repeat; }
+
+.header-carousel .carousel-indicators li.active .hero-indicator-image { opacity: 0.7; }
+
+.upcoming-shows { background: #ccc; padding: 1em 0; }
 
 .news-card { height: 216px; overflow: hidden; }
 
