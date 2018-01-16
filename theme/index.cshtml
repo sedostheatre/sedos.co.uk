@@ -2,10 +2,10 @@
     <div class="carousel slide" data-ride="carousel" id="hero-carousel">
         <ul class="carousel-indicators list-inline">
             @{
-                foreach(var show in Documents["UpcomingShows"].Select((value, i) => new { i, value }))
+                foreach(var show in Documents["UpcomingShows"].Select((value, i) => new { Image=Context.GetLink(value.Get<IDocument>("header-image")), Index=i }))
                 {
-                    <li data-target="#hero-carousel" data-slide-to="@show.i" class="@(show.i==0?"active":"") list-inline-item">
-                        <div class="hero-indicator-image" style="background-image: url(@Context.GetLink(show.value.Get<IDocument>("header-image")))"></div>
+                    <li data-target="#hero-carousel" data-slide-to="@show.Index" class="@(show.Index==0?"active":"") list-inline-item">
+                        <div class="hero-indicator-image" style="background-image: url(@show.Image))"></div>
                     </li>
                 }
             }
