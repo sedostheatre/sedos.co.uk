@@ -1,45 +1,9 @@
 @import "show-card";
+@import "hero-carousel";
 
 .upcoming-shows {
     background: $grey;
     padding: 1em 0;
-}
-
-.home-page-show-carousel-item {
-    .home-page-image {
-        background-position-x: center;
-        background-position-y: center;
-        background-size: cover;
-        background-repeat: no-repeat;
-    }
-
-    height: 70vh;
-    border-radius: 0;
-    
-    a, a:focus, a:hover { 
-        color: white;
-        text-decoration: none;
-    }
-
-    .show-details {
-        background-color: rgba(0, 0, 0, 0.4);
-
-        .show-subtitle {
-            font-size: 1.5rem;
-        }
-
-        .showtime-summary {
-            font-size: 1rem;
-        }
-    }
-
-    .row {
-        height: 100%;            
-    }      
-    
-    h1.show-title {
-        font-size: 6em;
-    }
 }
 
 .news-card {

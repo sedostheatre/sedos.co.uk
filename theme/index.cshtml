@@ -1,50 +1,61 @@
 <div class="header-carousel">
-    <div class="carousel slide" data-ride="carousel">
+    <div class="carousel slide" data-ride="carousel" id="hero-carousel">
+        <ul class="carousel-indicators list-inline">
+            @{
+                foreach(var show in Documents["UpcomingShows"].Select((value, i) => new { i, value }))
+                {
+                    <li data-target="#hero-carousel" data-slide-to="@show.i" class="@(show.i==0?"active":"") list-inline-item">
+                        <div class="hero-indicator-image" style="background-image: url(@Context.GetLink(show.value.Get<IDocument>("header-image")))"></div>
+                    </li>
+                }
+            }
+        </ul>
         <div class="carousel-inner" role="listbox">
             @{
-                var firstShow = Documents["UpcomingShows"].First();
+                foreach(var show in Documents["UpcomingShows"].Take(1))
+                {
+                    Html.RenderPartial("Partials/_HomePageCarouselItem", Tuple.Create(show, true));
+                }
 
-                Html.RenderPartial("Partials/_HomePageCarouselItem", Tuple.Create(firstShow, true));
-
-                foreach(var show in Documents["UpcomingShows"].Skip(1)) 
+                foreach(var show in Documents["UpcomingShows"].Skip(1))
                 {
                     Html.RenderPartial("Partials/_HomePageCarouselItem", Tuple.Create(show, false));
-                }                
-            }            
+                }
+            }
         </div>
     </div>
 </div>
 
-<div class="banner"> 
+<div class="banner">
     <div class="container">
         <h2>News</h2>
     </div>
 </div>
 
 <div class="container news-section">
-    <div class="row">   
+    <div class="row">
     @{
         foreach(var newsItem in Documents["LatestNews"])
         {
             Html.RenderPartial("Partials/_NewsItemHomePageCard", @newsItem);
-        }    
+        }
     }
     </div>
 </div>
 
-<div class="banner"> 
+<div class="banner">
     <div class="container">
         <h2>Events</h2>
     </div>
 </div>
 
 <div class="container events-section">
-    <div class="row">   
+    <div class="row">
     @{
         foreach(var eventItem in Documents["UpcomingEvents"])
         {
             Html.RenderPartial("Partials/_EventItemHomePageCard", @eventItem);
-        }    
+        }
     }
     </div>
 </div>
