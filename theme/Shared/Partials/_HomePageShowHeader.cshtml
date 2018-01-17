@@ -21,7 +21,9 @@
                 <h3 class="showtime-summary">@Model["showtime-summary"]</h3>
             }
         }
-        <a href="#" class="btn btn-outline-light">buy tickets</a>
-        <a href="@Context.GetLink(Model)" class="btn btn-outline-light">more info</a>
+        <div class="show-action-bar">
+            <a href="#" class="btn btn-outline-light">Buy Tickets</a>
+            <a href="@Context.GetLink(Model)" class="btn btn-outline-light">More Info</a>
+        </div>
     </div>
 </div>

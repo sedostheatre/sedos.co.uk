@@ -23,7 +23,9 @@
 
             if(Model.Get("showtimes", Enumerable.Empty<DateTime>()).Any(x => x >= DateTime.Now))
             {
-                <a href="#" class="btn btn-outline-light">buy tickets</a>
+                <div class="show-action-bar">
+                    <a href="#" class="btn btn-outline-light">Buy Tickets</a>
+                </div>
             }
         }
     </div>

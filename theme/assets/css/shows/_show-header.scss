@@ -11,17 +11,24 @@
         font-weight: 900;
         margin-bottom: 0;
         color: white;
+        padding-bottom: 0.5em;
     }
 
     .show-subtitle {
         font-size: 2em;
         font-weight: 700;
         color: white;
+        padding-bottom: 1em;
     }
 
     .showtime-summary {
         font-size: 1.5em;
         font-weight: 300;
         color: white;
+        padding-bottom: 1em;
+    }
+
+    .show-action-bar {
+        padding-top: 1em;
     }
 }

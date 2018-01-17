@@ -22,8 +22,8 @@
             text-indent: initial;
 
             .hero-indicator-image {
-                width: 70px;
-                height: 70px;
+                width: 100px;
+                height: 100px;
 
                 background-position-x: center;
                 background-position-y: center;
@@ -33,7 +33,7 @@
 
             &.active {
                 .hero-indicator-image {
-                    opacity: 0.7;
+                    opacity: 0.3;
                 }
             }
         }
