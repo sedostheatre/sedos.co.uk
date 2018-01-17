@@ -15,7 +15,6 @@
                 foreach(var show in Documents["UpcomingShows"].Take(1))
                 {
                     <div class="home-page-show-carousel-item carousel-item active">
-
                         @Html.Partial("Partials/_HomePageShowHeader", show)
                     </div>
                 }
@@ -23,9 +22,7 @@
                 foreach(var show in Documents["UpcomingShows"].Skip(1))
                 {
                     <div class="home-page-show-carousel-item carousel-item">
-                        <a href="@Context.GetLink(show)">
-                            @Html.Partial("Partials/_ShowHeader", show)
-                        </a>
+                        @Html.Partial("Partials/_ShowHeader", show)
                     </div>
                 }
             }
