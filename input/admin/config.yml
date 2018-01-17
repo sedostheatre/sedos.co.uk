@@ -22,28 +22,34 @@ collections:
         name: "subtitle"
         widget: "string"
         tagname: "h2"
+        required: false
       - name: showtimes
         label: Show times
         widget: list
+        required: false
         field:
-          - label: "show time"
+          - label: "Show time"
             widget: "datetime"
             format: "YYYY-MM-DD hh:mmZ"
       - name: showtime-summary
         label: "Summary of show times"
         widget: "string"
+        required: false
       - label: "Show details"
         name: "body"
         widget: "markdown"
       - label: "Primary colour"
         name: "primary-color"
         widget: "string"
+        required: false
       - label: Header image (displayed on home page and show page)
         name: header-image
         widget: "image"
+        required: false
       - label: Flyer image (displayed on shows page)
         name: header-image
-        widget: "image"
+        widget: image
+        required: false
   - name: "show-details"
     label: "Show Details"
     description: >
