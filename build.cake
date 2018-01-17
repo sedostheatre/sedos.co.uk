@@ -4,7 +4,14 @@
 var target = Argument("target", "Default");
 var releaseDir = Directory("./release");
 
+Task("InstallBootstrap")
+    .Does(() =>
+    {
+        NuGetInstall("bootstrap", new NuGetInstallSettings {Prerelease=true, OutputDirectory="input/assets/lib"});
+    });
+
 Task("Build")
+    .IsDependentOn("InstallBootstrap")
     .Does(() =>
     {
         Wyam(new WyamSettings
@@ -14,6 +21,7 @@ Task("Build")
     });
 
 Task("Preview")
+    .IsDependentOn("InstallBootstrap")
     .Does(() =>
     {
         Wyam(new WyamSettings
