@@ -1,8 +1,9 @@
 ---
 title: Shows
+show-carousel: false
 ---
 
-<div class="all-shows-container">        
+<div class="all-shows-container">
     @{
         var futureShows = Documents["AllShows"]
             .Where(show => show.Get<IEnumerable<DateTime>>("showtimes").Any())
@@ -16,8 +17,8 @@ title: Shows
             .OrderByDescending(grouping => grouping.Key);
 
         <div class="container">
-            <div class="row">   
-                @foreach(var show in futureShows) 
+            <div class="row">
+                @foreach(var show in futureShows)
                 {
                     Html.RenderPartial("Partials/_ShowArchiveCard", show);
                 }
@@ -31,15 +32,15 @@ title: Shows
                     <h1>@grouping.Key</h1>
                 </div>
             </div>
-            
+
             <div class="container">
-                <div class="row">   
-                    @foreach(var show in grouping) 
+                <div class="row">
+                    @foreach(var show in grouping)
                     {
                         Html.RenderPartial("Partials/_ShowArchiveCard", show);
                     }
                 </div>
             </div>
         }
-    }        
+    }
 </div>
