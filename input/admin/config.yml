@@ -49,7 +49,7 @@ collections:
         widget: "image"
         required: false
       - label: Flyer image (displayed on shows page)
-        name: header-image
+        name: flyer
         widget: image
         required: false
   - name: "show-details"
