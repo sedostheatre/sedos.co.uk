@@ -6,23 +6,6 @@
     padding: 1em 0;
 }
 
-.news-card {
-    $news-card-height: 216px;
-    height: $news-card-height;
-    overflow: hidden;
-
-    .news-excerpt {
-        height: $news-card-height - 24px;
-        overflow: hidden;
-        text-overflow: ellipsis;
-    }   
-}
-
-.news-section {
-    padding-top: 30px;
-    padding-bottom: 30px;
-}
-
 .event-card {
     $event-card-height: 230px;
     height: $event-card-height;
@@ -44,6 +27,5 @@
 }
 
 .events-section {
-    padding-top: 30px;
-    padding-bottom: 30px;
+    @extend %page-section;
 }

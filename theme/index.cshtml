@@ -35,9 +35,9 @@
 <div class="container news-section">
     <div class="row">
     @{
-        foreach(var newsItem in Documents["LatestNews"])
+        foreach(var article in Documents["LatestNews"])
         {
-            Html.RenderPartial("Partials/_NewsItemHomePageCard", @newsItem);
+            Html.RenderPartial("Partials/_NewsCard", @article);
         }
     }
     </div>

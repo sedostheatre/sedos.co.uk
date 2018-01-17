@@ -2,30 +2,26 @@
 title: News
 ---
 
-<div class="all-news-container">        
-    @{
-        var news = Documents["News"]
-            .GroupBy(article => article.Get<DateTime>("date").Year)
-            .OrderByDescending(grouping => grouping.Key);
-        
-        foreach(var grouping in news)
-        {
-            <div class="banner">
-                <div class="container">
-                    <h1>@grouping.Key</h1>
-                </div>
-            </div>
-            
+@{
+    var news = Documents["News"]
+        .GroupBy(article => article.Get<DateTime>("date").Year)
+        .OrderByDescending(grouping => grouping.Key);
+
+    foreach(var grouping in news)
+    {
+        <div class="banner">
             <div class="container">
-                <div class="row">
-                    <ul>
-                    @foreach(var article in grouping) 
-                    {
-                        <li><a href="@Context.GetLink(article)">@article["Title"]</a></li>
-                    }
-                    </ul>
-                </div>
+                <h1>@grouping.Key</h1>
             </div>
-        }
-    }        
-</div>
+        </div>
+
+        <div class="container news-section">
+            <div class="row">
+                @foreach(var article in grouping)
+                {
+                    Html.RenderPartial("Partials/_NewsCard", @article);
+                }
+            </div>
+        </div>
+    }
+}
