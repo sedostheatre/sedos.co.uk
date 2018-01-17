@@ -11,17 +11,60 @@
         font-weight: 900;
         margin-bottom: 0;
         color: white;
+        padding-bottom: 0.5em; 
     }
 
     .show-subtitle {
         font-size: 2em;
         font-weight: 700;
         color: white;
+        padding-bottom: 1em; 
     }
 
     .showtime-summary {
         font-size: 1.5em;
         font-weight: 300;
         color: white;
+        padding-bottom: 1em; 
+
+    }
+
+    @include media-breakpoint-down(sm) {        
+        .show-title {
+            font-size: 3em;
+        }
+
+        .show-subtitle {
+            font-size: 1.5em;
+        }
+
+        .showtime-summary {
+            font-size: 1em;
+        }
+
+        .show-details {
+            text-align: center;
+        }
+    }
+
+    
+    @include media-breakpoint-down(md) {        
+        .show-title {
+            font-size: 4em;
+            padding-bottom: 0.25em;
+            margin-top: 0.25em;
+        }
+
+        .show-subtitle {
+            padding-bottom: 0.25em;
+        }
+
+        .showtime-summary {
+            padding-bottom: 0.25em;
+        }
+        
+        .show-action-bar {
+            padding-top: 0.5em;
+        }
     }
 }

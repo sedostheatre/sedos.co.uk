@@ -6,3 +6,5 @@ packages\.xml
 config\.wyam\.hash
 
 config\.wyam\.dll
+
+theme/assets/lib/
