@@ -34,19 +34,9 @@
 
 .home-page-show-carousel-item { height: 70vh; border-radius: 0; }
 
-.home-page-show-carousel-item .home-page-image { background-position-x: center; background-position-y: center; background-size: cover; background-repeat: no-repeat; }
-
 .home-page-show-carousel-item a, .home-page-show-carousel-item a:focus, .home-page-show-carousel-item a:hover { color: white; text-decoration: none; }
 
-.home-page-show-carousel-item .show-details { background-color: rgba(0, 0, 0, 0.4); }
-
-.home-page-show-carousel-item .show-details .show-subtitle { font-size: 1.5rem; }
-
-.home-page-show-carousel-item .show-details .showtime-summary { font-size: 1rem; }
-
 .home-page-show-carousel-item .row { height: 100%; }
-
-.home-page-show-carousel-item h1.show-title { font-size: 6em; }
 
 .header-carousel .carousel-indicators { overflow-x: initial; }
 
@@ -77,3 +67,15 @@
 .news-card { height: 216px; overflow: hidden; }
 
 .news-card .news-excerpt { height: 192px; overflow: hidden; text-overflow: ellipsis; }
+
+.show-header-image { background-position-x: center; background-position-y: center; background-size: cover; background-repeat: no-repeat; }
+
+.show-title { font-size: 4.5em; font-weight: 900; margin-bottom: 0; color: white; }
+
+.show-subtitle { font-size: 2em; font-weight: 700; color: white; }
+
+.showtime-summary { font-size: 1.5em; font-weight: 300; color: white; }
+
+.show-page-header { height: 70vh; border-radius: 0; }
+
+.show-page-header .row { height: 100%; }
