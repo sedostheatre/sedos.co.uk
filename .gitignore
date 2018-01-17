@@ -7,4 +7,4 @@ config\.wyam\.hash
 
 config\.wyam\.dll
 
-input/assets/lib/
+theme/assets/lib/
