@@ -27,14 +27,17 @@
 
     @include media-breakpoint-up(sm) {        
         .show-title {
+            font-size: 4em;
             padding-bottom: 0.5em;
         }
 
         .show-subtitle {
+            font-size: 1.5em;
             padding-bottom: 1em;
         }
 
         .showtime-summary {
+            font-size: 1em;
             padding-bottom: 1em;
         }
         
