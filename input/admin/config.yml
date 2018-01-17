@@ -59,7 +59,7 @@ collections:
         name: "show"
         widget: "relation"
         collection: "shows"
-        searchFields: "[title]"
+        searchFields: ["title"]
         valueField: "title"
       - label: "Section"
         name: "section"
