@@ -3,7 +3,7 @@
 }
 
 <div class="page-wrapper">
-    @{ 
+    @{
         var headerImage = Model.Get<IDocument>("HeaderImage", null);
         IEnumerable<IDocument> headerImages;
         if(headerImage == null)
@@ -14,13 +14,24 @@
         {
             headerImages = new [] { headerImage };
         }
-        
+
         Html.RenderPartial("Partials/_NarrowHeaderCarousel", headerImages);
     }
     <div class="banner">
         <div class="container">
             <h1>@Model["title"]</h1>
         </div>
-    </div>    
-    @RenderBody()
+    </div>
+    @{
+        if(Model.Get<bool>("use-container", false))
+        {
+            <div class="container">
+                @RenderBody()
+            </div>
+        }
+        else
+        {
+            @RenderBody();
+        }
+    }
 </div>
