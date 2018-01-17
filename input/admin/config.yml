@@ -112,8 +112,9 @@ collections:
       - label: Event times
         widget: list
         field:
-          - label: "event time time"
+          - label: "event time"
             widget: "datetime"
+            name: "event time"
             format: "YYYY-MM-DD hh:mmZ"
       - label: "Featured Image"
         name: "image"
