@@ -4,6 +4,10 @@
 
 .main-navigation {
     background-color: $blue;
+
+    .nav-item {
+        text-transform: uppercase;
+    }
 }
 
 .navbar-brand {
@@ -21,14 +25,14 @@
     padding-bottom: 0;
 }
 
-.btn.btn-buy-tickets {
-    color: $highlight;
+.btn.btn-buy-tickets {    
+    color: white;
+    background-color: $highlight;
     border-color: $highlight;
-
+    
     &:active, &:hover {
-        color: $blue;
-        background-color: $highlight;
-        border-color: $highlight;
+        color: $highlight;
+        border-color: $highlight;    
     }
 }
 
