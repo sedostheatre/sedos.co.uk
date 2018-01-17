@@ -1,0 +1,11 @@
+.news-card {
+    $news-card-height: 216px;
+    height: $news-card-height;
+    overflow: hidden;
+
+    .news-excerpt {
+        height: $news-card-height - 24px;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+}
