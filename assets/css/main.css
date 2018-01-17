@@ -2692,15 +2692,17 @@ a.text-dark:focus, a.text-dark:hover { color: #1d2124 !important; }
 
 .main-navigation { background-color: #044484; }
 
+.main-navigation .nav-item { text-transform: uppercase; }
+
 .navbar-brand { padding-top: 0; padding-bottom: 0; }
 
 .navbar-brand .logo { padding-top: 0.5em; padding-bottom: 0.8em; height: 3em; }
 
 .navbar-brand .nav-link { color: #ffffff; }
 
-.btn.btn-buy-tickets { color: #ffe484; border-color: #ffe484; }
+.btn.btn-buy-tickets { color: white; background-color: #c92c71; border-color: #c92c71; }
 
-.btn.btn-buy-tickets:active, .btn.btn-buy-tickets:hover { color: #044484; background-color: #ffe484; border-color: #ffe484; }
+.btn.btn-buy-tickets:active, .btn.btn-buy-tickets:hover { color: #c92c71; border-color: #c92c71; }
 
 .banner { width: 100%; background: #044484; color: #ffffff; padding: 0.4em 0; }
 
