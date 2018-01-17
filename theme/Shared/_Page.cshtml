@@ -4,18 +4,21 @@
 
 <div class="page-wrapper">
     @{
-        var headerImage = Model.Get<IDocument>("HeaderImage", null);
-        IEnumerable<IDocument> headerImages;
-        if(headerImage == null)
+        if(Model.Get("display-carousel", false))
         {
-            headerImages = Documents["FallbackHeaders"].ToList();
-        }
-        else
-        {
-            headerImages = new [] { headerImage };
-        }
+            var headerImage = Model.Get<IDocument>("HeaderImage", null);
+            IEnumerable<IDocument> headerImages;
+            if(headerImage == null)
+            {
+                headerImages = Documents["FallbackHeaders"].ToList();
+            }
+            else
+            {
+                headerImages = new [] { headerImage };
+            }
 
-        Html.RenderPartial("Partials/_NarrowHeaderCarousel", headerImages);
+            Html.RenderPartial("Partials/_NarrowHeaderCarousel", headerImages);
+        }
     }
     <div class="banner">
         <div class="container">
