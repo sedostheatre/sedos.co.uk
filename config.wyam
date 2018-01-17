@@ -28,28 +28,28 @@ Pipelines.Add("ShowDetails",
 );
 
 Pipelines.Add("AllShows",
-    ReadFiles("shows/*.md"),    
+    ReadFiles("shows/*.md"),
     FrontMatter(Yaml()),
     Markdown().UseExtension<Markdig.Extensions.Bootstrap.BootstrapExtension>(),
-    Meta("header-image", (doc, ctx) => 
+    Meta("header-image", (doc, ctx) =>
         ctx.Execute(
             new IModule[] {
                 ReadFiles((doc2, ctx2) => doc.Get<string>("header-image")),
-                Image().SetJpegQuality(80).Resize(width: 1280, height: null), 
+                Image().SetJpegQuality(80).Resize(width: 1280, height: null),
                 WriteFiles()
-            }, 
+            },
             new IDocument[] {
                 doc
             }
         ).FirstOrDefault()
     ),
-    Meta("flyer", (doc, ctx) => 
+    Meta("flyer", (doc, ctx) =>
         ctx.Execute(
             new IModule[] {
                 ReadFiles((doc2, ctx2) => doc.Get<string>("flyer")),
                 Image().SetJpegQuality(80).Resize(width: null, height: 360),
                 WriteFiles()
-            }, 
+            },
             new IDocument[] {
                 doc
             }
@@ -81,7 +81,7 @@ Pipelines.Add("News",
 );
 
 
-Pipelines.Add("LatestNews", 
+Pipelines.Add("LatestNews",
     Documents("News"),
     OrderBy((doc, ctx) => {
         return doc.Get<DateTime>("date");
@@ -94,13 +94,13 @@ Pipelines.Add("Events",
     FrontMatter(Yaml()),
     Markdown().UseExtension<Markdig.Extensions.Bootstrap.BootstrapExtension>(),
     Excerpt().WithOuterHtml(false),
-    Meta("image", (doc, ctx) => 
+    Meta("image", (doc, ctx) =>
         ctx.Execute(
             new IModule[] {
                 ReadFiles((doc2, ctx2) => doc.Get<string>("image")),
                 Image().SetJpegQuality(100).Resize(300, 300),
                 WriteFiles()
-            }, 
+            },
             new IDocument[] {
                 doc
             }
@@ -110,7 +110,7 @@ Pipelines.Add("Events",
     WriteFiles(".html")
 );
 
-Pipelines.Add("UpcomingEvents", 
+Pipelines.Add("UpcomingEvents",
     Documents("Events"),
     Where((doc, ctx) => {
         return doc.Get<IEnumerable<DateTime>>("times").Any(time => time > DateTime.Now);
@@ -134,14 +134,14 @@ Pipelines.Add("Index",
 );
 
 Pipelines.Add("TopLevelPages",
-    ReadFiles("whatson.cshtml", "news.cshtml"),
+    ReadFiles("whatson.cshtml", "news.cshtml", "all-shows.cshtml"),
     FrontMatter(Yaml()),
     Razor().WithViewStart("Layout/_PageViewStart.cshtml"),
 	WriteFiles(".html")
 );
 
 Pipelines.Add("Markdown",
-	ReadFiles("*.md"),    
+	ReadFiles("*.md"),
 	FrontMatter(Yaml()),
 	Markdown().UseExtension<Markdig.Extensions.Bootstrap.BootstrapExtension>(),
     Razor().WithViewStart("Layout/_PageViewStart.cshtml"),
