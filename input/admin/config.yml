@@ -44,7 +44,7 @@ collections:
       - label: Flyer image (displayed on shows page)
         name: header-image
         widget: "image"
-  - name: "show-details" 
+  - name: "show-details"
     label: "Show Details"
     description: >
       Details about shows
@@ -52,6 +52,9 @@ collections:
     slug: "{{title}}"
     create: true
     fields:
+      - label: "Title"
+        name: "title"
+        widget: "string"
       - label: "Show"
         name: "show"
         widget: "relation"
@@ -61,15 +64,15 @@ collections:
       - label: "Section"
         name: "section"
         widget: "string"
-      - label: "Section content"  
+      - label: "Section content"
         name: "body"
         widget: "markdown"
-  - name: "news" 
+  - name: "news"
     label: "News"
     description: >
       News articles
     folder: "input/news"
-    slug: "{{title}}"
+    slug: "{{year}}-{{month}}-{{day}}-{{title}}"
     create: true
     fields:
       - label: "Title"
@@ -83,7 +86,7 @@ collections:
       - label: "Article content"
         name: "body"
         widget: "markdown"
-  - name: "events" 
+  - name: "events"
     label: "Event"
     description: >
       Events
@@ -95,16 +98,15 @@ collections:
         name: "title"
         widget: "string"
         tagname: "h1"
-      - label: "Publish Date"
-        name: "date"
-        widget: "date"
-        format: "YYYY-MM-DD"
-      - label: "Article content"
+      - label: "Event details"
         name: "body"
         widget: "markdown"
       - label: Event times
-        name: times        
         widget: list
+        field:
+          - label: "event time time"
+            widget: "datetime"
+            format: "YYYY-MM-DD hh:mmZ"
       - label: "Featured Image"
         name: "image"
         widget: "image"
