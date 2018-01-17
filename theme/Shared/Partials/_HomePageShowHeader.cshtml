@@ -20,11 +20,8 @@
             {
                 <h3 class="showtime-summary">@Model["showtime-summary"]</h3>
             }
-
-            if(Model.Get<IEnumerable<DateTime>>("showtimes").Any(x => x >= DateTime.Now))
-            {
-                <a href="#" class="btn btn-outline-light">buy tickets</a>
-            }
         }
+        <a href="#" class="btn btn-outline-light">buy tickets</a>
+        <a href="@Context.GetLink(Model)" class="btn btn-outline-light">more info</a>
     </div>
 </div>
