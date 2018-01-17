@@ -1,20 +1,12 @@
 ---
-title: Shows
-show-carousel: false
+title: Upcoming Shows
 ---
 
-<div class="all-shows-container">
+<div>
     @{
         var futureShows = Documents["AllShows"]
             .Where(show => show.Get<IEnumerable<DateTime>>("showtimes").Any())
             .Where(show => show.Get<IEnumerable<DateTime>>("showtimes").OrderBy(x => x).Last() >= DateTime.Now);
-
-        var pastShows = Documents["AllShows"]
-            .Where(show => show.Get<IEnumerable<DateTime>>("showtimes").Any())
-            .Except(futureShows)
-            .OrderBy(show => show.Get<IEnumerable<DateTime>>("showtimes").OrderBy(x => x).First())
-            .GroupBy(show => show.Get<IEnumerable<DateTime>>("showtimes").OrderBy(x => x).First().Year)
-            .OrderByDescending(grouping => grouping.Key);
 
         <div class="container">
             <div class="row">
@@ -24,23 +16,15 @@ show-carousel: false
                 }
             </div>
         </div>
-
-        foreach(var grouping in pastShows)
-        {
-            <div class="banner">
-                <div class="container">
-                    <h1>@grouping.Key</h1>
-                </div>
-            </div>
-
-            <div class="container">
-                <div class="row">
-                    @foreach(var show in grouping)
-                    {
-                        Html.RenderPartial("Partials/_ShowArchiveCard", show);
-                    }
-                </div>
-            </div>
-        }
     }
+</div>
+
+<div class="container">
+    <div class="row">
+        <div class="col">
+        <p class="text-center">
+            <a href="/all-shows">See all shows</a>
+        </p>
+        </div>
+    </div>
 </div>

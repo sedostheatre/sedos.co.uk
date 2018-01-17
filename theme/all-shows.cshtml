@@ -1,0 +1,31 @@
+---
+title: All Shows
+---
+
+<div>
+    @{
+        var pastShows = Documents["AllShows"]
+            .Where(show => show.Get<IEnumerable<DateTime>>("showtimes").Any())
+            .OrderBy(show => show.Get<IEnumerable<DateTime>>("showtimes").OrderBy(x => x).First())
+            .GroupBy(show => show.Get<IEnumerable<DateTime>>("showtimes").OrderBy(x => x).First().Year)
+            .OrderByDescending(grouping => grouping.Key);
+
+        foreach(var grouping in pastShows)
+        {
+            <div class="banner">
+                <div class="container">
+                    <h1>@grouping.Key</h1>
+                </div>
+            </div>
+
+            <div class="container">
+                <div class="row">
+                    @foreach(var show in grouping)
+                    {
+                        Html.RenderPartial("Partials/_ShowArchiveCard", show);
+                    }
+                </div>
+            </div>
+        }
+    }
+</div>
