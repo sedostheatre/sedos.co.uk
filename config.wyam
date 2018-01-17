@@ -62,8 +62,7 @@ Pipelines.Add("AllShows",
 Pipelines.Add("UpcomingShows",
     Documents("AllShows"),
     Where((doc, ctx) => {
-        var showTimes = doc.Get<IEnumerable<DateTime>>("showtimes").OrderBy(x => x);
-        return showTimes.Any() && showTimes.Last() > DateTime.Now;
+        return doc.Get("showtimes", Enumerable.Empty<DateTime>()).Any(x => x > DateTime.Now);
     }),
     OrderBy((doc, ctx) => {
         return doc.Get<IEnumerable<DateTime>>("showtimes").OrderBy(x => x).First();
