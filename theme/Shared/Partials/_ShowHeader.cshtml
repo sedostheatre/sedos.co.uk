@@ -1,0 +1,25 @@
+@model IDocument
+
+@{
+    var homePageImageDocument = (IDocument)Model["header-image"];
+    var link = homePageImageDocument == null ? "" : Context.GetLink(homePageImageDocument);
+}
+
+<div class="row">
+    <div class="col-md show-header-image" style="background-image: url(@link)">
+    </div>
+    <div class="col-md" style="background: @Model.Get("primary-color","#044484")">
+        <h1 class="show-title">@Model["Title"]</h1>
+        @{
+            if(!string.IsNullOrWhiteSpace(Model.Get("Subtitle", "")))
+            {
+                <h2 class="show-subtitle">@Model["Subtitle"]</h2>
+            }
+
+            if(!string.IsNullOrWhiteSpace(Model.Get("showtime-summary", "")))
+            {
+                <h3 class="showtime-summary">@Model["showtime-summary"]</h3>
+            }
+        }
+    </div>
+</div>

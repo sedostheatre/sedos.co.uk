@@ -14,12 +14,20 @@
             @{
                 foreach(var show in Documents["UpcomingShows"].Take(1))
                 {
-                    Html.RenderPartial("Partials/_HomePageCarouselItem", Tuple.Create(show, true));
+                    <div class="home-page-show-carousel-item carousel-item active">
+                        <a href="@Context.GetLink(show)">
+                            @Html.Partial("Partials/_ShowHeader", show)
+                        </a>
+                    </div>
                 }
 
                 foreach(var show in Documents["UpcomingShows"].Skip(1))
                 {
-                    Html.RenderPartial("Partials/_HomePageCarouselItem", Tuple.Create(show, false));
+                    <div class="home-page-show-carousel-item carousel-item">
+                        <a href="@Context.GetLink(show)">
+                            @Html.Partial("Partials/_ShowHeader", show)
+                        </a>
+                    </div>
                 }
             }
         </div>

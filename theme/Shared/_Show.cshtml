@@ -4,17 +4,11 @@
 
 @model IDocument
 
-<div class="header-carousel">
-    <div class="carousel slide" data-ride="carousel">
-        <div class="carousel-inner" role="listbox">
-            @{
-                Html.RenderPartial("Partials/_HomePageCarouselItem", Tuple.Create(Model, true));
-            }            
-        </div>
-    </div>
+<div class="show-page-header">
+    @Html.Partial("Partials/_ShowHeader", Model)
 </div>
 
-<div class="banner empty-divider"> 
+<div class="banner empty-divider">
 </div>
 
 <div class="container">
@@ -29,9 +23,9 @@
                     {
                         <li class="nav-item">
                             <a class="nav-link" id="@document["section"]-tab" data-toggle="tab" href="#@document["section"]" role="tab" aria-controls="@document["section"]" aria-expanded="false">@document["section"]</a>
-                        </li>               
+                        </li>
                     }
-                }                
+                }
             </ul>
             <div class="tab-content" id="myTabContent">
                 <div role="tabpanel" class="tab-pane fade active show" id="details" aria-labelledby="details-tab" aria-expanded="false">
@@ -46,8 +40,7 @@
                             @Html.Raw(document.Content)
                         </div>
                     }
-                }   
-                
+                }
             </div>
         </div>
         <div class="col-md-4">
