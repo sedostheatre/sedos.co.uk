@@ -49,7 +49,7 @@ collections:
         widget: "image"
         required: false
       - label: Flyer image (displayed on shows page)
-        name: header-image
+        name: flyer
         widget: image
         required: false
   - name: "show-details"
@@ -112,8 +112,9 @@ collections:
       - label: Event times
         widget: list
         field:
-          - label: "event time time"
+          - label: "event time"
             widget: "datetime"
+            name: "event time"
             format: "YYYY-MM-DD hh:mmZ"
       - label: "Featured Image"
         name: "image"
