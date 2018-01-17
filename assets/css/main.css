@@ -16,6 +16,8 @@
 
 .banner.empty-divider { height: 3em; }
 
+.events-section, .news-section { padding-top: 30px; padding-bottom: 30px; }
+
 .header-carousel .header-carousel-image { background-position-x: center; background-position-y: center; background-size: cover; background-repeat: no-repeat; height: 70vh; border-radius: 0; }
 
 .header-carousel-narrow .header-carousel-image { background-position-x: center; background-position-y: center; background-size: cover; background-repeat: no-repeat; height: 40vh; border-radius: 0; }
@@ -56,19 +58,11 @@
 
 .upcoming-shows { background: #ccc; padding: 1em 0; }
 
-.news-card { height: 216px; overflow: hidden; }
-
-.news-card .news-excerpt { height: 192px; overflow: hidden; text-overflow: ellipsis; }
-
-.news-section { padding-top: 30px; padding-bottom: 30px; }
-
 .event-card { height: 230px; overflow: hidden; }
 
 .event-card .event-excerpt { height: 206px; background-position-x: center; background-position-y: center; background-size: cover; background-repeat: no-repeat; }
 
 .event-card .event-excerpt .card-title { color: white; }
-
-.events-section { padding-top: 30px; padding-bottom: 30px; }
 
 .social-icons { list-style: none; flex-direction: row; display: flex; padding: 0; float: right; }
 
@@ -79,3 +73,7 @@
 .nav-tabs.show-nav-tabs .nav-link { border: none; border-top-left-radius: 0; border-top-right-radius: 0; }
 
 .nav-tabs.show-nav-tabs .nav-link.active { background: #044484; color: white; }
+
+.news-card { height: 216px; overflow: hidden; }
+
+.news-card .news-excerpt { height: 192px; overflow: hidden; text-overflow: ellipsis; }
