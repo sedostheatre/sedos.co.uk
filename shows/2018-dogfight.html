@@ -15,21 +15,25 @@
     <div class="container">
         <a class="navbar-brand" href="/">
             <img class="logo" src="/assets/images/logo/logo-white.png"/>
-        </a>                            
-        <button class="navbar-toggler" 
+        </a>
+        <button class="navbar-toggler"
                 type="button"
                 data-toggle="collapse"
                 data-target="#topLevelNav"
                 aria-controls="topLevelNav"
-                aria-expanded="false" 
+                aria-expanded="false"
                 aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
-        
+
         <div class="collapse navbar-collapse" id="topLevelNav">
             <ul class="navbar-nav mr-auto">
-                <li class="nav-item">
-                    <a class="nav-link" href="/whatson">What's On<span class="sr-only"></span></a>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Shows</a>
+                    <div class="dropdown-menu">
+                        <a class="dropdown-item" href="/whatson">What's On<span class="sr-only"></span></a>
+                        <a class="dropdown-item" href="/all-shows">All shows<span class="sr-only"></span></a>
+                    </div>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="/news">News<span class="sr-only"></span></a>
@@ -39,9 +43,9 @@
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="/about">About<span class="sr-only">(current)</span></a>
-                </li>          
-            </ul>       
-            
+                </li>
+            </ul>
+
             <a class="btn btn-outline-secondary my-2 my-sm-0 btn-buy-tickets" href="">Buy Tickets</a>
         </div>
     </div>
@@ -51,11 +55,12 @@
         
 <div class="show-page-header">
     
-<div class="row">
+<div class="row show-header">
     <div class="col-md show-header-image" style="background-image: url(/assets/images/headers/2018-dogfight-header-image-w1280.jpg)">
     </div>
     <div class="col-md" style="background: #555500">
         <h1 class="show-title">Dogfight</h1>
+                <a href="#" class="btn btn-outline-light">buy tickets</a>
     </div>
 </div>
 

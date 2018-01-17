@@ -15,21 +15,25 @@
     <div class="container">
         <a class="navbar-brand" href="/">
             <img class="logo" src="/assets/images/logo/logo-white.png"/>
-        </a>                            
-        <button class="navbar-toggler" 
+        </a>
+        <button class="navbar-toggler"
                 type="button"
                 data-toggle="collapse"
                 data-target="#topLevelNav"
                 aria-controls="topLevelNav"
-                aria-expanded="false" 
+                aria-expanded="false"
                 aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
-        
+
         <div class="collapse navbar-collapse" id="topLevelNav">
             <ul class="navbar-nav mr-auto">
-                <li class="nav-item">
-                    <a class="nav-link" href="/whatson">What's On<span class="sr-only"></span></a>
+                <li class="nav-item dropdown">
+                    <a class="nav-link dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Shows</a>
+                    <div class="dropdown-menu">
+                        <a class="dropdown-item" href="/whatson">What's On<span class="sr-only"></span></a>
+                        <a class="dropdown-item" href="/all-shows">All shows<span class="sr-only"></span></a>
+                    </div>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="/news">News<span class="sr-only"></span></a>
@@ -39,9 +43,9 @@
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="/about">About<span class="sr-only">(current)</span></a>
-                </li>          
-            </ul>       
-            
+                </li>
+            </ul>
+
             <a class="btn btn-outline-secondary my-2 my-sm-0 btn-buy-tickets" href="">Buy Tickets</a>
         </div>
     </div>
@@ -60,32 +64,31 @@
         </ul>
         <div class="carousel-inner" role="listbox">
                     <div class="home-page-show-carousel-item carousel-item active">
-                        <a href="/shows/2018-dolls-house">
-                            
-<div class="row">
+                        
+<div class="row show-header">
     <div class="col-md show-header-image" style="background-image: url(/assets/images/headers/2018-dolls-house-flyerimage-w1280.jpg)">
     </div>
     <div class="col-md" style="background: #B1D1FC">
         <h1 class="show-title">A Doll&#x27;s House</h1>
                 <h2 class="show-subtitle">Something something subtitle</h2>
                 <h3 class="showtime-summary">Tues 23 Jan - Sat 27 Jan, 7:30pm (Sat matinee 2:30pm)</h3>
+        <a href="#" class="btn btn-outline-light">buy tickets</a>
+        <a href="/shows/2018-dolls-house" class="btn btn-outline-light">more info</a>
     </div>
 </div>
 
-                        </a>
                     </div>
                     <div class="home-page-show-carousel-item carousel-item">
-                        <a href="/shows/2018-dogfight">
-                            
-<div class="row">
+                        
+<div class="row show-header">
     <div class="col-md show-header-image" style="background-image: url(/assets/images/headers/2018-dogfight-header-image-w1280.jpg)">
     </div>
     <div class="col-md" style="background: #555500">
         <h1 class="show-title">Dogfight</h1>
+                <a href="#" class="btn btn-outline-light">buy tickets</a>
     </div>
 </div>
 
-                        </a>
                     </div>
         </div>
     </div>
