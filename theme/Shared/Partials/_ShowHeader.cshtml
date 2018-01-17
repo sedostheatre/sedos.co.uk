@@ -8,7 +8,7 @@
 <div class="row show-header">
     <div class="col-md show-header-image" style="background-image: url(@link)">
     </div>
-    <div class="col-md" style="background: @Model.Get("primary-color","#044484")">
+    <div class="col-md show-details" style="background: @Model.Get("primary-color","#044484")">
         <h1 class="show-title">@Model["Title"]</h1>
         @{
             if(!string.IsNullOrWhiteSpace(Model.Get("Subtitle", "")))
