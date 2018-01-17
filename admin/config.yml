@@ -111,6 +111,7 @@ collections:
         widget: "markdown"
       - label: Event times
         widget: list
+        name: times
         field:
           - label: "event time"
             widget: "datetime"
