@@ -1,6 +1,13 @@
----
-title: Upcoming Shows
----
+@{
+	Layout = "_Default";
+}
+<div class="container">
+    <div class="row">
+        <div class="col">
+	        @RenderBody()
+        </div>
+    </div>
+</div>
 
 <div>
     @{
@@ -22,9 +29,9 @@ title: Upcoming Shows
 <div class="container">
     <div class="row">
         <div class="col">
-        <p class="text-center">
-            <a href="/all-shows">See all shows</a>
-        </p>
+            <p class="text-center">
+                <a href="/all-shows">See all shows</a>
+            </p>
         </div>
     </div>
 </div>

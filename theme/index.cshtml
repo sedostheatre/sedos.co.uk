@@ -56,7 +56,7 @@
 <div class="container events-section">
     <div class="row">
     @{
-        foreach(var eventItem in Documents["UpcomingEvents"])
+        foreach(var eventItem in Documents["UpcomingEvents"].Take(4))
         {
             Html.RenderPartial("Partials/_EventItemHomePageCard", @eventItem);
         }
