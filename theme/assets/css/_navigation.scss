@@ -5,8 +5,11 @@
 .main-navigation {
     background-color: $blue;
 
-    .nav-item {
+    .nav-item.nav-link {
         text-transform: uppercase;
+        &:hover {
+            color: $accent;
+        }
     }
 }
 
@@ -15,7 +18,7 @@
         padding-top: 0.5em;
         padding-bottom: 0.8em;
         height: 3em;
-    }       
+    }
 
     .nav-link {
         color: $white;
@@ -25,14 +28,15 @@
     padding-bottom: 0;
 }
 
-.btn.btn-buy-tickets {    
+.btn.btn-buy-tickets {
     color: white;
-    background-color: $highlight;
-    border-color: $highlight;
-    
+    background-color: $accent;
+    border-color: $accent;
+
     &:active, &:hover {
-        color: $highlight;
-        border-color: $highlight;    
+        background-color: $white;
+        color: $accent;
+        border-color: $accent;
     }
 }
 
