@@ -5,8 +5,11 @@
 .main-navigation {
     background-color: $blue;
 
-    .nav-item {
-        text-transform: uppercase;
+    .nav-item.nav-link {
+        text-transform: uppercase;            
+        &:hover {
+            color: $highlight;
+        }
     }
 }
 
@@ -31,6 +34,7 @@
     border-color: $highlight;
     
     &:active, &:hover {
+        background-color: $white;
         color: $highlight;
         border-color: $highlight;    
     }
