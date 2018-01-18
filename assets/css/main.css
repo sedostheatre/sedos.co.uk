@@ -2692,7 +2692,9 @@ a.text-dark:focus, a.text-dark:hover { color: #1d2124 !important; }
 
 .main-navigation { background-color: #044484; }
 
-.main-navigation .nav-item { text-transform: uppercase; }
+.main-navigation .nav-item.nav-link { text-transform: uppercase; }
+
+.main-navigation .nav-item.nav-link:hover { color: #04a897; }
 
 .navbar-brand { padding-top: 0; padding-bottom: 0; }
 
@@ -2700,9 +2702,9 @@ a.text-dark:focus, a.text-dark:hover { color: #1d2124 !important; }
 
 .navbar-brand .nav-link { color: #ffffff; }
 
-.btn.btn-buy-tickets { color: white; background-color: #c92c71; border-color: #c92c71; }
+.btn.btn-buy-tickets { color: white; background-color: #04a897; border-color: #04a897; }
 
-.btn.btn-buy-tickets:active, .btn.btn-buy-tickets:hover { color: #c92c71; border-color: #c92c71; }
+.btn.btn-buy-tickets:active, .btn.btn-buy-tickets:hover { background-color: #ffffff; color: #04a897; border-color: #04a897; }
 
 .banner { width: 100%; background: #044484; color: #ffffff; padding: 0.4em 0; }
 
@@ -2740,7 +2742,7 @@ a.text-dark:focus, a.text-dark:hover { color: #1d2124 !important; }
 
 .header-carousel .carousel-indicators li.active .hero-indicator-image { opacity: 0.3; }
 
-.upcoming-shows { background: #ccc; padding: 1em 0; }
+.upcoming-shows { background: #f2f2f2; padding: 1em 0; }
 
 .event-card { height: 230px; overflow: hidden; }
 
