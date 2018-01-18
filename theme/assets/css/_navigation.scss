@@ -5,8 +5,9 @@
 .main-navigation {
     background-color: $blue;
 
-    .nav-item.nav-link {
+    .nav-item {
         text-transform: uppercase;
+
         &:hover {
             color: $accent;
         }
