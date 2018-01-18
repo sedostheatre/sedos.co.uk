@@ -2692,9 +2692,9 @@ a.text-dark:focus, a.text-dark:hover { color: #1d2124 !important; }
 
 .main-navigation { background-color: #044484; }
 
-.main-navigation .nav-item.nav-link { text-transform: uppercase; }
+.main-navigation .nav-item { text-transform: uppercase; }
 
-.main-navigation .nav-item.nav-link:hover { color: #04a897; }
+.main-navigation .nav-item:hover { color: #04a897; }
 
 .navbar-brand { padding-top: 0; padding-bottom: 0; }
 
