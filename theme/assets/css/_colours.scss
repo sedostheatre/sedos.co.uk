@@ -1,4 +1,4 @@
-$blue: #044484;
+$sedos-blue: #044484;
 $light-blue: #23778e;
 $lighter-blue: #499fcd;
 $turquoise: #04a897;
@@ -10,4 +10,9 @@ $lime: #d7dd33;
 $grey: #f2f2f2;
 
 $white: #ffffff;
-$accent: $turquoise;
+
+$theme-colors: (
+    "primary": $turquoise,
+);
+
+$navbar-dark-hover-color: $turquoise;

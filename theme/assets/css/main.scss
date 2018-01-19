@@ -1,5 +1,7 @@
-@import "../lib/bootstrap.sass.4.0.0-beta3/content/Content/bootstrap/bootstrap";
 @import "colours";
+
+@import "../lib/bootstrap.sass.4.0.0/content/Content/bootstrap/bootstrap";
+
 @import "navigation";
 @import "layout";
 @import "header-carousel/header-carousel";

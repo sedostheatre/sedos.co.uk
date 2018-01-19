@@ -9,11 +9,11 @@
     }
 
     .show-card {
-        background: $blue;
+        background: $sedos-blue;
         width: 100%;
         height: 360px;
 
-        display: flex; 
+        display: flex;
         flex-flow: row nowrap;
         align-items: flex-end;
 
@@ -24,9 +24,9 @@
 
         .show-details {
             width: 100%;
-            background: transparentize($blue, 0.3);
+            background: transparentize($sedos-blue, 0.3);
         }
-            
+
         .show-title {
             text-align: center;
             width: 100%;
