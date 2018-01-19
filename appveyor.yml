@@ -31,9 +31,8 @@
   image: Visual Studio 2017
   branches:
     except:
-    - master  
+    - master
   version: "{build}"
   skip_branch_with_pr: true
   build_script:
   - ps: .\build.ps1 -Target "Build"
-

@@ -128,20 +128,20 @@ Pipelines.Add("Sass",
 Pipelines.Add("Index",
     ReadFiles("index.cshtml"),
     Razor(),
-	WriteFiles(".html")
+    WriteFiles(".html")
 );
 
 Pipelines.Add("TopLevelPages",
     ReadFiles("news.cshtml", "all-shows.cshtml"),
     FrontMatter(Yaml()),
     Razor().WithViewStart("Layout/_PageViewStart.cshtml"),
-	WriteFiles(".html")
+    WriteFiles(".html")
 );
 
 Pipelines.Add("Markdown",
-	ReadFiles("*.md"),
-	FrontMatter(Yaml()),
-	Markdown().UseExtension<Markdig.Extensions.Bootstrap.BootstrapExtension>(),
+    ReadFiles("*.md"),
+    FrontMatter(Yaml()),
+    Markdown().UseExtension<Markdig.Extensions.Bootstrap.BootstrapExtension>(),
     Razor().WithViewStart((doc, ctx) => doc.Get("view-start", "Layout/_PageViewStart.cshtml")),
     WriteFiles(".html")
 );

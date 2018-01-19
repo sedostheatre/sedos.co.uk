@@ -2,6 +2,7 @@
 indent_style = space
 insert_final_newline = true
 trim_trailing_whitespace = true
+end_of_line = crlf
 
 [*.cshtml]
 indent_size = 4
@@ -11,3 +12,15 @@ indent_size = 2
 
 [*.scss]
 indent_size = 4
+
+[*.cake]
+indent_size = 4
+
+[*.ps1]
+indent_size = 4
+
+[*.wyam]
+indent_size = 4
+
+[*.yml]
+indent_size = 2

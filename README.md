@@ -28,4 +28,3 @@ Changes will be rebuilt and the page should update in sync.
   - Because I have an account and it mostly works
 - GitHub pages for hosting
   - Up for debate, was just easy to get up and running
- 
