@@ -7,7 +7,10 @@ var releaseDir = Directory("./release");
 Task("InstallBootstrap")
     .Does(() =>
     {
-        NuGetInstall("bootstrap.sass", new NuGetInstallSettings { Prerelease=true, OutputDirectory="theme/assets/lib" });
+        NuGetInstall("bootstrap.sass", new NuGetInstallSettings {
+            OutputDirectory = "theme/assets/lib",
+            Version = "4.0.0"
+        });
     });
 
 Task("Build")
