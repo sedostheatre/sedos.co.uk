@@ -1,11 +1,19 @@
 .news-card {
-    $news-card-height: 216px;
-    height: $news-card-height;
     overflow: hidden;
-
-    .news-excerpt {
-        height: $news-card-height - 24px;
+    color: white;
+    
+    .card-body {
+        height: 211px;
         overflow: hidden;
-        text-overflow: ellipsis;
+        margin-bottom: 20px;
+    }
+
+    .card-footer {
+        a {
+            color: white;
+        }
     }
 }
+
+@include bg-variant(".news-card-container:nth-child(odd) > .news-card", theme-color("light-blue"));
+@include bg-variant(".news-card-container:nth-child(even) > .news-card", theme-color("lighter-blue"));
