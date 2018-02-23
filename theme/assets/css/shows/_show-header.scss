@@ -47,6 +47,12 @@
         }
     }
 
+    @include media-breakpoint-up(sm) {
+        .show-details {
+            padding-top: 100px;
+        }
+    }
+
 
     @include media-breakpoint-down(md) {
         .show-title {

@@ -127,6 +127,7 @@ Pipelines.Add("Sass",
 
 Pipelines.Add("Index",
     ReadFiles("index.cshtml"),
+    FrontMatter(Yaml()),
     Razor(),
     WriteFiles(".html")
 );
