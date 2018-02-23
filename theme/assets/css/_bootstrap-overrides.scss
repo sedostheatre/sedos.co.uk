@@ -26,4 +26,10 @@ $theme-colors: (
 
 $navbar-dark-hover-color: $turquoise;
 
+$navbar-light-color:                rgba($turquoise, .5);
+$navbar-light-hover-color:          rgba($turquoise, .7);
+$navbar-light-active-color:         rgba($turquoise, .9);
+$navbar-light-disabled-color:       rgba($turquoise, .3);
+$navbar-light-toggler-border-color: rgba($turquoise, .1);
+
 $card-border-radius: 0;
