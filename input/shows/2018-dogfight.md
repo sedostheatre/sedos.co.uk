@@ -7,6 +7,7 @@ primary-color: "#555500"
 flyer: assets/images/flyers/2018-dogfight-flyer.jpg
 showtime-summary: Tues 23 Jan - Sat 27 Jan, 7:30pm (Sat matinee 2:30pm)
 header-image: assets/images/headers/2018-dogfight-header-image.jpg
+float-nav: true
 ---
 
 > The whole damn world might change tomorrow
