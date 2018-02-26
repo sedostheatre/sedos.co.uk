@@ -29,3 +29,8 @@
 .events-section {
     @extend %page-section;
 }
+
+.home-events-section {
+    @extend %page-section;
+    background: $purple;
+}

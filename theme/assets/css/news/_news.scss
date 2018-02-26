@@ -3,3 +3,8 @@
 .news-section {
     @extend %page-section;
 }
+
+.home-news-section {
+    @extend %page-section;
+    background: $turquoise;
+}
