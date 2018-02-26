@@ -33,11 +33,13 @@
                 background-position-y: center;
                 background-size: cover;
                 background-repeat: no-repeat;
+
+                opacity: 0.3;
             }
 
             &.active {
                 .hero-indicator-image {
-                    opacity: 0.3;
+                    opacity: 1;
                 }
             }
         }
