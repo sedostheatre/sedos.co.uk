@@ -16,14 +16,12 @@ show-carousel: true
             </div>
         </div>
 
-        <div class="news-section">
-            <div class="container">
-                <div class="row">
-                    @foreach(var article in grouping)
-                    {
-                        Html.RenderPartial("Partials/_NewsCard", @article);
-                    }
-                </div>
+        <div class="container news-section">
+            <div class="row">
+                @foreach(var article in grouping)
+                {
+                    Html.RenderPartial("Partials/_NewsCard", @article);
+                }
             </div>
         </div>
     }
