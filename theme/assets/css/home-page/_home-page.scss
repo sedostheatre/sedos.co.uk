@@ -1,36 +1,12 @@
 @import "show-card";
 @import "hero-carousel";
 
-.upcoming-shows {
-    background: $grey;
-    padding: 1em 0;
-}
-
-.event-card {
-    $event-card-height: 230px;
-    height: $event-card-height;
-
-    .event-excerpt {
-        height: $event-card-height - 24px;
-
-        background-position-x: center;
-        background-position-y: center;
-        background-size: cover;
-        background-repeat: no-repeat;
-
-        .card-title {
-            color: white;
-        }
-    }
-
-    overflow: hidden;
-}
-
-.events-section {
-    @extend %page-section;
-}
-
 .home-events-section {
     @extend %page-section;
     background: $purple;
+}
+
+.home-news-section {
+    @extend %page-section;
+    background: $turquoise;
 }

@@ -1,0 +1,23 @@
+.event-card {
+    $event-card-height: 230px;
+    height: $event-card-height;
+
+    .event-excerpt {
+        height: $event-card-height - 24px;
+
+        background-position-x: center;
+        background-position-y: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+
+        .card-title {
+            color: white;
+        }
+    }
+
+    overflow: hidden;
+}
+
+.events-section {
+    @extend %page-section;
+}
