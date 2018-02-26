@@ -7,13 +7,19 @@
 .navbar-brand {
     .logo {
         padding-top: 0.5em;
-        padding-bottom: 0.8em;
+        padding-bottom: 0.1em;
 
         height: 4em;
 
         @include media-breakpoint-down(sm) {
             height: 3em;
         }
+    }
+
+    .subheading {
+        font-size: 0.6rem;
+        padding-top: 0.2em;
+        color: $sedos-blue;
     }
 
     padding-top: 0;
