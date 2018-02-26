@@ -3225,9 +3225,11 @@ a.text-lime:hover, a.text-lime:focus { color: #b8bd20 !important; }
 
 .navbar-brand { padding-top: 0; padding-bottom: 0; }
 
-.navbar-brand .logo { padding-top: 0.5em; padding-bottom: 0.8em; height: 4em; }
+.navbar-brand .logo { padding-top: 0.5em; padding-bottom: 0.1em; height: 4em; }
 
 @media (max-width: 767.98px) { .navbar-brand .logo { height: 3em; } }
+
+.navbar-brand .subheading { font-size: 0.6rem; padding-top: 0.2em; color: #044484; }
 
 .banner { width: 100%; background: #044484; color: #ffffff; padding: 0.4em 0; }
 
