@@ -34,36 +34,28 @@ float-nav: true
     </div>
 </div>
 
-<div class="banner">
+<div class="home-news-section">
     <div class="container">
-        <h2>News</h2>
-    </div>
-</div>
-
-<div class="container news-section">
-    <div class="row">
-    @{
-        foreach(var article in Documents["LatestNews"])
-        {
-            Html.RenderPartial("Partials/_NewsCard", @article);
+        <div class="row">
+        @{
+            foreach(var article in Documents["LatestNews"].Take(4))
+            {
+                Html.RenderPartial("Partials/_NewsCard", @article);
+            }
         }
-    }
+        </div>
     </div>
 </div>
 
-<div class="banner">
+<div class="home-events-section">
     <div class="container">
-        <h2>Events</h2>
-    </div>
-</div>
-
-<div class="container events-section">
-    <div class="row">
-    @{
-        foreach(var eventItem in Documents["UpcomingEvents"].Take(4))
-        {
-            Html.RenderPartial("Partials/_EventItemHomePageCard", @eventItem);
+        <div class="row">
+        @{
+            foreach(var eventItem in Documents["UpcomingEvents"].Take(4))
+            {
+                Html.RenderPartial("Partials/_EventItemHomePageCard", @eventItem);
+            }
         }
-    }
+        </div>
     </div>
 </div>
