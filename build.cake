@@ -19,7 +19,7 @@ Task("Build")
     {
         Wyam(new WyamSettings
         {
-            UpdatePackages = true
+            UpdatePackages = false
         });
     });
 
