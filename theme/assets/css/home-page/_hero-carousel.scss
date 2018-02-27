@@ -13,12 +13,20 @@
 }
 
 .header-carousel {
+    @include media-breakpoint-up(sm) {
+        .carousel-inner {
+            padding-bottom: 130px;
+
+        }
+    }
+
     .carousel-indicators {
         @include media-breakpoint-down(sm) {
             display: none;
         }
 
         overflow-x: initial;
+        bottom:-130px;
 
         li {
             width: auto;
