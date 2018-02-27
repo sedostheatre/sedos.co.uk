@@ -52,12 +52,22 @@ float-nav: true
 <div class="home-events-section">
     <div class="container">
         <div class="row">
-        @{
-            foreach(var eventItem in Documents["UpcomingEvents"].Take(4))
-            {
-                Html.RenderPartial("Partials/_EventItemHomePageCard", @eventItem);
+            <div class="col-md-3">
+                <h3 style="color:white;">Sedance</h3>
+                every wednesday
+
+                <h3 style="color:white;">Simprov</h3>
+                every other Friday
+
+                <h3 style="color:white;">Sechoir</h3>
+                every wednesday
+            </div>
+            @{
+                foreach(var eventItem in Documents["UpcomingEvents"].Take(3))
+                {
+                    Html.RenderPartial("Partials/_EventItemHomePageCard", @eventItem);
+                }
             }
-        }
         </div>
     </div>
 </div>

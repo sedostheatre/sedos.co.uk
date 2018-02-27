@@ -118,6 +118,27 @@ Pipelines.Add("UpcomingEvents",
     })
 );
 
+Pipelines.Add("RegularEvents",
+    ReadFiles("regular-events/*.md"),
+    FrontMatter(Yaml()),
+    Markdown().UseExtension<Markdig.Extensions.Bootstrap.BootstrapExtension>(),
+    Excerpt().WithOuterHtml(false),
+    Meta("image", (doc, ctx) =>
+        ctx.Execute(
+            new IModule[] {
+                ReadFiles((doc2, ctx2) => doc.Get<string>("image")),
+                Image().SetJpegQuality(100).Resize(300, 300),
+                WriteFiles()
+            },
+            new IDocument[] {
+                doc
+            }
+        ).FirstOrDefault()
+    ),
+    Razor().WithViewStart("Layout/_EventViewStart.cshtml"),
+    WriteFiles(".html")
+);
+
 Pipelines.Add("Sass",
     ReadFiles("assets/css/main.scss"),
     Sass().WithCompactOutputStyle(),

@@ -28,4 +28,6 @@
 
 .events-section {
     @extend %page-section;
+    background: $purple;
+    margin-bottom: 3px;
 }

@@ -4,21 +4,55 @@
 
 @model IDocument
 
+<div class="events-section">
+    <div class="container ">
+        <div class="row">
+        @foreach(var eventItem in Documents["RegularEvents"])
+        {
+            Html.RenderPartial("Partials/_EventItemHomePageCard", @eventItem);
+        }
+
+            <div class="col-md-3">
+                <div class="card">
+                    <h3>Backstage</h3>
+                </div>
+
+                <div class="card">
+                    <h3>Groups</h3>
+                    marketing, production, memberships
+                </div>
+
+                <div class="card">
+                    <h3>Join Sedos</h3>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="banner">
+    <div class="container">
+        <h1>Auditions, workshops and socials</h1>
+    </div>
+</div>
+
+<div class="events-section">
+    <div class="container ">
+        <div class="row">
+        @{
+            foreach(var eventItem in Documents["UpcomingEvents"])
+            {
+                Html.RenderPartial("Partials/_EventItemHomePageCard", @eventItem);
+            }
+        }
+        </div>
+    </div>
+</div>
+
 <div class="container">
     <div class="row">
         <div class="col">
             @RenderBody()
         </div>
-    </div>
-</div>
-
-<div class="container events-section">
-    <div class="row">
-    @{
-        foreach(var eventItem in Documents["UpcomingEvents"])
-        {
-            Html.RenderPartial("Partials/_EventItemHomePageCard", @eventItem);
-        }
-    }
     </div>
 </div>
