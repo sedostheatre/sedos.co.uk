@@ -1,5 +1,5 @@
 ---
-title: News
+title: Latest News
 show-carousel: true
 ---
 
@@ -8,7 +8,18 @@ show-carousel: true
         .GroupBy(article => article.Get<DateTime>("date").Year)
         .OrderByDescending(grouping => grouping.Key);
 
-    foreach(var grouping in news)
+    var latestNews = news.First();
+
+    <div class="container news-section">
+        <div class="row">
+            @foreach(var article in latestNews)
+            {
+                Html.RenderPartial("Partials/_NewsCard", @article);
+            }
+        </div>
+    </div>
+
+    @foreach(var grouping in news.Skip(1))
     {
         <div class="banner">
             <div class="container">
