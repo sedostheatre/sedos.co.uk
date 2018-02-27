@@ -9,7 +9,7 @@
     <div class="col-md show-header-image" style="background-image: url(@link)">
     </div>
     <div class="col-md show-details" style="background: @Model.Get("primary-color","#044484")">
-        <a href="@Context.GetLink(Model)"><h1 class="show-title">@Model["Title"]</h1></a>
+        <h1 class="show-title"><a href="@Context.GetLink(Model)">@Model["Title"]</a></h1>
         @{
             if(!string.IsNullOrWhiteSpace(Model.Get("Subtitle", "")))
             {
@@ -22,8 +22,8 @@
             }
         }
         <div class="show-action-bar">
-            <a href="#" class="btn btn-outline-light">Book tickets</a>
-            <a href="@Context.GetLink(Model)" class="btn btn-outline-light">More info</a>
+            <a href="#" class="btn btn-light">Book tickets</a>
+            <a href="@Context.GetLink(Model)" class="btn btn-light">More info</a>
         </div>
     </div>
 </div>
