@@ -3257,7 +3257,7 @@ a.text-lime:hover, a.text-lime:focus { color: #b8bd20 !important; }
 
 .home-page-show-carousel-item .row { height: 100%; }
 
-@media (min-width: 576px) { .header-carousel .carousel-inner { padding-bottom: 130px; } }
+@media (min-width: 576px) { .header-carousel .has-indicators { margin-bottom: 130px; } }
 
 .header-carousel .carousel-indicators { overflow-x: initial; bottom: -130px; }
 
