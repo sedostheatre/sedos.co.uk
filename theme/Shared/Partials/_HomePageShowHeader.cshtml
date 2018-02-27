@@ -9,21 +9,30 @@
     <div class="col-md show-header-image" style="background-image: url(@link)">
     </div>
     <div class="col-md show-details" style="background: @Model.Get("primary-color","#044484")">
-        <h1 class="show-title"><a href="@Context.GetLink(Model)">@Model["Title"]</a></h1>
-        @{
-            if(!string.IsNullOrWhiteSpace(Model.Get("Subtitle", "")))
-            {
-                <h2 class="show-subtitle">@Model["Subtitle"]</h2>
-            }
+        <div class="show-details-top">
+            <h1 class="show-title"><a href="@Context.GetLink(Model)">@Model["Title"]</a></h1>
+            @{
+                if(!string.IsNullOrWhiteSpace(Model.Get("Authors", "")))
+                {
+                    <h2 class="show-authors">@Model["Authors"]</h2>
+                }
 
-            if(!string.IsNullOrWhiteSpace(Model.Get("showtime-summary", "")))
+                if(!string.IsNullOrWhiteSpace(Model.Get("Subtitle", "")))
+                {
+                    <h2 class="show-subtitle">@Model["Subtitle"]</h2>
+                }
+        }
+        </div>
+
+        <div class="show-details-bottom">
+            @if(!string.IsNullOrWhiteSpace(Model.Get("showtime-summary", "")))
             {
                 <h3 class="showtime-summary">@Model["showtime-summary"]</h3>
             }
-        }
-        <div class="show-action-bar">
-            <a href="#" class="btn btn-light">Book tickets</a>
-            <a href="@Context.GetLink(Model)" class="btn btn-light">More info</a>
+            <div class="show-action-bar">
+                <a href="#" class="btn btn-light">Book tickets</a>
+                <a href="@Context.GetLink(Model)" class="btn btn-light" style="margin-left: 15px;">More info</a>
+            </div>
         </div>
     </div>
 </div>
