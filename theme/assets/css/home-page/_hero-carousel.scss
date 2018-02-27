@@ -2,9 +2,11 @@
     height: 70vh;
     border-radius: 0;
 
-    a, a:focus, a:hover {
-        color: white;
-        text-decoration: none;
+    .show-title {
+        a, a:focus, a:hover {
+            color: white;
+            text-decoration: none;
+        }
     }
 
     .row {
