@@ -3229,8 +3229,6 @@ a.text-lime:hover, a.text-lime:focus { color: #b8bd20 !important; }
 
 @media (max-width: 767.98px) { .navbar-brand .logo { height: 3em; } }
 
-.navbar-brand .subheading { font-size: 0.6rem; padding-top: 0.3em; color: #ffffff; }
-
 .banner { width: 100%; background: #044484; color: #ffffff; padding: 0.4em 0; }
 
 .banner.empty-divider { height: 3em; }
