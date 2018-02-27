@@ -1,21 +1,29 @@
 .event-card {
-    $event-card-height: 230px;
-    height: $event-card-height;
+    overflow: hidden;
+    color: white;
+    background: $pink;
 
-    .event-excerpt {
-        height: $event-card-height - 24px;
+    border: none;
 
-        background-position-x: center;
-        background-position-y: center;
-        background-size: cover;
-        background-repeat: no-repeat;
+    .card-body {
+        height: 100px;
+        overflow: hidden;
+        margin-bottom: 20px;
+    }
 
-        .card-title {
+    .card-footer {
+        a {
             color: white;
         }
     }
 
-    overflow: hidden;
+    .card-img-top {
+        height: 200px;
+    }
+
+    .card-footer, .card-header {
+        background: darken($pink, 10);
+    }
 }
 
 .events-section {
