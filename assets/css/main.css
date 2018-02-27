@@ -1529,27 +1529,27 @@ tbody.collapse.show { display: table-row-group; }
 
 .navbar-expand .dropup .dropdown-menu { top: auto; bottom: 100%; }
 
-.navbar-light .navbar-brand { color: rgba(4, 168, 151, 0.9); }
+.navbar-light .navbar-brand { color: rgba(0, 0, 0, 0.9); }
 
-.navbar-light .navbar-brand:hover, .navbar-light .navbar-brand:focus { color: rgba(4, 168, 151, 0.9); }
+.navbar-light .navbar-brand:hover, .navbar-light .navbar-brand:focus { color: rgba(0, 0, 0, 0.9); }
 
-.navbar-light .navbar-nav .nav-link { color: rgba(4, 168, 151, 0.5); }
+.navbar-light .navbar-nav .nav-link { color: rgba(0, 0, 0, 0.5); }
 
-.navbar-light .navbar-nav .nav-link:hover, .navbar-light .navbar-nav .nav-link:focus { color: rgba(4, 168, 151, 0.7); }
+.navbar-light .navbar-nav .nav-link:hover, .navbar-light .navbar-nav .nav-link:focus { color: rgba(0, 0, 0, 0.7); }
 
-.navbar-light .navbar-nav .nav-link.disabled { color: rgba(4, 168, 151, 0.3); }
+.navbar-light .navbar-nav .nav-link.disabled { color: rgba(0, 0, 0, 0.3); }
 
-.navbar-light .navbar-nav .show > .nav-link, .navbar-light .navbar-nav .active > .nav-link, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .nav-link.active { color: rgba(4, 168, 151, 0.9); }
+.navbar-light .navbar-nav .show > .nav-link, .navbar-light .navbar-nav .active > .nav-link, .navbar-light .navbar-nav .nav-link.show, .navbar-light .navbar-nav .nav-link.active { color: rgba(0, 0, 0, 0.9); }
 
-.navbar-light .navbar-toggler { color: rgba(4, 168, 151, 0.5); border-color: rgba(4, 168, 151, 0.1); }
+.navbar-light .navbar-toggler { color: rgba(0, 0, 0, 0.5); border-color: rgba(0, 0, 0, 0.1); }
 
-.navbar-light .navbar-toggler-icon { background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(4, 168, 151, 0.5)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E"); }
+.navbar-light .navbar-toggler-icon { background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 30 30' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(0, 0, 0, 0.5)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 7h22M4 15h22M4 23h22'/%3E%3C/svg%3E"); }
 
-.navbar-light .navbar-text { color: rgba(4, 168, 151, 0.5); }
+.navbar-light .navbar-text { color: rgba(0, 0, 0, 0.5); }
 
-.navbar-light .navbar-text a { color: rgba(4, 168, 151, 0.9); }
+.navbar-light .navbar-text a { color: rgba(0, 0, 0, 0.9); }
 
-.navbar-light .navbar-text a:hover, .navbar-light .navbar-text a:focus { color: rgba(4, 168, 151, 0.9); }
+.navbar-light .navbar-text a:hover, .navbar-light .navbar-text a:focus { color: rgba(0, 0, 0, 0.9); }
 
 .navbar-dark .navbar-brand { color: #ffffff; }
 
@@ -1557,7 +1557,7 @@ tbody.collapse.show { display: table-row-group; }
 
 .navbar-dark .navbar-nav .nav-link { color: rgba(255, 255, 255, 0.5); }
 
-.navbar-dark .navbar-nav .nav-link:hover, .navbar-dark .navbar-nav .nav-link:focus { color: #04a897; }
+.navbar-dark .navbar-nav .nav-link:hover, .navbar-dark .navbar-nav .nav-link:focus { color: rgba(255, 255, 255, 0.75); }
 
 .navbar-dark .navbar-nav .nav-link.disabled { color: rgba(255, 255, 255, 0.25); }
 
@@ -3229,7 +3229,7 @@ a.text-lime:hover, a.text-lime:focus { color: #b8bd20 !important; }
 
 @media (max-width: 767.98px) { .navbar-brand .logo { height: 3em; } }
 
-.navbar-brand .subheading { font-size: 0.6rem; padding-top: 0.3em; color: #044484; }
+.navbar-brand .subheading { font-size: 0.6rem; padding-top: 0.3em; color: #ffffff; }
 
 .banner { width: 100%; background: #044484; color: #ffffff; padding: 0.4em 0; }
 
@@ -3263,9 +3263,9 @@ a.text-lime:hover, a.text-lime:focus { color: #b8bd20 !important; }
 
 .header-carousel .carousel-indicators li { width: auto; height: auto; text-indent: initial; }
 
-.header-carousel .carousel-indicators li .hero-indicator-image { width: 100px; height: 100px; background-position-x: center; background-position-y: center; background-size: cover; background-repeat: no-repeat; }
+.header-carousel .carousel-indicators li .hero-indicator-image { width: 100px; height: 100px; background-position-x: center; background-position-y: center; background-size: cover; background-repeat: no-repeat; opacity: 0.3; }
 
-.header-carousel .carousel-indicators li.active .hero-indicator-image { opacity: 0.3; }
+.header-carousel .carousel-indicators li.active .hero-indicator-image { opacity: 1; }
 
 .home-events-section { background: #521e4a; }
 
@@ -3306,7 +3306,7 @@ a.text-lime:hover, a.text-lime:focus { color: #b8bd20 !important; }
   .show-header .showtime-summary { font-size: 1em; }
   .show-header .show-details { text-align: center; } }
 
-@media (min-width: 576px) { .show-header .show-details { padding-top: 100px; } }
+@media (min-width: 576px) { .show-header .show-details { padding-top: 150px; } }
 
 @media (max-width: 991.98px) { .show-header .show-title { font-size: 4em; padding-bottom: 0.25em; margin-top: 0.25em; }
   .show-header .show-subtitle { padding-bottom: 0.25em; }
