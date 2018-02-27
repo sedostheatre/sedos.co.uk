@@ -1,9 +1,5 @@
 ---
 title: Sechoir
-times:
-  - 2018-01-26 19:30:00
-  - 2018-02-26 19:30:00
-  - 2018-03-26 19:30:00
 image: assets/images/events/sechoir-banner.jpg
 ---
 

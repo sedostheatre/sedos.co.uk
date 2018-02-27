@@ -110,19 +110,14 @@ Pipelines.Add("Events",
 
 Pipelines.Add("UpcomingEvents",
     Documents("Events"),
-    Where((doc, ctx) => {
-        return doc.Get<IEnumerable<DateTime>>("times").Any(time => time > DateTime.Now);
-    }),
-    OrderBy((doc, ctx) => {
-        return doc.Get<IEnumerable<DateTime>>("times").Where(time => time > DateTime.Now).OrderBy(time => time).First();
-    })
+    Where((doc, ctx) => doc.Get<DateTime>("time") > DateTime.Now),
+    OrderBy((doc, ctx) => doc.Get<DateTime>("time"))
 );
 
 Pipelines.Add("RegularEvents",
     ReadFiles("regular-events/*.md"),
     FrontMatter(Yaml()),
     Markdown().UseExtension<Markdig.Extensions.Bootstrap.BootstrapExtension>(),
-    Excerpt().WithOuterHtml(false),
     Meta("image", (doc, ctx) =>
         ctx.Execute(
             new IModule[] {

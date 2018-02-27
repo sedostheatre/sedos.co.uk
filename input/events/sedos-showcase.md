@@ -1,8 +1,6 @@
 ---
 title: Sedos showcase
-times:
-  - 2018-05-13 19:30:00
-  - 2018-05-14 19:30:00
+times: 2018-05-13 19:30:00
 image: assets/images/events/simprov-banner.jpg
 ---
 

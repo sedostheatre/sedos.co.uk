@@ -1,10 +1,5 @@
 ---
 title: Simprov
-times:
-  - 2018-03-26 19:30:00
-  - 2018-04-03 19:30:00
-  - 2018-04-10 19:30:00
-  - 2018-04-17 19:30:00
 image: assets/images/events/simprov-banner.jpg
 ---
 
