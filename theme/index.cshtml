@@ -4,16 +4,18 @@ float-nav: true
 
 <div class="header-carousel">
     <div class="carousel slide" data-ride="carousel" id="hero-carousel">
-        <ul class="carousel-indicators list-inline">
-            @{
-                foreach(var show in Documents["UpcomingShows"].Select((value, i) => new { Image=Context.GetLink(value.Get<IDocument>("header-image")), Index=i }))
-                {
-                    <li data-target="#hero-carousel" data-slide-to="@show.Index" class="@(show.Index==0?"active":"") list-inline-item">
-                        <div class="hero-indicator-image" style="background-image: url(@show.Image)"></div>
-                    </li>
+        @if(Documents["UpcomingShows"].Count() > 1) {
+            <ul class="carousel-indicators list-inline">
+                @{
+                    foreach(var show in Documents["UpcomingShows"].Select((value, i) => new { Image=Context.GetLink(value.Get<IDocument>("header-image")), Index=i }))
+                    {
+                        <li data-target="#hero-carousel" data-slide-to="@show.Index" class="@(show.Index==0?"active":"") list-inline-item">
+                            <div class="hero-indicator-image" style="background-image: url(@show.Image)"></div>
+                        </li>
+                    }
                 }
-            }
-        </ul>
+            </ul>
+        }
         <div class="carousel-inner" role="listbox">
             @{
                 foreach(var show in Documents["UpcomingShows"].Take(1))
