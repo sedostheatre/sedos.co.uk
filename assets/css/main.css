@@ -3253,7 +3253,7 @@ a.text-lime:hover, a.text-lime:focus { color: #b8bd20 !important; }
 
 .home-page-show-carousel-item { height: 70vh; border-radius: 0; }
 
-.home-page-show-carousel-item a, .home-page-show-carousel-item a:focus, .home-page-show-carousel-item a:hover { color: white; text-decoration: none; }
+.home-page-show-carousel-item .show-title a, .home-page-show-carousel-item .show-title a:focus, .home-page-show-carousel-item .show-title a:hover { color: white; text-decoration: none; }
 
 .home-page-show-carousel-item .row { height: 100%; }
 
