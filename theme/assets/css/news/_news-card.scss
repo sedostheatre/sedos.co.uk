@@ -3,8 +3,10 @@
     color: white;
     background: $light-blue;
 
+    border: none;
+
     .card-body {
-        height: 211px;
+        height: 100px;
         overflow: hidden;
         margin-bottom: 20px;
     }
@@ -13,5 +15,9 @@
         a {
             color: white;
         }
+    }
+
+    .card-footer, .card-header {
+        background: darken($light-blue, 10);
     }
 }
