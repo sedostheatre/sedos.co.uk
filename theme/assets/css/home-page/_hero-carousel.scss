@@ -16,9 +16,8 @@
 
 .header-carousel {
     @include media-breakpoint-up(sm) {
-        .carousel-inner {
-            padding-bottom: 130px;
-
+        .has-indicators {
+            margin-bottom: 130px;
         }
     }
 

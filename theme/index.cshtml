@@ -16,7 +16,7 @@ float-nav: true
                 }
             </ul>
         }
-        <div class="carousel-inner" role="listbox">
+        <div class="carousel-inner @(Documents["UpcomingShows"].Count() > 1 ? "has-indicators" : "")" role="listbox">
             @{
                 foreach(var show in Documents["UpcomingShows"].Take(1))
                 {
