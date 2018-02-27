@@ -79,7 +79,6 @@ Pipelines.Add("News",
     WriteFiles(".html")
 );
 
-
 Pipelines.Add("LatestNews",
     Documents("News"),
     OrderBy((doc, ctx) => {
