@@ -1,4 +1,5 @@
 tools/
+!tools/packages.config
 
 output/
 packages\.xml
