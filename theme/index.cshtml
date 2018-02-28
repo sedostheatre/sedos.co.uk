@@ -53,14 +53,17 @@ float-nav: true
     <div class="container">
         <div class="row">
             <div class="col-md-3">
-                <h3 style="color:white;">Sedance</h3>
-                every wednesday
-
-                <h3 style="color:white;">Simprov</h3>
-                every other Friday
-
-                <h3 style="color:white;">Sechoir</h3>
-                every wednesday
+                @{
+                    foreach(var eventItem in Documents["RegularEvents"].Take(3).OrderBy(i => i["title"]))
+                    {
+                        <div class="card mb-3 border-0">
+                            <div class="card-header bg-pink">
+                                <h4 class="card-title text-white">@eventItem["title"]</h4>
+                                <div class="card-text text-light"><small>@eventItem.Get("recurrence", "")</small></div>
+                            </div>
+                        </div>
+                    }
+                }
             </div>
             @{
                 foreach(var eventItem in Documents["UpcomingEvents"].Take(3))

@@ -1,6 +1,7 @@
 ---
 title: Sedance
 image: assets/images/events/sedance-banner.jpg
+recurrence: every wednesday
 ---
 
 Sedance happens fortnightly. Some other copy should probably go in here.
