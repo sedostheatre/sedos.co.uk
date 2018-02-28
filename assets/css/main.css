@@ -3279,9 +3279,9 @@ a.text-lime:hover, a.text-lime:focus { color: #b8bd20 !important; }
 
 .social-icons .social-icon { height: 2rem; margin: 0 0.25rem; }
 
-.news-card { overflow: hidden; color: white; background: #23778e; border: none; }
+.news-card { height: 300px; }
 
-.news-card .card-body { height: 100px; overflow: hidden; margin-bottom: 20px; }
+.news-card .card-body { overflow: hidden; margin-bottom: 20px; }
 
 .news-card .card-footer a { color: white; }
 
