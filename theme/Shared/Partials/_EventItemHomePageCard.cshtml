@@ -1,9 +1,10 @@
 @model IDocument
 
 <div class="col-md-3 col-sm-6 event-card-container mb-3 mb-md-0">
-    <div class="card event-card">
+    <div class="card event-card bg-pink text-white border-0">
         <div class="card-header">
             <h4 class="card-title">@Model["title"]</h4>
+            <div class="card-text text-light"><small>@(Model.Get<DateTime>("time").ToString("MMMM dd"))</small></div>
         </div>
         <img class="card-img-top" src="@Context.GetLink((IDocument)Model["image"])">
         <div class="card-footer text-muted">
