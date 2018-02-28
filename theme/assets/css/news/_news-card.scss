@@ -1,12 +1,7 @@
 .news-card {
-    overflow: hidden;
-    color: white;
-    background: $light-blue;
-
-    border: none;
+    height: 300px;
 
     .card-body {
-        height: 100px;
         overflow: hidden;
         margin-bottom: 20px;
     }
