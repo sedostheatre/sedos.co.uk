@@ -1,13 +1,16 @@
 ---
 title: Dogfight
-subtitle: "Something something subtitle"
+authors: Benj Paske, Justin Paul and Peter Duchan
+subtitle: |
+  A contemporary musical by the authors of Dear Evan Hansen
 showtimes:
   - 2018-03-06 19:30:00
 primary-color: "#555500"
 flyer: assets/images/flyers/2018-dogfight-flyer.jpg
-showtime-summary: Tues 23 Jan - Sat 27 Jan, 7:30pm (Sat matinee 2:30pm)
+showtime-summary: 23-27 January
 header-image: assets/images/headers/2018-dogfight-header-image.jpg
 float-nav: true
+venue: Bridewell Theatre
 ---
 
 > The whole damn world might change tomorrow

@@ -1,4 +1,17 @@
 .show-header {
+    .show-details-top {
+        flex-grow: 1;
+    }
+
+    .show-details{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .show-details-bottom {
+        padding-bottom: 30px;
+    }
+
     .show-header-image {
         background-position-x: center;
         background-position-y: center;
@@ -16,17 +29,24 @@
 
     .show-subtitle {
         font-size: 2em;
+        font-weight: 300;
+        color: white;
+        padding-bottom: 1em;
+    }
+
+    .show-authors {
+        font-size: 2em;
         font-weight: 700;
         color: white;
         padding-bottom: 1em;
     }
 
     .showtime-summary {
-        font-size: 1.5em;
+        font-size: 1.3em;
         font-weight: 300;
         color: white;
-        padding-bottom: 1em;
-
+        padding-bottom: 0.5em;
+        text-transform: uppercase;
     }
 
     @include media-breakpoint-down(sm) {
@@ -38,10 +58,6 @@
             font-size: 1.5em;
         }
 
-        .showtime-summary {
-            font-size: 1em;
-        }
-
         .show-details {
             text-align: center;
         }
@@ -49,10 +65,9 @@
 
     @include media-breakpoint-up(sm) {
         .show-details {
-            padding-top: 150px;
+            padding-top: 120px;
         }
     }
-
 
     @include media-breakpoint-down(md) {
         .show-title {
@@ -62,10 +77,6 @@
         }
 
         .show-subtitle {
-            padding-bottom: 0.25em;
-        }
-
-        .showtime-summary {
             padding-bottom: 0.25em;
         }
 

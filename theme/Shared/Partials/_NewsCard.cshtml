@@ -2,8 +2,10 @@
 
 <div class="col-md-3 col-sm-6 news-card-container">
     <div class="card news-card border-0">
-        <div class="card-body">
+        <div class="card-header">
             <h4 class="card-title">@Model["title"]</h4>
+        </div>
+        <div class="card-body">
             <p class="card-text news-excerpt">@Html.Raw(Model["Excerpt"])</p>
         </div>
         <div class="card-footer text-muted">
@@ -11,6 +13,5 @@
                     Read the full article
                 </a>
         </div>
-        
     </div>
 </div>

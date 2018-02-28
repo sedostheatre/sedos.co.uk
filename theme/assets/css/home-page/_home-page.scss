@@ -4,9 +4,12 @@
 .home-events-section {
     @extend %page-section;
     background: $purple;
+    margin-top: 3px;
+    margin-bottom: 3px;
 }
 
 .home-news-section {
     @extend %page-section;
     background: $turquoise;
+    margin-top: 3px;
 }

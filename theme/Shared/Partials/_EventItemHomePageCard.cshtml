@@ -1,14 +1,14 @@
 @model IDocument
 
-<div class="col-md-3 col-sm-6">
-    <div class="card">
-        <img class="card-img-top" src="@Context.GetLink((IDocument)Model["image"])">
-        <div class="card-img-overlay">
+<div class="col-md-3 col-sm-6 event-card-container">
+    <div class="card event-card">
+        <div class="card-header">
             <h4 class="card-title">@Model["title"]</h4>
         </div>
+        <img class="card-img-top" src="@Context.GetLink((IDocument)Model["image"])">
         <div class="card-footer text-muted">
             <a href="@Context.GetLink(Model)" >
-                See more...
+                See more
             </a>
         </div>
     </div>

@@ -2,4 +2,6 @@
 
 .news-section {
     @extend %page-section;
+    background: $turquoise;
+    margin-bottom: 3px;
 }

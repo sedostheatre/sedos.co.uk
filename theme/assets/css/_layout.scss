@@ -5,7 +5,12 @@
     padding: 0.4em 0;
 
     &.empty-divider {
-        height: 3em;
+        height: 3px;
+        margin-bottom: 3px
+    }
+
+    h1 {
+        font-size: 1.75em;
     }
 }
 
