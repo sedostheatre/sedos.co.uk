@@ -3233,7 +3233,9 @@ a.text-lime:hover, a.text-lime:focus { color: #b8bd20 !important; }
 
 .banner { width: 100%; background: #044484; color: #ffffff; padding: 0.4em 0; }
 
-.banner.empty-divider { height: 3em; }
+.banner.empty-divider { height: 3px; margin-bottom: 3px; }
+
+.banner h1 { font-size: 1.75em; }
 
 .home-events-section, .home-news-section, .news-section, .events-section { padding-top: 30px; padding-bottom: 30px; }
 
@@ -3269,50 +3271,60 @@ a.text-lime:hover, a.text-lime:focus { color: #b8bd20 !important; }
 
 .header-carousel .carousel-indicators li.active .hero-indicator-image { opacity: 1; }
 
-.home-events-section { background: #521e4a; }
+.home-events-section { background: #521e4a; margin-top: 3px; margin-bottom: 3px; }
 
-.home-news-section { background: #04a897; }
+.home-news-section { background: #04a897; margin-top: 3px; }
 
 .social-icons { list-style: none; flex-direction: row; display: flex; padding: 0; float: right; }
 
 .social-icons .social-icon { height: 2rem; margin: 0 0.25rem; }
 
-.nav-tabs.show-nav-tabs { border-left: 1px solid #dee2e6; border-right: 1px solid #dee2e6; }
+.news-card { overflow: hidden; color: white; background: #23778e; border: none; }
 
-.nav-tabs.show-nav-tabs .nav-link { border: none; border-top-left-radius: 0; border-top-right-radius: 0; }
-
-.nav-tabs.show-nav-tabs .nav-link.active { background: #044484; color: white; }
-
-.news-card { overflow: hidden; color: white; background: #23778e; }
-
-.news-card .card-body { height: 211px; overflow: hidden; margin-bottom: 20px; }
+.news-card .card-body { height: 100px; overflow: hidden; margin-bottom: 20px; }
 
 .news-card .card-footer a { color: white; }
 
-.event-card { height: 230px; overflow: hidden; }
+.news-card .card-footer, .news-card .card-header { background: #195565; }
 
-.event-card .event-excerpt { height: 206px; background-position-x: center; background-position-y: center; background-size: cover; background-repeat: no-repeat; }
+.news-section { background: #04a897; margin-bottom: 3px; }
 
-.event-card .event-excerpt .card-title { color: white; }
+.event-card { overflow: hidden; color: white; background: #c92c71; border: none; }
+
+.event-card .card-body { height: 100px; overflow: hidden; margin-bottom: 20px; }
+
+.event-card .card-footer a { color: white; }
+
+.event-card .card-img-top { height: 200px; }
+
+.event-card .card-footer, .event-card .card-header { background: #9f2359; }
+
+.events-section { background: #521e4a; margin-bottom: 3px; }
+
+.show-header .show-details-top { flex-grow: 1; }
+
+.show-header .show-details { display: flex; flex-direction: column; }
+
+.show-header .show-details-bottom { padding-bottom: 30px; }
 
 .show-header .show-header-image { background-position-x: center; background-position-y: center; background-size: cover; background-repeat: no-repeat; }
 
 .show-header .show-title { font-size: 4.5em; font-weight: 900; margin-bottom: 0; color: white; padding-bottom: 0.5em; }
 
-.show-header .show-subtitle { font-size: 2em; font-weight: 700; color: white; padding-bottom: 1em; }
+.show-header .show-subtitle { font-size: 2em; font-weight: 300; color: white; padding-bottom: 1em; }
 
-.show-header .showtime-summary { font-size: 1.5em; font-weight: 300; color: white; padding-bottom: 1em; }
+.show-header .show-authors { font-size: 2em; font-weight: 700; color: white; padding-bottom: 1em; }
+
+.show-header .showtime-summary { font-size: 1.3em; font-weight: 300; color: white; padding-bottom: 0.5em; text-transform: uppercase; }
 
 @media (max-width: 767.98px) { .show-header .show-title { font-size: 3em; }
   .show-header .show-subtitle { font-size: 1.5em; }
-  .show-header .showtime-summary { font-size: 1em; }
   .show-header .show-details { text-align: center; } }
 
-@media (min-width: 576px) { .show-header .show-details { padding-top: 150px; } }
+@media (min-width: 576px) { .show-header .show-details { padding-top: 120px; } }
 
 @media (max-width: 991.98px) { .show-header .show-title { font-size: 4em; padding-bottom: 0.25em; margin-top: 0.25em; }
   .show-header .show-subtitle { padding-bottom: 0.25em; }
-  .show-header .showtime-summary { padding-bottom: 0.25em; }
   .show-header .show-action-bar { padding-top: 0.5em; } }
 
 .show-page-header { height: 70vh; border-radius: 0; }
