@@ -3289,15 +3289,11 @@ a.text-lime:hover, a.text-lime:focus { color: #b8bd20 !important; }
 
 .news-section { background: #04a897; margin-bottom: 3px; }
 
-.event-card { overflow: hidden; color: white; background: #c92c71; border: none; }
-
 .event-card .card-body { height: 100px; overflow: hidden; margin-bottom: 20px; }
 
 .event-card .card-footer a { color: white; }
 
 .event-card .card-img-top { height: 200px; }
-
-.event-card .card-footer, .event-card .card-header { background: #9f2359; }
 
 .events-section { background: #521e4a; margin-bottom: 3px; }
 
