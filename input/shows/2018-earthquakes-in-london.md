@@ -1,6 +1,6 @@
 ---
 title: "Earthquakes in London"
-subtitle: ""
+subtitle: "by Mike Bartlett"
 showtimes:
   - 2018-07-10 19:30:00
   - 2018-07-11 19:30:00
@@ -9,7 +9,7 @@ showtimes:
   - 2018-07-14 19:30:00
   - 2018-07-14 14:30:00
 primary-color: "#17a2b8"
-showtime-summary: ""
+showtime-summary: "10-14 July"
 header-image: assets/images/headers/2018-earthquakes.jpg
 flyer: assets/images/headers/2018-earthquakes.jpg
 ---
