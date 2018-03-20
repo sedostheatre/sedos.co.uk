@@ -13,3 +13,9 @@
     background: $turquoise;
     margin-top: 3px;
 }
+
+.regular-event-card {
+    a, a:focus, a:hover {
+        color: white;
+    }
+}

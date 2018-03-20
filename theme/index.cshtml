@@ -56,11 +56,13 @@ float-nav: true
                 @{
                     foreach(var eventItem in Documents["RegularEvents"].Take(3).OrderBy(i => i["title"]))
                     {
-                        <div class="card mb-3 border-0">
-                            <div class="card-header bg-pink">
-                                <h4 class="card-title text-white">@eventItem["title"]</h4>
-                                <div class="card-text text-light"><small>@eventItem.Get("recurrence", "")</small></div>
-                            </div>
+                        <div class="card mb-3 border-0 regular-event-card">
+                            <a href="@Context.GetLink(eventItem)">
+                                <div class="card-header bg-pink">
+                                    <h4 class="card-title text-white">@eventItem["title"]</h4>
+                                    <div class="card-text text-light"><small>@eventItem.Get("recurrence", "")</small></div>
+                                </div>
+                            </a>
                         </div>
                     }
                 }
