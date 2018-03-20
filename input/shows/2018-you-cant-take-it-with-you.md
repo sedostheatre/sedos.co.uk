@@ -7,12 +7,14 @@ showtimes:
   - 2018-04-11 19:30:00
   - 2018-04-12 19:30:00
   - 2018-04-13 19:30:00
-  - 2018-04-13 14:30:00
+  - 2018-04-14 14:30:00
   - 2018-04-14 19:30:00
 primary-color: "#0b0f18"
 showtime-summary: "9-14 APRIL"
 header-image: assets/images/flyers/2018-you-cant-flyer.jpg
 flyer: assets/images/flyers/2018-you-cant-flyer.jpg
+ticket-prices: "£14-18.50"
+venue: Bridewell
 ---
 
 > How many of us would be willing to settle when we're young for what we eventually get? All those plans we make...what happens to them? It's only a handful of the lucky ones that can look back and say that they even came close.
