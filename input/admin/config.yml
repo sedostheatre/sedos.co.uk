@@ -91,9 +91,13 @@ collections:
         name: "date"
         widget: "date"
         format: "YYYY-MM-DD"
+      - label: "Extract"
+        name: "extract"
+        widget: "string"
       - label: "Article content"
         name: "body"
         widget: "markdown"
+
   - name: "events"
     label: "Event"
     description: >
