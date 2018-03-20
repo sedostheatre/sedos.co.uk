@@ -134,6 +134,28 @@ Pipelines.Add("RegularEvents",
     WriteFiles(".html")
 );
 
+
+Pipelines.Add("AboutSections",
+    ReadFiles("about/*.md"),
+    FrontMatter(Yaml()),
+    Markdown().UseExtension<Markdig.Extensions.Bootstrap.BootstrapExtension>(),
+    Meta("about-image", (doc, ctx) =>
+        ctx.Execute(
+            new IModule[] {
+                ReadFiles((doc2, ctx2) => doc.Get<string>("about-image")),
+                Image().SetJpegQuality(100).Resize(300, 300),
+                WriteFiles()
+            },
+            new IDocument[] {
+                doc
+            }
+        ).FirstOrDefault()
+    ),
+    Razor().WithViewStart("Layout/_PageViewStart.cshtml"),
+    WriteFiles(".html")
+);
+
+
 Pipelines.Add("Sass",
     ReadFiles("assets/css/main.scss"),
     Sass().WithCompactOutputStyle(),
@@ -148,7 +170,7 @@ Pipelines.Add("Index",
 );
 
 Pipelines.Add("TopLevelPages",
-    ReadFiles("news.cshtml", "all-shows.cshtml"),
+    ReadFiles("news.cshtml", "all-shows.cshtml", "about.cshtml"),
     FrontMatter(Yaml()),
     Razor().WithViewStart("Layout/_PageViewStart.cshtml"),
     WriteFiles(".html")

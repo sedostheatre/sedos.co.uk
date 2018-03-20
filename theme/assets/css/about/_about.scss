@@ -1,0 +1,22 @@
+.about-section {
+    @extend %page-section;
+    background: $turquoise;
+}
+
+.about-card {
+
+    .card-body {
+        overflow: hidden;
+        margin-bottom: 20px;
+    }
+
+    .card-footer {
+        a {
+            color: white;
+        }
+    }
+
+    .card-footer, .card-header {
+        background: darken($light-blue, 10);
+    }
+}

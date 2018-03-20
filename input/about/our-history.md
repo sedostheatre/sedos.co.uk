@@ -1,7 +1,8 @@
 ---
-title: About Us
-use-container: true
-show-carousel: true
+about-row: 1
+about-column: 1
+title: Our History
+about-image: assets/images/about/our-history.jpg
 ---
 
 With a membership of over 200, a programme of around 8 to 10 challenging fringe theatre productions every year and a reputation for West End quality in every production, Sedos are proud of their claim to be the premier amateur theatre group in London.
