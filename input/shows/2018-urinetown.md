@@ -1,5 +1,5 @@
 ---
-title: "Urinetone"
+title: "Urinetown"
 subtitle: ""
 showtimes:
   - 2018-11-21 19:30:00
@@ -15,6 +15,6 @@ showtimes:
   - 2018-12-01 14:30:00
 primary-color: "#0b0f18"
 showtime-summary: ""
-header-image:
-flyer:
+header-image: assets/images/headers/2018-lucky-stiff.jpg
+flyer: assets/images/headers/2018-lucky-stiff.jpg
 ---
