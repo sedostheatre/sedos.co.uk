@@ -46,6 +46,11 @@ float-nav: true
             }
         }
         </div>
+        <div class="row justify-content-center">
+            <div class="col-auto mt-3">
+                <a class="text-white" href="@Context.GetLink("/news")">view all</a>
+            </div>
+        </div>
     </div>
 </div>
 
@@ -73,6 +78,11 @@ float-nav: true
                     Html.RenderPartial("Partials/_EventItemHomePageCard", @eventItem);
                 }
             }
+        </div>
+        <div class="row justify-content-center">
+            <div class="col-auto mt-3">
+                <a class="text-white" href="@Context.GetLink("/events")">view all</a>
+            </div>
         </div>
     </div>
 </div>
