@@ -1,0 +1,20 @@
+---
+title: "Urinetown"
+subtitle: ""
+showtimes:
+  - 2018-11-21 19:30:00
+  - 2018-11-22 19:30:00
+  - 2018-11-23 19:30:00
+  - 2018-11-24 19:30:00
+  - 2018-11-24 14:30:00
+  - 2018-11-28 19:30:00
+  - 2018-11-29 19:30:00
+  - 2018-11-30 19:30:00
+  - 2018-11-31 19:30:00
+  - 2018-12-01 19:30:00
+  - 2018-12-01 14:30:00
+primary-color: "#0b0f18"
+showtime-summary: ""
+header-image: assets/images/headers/2018-lucky-stiff.jpg
+flyer: assets/images/headers/2018-lucky-stiff.jpg
+---
