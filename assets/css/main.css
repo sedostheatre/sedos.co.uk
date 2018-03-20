@@ -3237,7 +3237,7 @@ a.text-lime:hover, a.text-lime:focus { color: #b8bd20 !important; }
 
 .banner h1 { font-size: 1.75em; }
 
-.home-events-section, .home-news-section, .news-section, .events-section { padding-top: 30px; padding-bottom: 30px; }
+.home-events-section, .home-news-section, .news-section, .events-section, .about-section { padding-top: 30px; padding-bottom: 30px; }
 
 .header-carousel .header-carousel-image { background-position-x: center; background-position-y: center; background-size: cover; background-repeat: no-repeat; height: 70vh; border-radius: 0; }
 
@@ -3328,3 +3328,11 @@ a.text-lime:hover, a.text-lime:focus { color: #b8bd20 !important; }
 .show-page-header { height: 70vh; border-radius: 0; }
 
 .show-page-header .row { height: 100%; }
+
+.about-section { background: #04a897; }
+
+.about-card .card-body { overflow: hidden; margin-bottom: 20px; }
+
+.about-card .card-footer a { color: white; }
+
+.about-card .card-footer, .about-card .card-header { background: #195565; }
