@@ -3275,6 +3275,8 @@ a.text-lime:hover, a.text-lime:focus { color: #b8bd20 !important; }
 
 .home-news-section { background: #04a897; margin-top: 3px; }
 
+.regular-event-card a, .regular-event-card a:focus, .regular-event-card a:hover { color: white; }
+
 .social-icons { list-style: none; flex-direction: row; display: flex; padding: 0; float: right; }
 
 .social-icons .social-icon { height: 2rem; margin: 0 0.25rem; }
