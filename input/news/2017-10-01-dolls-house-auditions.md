@@ -1,6 +1,7 @@
 ---
 title: A Doll's House Auditions
 date: 2017-10-01
+extract: "A Doll's House Auditions"
 ---
 
 We have great pleasure in announcing the audition and workshop dates for our first production of 2018.

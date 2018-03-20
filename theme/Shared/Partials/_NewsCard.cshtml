@@ -6,7 +6,11 @@
             <h4 class="card-title">@Model["title"]</h4>
         </div>
         <div class="card-body">
-            <p class="card-text news-excerpt">@Html.Raw(Model["Excerpt"])</p>
+            @{
+                var extract = Model.Get("extract", "");
+                extract = string.IsNullOrEmpty(extract) ? (string)Model["Excerpt"] : extract;
+            }
+            <p class="card-text news-excerpt">@Html.Raw(extract)</p>
         </div>
         <div class="card-footer text-muted">
             <a href="@Context.GetLink(Model)" >

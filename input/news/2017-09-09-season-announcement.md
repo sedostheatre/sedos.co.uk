@@ -1,6 +1,7 @@
 ---
 title: 2018 Sedos Season
 date: 2017-09-09
+extract: ""
 ---
 
 We're delighted to announce the 2018 Sedos Season of 4 plays and 4 musicals.
