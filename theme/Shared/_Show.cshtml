@@ -46,18 +46,22 @@
         <div class="col-md-4">
             <h4>@Model.Get("Venue")</h4>
             @{
-                var showDates = Model.Get("showtimes", Enumerable.Empty<DateTime>()).OrderBy(x => x).Select(x => x.ToString("f"));
+                var showDates = Model.Get("showtimes", Enumerable.Empty<DateTime>()).OrderBy(x => x);
                 if(showDates.Any())
                 {
                     <ul>
-                        @foreach(var showDate in showDates)
+                        @foreach(var showDate in showDates.Select(x => x.ToString("f")))
                         {
                             <li>@showDate</li>
                         }
                     </ul>
+
+                    if(showDates.Any(x => x > DateTime.Now))
+                    {
+                        <button class="btn">Book tickets</button>
+                    }
                 }
             }
-            <button class="btn">Book tickets</button>
         </div>
     </div>
 </div>
