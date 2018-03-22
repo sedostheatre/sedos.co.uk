@@ -1,5 +1,11 @@
 .news-card {
-    height: 300px;
+    @include media-breakpoint-down(sm) {
+        max-height: 300px;
+    }
+
+    @include media-breakpoint-up(sm) {
+        height: 300px;
+    }
 
     .card-body {
         overflow: hidden;
