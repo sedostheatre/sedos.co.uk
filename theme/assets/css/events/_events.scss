@@ -25,3 +25,8 @@
     background: $purple;
     margin-bottom: 3px;
 }
+
+.top-events-section {
+    @extend .events-section;
+    margin-top: 3px;
+}

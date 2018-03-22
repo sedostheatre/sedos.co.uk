@@ -7,6 +7,21 @@
 
     .social-icon {
         height: 2rem;
-        margin: 0 0.25rem;
+        margin: 0 0.4rem;
+    }
+}
+
+.footer-image {
+    height: 60px;
+}
+
+.footer-container {
+    border-top: $sedos-blue 3px solid;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+    .navigation-link {
+        line-height: 30px;
+        font-size: 18px;
     }
 }

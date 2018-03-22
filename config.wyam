@@ -143,7 +143,7 @@ Pipelines.Add("AboutSections",
         ctx.Execute(
             new IModule[] {
                 ReadFiles((doc2, ctx2) => doc.Get<string>("about-image")),
-                Image().SetJpegQuality(100).Resize(300, 300),
+                Image().SetJpegQuality(100).Resize(600, 300),
                 WriteFiles()
             },
             new IDocument[] {
@@ -172,6 +172,18 @@ Pipelines.Add("Index",
 Pipelines.Add("TopLevelPages",
     ReadFiles("news.cshtml", "all-shows.cshtml", "about.cshtml"),
     FrontMatter(Yaml()),
+    Meta("header-images", (doc, ctx) =>
+        ctx.Execute(
+            new IModule[] {
+                ReadFiles((doc2, ctx2) => doc.Get<string>("header-images")),
+                Image().SetJpegQuality(80).Resize(width: 1280, height: null),
+                WriteFiles()
+            },
+            new IDocument[] {
+                doc
+            }
+        ).FirstOrDefault()
+    ),
     Razor().WithViewStart("Layout/_PageViewStart.cshtml"),
     WriteFiles(".html")
 );
@@ -179,6 +191,18 @@ Pipelines.Add("TopLevelPages",
 Pipelines.Add("Markdown",
     ReadFiles("*.md"),
     FrontMatter(Yaml()),
+    Meta("header-images", (doc, ctx) =>
+        ctx.Execute(
+            new IModule[] {
+                ReadFiles((doc2, ctx2) => doc.Get<string>("header-images")),
+                Image().SetJpegQuality(80).Resize(width: 1280, height: null),
+                WriteFiles()
+            },
+            new IDocument[] {
+                doc
+            }
+        ).FirstOrDefault()
+    ),
     Markdown().UseExtension<Markdig.Extensions.Bootstrap.BootstrapExtension>(),
     Razor().WithViewStart((doc, ctx) => doc.Get("view-start", "Layout/_PageViewStart.cshtml")),
     WriteFiles(".html")

@@ -1,6 +1,8 @@
 .about-section {
     @extend %page-section;
-    background: $turquoise;
+    background: $lighter-blue;
+    padding-bottom: 15px;
+    padding-top: 15px;
 }
 
 .about-card {
@@ -17,6 +19,10 @@
     }
 
     .card-footer, .card-header {
-        background: darken($light-blue, 10);
+        background: $sedos-blue;
+    }
+
+    .card-header {
+        margin-bottom: 3px;
     }
 }

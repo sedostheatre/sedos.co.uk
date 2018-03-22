@@ -5,3 +5,8 @@
     background: $turquoise;
     margin-bottom: 3px;
 }
+
+.top-news-section {
+    @extend .news-section;
+    margin-top: 3px;
+}

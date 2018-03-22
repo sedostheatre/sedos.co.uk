@@ -1,6 +1,10 @@
 ---
 title: Latest news
-show-carousel: true
+float-nav: true
+hide-top-title: true
+display-carousel: true
+header-images:
+  - assets/images/headers/molm.jpg
 ---
 
 @{
@@ -10,7 +14,7 @@ show-carousel: true
 
     var latestNews = news.First();
 
-    <div class="news-section">
+    <div class="top-news-section">
         <div class="container">
             <div class="row">
                 @foreach(var article in latestNews)
