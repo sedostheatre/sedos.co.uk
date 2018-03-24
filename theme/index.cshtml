@@ -4,43 +4,52 @@ float-nav: true
 
 <div class="header-carousel">
     <div class="carousel slide" data-ride="carousel" id="hero-carousel">
-        @if(Documents["UpcomingShows"].Count() > 1) {
-            <ul class="carousel-indicators list-inline">
+        @{
+            var upcomingShows = Documents["AllShows"].Where(show =>
+                show.Get("showtimes", Enumerable.Empty<DateTime>()).Any(showTime => showTime > DateTime.Now)
+            ).OrderBy(show => 
+                show.Get<IEnumerable<DateTime>>("showtimes").OrderBy(showTime => showTime).First()
+            ).Take(3);
+        
+            if(upcomingShows.Count() > 1) 
+            {
+                <ul class="carousel-indicators list-inline">
+                    @{
+                        foreach(var show in upcomingShows.Select((value, i) => new { Image=Context.GetLink(value.Get<IDocument>("header-image")), Index=i }))
+                        {
+                            <li data-target="#hero-carousel" data-slide-to="@show.Index" class="@(show.Index==0?"active":"") list-inline-item">
+                                <div class="hero-indicator-image" style="background-image: url(@show.Image)"></div>
+                            </li>
+                        }
+                    }
+                </ul>
+            }
+            <div class="carousel-inner @(upcomingShows.Count() > 1 ? "has-indicators" : "")" role="listbox">
                 @{
-                    foreach(var show in Documents["UpcomingShows"].Select((value, i) => new { Image=Context.GetLink(value.Get<IDocument>("header-image")), Index=i }))
+                    foreach(var show in upcomingShows.Take(1))
                     {
-                        <li data-target="#hero-carousel" data-slide-to="@show.Index" class="@(show.Index==0?"active":"") list-inline-item">
-                            <div class="hero-indicator-image" style="background-image: url(@show.Image)"></div>
-                        </li>
+                        <div class="home-page-show-carousel-item carousel-item active">
+                            @Html.Partial("Partials/_HomePageShowHeader", show)
+                        </div>
+                    }
+
+                    foreach(var show in upcomingShows.Skip(1))
+                    {
+                        <div class="home-page-show-carousel-item carousel-item">
+                            @Html.Partial("Partials/_HomePageShowHeader", show)
+                        </div>
                     }
                 }
-            </ul>
+            </div>
+            <a class="carousel-control-prev" href="#hero-carousel" role="button" data-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="sr-only">Previous</span>
+            </a>
+            <a class="carousel-control-next" href="#hero-carousel" role="button" data-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="sr-only">Next</span>
+            </a>
         }
-        <div class="carousel-inner @(Documents["UpcomingShows"].Count() > 1 ? "has-indicators" : "")" role="listbox">
-            @{
-                foreach(var show in Documents["UpcomingShows"].Take(1))
-                {
-                    <div class="home-page-show-carousel-item carousel-item active">
-                        @Html.Partial("Partials/_HomePageShowHeader", show)
-                    </div>
-                }
-
-                foreach(var show in Documents["UpcomingShows"].Skip(1))
-                {
-                    <div class="home-page-show-carousel-item carousel-item">
-                        @Html.Partial("Partials/_HomePageShowHeader", show)
-                    </div>
-                }
-            }
-        </div>
-        <a class="carousel-control-prev" href="#hero-carousel" role="button" data-slide="prev">
-            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-            <span class="sr-only">Previous</span>
-        </a>
-        <a class="carousel-control-next" href="#hero-carousel" role="button" data-slide="next">
-            <span class="carousel-control-next-icon" aria-hidden="true"></span>
-            <span class="sr-only">Next</span>
-        </a>
     </div>
 </div>
 
@@ -48,7 +57,10 @@ float-nav: true
     <div class="container">
         <div class="row">
         @{
-            foreach(var article in Documents["LatestNews"].Take(4))
+            var latestNews = Documents["News"]
+                .OrderBy(newsArticle => newsArticle.Get<DateTime>("date"))
+                .Take(4);
+            foreach(var article in latestNews)
             {
                 Html.RenderPartial("Partials/_NewsCard", @article);
             }
