@@ -1,7 +1,7 @@
 ---
 title: Simprov
 image: assets/images/events/simprov-banner.jpg
-recurrence: every other friday
+recurrence: Every other Friday
 ---
 
 Simprov happens fortnightly. Some other copy should probably go in here.
