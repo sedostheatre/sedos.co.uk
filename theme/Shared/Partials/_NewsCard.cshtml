@@ -6,9 +6,11 @@
             <h4 class="card-title">@Model["title"]</h4>
         </div>
 
-        @if(Model.ContainsKey("image"))
+        @if(Model.ContainsKey("image") && Model["image"] != null)
         {
-            <img class="card-img-top" src="@Context.GetLink((IDocument)Model["image"])">
+            <div class="card-img-top" 
+                 style="background-image: url(@Context.GetLink((IDocument)Model["image"]))">
+            </div>
         }
         else
         {

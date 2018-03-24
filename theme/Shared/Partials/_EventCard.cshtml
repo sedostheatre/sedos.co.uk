@@ -15,7 +15,7 @@
                 </small>
             </div>
         </div>
-        <img class="card-img-top" src="@Context.GetLink((IDocument)Model["image"])">
+        <div class="card-img-top" style="background-image: url(@Context.GetLink((IDocument)Model["image"]))"></div>
         <div class="card-footer text-muted">
             <a href="@Context.GetLink(Model)" >
                 See more
