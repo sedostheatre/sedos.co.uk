@@ -1,10 +1,11 @@
 @{
     Layout = "_Page";
+    IgnoreBody();
 }
 
 @model IDocument
 
-<div class="top-events-section">
+<div class="events-section">
     <div class="container ">
         <div class="row">
             @foreach(var eventItem in Documents["RegularEvents"])
@@ -45,14 +46,6 @@
                 Html.RenderPartial("Partials/_EventItemHomePageCard", @eventItem);
             }
         }
-        </div>
-    </div>
-</div>
-
-<div class="container">
-    <div class="row">
-        <div class="col">
-            @RenderBody()
         </div>
     </div>
 </div>
