@@ -3237,7 +3237,7 @@ a.text-lime:hover, a.text-lime:focus { color: #b8bd20 !important; }
 
 .banner h1 { font-size: 1.75em; }
 
-.home-events-section, .home-news-section, .news-section, .top-news-section, .events-section, .top-events-section, .about-section { padding-top: 30px; padding-bottom: 30px; }
+.home-events-section, .home-news-section, .news-section, .events-section, .about-section { padding-top: 30px; padding-bottom: 30px; }
 
 .header-carousel .header-carousel-image { background-position-x: center; background-position-y: center; background-size: cover; background-repeat: no-repeat; height: 70vh; border-radius: 0; }
 
@@ -3301,9 +3301,9 @@ a.text-lime:hover, a.text-lime:focus { color: #b8bd20 !important; }
 
 .news-card .card-footer, .news-card .card-header { background: #195565; }
 
-.news-section, .top-news-section { background: #04a897; margin-bottom: 3px; }
+.news-section { background: #04a897; margin-bottom: 3px; }
 
-.top-news-section { margin-top: 3px; }
+.news-section:last-child { margin-bottom: 0; }
 
 .event-card .card-body { height: 100px; overflow: hidden; margin-bottom: 20px; }
 
@@ -3313,9 +3313,9 @@ a.text-lime:hover, a.text-lime:focus { color: #b8bd20 !important; }
 
 .event-card .card-title { margin-bottom: 0; }
 
-.events-section, .top-events-section { background: #521e4a; margin-bottom: 3px; }
+.events-section { background: #521e4a; margin-bottom: 3px; }
 
-.top-events-section { margin-top: 3px; }
+.events-section:last-child { margin-bottom: 0; }
 
 .events-column { border-left: 1px solid #044484; }
 
