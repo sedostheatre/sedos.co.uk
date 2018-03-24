@@ -8,8 +8,8 @@
 
 Settings["title"] = "Sedos";
 
-Pipelines.Add("Social",
-    ReadFiles("social.yml"),
+Pipelines.Add("Footer",
+    ReadFiles("footer.yml"),
     Yaml()
 );
 

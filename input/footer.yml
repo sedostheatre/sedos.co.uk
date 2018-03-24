@@ -1,0 +1,35 @@
+social-links:
+  - image: /assets/images/social-footers/twitter.svg
+    url: https://twitter.com/sedos
+    name: Twitter
+  - url: https://facebook.com/sedostheatre
+    image: /assets/images/social-footers/facebook.svg
+    name: Facebook
+  - url: https://www.youtube.com/sedosvideo
+    image: /assets/images/social-footers/youtube.svg
+    name: YouTube
+  - url: https://www.flickr.com/photos/sedos/collections/
+    image: /assets/images/social-footers/flickr.svg
+    name: Flickr
+  # TODO Slack
+  # TODO Instagram
+external-links:
+  - image: /assets/images/footers/sedos-resident-at-bridewell-theatre.png
+    url: http://www.sbf.org.uk/whats-on 
+    name: Sedos Resident at Bridewell Theatre
+  - image: /assets/images/footers/noda-logo.png
+    url: https://www.noda.org.uk/
+    name: NODA
+internal-links:
+  - url: '#'
+    name: Newsletter sign-up
+  - url: '#'
+    name: Contact us
+second-row:
+  - name: Sedos is a registered charity No. 1173896 
+  - name: Hire 
+    url: /hire
+  - name: Privacy policy
+    url: /privacy-policy
+  - name: Terms and conditions 
+    url: /terms-and-conditions
