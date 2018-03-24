@@ -3237,9 +3237,11 @@ a.text-lime:hover, a.text-lime:focus { color: #b8bd20 !important; }
 
 .banner h1 { font-size: 1.75em; }
 
-.home-events-section, .home-news-section, .news-section, .events-section, .about-section { padding-top: 30px; padding-bottom: 30px; }
+.home-events-section, .home-news-section, .news-section, .top-news-section, .events-section, .top-events-section, .about-section { padding-top: 30px; padding-bottom: 30px; }
 
 .header-carousel .header-carousel-image { background-position-x: center; background-position-y: center; background-size: cover; background-repeat: no-repeat; height: 70vh; border-radius: 0; }
+
+.header-carousel-narrow { margin-bottom: 3px; }
 
 .header-carousel-narrow .header-carousel-image { background-position-x: center; background-position-y: center; background-size: cover; background-repeat: no-repeat; height: 40vh; border-radius: 0; }
 
@@ -3271,15 +3273,23 @@ a.text-lime:hover, a.text-lime:focus { color: #b8bd20 !important; }
 
 .header-carousel .carousel-indicators li.active .hero-indicator-image { opacity: 1; }
 
-.home-events-section { background: #521e4a; margin-top: 3px; margin-bottom: 3px; }
+.home-events-section { background: #521e4a; margin-top: 3px; }
 
 .home-news-section { background: #04a897; margin-top: 3px; }
 
 .regular-event-card a, .regular-event-card a:focus, .regular-event-card a:hover { color: white; }
 
+.regular-event-card .card-title { margin-bottom: 0; }
+
 .social-icons { list-style: none; flex-direction: row; display: flex; padding: 0; float: right; }
 
-.social-icons .social-icon { height: 2rem; margin: 0 0.25rem; }
+.social-icons .social-icon { height: 2rem; margin: 0 0.4rem; }
+
+.footer-image { height: 60px; }
+
+.footer-container { border-top: #044484 3px solid; padding-top: 10px; padding-bottom: 10px; }
+
+.footer-container .navigation-link { line-height: 30px; font-size: 18px; }
 
 @media (max-width: 767.98px) { .news-card { max-height: 300px; } }
 
@@ -3291,7 +3301,9 @@ a.text-lime:hover, a.text-lime:focus { color: #b8bd20 !important; }
 
 .news-card .card-footer, .news-card .card-header { background: #195565; }
 
-.news-section { background: #04a897; margin-bottom: 3px; }
+.news-section, .top-news-section { background: #04a897; margin-bottom: 3px; }
+
+.top-news-section { margin-top: 3px; }
 
 .event-card .card-body { height: 100px; overflow: hidden; margin-bottom: 20px; }
 
@@ -3299,7 +3311,13 @@ a.text-lime:hover, a.text-lime:focus { color: #b8bd20 !important; }
 
 .event-card .card-img-top { height: 200px; }
 
-.events-section { background: #521e4a; margin-bottom: 3px; }
+.event-card .card-title { margin-bottom: 0; }
+
+.events-section, .top-events-section { background: #521e4a; margin-bottom: 3px; }
+
+.top-events-section { margin-top: 3px; }
+
+.events-column { border-left: 1px solid #044484; }
 
 .show-header .show-details-top { flex-grow: 1; }
 
@@ -3331,10 +3349,12 @@ a.text-lime:hover, a.text-lime:focus { color: #b8bd20 !important; }
 
 .show-page-header .row { height: 100%; }
 
-.about-section { background: #04a897; }
+.about-section { background: #499fcd; padding-bottom: 15px; padding-top: 15px; }
 
 .about-card .card-body { overflow: hidden; margin-bottom: 20px; }
 
 .about-card .card-footer a { color: white; }
 
-.about-card .card-footer, .about-card .card-header { background: #195565; }
+.about-card .card-footer, .about-card .card-header { background: #044484; }
+
+.about-card .card-header { margin-bottom: 3px; }

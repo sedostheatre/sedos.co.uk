@@ -22,8 +22,8 @@
     <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-PG6KHFD"
     height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <!-- End Google Tag Manager (noscript) -->
-            <nav class="navbar navbar-expand-md main-navigation navbar-light">
-        <div class="container">
+            <div class="container fixed-top">
+        <nav class="navbar navbar-expand-md main-navigation navbar-light bg-light">
 
 <a class="navbar-brand" href="/">
     <img class="logo" src="/assets/images/logo/logo-blue.png"/>
@@ -58,20 +58,25 @@
     <a class="btn btn-sedos-blue my-2 my-sm-0" href="">Book tickets</a>
 </div>
 
-        </nav>
         </div>
+        </nav>
 
 
     <div class="main-wrapper">
         
-<div class="page-wrapper">
-    <div class="banner">
-        <div class="container">
-            <h1>Get involved</h1>
+<div class="page-wrapper bg-light">
+<div class="header-carousel-narrow">
+    <div class="carousel slide" data-ride="carousel">
+        <div class="carousel-inner" role="listbox">
+                <div class="carousel-item header-carousel-image active" style="background-image: url(/assets/images/headers/macbeth-w1280.jpg)">
+                </div>
+
         </div>
     </div>
+</div>
+    
 
-<div class="events-section">
+<div class="top-events-section">
     <div class="container ">
         <div class="row">
 <div class="col-md-3 col-sm-6 event-card-container mb-3 mb-md-0">
@@ -91,12 +96,12 @@
 <div class="col-md-3 col-sm-6 event-card-container mb-3 mb-md-0">
     <div class="card event-card bg-pink text-white border-0">
         <div class="card-header">
-            <h4 class="card-title">Sedance</h4>
+            <h4 class="card-title">Simprov</h4>
             <div class="card-text text-light"><small>January 01</small></div>
         </div>
-        <img class="card-img-top" src="/assets/images/events/sedance-banner-w300-h300.jpg">
+        <img class="card-img-top" src="/assets/images/events/simprov-banner-w300-h300.jpg">
         <div class="card-footer text-muted">
-            <a href="/regular-events/sedance" >
+            <a href="/regular-events/simprov" >
                 See more
             </a>
         </div>
@@ -105,12 +110,12 @@
 <div class="col-md-3 col-sm-6 event-card-container mb-3 mb-md-0">
     <div class="card event-card bg-pink text-white border-0">
         <div class="card-header">
-            <h4 class="card-title">Simprov</h4>
+            <h4 class="card-title">Sedance</h4>
             <div class="card-text text-light"><small>January 01</small></div>
         </div>
-        <img class="card-img-top" src="/assets/images/events/simprov-banner-w300-h300.jpg">
+        <img class="card-img-top" src="/assets/images/events/sedance-banner-w300-h300.jpg">
         <div class="card-footer text-muted">
-            <a href="/regular-events/simprov" >
+            <a href="/regular-events/sedance" >
                 See more
             </a>
         </div>
@@ -165,8 +170,7 @@
 <div class="container">
     <div class="row">
         <div class="col">
-            <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed vel tellus felis. Suspendisse vel dui rhoncus, tristique mauris a, accumsan arcu. Nam tristique rutrum gravida. Nulla rhoncus quis leo a sodales. Duis ultrices ultricies pretium. Sed vulputate scelerisque luctus. Mauris non arcu quis orci rutrum finibus. Aenean ac accumsan ipsum. Mauris elementum, libero ac aliquet pharetra, diam purus commodo lectus, non tincidunt dolor elit et neque. Vivamus in pellentesque libero, pellentesque malesuada erat. Etiam nec bibendum arcu, sed tempus nisi.</p>
-
+            
         </div>
     </div>
 </div>
@@ -174,16 +178,28 @@
 
     </div>
 
-    <footer>
+    <footer div class="footer-container">
     <div class="container">
         <div class="row justify-content-between">
-            <div class="col-4">
-                <p>Resident at the <a href="http://www.sbf.org.uk/theatre">Bridewell Theatre</a></p>
-                <p>
-                    <small>Sedos is a registered charity No. 1173896</small>
-                </p>
+            <div class="col-auto">
+                 <a href="http://www.sbf.org.uk/whats-on">
+                    <img class="footer-image" src="/assets/images/footers/sedos-resident-at-bridewell-theatre.png"></img>
+                </a>
             </div>
-            <div class="col-4">
+            <div class="col-auto">
+                 <a href="https://www.noda.org.uk/">
+                    <img class="footer-image" src="/assets/images/footers/noda-logo.png"></img>
+                </a>
+            </div>
+            <div class="col-auto">
+                <div>
+                    <a href="#" class="text-sedos-blue navigation-link">Newsletter sign-up</a>
+                </div>
+                <div>
+                    <a href="#" class="text-sedos-blue navigation-link">Contact us</a>
+                </div>
+            </div>
+            <div class="col-auto">
                 <div class="pull-right">
                     <ul class="social-icons">
                             <li>
@@ -208,6 +224,17 @@
                             </li>
                     </ul>
                 </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-auto">
+                <small>Sedos is a registered charity No. 1173896</small>
+                |
+                <small>Hire</small>
+                |
+                <small>Privacy policy</small>
+                |
+                <small>Terms and conditions</small>
             </div>
         </div>
     </div>
