@@ -4,18 +4,16 @@
     <div class="event-card card bg-pink text-white border-0">
         <div class="card-header">
             <h4 class="card-title">@Model["title"]</h4>
-            
-                <div class="card-text text-light">
-                    <small>
-                        @{
-                            var text = Model.ContainsKey("recurrence")
-                            ? Model.Get("recurrence")
-                            : Model.Get<DateTime>("time").ToString("dd MMMM");
-                        }
-                        @text
-                    </small>
-                </div>
-        
+            <div class="card-text text-light">
+                <small>
+                    @{
+                        var text = Model.ContainsKey("recurrence")
+                        ? Model.Get("recurrence")
+                        : Model.Get<DateTime>("time").ToString("dd MMMM");
+                    }
+                    @text
+                </small>
+            </div>
         </div>
         <img class="card-img-top" src="@Context.GetLink((IDocument)Model["image"])">
         <div class="card-footer text-muted">
