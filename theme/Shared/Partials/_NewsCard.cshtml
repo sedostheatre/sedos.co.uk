@@ -1,17 +1,25 @@
 @model IDocument
 
-<div class="col-md-3 col-sm-6 news-card-container">
-    <div class="card border-0 text-white bg-light-blue news-card mb-3 mb-md-0">
+<div class="news-card-container col-md-3 col-sm-6 mb-3 mb-md-0">
+    <div class="news-card card border-0 text-white bg-light-blue">
         <div class="card-header">
             <h4 class="card-title">@Model["title"]</h4>
         </div>
-        <div class="card-body">
-            @{
-                var extract = Model.Get("extract", "");
-                extract = string.IsNullOrEmpty(extract) ? (string)Model["Excerpt"] : extract;
-            }
-            <p class="card-text news-excerpt">@Html.Raw(extract)</p>
-        </div>
+
+        @if(Model.ContainsKey("image"))
+        {
+            <img class="card-img-top" src="@Context.GetLink((IDocument)Model["image"])">
+        }
+        else
+        {
+            <div class="card-body">        
+                @{
+                    var extract = Model.Get("extract", "");
+                    extract = string.IsNullOrEmpty(extract) ? (string)Model["Excerpt"] : extract;
+                }
+                <p class="card-text news-excerpt">@Html.Raw(extract)</p>
+            </div>
+        }
         <div class="card-footer text-muted">
             <a href="@Context.GetLink(Model)" >
                 Read the full article

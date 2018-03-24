@@ -83,7 +83,7 @@ float-nav: true
             @{
                 foreach(var eventItem in Documents["UpcomingEvents"].Take(3))
                 {
-                    Html.RenderPartial("Partials/_EventItemHomePageCard", @eventItem);
+                    Html.RenderPartial("Partials/_EventCard", @eventItem);
                 }
             }
         </div>

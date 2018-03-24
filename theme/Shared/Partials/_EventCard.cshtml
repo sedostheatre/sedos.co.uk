@@ -1,7 +1,7 @@
 @model IDocument
 
-<div class="col-md-3 col-sm-6 event-card-container mb-3 mb-md-0">
-    <div class="card event-card bg-pink text-white border-0">
+<div class="event-card-container col-md-3 col-sm-6 mb-3 mb-md-0">
+    <div class="event-card card bg-pink text-white border-0">
         <div class="card-header">
             <h4 class="card-title">@Model["title"]</h4>
             <div class="card-text text-light"><small>@(Model.Get<DateTime>("time").ToString("MMMM dd"))</small></div>
