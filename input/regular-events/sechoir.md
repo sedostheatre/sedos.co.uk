@@ -2,6 +2,7 @@
 title: Sechoir
 image: assets/images/events/sechoir-banner.jpg
 recurrence: Every Wednesday
+venue: bhg
 ---
 
 Sechoir happens weekly
