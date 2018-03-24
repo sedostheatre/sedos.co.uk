@@ -13,6 +13,11 @@ Pipelines.Add("Footer",
     Yaml()
 );
 
+Pipelines.Add("Venues",
+    ReadFiles("venues.yml"),
+    Yaml()
+);
+
 Pipelines.Add("FallbackHeaders",
     ReadFiles("assets/images/headers/fallback/*.*"),
     Image()

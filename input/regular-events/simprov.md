@@ -2,6 +2,7 @@
 title: Simprov
 image: assets/images/events/simprov-banner.jpg
 recurrence: Every other Friday
+venue: bhg
 ---
 
 Simprov happens fortnightly. Some other copy should probably go in here.

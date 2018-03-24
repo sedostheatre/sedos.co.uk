@@ -1,5 +1,7 @@
 @{
     Layout = "_Page";
+    var venues = Documents["Venues"].Single().Get<IEnumerable<IDocument>>("venues");
+    var venue = venues.FirstOrDefault(x => x["key"].ToString().Equals(Model["venue"].ToString()));
 }
 
 @model IDocument
@@ -11,8 +13,22 @@
         </div>
         <div class="col-md-4 events-column pt-3">
             <h3>Essential info</h3>
-            <h4>1 Brewers' Hall Garden</h4>
-            <h5>23 October 2018 19:30<h5>
+            @{
+                if(venue != null)
+                {
+                    <h4><a href="@venue["url"]">@venue["name"]</a></h4>
+                }
+                else
+                {
+                    <h4>@Model["venue"]</h4>
+                }
+            }
+            @{
+                var eventTime = Model.ContainsKey("recurrence")
+                ? Model.Get("recurrence")
+                : Model.Get<DateTime>("time").ToString("dddd dd MMMM yyyy h.mmtt");
+                <h5>@eventTime</h5>
+            }
         </div>
     </div>
 </div>
