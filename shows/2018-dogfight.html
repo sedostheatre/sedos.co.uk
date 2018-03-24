@@ -89,10 +89,10 @@
                     <a class="nav-link active" id="details-tab" data-toggle="tab" href="#details" role="tab" aria-controls="details" aria-expanded="false">Details</a>
                 </li>
                         <li class="nav-item">
-                            <a class="nav-link" id="Photos-tab" data-toggle="tab" href="#Photos" role="tab" aria-controls="Photos" aria-expanded="false">Photos</a>
+                            <a class="nav-link" id="Cast &amp; Creatives-tab" data-toggle="tab" href="#Cast &amp; Creatives" role="tab" aria-controls="Cast &amp; Creatives" aria-expanded="false">Cast &amp; Creatives</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" id="Cast &amp; Creatives-tab" data-toggle="tab" href="#Cast &amp; Creatives" role="tab" aria-controls="Cast &amp; Creatives" aria-expanded="false">Cast &amp; Creatives</a>
+                            <a class="nav-link" id="Photos-tab" data-toggle="tab" href="#Photos" role="tab" aria-controls="Photos" aria-expanded="false">Photos</a>
                         </li>
             </ul>
             <div class="tab-content" id="myTabContent">
@@ -110,10 +110,6 @@ So we go for broke today</p>
 
                     </p>
                 </div>
-                        <div class="tab-pane fade" id="Photos" role="tabpanel" aria-labelledby="Photos-tab" aria-expanded="true">
-                            <p>Something about some photos</p>
-
-                        </div>
                         <div class="tab-pane fade" id="Cast &amp; Creatives" role="tabpanel" aria-labelledby="Cast &amp; Creatives-tab" aria-expanded="true">
                             <h2>CAST</h2>
 <p>EDDIE BIRDLACE | Joe McWilliam</p>
@@ -131,6 +127,10 @@ So we go for broke today</p>
 <p>COMMITTEE LIAISON | Deborah Lean</p>
 
                         </div>
+                        <div class="tab-pane fade" id="Photos" role="tabpanel" aria-labelledby="Photos-tab" aria-expanded="true">
+                            <p>Something about some photos</p>
+
+                        </div>
             </div>
         </div>
         <div class="col-md-4">
@@ -144,26 +144,27 @@ So we go for broke today</p>
 
     </div>
 
-    <footer div class="footer-container">
+    
+<footer div class="footer-container">
     <div class="container">
         <div class="row justify-content-between">
-            <div class="col-auto">
-                 <a href="http://www.sbf.org.uk/whats-on">
-                    <img class="footer-image" src="/assets/images/footers/sedos-resident-at-bridewell-theatre.png"></img>
-                </a>
-            </div>
-            <div class="col-auto">
-                 <a href="https://www.noda.org.uk/">
-                    <img class="footer-image" src="/assets/images/footers/noda-logo.png"></img>
-                </a>
-            </div>
-            <div class="col-auto">
-                <div>
-                    <a href="#" class="text-sedos-blue navigation-link">Newsletter sign-up</a>
+                <div class="col-auto">
+                    <a href="http://www.sbf.org.uk/whats-on" aria-label="Sedos Resident at Bridewell Theatre">
+                        <img class="footer-image" src="/assets/images/footers/sedos-resident-at-bridewell-theatre.png"></img>
+                    </a>
                 </div>
-                <div>
-                    <a href="#" class="text-sedos-blue navigation-link">Contact us</a>
+                <div class="col-auto">
+                    <a href="https://www.noda.org.uk/" aria-label="NODA">
+                        <img class="footer-image" src="/assets/images/footers/noda-logo.png"></img>
+                    </a>
                 </div>
+            <div class="col-auto">
+                    <div>
+                        <a href="#" class="text-sedos-blue navigation-link">Newsletter sign-up</a>
+                    </div>
+                    <div>
+                        <a href="#" class="text-sedos-blue navigation-link">Contact us</a>
+                    </div>
             </div>
             <div class="col-auto">
                 <div class="pull-right">
@@ -192,16 +193,25 @@ So we go for broke today</p>
                 </div>
             </div>
         </div>
-        <div class="row">
-            <div class="col-auto">
-                <small>Sedos is a registered charity No. 1173896</small>
-                |
-                <small>Hire</small>
-                |
-                <small>Privacy policy</small>
-                |
-                <small>Terms and conditions</small>
-            </div>
+        <div class="row justify-content-center">
+                <div class="col-auto">
+                        <small>Sedos is a registered charity No. 1173896</small>
+                </div>
+                <div class="col-auto">
+                       <small>
+                            <a class="text-dark" href="/hire">Hire</a>
+                        </small>
+                </div>
+                <div class="col-auto">
+                       <small>
+                            <a class="text-dark" href="/privacy-policy">Privacy policy</a>
+                        </small>
+                </div>
+                <div class="col-auto">
+                       <small>
+                            <a class="text-dark" href="/terms-and-conditions">Terms and conditions</a>
+                        </small>
+                </div>
         </div>
     </div>
 </footer>
