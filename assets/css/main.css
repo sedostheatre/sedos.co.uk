@@ -3233,15 +3233,17 @@ a.text-lime:hover, a.text-lime:focus { color: #b8bd20 !important; }
 
 .banner { width: 100%; background: #044484; color: #ffffff; padding: 0.4em 0; }
 
-.banner.empty-divider { height: 3px; margin-bottom: 3px; }
+.banner.empty-divider { height: 3px; }
 
 .banner h1 { font-size: 1.75em; }
 
 .home-events-section, .home-news-section, .news-section, .events-section, .about-section { padding-top: 30px; padding-bottom: 30px; }
 
-.header-carousel .header-carousel-image { background-position-x: center; background-position-y: center; background-size: cover; background-repeat: no-repeat; height: 70vh; border-radius: 0; }
+.mt-3px { margin-top: 3px; }
 
-.header-carousel-narrow { margin-bottom: 3px; }
+@media (min-width: 768px) { .news-article-details-column, .events-column, .show-timings-column { border-left: 1px solid #044484; } }
+
+.header-carousel .header-carousel-image { background-position-x: center; background-position-y: center; background-size: cover; background-repeat: no-repeat; height: 70vh; border-radius: 0; }
 
 .header-carousel-narrow .header-carousel-image { background-position-x: center; background-position-y: center; background-size: cover; background-repeat: no-repeat; height: 40vh; border-radius: 0; }
 
@@ -3319,7 +3321,7 @@ a.text-lime:hover, a.text-lime:focus { color: #b8bd20 !important; }
 
 .events-section:last-child { margin-bottom: 0; }
 
-.events-column { border-left: 1px solid #044484; }
+.events-section:first-child { margin-top: 3px; }
 
 .show-header .show-details-top { flex-grow: 1; }
 
