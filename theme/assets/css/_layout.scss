@@ -6,7 +6,6 @@
 
     &.empty-divider {
         height: 3px;
-        margin-bottom: 3px
     }
 
     h1 {
@@ -17,4 +16,14 @@
 %page-section {
     padding-top: 30px;
     padding-bottom: 30px;
+}
+
+.mt-3px {
+    margin-top: 3px;
+}
+
+%blue-border-left {
+    @include media-breakpoint-up(md) {
+        border-left: 1px solid $sedos-blue;
+    }
 }

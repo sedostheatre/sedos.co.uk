@@ -6,10 +6,10 @@
 
 <div class="container bg-white">
     <div class="row">
-        <div class="col-md-8">
+        <div class="col-md-8 pt-3">
             @RenderBody()
         </div>
-        <div class="col-md-4 events-column">
+        <div class="col-md-4 news-article-details-column pt-3">
             <h3>More news</h3>
             <!-- the most recent 4 articles that aren't the one we're on currently  -->
             @foreach(var article in Documents["News"].Select(x=> x["title"]))

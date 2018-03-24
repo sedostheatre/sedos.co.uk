@@ -12,3 +12,7 @@
 .show-nav {
     font-size: 1.125em;
 }
+
+.show-timings-column {
+    @extend %blue-border-left;
+}
