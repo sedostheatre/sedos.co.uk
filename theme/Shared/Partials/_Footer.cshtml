@@ -1,32 +1,34 @@
+@{
+    var footerModel = Documents["Footer"].Single();
+}
+
 <footer div class="footer-container">
     <div class="container">
         <div class="row justify-content-between">
-            <div class="col-auto">
-                 <a href="http://www.sbf.org.uk/whats-on">
-                    <img class="footer-image" src="@Context.GetLink("/assets/images/footers/sedos-resident-at-bridewell-theatre.png")"></img>
-                </a>
-            </div>
-            <div class="col-auto">
-                 <a href="https://www.noda.org.uk/">
-                    <img class="footer-image" src="@Context.GetLink("/assets/images/footers/noda-logo.png")"></img>
-                </a>
-            </div>
-            <div class="col-auto">
-                <div>
-                    <a href="#" class="text-sedos-blue navigation-link">Newsletter sign-up</a>
+            @foreach(var link in footerModel.Get<IEnumerable<IDocument>>("external-links"))
+            {
+                <div class="col-auto">
+                    <a href="@link["url"]" aria-label="@link["name"]">
+                        <img class="footer-image" src="@Context.GetLink(link.Get<string>("image"))"></img>
+                    </a>
                 </div>
-                <div>
-                    <a href="#" class="text-sedos-blue navigation-link">Contact us</a>
-                </div>
+            }
+            <div class="col-auto">
+                @foreach(var link in footerModel.Get<IEnumerable<IDocument>>("internal-links"))
+                {
+                    <div>
+                        <a href="@link["url"]" class="text-sedos-blue navigation-link">@link["name"]</a>
+                    </div>
+                }
             </div>
             <div class="col-auto">
                 <div class="pull-right">
                     <ul class="social-icons">
-                        @foreach(var social in Documents["Social"])
+                        @foreach(var social in footerModel.Get<IEnumerable<IDocument>>("social-links"))
                         {
                             <li>
                                 <a href="@social["url"]" aria-label="@social["name"]">
-                                    <img class="social-icon" src="@social["image"]"></img>
+                                    <img class="social-icon" src="@Context.GetLink(social.Get<string>("image"))"></img>
                                 </a>
                             </li>
                         }
@@ -34,19 +36,22 @@
                 </div>
             </div>
         </div>
-        <div class="row">
-            <div class="col-auto">
-                <small>Sedos is a registered charity No. 1173896</small>
-            </div>
-            <div class="col-auto">
-                <small>Hire</small>
-            </div>
-            <div class="col-auto">
-                <small>Privacy policy</small>
-            </div>
-            <div class="col-auto">
-                <small>Terms and conditions</small>
-            </div>
+        <div class="row justify-content-center">
+            @foreach(var link in footerModel.Get<IEnumerable<IDocument>>("second-row"))
+            {
+                <div class="col-auto">
+                    @if(link.ContainsKey("url")) 
+                    {
+                       <small>
+                            <a class="text-dark" href="@link["url"]">@link["name"]</a>
+                        </small>
+                    }
+                    else
+                    {
+                        <small>@link["name"]</small>
+                    }                    
+                </div>
+            }
         </div>
     </div>
 </footer>
