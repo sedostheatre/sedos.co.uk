@@ -10,7 +10,7 @@
         <div class="row">
             @foreach(var eventItem in Documents["RegularEvents"])
             {
-                Html.RenderPartial("Partials/_EventItemHomePageCard", @eventItem);
+                Html.RenderPartial("Partials/_EventCard", @eventItem);
             }
 
             <div class="col-md-3">
@@ -43,7 +43,7 @@
         @{
             foreach(var eventItem in Documents["UpcomingEvents"])
             {
-                Html.RenderPartial("Partials/_EventItemHomePageCard", @eventItem);
+                Html.RenderPartial("Partials/_EventCard", @eventItem);
             }
         }
         </div>
