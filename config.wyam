@@ -170,7 +170,7 @@ Pipelines.Add("Index",
 );
 
 Pipelines.Add("TopLevelPages",
-    ReadFiles("news.cshtml", "all-shows.cshtml", "about.cshtml"),
+    ReadFiles("all-shows.cshtml", "about.cshtml"),
     FrontMatter(Yaml()),
     Meta("header-images", (doc, ctx) =>
         ctx.Execute(
