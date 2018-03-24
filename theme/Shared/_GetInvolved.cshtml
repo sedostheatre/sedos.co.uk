@@ -13,19 +13,17 @@
                 Html.RenderPartial("Partials/_EventItemHomePageCard", @eventItem);
             }
 
-            <div class="col-md-3">
-                <div class="card">
-                    <h3>Backstage</h3>
+            <div class="col-md-3 col-sm-6">
+                @foreach(var group in Model.Get<IEnumerable<IDocument>>("groups"))
+                {
+                    <div class="card mb-3 border-0 regular-event-card">
+                    <a href="@Context.GetLink(group.Get<string>("url"))">
+                        <div class="card-header bg-pink">
+                            <h3 class="card-title text-white">@group["name"]</h3>
+                        </div>
+                    </a>
                 </div>
-
-                <div class="card">
-                    <h3>Groups</h3>
-                    marketing, production, memberships
-                </div>
-
-                <div class="card">
-                    <h3>Join Sedos</h3>
-                </div>
+                }
             </div>
         </div>
     </div>
