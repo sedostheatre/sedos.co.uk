@@ -1,7 +1,7 @@
 ---
 title: Sechoir
 image: assets/images/events/sechoir-banner.jpg
-recurrence: every wednesday
+recurrence: Every Wednesday
 ---
 
 Sechoir happens weekly
