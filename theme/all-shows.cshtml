@@ -6,6 +6,7 @@ title: All Shows
     @{
         var pastShows = Documents["AllShows"]
             .Where(show => show.Get("showtimes", Enumerable.Empty<DateTime>()).Any())
+            .Where(show => show.Get("showtimes", Enumerable.Empty<DateTime>()).All(x => x < DateTime.Now))
             .OrderBy(show => show.Get<IEnumerable<DateTime>>("showtimes").OrderBy(x => x).First())
             .GroupBy(show => show.Get<IEnumerable<DateTime>>("showtimes").OrderBy(x => x).First().Year)
             .OrderByDescending(grouping => grouping.Key);
