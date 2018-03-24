@@ -9,3 +9,7 @@
         margin-bottom: 0;
     }
 }
+
+.news-article-details-column {
+    @extend %blue-border-left;
+}

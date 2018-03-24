@@ -32,8 +32,12 @@
     &:last-child {
         margin-bottom: 0;
     }
+
+    &:first-child { 
+        margin-top: 3px;
+    }
 }
 
 .events-column {
-    border-left: 1px solid $sedos-blue;
+    @extend %blue-border-left;
 }
