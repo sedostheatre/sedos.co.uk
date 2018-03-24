@@ -14,10 +14,23 @@
     .card-img-top {
         height: 200px;
     }
+
+    .card-title {
+        margin-bottom: 0;
+    }
 }
 
 .events-section {
     @extend %page-section;
     background: $purple;
     margin-bottom: 3px;
+}
+
+.top-events-section {
+    @extend .events-section;
+    margin-top: 3px;
+}
+
+.events-column {
+    border-left: 1px solid $sedos-blue;
 }

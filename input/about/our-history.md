@@ -1,7 +1,7 @@
 ---
 about-row: 1
 about-column: 1
-title: Our History
+title: Our history
 about-image: assets/images/about/our-history.jpg
 ---
 

@@ -1,5 +1,10 @@
 ---
 title: About
+float-nav: true
+hide-top-title: true
+display-carousel: true
+header-images:
+  - assets/images/headers/macbeth.jpg
 ---
 
 @{
@@ -7,27 +12,29 @@ title: About
         .GroupBy(section => section.Get<int>("about-row"))
         .OrderBy(grouping => grouping.Key);
 
-    foreach(var sectionRow in sectionRows)
-    {
-        <div class="about-section">
-            <div class="container">
-                <div class="row">
-                    @foreach(var aboutSection in sectionRow.OrderBy(row=>row.Get<int>("about-column")))
-                    {
-                        <div class="col-md">
-                            <a href="@Context.GetLink(aboutSection)">
-                                <div class="card border-0 text-white bg-light-blue mb-3 mb-md-0 about-card">
-                                    <div class="card-header">
-                                        <h4 class="card-title">@aboutSection["title"]</h4>
+    <div class="about-section">
+        @foreach(var sectionRow in sectionRows)
+        {
+            <div class="about-section">
+                <div class="container">
+                    <div class="row">
+                        @foreach(var aboutSection in sectionRow.OrderBy(row=>row.Get<int>("about-column")))
+                        {
+                            <div class="col-md">
+                                <a class="text-white" href="@Context.GetLink(aboutSection)">
+                                    <div class="card border-0 text-white mb-3 mb-md-0 about-card">
+                                        <div class="card-header">
+                                            <h4 class="card-title">@aboutSection["title"]</h4>
+                                        </div>
+                                        <img class="card-img-top" src="@Context.GetLink((IDocument)aboutSection["about-image"])">
                                     </div>
-                                    <img class="card-img-top" src="@Context.GetLink((IDocument)aboutSection["about-image"])">
-                                </div>
-                            </a>
-                        </div>
-                    }
+                                </a>
+                            </div>
+                        }
+                    </div>
                 </div>
             </div>
-        </div>
-    }
+        }
+    </div>
 }
 

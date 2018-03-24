@@ -4,6 +4,15 @@
 
 @model IDocument
 
-<div class="container">
-    @RenderBody()
+<div class="container bg-white">
+    <div class="row">
+        <div class="col-md-8">
+            @RenderBody()
+        </div>
+        <div class="col-md-4 events-column">
+            <h3>Essential info</h3>
+            <h4>1 Brewers' Hall Garden</h4>
+            <h5>23 October 2018 19:30<h5>
+        </div>
+    </div>
 </div>

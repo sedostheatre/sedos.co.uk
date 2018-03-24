@@ -2,11 +2,11 @@
     Layout = "_Default";
 }
 
-<div class="page-wrapper">
+<div class="page-wrapper bg-light">
     @{
         if(Model.Get("display-carousel", false))
         {
-            var headerImage = Model.Get<IDocument>("HeaderImage", null);
+            var headerImage = Model.Get<IDocument>("header-images", null);
             IEnumerable<IDocument> headerImages;
             if(headerImage == null)
             {
@@ -20,11 +20,15 @@
             Html.RenderPartial("Partials/_NarrowHeaderCarousel", headerImages);
         }
     }
-    <div class="banner">
-        <div class="container">
-            <h1>@Model["title"]</h1>
+    @if(!Model.Get<bool>("hide-top-title", false))
+    {
+        <div class="banner">
+            <div class="container">
+                <h1>@Model["title"]</h1>
+            </div>
         </div>
-    </div>
+    }
+
     @{
         if(Model.Get<bool>("use-container", false))
         {

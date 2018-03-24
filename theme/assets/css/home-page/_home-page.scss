@@ -5,7 +5,6 @@
     @extend %page-section;
     background: $purple;
     margin-top: 3px;
-    margin-bottom: 3px;
 }
 
 .home-news-section {
@@ -17,5 +16,9 @@
 .regular-event-card {
     a, a:focus, a:hover {
         color: white;
+    }
+
+    .card-title {
+        margin-bottom: 0;
     }
 }
