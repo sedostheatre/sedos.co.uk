@@ -3,8 +3,7 @@ title: Get involved
 view-start: Layout/_GetInvolvedViewStart.cshtml
 float-nav: true
 display-carousel: true
-header-images:
-  - assets/images/headers/macbeth.jpg
+header-image: assets/images/headers/macbeth.jpg
 groups:
   - name: Backstage
     url: /backstage

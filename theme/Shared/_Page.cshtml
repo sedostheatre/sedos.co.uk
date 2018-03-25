@@ -6,7 +6,7 @@
     @{
         if(Model.Get("display-carousel", false))
         {
-            var headerImage = Model.Get<IDocument>("header-images", null);
+            var headerImage = Model.Get<IDocument>("header-image", null);
             IEnumerable<IDocument> headerImages;
             if(headerImage == null)
             {
@@ -17,7 +17,7 @@
                 headerImages = new [] { headerImage };
             }
 
-            Html.RenderPartial("Partials/_NarrowHeaderCarousel", headerImages);
+            Html.RenderPartial("Partials/_HeaderCarousel", headerImages);
         }
     }
 
