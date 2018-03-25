@@ -20,25 +20,6 @@
             Html.RenderPartial("Partials/_NarrowHeaderCarousel", headerImages);
         }
     }
-    @if(!Model.Get<bool>("hide-top-title", false))
-    {
-        <div class="banner">
-            <div class="container">
-                <h1>@Model["title"]</h1>
-            </div>
-        </div>
-    }
 
-    @{
-        if(Model.Get<bool>("use-container", false))
-        {
-            <div class="container">
-                @RenderBody()
-            </div>
-        }
-        else
-        {
-            @RenderBody();
-        }
-    }
+    @RenderBody();
 </div>
