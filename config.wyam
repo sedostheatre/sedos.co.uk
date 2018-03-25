@@ -170,10 +170,10 @@ Pipelines.Add("Index",
 Pipelines.Add("TopLevelPages",
     ReadFiles("past-productions.cshtml", "about.cshtml"),
     FrontMatter(Yaml()),
-    Meta("header-images", (doc, ctx) =>
+    Meta("header-image", (doc, ctx) =>
         ctx.Execute(
             new IModule[] {
-                ReadFiles((doc2, ctx2) => doc.Get<string>("header-images")),
+                ReadFiles((doc2, ctx2) => doc.Get<string>("header-image")),
                 Image().SetJpegQuality(80).Resize(width: 1280, height: null),
                 WriteFiles()
             },
@@ -189,10 +189,10 @@ Pipelines.Add("TopLevelPages",
 Pipelines.Add("Markdown",
     ReadFiles("*.md"),
     FrontMatter(Yaml()),
-    Meta("header-images", (doc, ctx) =>
+    Meta("header-image", (doc, ctx) =>
         ctx.Execute(
             new IModule[] {
-                ReadFiles((doc2, ctx2) => doc.Get<string>("header-images")),
+                ReadFiles((doc2, ctx2) => doc.Get<string>("header-image")),
                 Image().SetJpegQuality(80).Resize(width: 1280, height: null),
                 WriteFiles()
             },
