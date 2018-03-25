@@ -3,7 +3,9 @@
 <div class="event-card-container col-md-3 col-sm-6 mb-3 mb-md-0">
     <div class="event-card card bg-pink text-white border-0">
         <div class="card-header">
+            <a href="@Context.GetLink(Model)" class="text-white">
             <h4 class="card-title">@Model["title"]</h4>
+            </a>
             <div class="card-text text-light">
                 <small>
                     @{
@@ -17,7 +19,7 @@
         </div>
         <div class="card-img-top" style="background-image: url(@Context.GetLink((IDocument)Model["image"]))"></div>
         <div class="card-footer text-muted">
-            <a href="@Context.GetLink(Model)" >
+            <a href="@Context.GetLink(Model)">
                 See more
             </a>
         </div>

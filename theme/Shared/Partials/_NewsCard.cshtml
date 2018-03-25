@@ -1,9 +1,11 @@
 @model IDocument
 
 <div class="news-card-container col-md-3 col-sm-6 mb-3 mb-md-0">
-    <div class="news-card card border-0 text-white bg-light-blue">
+    <div class="news-card card border-0 bg-light-blue">
         <div class="card-header">
-            <h4 class="card-title">@Model["title"]</h4>
+            <a href="@Context.GetLink(Model)" class="text-white">
+                <h4 class="card-title">@Model["title"]</h4>
+            </a>
         </div>
 
         @if(Model.ContainsKey("image") && Model["image"] != null)
@@ -14,7 +16,7 @@
         }
         else
         {
-            <div class="card-body">        
+            <div class="card-body text-white">     
                 @{
                     var extract = Model.Get("extract", "");
                     extract = string.IsNullOrEmpty(extract) ? (string)Model["Excerpt"] : extract;
@@ -22,8 +24,8 @@
                 <p class="card-text news-excerpt">@Html.Raw(extract)</p>
             </div>
         }
-        <div class="card-footer text-muted">
-            <a href="@Context.GetLink(Model)" >
+        <div class="card-footer">
+            <a href="@Context.GetLink(Model)" class="text-white" >
                 Read the full article
             </a>
         </div>
