@@ -1,8 +1,7 @@
 ---
 title: 2018 Sedos Season
 date: 2017-09-09
-extract: ""
-image: assets/images/events/simprov-banner.jpg
+image: assets/images/news/NEWS-SEASON-popcorn.jpg
 ---
 
 # 2018 Sedos Season
