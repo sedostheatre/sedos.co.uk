@@ -3355,7 +3355,7 @@ a.text-lime:hover, a.text-lime:focus { color: #b8bd20 !important; }
 
 .show-nav { font-size: 1.125em; }
 
-.about-section { background: #499fcd; padding-bottom: 15px; padding-top: 15px; }
+.about-section { background: #499fcd; padding-bottom: 15px; padding-top: 15px; margin-top: 3px; }
 
 .about-card .card-body { overflow: hidden; margin-bottom: 20px; }
 
