@@ -34,3 +34,41 @@
         }
     }
 }
+
+.upcoming-show-card-container {
+    padding-top: 15px;
+    padding-bottom: 15px;
+
+    .show-card {
+        @include media-breakpoint-down(sm) {
+            max-height: 300px;
+        }
+
+        @include media-breakpoint-up(sm) {
+            height: 300px;
+        }
+
+        .card-body {
+            overflow: hidden;
+            margin-bottom: 20px;
+        }
+
+        .card-footer {
+            a {
+                color: white;
+            }
+        }
+
+        .card-img-top {
+            height: 200px;
+            background-position-x: center;
+            background-position-y: center;
+            background-size: cover;
+            background-repeat: no-repeat;
+        }
+
+        .card-footer, .card-header {
+            background: darken($sedos-blue, 10);
+        }
+    }
+}

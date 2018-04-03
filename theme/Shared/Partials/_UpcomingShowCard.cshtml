@@ -1,0 +1,24 @@
+@model IDocument
+
+<div class="upcoming-show-card-container col-md-3 col-sm-6 mb-3 mb-md-0">
+    <a href="@Context.GetLink(Model)" class="show-card-link">
+        <div class="show-card card bg-sedos-blue text-white border-0">
+        <div class="card-header">
+            <a href="@Context.GetLink(Model)" class="text-white">
+                <h4 class="card-title">@Model["title"]</h4>
+            </a>
+            <div class="card-text text-light">
+                <small>
+                    @Model.Get("showtime-summary", "")
+                </small>
+            </div>
+        </div>
+        <div class="card-img-top" style="background-image: url(@Context.GetLink((IDocument)Model["header-image"]))"></div>
+        <div class="card-footer text-muted">
+            <a href="@Context.GetLink(Model)">
+                See more
+            </a>
+        </div>
+    </div>
+    </a>
+</div>
