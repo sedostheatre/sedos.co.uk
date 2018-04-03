@@ -3237,11 +3237,13 @@ a.text-lime:hover, a.text-lime:focus { color: #b8bd20 !important; }
 
 .banner h1 { font-size: 1.75em; }
 
-.home-events-section, .home-news-section, .news-section, .events-section, .upcoming-shows-section, .about-section { padding-top: 30px; padding-bottom: 30px; }
+.page-section, .home-events-section, .home-news-section, .news-section, .events-section, .upcoming-shows-section, .about-section { padding-top: 30px; padding-bottom: 30px; }
 
 .mt-3px { margin-top: 3px; }
 
 @media (min-width: 768px) { .news-article-details-column, .events-column, .show-timings-column { border-left: 1px solid #044484; } }
+
+.page-section { background: #499fcd; }
 
 .header-carousel .header-carousel-image { background-position-x: center; background-position-y: center; background-size: cover; background-repeat: no-repeat; height: 70vh; border-radius: 0; }
 
