@@ -28,3 +28,8 @@
         border-left: 1px solid $sedos-blue;
     }
 }
+
+.page-section {
+    @extend %page-section;
+    background: $lighter-blue;
+}
