@@ -11,7 +11,7 @@ showtimes:
   - 2018-05-14 19:30:00
 primary-color: "#0b0f18"
 showtime-summary: "9-19 MAY"
-header-image: assets/images/flyers/2018-pippin.jpg
+header-image: assets/images/headers/2018-pippin.jpg
 flyer: assets/images/flyers/2018-pippin.jpg
 ---
 
