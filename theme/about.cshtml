@@ -11,6 +11,13 @@ header-image: assets/images/headers/macbeth.jpg
             .GroupBy(section => section.Get<int>("about-row"))
             .OrderBy(grouping => grouping.Key);
     }
+
+    <div class="banner">
+        <div class="container">
+            <h1>About</h1>
+        </div>
+    </div>
+
     <div class="about-section">
         @foreach(var sectionRow in sectionRows)
         {
