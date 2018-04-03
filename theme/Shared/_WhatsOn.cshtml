@@ -1,32 +1,35 @@
 @{
-    Layout = "_Page";
+    Layout = "_Default";
     IgnoreBody();
 }
 
-<div>
-    @{
-        var futureShows = Documents["AllShows"]
-            .Where(show => show.Get("showtimes", Enumerable.Empty<DateTime>()).Any(x => x >= DateTime.Now));
+<div class="page-wrapper bg-light">
+    @{Html.RenderPartial("Partials/_HeaderCarousel");}
+    <div>
+        @{
+            var futureShows = Documents["AllShows"]
+                .Where(show => show.Get("showtimes", Enumerable.Empty<DateTime>()).Any(x => x >= DateTime.Now));
 
-        <div class="container">
-            <div class="row">
-                @foreach(var show in futureShows)
-                {
-                    Html.RenderPartial("Partials/_ShowArchiveCard", show);
-                }
+            <div class="container">
+                <div class="row">
+                    @foreach(var show in futureShows)
+                    {
+                        Html.RenderPartial("Partials/_ShowArchiveCard", show);
+                    }
+                </div>
             </div>
-        </div>
-    }
-</div>
+        }
+    </div>
 
-<div class="container">
-    <div class="row">
-        <div class="col">
-            <p class="text-center">
-                <a class="text-sedos-blue" href="/past-productions">
-                    View past productions
-                </a>
-            </p>
+    <div class="container">
+        <div class="row">
+            <div class="col">
+                <p class="text-center">
+                    <a class="text-sedos-blue" href="/past-productions">
+                        View past productions
+                    </a>
+                </p>
+            </div>
         </div>
     </div>
 </div>

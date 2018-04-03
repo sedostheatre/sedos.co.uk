@@ -1,19 +1,22 @@
-@model IReadOnlyCollection<IDocument>
+@model IDocument
 
+@{
+
+    var headerImage = Model.Get<IDocument>("header-image", null);
+    IEnumerable<IDocument> headerImages;
+    if(headerImage == null)
+    {
+        headerImage = Documents["FallbackHeaders"].ToList().First();
+    }
+}
+
+<!--  TODO QQ this shouldn't be a carousel anymore -->
 <div class="header-carousel-narrow">
     <div class="carousel slide" data-ride="carousel">
         <div class="carousel-inner" role="listbox">
-            @{
-                var firstHeaderImage = Model.First();
-                <div class="carousel-item header-carousel-image active" style="background-image: url(@Context.GetLink(firstHeaderImage))">
-                </div>
-            }
-
-            @foreach(var headerImage in Model.Skip(1))
-            {
-                <div class="carousel-item header-carousel-image" style="background-image: url(@Context.GetLink(headerImage))">
-                </div>
-            }
+            <div class="carousel-item header-carousel-image active"
+                 style="background-image: url(@Context.GetLink(headerImage))">
+            </div>
         </div>
     </div>
 </div>

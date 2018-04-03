@@ -1,15 +1,16 @@
 ---
 title: About
-float-nav: true
-display-carousel: true
 header-image: assets/images/headers/macbeth.jpg
 ---
 
-@{
-    var sectionRows = Documents["AboutSections"]
-        .GroupBy(section => section.Get<int>("about-row"))
-        .OrderBy(grouping => grouping.Key);
+<div class="page-wrapper bg-light">
+    @{
+        Html.RenderPartial("Partials/_HeaderCarousel");
 
+        var sectionRows = Documents["AboutSections"]
+            .GroupBy(section => section.Get<int>("about-row"))
+            .OrderBy(grouping => grouping.Key);
+    }
     <div class="about-section">
         @foreach(var sectionRow in sectionRows)
         {
@@ -34,5 +35,4 @@ header-image: assets/images/headers/macbeth.jpg
             </div>
         }
     </div>
-}
-
+</div>

@@ -4,22 +4,10 @@
 
 <div class="page-wrapper bg-light">
     @{
-        if(Model.Get("display-carousel", false))
-        {
-            var headerImage = Model.Get<IDocument>("header-image", null);
-            IEnumerable<IDocument> headerImages;
-            if(headerImage == null)
-            {
-                headerImages = Documents["FallbackHeaders"].ToList();
-            }
-            else
-            {
-                headerImages = new [] { headerImage };
-            }
-
-            Html.RenderPartial("Partials/_HeaderCarousel", headerImages);
-        }
+        Html.RenderPartial("Partials/_HeaderCarousel");
     }
 
-    @RenderBody()
+    <div class="container bg-white">
+        @RenderBody()
+    </div>
 </div>

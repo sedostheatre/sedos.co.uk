@@ -1,8 +1,6 @@
 ---
 title: Get involved
 view-start: Layout/_GetInvolvedViewStart.cshtml
-float-nav: true
-display-carousel: true
 header-image: assets/images/headers/molm.jpg
 groups:
   - name: Help backstage

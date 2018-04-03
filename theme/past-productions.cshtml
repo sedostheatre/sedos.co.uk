@@ -1,32 +1,36 @@
 ---
 title: Past productions
 ---
-
-<div>
+<div class="page-wrapper bg-light">
     @{
-        var pastShows = Documents["AllShows"]
-            .Where(show => show.Get("showtimes", Enumerable.Empty<DateTime>()).Any())
-            .Where(show => show.Get("showtimes", Enumerable.Empty<DateTime>()).All(x => x < DateTime.Now))
-            .OrderBy(show => show.Get<IEnumerable<DateTime>>("showtimes").OrderBy(x => x).First())
-            .GroupBy(show => show.Get<IEnumerable<DateTime>>("showtimes").OrderBy(x => x).First().Year)
-            .OrderByDescending(grouping => grouping.Key);
-
-        foreach(var grouping in pastShows)
-        {
-            <div class="banner">
-                <div class="container">
-                    <h1>@grouping.Key</h1>
-                </div>
-            </div>
-
-            <div class="container">
-                <div class="row">
-                    @foreach(var show in grouping)
-                    {
-                        Html.RenderPartial("Partials/_ShowArchiveCard", show);
-                    }
-                </div>
-            </div>
-        }
+        Html.RenderPartial("Partials/_HeaderCarousel");
     }
+    <div>
+        @{
+            var pastShows = Documents["AllShows"]
+                .Where(show => show.Get("showtimes", Enumerable.Empty<DateTime>()).Any())
+                .Where(show => show.Get("showtimes", Enumerable.Empty<DateTime>()).All(x => x < DateTime.Now))
+                .OrderBy(show => show.Get<IEnumerable<DateTime>>("showtimes").OrderBy(x => x).First())
+                .GroupBy(show => show.Get<IEnumerable<DateTime>>("showtimes").OrderBy(x => x).First().Year)
+                .OrderByDescending(grouping => grouping.Key);
+
+            foreach(var grouping in pastShows)
+            {
+                <div class="banner">
+                    <div class="container">
+                        <h1>@grouping.Key</h1>
+                    </div>
+                </div>
+
+                <div class="container">
+                    <div class="row">
+                        @foreach(var show in grouping)
+                        {
+                            Html.RenderPartial("Partials/_ShowArchiveCard", show);
+                        }
+                    </div>
+                </div>
+            }
+        }
+    </div>
 </div>

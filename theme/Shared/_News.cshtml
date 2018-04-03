@@ -1,44 +1,48 @@
 @{
-    Layout = "_Page";
+    Layout = "_Default";
     IgnoreBody();
 }
 
 @model IDocument
 
-@{
-    var news = Documents["News"]
-        .GroupBy(article => article.Get<DateTime>("date").Year)
-        .OrderByDescending(grouping => grouping.Key);
+<div class="page-wrapper bg-light">
+    @{Html.RenderPartial("Partials/_HeaderCarousel");}
 
-    var latestNews = news.First();
+    @{
+        var news = Documents["News"]
+            .GroupBy(article => article.Get<DateTime>("date").Year)
+            .OrderByDescending(grouping => grouping.Key);
 
-    <div class="news-section mt-3px">
-        <div class="container">
-            <div class="row">
-                @foreach(var article in latestNews)
-                {
-                    Html.RenderPartial("Partials/_NewsCard", @article);
-                }
-            </div>
-        </div>
-    </div>
+        var latestNews = news.First();
 
-    @foreach(var grouping in news.Skip(1))
-    {
-        <div class="banner">
-            <div class="container">
-                <h1>@grouping.Key</h1>
-            </div>
-        </div>
-        <div class="news-section">
+        <div class="news-section mt-3px">
             <div class="container">
                 <div class="row">
-                    @foreach(var article in grouping)
+                    @foreach(var article in latestNews)
                     {
                         Html.RenderPartial("Partials/_NewsCard", @article);
                     }
                 </div>
             </div>
         </div>
+
+        @foreach(var grouping in news.Skip(1))
+        {
+            <div class="banner">
+                <div class="container">
+                    <h1>@grouping.Key</h1>
+                </div>
+            </div>
+            <div class="news-section">
+                <div class="container">
+                    <div class="row">
+                        @foreach(var article in grouping)
+                        {
+                            Html.RenderPartial("Partials/_NewsCard", @article);
+                        }
+                    </div>
+                </div>
+            </div>
+        }
     }
-}
+</div>
