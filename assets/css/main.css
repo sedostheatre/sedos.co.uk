@@ -3231,7 +3231,7 @@ a.text-lime:hover, a.text-lime:focus { color: #b8bd20 !important; }
 
 @media (max-width: 767.98px) { .navbar-brand .logo { height: 3em; } }
 
-.banner { width: 100%; background: #044484; color: #ffffff; padding: 0.4em 0; }
+.banner { width: 100%; background: #044484; color: #ffffff; padding: 0.4em 0; margin-top: 3px; }
 
 .banner.empty-divider { height: 3px; }
 
@@ -3305,9 +3305,7 @@ a.text-lime:hover, a.text-lime:focus { color: #b8bd20 !important; }
 
 .news-card .card-img-top { height: 200px; background-position-x: center; background-position-y: center; background-size: cover; background-repeat: no-repeat; }
 
-.news-section { background: #04a897; margin-bottom: 3px; }
-
-.news-section:last-child { margin-bottom: 0; }
+.news-section { background: #04a897; }
 
 .event-card .card-body { height: 100px; overflow: hidden; margin-bottom: 20px; }
 
@@ -3317,11 +3315,7 @@ a.text-lime:hover, a.text-lime:focus { color: #b8bd20 !important; }
 
 .event-card .card-title { margin-bottom: 0; }
 
-.events-section { background: #521e4a; margin-bottom: 3px; }
-
-.events-section:last-child { margin-bottom: 0; }
-
-.events-section:first-child { margin-top: 3px; }
+.events-section { background: #521e4a; }
 
 .show-header .show-details-top { flex-grow: 1; }
 
