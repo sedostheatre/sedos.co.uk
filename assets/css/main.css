@@ -3237,7 +3237,7 @@ a.text-lime:hover, a.text-lime:focus { color: #b8bd20 !important; }
 
 .banner h1 { font-size: 1.75em; }
 
-.home-events-section, .home-news-section, .news-section, .events-section, .about-section { padding-top: 30px; padding-bottom: 30px; }
+.home-events-section, .home-news-section, .news-section, .events-section, .upcoming-shows-section, .about-section { padding-top: 30px; padding-bottom: 30px; }
 
 .mt-3px { margin-top: 3px; }
 
@@ -3256,6 +3256,20 @@ a.text-lime:hover, a.text-lime:focus { color: #b8bd20 !important; }
 .show-card-wrapper .show-card .show-details { width: 100%; background: rgba(4, 68, 132, 0.7); }
 
 .show-card-wrapper .show-card .show-title { text-align: center; width: 100%; color: #ffffff; }
+
+.upcoming-show-card-container { padding-top: 15px; padding-bottom: 15px; }
+
+@media (max-width: 767.98px) { .upcoming-show-card-container .show-card { max-height: 300px; } }
+
+@media (min-width: 576px) { .upcoming-show-card-container .show-card { height: 300px; } }
+
+.upcoming-show-card-container .show-card .card-body { overflow: hidden; margin-bottom: 20px; }
+
+.upcoming-show-card-container .show-card .card-footer a { color: white; }
+
+.upcoming-show-card-container .show-card .card-img-top { height: 200px; background-position-x: center; background-position-y: center; background-size: cover; background-repeat: no-repeat; }
+
+.upcoming-show-card-container .show-card .card-footer, .upcoming-show-card-container .show-card .card-header { background: #032b53; }
 
 .home-page-show-carousel-item { height: 70vh; border-radius: 0; }
 
@@ -3348,6 +3362,8 @@ a.text-lime:hover, a.text-lime:focus { color: #b8bd20 !important; }
 .show-page-header .row { height: 100%; }
 
 .show-nav { font-size: 1.125em; }
+
+.upcoming-shows-section { background: #499fcd; padding-bottom: 15px; padding-top: 15px; }
 
 .about-section { background: #499fcd; padding-bottom: 15px; padding-top: 15px; margin-top: 3px; }
 
