@@ -7,8 +7,8 @@ showtimes:
   - 2017-09-29 21:00:00
   - 2017-09-30 14:30:00
   - 2017-09-30 19:00:00
-flyer: "home-page.jpg"
 header-image: assets/images/headers/2017-ordinary-days-header-image.jpg
+flyer: assets/images/flyers/2017-ordinary-days.jpg
 ---
 
 <blockquote class="blockquote">

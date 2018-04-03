@@ -9,4 +9,5 @@ showtimes:
   - 2017-09-23 14:30:00
   - 2017-09-23 19:30:00
 header-image: assets/images/headers/2017-the-rivals-header.jpg
+flyer: assets/images/flyers/2017-the-rivals.jpg
 ---
