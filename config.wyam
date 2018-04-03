@@ -182,7 +182,7 @@ Pipelines.Add("TopLevelPages",
             }
         ).FirstOrDefault()
     ),
-    Razor().WithViewStart("Layout/_PageViewStart.cshtml"),
+    Razor(),
     WriteFiles(".html")
 );
 

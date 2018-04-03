@@ -1,49 +1,53 @@
 @{
-    Layout = "_Page";
+    Layout = "_Default";
     IgnoreBody();
 }
 
 @model IDocument
 
-<div class="events-section mt-3px">
-    <div class="container ">
-        <div class="row">
-            @foreach(var eventItem in Documents["RegularEvents"])
-            {
-                Html.RenderPartial("Partials/_EventCard", @eventItem);
-            }
+<div class="page-wrapper bg-light">
+    @{Html.RenderPartial("Partials/_HeaderCarousel");}
 
-            <div class="col-md-3 col-sm-6">
-                @foreach(var group in Model.Get<IEnumerable<IDocument>>("groups"))
+    <div class="events-section mt-3px">
+        <div class="container ">
+            <div class="row">
+                @foreach(var eventItem in Documents["RegularEvents"])
                 {
-                    <div class="card mb-3 border-0 regular-event-card">
-                    <a href="@Context.GetLink(group.Get<string>("url"))">
-                        <div class="card-header bg-pink">
-                            <h3 class="card-title text-white">@group["name"]</h3>
-                        </div>
-                    </a>
-                </div>
+                    Html.RenderPartial("Partials/_EventCard", @eventItem);
                 }
+
+                <div class="col-md-3 col-sm-6">
+                    @foreach(var group in Model.Get<IEnumerable<IDocument>>("groups"))
+                    {
+                        <div class="card mb-3 border-0 regular-event-card">
+                        <a href="@Context.GetLink(group.Get<string>("url"))">
+                            <div class="card-header bg-pink">
+                                <h3 class="card-title text-white">@group["name"]</h3>
+                            </div>
+                        </a>
+                    </div>
+                    }
+                </div>
             </div>
         </div>
     </div>
-</div>
 
-<div class="banner">
-    <div class="container">
-        <h1>Auditions, workshops and socials</h1>
+    <div class="banner">
+        <div class="container">
+            <h1>Auditions, workshops and socials</h1>
+        </div>
     </div>
-</div>
 
-<div class="events-section">
-    <div class="container ">
-        <div class="row">
-        @{
-            foreach(var eventItem in Documents["UpcomingEvents"])
-            {
-                Html.RenderPartial("Partials/_EventCard", @eventItem);
+    <div class="events-section">
+        <div class="container ">
+            <div class="row">
+            @{
+                foreach(var eventItem in Documents["UpcomingEvents"])
+                {
+                    Html.RenderPartial("Partials/_EventCard", @eventItem);
+                }
             }
-        }
+            </div>
         </div>
     </div>
 </div>
