@@ -17,7 +17,7 @@
     @extend %blue-border-left;
 }
 
-.upcoming-shows-section {
+.upcoming-shows-section, .past-shows-section {
     @extend %page-section;
     background: $lighter-blue;
     padding-bottom: 15px;
