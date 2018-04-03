@@ -16,3 +16,10 @@
 .show-timings-column {
     @extend %blue-border-left;
 }
+
+.upcoming-shows-section {
+    @extend %page-section;
+    background: $lighter-blue;
+    padding-bottom: 15px;
+    padding-top: 15px;
+}

@@ -3,32 +3,40 @@
     IgnoreBody();
 }
 
-<div class="page-wrapper bg-light">
+<div class="page-wrapper">
     @{Html.RenderPartial("Partials/_HeaderCarousel");}
-    <div>
-        @{
-            var futureShows = Documents["AllShows"]
-                .Where(show => show.Get("showtimes", Enumerable.Empty<DateTime>()).Any(x => x >= DateTime.Now));
 
-            <div class="container">
-                <div class="row">
-                    @foreach(var show in futureShows)
-                    {
-                        Html.RenderPartial("Partials/_ShowArchiveCard", show);
-                    }
-                </div>
-            </div>
-        }
+    <div class="banner">
+        <div class="container">
+            <h1>@Model.Get("title", "What's on")</h1>
+        </div>
     </div>
+    <div class="upcoming-shows-section">
+        <div>
+            @{
+                var futureShows = Documents["AllShows"]
+                    .Where(show => show.Get("showtimes", Enumerable.Empty<DateTime>()).Any(x => x >= DateTime.Now))
+                    .OrderBy(show => show.Get("showtimes", Enumerable.Empty<DateTime>()).FirstOrDefault());
 
-    <div class="container">
-        <div class="row">
-            <div class="col">
-                <p class="text-center">
-                    <a class="text-sedos-blue" href="/past-productions">
-                        View past productions
-                    </a>
-                </p>
+                <div class="container">
+                    <div class="row">
+                        @foreach(var show in futureShows)
+                        {
+                            Html.RenderPartial("Partials/_UpcomingShowCard", show);
+                        }
+                    </div>
+                </div>
+            }
+        </div>
+        <div class="container">
+            <div class="row">
+                <div class="col">
+                    <p class="text-center">
+                        <a class="text-white" href="/past-productions">
+                            View past productions
+                        </a>
+                    </p>
+                </div>
             </div>
         </div>
     </div>
