@@ -15,7 +15,12 @@
 
         var latestNews = news.First();
 
-        <div class="news-section mt-3px">
+        <div class="banner">
+            <div class="container">
+                <h1>@Model["title"]</h1>
+            </div>
+        </div>
+        <div class="news-section">
             <div class="container">
                 <div class="row">
                     @foreach(var article in latestNews)
@@ -24,25 +29,20 @@
                     }
                 </div>
             </div>
-        </div>
 
-        @foreach(var grouping in news.Skip(1))
-        {
-            <div class="banner">
-                <div class="container">
-                    <h1>@grouping.Key</h1>
-                </div>
-            </div>
-            <div class="news-section">
-                <div class="container">
-                    <div class="row">
-                        @foreach(var article in grouping)
-                        {
-                            Html.RenderPartial("Partials/_NewsCard", @article);
-                        }
+            <div class="container">
+                <div class="row">
+                    <div class="col">
+                        <p class="text-center">
+                            <a class="text-white" href="/all-news">
+                                View all news
+                            </a>
+                        </p>
                     </div>
                 </div>
             </div>
-        }
+        </div>
+
+
     }
 </div>

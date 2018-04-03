@@ -1,0 +1,35 @@
+@{
+    Layout = "_Default";
+    IgnoreBody();
+}
+
+@model IDocument
+
+<div class="page-wrapper bg-light">
+    @{Html.RenderPartial("Partials/_HeaderCarousel");}
+
+    @{
+        var news = Documents["News"]
+            .GroupBy(article => article.Get<DateTime>("date").Year)
+            .OrderByDescending(grouping => grouping.Key);
+
+        @foreach(var grouping in news)
+        {
+            <div class="banner">
+                <div class="container">
+                    <h1>@grouping.Key</h1>
+                </div>
+            </div>
+            <div class="news-section">
+                <div class="container">
+                    <div class="row">
+                        @foreach(var article in grouping)
+                        {
+                            Html.RenderPartial("Partials/_NewsCard", @article);
+                        }
+                    </div>
+                </div>
+            </div>
+        }
+    }
+</div>
