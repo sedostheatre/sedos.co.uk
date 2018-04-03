@@ -27,15 +27,6 @@
 .events-section {
     @extend %page-section;
     background: $purple;
-    margin-bottom: 3px;
-    
-    &:last-child {
-        margin-bottom: 0;
-    }
-
-    &:first-child { 
-        margin-top: 3px;
-    }
 }
 
 .events-column {

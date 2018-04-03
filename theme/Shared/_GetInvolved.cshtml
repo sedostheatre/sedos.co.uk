@@ -8,7 +8,13 @@
 <div class="page-wrapper bg-light">
     @{Html.RenderPartial("Partials/_HeaderCarousel");}
 
-    <div class="events-section mt-3px">
+    <div class="banner">
+        <div class="container">
+            <h1>Regular events</h1>
+        </div>
+    </div>
+
+    <div class="events-section">
         <div class="container ">
             <div class="row">
                 @foreach(var eventItem in Documents["RegularEvents"])
@@ -39,7 +45,7 @@
     </div>
 
     <div class="events-section">
-        <div class="container ">
+        <div class="container">
             <div class="row">
             @{
                 foreach(var eventItem in Documents["UpcomingEvents"])

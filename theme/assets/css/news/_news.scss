@@ -3,11 +3,6 @@
 .news-section {
     @extend %page-section;
     background: $turquoise;
-    margin-bottom: 3px;
-    
-    &:last-child {
-        margin-bottom: 0;
-    }
 }
 
 .news-article-details-column {
