@@ -10,7 +10,7 @@ showtimes:
   - 2018-07-14 19:30:00
   - 2018-07-14 14:30:00
 primary-color: "#17a2b8"
-showtime-summary: "10-14 July"
+showtime-summary: "10-14 JULY"
 header-image: assets/images/headers/2018-earthquakes.jpg
 flyer: assets/images/headers/2018-earthquakes.jpg
 ---
