@@ -25,7 +25,7 @@
         @{
             var eventTime = Model.ContainsKey("recurrence")
             ? Model.Get("recurrence")
-            : Model.Get<DateTime>("time").ToString("dddd dd MMMM yyyy h.mmtt");
+            : Model.Get<DateTime>("time").ToString("dddd d MMMM yyyy h.mm") + Model.Get<DateTime>("time").ToString("tt").ToLower();
             <h5>@eventTime</h5>
         }
     </div>
