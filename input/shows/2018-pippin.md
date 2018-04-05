@@ -1,6 +1,8 @@
 ---
 title: "Pippin"
-subtitle: ""
+authors: "Book by ROGER O. HIRSON"
+authors2: "Music and Lyrics by STEPHEN SCHWARTZ"
+subtitle: "Meet Pippin. Young, ambitious, full of potential and ready to change the world. But things are never that simple."
 showtimes:
   - 2018-05-09 19:30:00
   - 2018-05-10 19:30:00

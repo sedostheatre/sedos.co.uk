@@ -1,6 +1,7 @@
 ---
 title: "You Can't Take it With You"
-subtitle: ""
+subtitle: "A biting comedy that celebrates non-conformity"
+authors: "By MOSS HART and GEORGE S. KAUFMAN"
 showtimes:
   - 2018-04-09 19:30:00
   - 2018-04-10 19:30:00
@@ -9,7 +10,7 @@ showtimes:
   - 2018-04-13 19:30:00
   - 2018-04-14 14:30:00
   - 2018-04-14 19:30:00
-primary-color: "#0b0f18"
+primary-color: "#1a1c61"
 showtime-summary: "9-14 APRIL"
 header-image: assets/images/headers/2018-yctiwy.jpg
 flyer: assets/images/flyers/2018-you-cant-flyer.jpg

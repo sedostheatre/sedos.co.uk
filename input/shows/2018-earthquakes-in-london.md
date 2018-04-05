@@ -1,6 +1,7 @@
 ---
 title: "Earthquakes in London"
-subtitle: "by Mike Bartlett"
+authors: "By MIKE BARTLETT"
+subtitle: An epic rollercoaster of a play that takes us from 1968 to 2525 and back again
 showtimes:
   - 2018-07-10 19:30:00
   - 2018-07-11 19:30:00
