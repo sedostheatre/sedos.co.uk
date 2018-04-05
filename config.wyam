@@ -29,13 +29,17 @@ Pipelines.Add("FallbackHeaders",
 Pipelines.Add("ShowDetails",
     ReadFiles("show-details/*.md"),
     FrontMatter(Yaml()),
-    Markdown().UseExtension<Markdig.Extensions.Bootstrap.BootstrapExtension>()
+    Markdown()
+        .UseExtension<Markdig.Extensions.Bootstrap.BootstrapExtension>()
+        .UseExtensions()
 );
 
 Pipelines.Add("AllShows",
     ReadFiles("shows/*.md"),
     FrontMatter(Yaml()),
-    Markdown().UseExtension<Markdig.Extensions.Bootstrap.BootstrapExtension>(),
+    Markdown()
+        .UseExtension<Markdig.Extensions.Bootstrap.BootstrapExtension>()
+        .UseExtensions(),
     Meta("header-image", (doc, ctx) =>
         ctx.Execute(
             new IModule[] {
@@ -67,7 +71,9 @@ Pipelines.Add("AllShows",
 Pipelines.Add("News",
     ReadFiles("news/*.md"),
     FrontMatter(Yaml()),
-    Markdown().UseExtension<Markdig.Extensions.Bootstrap.BootstrapExtension>(),
+    Markdown()
+        .UseExtension<Markdig.Extensions.Bootstrap.BootstrapExtension>()
+        .UseExtensions(),
     Excerpt().WithOuterHtml(false),
     Meta("image", (doc, ctx) =>
         ctx.Execute(
@@ -100,7 +106,9 @@ Pipelines.Add("News",
 Pipelines.Add("Events",
     ReadFiles("events/*.md"),
     FrontMatter(Yaml()),
-    Markdown().UseExtension<Markdig.Extensions.Bootstrap.BootstrapExtension>(),
+    Markdown()
+        .UseExtension<Markdig.Extensions.Bootstrap.BootstrapExtension>()
+        .UseExtensions(),
     Excerpt().WithOuterHtml(false),
     Meta("header-image", (doc, ctx) =>
         ctx.Execute(
@@ -139,7 +147,9 @@ Pipelines.Add("UpcomingEvents",
 Pipelines.Add("RegularEvents",
     ReadFiles("regular-events/*.md"),
     FrontMatter(Yaml()),
-    Markdown().UseExtension<Markdig.Extensions.Bootstrap.BootstrapExtension>(),
+    Markdown()
+        .UseExtension<Markdig.Extensions.Bootstrap.BootstrapExtension>()
+        .UseExtensions(),
     Meta("image", (doc, ctx) =>
         ctx.Execute(
             new IModule[] {
@@ -172,7 +182,9 @@ Pipelines.Add("RegularEvents",
 Pipelines.Add("AboutSections",
     ReadFiles("about/*.md"),
     FrontMatter(Yaml()),
-    Markdown().UseExtension<Markdig.Extensions.Bootstrap.BootstrapExtension>(),
+    Markdown()
+        .UseExtension<Markdig.Extensions.Bootstrap.BootstrapExtension>()
+        .UseExtensions(),
     Meta("about-image", (doc, ctx) =>
         ctx.Execute(
             new IModule[] {
@@ -237,7 +249,9 @@ Pipelines.Add("Markdown",
             }
         ).FirstOrDefault()
     ),
-    Markdown().UseExtension<Markdig.Extensions.Bootstrap.BootstrapExtension>(),
+    Markdown()
+        .UseExtension<Markdig.Extensions.Bootstrap.BootstrapExtension>()
+        .UseExtensions(),
     Razor().WithViewStart((doc, ctx) => doc.Get("view-start", "Layout/_PageViewStart.cshtml")),
     WriteFiles(".html")
 );
