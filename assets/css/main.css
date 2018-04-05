@@ -3265,7 +3265,7 @@ a.text-lime:hover, a.text-lime:focus { color: #b8bd20 !important; }
 
 @media (min-width: 576px) { .upcoming-show-card-container .show-card { height: 300px; } }
 
-.upcoming-show-card-container .show-card .card-body { overflow: hidden; margin-bottom: 20px; }
+.upcoming-show-card-container .show-card .card-body { overflow: hidden; padding-bottom: 20px; background: #044484; }
 
 .upcoming-show-card-container .show-card .card-footer a { color: white; }
 
@@ -3313,7 +3313,7 @@ a.text-lime:hover, a.text-lime:focus { color: #b8bd20 !important; }
 
 @media (min-width: 576px) { .news-card { height: 300px; } }
 
-.news-card .card-body { overflow: hidden; margin-bottom: 20px; }
+.news-card .card-body { overflow: hidden; padding-bottom: 20px; background: #23778e; }
 
 .news-card .card-footer a { color: white; }
 
@@ -3321,15 +3321,23 @@ a.text-lime:hover, a.text-lime:focus { color: #b8bd20 !important; }
 
 .news-card .card-img-top { height: 200px; background-position-x: center; background-position-y: center; background-size: cover; background-repeat: no-repeat; }
 
+.news-card .card-header { margin-bottom: 3px; }
+
 .news-section { background: #04a897; }
 
-.event-card .card-body { height: 100px; overflow: hidden; margin-bottom: 20px; }
+@media (max-width: 767.98px) { .event-card { max-height: 300px; } }
+
+@media (min-width: 576px) { .event-card { height: 300px; } }
+
+.event-card .card-body { overflow: hidden; padding-bottom: 20px; background: #c92c71; }
 
 .event-card .card-footer a { color: white; }
 
+.event-card .card-footer, .event-card .card-header { background: #9f2359; }
+
 .event-card .card-img-top { height: 200px; background-position-x: center; background-position-y: center; background-size: cover; background-repeat: no-repeat; }
 
-.event-card .card-title { margin-bottom: 0; }
+.event-card .card-header { margin-bottom: 3px; }
 
 .events-section { background: #521e4a; }
 
@@ -3369,7 +3377,7 @@ a.text-lime:hover, a.text-lime:focus { color: #b8bd20 !important; }
 
 .about-section { background: #499fcd; padding-bottom: 15px; padding-top: 15px; }
 
-.about-card .card-body { overflow: hidden; margin-bottom: 20px; }
+.about-card .card-body { overflow: hidden; padding-bottom: 20px; }
 
 .about-card .card-footer a { color: white; }
 
