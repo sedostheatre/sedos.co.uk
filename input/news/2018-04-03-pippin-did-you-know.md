@@ -2,6 +2,7 @@
 title: Did you know?
 date: 2018-04-03
 image: assets/images/news/NEWS-pippin.jpg
+header-image: assets/images/headers/2018-pippin.jpg
 extract: "Read on to find out why it is particularly fitting that Sedos is bringing Pippin to the Bridewell this spring."
 ---
 

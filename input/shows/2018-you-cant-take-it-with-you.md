@@ -11,7 +11,7 @@ showtimes:
   - 2018-04-14 19:30:00
 primary-color: "#0b0f18"
 showtime-summary: "9-14 APRIL"
-header-image: assets/images/flyers/2018-you-cant-flyer.jpg
+header-image: assets/images/headers/2018-yctiwy.jpg
 flyer: assets/images/flyers/2018-you-cant-flyer.jpg
 ticket-prices: "£14-18.50"
 venue: Bridewell

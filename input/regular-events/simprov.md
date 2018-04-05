@@ -1,6 +1,7 @@
 ---
 title: Simprov
 image: assets/images/events/simprov-banner.jpg
+header-image: assets/images/headers/SedosWebsite-Banner-Simprov.jpg
 recurrence: Every other Friday
 venue: bhg
 ---
