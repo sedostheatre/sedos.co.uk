@@ -1,6 +1,7 @@
 ---
 title: Sedance
 image: assets/images/events/sedance-banner.jpg
+header-image: assets/images/headers/SedosWebsite-Banner-sedance.jpg
 recurrence: Every Wednesday
 venue: Some other venue
 ---
