@@ -1,8 +1,8 @@
 ---
 title: Fight workshop
-time: 2018-06-23 10:00:00
+times: 2018-06-23 10:00:00
 image: assets/images/events/DanStyles-event.jpg
-tickets: £10.00-£18.00
+ticket-prices: £10.00-£18.00
 venue: bhg
 ---
 
