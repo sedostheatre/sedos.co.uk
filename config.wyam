@@ -93,6 +93,19 @@ Pipelines.Add("News",
             }
         ).FirstOrDefault()
     ),
+    Meta("fallback-header",
+    (doc, ctx) =>
+        ctx.Execute(
+            new IModule[] {
+                ReadFiles("assets/images/headers/SedosWebsite-Banner-Seats-flaton.jpg"),
+                Image().SetJpegQuality(80).Resize(width: 1280, height: null),
+                WriteFiles()
+            },
+            new IDocument[] {
+                doc
+            }
+        ).FirstOrDefault()
+    ),
     Razor().WithViewStart("Layout/_NewsArticleViewStart.cshtml"),
     WriteFiles(".html")
 );
@@ -119,6 +132,19 @@ Pipelines.Add("Events",
             new IModule[] {
                 ReadFiles((doc2, ctx2) => doc.Get<string>("image")),
                 Image().SetJpegQuality(100).Resize(300, 300),
+                WriteFiles()
+            },
+            new IDocument[] {
+                doc
+            }
+        ).FirstOrDefault()
+    ),
+     Meta("fallback-header",
+    (doc, ctx) =>
+        ctx.Execute(
+            new IModule[] {
+                ReadFiles("assets/images/headers/molm.jpg"),
+                Image().SetJpegQuality(80).Resize(width: 1280, height: null),
                 WriteFiles()
             },
             new IDocument[] {

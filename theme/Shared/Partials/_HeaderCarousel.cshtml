@@ -2,12 +2,9 @@
 
 @{
 
-    var headerImage = Model.Get<IDocument>("header-image", null);
-    IEnumerable<IDocument> headerImages;
-    if(headerImage == null)
-    {
-        headerImage = Documents["FallbackHeaders"].ToList().First();
-    }
+    var headerImage = Model.Get<IDocument>("header-image", null)
+        ?? Model.Get<IDocument>("fallback-header", null)
+        ?? Documents["FallbackHeaders"].ToList().First();
 }
 
 <!--  TODO QQ this shouldn't be a carousel anymore -->
