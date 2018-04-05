@@ -29,7 +29,7 @@
             {
                 <h5>@Model.Get("recurrence")</h5>
             }
-            else if(times.Any())
+            if(times.Any())
             {
                 <ul>
                     @foreach(var time in times.Select(x => x.ToString("dddd dd MMMM yyyy h.mm") + x.ToString("tt").ToLower()))
