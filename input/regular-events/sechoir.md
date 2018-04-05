@@ -1,6 +1,7 @@
 ---
 title: Sechoir
 image: assets/images/events/sechoir-banner.jpg
+header-image: assets/images/headers/SedosWebsite-Banner-sechoir.jpg
 recurrence: Every Wednesday
 venue: bhg
 ---
