@@ -1,5 +1,5 @@
 ---
-title: 2018 Sedos Season
+title: 2018 Sedos season
 date: 2017-09-09
 image: assets/images/news/NEWS-SEASON-popcorn.jpg
 ---
