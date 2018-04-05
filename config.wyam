@@ -81,6 +81,18 @@ Pipelines.Add("News",
             }
         ).FirstOrDefault()
     ),
+    Meta("header-image", (doc, ctx) =>
+        ctx.Execute(
+            new IModule[] {
+                ReadFiles((doc2, ctx2) => doc.Get<string>("header-image")),
+                Image().SetJpegQuality(80).Resize(width: 1280, height: null),
+                WriteFiles()
+            },
+            new IDocument[] {
+                doc
+            }
+        ).FirstOrDefault()
+    ),
     Razor().WithViewStart("Layout/_NewsArticleViewStart.cshtml"),
     WriteFiles(".html")
 );
@@ -90,6 +102,18 @@ Pipelines.Add("Events",
     FrontMatter(Yaml()),
     Markdown().UseExtension<Markdig.Extensions.Bootstrap.BootstrapExtension>(),
     Excerpt().WithOuterHtml(false),
+    Meta("header-image", (doc, ctx) =>
+        ctx.Execute(
+            new IModule[] {
+                ReadFiles((doc2, ctx2) => doc.Get<string>("header-image")),
+                Image().SetJpegQuality(80).Resize(width: 1280, height: null),
+                WriteFiles()
+            },
+            new IDocument[] {
+                doc
+            }
+        ).FirstOrDefault()
+    ),
     Meta("image", (doc, ctx) =>
         ctx.Execute(
             new IModule[] {
@@ -121,6 +145,18 @@ Pipelines.Add("RegularEvents",
             new IModule[] {
                 ReadFiles((doc2, ctx2) => doc.Get<string>("image")),
                 Image().SetJpegQuality(100).Resize(300, 300),
+                WriteFiles()
+            },
+            new IDocument[] {
+                doc
+            }
+        ).FirstOrDefault()
+    ),
+     Meta("header-image", (doc, ctx) =>
+        ctx.Execute(
+            new IModule[] {
+                ReadFiles((doc2, ctx2) => doc.Get<string>("header-image")),
+                Image().SetJpegQuality(80).Resize(width: 1280, height: null),
                 WriteFiles()
             },
             new IDocument[] {
