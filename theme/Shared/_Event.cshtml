@@ -23,10 +23,26 @@
             }
         }
         @{
-            var eventTime = Model.ContainsKey("recurrence")
-            ? Model.Get("recurrence")
-            : Model.Get<DateTime>("time").ToString("dddd d MMMM yyyy h.mm") + Model.Get<DateTime>("time").ToString("tt").ToLower();
-            <h5>@eventTime</h5>
+            var times = Model.Get("times", Enumerable.Empty<DateTime>()).OrderBy(x=>x);
+
+            if(Model.ContainsKey("recurrence"))
+            {
+                <h5>@Model.Get("recurrence")</h5>
+            }
+            else if(times.Any())
+            {
+                <ul>
+                    @foreach(var time in times.Select(x => x.ToString("dddd dd MMMM yyyy h.mm") + x.ToString("tt").ToLower()))
+                    {
+                        <li>@time</li>
+                    }
+                </ul>
+            }
+
+            if(Model.Get("ticket-prices", null) != null)
+            {
+                <h5>@Model.Get("ticket-prices", null)</h5>
+            }
         }
     </div>
 </div>
