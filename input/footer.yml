@@ -11,8 +11,10 @@ social-links:
   - url: https://www.flickr.com/photos/sedos/collections/
     image: /assets/images/social-footers/flickr.svg
     name: Flickr
+  - url: https://www.instagram.com/sedoslondon/
+    image: /assets/images/social-footers/instagram.svg
+    name: Flickr
   # TODO Slack
-  # TODO Instagram
 external-links:
   - image: /assets/images/footers/sedos-resident-at-bridewell-theatre.png
     url: http://www.sbf.org.uk/whats-on 
