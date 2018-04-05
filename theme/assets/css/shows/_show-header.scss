@@ -38,7 +38,18 @@
         font-size: 2em;
         font-weight: 700;
         color: white;
-        padding-bottom: 1em;
+    }
+
+    .show-authors-2 {
+        font-size: 2em;
+        font-weight: 700;
+        color: white;
+    }
+    
+    .show-authors-3 {
+        font-size: 2em;
+        font-weight: 700;
+        color: white;
     }
 
     .showtime-summary {
@@ -66,6 +77,14 @@
     @include media-breakpoint-up(sm) {
         .show-details {
             padding-top: 120px;
+        }
+        
+        .show-subtitle  {
+            padding-top: 1em;
+        }
+
+        .showtime-summary {
+            font-size: 2em;
         }
     }
 

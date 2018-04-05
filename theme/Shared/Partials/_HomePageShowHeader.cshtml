@@ -17,6 +17,12 @@
                     <h2 class="show-authors">@Model["Authors"]</h2>
                 }
 
+                if(!string.IsNullOrWhiteSpace(Model.Get("authors2", "")))
+                {
+                    <h2 class="show-authors">@Model["authors2"]</h2>
+                }
+
+
                 if(!string.IsNullOrWhiteSpace(Model.Get("Subtitle", "")))
                 {
                     <h2 class="show-subtitle">@Model["Subtitle"]</h2>
