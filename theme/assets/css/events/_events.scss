@@ -1,28 +1,4 @@
-.event-card {
-    .card-body {
-        height: 100px;
-        overflow: hidden;
-        margin-bottom: 20px;
-    }
-
-    .card-footer {
-        a {
-            color: white;
-        }
-    }
-
-    .card-img-top {
-        height: 200px;
-        background-position-x: center;
-        background-position-y: center;
-        background-size: cover;
-        background-repeat: no-repeat;
-    }
-
-    .card-title {
-        margin-bottom: 0;
-    }
-}
+@import "event-card";
 
 .events-section {
     @extend %page-section;

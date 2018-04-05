@@ -1,4 +1,4 @@
-.news-card {
+.event-card {
     @include media-breakpoint-down(sm) {
         max-height: 300px;
     }
@@ -10,7 +10,7 @@
     .card-body {
         overflow: hidden;
         padding-bottom: 20px;
-        background: $light-blue;
+        background: $pink;
     }
 
     .card-footer {
@@ -20,7 +20,7 @@
     }
 
     .card-footer, .card-header {
-        background: darken($light-blue, 10);
+        background: darken($pink, 10);
     }
 
     .card-img-top {
