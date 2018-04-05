@@ -1,6 +1,6 @@
 ---
 title: Your visit
-header-image: assets/images/headers/macbeth.jpg
+header-image: assets/images/headers/SedosWebsite-Banner-1.jpg
 ---
 
 ## Seeing a Sedos show at the Bridewell Theatre
