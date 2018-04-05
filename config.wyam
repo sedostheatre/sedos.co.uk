@@ -166,8 +166,8 @@ Pipelines.Add("Events",
 
 Pipelines.Add("UpcomingEvents",
     Documents("Events"),
-    Where((doc, ctx) => doc.Get<DateTime>("time") > DateTime.Now),
-    OrderBy((doc, ctx) => doc.Get<DateTime>("time"))
+    Where((doc, ctx) => doc.Get("times", Enumerable.Empty<DateTime>()).Any(x => x > DateTime.Now)),
+    OrderBy((doc, ctx) => doc.Get("times", Enumerable.Empty<DateTime>()).First())
 );
 
 Pipelines.Add("RegularEvents",
