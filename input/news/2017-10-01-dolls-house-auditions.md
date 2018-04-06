@@ -1,7 +1,7 @@
----
+--
 title: A Doll's House Auditions
 date: 2017-10-01
-extract: "A Doll's House Auditions"
+extract: "A Doll's House auditions"
 image: assets/images/news/NEWS-Dolls-House-Auditions.jpg
 ---
 
