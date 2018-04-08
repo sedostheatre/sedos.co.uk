@@ -10,7 +10,7 @@
 .home-news-section {
     @extend %page-section;
     background: $turquoise;
-    margin-top: 3px;
+    border-top: 3px solid $sedos-blue;
 }
 
 .regular-event-card {
