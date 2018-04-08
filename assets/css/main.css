@@ -3293,7 +3293,7 @@ a.text-lime:hover, a.text-lime:focus { color: #b8bd20 !important; }
 
 .home-events-section { background: #521e4a; margin-top: 3px; }
 
-.home-news-section { background: #04a897; margin-top: 3px; }
+.home-news-section { background: #04a897; border-top: 3px solid #044484; }
 
 .regular-event-card a, .regular-event-card a:focus, .regular-event-card a:hover { color: white; }
 
