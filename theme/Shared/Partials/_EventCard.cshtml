@@ -11,7 +11,7 @@
                     @{
                         var text = Model.ContainsKey("recurrence")
                         ? Model.Get("recurrence")
-                        : Model.Get<DateTime>("time").ToString("dd MMMM");
+                        : Model.Get<IEnumerable<DateTime>>("times").FirstOrDefault(x => x >= DateTime.Now) .ToString("d MMMM");
                     }
                     @text
                 </small>
