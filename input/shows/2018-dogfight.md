@@ -10,7 +10,7 @@ flyer: assets/images/flyers/2018-dogfight-flyer.jpg
 showtime-summary: 23-27 January
 header-image: assets/images/headers/2018-dogfight-header-image.jpg
 float-nav: true
-venue: Bridewell Theatre
+venue: bridewell
 ---
 
 > The whole damn world might change tomorrow

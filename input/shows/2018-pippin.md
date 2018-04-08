@@ -15,7 +15,7 @@ primary-color: "#0b0f18"
 showtime-summary: "9-19 MAY"
 header-image: assets/images/headers/2018-pippin.jpg
 flyer: assets/images/flyers/2018-pippin.jpg
-venue: The Bridewell
+venue: bridewell
 ticket-prices: £12-£18
 ---
 
