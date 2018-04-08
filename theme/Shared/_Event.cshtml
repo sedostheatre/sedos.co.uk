@@ -2,8 +2,6 @@
 
 @{
     Layout = "_Page";
-    var venues = Documents["Venues"].Single().Get<IEnumerable<IDocument>>("venues");
-    var venue = venues.FirstOrDefault(x => x["key"].ToString().Equals(Model["venue"].ToString()));
 }
 
 <div class="row">
@@ -13,13 +11,18 @@
     <div class="col-md-4 events-column pt-3">
         <h3>Essential info</h3>
         @{
-            if(venue != null)
+            if(Model.ContainsKey("venue")) 
             {
-                <h4><a href="@venue["url"]">@venue["name"]</a></h4>
-            }
-            else
-            {
-                <h4>@Model["venue"]</h4>
+                var venues = Documents["Venues"].Single().Get<IEnumerable<IDocument>>("venues");
+                var venue = venues.FirstOrDefault(x => x["key"].ToString().Equals(Model["venue"].ToString()));
+                if(venue != null)
+                {
+                    <h4><a href="@venue["url"]">@venue["name"]</a></h4>
+                }
+                else
+                {
+                    <h4>@Model["venue"]</h4>
+                }
             }
         }
         @{

@@ -15,7 +15,7 @@ showtime-summary: "9-14 APRIL"
 header-image: assets/images/headers/2018-yctiwy.jpg
 flyer: assets/images/flyers/2018-you-cant-flyer.jpg
 ticket-prices: "£14-18.50"
-venue: Bridewell
+venue: bridewell
 ---
 
 > How many of us would be willing to settle when we're young for what we eventually get? All those plans we make...what happens to them? It's only a handful of the lucky ones that can look back and say that they even came close.

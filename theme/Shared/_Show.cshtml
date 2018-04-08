@@ -44,7 +44,21 @@
                 </div>
             </div>
             <div class="col-md-4 pt-3 show-timings-column">
-                <h4>@Model.Get("Venue")</h4>
+                @{
+                    if(Model.ContainsKey("venue")) 
+                    {
+                        var venues = Documents["Venues"].Single().Get<IEnumerable<IDocument>>("venues");
+                        var venue = venues.FirstOrDefault(x => x["key"].ToString().Equals(Model["venue"].ToString()));
+                        if(venue != null)
+                        {
+                            <h4><a href="@venue["url"]">@venue["name"]</a></h4>
+                        }
+                        else
+                        {
+                            <h4>@Model["venue"]</h4>
+                        }
+                    }
+                }
                 <h4>@Model.Get("ticket-prices")</h4>
                 @{
                     var showDates = Model.Get("showtimes", Enumerable.Empty<DateTime>()).OrderBy(x => x);
