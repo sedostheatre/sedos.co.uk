@@ -3370,7 +3370,7 @@ a.text-lime:hover, a.text-lime:focus { color: #b8bd20 !important; }
   .show-header .show-details { text-align: center; } }
 
 @media (min-width: 576px) { .show-header .show-details { padding-top: 120px; }
-  .show-header .show-subtitle { padding-top: 1em; }
+  .show-header .show-subtitle { padding-top: 1em; max-width: 80%; }
   .show-header .showtime-summary { font-size: 2em; } }
 
 @media (max-width: 991.98px) { .show-header .show-title { font-size: 4em; padding-bottom: 0.25em; margin-top: 0.25em; }
