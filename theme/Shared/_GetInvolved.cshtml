@@ -22,7 +22,7 @@
                     Html.RenderPartial("Partials/_EventCard", @eventItem);
                 }
 
-                <div class="col-md-3 col-sm-6">
+                <div class="event-card-container col-md-3 col-sm-6">
                     @foreach(var group in Model.Get<IEnumerable<IDocument>>("groups"))
                     {
                         <div class="card mb-3 border-0 regular-event-card">
