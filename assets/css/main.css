@@ -3273,6 +3273,8 @@ a.text-lime:hover, a.text-lime:focus { color: #b8bd20 !important; }
 
 .upcoming-show-card-container .show-card .card-footer, .upcoming-show-card-container .show-card .card-header { background: #032b53; }
 
+.upcoming-show-card-container .show-card .card-header { border-bottom: 3px solid white; }
+
 .home-page-show-carousel-item { height: 70vh; border-radius: 0; }
 
 .home-page-show-carousel-item .show-title a, .home-page-show-carousel-item .show-title a:focus, .home-page-show-carousel-item .show-title a:hover { color: white; text-decoration: none; }
