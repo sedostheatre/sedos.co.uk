@@ -113,6 +113,7 @@ Pipelines.Add("News",
         ).FirstOrDefault()
     ),
     Meta("page-title", "News"),
+    Meta("background-override", "bg-turquoise"),
     Razor().WithViewStart("Layout/_NewsArticleViewStart.cshtml"),
     WriteFiles(".html")
 );
@@ -148,7 +149,7 @@ Pipelines.Add("Events",
             }
         ).FirstOrDefault()
     ),
-     Meta("fallback-header",
+    Meta("fallback-header",
     (doc, ctx) =>
         ctx.Execute(
             new IModule[] {
@@ -162,6 +163,7 @@ Pipelines.Add("Events",
         ).FirstOrDefault()
     ),
     Meta("page-title", "Events"),
+    Meta("background-override", "bg-purple"),
     Razor().WithViewStart("Layout/_EventViewStart.cshtml"),
     WriteFiles(".html")
 );
@@ -190,7 +192,7 @@ Pipelines.Add("RegularEvents",
             }
         ).FirstOrDefault()
     ),
-     Meta("header-image", (doc, ctx) =>
+    Meta("header-image", (doc, ctx) =>
         ctx.Execute(
             new IModule[] {
                 ReadFiles((doc2, ctx2) => doc.Get<string>("header-image")),
@@ -203,6 +205,7 @@ Pipelines.Add("RegularEvents",
         ).FirstOrDefault()
     ),
     Meta("page-title", "Regular Events"),
+    Meta("background-override", "bg-purple"),
     Razor().WithViewStart("Layout/_EventViewStart.cshtml"),
     WriteFiles(".html")
 );
