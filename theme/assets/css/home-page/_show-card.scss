@@ -71,5 +71,9 @@
         .card-footer, .card-header {
             background: darken($sedos-blue, 10);
         }
+
+        .card-header {
+            border-bottom: 3px solid white;
+        }
     }
 }
