@@ -10,7 +10,7 @@
 
     <div class="banner">
         <div class="container">
-            <h1>@Model["title"]</h1>
+            <h1>@Model.Get("page-title", Model["title"])</h1>
         </div>
     </div>
 

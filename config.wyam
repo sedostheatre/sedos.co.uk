@@ -112,6 +112,7 @@ Pipelines.Add("News",
             }
         ).FirstOrDefault()
     ),
+    Meta("page-title", "News"),
     Meta("background-override", "bg-turquoise"),
     Razor().WithViewStart("Layout/_NewsArticleViewStart.cshtml"),
     WriteFiles(".html")
@@ -161,6 +162,7 @@ Pipelines.Add("Events",
             }
         ).FirstOrDefault()
     ),
+    Meta("page-title", "Events"),
     Meta("background-override", "bg-purple"),
     Razor().WithViewStart("Layout/_EventViewStart.cshtml"),
     WriteFiles(".html")
@@ -202,6 +204,7 @@ Pipelines.Add("RegularEvents",
             }
         ).FirstOrDefault()
     ),
+    Meta("page-title", "Regular Events"),
     Meta("background-override", "bg-purple"),
     Razor().WithViewStart("Layout/_EventViewStart.cshtml"),
     WriteFiles(".html")
@@ -226,6 +229,7 @@ Pipelines.Add("AboutSections",
             }
         ).FirstOrDefault()
     ),
+    Meta("page-title", "About"),
     Razor().WithViewStart("Layout/_PageViewStart.cshtml"),
     WriteFiles(".html")
 );
