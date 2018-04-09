@@ -112,6 +112,7 @@ Pipelines.Add("News",
             }
         ).FirstOrDefault()
     ),
+    Meta("page-title", "News"),
     Razor().WithViewStart("Layout/_NewsArticleViewStart.cshtml"),
     WriteFiles(".html")
 );
@@ -160,6 +161,7 @@ Pipelines.Add("Events",
             }
         ).FirstOrDefault()
     ),
+    Meta("page-title", "Events"),
     Razor().WithViewStart("Layout/_EventViewStart.cshtml"),
     WriteFiles(".html")
 );
@@ -200,6 +202,7 @@ Pipelines.Add("RegularEvents",
             }
         ).FirstOrDefault()
     ),
+    Meta("page-title", "Regular Events"),
     Razor().WithViewStart("Layout/_EventViewStart.cshtml"),
     WriteFiles(".html")
 );
@@ -223,6 +226,7 @@ Pipelines.Add("AboutSections",
             }
         ).FirstOrDefault()
     ),
+    Meta("page-title", "About"),
     Razor().WithViewStart("Layout/_PageViewStart.cshtml"),
     WriteFiles(".html")
 );
