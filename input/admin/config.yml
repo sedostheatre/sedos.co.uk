@@ -25,14 +25,20 @@ collections:
         widget: "string"
         tagname: "h2"
         required: false
+      - label: "Authors"
+        name: "authors"
+        widget: "string"
+        tagname: "h4"
+        required: false
+      - label: "Authors (second line)"
+        name: "authors2"
+        widget: "string"
+        tagname: "h4"
+        required: false
       - name: showtimes
         label: Show times
         widget: list
         required: false
-        field:
-          - label: "Show time"
-            widget: "datetime"
-            format: "YYYY-MM-DD hh:mmZ"
       - name: showtime-summary
         label: "Summary of show times"
         widget: "string"
@@ -40,7 +46,7 @@ collections:
       - label: "Show details"
         name: "body"
         widget: "markdown"
-      - label: "Primary colour"
+      - label: "Primary colour (this gets used as the header image)"
         name: "primary-color"
         widget: "string"
         required: false
@@ -51,6 +57,14 @@ collections:
       - label: Flyer image (displayed on shows page)
         name: flyer
         widget: image
+        required: false
+      - label: Venue
+        name: venue
+        widget: image
+        required: false
+      - label: Ticket Prices
+        name: ticket-prices
+        widget: text
         required: false
   - name: "show-details"
     label: "Show Details"
