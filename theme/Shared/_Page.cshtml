@@ -1,5 +1,6 @@
 @{
     Layout = "_Default";
+    var backgroundOverride = Model.Get("background-override", "");
 }
 
 <div class="page-wrapper">
@@ -13,7 +14,7 @@
         </div>
     </div>
 
-    <div class="page-section">
+    <div class="page-section @backgroundOverride">
         <div class="container bg-light">
             <div class="row">
                 <div class="col">
