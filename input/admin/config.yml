@@ -111,7 +111,6 @@ collections:
       - label: "Article content"
         name: "body"
         widget: "markdown"
-
   - name: "events"
     label: "Event"
     description: >
