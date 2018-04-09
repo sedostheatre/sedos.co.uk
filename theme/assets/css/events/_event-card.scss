@@ -1,37 +1,42 @@
-.event-card {
-    @include media-breakpoint-down(sm) {
-        max-height: 300px;
-    }
+.event-card-container{
+    padding-top: 15px;
+    padding-bottom: 15px;
 
-    @include media-breakpoint-up(sm) {
-        height: 300px;
-    }
-
-    .card-body {
-        overflow: hidden;
-        padding-bottom: 20px;
-        background: $pink;
-    }
-
-    .card-footer {
-        a {
-            color: white;
+    .event-card {
+        @include media-breakpoint-down(sm) {
+            max-height: 300px;
         }
-    }
 
-    .card-footer, .card-header {
-        background: darken($pink, 10);
-    }
+        @include media-breakpoint-up(sm) {
+            height: 300px;
+        }
 
-    .card-img-top {
-        height: 200px;
-        background-position-x: center;
-        background-position-y: center;
-        background-size: cover;
-        background-repeat: no-repeat;
-    }
+        .card-body {
+            overflow: hidden;
+            padding-bottom: 20px;
+            background: $pink;
+        }
 
-    .card-header {
-        margin-bottom: 3px;
+        .card-footer {
+            a {
+                color: white;
+            }
+        }
+
+        .card-footer, .card-header {
+            background: darken($pink, 10);
+        }
+
+        .card-img-top {
+            height: 200px;
+            background-position-x: center;
+            background-position-y: center;
+            background-size: cover;
+            background-repeat: no-repeat;
+        }
+
+        .card-header {
+            margin-bottom: 3px;
+        }
     }
 }

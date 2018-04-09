@@ -3,6 +3,8 @@
 .events-section {
     @extend %page-section;
     background: $purple;
+    padding-bottom: 15px;
+    padding-top: 15px;
 }
 
 .events-column {
