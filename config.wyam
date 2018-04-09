@@ -13,6 +13,11 @@ Pipelines.Add("Footer",
     Yaml()
 );
 
+Pipelines.Add("TopLevelNav",
+    ReadFiles("top-level-nav.yml"),
+    Yaml()
+);
+
 Pipelines.Add("Venues",
     ReadFiles("venues.yml"),
     Yaml()
