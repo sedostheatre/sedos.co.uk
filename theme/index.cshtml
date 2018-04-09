@@ -77,7 +77,7 @@ float-nav: true
 <div class="home-events-section">
     <div class="container">
         <div class="row">
-            <div class="col-md-3">
+            <div class="event-card-container col-md-3">
                 @{
                     foreach(var eventItem in Documents["RegularEvents"].Take(3).OrderBy(i => i["title"]))
                     {
