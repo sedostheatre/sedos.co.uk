@@ -22,10 +22,11 @@
             <ul class="navbar-nav mr-auto">
                 @foreach(var navItem in topLevelNav.Get<IEnumerable<IDocument>>("top-level-nav")) 
                 {
+                    var active = Context.GetLink(Model).Contains(navItem["url"].ToString());
                     <li class="nav-item">
-                        <a class="nav-link @(Context.GetLink(Model).Contains(navItem["url"].ToString()) ? "active" : "")" 
+                        <a class="nav-link @(active ? "active" : "")" 
                            href="@navItem["url"]">
-                            @navItem["name"]<span class="sr-only"></span>
+                            @navItem["name"]<span class="sr-only">@(active ? "(current)" : "")</span>
                         </a>
                     </li>
                 }
