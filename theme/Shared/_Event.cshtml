@@ -35,7 +35,10 @@
             if(times.Any())
             {
                 <ul>
-                    @foreach(var time in times.Select(x => x.ToString("dddd dd MMMM yyyy h.mm") + x.ToString("tt").ToLower()))
+                    @foreach(var time in times
+                            .Where(x=>x > DateTime.Now)
+                            .Select(x => x.ToString("dddd dd MMMM yyyy h.mm") + x.ToString("tt").ToLower())
+                    )
                     {
                         <li>@time</li>
                     }
