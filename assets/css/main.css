@@ -3281,11 +3281,9 @@ a.text-lime:hover, a.text-lime:focus { color: #b8bd20 !important; }
 
 .home-page-show-carousel-item .row { height: 100%; }
 
-@media (min-width: 576px) { .header-carousel .has-indicators { margin-bottom: 130px; } }
+.header-carousel .has-indicators { margin-bottom: 130px; }
 
 .header-carousel .carousel-indicators { overflow-x: initial; bottom: -130px; }
-
-@media (max-width: 767.98px) { .header-carousel .carousel-indicators { display: none; } }
 
 .header-carousel .carousel-indicators li { width: auto; height: auto; text-indent: initial; }
 
@@ -3347,39 +3345,34 @@ a.text-lime:hover, a.text-lime:focus { color: #b8bd20 !important; }
 
 .events-section { background: #521e4a; padding-bottom: 15px; padding-top: 15px; }
 
-.show-header .show-details-top { flex-grow: 1; }
+.show-header .show-details { display: flex; flex-direction: column; align-items: stretch; align-content: stretch; padding-top: 8em; }
 
-.show-header .show-details { display: flex; flex-direction: column; }
+.show-header .show-details-bottom { padding-bottom: 1em; }
 
-.show-header .show-details-bottom { padding-bottom: 30px; }
+.show-header .show-details-bottom .showtime-summary { font-size: 2em; font-weight: 300; color: white; padding-bottom: 0.5em; text-transform: uppercase; }
 
-.show-header .show-header-image { background-position-x: center; background-position-y: center; background-size: cover; background-repeat: no-repeat; }
+.show-header .show-header-image { background-position-x: center; background-position-y: center; background-size: cover; background-repeat: no-repeat; min-height: 70vh; }
 
-.show-header .show-title { font-size: 4.5em; font-weight: 900; margin-bottom: 0; color: white; padding-bottom: 0.5em; }
+.show-header .show-title { font-size: 4.5em; font-weight: 900; margin-bottom: 0; color: white; flex-grow: 1; }
 
-.show-header .show-subtitle { font-size: 2em; font-weight: 300; color: white; padding-bottom: 1em; }
+.show-header .show-authors, .show-header .show-authors-2, .show-header .show-authors-3 { font-size: 2em; font-weight: 700; color: white; flex-grow: 1; }
 
-.show-header .show-authors { font-size: 2em; font-weight: 700; color: white; }
+.show-header .show-subtitle { font-size: 2em; font-weight: 300; color: white; max-width: 80%; flex-grow: 2; }
 
-.show-header .show-authors-2 { font-size: 2em; font-weight: 700; color: white; }
+@media (max-width: 991.98px) { .show-header .show-title { font-size: 3em; margin-bottom: 0; padding-bottom: 0; }
+  .show-header .show-authors, .show-header .show-authors-2, .show-header .show-authors-3 { font-size: 1.5em; }
+  .show-header .show-subtitle { font-size: 1.3em; }
+  .show-header .show-details-bottom .showtime-summary { font-size: 1.3em; } }
 
-.show-header .show-authors-3 { font-size: 2em; font-weight: 700; color: white; }
+@media (max-width: 767.98px) { .show-header .show-details { padding-top: 0; }
+  .show-header .show-title { font-size: 3em; padding-bottom: 0.25em; }
+  .show-header .show-subtitle { font-size: 1.5em; max-width: 100%; }
+  .show-header .show-details-bottom .showtime-summary { font-size: 1.5em; }
+  .show-header .show-details { text-align: center; }
+  .show-header .show-details { padding-top: 1em; }
+  .show-header .show-header-image { min-height: 30vh; } }
 
-.show-header .showtime-summary { font-size: 1.3em; font-weight: 300; color: white; padding-bottom: 0.5em; text-transform: uppercase; }
-
-@media (max-width: 767.98px) { .show-header .show-title { font-size: 3em; }
-  .show-header .show-subtitle { font-size: 1.5em; }
-  .show-header .show-details { text-align: center; } }
-
-@media (min-width: 576px) { .show-header .show-details { padding-top: 120px; }
-  .show-header .show-subtitle { padding-top: 1em; max-width: 80%; }
-  .show-header .showtime-summary { font-size: 2em; } }
-
-@media (max-width: 991.98px) { .show-header .show-title { font-size: 4em; padding-bottom: 0.25em; margin-top: 0.25em; }
-  .show-header .show-subtitle { padding-bottom: 0.25em; }
-  .show-header .show-action-bar { padding-top: 0.5em; } }
-
-.show-page-header { height: 70vh; border-radius: 0; }
+.show-page-header { border-radius: 0; }
 
 .show-page-header .row { height: 100%; }
 
