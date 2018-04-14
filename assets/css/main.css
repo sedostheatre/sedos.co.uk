@@ -3295,10 +3295,6 @@ a.text-lime:hover, a.text-lime:focus { color: #b8bd20 !important; }
 
 .home-news-section { background: #04a897; border-top: 3px solid #044484; padding-bottom: 15px; padding-top: 15px; }
 
-.regular-event-card a, .regular-event-card a:focus, .regular-event-card a:hover { color: white; }
-
-.regular-event-card .card-title { margin-bottom: 0; }
-
 .social-icons { list-style: none; flex-direction: row; display: flex; padding: 0; float: right; }
 
 .social-icons .social-icon { height: 2rem; margin: 0 0.4rem; }
@@ -3344,6 +3340,12 @@ a.text-lime:hover, a.text-lime:focus { color: #b8bd20 !important; }
 .event-card-container .event-card .card-header { margin-bottom: 3px; }
 
 .events-section { background: #521e4a; padding-bottom: 15px; padding-top: 15px; }
+
+.regular-event-card .card-header { background: #9f2359; }
+
+.regular-event-card a, .regular-event-card a:focus, .regular-event-card a:hover { color: white; }
+
+.regular-event-card .card-title { margin-bottom: 0; }
 
 .show-header .show-details { display: flex; flex-direction: column; align-items: stretch; align-content: stretch; padding-top: 8em; }
 
