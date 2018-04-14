@@ -9,11 +9,9 @@
     @{Html.RenderPartial("Partials/_HeaderCarousel");}
 
     @{
-        var news = Documents["News"]
-            .GroupBy(article => article.Get<DateTime>("date").Year)
-            .OrderByDescending(grouping => grouping.Key);
-
-        var latestNews = news.First();
+        var latestNews = Documents["News"]
+            .OrderByDescending(article => article.Get<DateTime>("date"))
+            .Take(8);
 
         <div class="banner">
             <div class="container">
@@ -42,7 +40,5 @@
                 </div>
             </div>
         </div>
-
-
     }
 </div>
