@@ -15,17 +15,11 @@
 }
 
 .header-carousel {
-    @include media-breakpoint-up(sm) {
-        .has-indicators {
-            margin-bottom: 130px;
-        }
+    .has-indicators {
+        margin-bottom: 130px;
     }
 
     .carousel-indicators {
-        @include media-breakpoint-down(sm) {
-            display: none;
-        }
-
         overflow-x: initial;
         bottom:-130px;
 
