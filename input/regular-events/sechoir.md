@@ -18,33 +18,37 @@ We look forward to seeing you - and hearing you!
 
 ## SECHOIR SEASON 1
 
-| 14 February | Rehearsal|
-|21 February	| Rehearsal|
-|28 February	| Rehearsal|
-|7	March | Rehearsal|
-|14 March	| Rehearsal|
-|21 March	| Rehearsal|
-|28 March	| Break|
-|4	April | Rehearsal|
-|11 April	| Rehearsal|
-|18 April	| Rehearsal|
-|25 April	| Rehearsal|
-|2	May | Rehearsal|
-|9	May | Rehearsal|
-|13	May | Bridewell Concert|
+|Date|What|
+|--|--|
+|14 February | Rehearsal|
+|21 February | Rehearsal|
+|28 February | Rehearsal|
+|7 March | Rehearsal|
+|14 March | Rehearsal|
+|21 March | Rehearsal|
+|28 March | Break|
+|4 April | Rehearsal|
+|11 April | Rehearsal|
+|18 April | Rehearsal|
+|25 April | Rehearsal|
+|2 May | Rehearsal|
+|9 May | Rehearsal|
+|13 May | Bridewell Concert|
 
 ## SECHOIR SEASON 2
 
-|29 August	| Rehearsal|
-|5	September | Rehearsal|
-|12 September	| Rehearsal
-|19 September	| Rehearsal|
-|26	September | Rehearsal|
-|3	October | Rehearsal|
-|10 October	| Break|
-|17	October | Rehearsal|
-|24 October	| Rehearsal|
-|31 October	| Rehearsal|
+|Date|What|
+|--|--|
+|29 August | Rehearsal|
+|5 September | Rehearsal|
+|12 September | Rehearsal
+|19 September | Rehearsal|
+|26 September | Rehearsal|
+|3 October | Rehearsal|
+|10 October | Break|
+|17 October | Rehearsal|
+|24 October | Rehearsal|
+|31 October | Rehearsal|
 |7 November | Rehearsal|
 |14 November | Rehearsal|
 |21 November | Rehearsal|
