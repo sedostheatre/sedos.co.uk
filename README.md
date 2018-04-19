@@ -1,10 +1,10 @@
 # Sedos
 
-A preliminary version of a new site for [Sedos](www.sedos.co.uk), built using Wyam.
+The new site for [Sedos](www.sedos.co.uk), built using Wyam.
 
 ## Developing
 
-To run locally, run
+To run locally (on Windows), run
 
 ```powershell
 build.ps1 -Target Preview
