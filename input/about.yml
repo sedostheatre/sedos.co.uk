@@ -1,0 +1,35 @@
+- title: About
+  row: 1
+  column: 1
+  image: assets/images/about/our-history.jpg
+- title: Join us
+  row: 1
+  column: 2
+  image: assets/images/about/About-JoinUs.jpg
+- title: Past shows
+  row: 2
+  column: 1
+  image: assets/images/about/past-shows.jpg
+  link: /past-productions
+- title: FAQs
+  row: 2
+  column: 2
+  image: assets/images/about/faqs.jpg
+- title: How we operate
+  row: 2
+  column: 3
+  image: assets/images/about/how-we-operate.jpg
+- title: In the press
+  row: 3
+  column: 1
+  image: assets/images/about/About-InThePress.jpg
+- title: 1 Brewers' Hall Garden
+  image: assets/images/about/bhg.jpg
+  link: /
+  row: 3
+  column: 2
+- title: Bridewell
+  row: 3
+  column: 3
+  image: assets/images/about/bridewell.jpg
+  link: /

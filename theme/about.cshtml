@@ -7,8 +7,8 @@ header-image: assets/images/headers/macbeth.jpg
     @{
         Html.RenderPartial("Partials/_HeaderCarousel");
 
-        var sectionRows = Documents["AboutSections"]
-            .GroupBy(section => section.Get<int>("about-row"))
+        var sectionRows = Documents["About"]
+            .GroupBy(section => section.Get<int>("row"))
             .OrderBy(grouping => grouping.Key);
     }
 
@@ -24,15 +24,15 @@ header-image: assets/images/headers/macbeth.jpg
             <div class="about-section">
                 <div class="container">
                     <div class="row">
-                        @foreach(var aboutSection in sectionRow.OrderBy(row=>row.Get<int>("about-column")))
+                        @foreach(var aboutSection in sectionRow.OrderBy(row => row.Get<int>("column")))
                         {
                             <div class="col-md">
-                                <a class="text-white" href="@Context.GetLink(aboutSection)">
+                                <a class="text-white" href="@Context.GetLink(aboutSection.Get<string>("link", "/"))">
                                     <div class="card border-0 text-white mb-3 mb-md-0 about-card">
                                         <div class="card-header">
                                             <h4 class="card-title">@aboutSection["title"]</h4>
                                         </div>
-                                        <img class="card-img-top" src="@Context.GetLink((IDocument)aboutSection["about-image"])">
+                                        <img class="card-img-top" src="@Context.GetLink(aboutSection.Get<IDocument>("image"))">
                                     </div>
                                 </a>
                             </div>
