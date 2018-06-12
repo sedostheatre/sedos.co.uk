@@ -13,6 +13,25 @@ Pipelines.Add("Footer",
     Yaml()
 );
 
+Pipelines.Add("About",
+    ReadFiles("about.yml"),
+    Yaml(),
+    ForEach(
+        Meta("image", (doc, ctx) =>
+            ctx.Execute(
+                new IModule[] {
+                    ReadFiles((doc2, ctx2) => doc.Get<string>("image")),
+                    Image().SetJpegQuality(100).Resize(600, 300),
+                    WriteFiles()
+                },
+                new IDocument[] {
+                    doc
+                }
+            ).FirstOrDefault()
+        )
+    )
+);
+
 Pipelines.Add("TopLevelNav",
     ReadFiles("top-level-nav.yml"),
     Yaml()
@@ -215,30 +234,16 @@ Pipelines.Add("RegularEvents",
     WriteFiles(".html")
 );
 
-
 Pipelines.Add("AboutSections",
     ReadFiles("about/*.md"),
     FrontMatter(Yaml()),
     Markdown()
         .UseExtension<Markdig.Extensions.Bootstrap.BootstrapExtension>()
         .UseExtensions(),
-    Meta("about-image", (doc, ctx) =>
-        ctx.Execute(
-            new IModule[] {
-                ReadFiles((doc2, ctx2) => doc.Get<string>("about-image")),
-                Image().SetJpegQuality(100).Resize(600, 300),
-                WriteFiles()
-            },
-            new IDocument[] {
-                doc
-            }
-        ).FirstOrDefault()
-    ),
     Meta("page-title", "About"),
     Razor().WithViewStart("Layout/_PageViewStart.cshtml"),
     WriteFiles(".html")
 );
-
 
 Pipelines.Add("Sass",
     ReadFiles("assets/css/main.scss"),
