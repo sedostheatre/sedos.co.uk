@@ -10,8 +10,7 @@ backend:
 collections:
   - name: "shows"
     label: "Show"
-    description: >
-      Somewhere to put shows
+    description: Somewhere to put shows
     folder: "input/shows"
     slug: "{{title}}"
     create: true
@@ -46,7 +45,7 @@ collections:
       - label: "Show details"
         name: "body"
         widget: "markdown"
-      - label: "Primary colour (this gets used as the header image)"
+      - label: Primary colour (this gets used along side the header image)
         name: "primary-color"
         widget: "string"
         required: false
