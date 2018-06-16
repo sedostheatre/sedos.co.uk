@@ -1,5 +1,5 @@
 media_folder: input/assets
-public_folder: assets
+public_folder: /assets
 publish_mode: editorial_workflow
 
 backend:
@@ -10,8 +10,7 @@ backend:
 collections:
   - name: "shows"
     label: "Show"
-    description: >
-      Somewhere to put shows
+    description: Somewhere to put shows
     folder: "input/shows"
     slug: "{{title}}"
     create: true
@@ -46,7 +45,7 @@ collections:
       - label: "Show details"
         name: "body"
         widget: "markdown"
-      - label: "Primary colour (this gets used as the header image)"
+      - label: Primary colour (this gets used along side the header image)
         name: "primary-color"
         widget: "string"
         required: false
@@ -89,28 +88,30 @@ collections:
       - label: "Section content"
         name: "body"
         widget: "markdown"
-  - name: "news"
-    label: "News"
-    description: >
-      News articles
-    folder: "input/news"
-    slug: "{{year}}-{{month}}-{{day}}-{{title}}"
+  - name: news
+    label: News
+    description: News articles
+    folder: input/news
+    slug: {{year}}-{{month}}-{{day}}-{{title}}
     create: true
     fields:
-      - label: "Title"
-        name: "title"
-        widget: "string"
-        tagname: "h1"
-      - label: "Publish Date"
-        name: "date"
-        widget: "date"
-        format: "YYYY-MM-DD"
-      - label: "Extract"
-        name: "extract"
-        widget: "string"
-      - label: "Article content"
-        name: "body"
-        widget: "markdown"
+      - name: title
+        label: Title
+        widget: string
+        tagname: h1
+      - name: date
+        label: Publish Date
+        widget: date
+        format: YYYY-MM-DD      
+      - name: image
+        label: Image (used on the home page/all news for the card tile)
+        widget: image     
+      - name: extract
+        label: Extract (used on the home page/all news page, if an image isn't set)
+        widget: string
+      - name: body
+        label: Article content
+        widget: markdown 
   - name: "events"
     label: "Event"
     description: >
