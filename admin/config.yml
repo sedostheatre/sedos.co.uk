@@ -15,56 +15,61 @@ collections:
     slug: "{{title}}"
     create: true
     fields:
-      - label: "Title"
-        name: "title"
-        widget: "string"
-        tagname: "h1"
-      - label: "Subtitle"
-        name: "subtitle"
-        widget: "string"
-        tagname: "h2"
+      - label: Title
+        name: title
+        widget: string
+        tagname: h1
+      - label: Authors
+        name: authors
+        widget: string
+        tagname: h4
         required: false
-      - label: "Authors"
-        name: "authors"
-        widget: "string"
-        tagname: "h4"
+      - label: Authors (second line)
+        name: authors2
+        widget: string
+        tagname: h4
         required: false
-      - label: "Authors (second line)"
-        name: "authors2"
-        widget: "string"
-        tagname: "h4"
+      - label: Authors (third line line)
+        name: authors3
+        widget: string
+        tagname: h3
+        required: false
+      - label: Subtitle (shown on home page/show details page below authors)
+        name: subtitle
+        widget: string
+        tagname: h2
         required: false
       - name: showtimes
         label: Show times
         widget: list
         required: false
       - name: showtime-summary
-        label: "Summary of show times"
-        widget: "string"
-        required: false
-      - label: "Show details"
-        name: "body"
-        widget: "markdown"
-      - label: Primary colour (this gets used along side the header image)
-        name: "primary-color"
-        widget: "string"
-        required: false
-      - label: Header image (displayed on home page and show page)
-        name: header-image
-        widget: "image"
-        required: false
-      - label: Flyer image (displayed on shows page)
-        name: flyer
-        widget: image
+        label: Summary of show times, shown at the footer of the home page/show details header
+        widget: string
         required: false
       - label: Venue
         name: venue
-        widget: image
+        widget: string
         required: false
       - label: Ticket Prices
         name: ticket-prices
         widget: text
         required: false
+      - label: Primary colour (this gets used along side the header image)
+        name: primary-color
+        widget: string
+        required: false
+      - label: Header image (displayed at the top of the home page and show page)
+        name: header-image
+        widget: image
+        required: false
+      - label: Flyer image (displayed on shows page)
+        name: flyer
+        widget: image
+        required: false
+      - label: Show details
+        name: body
+        widget: markdown
   - name: "show-details"
     label: "Show Details"
     description: >
