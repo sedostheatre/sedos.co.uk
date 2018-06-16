@@ -96,7 +96,7 @@ collections:
     label: News
     description: News articles
     folder: input/news
-    slug: {{year}}-{{month}}-{{day}}-{{title}}
+    slug: "{{year}}-{{month}}-{{day}}-{{title}}"
     create: true
     fields:
       - name: title
