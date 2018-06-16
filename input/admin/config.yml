@@ -70,29 +70,28 @@ collections:
       - label: Show details
         name: body
         widget: markdown
-  - name: "show-details"
-    label: "Show Details"
-    description: >
-      Details about shows
-    folder: "input/show-details"
-    slug: "{{title}}"
+  - name: show-details
+    label: Show Details
+    description: Details about shows
+    folder: input/show-details
+    slug: {{title}}
     create: true
     fields:
-      - label: "Title"
-        name: "title"
-        widget: "string"
-      - label: "Show"
-        name: "show"
-        widget: "relation"
-        collection: "shows"
+      - name: title
+        label: Title
+        widget: string
+      - name: show
+        label: Show
+        widget: relation
+        collection: shows
         searchFields: ["title"]
-        valueField: "title"
-      - label: "Section"
-        name: "section"
-        widget: "string"
-      - label: "Section content"
-        name: "body"
-        widget: "markdown"
+        valueField: title
+      - name: section
+        label: Section
+        widget: string
+      - name: body
+        label: Section content
+        widget: markdown
   - name: news
     label: News
     description: News articles
