@@ -70,29 +70,28 @@ collections:
       - label: Show details
         name: body
         widget: markdown
-  - name: "show-details"
-    label: "Show Details"
-    description: >
-      Details about shows
-    folder: "input/show-details"
-    slug: "{{title}}"
+  - name: show-details
+    label: Show Details
+    description: Details about shows
+    folder: input/show-details
+    slug: {{title}}
     create: true
     fields:
-      - label: "Title"
-        name: "title"
-        widget: "string"
-      - label: "Show"
-        name: "show"
-        widget: "relation"
-        collection: "shows"
+      - name: title
+        label: Title
+        widget: string
+      - name: show
+        label: Show
+        widget: relation
+        collection: shows
         searchFields: ["title"]
-        valueField: "title"
-      - label: "Section"
-        name: "section"
-        widget: "string"
-      - label: "Section content"
-        name: "body"
-        widget: "markdown"
+        valueField: title
+      - name: section
+        label: Section
+        widget: string
+      - name: body
+        label: Section content
+        widget: markdown
   - name: news
     label: News
     description: News articles
@@ -107,16 +106,16 @@ collections:
       - name: date
         label: Publish Date
         widget: date
-        format: YYYY-MM-DD      
+        format: YYYY-MM-DD
       - name: image
         label: Image (used on the home page/all news for the card tile)
-        widget: image     
+        widget: image
       - name: extract
         label: Extract (used on the home page/all news page, if an image isn't set)
         widget: string
       - name: body
         label: Article content
-        widget: markdown 
+        widget: markdown
   - name: "events"
     label: "Event"
     description: >
