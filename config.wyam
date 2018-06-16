@@ -17,18 +17,7 @@ Pipelines.Add("About",
     ReadFiles("about.yml"),
     Yaml(),
     ForEach(
-        Meta("image", (doc, ctx) =>
-            ctx.Execute(
-                new IModule[] {
-                    ReadFiles((doc2, ctx2) => doc.Get<string>("image")),
-                    Image().SetJpegQuality(100).Resize(600, 300),
-                    WriteFiles()
-                },
-                new IDocument[] {
-                    doc
-                }
-            ).FirstOrDefault()
-        )
+        Meta("image", (doc, ctx) => CopyAndResizeImageFromMeta(doc, ctx, "image", 600, 300))            
     )
 );
 
@@ -64,30 +53,8 @@ Pipelines.Add("AllShows",
     Markdown()
         .UseExtension<Markdig.Extensions.Bootstrap.BootstrapExtension>()
         .UseExtensions(),
-    Meta("header-image", (doc, ctx) =>
-        ctx.Execute(
-            new IModule[] {
-                ReadFiles((doc2, ctx2) => doc.Get<string>("header-image")),
-                Image().SetJpegQuality(80).Resize(width: 1280, height: null),
-                WriteFiles()
-            },
-            new IDocument[] {
-                doc
-            }
-        ).FirstOrDefault()
-    ),
-    Meta("flyer", (doc, ctx) =>
-        ctx.Execute(
-            new IModule[] {
-                ReadFiles((doc2, ctx2) => doc.Get<string>("flyer")),
-                Image().SetJpegQuality(80).Resize(width: null, height: 360),
-                WriteFiles()
-            },
-            new IDocument[] {
-                doc
-            }
-        ).FirstOrDefault()
-    ),
+    Meta("header-image", CopyAndResizeHeaderImage),
+    Meta("flyer", (doc, ctx) => CopyAndResizeImageFromMeta(doc, ctx, "flyer", null, 360)), 
     Razor().WithViewStart("Layout/_ShowViewStart.cshtml"),
     WriteFiles(".html")
 );
@@ -99,42 +66,10 @@ Pipelines.Add("News",
         .UseExtension<Markdig.Extensions.Bootstrap.BootstrapExtension>()
         .UseExtensions(),
     Excerpt().WithOuterHtml(false),
-    Meta("image", (doc, ctx) =>
-        ctx.Execute(
-            new IModule[] {
-                ReadFiles((doc2, ctx2) => doc.Get<string>("image")),
-                Image().SetJpegQuality(100).Resize(300, 300),
-                WriteFiles()
-            },
-            new IDocument[] {
-                doc
-            }
-        ).FirstOrDefault()
-    ),
-    Meta("header-image", (doc, ctx) =>
-        ctx.Execute(
-            new IModule[] {
-                ReadFiles((doc2, ctx2) => doc.Get<string>("header-image")),
-                Image().SetJpegQuality(80).Resize(width: 1280, height: null),
-                WriteFiles()
-            },
-            new IDocument[] {
-                doc
-            }
-        ).FirstOrDefault()
-    ),
-    Meta("fallback-header",
-    (doc, ctx) =>
-        ctx.Execute(
-            new IModule[] {
-                ReadFiles("assets/images/headers/SedosWebsite-Banner-Seats-flaton.jpg"),
-                Image().SetJpegQuality(80).Resize(width: 1280, height: null),
-                WriteFiles()
-            },
-            new IDocument[] {
-                doc
-            }
-        ).FirstOrDefault()
+    Meta("image", (doc, ctx) => CopyAndResizeImageFromMeta(doc, ctx, "image", 300, 300)),
+    Meta("header-image", CopyAndResizeHeaderImage),
+    Meta("fallback-header", 
+        (doc, ctx) => CopyAndResizeImageFromFile(doc, ctx, "assets/images/headers/SedosWebsite-Banner-Seats-flaton.jpg", 1280, null)
     ),
     Meta("page-title", "News"),
     Meta("background-override", "bg-turquoise"),
@@ -149,42 +84,10 @@ Pipelines.Add("Events",
         .UseExtension<Markdig.Extensions.Bootstrap.BootstrapExtension>()
         .UseExtensions(),
     Excerpt().WithOuterHtml(false),
-    Meta("header-image", (doc, ctx) =>
-        ctx.Execute(
-            new IModule[] {
-                ReadFiles((doc2, ctx2) => doc.Get<string>("header-image")),
-                Image().SetJpegQuality(80).Resize(width: 1280, height: null),
-                WriteFiles()
-            },
-            new IDocument[] {
-                doc
-            }
-        ).FirstOrDefault()
-    ),
-    Meta("image", (doc, ctx) =>
-        ctx.Execute(
-            new IModule[] {
-                ReadFiles((doc2, ctx2) => doc.Get<string>("image")),
-                Image().SetJpegQuality(100).Resize(300, 300),
-                WriteFiles()
-            },
-            new IDocument[] {
-                doc
-            }
-        ).FirstOrDefault()
-    ),
+    Meta("header-image", CopyAndResizeHeaderImage),
+    Meta("image", (doc, ctx) => CopyAndResizeImageFromMeta(doc, ctx, "image", 300, 300)),
     Meta("fallback-header",
-    (doc, ctx) =>
-        ctx.Execute(
-            new IModule[] {
-                ReadFiles("assets/images/headers/molm.jpg"),
-                Image().SetJpegQuality(80).Resize(width: 1280, height: null),
-                WriteFiles()
-            },
-            new IDocument[] {
-                doc
-            }
-        ).FirstOrDefault()
+        (doc, ctx) => CopyAndResizeImageFromFile(doc, ctx, "assets/images/headers/molm.jpg", 1280, null)
     ),
     Meta("page-title", "Events"),
     Meta("background-override", "bg-purple"),
@@ -204,30 +107,8 @@ Pipelines.Add("RegularEvents",
     Markdown()
         .UseExtension<Markdig.Extensions.Bootstrap.BootstrapExtension>()
         .UseExtensions(),
-    Meta("image", (doc, ctx) =>
-        ctx.Execute(
-            new IModule[] {
-                ReadFiles((doc2, ctx2) => doc.Get<string>("image")),
-                Image().SetJpegQuality(100).Resize(300, 300),
-                WriteFiles()
-            },
-            new IDocument[] {
-                doc
-            }
-        ).FirstOrDefault()
-    ),
-    Meta("header-image", (doc, ctx) =>
-        ctx.Execute(
-            new IModule[] {
-                ReadFiles((doc2, ctx2) => doc.Get<string>("header-image")),
-                Image().SetJpegQuality(80).Resize(width: 1280, height: null),
-                WriteFiles()
-            },
-            new IDocument[] {
-                doc
-            }
-        ).FirstOrDefault()
-    ),
+    Meta("image", (doc, ctx) => CopyAndResizeImageFromMeta(doc, ctx, "image", 300, 300)),
+    Meta("header-image", CopyAndResizeHeaderImage),
     Meta("page-title", "Regular Events"),
     Meta("background-override", "bg-purple"),
     Razor().WithViewStart("Layout/_EventViewStart.cshtml"),
@@ -261,18 +142,7 @@ Pipelines.Add("Index",
 Pipelines.Add("TopLevelPages",
     ReadFiles("past-productions.cshtml", "about.cshtml"),
     FrontMatter(Yaml()),
-    Meta("header-image", (doc, ctx) =>
-        ctx.Execute(
-            new IModule[] {
-                ReadFiles((doc2, ctx2) => doc.Get<string>("header-image")),
-                Image().SetJpegQuality(80).Resize(width: 1280, height: null),
-                WriteFiles()
-            },
-            new IDocument[] {
-                doc
-            }
-        ).FirstOrDefault()
-    ),
+    Meta("header-image", CopyAndResizeHeaderImage),
     Razor(),
     WriteFiles(".html")
 );
@@ -280,18 +150,7 @@ Pipelines.Add("TopLevelPages",
 Pipelines.Add("Markdown",
     ReadFiles("*.md"),
     FrontMatter(Yaml()),
-    Meta("header-image", (doc, ctx) =>
-        ctx.Execute(
-            new IModule[] {
-                ReadFiles((doc2, ctx2) => doc.Get<string>("header-image")),
-                Image().SetJpegQuality(80).Resize(width: 1280, height: null),
-                WriteFiles()
-            },
-            new IDocument[] {
-                doc
-            }
-        ).FirstOrDefault()
-    ),
+    Meta("header-image", CopyAndResizeHeaderImage),
     Markdown()
         .UseExtension<Markdig.Extensions.Bootstrap.BootstrapExtension>()
         .UseExtensions(),
@@ -306,3 +165,41 @@ Pipelines.Add("ImageAssets",
 Pipelines.Add("NetlifyAdmin",
     CopyFiles("admin/**/*.*")
 );
+
+public static string TrimIfStartsWith(
+    this string value,
+    string  prefix)
+{
+    if(string.IsNullOrEmpty(value))
+    {
+        return value;
+    }
+    return  value.StartsWith(prefix) ?
+            value.Substring(prefix.Length, value.Length - prefix.Length) :
+            value;
+}
+
+public IDocument CopyAndResizeHeaderImage(IDocument doc, IExecutionContext ctx)
+{
+    return CopyAndResizeImageFromMeta(doc, ctx, "header-image", 1280, null);
+}
+
+public IDocument CopyAndResizeImageFromMeta(IDocument doc, IExecutionContext ctx, string fieldName, int? width, int? height)
+{
+    var fileName = doc.Get<string>(fieldName).TrimIfStartsWith("/");
+    return fileName == null ? null : CopyAndResizeImageFromFile(doc, ctx, fileName, width, height);
+}
+
+public IDocument CopyAndResizeImageFromFile(IDocument doc, IExecutionContext ctx, string filename, int? width, int? height)
+{
+    return ctx.Execute(
+        new IModule[] 
+        {
+            ReadFiles(filename),
+            Image().SetJpegQuality(80).Resize(width: width, height: height),
+            WriteFiles()
+        },
+        new IDocument[] { doc }
+    ).FirstOrDefault();
+}
+
