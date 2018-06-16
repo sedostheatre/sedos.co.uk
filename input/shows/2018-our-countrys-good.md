@@ -1,5 +1,5 @@
 ---
-title: "Our Country\'s Good"
+title: "Our Country's Good"
 subtitle: ""
 showtimes:
   - 2018-10-23 19:30:00
