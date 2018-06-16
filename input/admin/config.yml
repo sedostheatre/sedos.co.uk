@@ -88,28 +88,30 @@ collections:
       - label: "Section content"
         name: "body"
         widget: "markdown"
-  - name: "news"
-    label: "News"
-    description: >
-      News articles
-    folder: "input/news"
-    slug: "{{year}}-{{month}}-{{day}}-{{title}}"
+  - name: news
+    label: News
+    description: News articles
+    folder: input/news
+    slug: {{year}}-{{month}}-{{day}}-{{title}}
     create: true
     fields:
-      - label: "Title"
-        name: "title"
-        widget: "string"
-        tagname: "h1"
-      - label: "Publish Date"
-        name: "date"
-        widget: "date"
-        format: "YYYY-MM-DD"
-      - label: "Extract"
-        name: "extract"
-        widget: "string"
-      - label: "Article content"
-        name: "body"
-        widget: "markdown"
+      - name: title
+        label: Title
+        widget: string
+        tagname: h1
+      - name: date
+        label: Publish Date
+        widget: date
+        format: YYYY-MM-DD      
+      - name: image
+        label: Image (used on the home page/all news for the card tile)
+        widget: image     
+      - name: extract
+        label: Extract (used on the home page/all news page, if an image isn't set)
+        widget: string
+      - name: body
+        label: Article content
+        widget: markdown 
   - name: "events"
     label: "Event"
     description: >
