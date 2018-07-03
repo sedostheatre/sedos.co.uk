@@ -4,7 +4,7 @@ authors: Benj Paske, Justin Paul and Peter Duchan
 subtitle: |
   A contemporary musical by the authors of Dear Evan Hansen
 showtimes:
-  - 2018-03-06 19:30:00
+  - time: '2018-03-06 19:30+0100'
 primary-color: "#555500"
 flyer: assets/images/flyers/2018-dogfight-flyer.jpg
 showtime-summary: 23-27 January
