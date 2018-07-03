@@ -17,7 +17,7 @@ Pipelines.Add("About",
     ReadFiles("about.yml"),
     Yaml(),
     ForEach(
-        Meta("image", (doc, ctx) => CopyAndResizeImageFromMeta(doc, ctx, "image", 600, 300))            
+        Meta("image", (doc, ctx) => CopyAndResizeImageFromMeta(doc, ctx, "image", 600, 300))
     )
 );
 
@@ -54,7 +54,7 @@ Pipelines.Add("AllShows",
         .UseExtension<Markdig.Extensions.Bootstrap.BootstrapExtension>()
         .UseExtensions(),
     Meta("header-image", CopyAndResizeHeaderImage),
-    Meta("flyer", (doc, ctx) => CopyAndResizeImageFromMeta(doc, ctx, "flyer", null, 360)), 
+    Meta("flyer", (doc, ctx) => CopyAndResizeImageFromMeta(doc, ctx, "flyer", null, 360)),
     Razor().WithViewStart("Layout/_ShowViewStart.cshtml"),
     WriteFiles(".html")
 );
@@ -68,7 +68,7 @@ Pipelines.Add("News",
     Excerpt().WithOuterHtml(false),
     Meta("image", (doc, ctx) => CopyAndResizeImageFromMeta(doc, ctx, "image", 300, 300)),
     Meta("header-image", CopyAndResizeHeaderImage),
-    Meta("fallback-header", 
+    Meta("fallback-header",
         (doc, ctx) => CopyAndResizeImageFromFile(doc, ctx, "assets/images/headers/SedosWebsite-Banner-Seats-flaton.jpg", 1280, null)
     ),
     Meta("page-title", "News"),
@@ -97,8 +97,8 @@ Pipelines.Add("Events",
 
 Pipelines.Add("UpcomingEvents",
     Documents("Events"),
-    Where((doc, ctx) => doc.Get("times", Enumerable.Empty<DateTime>()).Any(x => x > DateTime.Now)),
-    OrderBy((doc, ctx) => doc.Get("times", Enumerable.Empty<DateTime>()).First())
+    Where((doc, ctx) => doc.Get("times", Enumerable.Empty<IDocument>()).Any(time => time.Get<DateTime>("time") > DateTime.Now)),
+    OrderBy((doc, ctx) => doc.Get("times", Enumerable.Empty<IDocument>()).Select(time => time.Get<DateTime>("time")).First())
 );
 
 Pipelines.Add("RegularEvents",
@@ -193,7 +193,7 @@ public IDocument CopyAndResizeImageFromMeta(IDocument doc, IExecutionContext ctx
 public IDocument CopyAndResizeImageFromFile(IDocument doc, IExecutionContext ctx, string filename, int? width, int? height)
 {
     return ctx.Execute(
-        new IModule[] 
+        new IModule[]
         {
             ReadFiles(filename),
             Image().SetJpegQuality(80).Resize(width: width, height: height),
