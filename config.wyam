@@ -27,8 +27,10 @@ Pipelines.Add("TopLevelNav",
 );
 
 Pipelines.Add("Venues",
-    ReadFiles("venues.yml"),
-    Yaml()
+    ReadFiles("venues/*.md"),
+    FrontMatter(Yaml()),
+    Markdown(),
+    WriteFiles(".html")
 );
 
 Pipelines.Add("FallbackHeaders",

@@ -1,3 +1,4 @@
 ---
-name: "Bridewell"
+name: The Bridewell
+key: bridewell
 ---
