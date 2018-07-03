@@ -161,7 +161,8 @@ collections:
   - name: venues
     label: Venues
     folder: input/venues
+    create: true
+    slug: "{{key}}"
     fields:
-      - {label: url, name: url, widget: string}
       - {label: name, name: name, widget: string}
       - {label: key, name: key, widget: string}
