@@ -10,10 +10,10 @@ header-image: assets/images/headers/SedosWebsite-Banner-redcurtain.jpg
     <div>
         @{
             var pastShows = Documents["AllShows"]
-                .Where(show => show.Get("showtimes", Enumerable.Empty<DateTime>()).Any())
-                .Where(show => show.Get("showtimes", Enumerable.Empty<DateTime>()).All(x => x < DateTime.Now))
-                .OrderBy(show => show.Get<IEnumerable<DateTime>>("showtimes").OrderBy(x => x).First())
-                .GroupBy(show => show.Get<IEnumerable<DateTime>>("showtimes").OrderBy(x => x).First().Year)
+                .Where(show => show.Get("showtimes", Enumerable.Empty<IDocument>()).Any())
+                .Where(show => show.Get("showtimes", Enumerable.Empty<IDocument>()).All(x => x.Get<DateTime>("time") < DateTime.Now))
+                .OrderBy(show => show.Get<IEnumerable<IDocument>>("showtimes").Select(x => x.Get<DateTime>("time")).OrderBy(x => x).First())
+                .GroupBy(show => show.Get<IEnumerable<IDocument>>("showtimes").Select(x => x.Get<DateTime>("time")).OrderBy(x => x).First().Year)
                 .OrderByDescending(grouping => grouping.Key);
 
             foreach(var grouping in pastShows)

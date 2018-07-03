@@ -2,11 +2,11 @@
 title: "Ordinary Days"
 subtitle: "Music and Lyrics by Adam Gwon"
 showtimes:
-  - 2017-09-27 21:00:00
-  - 2017-09-28 21:00:00
-  - 2017-09-29 21:00:00
-  - 2017-09-30 14:30:00
-  - 2017-09-30 19:00:00
+  - time: '2017-09-27 21:00+0100'
+  - time: '2017-09-28 21:00+0100'
+  - time: '2017-09-29 21:00+0100'
+  - time: '2017-09-30 14:30+0100'
+  - time: '2017-09-30 19:00+0100'
 header-image: assets/images/headers/2017-ordinary-days-header-image.jpg
 flyer: assets/images/flyers/2017-ordinary-days.jpg
 ---

@@ -15,8 +15,9 @@
         <div>
             @{
                 var futureShows = Documents["AllShows"]
-                    .Where(show => show.Get("showtimes", Enumerable.Empty<DateTime>()).Any(x => x >= DateTime.Now))
-                    .OrderBy(show => show.Get("showtimes", Enumerable.Empty<DateTime>()).FirstOrDefault());
+
+                    .Where(show => show.Get<IEnumerable<IDocument>>("showtimes").Select(x => x.Get<DateTime>("time")).Any(x => x >= DateTime.Now))
+                    .OrderBy(show => show.Get<IEnumerable<IDocument>>("showtimes").Select(x => x.Get<DateTime>("time")).FirstOrDefault());
 
                 <div class="container">
                     <div class="row">

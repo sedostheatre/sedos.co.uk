@@ -2,12 +2,12 @@
 title: "A Doll's House"
 subtitle: "Something something subtitle"
 showtimes:
-  - 2018-01-23 19:30:00
-  - 2018-01-24 19:30:00
-  - 2018-01-25 19:30:00
-  - 2018-01-26 19:30:00
-  - 2018-01-27 19:30:00
-  - 2018-01-27 14:30:00
+  - time: '2018-01-23 19:30+0100'
+  - time: '2018-01-24 19:30+0100'
+  - time: '2018-01-25 19:30+0100'
+  - time: '2018-01-26 19:30+0100'
+  - time: '2018-01-27 19:30+0100'
+  - time: '2018-01-27 14:30+0100'
 primary-color: "#B1D1FC"
 showtime-summary: Tues 23 Jan - Sat 27 Jan, 7:30pm (Sat matinee 2:30pm)
 header-image: assets/images/headers/2018-dolls-house-flyerimage.jpg

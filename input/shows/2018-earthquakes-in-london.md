@@ -3,12 +3,12 @@ title: "Earthquakes in London"
 authors: "By MIKE BARTLETT"
 subtitle: An epic rollercoaster of a play that takes us from 1968 to 2525 and back again
 showtimes:
-  - 2018-07-10 19:30:00
-  - 2018-07-11 19:30:00
-  - 2018-07-12 19:30:00
-  - 2018-07-13 19:30:00
-  - 2018-07-14 19:30:00
-  - 2018-07-14 14:30:00
+  - time: '2018-07-10 19:30+0100'
+  - time: '2018-07-11 19:30+0100'
+  - time: '2018-07-12 19:30+0100'
+  - time: '2018-07-13 19:30+0100'
+  - time: '2018-07-14 19:30+0100'
+  - time: '2018-07-14 14:30+0100'
 primary-color: "#17a2b8"
 showtime-summary: "10-14 JULY"
 header-image: assets/images/headers/2018-earthquakes.jpg
