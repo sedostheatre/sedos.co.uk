@@ -130,7 +130,7 @@ collections:
       - name: times
         label: Event times
         widget: list
-        field:
+        fields:
           - label: event time
             widget: datetime
             name: time
