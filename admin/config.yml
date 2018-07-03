@@ -117,7 +117,7 @@ collections:
         label: Article content
         widget: markdown
   - name: events
-    label: Event
+    label: Events
     description: Events
     folder: input/events
     slug: "{{title}}"
