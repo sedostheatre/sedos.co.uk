@@ -1,7 +1,7 @@
 ---
 title: 2019 Sedos Season Announcement
 times:
-  - time: 2018-09-13 19:00:00
+  - 2018-09-13T19:00:00.000Z
 image: assets/images/events/2019SeasonAnnouncement.jpg
 venue: bhg
 ---
