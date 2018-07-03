@@ -13,11 +13,10 @@
         @{
             if(Model.ContainsKey("venue"))
             {
-                var venues = Documents["Venues"].Single().Get<IEnumerable<IDocument>>("venues");
-                var venue = venues.FirstOrDefault(x => x["key"].ToString().Equals(Model["venue"].ToString()));
+                var venue = Documents["Venues"].FirstOrDefault(x => x["key"].ToString().Equals(Model["venue"].ToString()));
                 if(venue != null)
                 {
-                    <h4><a href="@venue["url"]">@venue["name"]</a></h4>
+                    <h4><a href="@Context.GetLink(venue)">@venue["name"]</a></h4>
                 }
                 else
                 {

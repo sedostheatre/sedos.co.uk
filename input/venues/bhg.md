@@ -1,3 +1,4 @@
 ---
-name: "BHG"
+name: BHG
+key: bhg
 ---
