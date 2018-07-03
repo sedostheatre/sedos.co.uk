@@ -153,3 +153,17 @@ collections:
       - label: Event details
         name: body
         widget: markdown
+  - name: venues
+    label: Venues
+    files:
+      - label: Venues File
+        name: Venues
+        file: input/venues.yml
+        fields:
+          - label: venues
+            widget: list
+            name: venues
+            fields:
+             - {label: url, name: url, widget: string}
+             - {label: name, name: name, widget: string}
+             - {label: key, name: key, widget: string}
