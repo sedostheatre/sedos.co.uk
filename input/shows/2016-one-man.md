@@ -1,13 +1,14 @@
 ---
-title: "One Man, Two Guvnors"
-subtitle: ""
+title: 'One Man, Two Guvnors'
+subtitle: ''
 showtimes:
-  - 2016-10-04 19:30:00
-  - 2016-10-05 19:30:00
-  - 2016-10-06 19:30:00
-  - 2016-10-07 19:30:00
-  - 2016-10-08 19:30:00
-  - 2016-10-08 14:30:00
-showtime-summary: "Tuesday to Saturday, 7:30pm"
+  - 'Tue Oct 04 2016 20:30:00 GMT+0100 (British Summer Time)'
+  - 'Wed Oct 05 2016 20:30:00 GMT+0100 (British Summer Time)'
+  - 'Thu Oct 06 2016 20:30:00 GMT+0100 (British Summer Time)'
+  - 'Fri Oct 07 2016 20:30:00 GMT+0100 (British Summer Time)'
+  - 'Sat Oct 08 2016 20:30:00 GMT+0100 (British Summer Time)'
+  - 'Sat Oct 08 2016 15:30:00 GMT+0100 (British Summer Time)'
+showtime-summary: 'Tuesday to Saturday, 7:30pm'
 flyer: assets/images/flyers/2016-one-man-flyer.jpg
 ---
+Some details are in here
