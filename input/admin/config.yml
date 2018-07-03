@@ -49,7 +49,10 @@ collections:
         required: false
       - label: Venue
         name: venue
-        widget: string
+        widget: relation
+        collection: venues
+        searchFields: ["name"]
+        valueField: key
         required: false
       - label: Ticket Prices
         name: ticket-prices
@@ -140,7 +143,10 @@ collections:
         widget: image
       - name: venue
         label: Venue
-        widget: string
+        widget: relation
+        collection: venues
+        searchFields: ["name"]
+        valueField: key
         required: false
       - name: recurrence
         label: Event recurrence (e.g. every Tuesday) shown on the event sidebar, also shown on the home page/upcoming events cards
@@ -155,15 +161,12 @@ collections:
         widget: markdown
   - name: venues
     label: Venues
-    files:
-      - label: Venues File
-        name: Venues
-        file: input/venues.yml
+    file: input/venues.yml
+    fields:
+      - label: venues
+        widget: list
+        name: venues
         fields:
-          - label: venues
-            widget: list
-            name: venues
-            fields:
-             - {label: url, name: url, widget: string}
-             - {label: name, name: name, widget: string}
-             - {label: key, name: key, widget: string}
+          - {label: url, name: url, widget: string}
+          - {label: name, name: name, widget: string}
+          - {label: key, name: key, widget: string}
