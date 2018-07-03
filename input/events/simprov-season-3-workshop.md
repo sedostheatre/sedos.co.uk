@@ -1,6 +1,7 @@
 ---
 title: Simprov season 3 workshop
-times: 2018-04-21 10:00:00
+times:
+  - time: 2018-04-21 10:00:00
 image: assets/images/events/Simprov-event2.jpg
 ticket-prices: £5.00-£10.00
 venue: bhg

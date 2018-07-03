@@ -11,7 +11,7 @@
     <div class="col-md-4 events-column pt-3">
         <h3>Essential info</h3>
         @{
-            if(Model.ContainsKey("venue")) 
+            if(Model.ContainsKey("venue"))
             {
                 var venues = Documents["Venues"].Single().Get<IEnumerable<IDocument>>("venues");
                 var venue = venues.FirstOrDefault(x => x["key"].ToString().Equals(Model["venue"].ToString()));
@@ -26,18 +26,17 @@
             }
         }
         @{
-            var times = Model.Get("times", Enumerable.Empty<DateTime>()).OrderBy(x=>x);
-
             if(Model.ContainsKey("recurrence"))
             {
                 <h5>@Model.Get("recurrence")</h5>
             }
+            var times = Model.Get("times", Enumerable.Empty<IDocument>())
+                             .Select(time => time.Get<DateTime>("time"));
             if(times.Any())
             {
                 <ul>
                     @foreach(var time in times
-                            .Where(x=>x > DateTime.Now)
-                            .Select(x => x.ToString("dddd dd MMMM yyyy h.mm") + x.ToString("tt").ToLower())
+                            .Select(t => t.ToString("dddd dd MMMM yyyy h.mm") + t.ToString("tt").ToLower())
                     )
                     {
                         <li>@time</li>

@@ -133,7 +133,7 @@ collections:
         field:
           - label: event time
             widget: datetime
-            name: event time
+            name: time
             format: YYYY-MM-DD hh:mmZ
       - name: image
         label: Featured Image
