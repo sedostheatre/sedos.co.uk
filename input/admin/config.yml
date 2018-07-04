@@ -209,14 +209,17 @@ collections:
     fields:
       - {label: name, name: name, widget: string}
       - {label: key, name: key, widget: string}
-  - name: settings
-    label: Settings
-    files:
-    - file: input/about.yml
-      label: about page
-      fields:
-        - {label: title, name: title, widget: string}
-        - {label: row, name: row, widget: number, valueType: int}
-        - {label: column, name: column, widget: number, valueType: int}
-        - {label: image, name: image, widget: image}
-        - {label: link, name: link, widget: string}
+  - name: about
+    label: About
+    folder: input/about
+    create: true
+    fields:
+      - {label: title, name: title, widget: string}
+      - {label: row, name: row, widget: number, valueType: int}
+      - {label: column, name: column, widget: number, valueType: int}
+      - {label: image, name: image, widget: image}
+      - {label: link, name: link, widget: string, required: false}
+      - label: Event details
+        name: body
+        widget: markdown
+        required: false
