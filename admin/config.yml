@@ -158,6 +158,49 @@ collections:
       - label: Event details
         name: body
         widget: markdown
+  - name: regular-events
+    label: Regular events
+    description: regular events
+    folder: input/regular-events
+    slug: "{{title}}"
+    create: true
+    fields:
+      - name: title
+        label: Title
+        widget: string
+        tagname: h1
+      - name: times
+        label: Event times
+        widget: list
+        required: false
+        fields:
+          - label: event time
+            widget: datetime
+            name: time
+            format: YYYY-MM-DD hh:mmZ
+      - name: image
+        label: Featured Image
+        widget: image
+        required: false
+      - name: header-image
+        label: Header Image
+        widget: image
+        required: false
+      - name: venue
+        label: Venue
+        widget: string
+        required: false
+      - name: recurrence
+        label: Event recurrence (e.g. every Tuesday) shown on the event sidebar, also shown on the home page/upcoming events cards
+        widget: string
+        required: false
+      - label: Ticket Prices
+        name: ticket-prices
+        widget: text
+        required: false
+      - label: Event details
+        name: body
+        widget: markdown
   - name: venues
     label: Venues
     folder: input/venues
