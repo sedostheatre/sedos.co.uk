@@ -13,14 +13,6 @@ Pipelines.Add("Footer",
     Yaml()
 );
 
-Pipelines.Add("About",
-    ReadFiles("about.yml"),
-    Yaml(),
-    ForEach(
-        Meta("image", (doc, ctx) => CopyAndResizeImageFromMeta(doc, ctx, "image", 600, 300))
-    )
-);
-
 Pipelines.Add("TopLevelNav",
     ReadFiles("top-level-nav.yml"),
     Yaml()
@@ -124,6 +116,9 @@ Pipelines.Add("AboutSections",
         .UseExtension<Markdig.Extensions.Bootstrap.BootstrapExtension>()
         .UseExtensions(),
     Meta("page-title", "About"),
+    ForEach(
+        Meta("image", (doc, ctx) => CopyAndResizeImageFromMeta(doc, ctx, "image", 600, 300))
+    ),
     Razor().WithViewStart("Layout/_PageViewStart.cshtml"),
     WriteFiles(".html")
 );
