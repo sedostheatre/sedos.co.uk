@@ -2,11 +2,11 @@
 title: Simprov
 image: assets/images/events/simprov-banner.jpg
 header-image: assets/images/headers/SedosWebsite-Banner-Simprov.jpg
-recurrence: Every other Friday 
-times: 
-  - 2018-03-09
-  - 2018-03-23
-  - 2018-04-06
+recurrence: Every other Friday
+times:
+  - time: 2018-03-09
+  - time: 2018-03-23
+  - time: 2018-04-06
 venue: bhg
 ---
 
