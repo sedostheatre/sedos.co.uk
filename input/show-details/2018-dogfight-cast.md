@@ -1,7 +1,7 @@
 ---
+title: 2018-dogfight-cast
 show: Dogfight
 section: Cast & Creatives
-title: 2018-dogfight-cast
 ---
 
 ## CAST
@@ -31,3 +31,5 @@ MUSICAL DIRECTOR | Will Sharma
 PRODUCER | Rebecca Chisholm
 
 COMMITTEE LIAISON | Deborah Lean
+
+LIGHTING DESIGNER | Olly Levett
