@@ -19,7 +19,7 @@ showtime-summary: ''
 venue: Bridewell Theatre
 ticket-prices: £14.50-£24
 primary-color: '#912d2b'
-header-image: ''
+header-image: /assets/urinetown-web-banner.jpg
 flyer: ''
 ---
 **Tomorrow will not stink!**
