@@ -1,5 +1,5 @@
 ---
-title: 'FRANKENSTEIN WINS NATIONAL PROGRAMME AWARD '
+title: Frankenstein wins national programme award
 date: '2018-10-25'
 image: /assets/37044936594_82e2dd9c8e_k.jpg
 extract: Great news from the recent NODA AGM...
