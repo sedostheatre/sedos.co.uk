@@ -22,7 +22,7 @@ primary-color: '#912d2b'
 header-image: /assets/urinetown-web-banner.jpg
 flyer: ''
 ---
-**Tomorrow will not stink!**
+**Tomorrow will not stink!**
 
 Urinetown is a hilarious send-up of greed, love, revolution (and musicals!), in a time when water is worth its weight in gold.
 
