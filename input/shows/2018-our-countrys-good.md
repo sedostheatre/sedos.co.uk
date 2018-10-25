@@ -9,7 +9,7 @@ showtimes:
   - time: '2018-10-26 19:30+0100'
   - time: '2018-10-27 19:30+0100'
   - time: '2018-10-27 14:30+0100'
-showtime-summary: 23-27 OCT 2018
+showtime-summary: 23-27 October 2018
 venue: Bridewell Theatre
 ticket-prices: >-
   Tickets: £14 (concessions £11.50) unless otherwise stated, see below for
