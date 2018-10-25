@@ -15,7 +15,7 @@ showtimes:
   - time: '2018-11-31 19:30+0100'
   - time: '2018-12-01 19:30+0100'
   - time: '2018-12-01 14:30+0100'
-showtime-summary: ''
+showtime-summary: 21 November-1 December 2018
 venue: Bridewell Theatre
 ticket-prices: £14.50-£24
 primary-color: '#912d2b'
