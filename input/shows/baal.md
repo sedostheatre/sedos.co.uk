@@ -1,0 +1,14 @@
+---
+title: BAAL
+authors: By BERTOLT BRECHT
+subtitle: An anti-hero and cult artist at odds with the world
+showtimes:
+  - time: '2019-01-22 07:30+00:00'
+  - time: '2019-01-23 12:29+00:00'
+venue: Bridewell Theatre
+ticket-prices: £2-£24
+primary-color: '#aba950'
+header-image: /assets/baal-360.jpg
+flyer: /assets/baal-360.jpg
+---
+Bertolt Brecht's Baal rages with the fire of youth. An anti-hero and cult artist at odds with the world, Baal indulges in fleshy decadence spewing surreal poetry and bawdy libretto.
