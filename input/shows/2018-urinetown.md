@@ -2,7 +2,7 @@
 title: 'URINETOWN, THE MUSICAL'
 authors: 'Music and Lyrics by MARK HOLLMANN  '
 authors2: 'Book and Lyrics by GREG KOTIS '
-subtitle: ''
+subtitle: Tomorrow will not stink!
 showtimes:
   - time: '2018-11-21 19:30+0100'
   - time: '2018-11-22 19:30+0100'
@@ -18,7 +18,7 @@ showtimes:
 showtime-summary: ''
 venue: Bridewell Theatre
 ticket-prices: £14.50-£24
-primary-color: '#0b0f18'
+primary-color: '#912d2b'
 header-image: assets/images/headers/2018-lucky-stiff.jpg
 flyer: assets/images/headers/2018-lucky-stiff.jpg
 ---
