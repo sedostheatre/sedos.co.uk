@@ -16,7 +16,8 @@ showtimes:
   - time: '2018-12-01 19:30+0100'
   - time: '2018-12-01 14:30+0100'
 showtime-summary: ''
-ticket-prices: ''
+venue: Bridewell Theatre
+ticket-prices: £14.50-£24
 primary-color: '#0b0f18'
 header-image: assets/images/headers/2018-lucky-stiff.jpg
 flyer: assets/images/headers/2018-lucky-stiff.jpg
