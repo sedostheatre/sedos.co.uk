@@ -19,8 +19,8 @@ showtime-summary: ''
 venue: Bridewell Theatre
 ticket-prices: £14.50-£24
 primary-color: '#912d2b'
-header-image: assets/images/headers/2018-lucky-stiff.jpg
-flyer: assets/images/headers/2018-lucky-stiff.jpg
+header-image: ''
+flyer: ''
 ---
 **Tomorrow will not stink!**
 
