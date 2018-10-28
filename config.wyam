@@ -4,7 +4,7 @@
 #n Wyam.Razor
 #n Wyam.Metadata
 #n Wyam.Sass
-#n Wyam.Images
+#n Wyam.Images -p
 
 Settings["title"] = "Sedos";
 
@@ -27,8 +27,7 @@ Pipelines.Add("Venues",
 
 Pipelines.Add("FallbackHeaders",
     ReadFiles("assets/images/headers/fallback/*.*"),
-    Image()
-        .SetJpegQuality(80).Resize(width: 1280, height: null),
+    Image().Resize(width: 1280, height: null),
     OrderBy(@doc["Title"]),
     WriteFiles()
 );
@@ -193,7 +192,7 @@ public IDocument CopyAndResizeImageFromFile(IDocument doc, IExecutionContext ctx
         new IModule[]
         {
             ReadFiles(filename),
-            Image().SetJpegQuality(80).Resize(width: width, height: height),
+            Image().Resize(width: width, height: height),
             WriteFiles()
         },
         new IDocument[] { doc }
