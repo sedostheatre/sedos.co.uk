@@ -171,7 +171,7 @@ public static string TrimIfStartsWith(
     {
         return value;
     }
-    return  value.StartsWith(prefix) ?
+    return value.StartsWith(prefix) ?
             value.Substring(prefix.Length, value.Length - prefix.Length) :
             value;
 }
@@ -199,4 +199,3 @@ public IDocument CopyAndResizeImageFromFile(IDocument doc, IExecutionContext ctx
         new IDocument[] { doc }
     ).FirstOrDefault();
 }
-
