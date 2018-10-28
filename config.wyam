@@ -183,7 +183,7 @@ public IDocument CopyAndResizeHeaderImage(IDocument doc, IExecutionContext ctx)
 public IDocument CopyAndResizeImageFromMeta(IDocument doc, IExecutionContext ctx, string fieldName, int? width, int? height)
 {
     var fileName = doc.Get<string>(fieldName).TrimIfStartsWith("/");
-    return fileName == null ? null : CopyAndResizeImageFromFile(doc, ctx, fileName, width, height);
+    return string.IsNullOrWhiteSpace(fileName) ? null : CopyAndResizeImageFromFile(doc, ctx, fileName, width, height);
 }
 
 public IDocument CopyAndResizeImageFromFile(IDocument doc, IExecutionContext ctx, string filename, int? width, int? height)
