@@ -1,5 +1,5 @@
-#tool "nuget:https://api.nuget.org/v3/index.json?package=Wyam"
-#addin "nuget:https://api.nuget.org/v3/index.json?package=Cake.Wyam"
+#tool nuget:?package=Wyam
+#addin nuget:?package=Cake.Wyam
 
 var target = Argument("target", "Default");
 var releaseDir = Directory("./release");
