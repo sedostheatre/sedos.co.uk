@@ -1,10 +1,4 @@
-#n Wyam.Markdown
-#n Wyam.Yaml
-#n Wyam.Html
-#n Wyam.Razor
-#n Wyam.Metadata
-#n Wyam.Sass
-#n Wyam.Images
+#n Wyam.All
 
 Settings["title"] = "Sedos";
 
@@ -27,8 +21,7 @@ Pipelines.Add("Venues",
 
 Pipelines.Add("FallbackHeaders",
     ReadFiles("assets/images/headers/fallback/*.*"),
-    Image()
-        .SetJpegQuality(80).Resize(width: 1280, height: null),
+    // Image().SetJpegQuality(80).Resize(width: 1280, height: null),
     OrderBy(@doc["Title"]),
     WriteFiles()
 );
