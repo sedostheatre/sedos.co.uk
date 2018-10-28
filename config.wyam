@@ -4,7 +4,7 @@
 #n Wyam.Razor
 #n Wyam.Metadata
 #n Wyam.Sass
-#n Wyam.Images
+#n Wyam.Images -p
 
 Settings["title"] = "Sedos";
 
@@ -27,8 +27,7 @@ Pipelines.Add("Venues",
 
 Pipelines.Add("FallbackHeaders",
     ReadFiles("assets/images/headers/fallback/*.*"),
-    Image()
-        .SetJpegQuality(80).Resize(width: 1280, height: null),
+    Image().Resize(width: 1280, height: null),
     OrderBy(@doc["Title"]),
     WriteFiles()
 );
@@ -171,7 +170,7 @@ public static string TrimIfStartsWith(
     {
         return value;
     }
-    return  value.StartsWith(prefix) ?
+    return value.StartsWith(prefix) ?
             value.Substring(prefix.Length, value.Length - prefix.Length) :
             value;
 }
@@ -184,7 +183,7 @@ public IDocument CopyAndResizeHeaderImage(IDocument doc, IExecutionContext ctx)
 public IDocument CopyAndResizeImageFromMeta(IDocument doc, IExecutionContext ctx, string fieldName, int? width, int? height)
 {
     var fileName = doc.Get<string>(fieldName).TrimIfStartsWith("/");
-    return fileName == null ? null : CopyAndResizeImageFromFile(doc, ctx, fileName, width, height);
+    return string.IsNullOrWhiteSpace(fileName) ? null : CopyAndResizeImageFromFile(doc, ctx, fileName, width, height);
 }
 
 public IDocument CopyAndResizeImageFromFile(IDocument doc, IExecutionContext ctx, string filename, int? width, int? height)
@@ -193,10 +192,9 @@ public IDocument CopyAndResizeImageFromFile(IDocument doc, IExecutionContext ctx
         new IModule[]
         {
             ReadFiles(filename),
-            Image().SetJpegQuality(80).Resize(width: width, height: height),
+            Image().Resize(width: width, height: height),
             WriteFiles()
         },
         new IDocument[] { doc }
     ).FirstOrDefault();
 }
-
