@@ -19,7 +19,9 @@ Task("Build")
     {
         Wyam(new WyamSettings
         {
-            UpdatePackages = false
+            UpdatePackages = true,
+            Verbose = true,
+            UseLocalPackages  = true
         });
     });
 

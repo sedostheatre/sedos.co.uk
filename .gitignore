@@ -11,3 +11,4 @@ config\.wyam\.dll
 theme/assets/lib/
 
 config\.wyam\.packages\.xml
+pacakges/
