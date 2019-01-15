@@ -5,6 +5,7 @@ authors2: 'Book and Lyrics by GREG KOTIS '
 authors3: ''
 showtimes:
   - time: '2018-11-21 07:30+00:00'
+  - time: '2018-11-22 07:30+00:00'
 showtime-summary: 21 November-1 December 2018
 venue: Bridewell Theatre
 ticket-prices: £14.50-23
