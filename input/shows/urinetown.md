@@ -9,7 +9,7 @@ showtimes:
 showtime-summary: 21 November-1 December 2018
 venue: Bridewell Theatre
 ticket-prices: £14.50-23
-primary-color: ''
+primary-color: Green
 header-image: /assets/urinetown-image-copy.png
 flyer: /assets/urinetown-image-copy.png
 ---
