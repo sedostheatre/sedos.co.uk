@@ -9,7 +9,7 @@ header-image: assets/images/headers/SedosWebsite-Banner-Simprov.jpg
 venue: bhg
 recurrence: Every other Friday
 ---
-PIPP TEST **Simprov (Sedos-Improv…. see what we did there?) is a fortnightly drop-in session on Friday evenings that let's members and non-members explore their spontaneous side!**
+PIPPA TEST **Simprov (Sedos-Improv…. see what we did there?) is a fortnightly drop-in session on Friday evenings that let's members and non-members explore their spontaneous side!**
 
 Perfect for the complete beginner as well as the hardened improv veteran, sessions will explore the fundamental principles of improv such as making bold choices, character development and finding your ‘game’.
 
