@@ -2,11 +2,10 @@
 title: Sedance
 image: assets/images/events/sedance-banner.jpg
 header-image: assets/images/headers/SedosWebsite-Banner-sedance.jpg
-recurrence: Every Wednesday
 venue: Studio 1 of RADA Studios
+recurrence: Every Wednesday
 ---
-
-**Members, grab your leg warmers, Sedance is on every Monday and what better way to shape-up, brush-up and nail your audition technique? (And what better excuse for a cheeky pop to the local hostelry on a Monday evening to catch up with what's going on in Sedos?)**
+PIPPA TEST **Members, grab your leg warmers, Sedance is on every Monday and what better way to shape-up, brush-up and nail your audition technique? (And what better excuse for a cheeky pop to the local hostelry on a Monday evening to catch up with what's going on in Sedos?)**
 
 Sedance runs every Monday from 7-9pm. Classes take place at RADA, most commonly in Studio 1 of RADA Studios, 16 Chenies Street. Nearest tube is Goodge Street. Please email sedance@sedos.co.uk for more information and search 'Sedance' on Facebook to join our Facebook group to be kept up to date with the latest news.
 
