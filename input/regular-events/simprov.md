@@ -1,16 +1,15 @@
 ---
 title: Simprov
+times:
+  - time: 2018-03-09T00:00:00.000Z
+  - time: 2018-03-23T00:00:00.000Z
+  - time: 2018-04-06T00:00:00.000Z
 image: assets/images/events/simprov-banner.jpg
 header-image: assets/images/headers/SedosWebsite-Banner-Simprov.jpg
-recurrence: Every other Friday
-times:
-  - time: 2018-03-09
-  - time: 2018-03-23
-  - time: 2018-04-06
 venue: bhg
+recurrence: Every other Friday
 ---
-
-**Simprov (Sedos-Improv…. see what we did there?) is a fortnightly drop-in session on Friday evenings that let's members and non-members explore their spontaneous side!**
+PIPP TEST **Simprov (Sedos-Improv…. see what we did there?) is a fortnightly drop-in session on Friday evenings that let's members and non-members explore their spontaneous side!**
 
 Perfect for the complete beginner as well as the hardened improv veteran, sessions will explore the fundamental principles of improv such as making bold choices, character development and finding your ‘game’.
 
@@ -30,7 +29,7 @@ James played Ferdinand in the Sedos Immersive experience Such Stuff As Dreams Ar
 
 Emma has been involved with Sedos for almost six years, mainly as a stage manager and director. She most recently directed The Drowsy Chaperone last year and has been in the last two Simprov shows.
 
---------------------------------------
+- - -
 
 ### 23 March | Character & Status
 
@@ -42,7 +41,7 @@ Rachael thinks that improv is a life skill - which is how she justifies being ri
 
 Lloyd is an active member with Sedos, having performed in the recent productions of Frankenstein and A Doll’s House. This is Lloyd’s first season with Simprov, and he’s very excited to try silly things with such a talented bunch!
 
---------------------------------------
+- - -
 
 ### 6 April | Finding Truth in Improv
 
@@ -54,7 +53,7 @@ Alex has been an actor with Sedos for 5 years (Guys and Dolls, Enron, Heaven Can
 
 Jess has been a member of Sedos for 3 years (Noises Off, Frenemies, Frankenstein), as well as performing with KDC (Den of Thieves, What Keeps Me Awake, The Red Envelope Project) . She joined Simprov last February absolutely loves it, she can't wait to explore more about improv through the company.
 
---------------------------------------
+- - -
 
 ### 20 April | Games vs Game
 
@@ -66,7 +65,7 @@ Chris has done 10 shows with Sedos; mainly they are musicals where he tries to s
 
 Sam’s time in Sedos has been filled with fun and silliness. His time in Simprov even more so. He got in at the ground floor, and now ‘offers’, ‘blocks’, and finds out ‘what this scene is really about’ on stage and in life.
 
---------------------------------------
+- - -
 
 ### 4 May | Story Telling
 
