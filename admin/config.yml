@@ -12,13 +12,16 @@ collections:
     label: "Show"
     description: Somewhere to put shows
     folder: "input/shows"
-    slug: "{{title}}"
+    slug: "{{year}}-{{title}}"
     create: true
     fields:
       - label: Title
         name: title
         widget: string
         tagname: h1
+      - label: Year
+        name: year
+        widget: string
       - label: Authors
         name: authors
         widget: string
