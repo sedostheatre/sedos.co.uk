@@ -3229,7 +3229,7 @@ a.text-lime:hover, a.text-lime:focus { color: #b8bd20 !important; }
 
 .navbar-brand .logo { height: 4em; }
 
-@media (max-width: 767.98px) { .navbar-brand .logo { height: 3em; } }
+@media (max-width: 1199.98px) { .navbar-brand .logo { height: 3em; } }
 
 .banner { width: 100%; background: #044484; color: #ffffff; padding: 0.4em 0; margin-top: 3px; }
 
