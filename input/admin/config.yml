@@ -247,4 +247,27 @@ collections:
         fields:
           - {label: title, name: title, widget: string}
           - {label: Details, name: body, widget: markdown, required: false}
-
+      - label: "Hires"
+        name: "hires"
+        file: "input/hires.md"
+        fields:
+          - {label: title, name: title, widget: string}
+          - {label: Details, name: body, widget: markdown, required: false}
+      - label: "Thanks"
+        name: "thanks"
+        file: "input/thanks.md"
+        fields:
+          - {label: title, name: title, widget: string}
+          - {label: Details, name: body, widget: markdown, required: false}
+      - label: "Privacy"
+        name: "privacy"
+        file: "input/privacy-policy.md"
+        fields:
+          - {label: title, name: title, widget: string}
+          - {label: Details, name: body, widget: markdown, required: false}
+      - label: "Terms and conditions"
+        name: "terms"
+        file: "input/terms-and-conditions.md"
+        fields:
+          - {label: title, name: title, widget: string}
+          - {label: Details, name: body, widget: markdown, required: false}
