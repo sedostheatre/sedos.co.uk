@@ -219,7 +219,55 @@ collections:
       - {label: column, name: column, widget: number, valueType: int}
       - {label: image, name: image, widget: image}
       - {label: link, name: link, widget: string, required: false}
-      - label: Event details
-        name: body
-        widget: markdown
-        required: false
+      - {label: Details, name: body, widget: markdown, required: false}
+  - label: "Pages"
+    name: "pages"
+    files:
+      - label: "Marketing group"
+        name: "marketing"
+        file: "input/groups/marketing.md"
+        fields:
+          - {label: title, name: title, widget: string}
+          - {label: Details, name: body, widget: markdown, required: false}
+      - label: "Membership group"
+        name: "membership"
+        file: "input/groups/membership.md"
+        fields:
+          - {label: title, name: title, widget: string}
+          - {label: Details, name: body, widget: markdown, required: false}
+      - label: "Production group"
+        name: "production"
+        file: "input/groups/production.md"
+        fields:
+          - {label: title, name: title, widget: string}
+          - {label: Details, name: body, widget: markdown, required: false}
+      - label: "Backstage"
+        name: "backstage"
+        file: "input/backstage.md"
+        fields:
+          - {label: title, name: title, widget: string}
+          - {label: Details, name: body, widget: markdown, required: false}
+      - label: "Hires"
+        name: "hires"
+        file: "input/hires.md"
+        fields:
+          - {label: title, name: title, widget: string}
+          - {label: Details, name: body, widget: markdown, required: false}
+      - label: "Thanks"
+        name: "thanks"
+        file: "input/thanks.md"
+        fields:
+          - {label: title, name: title, widget: string}
+          - {label: Details, name: body, widget: markdown, required: false}
+      - label: "Privacy"
+        name: "privacy"
+        file: "input/privacy-policy.md"
+        fields:
+          - {label: title, name: title, widget: string}
+          - {label: Details, name: body, widget: markdown, required: false}
+      - label: "Terms and conditions"
+        name: "terms"
+        file: "input/terms-and-conditions.md"
+        fields:
+          - {label: title, name: title, widget: string}
+          - {label: Details, name: body, widget: markdown, required: false}
