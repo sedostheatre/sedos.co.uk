@@ -144,7 +144,7 @@ Pipelines.Add("TopLevelPages",
 );
 
 Pipelines.Add("Markdown",
-    ReadFiles("*.md"),
+    ReadFiles("*.md", "groups/*.md"),
     FrontMatter(Yaml()),
     Meta("header-image", CopyAndResizeHeaderImage),
     Markdown()

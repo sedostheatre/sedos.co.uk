@@ -4,13 +4,13 @@ view-start: Layout/_GetInvolvedViewStart.cshtml
 header-image: assets/images/headers/molm.jpg
 groups:
   - name: Join Sedos
-    url: /join-us
+    url: /about/join-us
   - name: Help backstage
     url: /backstage
   - name: Marketing group
-    url: /groups
+    url: /groups/marketing
   - name: Production group
-    url: /groups
+    url: /groups/production
   - name: Membership group
-    url: /groups
+    url: /groups/membership
 ---
