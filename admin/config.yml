@@ -79,7 +79,7 @@ collections:
     label: Show Details
     description: Details about shows
     folder: input/show-details
-    slug: {{title}}
+    slug: "{{title}}"
     create: true
     fields:
       - name: title
