@@ -14,7 +14,7 @@
     .logo {
         height: 4em;
 
-        @include media-breakpoint-down(sm) {
+        @include media-breakpoint-down(lg) {
             height: 3em;
         }
     }
