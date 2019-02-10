@@ -1,7 +1,7 @@
 ---
-title: 'URINETOWN, THE MUSICAL'
-authors: 'Music and Lyrics by MARK HOLLMANN  '
-authors2: 'Book and Lyrics by GREG KOTIS '
+title: 'URINETOWN'
+authors: 'Music and Lyrics by MARK HOLLMANN'
+authors2: 'Book and Lyrics by GREG KOTIS'
 subtitle: Tomorrow will not stink!
 showtimes:
   - time: '2018-11-21 19:30+0100'
@@ -17,12 +17,12 @@ showtimes:
   - time: '2018-12-01 14:30+0100'
 showtime-summary: 21 November-1 December 2018
 venue: Bridewell Theatre
-ticket-prices: £14.50-£24
+ticket-prices: £14.50-23
 primary-color: '#912d2b'
-header-image: /assets/urinetown-web-banner.jpg
-flyer: ''
+header-image: /assets/urinetown-image-copy.png
+flyer: /assets/urinetown-image-copy.png
 ---
-**Tomorrow will not stink!**
+Tomorrow will not stink!
 
 Urinetown is a hilarious send-up of greed, love, revolution (and musicals!), in a time when water is worth its weight in gold.
 
