@@ -50,7 +50,9 @@ collections:
           - label: Show time
             widget: datetime
             name: time
-            format: YYYY-MM-DD hh:mmZ
+            format: YYYY-MM-DD HH:mmZ
+            dateFormat: DD-MM-YYYY
+            timeFormat: HH:mmZ
       - name: showtime-summary
         label: Summary of show times, shown at the footer of the home page/show details header
         widget: string
