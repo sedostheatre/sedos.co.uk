@@ -27,7 +27,7 @@
                         @foreach(var social in footerModel.Get<IEnumerable<IDocument>>("social-links"))
                         {
                             <li>
-                                <a href="@social["url"]" aria-label="@social["name"]">
+                                <a href="@social["url"]" aria-label="@social["name"]" target="_blank">
                                     <img class="social-icon" src="@Context.GetLink(social.Get<string>("image"))"></img>
                                 </a>
                             </li>
@@ -40,7 +40,7 @@
             @foreach(var link in footerModel.Get<IEnumerable<IDocument>>("second-row"))
             {
                 <div class="col-auto">
-                    @if(link.ContainsKey("url")) 
+                    @if(link.ContainsKey("url"))
                     {
                        <small>
                             <a class="text-dark" href="@link["url"]">@link["name"]</a>
@@ -49,7 +49,7 @@
                     else
                     {
                         <small>@link["name"]</small>
-                    }                    
+                    }
                 </div>
             }
         </div>
