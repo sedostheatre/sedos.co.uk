@@ -1,5 +1,5 @@
 ---
-title: AFTER THE DANCE
+title: by AFTER THE DANCE
 year: '2019'
 authors: 'TERRENCE RATTIGAN '
 subtitle: >-
