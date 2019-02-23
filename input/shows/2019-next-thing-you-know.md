@@ -11,7 +11,7 @@ showtimes:
   - time: '2019-03-08 19:30+00:00'
   - time: '2019-03-09 14:30+00:00'
   - time: '2019-03-09 19:30+00:00'
-showtime-summary: '7.30pm, Sat matinee at 2.30pm'
+showtime-summary: 5-9 March 2019
 venue: Bridewell Theatre
 ticket-prices: >-
   £14.50 - £23
