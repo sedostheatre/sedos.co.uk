@@ -22,8 +22,8 @@ ticket-prices: >-
 
   All tickets bought on the door must be paid for in cash - we cannot take card
   payments on the door.
-primary-color: '#ec6257'
-header-image: /assets/homepage-v2.png
+primary-color: '#750630'
+header-image: /assets/bar-2209813.jpg
 flyer: /assets/poster.jpg
 ---
 **Next Thing You Know** **_(“NTYK”) is a musical about four New Yorkers waking up from their invincible_ twenties and confronting adulthood in the city that never sleeps. It looks at a time in life when one day you wake up, and instead of a hangover, you have a job. Instead of a fling, you have a live-in girlfriend. And instead of naïve dreams, you have reality. Think: a musical episode of _How I Met Your Mother_ or** **_Friends_.**
