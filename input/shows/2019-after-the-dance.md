@@ -12,10 +12,18 @@ showtimes:
   - time: '2019-04-13 14:30+01:00'
   - time: '2019-04-12 19:30+01:00'
   - time: '2019-04-13 19:30+01:00'
-showtime-summary: 'Evenings at 7.30pm, Saturday matinee at 2.30pm'
+showtime-summary: 9-13 April 2019
 venue: Bridewell Theatre
-ticket-prices: £14.50 - £23
-header-image: /assets/afterthedance-event.jpg
+ticket-prices: >-
+  £14.50 - £23
+
+
+  No booking fee. Buy 10 tickets online and get a 10% discount.
+
+
+  All tickets bought on the door must be paid for in cash - we cannot take card
+  payments on the door.
+header-image: /assets/afterthedance-teaserimage.jpg
 flyer: /assets/after-the-dance-flyer-800.jpg
 ---
 **“It’s the bright young things over again, only they were never bright and now they’re not even young”**
