@@ -1,7 +1,7 @@
 ---
 title: 2019-after-the-dance
 show: AFTER THE DANCE
-section: Creative Team
+section: CREATIVES
 ---
 **DIRECTOR** | Jon Foster\
 **ASSISTANT DIRECTOR** | Chloe Baker \
