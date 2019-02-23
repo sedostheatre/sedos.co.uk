@@ -1,5 +1,5 @@
 ---
-title: 2019-after-the-dance-creativeS
+title: 2019-after-the-dance-creatives
 show: AFTER THE DANCE
 section: CREATIVES
 ---
