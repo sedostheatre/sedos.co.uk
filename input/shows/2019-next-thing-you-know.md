@@ -13,8 +13,17 @@ showtimes:
   - time: '2019-03-09 19:30+00:00'
 showtime-summary: '7.30pm, Sat matinee at 2.30pm'
 venue: Bridewell Theatre
-ticket-prices: £14.50 - £23
-header-image: /assets/bar-2209813.jpg
+ticket-prices: >-
+  £14.50 - £23
+
+
+  No booking fee. Buy 10 tickets online and get a 10% discount.
+
+
+  All tickets bought on the door must be paid for in cash - we cannot take card
+  payments on the door.
+primary-color: '#ec6257'
+header-image: /assets/homepage-v2.png
 flyer: /assets/poster.jpg
 ---
 **Next Thing You Know** **_(“NTYK”) is a musical about four New Yorkers waking up from their invincible_ twenties and confronting adulthood in the city that never sleeps. It looks at a time in life when one day you wake up, and instead of a hangover, you have a job. Instead of a fling, you have a live-in girlfriend. And instead of naïve dreams, you have reality. Think: a musical episode of _How I Met Your Mother_ or** **_Friends_.**
