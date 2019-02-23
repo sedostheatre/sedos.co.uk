@@ -1,7 +1,7 @@
 ---
-title: by AFTER THE DANCE
+title: AFTER THE DANCE
 year: '2019'
-authors: 'TERRENCE RATTIGAN '
+authors: 'by TERRENCE RATTIGAN '
 subtitle: >-
   “It’s the bright young things over again, only they were never bright and now
   they’re not even young”
