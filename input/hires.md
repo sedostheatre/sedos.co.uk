@@ -1,5 +1,5 @@
 ---
-title: Hires
+title: For Hire
 ---
 As well as putting on productions, we also hire out costumes and props. 
 
