@@ -1,7 +1,7 @@
 ---
 title: 2019-after-the-dance
 show: AFTER THE DANCE
-section: Creative Team
+section: CREATIVE TEAM
 ---
 **DIRECTOR** | Jon Foster
 
