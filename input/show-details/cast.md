@@ -1,7 +1,7 @@
 ---
 title: 2019-after-the-dance
 show: AFTER THE DANCE
-section: Cast
+section: CAST
 ---
 **JOAN** | Liz Flint\
 **DAVID** | Dom Ward\
