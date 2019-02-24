@@ -1,6 +1,7 @@
 ---
 title: Sign Up For Our Weekend Musical Of Hairspray
-times: []
+times:
+  - time: '2019-03-15 12:48+00:00'
 image: /assets/hairsprayauditions.jpg
 venue: '1 Brewers'' Hall Garden, off Basinghall Street, London EC2V 5DX'
 ---
