@@ -44,39 +44,31 @@ Minutes of the Management Committee’s meetings can be found here.
 
 The management commitee are:
 
-Chair | Matt Gould
+**Chair | Matt Gould**
 
 matt@sedos.co.uk
 
-Matt is the Chair of the Committee and is responsible for the functioning of the Committee!
+Matt is the chair of the committee and is responsible for the functioning of the committee!
 
-Matt has been a member of Sedos for 10 years, has been on the Committee for 9 years and secretary for the last 6. He has directed and musical directed numerous shows for Sedos including Arcadia, Into the Woods, Noises Off, Candide, London Road and Rent.
+Matt has been a member of Sedos for 10 years, has been on the committee for nine years and secretary for the past six. He has directed and musical directed numerous shows for Sedos including _Arcadia_, _Into the Woods_, _Noises Off_, _Candide_, _London Road_ and _Rent_.
 
-
-
-Admin Director | Lizzie Drapper
+**Admin director | Lizzie Drapper**
 
 lizzie@sedos.co.uk
 
-Lizzie is the secretary of the Management Committee but is also responsible for the pitch process, dealing with rights holders, policies and compliance and dealing with general queries.
+Lizzie is the secretary of the management committee but is also responsible for the pitch process, dealing with rights holders, policies and compliance and dealing with general queries.
 
-Lizzie has been a member of Sedos for 4 years. She has been very active on the production side of things including heavy involvement with Legally Blonde, Such Stuff, Noises Off and Priscilla.
+Lizzie has been a member of Sedos for four years. She has been very active on the production side of things including heavy involvement with _Legally Blonde_, _Such Stuff_, _Noises Off_ and _Priscilla_.
 
-
-
-
-
-Finance Director | Steve King
+**Finance director | Steve King**
 
 steven@sedos.co.uk
 
 Steve’s responsibility includes preparation of the annual accounts, dealing with invoices and reporting and monitoring the society’s finances.
 
-Steve’s set designs include Into the Woods, Victor Victoria, Noises Off and Priscilla. He is also an occasional producer.
+Steve’s set designs include _Into the Woods_, _Victor/Victoria_, _Noises Off_ and _Priscilla_. He is also an occasional producer.
 
-
-
-Membership Group | Kimberly Barker
+**Membership group | Kimberly Barker**
 
 kim@sedos.co.uk
 
@@ -84,9 +76,7 @@ Kim runs the membership group and is responsible for ensuring that everyone has 
 
 To contact the membership group, either contact Kim or email socials@sedos.co.uk
 
-Kim has been a member for over 10 years and on the committee for 4 years. Kim directs, choreographs and performs. Her directing credits include Legally Blonde and The Nether; Recent performance credits include A Little Night Music, Tick Tick Boom, Such Stuff and Little Women.
-
-
+Kim has been a member for over 10 years and on the committee for 4 years. Kim directs, choreographs and performs. Her directing credits include _Legally Blonde_ and _The Nether_; recent performance credits include _A Little Night Music_, _tick, tick… BOOM_, _Such Stuff_ and _Little Women_.
 
 Marketing Group | Stephen Beeny
 
@@ -98,8 +88,6 @@ To contact the marketing group, either contact Stephen or the Chair of the Marke
 
 Stephen has been a member of the society for 11 years, and on the committee for 7. He has performed in numerous shows including: Man of La Mancha, London Road and Candide.
 
-
-
 Production Group | Becky Chisholm
 
 becky@sedos.co.uk
@@ -110,8 +98,6 @@ To contact the production group, please contact Becky or email production@sedos.
 
 Becky has been a member of Sedos since 2007 and has performed in 7 shows, including Candide, Guys and Dolls, and The Wild Party, and produced 4, including Accrington Pals and Little Women.  Becky has also designed sets as well as sound and light operating.
 
-
-
 Bridewell and Show Liaison | Tim Garrad               
 
 tim@sedos.co.uk
@@ -119,8 +105,6 @@ tim@sedos.co.uk
 Tim is responsible for the relationship between Sedos and the Bridewell. He also ensures that there is a proper line of communication between shows and the Management Committee.
 
 Tim has been a member of Sedos since 2007 and has performed in 13 shows, most recently Candide and Man of La Mancha. Tim has also choreographed 3 shows and is always there to help out!
-
-
 
 BHG assistance | Andy Hind
 
@@ -130,8 +114,6 @@ Andy helps us keep BHG in working order!
 
 Andy joined Sedos in 2001 and has helped with many sets and technical and stage management. Particular favourite shows he has worked on include the Eurosedos shows, Kiss of a Spider Woman, Baby, Gormenghast, Godspell, Spring Awakening, Three Sisters and Boeing Boeing.
 
-
-
 BHG, rehearsal facilities and assets | Deborah Lean
 
 debs@sedos.co.uk
@@ -140,8 +122,6 @@ Deb looks after BHG and our rehearsal facilities generally including booking reh
 
 Debs joined Sedos in 2009 and has performed in shows as diverse as Baby, The Last Days of Judas Iscariot, A Man of No Importance, Into the Woods, I Love You Because, London Road and Accrington Pals. She has also made and designed costumes for many Sedos shows.
 
-
-
 IT Systems | Olly Levett
 
 olly@sedos.co.uk
@@ -149,8 +129,6 @@ olly@sedos.co.uk
 Olly makes sure that all of our systems work, including the box office system, the membership system as well as looking after our email addresses and the wifi in BHG!
 
 Olly has been involved with Sedos for a couple of years performing various backstage roles including as lighting designer for London Road, Candide, Accrington Pals and The Drowsy Chaperone.
-
-
 
 Production Budget Controller | Ryan Macaulay 
 
