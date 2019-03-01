@@ -25,4 +25,4 @@ More recently television luminaries such as [Nicholas Parsons](http://www.nichol
 
 In 2012 Sedos became resident at the Bridewell Theatre.
 
-**If you want to find out more about Sedos, please email** [membership@sedos.co.uk](membership@sedos.co.uk)s.co.uk **for more details, and our membership secretary will be happy to get back to you!**
+**If you want to find out more about Sedos, please email** [membership@sedos.co.uk](membership@sedos.co.uk) **for more details, and our membership secretary will be happy to get back to you!**
