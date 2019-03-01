@@ -137,3 +137,32 @@ ryan@sedos.co.uk
 Ryan’s job is to agree a show budget with a show producer and then helping the producers deal with any unexpected events….
 
 Ryan joined Sedos in 2011 and has musically directed a number of shows including _Spring Awakening_, _Into the Woods_, _I Love You Because_, _Not Just Another Love Story_, _Legally Blonde_ and _tick,tick… BOOM!_, _Little Women_ and _Priscilla Queen of the Desert_.
+
+## Trustees
+
+The trustees’ primary responsibility is to ensure the long-term financial health of the society, as well as ensuring compliance with laws, regulations and financial reporting obligations. This involves ensuring performance, rehearsal and build space and managing the society’s assets.  
+
+The trustees are responsible for the long-term financial health of the society and have certain legal responsibilities. They keep an eye on the management committee and agree annual operating budget with them. In particular the trustees are ensuring that we have long-term performance, rehearsal and build space so that the society can continue to put on great shows! The trustees are elected by the members for three-year terms or co-opted in accordance with the society’s constitution. The rrustees meet every three months.
+
+The trustees are:
+
+Chair | Chris de Pury\
+Vice-Chair | Helen Lowe \
+Secretary | Alex Baker\
+Trustee with financial responsibility | Simon Hill\
+Ex officio, chair of the management committee | Matt Gould\
+Tom Brennan\
+Dawn Harrison-Wallace\
+Angus Jacobs\
+Rebecca Kendall\
+Charlotte Price\
+Robert J Stanex\
+Craig Topp
+
+Minutes of trustees’ meetings can be found here.
+
+**Sedos - The Stock Exchange Dramatic and Operatic Society.** \
+An unincorporated charity | Charity Number 1173896
+
+**Sedos - The Stock** Exchange Dramatic and Operatic Society.  \
+A Charitable Incorporated Association | Charity Number 1173896
