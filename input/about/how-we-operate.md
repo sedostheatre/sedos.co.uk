@@ -78,62 +78,62 @@ To contact the membership group, either contact Kim or email socials@sedos.co.uk
 
 Kim has been a member for over 10 years and on the committee for 4 years. Kim directs, choreographs and performs. Her directing credits include _Legally Blonde_ and _The Nether_; recent performance credits include _A Little Night Music_, _tick, tick… BOOM_, _Such Stuff_ and _Little Women_.
 
-Marketing Group | Stephen Beeny
+**Marketing group | Stephen Beeny**
 
 stephen@sedos.co.uk
 
 Stephen is the liaison between the marketing group and the committee.
 
-To contact the marketing group, either contact Stephen or the Chair of the Marketing Group, Pippa Kyle: marketing@sedos.co.uk
+To contact the marketing group, either contact Stephen or the chair of the Marketing Group, Pippa Kyle: marketing@sedos.co.uk
 
-Stephen has been a member of the society for 11 years, and on the committee for 7. He has performed in numerous shows including: Man of La Mancha, London Road and Candide.
+Stephen has been a member of the society for 11 years, and on the committee for seven. He has performed in numerous shows including: _Man of La Mancha_, _London Road_ and _Candide_.
 
-Production Group | Becky Chisholm
+**Production group | Becky Chisholm**
 
 becky@sedos.co.uk
 
-Becky is the Chair of the production group.
+Becky is the chair of the production group.
 
 To contact the production group, please contact Becky or email production@sedos.co.uk
 
-Becky has been a member of Sedos since 2007 and has performed in 7 shows, including Candide, Guys and Dolls, and The Wild Party, and produced 4, including Accrington Pals and Little Women.  Becky has also designed sets as well as sound and light operating.
+Becky has been a member of Sedos since 2007 and has performed in seven shows, including _Candide_, _Guys and Dolls_, and _The Wild Part_y, and produced four, including _Accrington Pals_ and _Little Women_.  Becky has also designed sets as well as sound and light operating.
 
-Bridewell and Show Liaison | Tim Garrad               
+**Bridewell and show liaison | Tim Garrad**               
 
 tim@sedos.co.uk
 
-Tim is responsible for the relationship between Sedos and the Bridewell. He also ensures that there is a proper line of communication between shows and the Management Committee.
+Tim is responsible for the relationship between Sedos and the Bridewell. He also ensures that there is a proper line of communication between shows and the management committee.
 
-Tim has been a member of Sedos since 2007 and has performed in 13 shows, most recently Candide and Man of La Mancha. Tim has also choreographed 3 shows and is always there to help out!
+Tim has been a member of Sedos since 2007 and has performed in 13 shows, most recently _Candide_ and _Man of La Mancha_. Tim has also choreographed three shows and is always there to help out!
 
-BHG assistance | Andy Hind
+**BHG assistance | Andy Hind**
 
 andy@sedos.co.uk
 
 Andy helps us keep BHG in working order!
 
-Andy joined Sedos in 2001 and has helped with many sets and technical and stage management. Particular favourite shows he has worked on include the Eurosedos shows, Kiss of a Spider Woman, Baby, Gormenghast, Godspell, Spring Awakening, Three Sisters and Boeing Boeing.
+Andy joined Sedos in 2001 and has helped with many sets and technical and stage management. Particular favourite shows he has worked on include the Eurosedos shows, _Kiss of the Spider Woman: The Musical_, _Baby_, _Gormenghast,_ _Godspell_, _Spring Awakening_, _Three Sisters_ and _Boeing Boeing_.
 
-BHG, rehearsal facilities and assets | Deborah Lean
+**BHG, rehearsal facilities and assets | Deborah Lean**
 
 debs@sedos.co.uk
 
 Deb looks after BHG and our rehearsal facilities generally including booking rehearsal spaces. She is also responsible for health and safety and looks after our assets, such as costumes and props.
 
-Debs joined Sedos in 2009 and has performed in shows as diverse as Baby, The Last Days of Judas Iscariot, A Man of No Importance, Into the Woods, I Love You Because, London Road and Accrington Pals. She has also made and designed costumes for many Sedos shows.
+Debs joined Sedos in 2009 and has performed in shows as diverse as _Baby_, _The Last Days of Judas Iscariot_, _A Man of No Importance_, _Into the Woods_, _I Love You Because_, _London Road_ and _Accrington Pals_. She has also made and designed costumes for many Sedos shows.
 
-IT Systems | Olly Levett
+**IT systems | Olly Levett**
 
 olly@sedos.co.uk
 
 Olly makes sure that all of our systems work, including the box office system, the membership system as well as looking after our email addresses and the wifi in BHG!
 
-Olly has been involved with Sedos for a couple of years performing various backstage roles including as lighting designer for London Road, Candide, Accrington Pals and The Drowsy Chaperone.
+Olly has been involved with Sedos for a couple of years performing various backstage roles including as lighting designer for _London Road_, _Candide_, _Accrington Pals_ and _The Drowsy Chaperone_.
 
-Production Budget Controller | Ryan Macaulay 
+**Production budget controller | Ryan Macaulay** 
 
 ryan@sedos.co.uk
 
 Ryan’s job is to agree a show budget with a show producer and then helping the producers deal with any unexpected events….
 
-Ryan joined Sedos in 2011 and has musically directed a number of shows including Spring Awakening, Into the Woods, I Love You Because, Not Just Another Love Story, Legally Blonde and tick,tick… BOOM! Little Women and Priscilla Queen of the Desert.
+Ryan joined Sedos in 2011 and has musically directed a number of shows including _Spring Awakening_, _Into the Woods_, _I Love You Because_, _Not Just Another Love Stor_y, _Legally Blonde_ and _tick, tick… BOOM!,_ _Little Women_ and _Priscilla Queen of the Desert_.
