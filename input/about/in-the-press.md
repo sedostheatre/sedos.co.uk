@@ -38,35 +38,19 @@ _Pippin_
 
 _You Can’t Take it With You_
 
-“I’ve seen a couple of productions from Sedos now and each one of them has really impressed me with the quality of the performances and attention to detail in the staging, and with You Can’t Take it With You, they have delivered another first-rate production.” You Can’t Take it With You, 2018, lastminutetheatretickets.com
+“I’ve seen a couple of productions from Sedos now and each one of them has really impressed me with the quality of the performances and attention to detail in the staging, and with _You Can’t Take it With You_, they have delivered another first-rate production.” [You Can’t Take it With You, 2018, lastminutetheatretickets.com](https://www.lastminutetheatretickets.com/londonwestend/review-you-cant-take-it-with-you-bridewell-theatre/)
 
-https://www.lastminutetheatretickets.com/londonwestend/review-you-cant-take-it-with-you-bridewell-theatre/
+“Sedos has never been, and never will be, just another ‘amateur’ company! Their work stands out dramatically in so many ways. They achieve the highest possible standards on stage whilst nurturing the skills of their very talented team of players, directors, set and costume designers.” [You Can’t Take it With You, 2018, Infobarrel](http://www.infobarrel.com/You_Cant_Take_it_With_You_-_A_Sedos_Production)
 
-“Sedos has never been, and never will be, just another ‘amateur’ company! Their work stands out dramatically in so many ways. They achieve the highest possible standards on stage whilst nurturing the skills of their very talented team of players, directors, set and costume designers.” You Can’t Take it With You, 2018, Infobarrel
+“What a pleasurable and delightful play this is. I could go on at length about certain aspects in this production of _You Can’t Take It With You_ that don’t make a lot of sense, but rather like The Addams Family, the eccentricities are what make the characters in this bizarre and chaotic – but nonetheless hilarious- so compelling and unique.” [You Can’t Take it With You, 2018, Londontheatre1](https://www.londontheatre1.com/reviews/review-you-cant-take-it-with-you-bridewell-theatre/)
 
-http://www.infobarrel.com/You_Cant_Take_it_With\_You\_-_A_Sedos_Production
+_Earthquakes in London_
 
-“Another outstanding performance! As in all comedies timing and teamwork are the vital ingredients and Sedos are experts at timing. They successfully maintain their American accents throughout and their attention to detail, particularly to costumes and set design, is excellent.” You Can’t Take it With You, 2018, Infobarrel
+“It is unfortunate that for too many people, the epithet “amateur” in relation to theatre remains redolent of inexpert performance in draughty church halls by well-meaning performers of limited talent. The reality is that for many groups nowadays, there is an almost invisible line between so called professional performance (ironically not necessarily of the highest quality) and other productions which are only amateur in the sense that participants have not been paid. Sedos specifically states in its programme notes that they “strive for professional standards in both performance and production values” and it is fair to say that they have a well-established reputation in achieving that ambition which has once again been reinforced by this production of _Earthquakes in London_.” [Earthquakes in London, 2018, Musical Theatre Musings](http://musicaltheatremusings.co.uk/earthquakes-in-london)
 
-http://www.infobarrel.com/You_Cant_Take_it_With\_You\_-_A_Sedos_Production
+“All told, this is another great production from Sedos that makes you stop and think about what we are doing to the earth and if we shouldn’t be trying something different so that by the year 2525, man will still be alive.” [Earthquakes in London, 2018, Londontheatre1](https://www.londontheatre1.com/reviews/earthquakes-in-london-at-the-bridewell-theatre-review/)
 
-“What a pleasurable and delightful play this is. I could go on at length about certain aspects in this production of You Can’t Take It With You that don’t make a lot of sense, but rather like The Addams Family, the eccentricities are what make the characters in this bizarre and chaotic – but nonetheless hilarious- so compelling and unique.” You Can’t Take it With You, 2018, Londontheatre1
-
-https://www.londontheatre1.com/reviews/review-you-cant-take-it-with-you-bridewell-theatre/
-
-Earthquakes in London
-
-“It is unfortunate that for too many people, the epithet “amateur” in relation to theatre remains redolent of inexpert performance in draughty church halls by well-meaning performers of limited talent. The reality is that for many groups nowadays, there is an almost invisible line between so called professional performance (ironically not necessarily of the highest quality) and other productions which are only amateur in the sense that participants have not been paid. Sedos specifically states in its programme notes that they “strive for professional standards in both performance and production values” and it is fair to say that they have a well-established reputation in achieving that ambition which has once again been reinforced by this production of Earthquakes in London.” Earthquakes in London, 2018, Musical Theatre Musings
-
-http://musicaltheatremusings.co.uk/earthquakes-in-london
-
-“All told, this is another great production from Sedos that makes you stop and think about what we are doing to the earth and if we shouldn’t be trying something different so that by the year 2525, man will still be alive.” Earthquakes in London, 2018, Londontheatre1
-
-https://www.londontheatre1.com/reviews/earthquakes-in-london-at-the-bridewell-theatre-review/
-
-“The absolute bravery, or maybe insanity, of director Chris Davis to stage this play in an amateur production makes it all the more incredible. And that mention of amateur is the only time it should be raised, because believe me, there is absolutely nothing amateur about this production.” Earthquakes in London, 2018, Everything Theatre
-
-http://everything-theatre.co.uk/2018/07/earthquakes-in-london-bridewell-theatre-review.html
+“The absolute bravery, or maybe insanity, of director Chris Davis to stage this play in an amateur production makes it all the more incredible. And that mention of amateur is the only time it should be raised, because believe me, there is absolutely nothing amateur about this production.” [Earthquakes in London, 2018, Everything Theatre](http://everything-theatre.co.uk/2018/07/earthquakes-in-london-bridewell-theatre-review.html)
 
 Lucky Stiff
 
