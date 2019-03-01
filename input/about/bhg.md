@@ -24,6 +24,6 @@ Bank (Central, Northern and Waterloo and City lines), seven-minute walk
 
 St Paul’s (Central line), eight-minute walk
 
-## **Accessibility**
+**Accessibility**
 
 Please contact us in advance of your visit on admin@sedos.co.uk if you have accessibility needs.
