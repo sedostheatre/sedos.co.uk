@@ -4,6 +4,8 @@ row: 3
 column: 2
 image: assets/images/about/bhg.jpg
 ---
+## 1 Brewers' Hall Garden
+
 1 Brewers' Hall Garden (BHG) is Sedos' main rehearsal space, as well as where we store and create most of our costumes, props and set. It is also where we hold most of our auditions.
 
 ## How to find BHG
@@ -22,6 +24,6 @@ Bank (Central, Northern and Waterloo and City lines), seven-minute walk
 
 St Paul’s (Central line), eight-minute walk
 
-**Accessibility**
+## **Accessibility**
 
 Please contact us in advance of your visit on admin@sedos.co.uk if you have accessibility needs.
