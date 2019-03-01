@@ -218,118 +218,94 @@ _Gormenghast_
 
 _Guys & Dolls_
 
-"In the grand scheme of amateur, fringe and professional musicals, this cast perform to the absolute max with passion and humour throughout. Moreover, everyone looks like they’re having a great time doing it. London audiences should take notice of Sedos, as its creatives are clearly more than capable of giving their professional neighbours a run for their money."
+"In the grand scheme of amateur, fringe and professional musicals, this cast perform to the absolute max with passion and humour throughout. Moreover, everyone looks like they’re having a great time doing it. London audiences should take notice of Sedos, as its creatives are clearly more than capable of giving their professional neighbours a run for their money." _Guys & Dolls_, 2012, thepublicreviews.com
 
-Guys & Dolls, 2012, thepublicreviews.com
+"The bar for performance level has been set so high by countless previous productions that every new interpretation of the piece has a daunting task to match expectations and standards. Sedos… rose to the challenge with a confident, sure footed, vibrant and stylish performance, and emerged with full honours." _Guys & Dolls_, 2012, Sardines
 
-"The bar for performance level has been set so high by countless previous productions that every new interpretation of the piece has a daunting task to match expectations and standards. Sedos… rose to the challenge with a confident, sure footed, vibrant and stylish performance, and emerged with full honours."
+"…an inventive, energetic, comedic and enjoyable musical because of the love of the material and attention to detail. The small space is home to a big ensemble of talent, expertly choreographed by Thomas Leonard in such a way that regularly leaves the audience breathless… This is a high-quality production of a favourite musical…" _Guys & Dolls_, 2012, Remote Goat
 
-Guys & Dolls, 2012, Sardines
+_As You Like It_
 
-"…an inventive, energetic, comedic and enjoyable musical because of the love of the material and attention to detail. The small space is home to a big ensemble of talent, expertly choreographed by Thomas Leonard in such a way that regularly leaves the audience breathless… This is a high-quality production of a favourite musical…"
+"The Stock Exchange Dramatic and Operatic Society excels once again with their innovative and unusual one-hour production of Shakepeare's As You Like… The production has been designed and executed in a truly professional manner demonstrating there is no shortage of highly talented players active in amateur theatre.” _As You Like It_ (London), 2012, Suite101.com
 
-Guys & Dolls, 2012, Remote Goat
+“Told by those who evidently have a deep set understanding and respect for the text, the story is excellently executed so that not a line is out of place or superfluous to their storytelling cause. The overall design was incredibly creative and brilliantly executed… There are no weak performances from any member of the cast, each an integral link in a strong company… Sedos is so close to being professional it hurts. Outstandingly polished performances, brilliant direction and joy in creating theatrical masterpieces makes these young actors ones to watch.” _As You Like It_ (Edinburgh), 2012, Broadway Baby (five stars)
 
-"The Stock Exchange Dramatic and Operatic Society excels once again with their innovative and unusual one-hour production of Shakepeare's As You Like… The production has been designed and executed in a truly professional manner demonstrating there is no shortage of highly talented players active in amateur theatre.”
+“Sedos’ version of this classic play is silly, sweet, and very witty.” _As You Like It_ (Edinburgh), 2012, Three Weeks
 
-As You Like It (London), 2012, Suite101.com
+_Baby_
 
-“Told by those who evidently have a deep set understanding and respect for the text, the story is excellently executed so that not a line is out of place or superfluous to their storytelling cause. The overall design was incredibly creative and brilliantly executed… There are no weak performances from any member of the cast, each an integral link in a strong company… Sedos is so close to being professional it hurts. Outstandingly polished performances, brilliant direction and joy in creating theatrical masterpieces makes these young actors ones to watch.”
+“Sedos… produced a production that not only had incredible production standards, but left me wondering why this gem of a show has been languishing for so long… Musically, the show was kept bouncing along under the baton of David Winters, whose 5 piece band were superb… Major kudos must go to Sedos for nurturing and producing what can only be called a stunning production. I just wish it were running for another week so I could go at least a few more times. Baby left me with a lump in my throat. It exceeded myevery expectation and left me wanting more. Exceptional!!” _Baby_, 2012, Amateur Stage
 
-As You Like It (Edinburgh), 2012, Broadway Baby (five stars)
+_Spring Awakening_
 
-“Sedos’ version of this classic play is silly, sweet, and very witty.”
-
-As You Like It (Edinburgh), 2012, Three Weeks
-
-“Sedos… produced a production that not only had incredible production standards, but left me wondering why this gem of a show has been languishing for so long… Musically, the show was kept bouncing along under the baton of David Winters, whose 5 piece band were superb… Major kudos must go to Sedos for nurturing and producing what can only be called a stunning production. I just wish it were running for another week so I could go at least a few more times. Baby left me with a lump in my throat. It exceeded myevery expectation and left me wanting more. Exceptional!!”
-
-Baby, 2012, Amateur Stage
-
-“Within thirty seconds it was very obvious that this is no ordinary amateur company. The Sedos production of Spring Awakening was executed in atotally professional manner leaving little doubt that amateur theatre can be every bit as good as professional theatre, and in this case, even better.” 
-
-Spring Awakening, 2012, Suite101.com
-
-
+“Within thirty seconds it was very obvious that this is no ordinary amateur company. The Sedos production of _Spring Awakening_ was executed in a totally professional manner leaving little doubt that amateur theatre can be every bit as good as professional theatre, and in this case, even better.” _Spring Awakening_, 2012, Suite101.com
 
 “If this high standard can be achieved from evening rehearsals from a cast of enthusiasts then I think producers and actors across the profession may need to pull their socks up and take note.”
 
-Spring Awakening, 2012, Peter J Holland blog
+_Spring Awakening_, 2012, Peter J Holland blog
 
+“The entire cast were completely and utterly mesmerising; lively, engaging and full of energy. Every single cast member gave a strong all-round performance, but it was the singing that really made this a night to remember, the harmonies absolutely gave me chills… this production of _Spring Awakening_ is smart, sexy and seriously packs a punch. Don’t miss it.” _Spring Awakening_, 2012, A Younger Theatre 
 
+“[_Spring Awakening_ is] performed by Sedos, a well-established amateur company who strive to produce theatre which can stand shoulder to shoulder with professional productions. In that, _Spring Awakening_ succeeds admirably.” 
 
-“The entire cast were completely and utterly mesmerising; lively, engaging and full of energy. Every single cast member gave a strong all-round performance, but it was the singing that really made this a night to remember, the harmonies absolutely gave me chills… this production of Spring Awakening is smart, sexy and seriously packs a punch. Don’t miss it.” 
+_Spring Awakening_, 2012, Gay Times
 
-Spring Awakening, 2012, A Younger Theatre 
+“Chris Warner (director) and Max Wolf (creative director) should be justifiably proud of this production. They have chosen not to carbon copy the original production but instead create their own vision and that is to be applauded… on the night I attended, mature adults were visibly moved to tears.” _Spring Awakening_, 2012, Amateur Stage
 
+_Three Sisters_
 
+"There is little evidence of Sedos theatre company's amateur status in its charming production which neatly balances the characters' loneliness and frustration with a sense of hope and humour." _Three Sisters_, 2012, One Stop Arts
 
-“\[Spring Awakening is] performed by Sedos, a well-established amateur company who strive to produce theatre which can stand shoulder to shoulder with professional productions. In that, Spring Awakening succeeds admirably.” 
+"As the first show of 2012 for Sedos, Three Sisters rewards before it begins, by presenting the audience with a stunning set... the scale of the thing was impressive... The use of the depth of the stage at the Bridewell was a brilliant and brave move on the director's part, giving opportunity to place the actors as a framed piece of art." _Three Sisters_, 2012, Remote Goat
 
-Spring Awakening, 2012, Gay Times
+**2011**
 
+_A Little Night Music_
 
+“\[Sedos] should be credited as one of the premier \[amateur] companies in the country, as their track record for staging professional-standard shows proves… it was a genius stroke by co-directors Roger Harwood and Dawn Harrison-Wallace to stage the entire show as a flashback… the casting was difficult to fault… \[the cast] all did a great job of bringing the show to life… top marks must go to the costume team for their fantastic work… \[musical director] David Griffiths and his musicians gave a performance grander than many of those you'd hear in West End theatres… Congratulations again to Sedos for another great production…” _A Little Night Music_, 2011, SONDHEIM the magazine - official publication of the Sondheim Society
 
-“Chris Warner (director) and Max Wolf (creative director) should be justifiably proud of this production. They have chosen not to carbon copy the original production but instead create their own vision and that is to be applauded… on the night I attended, mature adults were visibly moved to tears.” 
+“Masterful in both dramatic and auditory terms…”  _A Little Night Music_, 2011, Remote Goat
 
-Spring Awakening, 2012, Amateur Stage
+_The Last Days of Judas Iscariot_
 
-"There is little evidence of Sedos theatre company's amateur status in its charming production which neatly balances the characters' loneliness and frustration with a sense of hope and humour."
+“Billed as an amateur production, the Sedos’ cast are anything but. The clever staging and superb costumes only amplify the wonderful work being put in by the actors… A production that does real justice to the writing and ethos of the play, this is one you will be loath to miss…” _The Last Days of Judas Iscariot_, 2011, thepublicreviews.com
 
-Three Sisters, 2012, One Stop Arts
+_Assassins_
 
-"As the first show of 2012 for Sedos, Three Sisters rewards before it begins, by presenting the audience with a stunning set... the scale of the thing was impressive... The use of the depth of the stage at the Bridewell was a brilliant and brave move on the director's part, giving opportunity to place the actors as a framed piece of art."
+“The amateur production I refer to was the very professionally staged version by Sedos… As dry and as sterile as this group may sound (bankers, dancing?), the talent involved was phenomenal… The cast, for one, was perfectly formed… everyone did a fantastic job, all the more incredible when you realise that this was an amateur production…” _Assassins_, 2011, SONDHEIM the magazine - official publication of the Sondheim Society
 
-Three Sisters, 2012, Remote Goat
+“Sedos’ reputation for bringing high-quality productions to London’s off-West End theatres goes before them and if their production of Assassins is anything to go by, it is a reputation they truly deserve… the accents, excellent vocals and good characterisation were held throughout by each of the lead performers and the ensemble players too…” _Assassins_, 2011, Sardines
 
-“\[Sedos] should be credited as one of the premier \[amateur] companies in the country, as their track record for staging professional-standard shows proves… it was a genius stroke by co-directors Roger Harwood and Dawn Harrison-Wallace to stage the entire show as a flashback… the casting was difficult to fault… \[the cast] all did a great job of bringing the show to life… top marks must go to the costume team for their fantastic work… \[musical director] David Griffiths and his musicians gave a performance grander than many of those you'd hear in West End theatres… Congratulations again to Sedos for another great production…”
+“_Assassins_ is rarely staged well and you be hard pressed to find a better amateur production. Kudos to Sedos!!” _Assassins_, 2011, asmagazine.co.uk
 
-A Little Night Music, 2011, SONDHEIM the magazine - official publication of the Sondheim Society
+_Arcadia_
 
-“Masterful in both dramatic and auditory terms…” 
+“The simple set worked well for both times and was believable… It is always a joy to go and see well acted and well directed theatre… The audience could tell \[the actors] understood what their characters were saying and why they had to say it… All the performances were strong and retained their originality… Overall a great piece…” _Arcadia_, 2011, Sardines
 
-A Little Night Music, 2011, Remote Goat
+**2010**
 
-“Billed as an amateur production, the Sedos’ cast are anything but. The clever staging and superb costumes only amplify the wonderful work being put in by the actors… A production that does real justice to the writing and ethos of the play, this is one you will be loath to miss…”
+_Kiss of the Spider Woman: the Musical_
 
-The Last Days of Judas Iscariot, 2011, thepublicreviews.com
+“Sedos is generally, and I would say correctly, regarded as the best amateur theatre company in London… And so I had high expectations of the opening night…  In short, it's fantastic… kudos to Sedos for an unconventional selection which has been pulled off in (their now trademark) style…” _Kiss of the Spider Woman: the Musical_, 2010, Remote Goat
 
-“The amateur production I refer to was the very professionally staged version by Sedos… As dry and as sterile as this group may sound (bankers, dancing?), the talent involved was phenomenal… The cast, for one, was perfectly formed… everyone did a fantastic job, all the more incredible when you realise that this was an amateur production…” 
+2009
 
-Assassins, 2011, SONDHEIM the magazine - official publication of the Sondheim Society
+**Parade**
 
-“Sedos’ reputation for bringing high-quality productions to London’s off-West End theatres goes before them and if their production of Assassins is anything to go by, it is a reputation they truly deserve… the accents, excellent vocals and good characterisation were held throughout by each of the lead performers and the ensemble players too…” 
+“This production boasts a cast who are able to hold together a stirling ensemble and a rapturous vocal performance.... the vocalists of Sedos are easily able to match the force and accuracy of any West End ensemble, and with rousing flair.... A wonderful set of costumes are atmospherically lit by fiercely stark beams and the band is simply superb.” _Parade_, 2009, Remote Goat
 
-Assassins, 2011, Sardines
+“A riveting production... Musical Director Matthew Gould has obviously worked a great deal with an already very gifted cast, and it has paid off. From Richard Ash’s opening lines to the last note of the piece, Parade is beautifully and emotionally sung... The second act’s ‘All the Wasted Time’ is breathtakingly good, and if there was no other merit to this production, it would be worth seeing for these few brilliant minutes alone.” _Parade_, 2009, Fringe Review
 
-“Assassins is rarely staged well and you be hard pressed to find a better amateur production. Kudos to Sedos!!” 
+“Talent and scrupulous attention to detail." _Parade_, 2009, The London Word
 
-Assassins, 2011, asmagazine.co.uk
+**2008**
 
-“The simple set worked well for both times and was believable… It is always a joy to go and see well acted and well directed theatre… The audience could tell \[the actors] understood what their characters were saying and why they had to say it… All the performances were strong and retained their originality… Overall a great piece…” 
+_Rent_
 
-Arcadia, 2011, Sardines
+“It was fantastic – every bit as good as the West End version, and much more enjoyable than Rent: Remixed!” _Rent_, 2008, reader view in the London Evening Standard
 
-“Sedos is generally, and I would say correctly, regarded as the best amateur theatre company in London… And so I had high expectations of the opening night…  In short, it's fantastic… kudos to Sedos for an unconventional selection which has been pulled off in (their now trademark) style…” 
+**2007**
 
-Kiss of the Spider Woman: the Musical, 2010, Remote Goat
+_Sweeney Todd_
 
-“This production boasts a cast who are able to hold together a stirling ensemble and a rapturous vocal performance.... the vocalists of Sedos are easily able to match the force and accuracy of any West End ensemble, and with rousing flair.... A wonderful set of costumes are atmospherically lit by fiercely stark beams and the band is simply superb.”
-
-Parade, 2009, Remote Goat
-
-“A riveting production... Musical Director Matthew Gould has obviously worked a great deal with an already very gifted cast, and it has paid off. From Richard Ash’s opening lines to the last note of the piece, Parade is beautifully and emotionally sung... The second act’s ‘All the Wasted Time’ is breathtakingly good, and if there was no other merit to this production, it would be worth seeing for these few brilliant minutes alone.”
-
-Parade, 2009, Fringe Review
-
-“Talent and scrupulous attention to detail."
-
-Parade, 2009, The London Word
-
-“It was fantastic – every bit as good as the West End version, and much more enjoyable than Rent: Remixed!” 
-
-Rent, 2008, reader view in the London Evening Standard
-
-“A good performance which can stand comparison with the best the professional stage has to offer” 
-
-Sweeney Todd, 2007, Sweeney Todd Forum online
+“A good performance which can stand comparison with the best the professional stage has to offer” _Sweeney Todd_, 2007, Sweeney Todd Forum online
