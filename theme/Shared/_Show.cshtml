@@ -14,13 +14,13 @@
             <div class="col-md-8 pt-3" role="tabpanel">
                 <ul class="nav nav-tabs show-nav" role="tablist" id="showDetailsTab">
                     <li class="nav-item">
-                        <a class="nav-link active" id="details-tab" data-toggle="tab" href="#details" role="tab" aria-controls="details" aria-expanded="false">Details</a>
+                        <a class="nav-link active show-details-nav-header" id="details-tab" data-toggle="tab" href="#details" role="tab" aria-controls="details" aria-expanded="false">Details</a>
                     </li>
                     @{
                         foreach(var document in Documents["ShowDetails"].Where(showDetails => showDetails["show"].ToString().Trim() == Model["title"].ToString().Trim()))
                         {
                             <li class="nav-item">
-                                <a class="nav-link" id="@document["section"]-tab" data-toggle="tab" href="#@document["section"]" role="tab" aria-controls="@document["section"]" aria-expanded="false">@document["section"]</a>
+                                <a class="nav-link show-details-nav-header" id="@document["section"]-tab" data-toggle="tab" href="#@document["section"]" role="tab" aria-controls="@document["section"]" aria-expanded="false">@document["section"]</a>
                             </li>
                         }
                     }
