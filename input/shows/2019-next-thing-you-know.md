@@ -1,5 +1,5 @@
 ---
-title: NEXT THING YOU KNOW
+title: Next Thing You Know
 year: '20019'
 authors: Music by JOSHUA SALZMAN
 authors2: Lyrics by RYAN CUNNINGHAM
