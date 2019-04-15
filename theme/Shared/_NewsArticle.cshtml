@@ -12,7 +12,7 @@
         <h3>More news</h3>
         @foreach(var article in Documents["News"].Where(x => Model["title"] != x["title"]).OrderByDescending(x => x["date"]).Take(4))
         {
-            <h6>@article</h6>
+            <a href="@Context.GetLink(article as IDocument)"><h6>@article["title"]</h6></a>
         }
     </div>
 </div>

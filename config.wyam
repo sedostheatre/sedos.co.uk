@@ -54,6 +54,7 @@ Pipelines.Add("AllShows",
 
 Pipelines.Add("News",
     ReadFiles("news/*.md"),
+    WriteFiles(".html").OnlyMetadata(),
     FrontMatter(Yaml()),
     Markdown()
         .UseExtension<Markdig.Extensions.Bootstrap.BootstrapExtension>()
