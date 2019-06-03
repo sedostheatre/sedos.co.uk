@@ -14,14 +14,9 @@
     <div class="upcoming-shows-section">
         <div>
             @{
-                var futureShows = Documents["AllShows"]
-
-                    .Where(show => show.Get<IEnumerable<IDocument>>("showtimes").Select(x => x.Get<DateTime>("time")).Any(x => x >= DateTime.Now))
-                    .OrderBy(show => show.Get<IEnumerable<IDocument>>("showtimes").Select(x => x.Get<DateTime>("time")).FirstOrDefault());
-
                 <div class="container">
                     <div class="row">
-                        @foreach(var show in futureShows)
+                        @foreach(var show in Documents["FutureShows"])
                         {
                             Html.RenderPartial("Partials/_UpcomingShowCard", show);
                         }

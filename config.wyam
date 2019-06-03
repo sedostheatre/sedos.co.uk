@@ -52,6 +52,12 @@ Pipelines.Add("AllShows",
     WriteFiles(".html")
 );
 
+Pipelines.Add("FutureShows",
+    Documents("AllShows"),
+    Where((doc, ctx) => doc.Get("showtimes", Enumerable.Empty<IDocument>()).Any(time => time.Get<DateTime>("time") > DateTime.Now)),
+    OrderBy((doc, ctx) => doc.Get("showtimes", Enumerable.Empty<IDocument>()).Select(time => time.Get<DateTime>("time")).First())
+);
+
 Pipelines.Add("News",
     ReadFiles("news/*.md"),
     WriteFiles(".html").OnlyMetadata(),

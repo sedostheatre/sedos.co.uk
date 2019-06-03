@@ -5,11 +5,7 @@ float-nav: true
 <div class="header-carousel">
     <div class="carousel slide" data-ride="carousel" id="hero-carousel">
         @{
-            var upcomingShows = Documents["AllShows"].Where(show =>
-                show.Get("showtimes", Enumerable.Empty<IDocument>()).Any(time => time.Get<DateTime>("time") > DateTime.Now)
-            ).OrderBy(show =>
-                show.Get<IEnumerable<IDocument>>("showtimes").Select(time => time.Get<DateTime>("time")).First()
-            ).Take(3);
+            var upcomingShows = Documents["FutureShows"].Take(3);
 
             if(upcomingShows.Count() > 1)
             {
