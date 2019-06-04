@@ -3382,6 +3382,8 @@ a.text-lime:hover, a.text-lime:focus { color: #b8bd20 !important; }
 
 .upcoming-shows-section, .past-shows-section { background: #499fcd; padding-bottom: 15px; padding-top: 15px; }
 
+.show-details-nav-header { text-transform: uppercase; }
+
 .about-section { background: #499fcd; padding-bottom: 15px; padding-top: 15px; }
 
 .about-card .card-body { overflow: hidden; padding-bottom: 20px; }
