@@ -25,6 +25,60 @@ ticket-prices: >-
 primary-color: '#750630'
 header-image: /assets/bar-2209813.jpg
 flyer: /assets/poster.jpg
+sections:
+  - title: CAST
+    body: >-
+      **WAVERLY** | Laura Ellis
+
+
+      **LISA** | Bobbi Mair
+
+
+      **DARREN** | Joshua Yeardley / Luke James Leahy*
+
+
+      **LUKE** | Chris Foxwell
+
+
+      **ENSEMBLE** | Lauren Clarke, Ellie Jones, Emma J Leaver, Alex Stephenson, Sarah White, Joshua Yeardley / Luke James Leahy (when not playing Darren*)
+
+
+      _\*The role of Darren will be played by Joshua Yeardley on Tuesday, Thursday and Saturday night (5, 7 and 9 March), and by Luke James Leahy on Wednesday, Friday and Saturday matinée (6, 8 and 9 March)._
+
+  - title: CREATIVES
+    body: >-
+      **DIRECTOR** | Dan Saunders
+
+
+      **MUSICAL DIRECTOR** | Adrian Hau
+
+
+      **PRODUCER |** Natalie Harding-Moore
+
+
+      **TECHNICAL LEAD** | Olly Levett
+
+
+      **STAGE MANAGER** | Lizzie Levett
+
+
+      **POSTER DESIGN** | Zoe Dobell
+
+
+      **SET REALISATION** | Andrew Laidlaw
+
+
+      **ASSISTANT STAGE MANAGER** | Shiri Stern
+
+  - title: IMAGES
+    body: >-
+      <a data-flickr-embed="true"  href="https://www.flickr.com/photos/sedos/albums/72157678038786328" title="Next Thing You Know - 2019"><img src="https://farm8.staticflickr.com/7860/46134425034_376bc8cb2a_b.jpg" width="730" height="1024" alt="Next Thing You Know - 2019"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+  - title: VIDEOS
+    body: >-
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/gv4tHs6k0Zg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/mIE1WDS5K6o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ---
 **Next Thing You Know** **_(“NTYK”) is a musical about four New Yorkers waking up from their invincible_ twenties and confronting adulthood in the city that never sleeps. It looks at a time in life when one day you wake up, and instead of a hangover, you have a job. Instead of a fling, you have a live-in girlfriend. And instead of naïve dreams, you have reality. Think: a musical episode of _How I Met Your Mother_ or** **_Friends_.**
 
@@ -34,8 +88,10 @@ Please note, the onstage bar will be cash only. Drinks purchased at the main Bri
 
 
 
-Bridewell Theatre \
-Bride Lane Fleet Street\
+Bridewell Theatre
+ \
+Bride Lane Fleet Street
+\
 London, EC4Y 8EQ
 
 Evening performances: onstage bar opens at 7pm, show commences at 7.30pm\
@@ -45,13 +101,14 @@ Saturday matinée: onstage bar opens at 2pm, show commences at 2.30pm
 
 **GALA PERFORMANCE | Friday 8 March**
 
-There will be a special gala performance on Friday 8 March, where guests will receive a glass of fizz and a programme. Tickets £21 (concessions £18.50). Premium tickets are available for £23 (concessions £20.50).  
+There will be a special gala performance on Friday 8 March, where guests will receive a glass of fizz and a programme. Tickets £21 (concessions £18.50). Premium tickets are available for £23 (concessions £20.50).
 
 Concessions: Sedos members, children, senior citizens, students with valid identification, registered disabled and registered unemployed unless otherwise stated, for example Gala Nights.
 
 Buy 10 tickets online and get a 10% discount.
 
-**TICKET COLLECTION**
+
+**TICKET COLLECTION**
 
 All tickets bought on the door must be paid for in cash - we cannot take card payments on the door.
 

@@ -17,6 +17,52 @@ header-image: assets/images/headers/2018-pippin.jpg
 flyer: assets/images/flyers/2018-pippin.jpg
 venue: bridewell
 ticket-prices: £12-£18
+sections:
+  - title: CAST
+    body: >-
+      #### CAST
+
+      **LEADING PLAYER** | Corin Miller
+      **PIPPIN**  | Joe Thompson-Oubari
+      **CHARLEMAGNE** | Kris Webb
+      **LEWIS** | Paul Nicholas Dyke
+      **FASTRADA** | Vicky Terry
+      **BERTHE** | Annie Houseago
+      **CATHERINE** | Charlie Welch
+
+      **PLAYERS**
+
+      Siobhan Aarons
+      Toby Churchley
+      Will Emery
+      Tim Garrad
+      Eloise Horton
+      Clarissa Lonsdale
+      Hannah Parker Smith
+      Mark Siddall
+      Becky Sweeney
+      Vaughan Watts (dance captain)
+      Sean Westwood
+
+      #### CREATIVE TEAM
+
+      **DIRECTOR** | Chris Adams
+      **MUSICAL DIRECTOR** | Sophie Wright
+      **CHOREOGRAPHER** | Paul Brookland-Williams
+      **ASSISTANT MUSICAL DIRECTOR** | Ed Curry
+      **CO-PRODUCERS** | Lizzie Drapper and Pippa Kyle
+      **LIGHTING DESIGNER** | Oliver Levett
+      **SET** | Steven King
+      **SOUND DESIGNER** | Adrian Jeakins
+      **COSTUMES** | Clare Harding
+      **TECHNICAL STAGE MANAGER** | Giles Burden
+      **IMAGE AND FLYER DESIGN** | Rebecca Pitt
+      **COMMITTEE LIAISON AND COMPANY STAGE MANAGER** | Rebecca Chisholm
+  - title: Photos
+    body: <a data-flickr-embed="true"  href="https://www.flickr.com/photos/sedos/albums/72157665408534407" title="Pippin - 2018"><img src="https://farm1.staticflickr.com/890/27366952938_c7d8186a89_z.jpg" width="640" height="427" alt="Pippin - 2018"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+  - title: Video
+    body: <iframe width="560" height="315" src="https://www.youtube.com/embed/HvMYI_7mDic" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
 ---
 
 > Think about your life, Pippin.
