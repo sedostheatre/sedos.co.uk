@@ -32,14 +32,6 @@ Pipelines.Add("FallbackHeaders",
     WriteFiles()
 );
 
-Pipelines.Add("ShowDetails",
-    ReadFiles("show-details/*.md"),
-    FrontMatter(Yaml()),
-    Markdown()
-        .UseExtension<Markdig.Extensions.Bootstrap.BootstrapExtension>()
-        .UseExtensions()
-);
-
 Pipelines.Add("AllShows",
     ReadFiles("shows/*.md"),
     FrontMatter(Yaml()),
