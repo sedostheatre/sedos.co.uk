@@ -46,6 +46,7 @@ sections:
       _\*The role of Darren will be played by Joshua Yeardley on Tuesday, Thursday and Saturday night (5, 7 and 9 March), and by Luke James Leahy on Wednesday, Friday and Saturday matinée (6, 8 and 9 March)._
 
   - title: CREATIVES
+    order: 1
     body: >-
       **DIRECTOR** | Dan Saunders
 

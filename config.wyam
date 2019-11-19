@@ -40,7 +40,7 @@ Pipelines.Add("AllShows",
         .UseExtensions(),
     Meta("header-image", CopyAndResizeHeaderImage),
     Meta("flyer", (doc, ctx) => CopyAndResizeImageFromMeta(doc, ctx, "flyer", null, 360)),
-    Meta("sections", (doc, ctx) => doc.Get("sections", Enumerable.Empty<IDocument>()).Select(d => ProcessMarkdown(d, ctx))),
+    Meta("sections", (doc, ctx) => doc.Get("sections", Enumerable.Empty<IDocument>()).OrderBy(d => d.Get("order", 1)).Select(d => ProcessMarkdown(d, ctx))),
     Razor().WithViewStart("Layout/_ShowViewStart.cshtml"),
     WriteFiles(".html")
 );
