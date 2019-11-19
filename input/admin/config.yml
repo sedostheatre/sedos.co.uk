@@ -13,6 +13,7 @@ collections:
     folder: "input/shows"
     slug: "{{year}}-{{title}}"
     create: true
+    summary: "{{year}} {{title}}"
     fields:
       - label: Title
         name: title
