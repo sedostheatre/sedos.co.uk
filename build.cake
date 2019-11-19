@@ -1,5 +1,5 @@
-#tool nuget:?package=Wyam
-#addin nuget:?package=Cake.Wyam
+#tool nuget:?package=Wyam&version=2.2.9
+#addin nuget:?package=Cake.Wyam&version=2.2.9
 
 var target = Argument("target", "Default");
 var releaseDir = Directory("./release");
@@ -19,8 +19,8 @@ Task("Build")
     {
         Wyam(new WyamSettings
         {
-            UpdatePackages = false,
-            UseLocalPackages  = true
+            UpdatePackages = true,
+            UseLocalPackages = true
         });
     });
 
