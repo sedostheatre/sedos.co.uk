@@ -5,6 +5,8 @@ authors: TERRENCE MCNALLY
 showtimes:
   - time: '2019-11-19 19:30+00:00'
   - time: '2019-11-20 19:30+00:00'
+header-image: /assets/ragtime-teaser-360.jpg
+flyer: /assets/ragtime-a5-flyer-front-800_000.jpg
 sections: []
 ---
 > It was the music
