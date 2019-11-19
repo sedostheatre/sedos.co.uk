@@ -23,8 +23,11 @@ Set in the melting pot of New York, the stories of a stifled upper-class wife, a
 
 A multi award-winning masterpiece from Lynn Ahrens and Stephen Flaherty, with a book by Terrence McNally, Ragtime is a compelling story of courage, love and hope.
 
-“A triumph for the stage” - Time Magazine
+>A triumph for the stage
+>- <cite>Time Magazine</cite>
 
-"The Ultimate Musical for Our Time" - Huffington Post
+>The Ultimate Musical for Our Time
+>- <cite>Huffington Post</cite>
 
-"Explosive and thrilling! Theatre-shaking intensity...Ragtime is nothing short of a masterpiece" - Bloomberg News
+>Explosive and thrilling! Theatre-shaking intensity...Ragtime is nothing short of a masterpiece
+>- <cite>Bloomberg News</cite>
