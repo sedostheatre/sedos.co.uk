@@ -18,18 +18,21 @@ Pipelines.Add("TopLevelNav",
     Yaml()
 );
 
-Pipelines.Add("Venues",
-    ReadFiles("venues/*.md"),
-    FrontMatter(Yaml()),
-    Markdown(),
-    WriteFiles(".html")
-);
-
 Pipelines.Add("FallbackHeaders",
     ReadFiles("assets/images/headers/fallback/*.*"),
     Image().Resize(width: 1280, height: null),
     OrderBy(@doc["Title"]),
     WriteFiles()
+);
+
+Pipelines.Add("Venues",
+    ReadFiles("venues/*.md"),
+    FrontMatter(Yaml()),
+    Markdown()
+        .UseExtension<Markdig.Extensions.Bootstrap.BootstrapExtension>()
+        .UseExtensions(),
+    Razor().WithViewStart("Layout/_PageViewStart.cshtml"),
+    WriteFiles(".html")
 );
 
 Pipelines.Add("AllShows",
