@@ -62,7 +62,7 @@ PLAYS: You will be sent dialogue to prepare in advance for the part(s) you are i
 
 We will send you all the information you need when you register to audition. There is also usually a pre-audition workshop of the show so you can get a taste of what you are getting yourself into!
 
-**Members' Benefits**
+**Members' benefits**
 
 Reduced ticket prices on all Sedos shows
 
