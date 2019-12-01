@@ -100,11 +100,11 @@ Most of our rehearsals take place at 1 Brewers' Hall Garden (BHG), London EC2V 5
 
 We are the resident theatre company at the Bridewell Theatre, just off Fleet Street in London, and we generally perform there for 10 weeks a year.
 
-We also perform at a other venues from time to time including regularly at the Edinburgh Festival!
+We also perform at a other venues from time to time, including at the Edinburgh Fringe and the Minack Theatre. 
 
 **How long is the performance period?**
 
-Either a one- or two-week production period is usual. Plays are generally one-week (though we have also done two-week plays), with two two-week musicals and one one-week musical.
+Either a one- or two-week production period is usual. Plays are generally one-week (though we have also done two-week plays), while we stage both two-week and one-week musicals.
 
 **Who are in the audience?**
 
