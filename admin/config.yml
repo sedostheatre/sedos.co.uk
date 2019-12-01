@@ -212,6 +212,9 @@ collections:
     fields:
       - {label: name, name: name, widget: string}
       - {label: key, name: key, widget: string}
+      - label: details
+        name: body
+        widget: markdown
   - name: about
     label: About
     folder: input/about
