@@ -62,9 +62,7 @@ PLAYS: You will be sent dialogue to prepare in advance for the part(s) you are i
 
 We will send you all the information you need when you register to audition. There is also usually a pre-audition workshop of the show so you can get a taste of what you are getting yourself into!
 
-**Members Benefits**
-
-Grapevine newsletter
+**Members' Benefits**
 
 Reduced ticket prices on all Sedos shows
 
@@ -74,45 +72,45 @@ Free attendance at Sechoir
 
 No fees to audition for shows
 
-Members events
+Members' events
 
-In addition, Members have the right to stand for election to the Committee and to vote at General Meetings.
+In addition, members have the right to stand for election to the Committee and to vote at General Meetings.
 
 These benefits apply to the named member only. For the avoidance of doubt they are non-transferable, therefore, a member participating in a production may not use their discount to purchase tickets for friends or family.
 
-Can I get involved backstage?
+**Can I get involved backstage?**
 
 Absolutely! We are always keen to hear from anyone who is interested in getting involved on the production side. From props and set, sound and lighting designers and operators, costumes and makeup to stage managers and those backstage, our shows can only thrive with those willing to volunteer for these roles. All the benefits of being involved without having to learn your lines! 
 
 For more information contact: backstage@sedos.co.uk
 
-How long is the rehearsal period?
+**How long is the rehearsal period?**
 
 We prefer a short but intensive rehearsal period of about 8-10 weeks.
 
-When are rehearsals held?
+**When are rehearsals held?**
 
 Weekday rehearsals (generally two per week, but not everyone is called to all rehearsals) are usually 6.30-9.30pm. They may be Mon+Wed, or Tues+Thurs, depending on the production team's availability. Weekend rehearsals are generally held on a Saturday or Sunday from 10.30am/1pm to 2/5pm. Again, not everyone may be called to all rehearsals or to the whole rehearsal. Rehearsals are scheduled as far as possible around people's availability.
 
-Where are rehearsals held?
+**Where are rehearsals held?**
 
-Wherever we can find free/cheap rehearsal space within easy reach of central London, and this varies between productions. Ideally we try and keep it in zone 1, but this isn’t always the case.
+Most of our rehearsals take place at 1 Brewers' Hall Garden (BHG), London EC2V 5DX. on the rare occasions when our rehearsals can't be held at BHG, we try to find free/cheap rehearsal space within easy reach of central London.
 
-Where do performances take place?
+**Where do performances take place?**
 
-We are the Resident Theatre Company at the Bridewell Theatre, just off Fleet Street in London, and we generally perform there for 10 weeks a year.
+We are the resident theatre company at the Bridewell Theatre, just off Fleet Street in London, and we generally perform there for 10 weeks a year.
 
 We also perform at a other venues from time to time including regularly at the Edinburgh Festival!
 
-How long is the performance period?
+**How long is the performance period?**
 
-Either a one or two week production period is usual. Plays are generally one-we (though we have recently done two-week plays), with two two-week musicals and one one-week musical.
+Either a one- or two-week production period is usual. Plays are generally one-week (though we have also done two-week plays), with two two-week musicals and one one-week musical.
 
-Who are in the audience?
+**Who are in the audience?**
 
 All the friends, family and colleagues that you have sold tickets to! Yes, we do rely on a level of ticket sales from the cast to cover our expenses. However, there are also long-term enthusiastic supporters of Sedos and past performers that come regularly to our shows, there is some interest from talent-spotting agents, and there are even a few general members of the public that have seen our publicity, picked up a flier, or were just passing by (we know about them because they ask to join our mailing list afterwards).
 
-Are the cast required to help with the get-in and get-out?
+**Are the cast required to help with the get-in and get-out?**
 
 All cast, production teams and crew are required to help with the get-out. The cast are sometimes asked to help with the get-in, but not always. Production teams and crew are required to help with the get-in. 
 
