@@ -78,102 +78,64 @@ image: assets/images/about/About-InThePress.jpg
 
 “I feel as if I am constantly saying this about Sedos, but they really have got amateur theatre right and the Drowsy Chaperone is yet another example of this.” [The Drowsy Chaperone, 2017, Musical Theatre Musings](http://musicaltheatremusings.co.uk/drowsy-chaperone-sedos)
 
-Little Women The Musical
+*Little Women The Musical*
 
-“The beautiful set design for Sedos’ production, the sheer talent of those playing the March sisters and the clever direction means that I took this award.” Little Women The Musical, 2017, Musical Theatre Musings (best amateur production of 2017)
+“The beautiful set design for Sedos’ production, the sheer talent of those playing the March sisters and the clever direction means that I took this award.” [Little Women The Musical, 2017, Musical Theatre Musings (best amateur production of 2017)](http://musicaltheatremusings.co.uk/2017-roundup)
 
-http://musicaltheatremusings.co.uk/2017-roundup
+“On realising that I was going to watch an amateur production I embarrassingly didn’t have high hopes for this production of Little Women the Musical – however, within the first few lines, I was proven very wrong. The Stock Exchange Dramatic and Operatic Society – better known as Sedos – are an amateur company who I now realise deliver professional standard productions.” [Little Women The Musical, 2017, London Theatre 1](https://www.londontheatre1.com/reviews/review-little-women-bridewell-theatre/)
 
-“On realising that I was going to watch an amateur production I embarrassingly didn’t have high hopes for this production of Little Women the Musical – however, within the first few lines, I was proven very wrong. The Stock Exchange Dramatic and Operatic Society – better known as Sedos – are an amateur company who I now realise deliver professional standard productions.” Little Women The Musical, 2017, London Theatre 1
+*Frankenstein* 
 
-https://www.londontheatre1.com/reviews/review-little-women-bridewell-theatre/
+“Watching \[Jonathon] Cooper’s character progression and journey throughout the whole show was, I felt, a master class in acting.” [Frankenstein, 2017, Sardines](http://www.sardinesmagazine.co.uk/reviews/review.php?REVIEW-Sedos-Frankenstein&reviewsID=3004)
 
-Frankenstein 
+“What is immediately apparent is that the ‘stars’ of this show are the designers.” [Frankenstein, 2017, London Theatre 1](https://www.londontheatre1.com/reviews/review-frankenstein-bridewell-theatre/)
 
-“Watching \[Jonathon] Cooper’s character progression and journey throughout the whole show was, I felt, a master class in acting.” Frankenstein, 2017, Sardines
+“As always, Sedos deserve top marks for their production values.” [Frankenstein, 2017, Remote Goat](https://www.remotegoat.com/uk/review/13608/intense-production-of-horror-classic/)
 
-http://www.sardinesmagazine.co.uk/reviews/review.php?REVIEW-Sedos-Frankenstein&reviewsID=3004
+*Priscilla Queen of the Desert*
 
-“What is immediately apparent is that the ‘stars’ of this show are the designers.” Frankenstein, 2017, London Theatre 1
+“A quick exit-poll on the audience provided comments such as 'exuberant', 'brilliant', 'didn't want it to end' and 'you'll regret not seeing it.' My favourite has to be 'very pink and gay, but the best kind of gay.' Congratulations to Director / Costume Designer Angus Jacobs, Musical Director Ryan Macaulay and the whole creative team. It might not be as glittery or explosive as a big-budget West End version but it's just as fabulous.” [Priscilla Queen of the Desert, 2017, Sardines](http://www.sardinesmagazine.co.uk/reviews/review.php?REVIEW-SEDOS-Priscilla%20Queen%20of%20the%20Desert%20-%20the%20Musical&reviewsID=3051t)
 
-https://www.londontheatre1.com/reviews/review-frankenstein-bridewell-theatre/
+“Overall, then I guess it’s pretty obvious I enjoyed Priscilla Queen of the Desert. Sedos have put together and delivered a first-rate show that is fun with a capital ‘F’ and entertaining with a capital ‘E’ from start to finish.” [Priscilla Queen of the Desert, 2017, London Theatre 1](https://www.londontheatre1.com/reviews/priscilla-queen-of-the-desert-review-bridewell-theatre-london/)
 
-“As always, Sedos deserve top marks for their production values.” Frankenstein, 2017, Remote Goat
+**2016**
 
-https://www.remotegoat.com/uk/review/13608/intense-production-of-horror-classic/
+*I Love You, You’re Perfect, Now Change*
 
-Priscilla Queen of the Desert
+“Sedos have once again achieved an end result to be proud of, a truthful, funny musical bursting with talent.” [I Love You, You’re Perfect, Now Change, 2016, Musical Theatre Musings](http://musicaltheatremusings.co.uk/love-you)
 
-“A quick exit-poll on the audience provided comments such as 'exuberant', 'brilliant', 'didn't want it to end' and 'you'll regret not seeing it.' My favourite has to be 'very pink and gay, but the best kind of gay.' Congratulations to Director / Costume Designer Angus Jacobs, Musical Director Ryan Macaulay and the whole creative team. It might not be as glittery or explosive as a big-budget West End version but it's just as fabulous.” Priscilla Queen of the Desert, 2017, Sardines
+*Such Stuff As Dreams Are Made On*
 
-http://www.sardinesmagazine.co.uk/reviews/review.php?REVIEW-SEDOS-Priscilla%20Queen%20of%20the%20Desert%20-%20the%20Musical&reviewsID=3051t End version but it's just as fabulous.
+“I would give the show as many stars as possible and think everyone in London should see this show… I encourage, urge and plead with you to go, because I guarantee you will not have seen anything like this before. Whoever is in charge of awards that the folks at Sedos would be eligible for, book your ticket now!” [Such Stuff As Dreams Are Made On, 2016, A Younger Theatre](https://www.ayoungertheatre.com/review-such-stuff-as-dreams-are-made-on-caplan-house/)
 
-“Overall, then I guess it’s pretty obvious I enjoyed Priscilla Queen of the Desert. Sedos have put together and delivered a first-rate show that is fun with a capital ‘F’ and entertaining with a capital ‘E’ from start to finish.”Priscilla Queen of the Desert, 2017, London Theatre 1
+“Such Stuff as Dreams are Made on is absolutely fantastic… a truly fantastic show that will play with your mind and blow you away from the moment it starts until you once more leave the building and re-enter the real world which, for a while will seem a little less colourful than it was before.” [Such Stuff As Dreams Are Made On, 2016, London Theatre 1 ](https://www.londontheatre1.com/reviews/fantastic-such-stuff-as-dreams-are-made-on/)
 
-https://www.londontheatre1.com/reviews/priscilla-queen-of-the-desert-review-bridewell-theatre-london/
+*Reefer Madness*
 
-2016
+“I applaud Sedos for taking a risk and producing this little known show and encourage those who want to spend the night laughing at inappropriate jokes to get themselves along to the Bridewell.” [Reefer Madness, 2016, Musical Theatre Musings](http://musicaltheatremusings.co.uk/reefer-madness)
 
-I Love You, You’re Perfect, Now Change
+*Whose Life Is It Anyway?*
 
-“Sedos have once again achieved an end result to be proud of, a truthful, funny musical bursting with talent.” I Love You, You’re Perfect, Now Change, 2016, Musical Theatre Musings
+“A riveting couple of hours… this is a thought-provoking and thoroughly entertaining piece of theatre about a highly sensitive and controversial subject.” [Whose Life Is It Anyway?, 2016, Sardines](http://www.sardinesmagazine.co.uk/reviews/review.php?REVIEW-Sedos-Whose%20Life%20is%20it%20Anyway?&reviewsID=2450)
 
-http://musicaltheatremusings.co.uk/love-you
+*London Road*
 
-Such Stuff As Dreams Are Made On
+“A real triumph for Sedos.” [London Road, 2016, Londontheatre1.com (\*\*\*\*)](https://www.londontheatre1.com/reviews/review-london-road-bridewell-theatre/)
 
-“I would give the show as many stars as possible and think everyone in London should see this show… I encourage, urge and plead with you to go, because I guarantee you will not have seen anything like this before. Whoever is in charge of awards that the folks at Sedos would be eligible for, book your ticket now!” Such Stuff As Dreams Are Made On, 2016, A Younger Theatre
+“An outstanding performance of an extraordinary musical.” [London Road, 2016, InfoBarrel](http://www.infobarrel.com/Sedos_Presents_London_Road_at_Bridewell_Theatre_London)
 
-https://www.ayoungertheatre.com/review-such-stuff-as-dreams-are-made-on-caplan-house/
+“I’m fast running out of superlatives when discussing the ongoing virtuosity of Sedos.... A sublime piece of theatre.” [London Road, 2016, Sardines Magazine](http://www.sardinesmagazine.co.uk/reviews/review.php?REVIEW-Sedos-London%20Road&reviewsID=2510)
 
-“Such Stuff as Dreams are Made on is absolutely fantastic… a truly fantastic show that will play with your mind and blow you away from the moment it starts until you once more leave the building and re-enter the real world which, for a while will seem a little less colourful than it was before.” Such Stuff As Dreams Are Made On, 2016, London Theatre 1 https://www.londontheatre1.com/reviews/fantastic-such-stuff-as-dreams-are-made-on/
+“A very stylish and smart production of an intriguing gem of a musical... \[Sedos] creates something that is touching, funny, uncomfortable and thought-provoking.” [London Road, 2016, My Entertainment World](https://www.myentertainmentworld.ca/2016/08/london-road-sedos/)
 
-Reefer Madness
+*One Man, Two Guv’nors*
 
-“I applaud Sedos for taking a risk and producing this little known show and encourage those who want to spend the night laughing at inappropriate jokes to get themselves along to the Bridewell.” Reefer Madness, 2016, Musical Theatre Musings
+“I have seen quite a lot of Sedos productions over the last few years, and their shows are of a consistent excellent quality. They are undoubtedly a collection of extremely talented directors, actors and performers. One Man, Two Guv’nors upheld that high expectation and did not disappoint; the show was of professional standard with even the smallest parts giving consistent high quality performances.” [One Man, Two Guvnors, 2016, Sardines](http://www.sardinesmagazine.co.uk/reviews/review.php?REVIEW-Sedos-One%20Man,%20Two%20Guvnors&reviewsID=2581)
 
-http://musicaltheatremusings.co.uk/reefer-madness
+“Sedos is an amateur dramatic company, but the acting is easily on par with the professional show I saw previously. In fact, having seen Sedos in action before, it seems they are once again blurring the lines between professional and amateur theatre. In particular, they prove that the quality of a show is determined by those involved – and not whether anyone is getting paid.”[ One Man, Two Guvnors, 2016, West End Wilma](https://www.westendwilma.com/review-one-man-two-guvnors-bridewell/)
 
-Whose Life Is It Anyway?
+*Candide*
 
-“A riveting couple of hours… this is a thought-provoking and thoroughly entertaining piece of theatre about a highly sensitive and controversial subject.” Whose Life Is It Anyway?, 2016, Sardines
+“The result is an irreverent, apt, ever topical musical… it’s in excellent hands with Sedos which, as usual, achieves a near professional standard… A jolly good evening’s entertainment, then. All credit to this production and all who sail in her.” [Candide, 2016, Sardines](http://www.sardinesmagazine.co.uk/reviews/review.php?REVIEW-Sedos-Candide&reviewsID=2644)
 
-http://www.sardinesmagazine.co.uk/reviews/review.php?REVIEW-Sedos-Whose%20Life%20is%20it%20Anyway?&reviewsID=2450
-
-London Road
-
-\*\*\*\* “A real triumph for Sedos.” London Road, 2016, Londontheatre1.com (\*\*\*\*)
-
-https://www.londontheatre1.com/reviews/review-london-road-bridewell-theatre/
-
-“An outstanding performance of an extraordinary musical.” London Road, 2016, InfoBarrel
-
-http://www.infobarrel.com/Sedos_Presents_London_Road_at_Bridewell_Theatre_London
-
-“I’m fast running out of superlatives when discussing the ongoing virtuosity of Sedos.... A sublime piece of theatre.” London Road, 2016, Sardines Magazine
-
-http://www.sardinesmagazine.co.uk/reviews/review.php?REVIEW-Sedos-London%20Road&reviewsID=2510
-
-“A very stylish and smart production of an intriguing gem of a musical... \[Sedos] creates something that is touching, funny, uncomfortable and thought-provoking.” London Road, 2016, My Entertainment World
-
-https://www.myentertainmentworld.ca/2016/08/london-road-sedos/
-
-One Man, Two Guv’nors
-
-“I have seen quite a lot of Sedos productions over the last few years, and their shows are of a consistent excellent quality. They are undoubtedly a collection of extremely talented directors, actors and performers. One Man, Two Guv’nors upheld that high expectation and did not disappoint; the show was of professional standard with even the smallest parts giving consistent high quality performances.” One Man, Two Guvnors, 2016, Sardines
-
-http://www.sardinesmagazine.co.uk/reviews/review.php?REVIEW-Sedos-One%20Man,%20Two%20Guvnors&reviewsID=2581
-
-“Sedos is an amateur dramatic company, but the acting is easily on par with the professional show I saw previously. In fact, having seen Sedos in action before, it seems they are once again blurring the lines between professional and amateur theatre. In particular, they prove that the quality of a show is determined by those involved – and not whether anyone is getting paid.” One Man, Two Guvnors, 2016, West End Wilma
-
-https://www.westendwilma.com/review-one-man-two-guvnors-bridewell/
-
-Candide
-
-“The result is an irreverent, apt, ever topical musical… it’s in excellent hands with Sedos which, as usual, achieves a near professional standard… A jolly good evening’s entertainment, then. All credit to this production and all who sail in her.” Candide, 2016, Sardines
-
-http://www.sardinesmagazine.co.uk/reviews/review.php?REVIEW-Sedos-Candide&reviewsID=2644
-
-“Sedos delivered the production in a classy manner with an incredibly strong cast in everything from their characterisation to music and a strong visual feast for the eyes.” Candide, 2016, Musical Theatre Musings
-
-http://musicaltheatremusings.co.uk/candide
+“Sedos delivered the production in a classy manner with an incredibly strong cast in everything from their characterisation to music and a strong visual feast for the eyes.” [Candide, 2016, Musical Theatre Musings](http://musicaltheatremusings.co.uk/candide)
