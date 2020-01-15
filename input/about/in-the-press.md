@@ -179,125 +179,122 @@ image: assets/images/about/About-InThePress.jpg
 
 *Hot Mikado*
 
-“Sedos certainly takes the spirit of the piece and entertained the audience with a sizzling production and a great night out. From the opening number when the scantily clad ladies of Japan burst onto the stage to the grand finale the company combined set, costume, staging and lighting with some brilliant performances to provide an excellent night out…”\
-***[Hot Mikado](https://sedos.co.uk/2013/hotmikado.htm)***,*2013, Sardines*
+“Sedos certainly takes the spirit of the piece and entertained the audience with a sizzling production and a great night out. From the opening number when the scantily clad ladies of Japan burst onto the stage to the grand finale the company combined set, costume, staging and lighting with some brilliant performances to provide an excellent night out…” Hot Mikado, 2013, Sardines
 
-“In a time of talentless reality TV shows, spending a Saturday evening watching some genuine talent is a breath of fresh air. Observing such an obviously hard-working cast put together such an effervescent show is exciting and thrilling, making this the light-hearted fun that musical theatre often misses the mark with. You’ll have ‘Three Little Maids’ stuck in your head all week…”\
-***[Hot Mikado](https://sedos.co.uk/2013/hotmikado.htm)***,*2013, So So Gay*
+“In a time of talentless reality TV shows, spending a Saturday evening watching some genuine talent is a breath of fresh air. Observing such an obviously hard-working cast put together such an effervescent show is exciting and thrilling, making this the light-hearted fun that musical theatre often misses the mark with. You’ll have ‘Three Little Maids’ stuck in your head all week…” Hot Mikado, 2013, So So Gay
 
-“This production of*Hot Mikado*by the Sedos theatre company is a little jewel that you should not miss and that hopefully will find a bigger showcase and a re-run (a longer run!) at the Bridewell Theatre or, why not?, a bigger location! (anyone reading there???)… The run (for now) is short and you should not miss it but I am pretty sure someone will notice this show and hopefully we’ll get new dates. It really is worth it — get your tickets…”\
-***[Hot Mikado](https://sedos.co.uk/2013/hotmikado.htm)**, 2013, Remote Goat*
+“This production of Hot Mikado by the Sedos theatre company is a little jewel that you should not miss and that hopefully will find a bigger showcase and a re-run (a longer run!) at the Bridewell Theatre or, why not?, a bigger location! (anyone reading there???)… The run (for now) is short and you should not miss it but I am pretty sure someone will notice this show and hopefully we’ll get new dates. It really is worth it — get your tickets…” Hot Mikado, 2013, Remote Goat
 
-“The cast remain totally focussed throughout the show. Their tight harmonies and excellent diction combine with strong and varied dance routines to give us a thoroughly enjoyable and beautifully costumed performance. Sedos know exactly how to capture an audience, hold it firmly in the palms of their hands, and then send it on its way, humming those compulsive ear worms – the catchy tunes you just can’t get out of your head…”\
-***[Hot Mikado](https://sedos.co.uk/2013/hotmikado.htm)**, 2013, InfoBarrel*
+“The cast remain totally focussed throughout the show. Their tight harmonies and excellent diction combine with strong and varied dance routines to give us a thoroughly enjoyable and beautifully costumed performance. Sedos know exactly how to capture an audience, hold it firmly in the palms of their hands, and then send it on its way, humming those compulsive ear worms – the catchy tunes you just can’t get out of your head…” Hot Mikado, 2013, InfoBarrel
 
-“As soon as the play began the commitment of every actor hit you in the face with every inch of stage swarming with character, character that as the play progressed and actors doubled up on parts, was never lost. Every line, every performer… absolutely deserved their every moment and created a performance well beyond the level of the amateur theatre… So many performances stood out… All the costumes were beyond fantastic and Deborah Lean’s mixing of military, Scottish and the Elizabethan was seamlessly done, including the translation of set design to costume… Final praise, however, has to go to Chloë Faine’s directing. Also credited as designer, her vision is seamlessly woven through performance, costume, blocking, set design and everything else. This production was meticulously thought out, and it shows… Sedos has set the*Macbeth*bar exceptionally high.”\
-***[Macbeth](https://sedos.co.uk/2013/macbeth.htm)***,*2013, Sardines*
+*Macbeth*
 
-“Praising a production for the quality of the costumes, design or special effects is sometimes seen as rather a backhanded compliment. While this can be true, it is easy to forget that theatre is a visual medium, and so such elements are a legitimate part of the spectacle. In the case of Sedos’ Steampunk inspired*Macbeth*, at the Bridewell Theatre, the production values are far beyond anything else you are likely to see on the fringe stage. Indeed, they put large parts of the West End to shame…Director Chloe Faine and Matt Gould (who produced the show) should congratulate themselves on a job well done, along with the rest of the cast and crew.”\
-***[Macbeth](https://sedos.co.uk/2013/macbeth.htm)***,*2013, Remote Goat*
+“As soon as the play began the commitment of every actor hit you in the face with every inch of stage swarming with character, character that as the play progressed and actors doubled up on parts, was never lost. Every line, every performer… absolutely deserved their every moment and created a performance well beyond the level of the amateur theatre… So many performances stood out… All the costumes were beyond fantastic and Deborah Lean’s mixing of military, Scottish and the Elizabethan was seamlessly done, including the translation of set design to costume… Final praise, however, has to go to Chloë Faine’s directing. Also credited as designer, her vision is seamlessly woven through performance, costume, blocking, set design and everything else. This production was meticulously thought out, and it shows… Sedos has set theMacbethbar exceptionally high.” Macbeth, 2013, Sardines
 
-“As an example of total theatricality, I think it is very hard to better this show… the whole cast demonstrated a particularly high standard of singing and the accents were accurate (I commend Sedos for seeking help with this often-overlooked aspect) and consistent… in summary this was a very fine production of this very fine musical.”\
-***[A Man of No Importance](https://sedos.co.uk/2013/amanofnoimportance.htm)***,*2013, Sardines*
+“Praising a production for the quality of the costumes, design or special effects is sometimes seen as rather a backhanded compliment. While this can be true, it is easy to forget that theatre is a visual medium, and so such elements are a legitimate part of the spectacle. In the case of Sedos’ Steampunk inspiredMacbeth, at the Bridewell Theatre, the production values are far beyond anything else you are likely to see on the fringe stage. Indeed, they put large parts of the West End to shame…Director Chloe Faine and Matt Gould (who produced the show) should congratulate themselves on a job well done, along with the rest of the cast and crew.” Macbeth, 2013, Remote Goat
 
-“The show is very much an ensemble piece, and it seems invidious to single out single performances, when there really isn’t a weak link in the cast… Congratulations to all involved.”\
-***[A Man of No Importance](https://sedos.co.uk/2013/amanofnoimportance.htm)***,*2013, The Gay UK*
+*A Man of No Importance*
+
+“As an example of total theatricality, I think it is very hard to better this show… the whole cast demonstrated a particularly high standard of singing and the accents were accurate (I commend Sedos for seeking help with this often-overlooked aspect) and consistent… in summary this was a very fine production of this very fine musical.” A Man of No Importance, 2013, Sardines
+
+“The show is very much an ensemble piece, and it seems invidious to single out single performances, when there really isn’t a weak link in the cast… Congratulations to all involved.” A Man of No Importance, 2013, The Gay UK
+
+*Autobahn*
 
 “The acting is top-notch, as one expects from Sedos… These are alternately funny and disturbing vignettes, excellently played by a confident and talented cast.”\
-***[Autobahn](https://sedos.co.uk/2013/autobahn.htm)***,*2013, Sardines*
+Autobahn,2013, Sardines
 
 “…there are no weak performances… the show is definitely worth seeing. Director Jacqui Adams has produced a show that will linger in people’s minds, and one \[that] again confirms Sedos’ status as a company known for putting on provocative drama.”\
-***[Autobahn](https://sedos.co.uk/2013/autobahn.htm)***,*2013, Remote Goat*
+Autobahn,2013, Remote Goat
 
 “This is quite simply the best amateur production I have ever seen… Any director worth their salt would be proud of what Stanex and choreographer Kimberley Barker have achieved… It goes without saying that the role of Jesus is crucial and Joe Penny, a researcher at the New Economics Foundation in his day job, is astounding. Many a West End performer should count themselves lucky that they are not up against this immensely talented young man when auditioning for professional shows… as an ensemble \[the supporting cast] are faultless…”\
-***[Godspell](https://sedos.co.uk/2013/godspell.htm)***,*2013, Front Row Dress*
+Godspell,2013, Front Row Dress
 
 “Pulses with unflagging energy… The ensemble work in this show is outstanding. The cast takes ownership of the whole playing area and often the auditorium as well as the side entrances… The slickly professional movement work is a great credit to choreographer Kimberly Barker and really shows how a company of the calibre of Sedos can seriously blur the difference between professional and amateur work.”\
-***[Godspell](https://sedos.co.uk/2013/godspell.htm)***,*2013, Sardines*
+Godspell,2013, Sardines
 
 “This production confounds expectations on every level.”\
-***[Godspell](https://sedos.co.uk/2013/godspell.htm)***,*2013, The Public Reviews*
+Godspell,2013, The Public Reviews
 
 “These are seriously good actors, working hard to make the play work in a style that is always in danger of disappearing up its own backside, as plenty of similar productions have done since this style of theatre appeared half a century ago (or should I say ‘reappeared’, since the similarities with classical Greek tragedy are striking). The fact that it didn’t fail is testament to the talent of the actors and the cojones of director Andrew Marchant… I don’t think Sedos intended to give its audience an easy ride, pushing theatre as far as they could. This style of theatre isn’t for everyone, but, taken purely on its own terms, Gormenghast was an unquestioned success.”\
-***[Gormenghast](https://sedos.co.uk/2013/gormenghast.htm)***,*2013, Sardines*
+Gormenghast,2013, Sardines
 
 "In the grand scheme of amateur, fringe and professional musicals, this cast perform to the absolute max with passion and humour throughout. Moreover, everyone looks like they’re having a great time doing it. London audiences should take notice of Sedos, as its creatives are clearly more than capable of giving their professional neighbours a run for their money."\
-***[Guys & Dolls](https://sedos.co.uk/2012/guysanddolls.htm)**, 2012, thepublicreviews.com*
+Guys & Dolls, 2012, thepublicreviews.com
 
 "The bar for performance level has been set so high by countless previous productions that every new interpretation of the piece has a daunting task to match expectations and standards. Sedos… rose to the challenge with a confident, sure footed, vibrant and stylish performance, and emerged with full honours."\
-***[Guys & Dolls](https://sedos.co.uk/2012/guysanddolls.htm)**, 2012, Sardines*
+Guys & Dolls, 2012, Sardines
 
 "…an inventive, energetic, comedic and enjoyable musical because of the love of the material and attention to detail. The small space is home to a big ensemble of talent, expertly choreographed by Thomas Leonard in such a way that regularly leaves the audience breathless… This is a high-quality production of a favourite musical…"\
-***[Guys & Dolls](https://sedos.co.uk/2012/guysanddolls.htm)**, 2012, Remote Goat*
+Guys & Dolls, 2012, Remote Goat
 
 "The Stock Exchange Dramatic and Operatic Society excels once again with their innovative and unusual one-hour production of Shakepeare's As You Like… The production has been designed and executed in a truly professional manner demonstrating there is no shortage of highly talented players active in amateur theatre.”\
-***[As You Like It](https://sedos.co.uk/2012/asyoulikeit.htm)**(London), 2012, Suite101.com*
+As You Like It(London), 2012, Suite101.com
 
 “Told by those who evidently have a deep set understanding and respect for the text, the story is excellently executed so that not a line is out of place or superfluous to their storytelling cause. The overall design was incredibly creative and brilliantly executed… There are no weak performances from any member of the cast, each an integral link in a strong company… Sedos is so close to being professional it hurts. Outstandingly polished performances, brilliant direction and joy in creating theatrical masterpieces makes these young actors ones to watch.”\
-***[As You Like It](https://sedos.co.uk/2012/asyoulikeit.htm)**(Edinburgh), 2012, Broadway Baby (five stars)*
+As You Like It(Edinburgh), 2012, Broadway Baby (five stars)
 
 “Sedos’ version of this classic play is silly, sweet, and very witty.”\
-***[As You Like It](https://sedos.co.uk/2012/asyoulikeit.htm)**(Edinburgh), 2012, Three Weeks*
+As You Like It(Edinburgh), 2012, Three Weeks
 
 “Sedos… produced a production that not only had incredible production standards, but left me wondering why this gem of a show has been languishing for so long… Musically, the show was kept bouncing along under the baton of David Winters, whose 5 piece band were superb… Major kudos must go to Sedos for nurturing and producing what can only be called a stunning production. I just wish it were running for another week so I could go at least a few more times. Baby left me with a lump in my throat. It exceeded myevery expectation and left me wanting more. Exceptional!!”\
-***[Baby](https://sedos.co.uk/2012/baby.htm)**, 2012, Amateur Stage*
+Baby, 2012, Amateur Stage
 
-“Within thirty seconds it was very obvious that this is no ordinary amateur company. The Sedos production of*Spring Awakening*was executed in atotally professional manner leaving little doubt that amateur theatre can be every bit as good as professional theatre, and in this case, even better.”\
-***[Spring Awakening](https://sedos.co.uk/2012/springawakening.htm)**, 2012, Suite101.com*\
+“Within thirty seconds it was very obvious that this is no ordinary amateur company. The Sedos production ofSpring Awakeningwas executed in atotally professional manner leaving little doubt that amateur theatre can be every bit as good as professional theatre, and in this case, even better.”\
+Spring Awakening, 2012, Suite101.com\
 \
 “If this high standard can be achieved from evening rehearsals from a cast of enthusiasts then I think producers and actors across the profession may need to pull their socks up and take note.”\
-***[Spring Awakening](https://sedos.co.uk/2012/springawakening.htm)***, 2012, Peter J Holland blog\
+Spring Awakening, 2012, Peter J Holland blog\
 \
-“The entire cast were completely and utterly mesmerising; lively, engaging and full of energy. Every single cast member gave a strong all-round performance, but it was the singing that really made this a night to remember, the harmonies absolutely gave me chills… this production of S*pring Awakening*is smart, sexy and seriously packs a punch. Don’t miss it.”\
-***[Spring Awakening](https://sedos.co.uk/2012/springawakening.htm)**, 2012, A Younger Theatre*\
+“The entire cast were completely and utterly mesmerising; lively, engaging and full of energy. Every single cast member gave a strong all-round performance, but it was the singing that really made this a night to remember, the harmonies absolutely gave me chills… this production of Spring Awakeningis smart, sexy and seriously packs a punch. Don’t miss it.”\
+Spring Awakening, 2012, A Younger Theatre\
 \
-“[*Spring Awakening*is] performed by Sedos, a well-established amateur company who strive to produce theatre which can stand shoulder to shoulder with professional productions. In that,*Spring Awakening*succeeds admirably.”\
-***[Spring Awakening](https://sedos.co.uk/2012/springawakening.htm)**, 2012, Gay Times*\
+“\[Spring Awakeningis] performed by Sedos, a well-established amateur company who strive to produce theatre which can stand shoulder to shoulder with professional productions. In that,Spring Awakeningsucceeds admirably.”\
+Spring Awakening, 2012, Gay Times\
 \
 “Chris Warner (director) and Max Wolf (creative director) should be justifiably proud of this production. They have chosen not to carbon copy the original production but instead create their own vision and that is to be applauded… on the night I attended, mature adults were visibly moved to tears.”\
-***[Spring Awakening](https://sedos.co.uk/2012/springawakening.htm)**, 2012, Amateur Stage*
+Spring Awakening, 2012, Amateur Stage
 
 "There is little evidence of Sedos theatre company's amateur status in its charming production which neatly balances the characters' loneliness and frustration with a sense of hope and humour."\
-***[Three Sisters](https://sedos.co.uk/2012/threesisters.htm)**, 2012, One Stop Arts*
+Three Sisters, 2012, One Stop Arts
 
 "As the first show of 2012 for Sedos, Three Sisters rewards before it begins, by presenting the audience with a stunning set... the scale of the thing was impressive... The use of the depth of the stage at the Bridewell was a brilliant and brave move on the director's part, giving opportunity to place the actors as a framed piece of art."\
-***[Three Sisters](https://sedos.co.uk/2012/threesisters.htm)**, 2012, Remote Goat*
+Three Sisters, 2012, Remote Goat
 
 “\[Sedos] should be credited as one of the premier \[amateur] companies in the country, as their track record for staging professional-standard shows proves… it was a genius stroke by co-directors Roger Harwood and Dawn Harrison-Wallace to stage the entire show as a flashback… the casting was difficult to fault… \[the cast] all did a great job of bringing the show to life… top marks must go to the costume team for their fantastic work… \[musical director] David Griffiths and his musicians gave a performance grander than many of those you'd hear in West End theatres… Congratulations again to Sedos for another great production…”\
-***[A Little Night Music](https://sedos.co.uk/2011/littlenightmusic.htm)**, 2011*, SONDHEIM the magazine - official publication of the Sondheim Society
+A Little Night Music, 2011, SONDHEIM the magazine - official publication of the Sondheim Society
 
 “Masterful in both dramatic and auditory terms…”\
-***[A Little Night Music](https://sedos.co.uk/2011/littlenightmusic.htm)***, 2011, Remote Goat
+A Little Night Music, 2011, Remote Goat
 
-“Billed as an amateur production, the Sedos’ cast are anything but. The clever staging and superb costumes only amplify the wonderful work being put in by the actors… A production that does real justice to the writing and ethos of the play, this is one you will be loath to miss…”[*\
-**The Last Days of Judas Iscariot***](https://sedos.co.uk/2011/lastdaysofjudasiscariot.htm), 2011, thepublicreviews.com
+“Billed as an amateur production, the Sedos’ cast are anything but. The clever staging and superb costumes only amplify the wonderful work being put in by the actors… A production that does real justice to the writing and ethos of the play, this is one you will be loath to miss…”The Last Days of Judas Iscariot, 2011, thepublicreviews.com
 
 “The amateur production I refer to was the very professionally staged version by Sedos… As dry and as sterile as this group may sound (bankers, dancing?), the talent involved was phenomenal… The cast, for one, was perfectly formed… everyone did a fantastic job, all the more incredible when you realise that this was an amateur production…”\
-***[Assassins](https://sedos.co.uk/2011/assassins.htm)**,*2011, SONDHEIM the magazine - official publication of the Sondheim Society
+Assassins,2011, SONDHEIM the magazine - official publication of the Sondheim Society
 
 “Sedos’ reputation for bringing high-quality productions to London’s off-West End theatres goes before them and if their production of Assassins is anything to go by, it is a reputation they truly deserve… the accents, excellent vocals and good characterisation were held throughout by each of the lead performers and the ensemble players too…”\
-*[Assassins](https://sedos.co.uk/2011/assassins.htm)*, 2011, Sardines
+Assassins, 2011, Sardines
 
 “Assassins is rarely staged well and you be hard pressed to find a better amateur production. Kudos to Sedos!!”\
-***[Assassins](https://sedos.co.uk/2011/assassins.htm)***, 2011, asmagazine.co.uk
+Assassins, 2011, asmagazine.co.uk
 
 “The simple set worked well for both times and was believable… It is always a joy to go and see well acted and well directed theatre… The audience could tell \[the actors] understood what their characters were saying and why they had to say it… All the performances were strong and retained their originality… Overall a great piece…”\
-***[Arcadia](https://sedos.co.uk/2011/arcadia.htm)***, 2011, Sardines
+Arcadia, 2011, Sardines
 
 “Sedos is generally, and I would say correctly, regarded as the best amateur theatre company in London… And so I had high expectations of the opening night… In short, it's fantastic… kudos to Sedos for an unconventional selection which has been pulled off in (their now trademark) style…”\
-***[Kiss of the Spider Woman: the Musical](https://sedos.co.uk/2010/kissofthespiderwoman.htm)***, 2010, Remote Goat
+Kiss of the Spider Woman: the Musical, 2010, Remote Goat
 
 “This production boasts a cast who are able to hold together a stirling ensemble and a rapturous vocal performance.... the vocalists of Sedos are easily able to match the force and accuracy of any West End ensemble, and with rousing flair.... A wonderful set of costumes are atmospherically lit by fiercely stark beams and the band is simply superb.”\
-***[Parade](https://sedos.co.uk/2009/Parade.htm)***, 2009, Remote Goat
+Parade, 2009, Remote Goat
 
 “A riveting production... Musical Director Matthew Gould has obviously worked a great deal with an already very gifted cast, and it has paid off. From Richard Ash’s opening lines to the last note of the piece, Parade is beautifully and emotionally sung... The second act’s ‘All the Wasted Time’ is breathtakingly good, and if there was no other merit to this production, it would be worth seeing for these few brilliant minutes alone.”\
-***[Parade](https://sedos.co.uk/2009/Parade.htm)***, 2009,Fringe Review
+Parade, 2009,Fringe Review
 
 “Talent and scrupulous attention to detail."\
-***[Parade](https://sedos.co.uk/2009/Parade.htm)***, 2009,The London Word
+Parade, 2009,The London Word
 
 “It was fantastic – every bit as good as the West End version, and much more enjoyable than Rent: Remixed!”\
-***[Rent](https://sedos.co.uk/2008/rent.htm)***, 2008, reader view in the London Evening Standard
+Rent, 2008, reader view in the London Evening Standard
 
 “A good performance which can stand comparison with the best the professional stage has to offer”\
-*Sweeney Todd*, 2007, Sweeney Todd Forum online
+Sweeney Todd, 2007, Sweeney Todd Forum online
