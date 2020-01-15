@@ -62,33 +62,21 @@ image: assets/images/about/About-InThePress.jpg
 
 *Our Country’s Good*
 
-"Strong production of modern classic." Our Country’s Good, 2018, Remote Goat
+"Strong production of modern classic." [Our Country’s Good, 2018, Remote Goat](https://www.remotegoat.com/uk/review/14089/strong-production-of-modern-classic/)
 
-https://www.remotegoat.com/uk/review/14089/strong-production-of-modern-classic/
+“I think this production of Our Country’s Good is the best non-professional 'straight' play (musicals are a different animal) I have ever seen. Of course that’s partly down to the strength of Wertenbaker’s timeless, topical, funny, poignant, horrifying text. But it’s also a huge credit to the talented Sedos cast and their director, Chloe Robertson.” [Our Country’s Good, 2018, Sardines](http://www.sardinesmagazine.co.uk/reviews/review.php?REVIEW-Sedos-Our+Countrys+Good&reviewsID=3362)
 
-“I think this production of Our Country’s Good is the best non-professional 'straight' play (musicals are a different animal) I have ever seen. Of course that’s partly down to the strength of Wertenbaker’s timeless, topical, funny, poignant, horrifying text. But it’s also a huge credit to the talented Sedos cast and their director, Chloe Robertson.” Our Country’s Good, 2018, Sardines
+“It’s easy to forget that Sedos are an amateur company – their production values and talented casts are always of such a high standard. Sedos’s production of Our Country’s Good, 30 years on from it’s Royal Court premiere, is another stunning success.” [Our Country’s Good, 2018, Fairy Powered Productions](http://fairypoweredproductions.com/our-countrys-good-review-3/?fbclid=IwAR21VRGOfvlcyQ5Aq7qHEEFm3KIJyrBUDoIn7rcO6NHpvFJVbR127yyA6jw)
 
-http://www.sardinesmagazine.co.uk/reviews/review.php?REVIEW-Sedos-Our+Countrys+Good&reviewsID=3362
+**2017**
 
-“It’s easy to forget that Sedos are an amateur company – their production values and talented casts are always of such a high standard. Sedos’s production of Our Country’s Good, 30 years on from it’s Royal Court premiere, is another stunning success.” Our Country’s Good, 2018, Fairy Powered Productions
+*The Drowsy Chaperone*
 
-http://fairypoweredproductions.com/our-countrys-good-review-3/?fbclid=IwAR21VRGOfvlcyQ5Aq7qHEEFm3KIJyrBUDoIn7rcO6NHpvFJVbR127yyA6jw
+“This is a brilliant, brilliant show that has always deserved to be seen. In the case of this production, more so than ever.” [The Drowsy Chaperone, 2017, Sardines](http://www.sardinesmagazine.co.uk/reviews/review.php?REVIEW-Sedos-The%20Drowsy%20Chaperone&reviewsID=2838)
 
-2017
+“The Drowsy Chaperone may be categorised as an amateur level production, but it didn’t show. The quality of this production was fantastic and truly entertaining.” [The Drowsy Chaperone, 2017, London Theatre 1](https://www.londontheatre1.com/reviews/review-the-drowsy-chaperone-bridewell-theatre/)
 
-The Drowsy Chaperone
-
-“This is a brilliant, brilliant show that has always deserved to be seen. In the case of this production, more so than ever.” The Drowsy Chaperone, 2017, Sardines
-
-http://www.sardinesmagazine.co.uk/reviews/review.php?REVIEW-Sedos-The%20Drowsy%20Chaperone&reviewsID=2838
-
-“The Drowsy Chaperone may be categorised as an amateur level production, but it didn’t show. The quality of this production was fantastic and truly entertaining.” The Drowsy Chaperone, 2017, London Theatre 1
-
-https://www.londontheatre1.com/reviews/review-the-drowsy-chaperone-bridewell-theatre/
-
-“I feel as if I am constantly saying this about Sedos, but they really have got amateur theatre right and the Drowsy Chaperone is yet another example of this.” 
-
-The Drowsy Chaperone, 2017, Musical Theatre Musings
+“I feel as if I am constantly saying this about Sedos, but they really have got amateur theatre right and the Drowsy Chaperone is yet another example of this.” [The Drowsy Chaperone, 2017, Musical Theatre Musings](http://musicaltheatremusings.co.uk/drowsy-chaperone-sedos)
 
 Little Women The Musical
 
