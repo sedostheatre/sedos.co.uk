@@ -80,6 +80,7 @@ collections:
       - label: Show details
         name: body
         widget: markdown
+        required: false
       - name: sections
         label: Show Details
         description: Details about shows
