@@ -13,28 +13,7 @@ showtimes:
   - time: '2020-02-25 14:30+00:00'
 showtime-summary: 25-29 February 2020
 venue: Bridewell
-sections:
-  - body: |-
-      **JUNE**| Laura Ellis\
-      **ABBY**| Penny Rodie\
-      **BILLY**| Joe Dickens\
-      **JITTER**| Dom Ward\
-      **ENSEMBLE**| Lucy Spreckley and Alex Yelland
-    order: 1
-    title: Cast
-  - body: |-
-      **DIRECTOR**| Emma J Leaver\
-      **MUSICAL DIRECTOR** | Natalie Pound\
-      **PRODUCER**| Clare Harding\
-      **LEAD CHOREOGRAPHER**| Deborah Lean\
-      **GUEST CHOREOGRAPHERS**| Danielle Capretti, Mary Bennett, Olivier Namet\
-      **ASSISTANT DIRECTOR** |Chris Foxwell\
-      **LIGHTING DESIGNER**| Martin Walton\
-      **SOUND DESIGNER |**Henry Whittaker\
-      **STAGE MANAGER |**Shiri Stern\
-      **COMMITTEE LIAISON**| Olly Levett
-    order: 2
-    title: CREATIVE TEAM
+sections: []
 ---
 ## A COMIC VALENTINE TO MUSICAL THEATRE
 
