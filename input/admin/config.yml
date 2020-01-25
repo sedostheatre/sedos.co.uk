@@ -11,9 +11,9 @@ collections:
     label: "Show"
     description: Somewhere to put shows
     folder: "input/shows"
-    slug: "{{year}}-{{title}}"
+    slug: "{{fields.year}}-{{title}}"
     create: true
-    summary: "{{year}} {{title}}"
+    summary: "{{fields.year}} {{title}}"
     fields:
       - label: Title
         name: title
