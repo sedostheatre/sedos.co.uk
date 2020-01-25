@@ -60,7 +60,7 @@
                 }
                 <h4>@Model.Get("ticket-prices")</h4>
                 @{
-                    var showDates = Model.Get<IEnumerable<IDocument>>("showtimes").Select(x => x.Get<DateTime>("time")).OrderBy(x => x);
+                    var showDates = Model.Get("showtimes", Enumerable.Empty<IDocument>()).Select(x => x.Get<DateTime>("time")).OrderBy(x => x);
                     if(showDates.Any())
                     {
                         <ul>
