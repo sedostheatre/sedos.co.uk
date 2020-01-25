@@ -10,17 +10,16 @@ header-image: assets/images/headers/SedosWebsite-Banner-redcurtain.jpg
     <div>
         @{
             var pastShows = Documents["AllShows"]
-                .Where(show => show.Get("showtimes", Enumerable.Empty<IDocument>()).Any())
                 .Where(show => show.Get("showtimes", Enumerable.Empty<IDocument>()).All(x => x.Get<DateTime>("time") < DateTime.Now))
-                .OrderBy(show => show.Get<IEnumerable<IDocument>>("showtimes").Select(x => x.Get<DateTime>("time")).OrderBy(x => x).First())
-                .GroupBy(show => show.Get<IEnumerable<IDocument>>("showtimes").Select(x => x.Get<DateTime>("time")).OrderBy(x => x).First().Year)
+                .OrderBy(show => show.Get("showtimes", Enumerable.Empty<IDocument>()).Select(x => x.Get<DateTime>("time")).OrderBy(x => x).FirstOrDefault())
+                .GroupBy(show => show.Get("year"))
                 .OrderByDescending(grouping => grouping.Key);
 
             foreach(var grouping in pastShows)
             {
                 <div class="banner">
                     <div class="container">
-                        <h1>@grouping.Key</h1>
+                        <h1 id="@grouping.Key">@grouping.Key</h1>
                     </div>
                 </div>
                 <div class="past-shows-section">
