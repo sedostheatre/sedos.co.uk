@@ -10,6 +10,7 @@
 
     @{
         var news = Documents["News"]
+            .OrderByDescending(article => article.Get<DateTime>("date"))
             .GroupBy(article => article.Get<DateTime>("date").Year)
             .OrderByDescending(grouping => grouping.Key);
 
