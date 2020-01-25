@@ -1,12 +1,22 @@
 @model IDocument
 
 <div class="col-md-3 col-sm-6 show-card-wrapper">
-    <a href="@Context.GetLink(Model)" class="show-card-link">
-        @{
-            var flyer = Model.Get("flyer") as IDocument;
-            var link = flyer == null ? "" : Context.GetLink(flyer);
-        }
-        <div class="show-card" style="background-image: url(@link)">
+
+    @{
+        var flyer = Model.Get("flyer") as IDocument;
+        var flyerImagelink = flyer == null ? "" : Context.GetLink(flyer);
+        var showLink = Context.GetLink(Model);
+    }
+    @if(Model.Get<bool>("has-body-content"))
+    {
+        <a href="@showLink" class="show-card-link">
+            <div class="show-card" style="background-image: url(@flyerImagelink)">
+            </div>
+        </a>
+    }
+    else
+    {
+        <div class="show-card" style="background-image: url(@flyerImagelink)">
         </div>
-    </a>
+    }
 </div>

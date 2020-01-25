@@ -38,6 +38,7 @@ Pipelines.Add("Venues",
 Pipelines.Add("AllShows",
     ReadFiles("shows/*.md"),
     FrontMatter(Yaml()),
+    Meta("has-body-content",  (doc, ctx) => !string.IsNullOrWhiteSpace(doc.Content)),
     Markdown()
         .UseExtension<Markdig.Extensions.Bootstrap.BootstrapExtension>()
         .UseExtensions(),
