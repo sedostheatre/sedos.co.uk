@@ -1,5 +1,6 @@
 ---
 title: "A Doll's House"
+year: '2018'
 subtitle: "Something something subtitle"
 showtimes:
   - time: '2018-01-23 19:30+0100'

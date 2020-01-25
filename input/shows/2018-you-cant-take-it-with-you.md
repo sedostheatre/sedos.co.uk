@@ -1,5 +1,6 @@
 ---
 title: "You Can't Take it With You"
+year: '2018'
 subtitle: "A biting comedy that celebrates non-conformity"
 authors: "By MOSS HART and GEORGE S. KAUFMAN"
 showtimes:

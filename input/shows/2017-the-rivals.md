@@ -1,5 +1,6 @@
 ---
 title: The Rivals
+year: '2017'
 subtitle: By Richard Brinsley Sheridan
 showtimes:
   - time: '2017-09-19 19:30+0100'

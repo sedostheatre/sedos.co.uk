@@ -1,5 +1,6 @@
 ---
 title: "Frankenstein"
+year: '2017'
 subtitle: ""
 showtimes:
   - time: '2017-10-27 19:45+0100'

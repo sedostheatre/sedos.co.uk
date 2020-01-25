@@ -1,5 +1,6 @@
 ---
 title: Dogfight
+year: '2018'
 authors: Benj Paske, Justin Paul and Peter Duchan
 subtitle: |
   A contemporary musical by the authors of Dear Evan Hansen

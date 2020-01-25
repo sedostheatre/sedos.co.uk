@@ -1,5 +1,6 @@
 ---
 title: Our Country's Good
+year: '2018'
 authors: Timberlake Wertenbaker
 subtitle: A modern classic exploring crime and punishment and the power of theatre
 showtimes:
@@ -39,7 +40,7 @@ And none will doubt but that our emigration
 
 Has prov’d most useful, to the British nation."
 
- 
+
 
 30 years on from its premiere at the Royal Court, Our Country's Good is a modern classic, exploring themes of crime, punishment and the unifying and civilising power of theatre.
 

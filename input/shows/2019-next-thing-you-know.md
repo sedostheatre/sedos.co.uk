@@ -1,6 +1,6 @@
 ---
 title: Next Thing You Know
-year: '20019'
+year: '2019'
 authors: Music by JOSHUA SALZMAN
 authors2: Lyrics by RYAN CUNNINGHAM
 subtitle: A musical about confronting adulthood in the city that never sleeps
