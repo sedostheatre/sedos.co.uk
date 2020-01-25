@@ -1,6 +1,18 @@
 ---
 title: The Musical Of Musicals (The Musical)
 year: '2020'
+authors: Music by ERIC ROCKWELL
+authors2: Lyrics by JOANNE BOGA
+authors3: Book by ERIC ROCKWELL and JOANNE BOGA
+showtimes:
+  - time: '2020-02-25 19:30+00:00'
+  - time: '2020-02-26 19:30+00:00'
+  - time: '2020-02-27 19:30+00:00'
+  - time: '2020-02-28 19:30+00:00'
+  - time: '2020-02-29 19:30+00:00'
+  - time: '2020-02-25 14:30+00:00'
+showtime-summary: 25-29 February 2020
+venue: Bridewell
 sections: []
 ---
 ## A COMIC VALENTINE TO MUSICAL THEATRE
