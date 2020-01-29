@@ -10,7 +10,7 @@ showtimes:
   - time: '2020-02-27 19:30+00:00'
   - time: '2020-02-28 19:30+00:00'
   - time: '2020-02-29 19:30+00:00'
-  - time: '2020-02-25 14:30+00:00'
+  - time: '2020-02-29 14:30+00:00'
 showtime-summary: 25-29 February 2020
 venue: Bridewell
 sections: []
