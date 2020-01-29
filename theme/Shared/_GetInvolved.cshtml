@@ -10,6 +10,25 @@
 
     <div class="banner">
         <div class="container">
+            <h1>Auditions, workshops and socials</h1>
+        </div>
+    </div>
+
+    <div class="events-section">
+        <div class="container">
+            <div class="row">
+            @{
+                foreach(var eventItem in Documents["UpcomingEvents"])
+                {
+                    Html.RenderPartial("Partials/_EventCard", @eventItem);
+                }
+            }
+            </div>
+        </div>
+    </div>
+
+    <div class="banner">
+        <div class="container">
             <h1>Regular events</h1>
         </div>
     </div>
@@ -34,25 +53,6 @@
                         </div>
                     }
                 </div>
-            </div>
-        </div>
-    </div>
-
-    <div class="banner">
-        <div class="container">
-            <h1>Auditions, workshops and socials</h1>
-        </div>
-    </div>
-
-    <div class="events-section">
-        <div class="container">
-            <div class="row">
-            @{
-                foreach(var eventItem in Documents["UpcomingEvents"])
-                {
-                    Html.RenderPartial("Partials/_EventCard", @eventItem);
-                }
-            }
             </div>
         </div>
     </div>
