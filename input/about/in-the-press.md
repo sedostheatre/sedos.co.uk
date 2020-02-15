@@ -24,6 +24,8 @@ image: assets/images/about/About-InThePress.jpg
 
 *Pippin*
 
+![](/assets/Pippin.jpg)
+
 “It’s 45 years since I saw *Pippin* in the West End, and while the themes are certainly still current, the style and the devices can feel a little dated. Chris Adams’ compelling production, especially at the end, cuts through the tricks and the whimsy to achieve a genuinely moving piece of drama.” [Pippin, 2018, Remote Goat](https://www.remotegoat.com/uk/review/13861/deliciously-dark-stephen-schwartz-revival/)
 
 “If ever a show was crying out for a large scale return to the West End, then Pippin is the one and, my advice is to all the members of Sedos, give up the day jobs and take it there.” [Pippin, 2018, London Theatre 1 (\*\*\*\**)](https://www.londontheatre1.com/reviews/review-pippin-returns-the-bridewell-theatre-london/)
@@ -40,9 +42,9 @@ image: assets/images/about/About-InThePress.jpg
 
 “I’ve seen a couple of productions from Sedos now and each one of them has really impressed me with the quality of the performances and attention to detail in the staging, and with You Can’t Take it With You, they have delivered another first-rate production.” [You Can’t Take it With You, 2018, lastminutetheatretickets.com](https://www.lastminutetheatretickets.com/londonwestend/review-you-cant-take-it-with-you-bridewell-theatre/)
 
-“Sedos has never been, and never will be, just another ‘amateur’ company! Their work stands out dramatically in so many ways. They achieve the highest possible standards on stage whilst nurturing the skills of their very talented team of players, directors, set and costume designers.” [You Can’t Take it With You, 2018, Infobarrel](http://www.infobarrel.com/You_Cant_Take_it_With\_You\_-_A_Sedos_Production)
+“Sedos has never been, and never will be, just another ‘amateur’ company! Their work stands out dramatically in so many ways. They achieve the highest possible standards on stage whilst nurturing the skills of their very talented team of players, directors, set and costume designers.” [You Can’t Take it With You, 2018, Infobarrel](http://www.infobarrel.com/You_Cant_Take_it_With_You_-_A_Sedos_Production)
 
-“Another outstanding performance! As in all comedies timing and teamwork are the vital ingredients and Sedos are experts at timing. They successfully maintain their American accents throughout and their attention to detail, particularly to costumes and set design, is excellent.” [You Can’t Take it With You, 2018, Infobarrel](http://www.infobarrel.com/You_Cant_Take_it_With\_You\_-_A_Sedos_Production)
+“Another outstanding performance! As in all comedies timing and teamwork are the vital ingredients and Sedos are experts at timing. They successfully maintain their American accents throughout and their attention to detail, particularly to costumes and set design, is excellent.” [You Can’t Take it With You, 2018, Infobarrel](http://www.infobarrel.com/You_Cant_Take_it_With_You_-_A_Sedos_Production)
 
 “What a pleasurable and delightful play this is. I could go on at length about certain aspects in this production of You Can’t Take It With You that don’t make a lot of sense, but rather like The Addams Family, the eccentricities are what make the characters in this bizarre and chaotic – but nonetheless hilarious- so compelling and unique.” [You Can’t Take it With You, 2018, Londontheatre1](https://www.londontheatre1.com/reviews/review-you-cant-take-it-with-you-bridewell-theatre/)
 
