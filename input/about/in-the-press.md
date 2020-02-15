@@ -6,6 +6,14 @@ image: assets/images/about/About-InThePress.jpg
 ---
 ## Sedos in the press
 
+**2019**
+
+*Baal*
+
+*"*I can think of few amateur companies who would, or could, take on the challenge of Brecht’s first play but ever-versatile, adventurous Sedos have staged it with confidence, verve and a lot of talent.” [Baal, 2019, Sardines](http://www.sardinesmagazine.co.uk/reviews/review.php?REVIEW-Sedos-Baal-&reviewsID=3458)
+
+
+
 **2018** 
 
 *Urinetown* 
