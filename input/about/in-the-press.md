@@ -22,9 +22,11 @@ image: assets/images/about/About-InThePress.jpg
 
 “Sedos never cease to amaze with their production values, creating polished shows that you forget are by an amateur company. For NTYK, the theatre is transformed into Sullivan Street Tavern in New York. Mingling at the bar with the regulars until last orders is rung to get the audience into their seats, the ambience is brilliant, and the set design team deserve at least 10 stars for their authentic and detailed realisation of a bar that is instantly recognisable to anyone who watches New York set TV shows. The staging is wonderfully thought out and director Dan Saunders has created a special atmosphere.” [Next Thing You Know, 2019, Fairy Powered Productions](http://fairypoweredproductions.com/next-thing-you-know-review/)
 
-After the Dance
+*After the Dance*
 
-“
+“Overall, this is an entertaining and thought-provoking revival that does justice to Rattigan’s neglected work.” [After the Dance, 2019, Sardines](http://www.sardinesmagazine.co.uk/reviews/review.php?REVIEW-Sedos-After%20the%20Dance&reviewsID=3542)
+
+“The production, typical of Sedos, is more professional than their amateur dramatics moniker might imply, and is certainly one to consider if you’re a nearby City worker keen to take in some fringe theatre that certainly punches above its weight.” [After the Dance, 2019, Everything Theatre](http://everything-theatre.co.uk/2019/04/after-the-dance-review.html)
 
 How to Succeed in Business Without Really Trying
 
