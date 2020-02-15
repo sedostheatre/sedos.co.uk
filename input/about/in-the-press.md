@@ -10,7 +10,33 @@ image: assets/images/about/About-InThePress.jpg
 
 *Baal*
 
-*"*I can think of few amateur companies who would, or could, take on the challenge of Brecht’s first play but ever-versatile, adventurous Sedos have staged it with confidence, verve and a lot of talent.” [Baal, 2019, Sardines](http://www.sardinesmagazine.co.uk/reviews/review.php?REVIEW-Sedos-Baal-&reviewsID=3458)
+“I can think of few amateur companies who would, or could, take on the challenge of Brecht’s first play but ever-versatile, adventurous Sedos have staged it with confidence, verve and a lot of talent.” [Baal, 2019, Sardines](http://www.sardinesmagazine.co.uk/reviews/review.php?REVIEW-Sedos-Baal-&reviewsID=3458)
+
+*Next Thing You Know*
+
+“Sedos have a reputation for delivering West End quality in every production, and it certainly shows here. The work that has gone into the show is visible in every second, from the slick set changes, to the choreography, to the songs, Sedos pull out all the stops to present a fantastically designed, well performed evening’s entertainment with a few kooky interactive elements thrown in.” [Next Thing You Know, 2019, Everything Theatre](http://everything-theatre.co.uk/2019/03/next-thing-you-know-the-bridewell-theatre-review.html)
+
+After the Dance
+
+“
+
+How to Succeed in Business Without Really Trying
+
+
+
+Soho Cinders
+
+
+
+Arms and the Man 
+
+
+
+Dangerous Liaisons
+
+
+
+Ragtime
 
 
 
