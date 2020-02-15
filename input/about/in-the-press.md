@@ -44,7 +44,7 @@ image: assets/images/about/About-InThePress.jpg
 
 [](https://www.londontheatre1.com/reviews/musical/stiles-drewes-soho-cinders-at-the-bridewell-theatre/)*Arms and the Man* 
 
-
+“Produced by the technically amateur Sedos theatre company this is another production from them which deserves a transfer to the West End. It’s a smart, witty and thoughtful play, beautifully acted and staged.” [Arms and the Man, 2019, Comedy To Watch (\*\*\*\*)](https://comedytowatch.com/2019/09/18/live-review-arms-and-the-man/)
 
 Dangerous Liaisons
 
