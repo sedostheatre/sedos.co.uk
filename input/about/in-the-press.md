@@ -18,7 +18,7 @@ image: assets/images/about/About-InThePress.jpg
 
 “An impressive set, a solid cast and imaginative immersive theatre made for a fun night out.” [Next Thing You Know, 2019, Musical Theatre Musings](http://musicaltheatremusings.co.uk/next-thing-you-know)
 
-“Interspersed with song and with a very cleverly designed set that allowed the bar to also be an office and a bedroom with very little changeover or delay, the production was as close to top quality as I’ve seen in a while. Mix this up with the skilled acting and comfortable immersive experience and I would confidently recommend Next Thing You Know. A very enjoyable evening’s entertainment indeed.” [Next Thing You Know, 2019, London Theatre 1](https://www.londontheatre1.com/reviews/play/next-thing-you-know-at-the-bridewell-theatre-review/)
+“Interspersed with song and with a very cleverly designed set that allowed the bar to also be an office and a bedroom with very little changeover or delay, the production was as close to top quality as I’ve seen in a while. Mix this up with the skilled acting and comfortable immersive experience and I would confidently recommend Next Thing You Know. A very enjoyable evening’s entertainment indeed.” [Next Thing You Know, 2019, London Theatre 1 (\*\*\*\*)](https://www.londontheatre1.com/reviews/play/next-thing-you-know-at-the-bridewell-theatre-review/)
 
 “Sedos never cease to amaze with their production values, creating polished shows that you forget are by an amateur company. For NTYK, the theatre is transformed into Sullivan Street Tavern in New York. Mingling at the bar with the regulars until last orders is rung to get the audience into their seats, the ambience is brilliant, and the set design team deserve at least 10 stars for their authentic and detailed realisation of a bar that is instantly recognisable to anyone who watches New York set TV shows. The staging is wonderfully thought out and director Dan Saunders has created a special atmosphere.” [Next Thing You Know, 2019, Fairy Powered Productions](http://fairypoweredproductions.com/next-thing-you-know-review/)
 
@@ -28,9 +28,9 @@ image: assets/images/about/About-InThePress.jpg
 
 “The production, typical of Sedos, is more professional than their amateur dramatics moniker might imply, and is certainly one to consider if you’re a nearby City worker keen to take in some fringe theatre that certainly punches above its weight.” [After the Dance, 2019, Everything Theatre](http://everything-theatre.co.uk/2019/04/after-the-dance-review.html)
 
-How to Succeed in Business Without Really Trying
+*How to Succeed in Business Without Really Trying*
 
-
+“Quite simply, the show is wonderful and should serve as a shining beacon throughout across the entire non-professional sector. Whether you see the same show produced at at the Union Theatre, Young Vic, Charing Cross Theatre, Jermyn Street Theatre or any other professional off-West End/Fringe venue, it will not get any better than this. Amateur groups around the capital pay attention; this is how to put on a musical! This fifty-eight-year-old show (which also played the West End in 1963) makes a fitting return to London and is probably as close to earning a ‘professional’ tag as you can get.” [How to Succeed in Business Without Really Trying, 2019, Sardines (\*\*\*\**)](http://www.sardinesmagazine.co.uk/reviews/review.php?REVIEW-Sedos-How%20To%20Succeed%20In%20Business%20Without%20Really%20Trying&reviewsID=3578)
 
 Soho Cinders
 
