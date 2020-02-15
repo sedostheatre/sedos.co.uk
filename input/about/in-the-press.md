@@ -38,11 +38,11 @@ image: assets/images/about/About-InThePress.jpg
 
 “Once again, Sedos have a hit on their hands. The level of this show is something that you would expect from a London production. The fact that the cast is made up of amateurs that all have separate day jobs makes it even more impressive.” [How to Succeed in Business Without Really Trying, 2019,London Theatre Reviews](http://www.londontheatrereviews.co.uk/post.cfm?p=1271)
 
-Soho Cinders
+*Soho Cinders*
 
+“A hearty and sincere production, it’s a more complex story than the traditional fairy-tale from which it is adapted, but it’s a lively and engaging one at that.” [Soho Cinders, 2019, London Theatre 1](https://www.londontheatre1.com/reviews/musical/stiles-drewes-soho-cinders-at-the-bridewell-theatre/)
 
-
-Arms and the Man 
+[](https://www.londontheatre1.com/reviews/musical/stiles-drewes-soho-cinders-at-the-bridewell-theatre/)*Arms and the Man* 
 
 
 
