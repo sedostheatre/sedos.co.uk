@@ -88,6 +88,8 @@ image: assets/images/about/About-InThePress.jpg
 
 *Frankenstein* 
 
+![](/assets/37705654016_cc1e30c08f_o.jpg)
+
 “Watching \[Jonathon] Cooper’s character progression and journey throughout the whole show was, I felt, a master class in acting.” [Frankenstein, 2017, Sardines](http://www.sardinesmagazine.co.uk/reviews/review.php?REVIEW-Sedos-Frankenstein&reviewsID=3004)
 
 “What is immediately apparent is that the ‘stars’ of this show are the designers.” [Frankenstein, 2017, London Theatre 1](https://www.londontheatre1.com/reviews/review-frankenstein-bridewell-theatre/)
@@ -107,6 +109,8 @@ image: assets/images/about/About-InThePress.jpg
 “Sedos have once again achieved an end result to be proud of, a truthful, funny musical bursting with talent.” [I Love You, You’re Perfect, Now Change, 2016, Musical Theatre Musings](http://musicaltheatremusings.co.uk/love-you)
 
 *Such Stuff As Dreams Are Made On*
+
+![](/assets/26633088111_fc5b4efc4a_o.jpg)
 
 “I would give the show as many stars as possible and think everyone in London should see this show… I encourage, urge and plead with you to go, because I guarantee you will not have seen anything like this before. Whoever is in charge of awards that the folks at Sedos would be eligible for, book your ticket now!” [Such Stuff As Dreams Are Made On, 2016, A Younger Theatre](https://www.ayoungertheatre.com/review-such-stuff-as-dreams-are-made-on-caplan-house/)
 
