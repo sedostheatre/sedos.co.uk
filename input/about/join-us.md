@@ -51,6 +51,6 @@ For those not wishing to join Sedos as a member straight away, why not sign up f
 
 Plus, don’t forget to follow us on social media:
 
-* [facebook.com/sedostheatre](facebook.com/sedostheatre)
-* [twitter.com/sedos](twitter.com/sedos)
-* [instagram.com/sedoslondon](instagram.com/sedoslondon)
+* [facebook.com/sedostheatre](https://www.facebook.com/sedostheatre/)
+* [twitter.com/sedos](https://twitter.com/sedos)
+* [instagram.com/sedoslondon](https://www.instagram.com/sedoslondon/)
