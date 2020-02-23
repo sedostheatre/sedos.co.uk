@@ -12,7 +12,7 @@ Sedos is an amateur company, but we strive for professional standards in both pe
 
 ## A Potted History
 
-The senior members of the stock exchange who founded Sedos in 1905 were led by Charles Dickinson and Cyril Bathurst who formed the Dramatic and Operatic Society. Their principal aims were twofold:
+The senior members of the stock exchange who founded Sedos in 1905 were led by Charles Dickinson and Cyril Bathurst. Their principal aims were twofold:
 
 * To take advantage of the great variety of stage talent they saw scattered around the house, and:
 * To use what was no doubt an actual extension of the virtuoso talent employed by the members on the trading floor at the time to raise funds for charity.
@@ -23,6 +23,6 @@ With the exception of brief intermissions during the two World Wars, since then 
 
 Some of the better-known names who performed for the society in the early stage of their careers include [Dame Anna Neagle](http://en.wikipedia.org/wiki/Anna_Neagle) (who danced in the chorus as Marjorie Robertson), [Franklin Engelmann](http://en.wikipedia.org/wiki/Franklin_Engelmann) of post war BBC fame, [Patricia Roc](http://en.wikipedia.org/wiki/Patricia_Roc), [Guy Middleton](http://en.wikipedia.org/wiki/Guy_Middleton) and [Rosalie Crutchley](http://en.wikipedia.org/wiki/Rosalie_Crutchley).
 
-More recently television luminaries such as [Nicholas Parsons](http://www.nicholasparsons.co.uk/) and [Faye Barker](http://en.wikipedia.org/wiki/Faye_Barker) have made guest appearances. The Society has always aimed at the highest standards of production and is proud to rank itself among the top amateur societies in Great Britain.
+More recently television luminaries such as [Nicholas Parsons](https://en.wikipedia.org/wiki/Nicholas_Parsons) and [Faye Barker](http://en.wikipedia.org/wiki/Faye_Barker) have made guest appearances. The Society has always aimed at the highest standards of production and is proud to rank itself among the top amateur societies in Great Britain.
 
 **If you want to find out more about Sedos, please email** [membership@sedos.co.uk](membership@sedos.co.uk) **for more details, and our membership secretary will be happy to get back to you!**
