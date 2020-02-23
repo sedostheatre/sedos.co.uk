@@ -12,15 +12,13 @@ Absolutely! We welcome people of all levels, ages and experience.
 
 **How do I find out about auditions?**
 
-For those not wishing to join Sedos as a member straight away, why not sign up for our weekly newsletter so that you will receive all the latest news from Sedos, including the latest auditions.
-
-To sign up for our newsletter CLICK HERE then fill in your email address in the newsletter field - don't forget to hit the submit button. 
+For those not wishing to join Sedos as a member straight away, why not sign up for our weekly newsletter so that you will receive all the latest news from Sedos, including the latest auditions?
 
 Plus, don’t forget to follow us on social media:
 
-* [facebook.com/sedostheatre](facebook.com/sedostheatre)
-* [twitter.com/sedos](twitter.com/sedos)
-* [instagram.com/sedoslondon](instagram.com/sedoslondon)
+* [facebook.com/sedostheatre](https://www.facebook.com/sedostheatre/)
+* [twitter.com/sedos](https://twitter.com/sedos)
+* [instagram.com/sedoslondon](https://www.instagram.com/sedoslondon/)
 
 You can also check out the latest audition news online.
 
@@ -36,7 +34,7 @@ See below for benefits of membership.
 
 **How much does it cost to audition for a Sedos show?**
 
-Sedos members are entitled to audition for all Sedos shows for free. Please note, if you are not a member you will be required to pay a fee of £5 to audition. (Note, this is not refundable if you are cast in the show.)
+Sedos members are entitled to audition for all Sedos shows for free. If you are not a member you will be required to pay a non-refundable fee of £5 to audition. 
 
 **How much does it cost to be in a Sedos show?**
 
@@ -44,7 +42,7 @@ You must be a member of Sedos to perform in a show. Membership fees are £30 a y
 
 For more information or to join email membership@sedos.co.uk.
 
-You must also pay a participation fee. Participation fees are £30 for a play or one week musical; £40 for a two week musical.
+You must also pay a participation fee. Participation fees are £30 for a play or one-week musical; £40 for a two week-musical.
 
 **What ability / experience is needed?**
 
@@ -52,7 +50,7 @@ This depends on the role. For the chorus / ensemble, you must be able to sing in
 
 **What will be in the audition?**
 
-This will depend entirely on the show and the production team and will be detailed in the audition notice, but will probably not vary much from this:
+This will depend entirely on the show and the production team and will be detailed in the audition notice, but will probably be along these lines:
 
 MUSICALS: You will be sent material to prepare in advance for both dialogue and singing, or you may be asked to prepare a song of your own choice in the style of the musical. There may also be a dance section where you learn a routine. Recalls may take a workshop format interacting with other potential cast members or may be done individually.
 
@@ -64,17 +62,12 @@ We will send you all the information you need when you register to audition. The
 
 **Members' benefits**
 
-Reduced ticket prices on all Sedos shows
+* Reduced ticket prices on all Sedos shows
+* Reduced rate for Sedance
+* No fees to audition for shows
+* Members' events
 
-Reduced rate for Sedance
-
-Free attendance at Sechoir
-
-No fees to audition for shows
-
-Members' events
-
-In addition, members have the right to stand for election to the Committee and to vote at General Meetings.
+In addition, members have the right to stand for election to the trustees and management committee and to vote at General Meetings.
 
 These benefits apply to the named member only. For the avoidance of doubt they are non-transferable, therefore, a member participating in a production may not use their discount to purchase tickets for friends or family.
 
@@ -90,11 +83,11 @@ We prefer a short but intensive rehearsal period of about 8-10 weeks.
 
 **When are rehearsals held?**
 
-Weekday rehearsals (generally two per week, but not everyone is called to all rehearsals) are usually 6.30-9.30pm. They may be Mon+Wed, or Tues+Thurs, depending on the production team's availability. Weekend rehearsals are generally held on a Saturday or Sunday from 10.30am/1pm to 2/5pm. Again, not everyone may be called to all rehearsals or to the whole rehearsal. Rehearsals are scheduled as far as possible around people's availability.
+Weekday rehearsals (generally two per week, but not everyone is called to all rehearsals) are usually 6.30/7-9.30/10pm. Weekend rehearsals are generally held on a Saturday or Sunday from 10.30am/1pm to 2/5pm. Again, not everyone may be called to all rehearsals or to the whole rehearsal. Rehearsals are scheduled as far as possible around people's availability.
 
 **Where are rehearsals held?**
 
-Most of our rehearsals take place at 1 Brewers' Hall Garden (BHG), London EC2V 5DX. on the rare occasions when our rehearsals can't be held at BHG, we try to find free/cheap rehearsal space within easy reach of central London.
+Most of our rehearsals take place at 1 Brewers' Hall Garden (BHG), London EC2V 5DX. On the rare occasions when our rehearsals can't be held at BHG, we try to find free/cheap rehearsal space within easy reach of central London.
 
 **Where do performances take place?**
 
@@ -108,10 +101,10 @@ Either a one- or two-week production period is usual. Plays are generally one-we
 
 **Who are in the audience?**
 
-All the friends, family and colleagues that you have sold tickets to! Yes, we do rely on a level of ticket sales from the cast to cover our expenses. However, there are also long-term enthusiastic supporters of Sedos and past performers that come regularly to our shows, there is some interest from talent-spotting agents, and there are even a few general members of the public that have seen our publicity, picked up a flier, or were just passing by (we know about them because they ask to join our mailing list afterwards).
+All the friends, family and colleagues that you have sold tickets to! Yes, we do rely on a level of ticket sales from the cast to cover our expenses. However, there are also long-term enthusiastic supporters of Sedos and past performers that come regularly to our shows, there is some interest from talent-spotting agents, and there are even a few general members of the public that have seen our publicity, picked up a flyer, or were just passing by (we know about them because they ask to join our mailing list afterwards).
 
 **Are the cast required to help with the get-in and get-out?**
 
 All cast, production teams and crew are required to help with the get-out. The cast are sometimes asked to help with the get-in, but not always. Production teams and crew are required to help with the get-in. 
 
-If you want to find out more about Sedos, please email membership@sedos.co.uk for more details, and our membership secretary will be happy to get back to you!
+If you want to find out more about Sedos, please email membership@sedos.co.uk for more details, and our membership secretary will be happy to get back to you.
