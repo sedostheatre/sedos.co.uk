@@ -22,7 +22,7 @@ Our production teams are also Sedos members as are most of our backstage crews.
 
 **Socials**
 
-“They come for the shows, they stay for the socials!” We put together regular and varied social events for our members, with cultured nights out at the theatre, regular play-readings and less cultured wine-fuelled Pub quizzes and Karaoke nights.
+We put together regular and varied social events for our members, from play-readings to pub quizzes and karaoke nights.
 
 **Workshops**
 
@@ -48,8 +48,6 @@ For more information about joining email membership@sedos.co.uk.
 Please note, if you are not already a Sedos member and you are cast in a show you must become a Sedos member at or before the first rehearsal of a production. You must be a member of Sedos for the entire rehearsal period and performance dates.
 
 For those not wishing to join Sedos as a member straight away, why not sign up for our weekly newsletter so that you will receive all the latest news from Sedos, including the latest auditions.
-
-To sign up for our newsletter CLICK HERE then fill in your email address in the newsletter field - don't forget to hit the submit button. 
 
 Plus, don’t forget to follow us on social media:
 
