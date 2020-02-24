@@ -3,6 +3,10 @@ title: 'Working: a musical'
 year: '2020'
 authors: Adapted by NINA FASO and STEPHEN SCHWARTZ
 authors2: With additional contributions by GORDON GREENBERG
+showtimes:
+  - time: '2020-05-12 19:30+01:00'
+  - time: '2020-05-13 04:07+01:00'
+venue: Bridewell Theatre
 flyer: /assets/Working Poster Final Proof-800.png
 sections: []
 ---
