@@ -14,31 +14,31 @@ sections:
 
       **CAST**
 
-      **OPHELIA**| Natalie Harding-Moore\
-      **MAID**| Miranda Evans\
-      **QUEEN**| Danielle Capretti\
-      **ROSENCRANTZ**| Sarah Berryman\
-      **GUILDENSTERN**| Jamila Jennings-Grant\
-      **ST JOAN/WOMAN 3**| Connie Cha\
+      **OPHELIA** | Natalie Harding-Moore\
+      **MAID** | Miranda Evans\
+      **QUEEN** | Danielle Capretti\
+      **ROSENCRANTZ** | Sarah Berryman\
+      **GUILDENSTERN** | Jamila Jennings-Grant\
+      **ST JOAN/WOMAN 3** | Connie Cha\
       **OPHELIA’S MOTHER / QUEEN’S MAID**| Aileen Ryan\
       **WOMAN 2 / QUEEN’S MAID**| Marnie Gore\
-      **HAMLET**| Josh Beckman\
-      **HORATIO**| Rhydian Harris\
-      **POLONIUS**| David Pearson\
-      **LAERTES**| Adam Lowe\
-      **PLAYER 1**| Emily Bates\
-      **PLAYER 2**| Roz Brierley\
+      **HAMLET** | Josh Beckman\
+      **HORATIO**|  Rhydian Harris\
+      **POLONIUS** | David Pearson\
+      **LAERTES** | Lewis McKenzie\
+      **PLAYER 1**|  Emily Bates\
+      **PLAYER 2**|  Roz Brierley\
       **PLAYER 3 / WOMAN 1**| Mackenzie Sumner\
-      **PLAYER 4**| Stephen Cole
+      **PLAYER 4** | Stephen Cole
 
       \
       **CREATIVE TEAM**
 
-      **DIRECTOR**| Matt Bentley\
-      **ASSISTANT DIRECTOR**| Maria Jones\
-      **PRODUCER**| Olly Levett\
-      **DESIGNER**| Yvette Henderson\
-      **LIGHTING DESIGN**| Adam Coppard
+      **DIRECTOR** | Matt Bentley\
+      **ASSISTANT DIRECTOR** | Maria Jones\
+      **PRODUCER** | Olly Levett\
+      **DESIGNER** | Yvette Henderson\
+      **LIGHTING DESIGN** | Adam Coppard
 
       <!--EndFragment-->
     order: 1
