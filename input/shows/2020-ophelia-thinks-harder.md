@@ -3,6 +3,7 @@ title: Ophelia Thinks Harder
 year: '2020'
 authors: by JEAN BETTS
 authors2: and WILLIAM SHAKESPEARE
+authors3: 31 March-4 April 2020
 showtimes:
   - time: '2020-03-31 22:21+01:00'
 venue: Bridewell Theatre
