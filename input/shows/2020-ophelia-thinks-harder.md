@@ -1,7 +1,45 @@
 ---
 title: Ophelia Thinks Harder
 year: '2020'
-sections: []
+authors: by JEAN BETTS
+authors2: and WILLIAM SHAKESPEARE
+venue: Bridewell Theatre
+flyer: /assets/Ophelia-image-360.jpg
+sections:
+  - body: |-
+      <!--StartFragment-->
+
+      **CAST**
+
+      **OPHELIA**| Natalie Harding-Moore\
+      **MAID**| Miranda Evans\
+      **QUEEN**| Danielle Capretti\
+      **ROSENCRANTZ**| Sarah Berryman\
+      **GUILDENSTERN**| Jamila Jennings-Grant\
+      **ST JOAN/WOMAN 3**| Connie Cha\
+      **OPHELIA’S MOTHER / QUEEN’S MAID**| Aileen Ryan\
+      **WOMAN 2 / QUEEN’S MAID**| Marnie Gore\
+      **HAMLET**| Josh Beckman\
+      **HORATIO**| Rhydian Harris\
+      **POLONIUS**| David Pearson\
+      **LAERTES**| Adam Lowe\
+      **PLAYER 1**| Emily Bates\
+      **PLAYER 2**| Roz Brierley\
+      **PLAYER 3 / WOMAN 1**| Mackenzie Sumner\
+      **PLAYER 4**| Stephen Cole
+
+      \
+      **CREATIVE TEAM**
+
+      **DIRECTOR**| Matt Bentley\
+      **ASSISTANT DIRECTOR**| Maria Jones\
+      **PRODUCER**| Olly Levett\
+      **DESIGNER**| Yvette Henderson\
+      **LIGHTING DESIGN**| Adam Coppard
+
+      <!--EndFragment-->
+    order: 1
+    title: CAST & CREATIVE TEAM
 ---
 <!--StartFragment-->
 
