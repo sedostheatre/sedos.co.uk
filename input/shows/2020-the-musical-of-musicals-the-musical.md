@@ -13,6 +13,7 @@ showtimes:
   - time: '2020-02-29 14:30+00:00'
 showtime-summary: 25-29 February 2020
 venue: Bridewell
+header-image: /assets/CMT-Musical-of-Musicals-1300x740-419b1a4bec.jpg
 flyer: /assets/Musicals-A5-flyer-FRONT-800.jpg
 sections:
   - body: |-
@@ -44,6 +45,16 @@ sections:
       <!--EndFragment-->
     order: 1
     title: CAST & CREATIVE TEAM
+  - body: >-
+      <a data-flickr-embed="true"
+      href="https://www.flickr.com/photos/sedos/albums/72157713052722446"
+      title="The Musical Of Musicals (The Musical) - 2020"><img
+      src="https://live.staticflickr.com/65535/49552185823_c1c04ff7a4_z.jpg"
+      width="640" height="427" alt="The Musical Of Musicals (The Musical) -
+      2020"></a><script async src="//embedr.flickr.com/assets/client-code.js"
+      charset="utf-8"></script>
+    order: 1
+    title: GALLERY
 ---
 ## A COMIC VALENTINE TO MUSICAL THEATRE
 
