@@ -1,5 +1,5 @@
 ---
-title: AFTER THE DANCE
+title: After the Dance
 year: '2019'
 authors: 'by TERRENCE RATTIGAN '
 subtitle: >-
@@ -27,76 +27,75 @@ primary-color: '#ff6801'
 header-image: /assets/afterthedance-event.jpg
 flyer: /assets/after-the-dance-flyer-800.jpg
 sections:
-  - title: creatives
-    body: >-
+  - body: |-
       **DIRECTOR** | Jon Foster
-
 
       **ASSISTANT DIRECTOR** | Chloe Baker
 
-
       **CO-PRODUCERS** | Fatima Ifthikar and Lloyd Smith
-
 
       **STAGE MANAGER** | Freddie Byron
 
-
       **SET DESIGN** | Peter Foster
-
 
       **COSTUME DESIGN** | Natalie Walker
 
-
       **LIGHTING** | Will Carne
-
 
       **ASSISTANT STAGE MANAGER** | Erynn Blansjaar
 
-
       **MARKETING COORDINATOR** | Ben Stroud
 
-
       **COMMITTEE LIASON** | Tim Garrad
-  - title: cast
-    body: >-
+    order: 1
+    title: creatives
+  - body: |-
       **JOAN** | Liz Flint
-
 
       **DAVID** | Dom Ward
 
-
       **JOHN** | Chris de Pury
-
 
       **PETER** | James Cross
 
-
       **HELEN** | Hannah Brooks
-
 
       **WILLIAMS** | Will Howells
 
-
       **GEORGE** | Josh Mallalieh
-
 
       **JULIA** | Sarah Beebe
 
-
       **CYRIL** | Ben Stroud
-
 
       **MOYA** | Sophie King
 
-
       **LAWRENCE** | Ollie Milner
-
 
       **ARTHUR** | David Pearson
 
-
       **MISS POTTER** | Mariam Rasekh
+    order: 2
+    title: CAST
+  - body: >-
+      <!--StartFragment-->
 
+
+      “Overall, this is an entertaining and thought-provoking revival that does
+      justice to Rattigan’s neglected work.”[After the Dance, 2019,
+      Sardines](http://www.sardinesmagazine.co.uk/reviews/review.php?REVIEW-Sedos-After%20the%20Dance&reviewsID=3542)
+
+
+      “The production, typical of Sedos, is more professional than their amateur
+      dramatics moniker might imply, and is certainly one to consider if you’re
+      a nearby City worker keen to take in some fringe theatre that certainly
+      punches above its weight.”[After the Dance, 2019, Everything
+      Theatre](http://everything-theatre.co.uk/2019/04/after-the-dance-review.html)
+
+
+      <!--EndFragment-->
+    order: 3
+    title: REVIEWS
 ---
 **“It’s the bright young things over again, only they were never bright and now they’re not even young”**
 
