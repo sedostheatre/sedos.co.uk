@@ -52,6 +52,91 @@ sections:
       <!--EndFragment-->
     order: 1
     title: CAST & CREATIVE TEAM
+  - body: >-
+      <a data-flickr-embed="true"
+      href="https://www.flickr.com/photos/sedos/albums/72157708791677932"
+      title="A Swell Party - 2019"><img
+      src="https://live.staticflickr.com/65535/48114195786_a067647aef_z.jpg"
+      width="640" height="427" alt="A Swell Party - 2019"></a><script async
+      src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+    order: 2
+    title: GALLERY
+  - body: >-
+      #### **A Swell Party – Review SEDOS**
+
+      ***reviewed by Jenni Balow***
+
+
+      What a swell party that was! With gorgeous girls, simply oodles of
+      champagne, and even lovelier boys, who could want for anything more.
+
+
+      Cole Porter was in a class of his own, writing both the words and the
+      music to more than 800 cleverly original songs during the Thirties and
+      Forties, throwing lavish parties around the world, and not giving a damn
+      over his sexual preference for men, even if it was illegal at the time.
+
+
+      But what is fascinating, and I didn’t know it before watching this
+      celebration of his life and work, was the tragedy of a riding accident
+      that happened at the height of his fame. His legs were crushed when his
+      horse fell and rolled on him, but despite the pain and many operations
+      before a final amputation, he still worked.
+
+
+      And his best Broadway hits, *Kiss Me Kate*, and *High Society*, which
+      starred Bing Crosby, Grace Kelly and Frank Sinatra, were the result.
+
+
+      Porter was born wealthy, an American man of impeccable taste, who was sent
+      to Harvard to study Law, but preferred Music.
+
+
+      This production, a Minack debut for SEDOS which usually performs just off
+      Fleet Street, classily directed by Roger Harwood and Dawn
+      Harrison-Wallace, dances us through his amazing, sometimes outrageous,
+      ultimately poignant life story, on a triumph of an Art Deco set designed
+      by Steven King.
+
+
+      At its heart, two grand pianos stand on stylish black and white patterned
+      floor roundels, complemented by a heavy red leather chesterfield sofa,
+      period screens, sideboard and trolleys set with crystal decanters and a
+      never-ending supply of dry martini.
+
+
+      And of course, a ‘roomful’ of beautiful people, the immaculately coiffured
+      scarlet-lipsticked women wearing diamonds and dresses to die for, the men
+      equally fine in tuxedos and bow ties.
+
+
+      What is stunning, is the way they move into natural groups, standing at a
+      balustrade to gaze out to sea, and gathering around the pianos to sing,
+      all looking as though they were to this manner born.
+
+
+      This is glamour with bucketfuls of fizz, and a feeling of extravagant
+      luxury washes over us as the SEDOS singers seemingly effortlessly swing
+      through around 50 famous numbers with on-stage pianists, musical director
+      Matt Gould and Ryan Macaulay, the brilliant Annette Brown tooting and
+      drumming, and the Minack’s executive director Zoe Curnow having her own
+      party on double bass.
+
+
+      Matt and Ryan are a delightful duo, tap dancing too, with narration by the
+      ultra smooth James Franey as Cole, joined by Liz Flint as his wife Linda
+      in shimmering emerald silk, backed by Stephen Beeney, Susan Booth, Rachel
+      Elfassy-Bitoun, Will Garood, Deborah Lean, Yvette Shiel and Alex Yelland.
+
+
+      Producer Lizzie Levett, choreographer Jane Saunders, sound and lighting
+      Adam Coppard and Olly Levett, and stage manager Andrew Laidlaw and team
+      make it all so believable.
+
+
+      When’s the next party?
+    order: 3
+    title: REVIEW
 ---
 <!--StartFragment-->
 
