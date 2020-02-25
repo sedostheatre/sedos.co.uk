@@ -13,7 +13,7 @@ showtimes:
   - time: '2020-02-29 14:30+00:00'
 showtime-summary: 25-29 February 2020
 venue: Bridewell
-header-image: /assets/CMT-Musical-of-Musicals-1300x740-419b1a4bec.jpg
+header-image: /assets/SedosWebsite-Banner-sechoir.jpg
 flyer: /assets/Musicals-A5-flyer-FRONT-800.jpg
 sections:
   - body: |-
