@@ -1,18 +1,126 @@
 ---
 title: Soho Cinders
 year: '2019'
+authors: Music by George Stiles | Lyrics by Anthony Drewe
+authors2: Book by Anthony Drewe and Elliot Davies
+subtitle: Midnight is just the start
 showtimes:
   - time: '2019-07-10 19:30+01:00'
   - time: '2019-07-11 19:30+01:00'
   - time: '2019-07-12 19:30+01:00'
   - time: '2019-07-13 19:30+01:00'
   - time: '2019-07-13 14:30+01:00'
-venue: The Bridewell
+showtime-summary: 10-13 July 2019
+venue: Bridewell theatre
+header-image: /assets/SohoCindersCast-360.jpg
+flyer: /assets/SohoCindersFlyerFront-800.jpg
+sections:
+  - body: >-
+      <!--StartFragment-->
+
+
+      **CAST**
+
+
+
+
+      **ROBBIE**| Alex Stephenson\
+
+      **VELCRO**| Kat Knight\
+
+      **CLODAGH**| Maria Waters\
+
+      **DANA**| Michelle Bock\
+
+      **JAMES PRINCE**| Jacob Botha\
+
+      **MARILYN PLATT**| Caroline Hart\
+
+      **WILLIAM GEORGE**| Paul Matania\
+
+      **LORD BELLINGHAM**| David Pearson\
+
+      **SIDESADDLE**| Bex Evans\
+
+      **SASHA LARKIN**| Deborah Lean
+
+
+      **ENSEMBLE**
+
+
+
+
+      Sarah Berryman\
+
+      Ed Curry\
+
+      Tim Garrad\
+
+      Morgane Lafrance\
+
+      Alexander McKinven\
+
+      George Mignano\
+
+      Tess Robinson\
+
+      Dan Saunders\
+
+      Mark Siddall\
+
+      Caroline Scott\
+
+      Vaughan Watts
+
+
+      **\
+
+      CREATIVE TEAM**
+
+
+      \
+
+      **DIRECTOR**| Angus Jacobs\
+
+      **MUSICAL DIRECTOR and PRODUCER**| Ryan Macaulay\
+
+      **ASSOCIATE CHOREOGRAPHERS**| Gayle Bryans, Eloise Menezes and Vaughan
+      Watts\
+
+      **SET DESIGN**| Andrew Laidlaw\
+
+      **LIGHTING DESIGN**| Olly Levett\
+
+      **SOUND DESIGN**| Adam Coppard\
+
+      **COSTUME DESIGN**| Angus Jacobs and Becs Crighton\
+
+      **MARKETING**| Pippa Kyle\
+
+      **STAGE MANAGER**| Lizzie Levett
+
+
+      <!--EndFragment-->
+    order: 1
+    title: CAST & CREATIVE TEAM
+  - body: >-
+      <a data-flickr-embed="true"
+      href="https://www.flickr.com/photos/sedos/albums/72157709236901417"
+      title="Soho Cinders - 2019"><img
+      src="https://live.staticflickr.com/65535/48263896582_c6a9274bc9_z.jpg"
+      width="640" height="480" alt="Soho Cinders - 2019"></a><script async
+      src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+    order: 1
+    title: GALLERY
 ---
-Robbie has a few problems. His mother has just died, without making a will, and the Old Compton Street laundrette she owned, "Sit & Spin", is under threat from his vulgar stepsisters as they attempt to hike up the rent. If that wasn't enough, he loves one man while being paid to hang out with another!
+**Robbie has a few problems. His mother has just died, without making a will, and the Old Compton Street laundrette she owned, "Sit & Spin", is under threat from his vulgar stepsisters as they attempt to hike up the rent. If that wasn't enough, he loves one man while being paid to hang out with another!**
 
 James Prince also has problems. He’s running for mayor, but his campaign manager’s a lying schemer and his heart isn’t entirely with his devoted fiancée Marilyn.
 
 When your only inheritance is an urn of ashes on the mantelpiece or if your secret romance becomes tabloid front page news, can love really conquer all?
 
 From the laundrette which hears more confidences than it washes G-strings, to a dramatic political fundraiser where a mobile phone is lost as midnight strikes, Soho Cinders is a witty, heartwarming musical twist on the classic fairytale.
+
+
+
+*An amateur production presented by arrangement with Music Theatre International (Europe). All authorised performance materials are also supplied by MTI Europe. www.MTISHOWS.co.uk*
