@@ -19,7 +19,7 @@ showtime-summary: 21 November-1 December 2018
 venue: Bridewell Theatre
 ticket-prices: ''
 primary-color: '#912d2b'
-header-image: /assets/toilet-1542514.jpg
+header-image: ''
 flyer: /assets/urinetown poster-360.png
 sections:
   - body: |-
