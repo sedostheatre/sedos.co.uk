@@ -1,7 +1,7 @@
 ---
-title: "Earthquakes in London"
-authors: "By MIKE BARTLETT"
+title: Earthquakes in London
 year: '2018'
+authors: By MIKE BARTLETT
 subtitle: An epic rollercoaster of a play that takes us from 1968 to 2525 and back again
 showtimes:
   - time: '2018-07-10 19:30+0100'
@@ -10,10 +10,107 @@ showtimes:
   - time: '2018-07-13 19:30+0100'
   - time: '2018-07-14 19:30+0100'
   - time: '2018-07-14 14:30+0100'
-primary-color: "#17a2b8"
-showtime-summary: "10-14 JULY"
-header-image: assets/images/headers/2018-earthquakes.jpg
-flyer: assets/images/headers/2018-earthquakes.jpg
+showtime-summary: 10-14 JULY
+primary-color: '#17a2b8'
+header-image: /assets/35518725_10156293703593267_8650517914618691584_n.jpg
+flyer: /assets/FlyerA6-Front-800.jpg
+sections:
+  - body: |-
+      <!--StartFragment-->
+
+      **CAST**
+
+      **COLIN**| Marcus Ezekiel\
+      **FREYA**| Kimberly Barker\
+      **JASMINE**| Izzi Richardson\
+      **PETER/EMILY**| Helena Bumpus\
+      **SARAH**| Carrie Pennifer\
+      **STEVE**| David Pearson\
+      **ROBERT**| Paul Francis\
+      **TOM**| Hassan Govia\
+      \
+      **ENSEMBLE**
+
+      Sarah Berryman\
+      Matt Hudson\
+      Nadira Hussain\
+      Olivier Namet\
+      Lois Savill\
+      Lloyd Smith\
+      Graham White
+
+      \
+      **PRODUCTION TEAM**\
+      \
+      **DIRECTOR**| Chris Davis\
+      **TECHNICAL PRODUCER**| Oliver Levett\
+      **ASSISTANT DIRECTOR**| Olivier Namet\
+      **LIGHTING DESIGN**| Oliver Levett\
+      **SOUND DESIGN**| Adam Lockett & Adam Coppard\
+      **COSTUME DESIGN**| Thekla Bollinger\
+      **CHOREOGRAPHER**| Tom Leonard\
+      **PROJECTION & MARKETING DESIGN**| Olivier Namet\
+      **STAGE MANAGER:**Jade Bull\
+      **ASSISTANT STAGE MANAGER:**Wing-Ho Lin\
+      **COMMITTEE LIAISON**| Matt Gould
+
+      <!--EndFragment-->
+    order: 1
+    title: CAST & CREATIVE TEAM
+  - body: >-
+      <a data-flickr-embed="true"
+      href="https://www.flickr.com/photos/sedos/albums/72157704576107721"
+      title="Earthquakes in London - 2018"><img
+      src="https://live.staticflickr.com/7858/45934750475_373d2a2314_z.jpg"
+      width="640" height="480" alt="Earthquakes in London - 2018"></a><script
+      async src="//embedr.flickr.com/assets/client-code.js"
+      charset="utf-8"></script>
+    order: 2
+    title: GALLERY
+  - body: >-
+      <iframe width="560" height="315"
+      src="https://www.youtube.com/embed/McCnRmeCW0w" frameborder="0"
+      allow="accelerometer; autoplay; encrypted-media; gyroscope;
+      picture-in-picture" allowfullscreen></iframe>
+    order: 3
+    title: TRAILER
+  - body: >-
+      <!--StartFragment-->
+
+
+      “It is unfortunate that for too many people, the epithet “amateur” in
+      relation to theatre remains redolent of inexpert performance in draughty
+      church halls by well-meaning performers of limited talent. The reality is
+      that for many groups nowadays, there is an almost invisible line between
+      so called professional performance (ironically not necessarily of the
+      highest quality) and other productions which are only amateur in the sense
+      that participants have not been paid. Sedos specifically states in its
+      programme notes that they “strive for professional standards in both
+      performance and production values” and it is fair to say that they have a
+      well-established reputation in achieving that ambition which has once
+      again been reinforced by this production of Earthquakes in
+      London.”[Earthquakes in London, 2018, Musical Theatre
+      Musings](http://musicaltheatremusings.co.uk/earthquakes-in-london)
+
+
+      “All told, this is another great production from Sedos that makes you stop
+      and think about what we are doing to the earth and if we shouldn’t be
+      trying something different so that by the year 2525, man will still be
+      alive.”[Earthquakes in London, 2018,
+      Londontheatre1](https://www.londontheatre1.com/reviews/earthquakes-in-london-at-the-bridewell-theatre-review/)
+
+
+      “The absolute bravery, or maybe insanity, of director Chris Davis to stage
+      this play in an amateur production makes it all the more incredible. And
+      that mention of amateur is the only time it should be raised, because
+      believe me, there is absolutely nothing amateur about this
+      production.”[Earthquakes in London, 2018, Everything
+      Theatre](http://everything-theatre.co.uk/2018/07/earthquakes-in-london-bridewell-theatre-review.html)
+
+
+      <!--EndFragment-->
+    order: 4
+    title: REVIEWS
 ---
 
 > It's cabaret, we've got our heads down and we’re dancing and drinking as fast as we can. The enemy is on its way, but this time it doesn't have guns and gas it has storms and earthquakes, fire and brimstone
