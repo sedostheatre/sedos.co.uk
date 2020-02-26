@@ -22,99 +22,106 @@ ticket-prices: >-
 
   All tickets bought on the door must be paid for in cash - we cannot take card
   payments on the door.
+
+
+  Evening performances: onstage bar opens at 7pm, show commences at 7.30pm.
+
+  Saturday matinée: onstage bar opens at 2pm, show commences at 2.30pm.
 primary-color: '#750630'
 header-image: /assets/bar-2209813.jpg
 flyer: /assets/poster.jpg
 sections:
-  - title: CAST
-    body: >-
-      **WAVERLY** | Laura Ellis
+  - body: >-
+      <!--StartFragment-->
 
 
-      **LISA** | Bobbi Mair
+      **CAST**
 
 
-      **DARREN** | Joshua Yeardley / Luke James Leahy*
+      \
+
+      **WAVERLY**| Laura Ellis\
+
+      **LISA**| Bobbi Mair\
+
+      **DARREN**| Joshua Yeardley / Luke James Leahy*\
+
+      **LUKE**| Chris Foxwell
 
 
-      **LUKE** | Chris Foxwell
+      **ENSEMBLE**| Lauren Clarke, Ellie Jones, Emma J Leaver, Alex Stephenson,
+      Sarah White, Joshua Yeardley / Luke James Leahy (when not playing Darren*)
 
 
-      **ENSEMBLE** | Lauren Clarke, Ellie Jones, Emma J Leaver, Alex Stephenson, Sarah White, Joshua Yeardley / Luke James Leahy (when not playing Darren*)
+      \
+
+      *\*The role of Darren will be played by Joshua Yeardley
+      on**Tuesday**,**Thursday**and**Saturday night**(**5**,**7**and**9
+      March**), and by Luke James Leahy
+      on**Wednesday**,**Friday**and**Saturday**matinée (**6**,**8**and**9
+      March**).*
 
 
-      _\*The role of Darren will be played by Joshua Yeardley on Tuesday, Thursday and Saturday night (5, 7 and 9 March), and by Luke James Leahy on Wednesday, Friday and Saturday matinée (6, 8 and 9 March)._
+      \
 
-  - title: CREATIVES
+      **CREATIVE TEAM**
+
+
+      \
+
+      **DIRECTOR**| Dan Saunders\
+
+      **MUSICAL DIRECTOR**| Adrian Hau\
+
+      **PRODUCER**| Natalie Harding-Moore\
+
+      **TECHNICAL LEAD**| Olly Levett\
+
+      **STAGE MANAGER**| Lizzie Levett\
+
+      **POSTER DESIGN**| Zoe Dobell\
+
+      **SET REALISATION**| Andrew Laidlaw\
+
+      **ASSISTANT STAGE MANAGER**| Shiri Stern
+
+
+      <!--EndFragment-->
     order: 1
-    body: >-
-      **DIRECTOR** | Dan Saunders
+    title: CAST & CREATIVE TEAM
+  - body: >-
+      <a data-flickr-embed="true"
+      href="https://www.flickr.com/photos/sedos/albums/72157678038786328"
+      title="Next Thing You Know - 2019"><img
+      src="https://live.staticflickr.com/7860/46134425034_376bc8cb2a_c.jpg"
+      width="570" height="800" alt="Next Thing You Know - 2019"></a><script
+      async src="//embedr.flickr.com/assets/client-code.js"
+      charset="utf-8"></script>
+    order: 2
+    title: GALLERY
+  - body: >-
+      <iframe width="560" height="315"
+      src="https://www.youtube.com/embed/gv4tHs6k0Zg" frameborder="0"
+      allow="accelerometer; autoplay; encrypted-media; gyroscope;
+      picture-in-picture" allowfullscreen></iframe>
 
 
-      **MUSICAL DIRECTOR** | Adrian Hau
-
-
-      **PRODUCER |** Natalie Harding-Moore
-
-
-      **TECHNICAL LEAD** | Olly Levett
-
-
-      **STAGE MANAGER** | Lizzie Levett
-
-
-      **POSTER DESIGN** | Zoe Dobell
-
-
-      **SET REALISATION** | Andrew Laidlaw
-
-
-      **ASSISTANT STAGE MANAGER** | Shiri Stern
-
-  - title: IMAGES
-    body: >-
-      <a data-flickr-embed="true"  href="https://www.flickr.com/photos/sedos/albums/72157678038786328" title="Next Thing You Know - 2019"><img src="https://farm8.staticflickr.com/7860/46134425034_376bc8cb2a_b.jpg" width="730" height="1024" alt="Next Thing You Know - 2019"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-  - title: VIDEOS
-    body: >-
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/gv4tHs6k0Zg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/mIE1WDS5K6o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+      <iframe width="560" height="315"
+      src="https://www.youtube.com/embed/mIE1WDS5K6o" frameborder="0"
+      allow="accelerometer; autoplay; encrypted-media; gyroscope;
+      picture-in-picture" allowfullscreen></iframe>
+    order: 3
+    title: VIDEOS
 ---
-**Next Thing You Know** **_(“NTYK”) is a musical about four New Yorkers waking up from their invincible_ twenties and confronting adulthood in the city that never sleeps. It looks at a time in life when one day you wake up, and instead of a hangover, you have a job. Instead of a fling, you have a live-in girlfriend. And instead of naïve dreams, you have reality. Think: a musical episode of _How I Met Your Mother_ or** **_Friends_.**
+**Next Thing You Know** ***(“NTYK”) is a musical about four New Yorkers waking up from their invincible* twenties and confronting adulthood in the city that never sleeps. It looks at a time in life when one day you wake up, and instead of a hangover, you have a job. Instead of a fling, you have a live-in girlfriend. And instead of naïve dreams, you have reality. Think: a musical episode of *How I Met Your Mother* or** ***Friends*.**
 
 Like MacLaren’s or Central Perk, there is a central location that throws the characters of NTYK together – a little dive bar on Sullivan Street. We plan to create an immersive dive bar on the Bridewell stage (similar to a Secret Cinema experience) where, before the show and during the interval, the audience can buy a drink or two and mix and mingle with the people of New York, including being part of the ‘behind the scenes’ experience of what the characters of NTYK get up to on their big night out!
 
 Please note, the onstage bar will be cash only. Drinks purchased at the main Bridewell bar using card will still be allowed inside the theatre ... but we recommend bringing some cash for the full immersive experience.
 
-
-
-Bridewell Theatre
- \
-Bride Lane Fleet Street
-\
+Bridewell Theatre  \
+Bride Lane Fleet Street \
 London, EC4Y 8EQ
 
 Evening performances: onstage bar opens at 7pm, show commences at 7.30pm\
 Saturday matinée: onstage bar opens at 2pm, show commences at 2.30pm
-
-
-
-**GALA PERFORMANCE | Friday 8 March**
-
-There will be a special gala performance on Friday 8 March, where guests will receive a glass of fizz and a programme. Tickets £21 (concessions £18.50). Premium tickets are available for £23 (concessions £20.50).
-
-Concessions: Sedos members, children, senior citizens, students with valid identification, registered disabled and registered unemployed unless otherwise stated, for example Gala Nights.
-
-Buy 10 tickets online and get a 10% discount.
-
-
-**TICKET COLLECTION**
-
-All tickets bought on the door must be paid for in cash - we cannot take card payments on the door.
-
-Tickets will be available for you to collect from the Box Office on the night of the performance. They will not be posted out to you. Seats at the Bridewell Theatre are unreserved.
-
-Latecomers will only be admitted at the discretion of Sedos. Any audience members arriving more than 15 minutes late will not be admitted until the interval.
-
-Please note: Tickets are non-exchangeable and non-refundable.
