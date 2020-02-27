@@ -12,4 +12,12 @@ showtimes:
 header-image: assets/images/headers/2017-the-nether-header.jpg
 flyer: assets/images/flyers/2017-the-nether.jpg
 ---
+**NETHER REALM**\
+**1. Another world for mythical creatures**\
+**2. Demon world**\
+**3. A dimension of Evil or Imagination**\
+**urbandictionary.com**
 
+The internet has evolved into the Nether, a vast network of virtual reality realms. Users may log in, choose an identity, and indulge any desire. When Detective Morris investigates a realm called The Hideaway where people with a sexual interest in children may live out their fantasies involving children, she brings its creator in for interrogation. They discover they have made emotional attachments in his realm that blind them to the greater questions of ethical behavior, both in the imagination and the outside world.
+
+**PLEASE NOTE:***The Nether*is being performed as part of a two show evening of theatre and will take place before performances of contemporary musical***[Ordinary Days](https://sedos.co.uk/2017/ordinarydays.htm)***.
