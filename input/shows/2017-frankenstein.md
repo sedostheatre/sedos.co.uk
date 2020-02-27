@@ -10,7 +10,7 @@ showtimes:
 showtime-summary: 17-21 October 2017
 venue: Bridewell Theatre
 primary-color: '#00FF00'
-header-image: ''
+header-image: /assets/framk-newsletter-montage.jpg
 flyer: /assets/frankenstein-a5-flyerfront-final-1000.jpg
 ---
 
