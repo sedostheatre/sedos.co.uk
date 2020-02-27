@@ -12,6 +12,27 @@ showtimes:
 showtime-summary: 27-30 September 2017
 header-image: /assets/od-cast-650.jpg
 flyer: /assets/ordinarydays-quickfront.jpg
+sections:
+  - body: |-
+      <!--StartFragment-->
+
+      **CAST**
+
+      **Jason**| Inti Conde\
+      **Claire**| Louisa Roberts\
+      **Deb**| Kate Gledhill\
+      **Warren**I Glen Jordan
+
+      **CREATIVE TEAM**\
+      \
+      **Director**| Yojiro Ichikawa\
+      **Musical Director**| Ed Curry\
+      **Producer**| Vaughan Watts\
+      **Assistant director**| Peter Shimmin
+
+      <!--EndFragment-->
+    order: 1
+    title: CAST & CREATIVE TEAM
 ---
 
 <blockquote class="blockquote">
