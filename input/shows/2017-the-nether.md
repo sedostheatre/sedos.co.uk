@@ -1,7 +1,8 @@
 ---
-title: "The Nether"
+title: The Nether
 year: '2017'
-subtitle: "By Jeninifer Haley"
+authors: by JENNIFER HALEY
+subtitle: By Jeninifer Haley
 showtimes:
   - time: '2017-09-26 19:00+0100'
   - time: '2017-09-27 19:00+0100'
@@ -11,3 +12,4 @@ showtimes:
 header-image: assets/images/headers/2017-the-nether-header.jpg
 flyer: assets/images/flyers/2017-the-nether.jpg
 ---
+
