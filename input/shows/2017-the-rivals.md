@@ -10,6 +10,7 @@ showtimes:
   - time: '2017-09-22 19:30+0100'
   - time: '2017-09-23 14:30+0100'
   - time: '2017-09-23 19:30+0100'
+venue: Bridewell Theatre
 header-image: /assets/cast-photo-1st-rehearsal-all-smiles-800.jpg
 flyer: /assets/flyer-the-rivals-front-1000.jpg
 sections:
