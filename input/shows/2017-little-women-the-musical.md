@@ -15,7 +15,35 @@ showtime-summary: 27 June-1 July 2017
 venue: Bridewell Theatre
 header-image: /assets/littlewomen-family-800.jpg
 flyer: /assets/lw-poster-800.jpg
-sections: []
+sections:
+  - body: |-
+      **CAST**
+
+      **Jo March** | Kate Gledhill\
+      **Meg March** | Emma Coffey\
+      **Beth March** | Kimberly Barker\
+      **Amy March** | Lauren Clarke\
+      **Marmee** | Paula Mount\
+      **Aunt March** | Annie Houseago\
+      **Theodore Laurence III** | Nicholas Dore\
+      **John Brooke** | Toby Churchley\
+      **Professor Bhaer** |Keith Walters\
+      **Grandpa Laurence** | Brian Voakes
+
+      \
+      **CREATIVE TEAM**
+
+      **Director and Designer** | Robert J. Stanex\
+      **Musical Director** | Ryan Macaulay\
+      **Creative Producer** | Rebecca Chisholm\
+      **Technical Producer** | Ben Hussey\
+      **Costumier** | Deborah Lean\
+      **Movement Director** | Thomas Leonard\
+      **Lighting Design** | Elske Waite\
+      **Set Realisation** | Oliver Levett\
+      **Visual Artist** | Lydia Hughes
+    order: 1
+    title: CAST & CREATIVE TEAM
 ---
 **“Some books are so familiar that reading them is like being home again.”**
 
