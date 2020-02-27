@@ -6,6 +6,8 @@ showtimes:
   - time: '2017-02-14 19:30+00:00'
 showtime-summary: 14-18 February 2017
 venue: Bridewell Theatre
+header-image: /assets/accringtoncast.png
+flyer: /assets/accringtonflyerfront-800.jpg
 sections:
   - body: |-
       **CAST****\
