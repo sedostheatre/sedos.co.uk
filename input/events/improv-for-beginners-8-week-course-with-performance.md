@@ -1,7 +1,7 @@
 ---
 title: 'Improv for Beginners: 8 week course with performance'
 times:
-  - time: '2020-03-13 11:43+00:00'
+  - time: '2020-03-13 07:00+00:00'
 image: /assets/simprov3-360.jpg
 venue: BHG
 recurrence: 'Every Friday from 13 March - 1 May, 7pm-9pm'
