@@ -2,6 +2,7 @@
 title: Frankenstein
 year: '2017'
 authors: by NICK DEAR
+authors2: based on the novel by MARY SHELLEY
 subtitle: ''
 showtimes:
   - time: '2017-10-27 19:45+0100'
