@@ -30,6 +30,16 @@ sections:
       **PHOTOGRAPHY**- Stephen Russell
     order: 1
     title: CAST & CREATIVE TEAM
+  - body: >-
+      <a data-flickr-embed="true"
+      href="https://www.flickr.com/photos/sedos/albums/72157677053010262"
+      title="The Accrington Pals - 2017"><img
+      src="https://live.staticflickr.com/442/32054393534_75cb4be139_z.jpg"
+      width="640" height="640" alt="The Accrington Pals - 2017"></a><script
+      async src="//embedr.flickr.com/assets/client-code.js"
+      charset="utf-8"></script>
+    order: 2
+    title: GALLERY
 ---
 ***The Accrington Pals*is a beautiful play byPeter Whelanabout the women and men from a town during the raising of Kitchener’s Army, duringWorld War I.**
 
