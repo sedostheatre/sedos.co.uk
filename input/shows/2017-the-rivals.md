@@ -1,6 +1,7 @@
 ---
 title: The Rivals
 year: '2017'
+authors: by RICHARD BRINSLEY SHERIDAN
 subtitle: By Richard Brinsley Sheridan
 showtimes:
   - time: '2017-09-19 19:30+0100'
@@ -12,3 +13,4 @@ showtimes:
 header-image: assets/images/headers/2017-the-rivals-header.jpg
 flyer: assets/images/flyers/2017-the-rivals.jpg
 ---
+
