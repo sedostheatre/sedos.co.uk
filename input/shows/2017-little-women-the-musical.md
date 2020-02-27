@@ -54,6 +54,19 @@ sections:
       charset="utf-8"></script>
     order: 2
     title: GALLERY
+  - body: >-
+      <iframe width="560" height="315"
+      src="https://www.youtube.com/embed/UFBcF3KdRiE" frameborder="0"
+      allow="accelerometer; autoplay; encrypted-media; gyroscope;
+      picture-in-picture" allowfullscreen></iframe>
+
+
+      <iframe width="560" height="315"
+      src="https://www.youtube.com/embed/69M-HyZZ4rU" frameborder="0"
+      allow="accelerometer; autoplay; encrypted-media; gyroscope;
+      picture-in-picture" allowfullscreen></iframe>
+    order: 3
+    title: VIDEO
 ---
 **“Some books are so familiar that reading them is like being home again.”**
 
