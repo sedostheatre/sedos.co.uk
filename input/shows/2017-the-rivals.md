@@ -22,6 +22,33 @@ sections:
       src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
     order: 2
     title: GALLERY
+  - body: |-
+      **CAST**
+
+      **Sir Anthony Absolute**| Anthony Green\
+      **Captain Jack Absolute**| Joe Docherty\
+      **Faulkland**| Peter Cabrera\
+      **Bob Acres**| Ian Green\
+      **Sir Lucius O'Trigger**| Rob de la Poer\
+      **Fag**| Graham White\
+      \
+      **Mrs Malaprop**| Venla Freeman\
+      **Lydia Languish**| Katie Hooper\
+      **Julia**| Carrie Pennifer\
+      **Lucy**| Kate Parke\
+      **Phoebe**| Henriette Schroder
+
+      \
+      **CREATIVE TEAM**\
+      \
+      **Director**| Sylvia Finnimore\
+      **Producer**| Mark Zeffertt\
+      **Assistant director**| Frederica Byron\
+      **Lighting and set design**| Peter Foster\
+      **Publicity**| Peta Walmsley\
+      **Graphic designer**| Mia King
+    order: 1
+    title: CAST & CREATIVE TEAM
 ---
 **“COME, COME, WE MUST LAY ASIDE SOME OF OUR ROMANCE - A LITTLE WEALTH AND COMFORT MAY BE ENDURED AFTER ALL”**
 
