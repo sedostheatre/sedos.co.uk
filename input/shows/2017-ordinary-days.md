@@ -11,7 +11,7 @@ showtimes:
   - time: '2017-09-30 19:00+0100'
 showtime-summary: 27-30 September 2017
 header-image: assets/images/headers/2017-ordinary-days-header-image.jpg
-flyer: assets/images/flyers/2017-ordinary-days.jpg
+flyer: /assets/ordinarydays-quickfront.jpg
 ---
 
 <blockquote class="blockquote">
