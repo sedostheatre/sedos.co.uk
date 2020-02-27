@@ -51,6 +51,43 @@ sections:
       src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
     order: 2
     title: GALLERY
+  - body: >-
+      <iframe width="560" height="315"
+      src="https://www.youtube.com/embed/bhoJpBcygYY" frameborder="0"
+      allow="accelerometer; autoplay; encrypted-media; gyroscope;
+      picture-in-picture" allowfullscreen></iframe>
+
+
+      <iframe width="560" height="315"
+      src="https://www.youtube.com/embed/zqbH85bCUdU" frameborder="0"
+      allow="accelerometer; autoplay; encrypted-media; gyroscope;
+      picture-in-picture" allowfullscreen></iframe>
+
+
+      <iframe width="560" height="315"
+      src="https://www.youtube.com/embed/jEZnhxztwcI" frameborder="0"
+      allow="accelerometer; autoplay; encrypted-media; gyroscope;
+      picture-in-picture" allowfullscreen></iframe>
+
+
+      <iframe width="560" height="315"
+      src="https://www.youtube.com/embed/nrWgh6lyaI8" frameborder="0"
+      allow="accelerometer; autoplay; encrypted-media; gyroscope;
+      picture-in-picture" allowfullscreen></iframe>
+
+
+      <iframe width="560" height="315"
+      src="https://www.youtube.com/embed/yFeAjiKsxR0" frameborder="0"
+      allow="accelerometer; autoplay; encrypted-media; gyroscope;
+      picture-in-picture" allowfullscreen></iframe>
+
+
+      <iframe width="560" height="315"
+      src="https://www.youtube.com/embed/oxiiQK2lE3E" frameborder="0"
+      allow="accelerometer; autoplay; encrypted-media; gyroscope;
+      picture-in-picture" allowfullscreen></iframe>
+    order: 3
+    title: VIDEO
 ---
 **"Slowly I learnt the ways of humans: how to ruin, how to hate, how to debase, how to humiliate. And at the feet of my master I learnt the highest of human skills, the skill no other creature owns: I finally learnt how to lie**."
 
