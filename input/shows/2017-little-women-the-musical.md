@@ -67,6 +67,23 @@ sections:
       picture-in-picture" allowfullscreen></iframe>
     order: 3
     title: VIDEO
+  - body: >-
+      “The beautiful set design for Sedos’ production, the sheer talent of those
+      playing the March sisters and the clever direction means that I took this
+      award.”[Little Women The Musical, 2017, Musical Theatre Musings (best
+      amateur production of
+      2017)](http://musicaltheatremusings.co.uk/2017-roundup)
+
+
+      “On realising that I was going to watch an amateur production I
+      embarrassingly didn’t have high hopes for this production of Little Women
+      the Musical – however, within the first few lines, I was proven very
+      wrong. The Stock Exchange Dramatic and Operatic Society – better known as
+      Sedos – are an amateur company who I now realise deliver professional
+      standard productions.”[Little Women The Musical, 2017, London Theatre
+      1](https://www.londontheatre1.com/reviews/review-little-women-bridewell-theatre/)
+    order: 4
+    title: VIDEO
 ---
 **“Some books are so familiar that reading them is like being home again.”**
 
