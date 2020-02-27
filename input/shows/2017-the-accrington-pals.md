@@ -6,7 +6,30 @@ showtimes:
   - time: '2017-02-14 19:30+00:00'
 showtime-summary: 14-18 February 2017
 venue: Bridewell Theatre
-sections: []
+sections:
+  - body: |-
+      **CAST****\
+      BERTHA**- Kimberly Barker**\
+      CSM RIVERS**- James Franey\
+      **EVA**- Lydia Johnson\
+      **MAY**- Deborah Lean\
+      **RALPH**- Adam Moulder\
+      **ANNIE**- Paula Mount\
+      **REGGIE**- Rosalia Myttas-Perris\
+      **SARAH**- Leila Ruban\
+      **TOM**- Robert J. Stanex\
+      **ARTHUR**- Mark Watson
+
+      **DIRECTOR**- Fran Rafferty\
+      **PRODUCER**- Rebecca Chisholm\
+      **LIGHTING DESIGNER**- Oliver Levett\
+      **SOUND DESIGNER**- Adrian Jeakins\
+      **COMPANY STAGE MANAGER AND PROPS SUPERVISOR**- Lizzie Drapper\
+      **SET CONSTRUCTION**- Ben Hussey\
+      **MARKETING CONSULTANT**- Kaytie Lee\
+      **PHOTOGRAPHY**- Stephen Russell
+    order: 1
+    title: CAST & CREATIVE TEAM
 ---
 ***The Accrington Pals*is a beautiful play byPeter Whelanabout the women and men from a town during the raising of Kitchener’s Army, duringWorld War I.**
 
