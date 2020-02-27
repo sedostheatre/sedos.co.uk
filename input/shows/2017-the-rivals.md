@@ -12,6 +12,16 @@ showtimes:
   - time: '2017-09-23 19:30+0100'
 header-image: /assets/cast-photo-1st-rehearsal-all-smiles-800.jpg
 flyer: /assets/flyer-the-rivals-front-1000.jpg
+sections:
+  - body: >-
+      <a data-flickr-embed="true"
+      href="https://www.flickr.com/photos/sedos/albums/72157686140874753"
+      title="The Rivals - 2017"><img
+      src="https://live.staticflickr.com/4388/36860613561_c3f79cac02_z.jpg"
+      width="640" height="427" alt="The Rivals - 2017"></a><script async
+      src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+    order: 2
+    title: GALLERY
 ---
 **“COME, COME, WE MUST LAY ASIDE SOME OF OUR ROMANCE - A LITTLE WEALTH AND COMFORT MAY BE ENDURED AFTER ALL”**
 
