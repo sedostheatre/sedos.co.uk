@@ -42,6 +42,13 @@ sections:
       src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
     order: 2
     title: GALLERY
+  - body: >-
+      <iframe width="560" height="315"
+      src="https://www.youtube.com/embed/q3WP8EyzhYY" frameborder="0"
+      allow="accelerometer; autoplay; encrypted-media; gyroscope;
+      picture-in-picture" allowfullscreen></iframe>
+    order: 3
+    title: VIDEO
 ---
 
 <blockquote class="blockquote">
