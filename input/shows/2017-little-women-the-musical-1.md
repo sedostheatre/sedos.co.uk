@@ -11,6 +11,8 @@ showtimes:
   - time: '2017-05-05 19:30+01:00'
 showtime-summary: 27 June-1 July 2017
 venue: Bridewell Theatre
+header-image: /assets/About-JoinUs.jpg
+flyer: /assets/drowsyfront-800.jpg
 sections:
   - body: >-
       <!--StartFragment-->
