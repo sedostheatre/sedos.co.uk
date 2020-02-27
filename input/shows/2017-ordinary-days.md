@@ -1,7 +1,8 @@
 ---
-title: "Ordinary Days"
-subtitle: "Music and Lyrics by Adam Gwon"
+title: Ordinary Days
 year: '2017'
+authors: Music and Lyrics | ADAM GWON
+subtitle: Music and Lyrics by Adam Gwon
 showtimes:
   - time: '2017-09-27 21:00+0100'
   - time: '2017-09-28 21:00+0100'
