@@ -15,85 +15,111 @@ showtimes:
   - time: '2018-05-13 14:30+0100'
   - time: '2018-05-14 19:30+0100'
 showtime-summary: 9-19 MAY
-venue: bridewell
-ticket-prices: £12-£18
+venue: Bridewell Theatre
+ticket-prices: ''
 primary-color: '#0b0f18'
-header-image: assets/images/headers/2018-pippin.jpg
-flyer: assets/images/flyers/2018-pippin.jpg
+header-image: /assets/leads.jpg
+flyer: /assets/pippin-poster-800.jpg
 sections:
-  - title: Cast
-    body: >-
-      **LEADING PLAYER** | Corin Miller
+  - body: |-
+      <!--StartFragment-->
 
+      **CAST**
 
-      **PIPPIN**  | Joe Thompson-Oubari 
+      **LEADING PLAYER**| Corin Miller\
+      **PIPPIN**| Joe Thompson-Oubari\
+      **CHARLEMAGNE**| Kris Webb\
+      **LEWIS**| Paul Nicholas Dyke\
+      **FASTRADA**| Vicky Terry\
+      **BERTHE**| Annie Houseago\
+      **CATHERINE**| Charlie Welch\
+      **THEO**| Matthew Cise / Jake Purton
 
+      **PLAYERS**\
+      \
+      Siobhan Aarons\
+      Toby Churchley\
+      Will Emery\
+      Tim Garrad\
+      Eloise Horton\
+      Clarissa Lonsdale\
+      Hannah Parker Smith\
+      Mark Siddall\
+      Becky Sweeney\
+      Vaughan Watts (dance captain)\
+      Sean Westwood
 
-      **CHARLEMAGNE** | Kris Webb
-
-
-      **LEWIS** | Paul Nicholas Dyke
-
-
-      **FASTRADA** | Vicky Terry
-
-
-      **BERTHE** | Annie Houseago
-
-
-      **CATHERINE** | Charlie Welch
-
-
-
-      **PLAYERS**
-
-      Siobhan Aarons Toby Churchley Will Emery Tim Garrad Eloise Horton Clarissa
-      Lonsdale Hannah Parker Smith Mark Siddall Becky Sweeney Vaughan Watts
-      (dance captain) Sean Westwood
-  - title: Photos
-    body: >-
-      <a data-flickr-embed="true" 
+      <!--EndFragment-->
+    order: 1
+    title: CAST & CREATIVE TEAM
+  - body: >-
+      <a data-flickr-embed="true"
       href="https://www.flickr.com/photos/sedos/albums/72157665408534407"
       title="Pippin - 2018"><img
-      src="https://farm1.staticflickr.com/890/27366952938_c7d8186a89_z.jpg"
-      width="640" height="427" alt="Pippin - 2018"></a><script async
+      src="https://live.staticflickr.com/864/40758993574_4fecb5931a_z.jpg"
+      width="640" height="363" alt="Pippin - 2018"></a><script async
       src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-  - title: Video
-    body: >-
+    order: 2
+    title: GALLERY
+  - body: >-
       <iframe width="560" height="315"
-      src="https://www.youtube.com/embed/HvMYI_7mDic" frameborder="0"
-      allow="autoplay; encrypted-media" allowfullscreen></iframe>
-  - title: Creative
-    body: |-
-      **DIRECTOR** | Chris Adams
+      src="https://www.youtube.com/embed/_DRZBbOSsi8" frameborder="0"
+      allow="accelerometer; autoplay; encrypted-media; gyroscope;
+      picture-in-picture" allowfullscreen></iframe>
 
-      **MUSICAL DIRECTOR** | Sophie Wright
 
-      **CHOREOGRAPHER** | Paul Brookland-Williams
+      <iframe width="560" height="315"
+      src="https://www.youtube.com/embed/OKzCtNZDzpQ" frameborder="0"
+      allow="accelerometer; autoplay; encrypted-media; gyroscope;
+      picture-in-picture" allowfullscreen></iframe>
+    order: 3
+    title: VIDEO
+  - body: >-
+      <!--StartFragment-->
 
-      **ASSISTANT MUSICAL DIRECTOR** | Ed Curry
 
-      **CO-PRODUCERS** | Lizzie Drapper and Pippa Kyle
+      “It’s 45 years since I saw*Pippin*in the West End, and while the themes
+      are certainly still current, the style and the devices can feel a little
+      dated. Chris Adams’ compelling production, especially at the end, cuts
+      through the tricks and the whimsy to achieve a genuinely moving piece of
+      drama.”[Pippin, 2018, Remote
+      Goat](https://www.remotegoat.com/uk/review/13861/deliciously-dark-stephen-schwartz-revival/)
 
-      **LIGHTING DESIGNER** | Oliver Levett
 
-      **SET** | Steven King
+      “If ever a show was crying out for a large scale return to the West End,
+      then Pippin is the one and, my advice is to all the members of Sedos, give
+      up the day jobs and take it there.”[Pippin, 2018, London Theatre 1
+      (\*\*\*\**)](https://www.londontheatre1.com/reviews/review-pippin-returns-the-bridewell-theatre-london/)
 
-      **SOUND DESIGNER** | Adrian Jeakins
 
-      **COSTUMES** | Clare Harding
+      “For my money the show is good enough to transfer West, half a mile up the
+      road. Certainly, many of the cast could have a second string to their bows
+      in the commercial theatre any time they wanted.”[Pippin, 2018, Sardines
+      (\*\*\*\**)](http://www.sardinesmagazine.co.uk/reviews/review.php?REVIEW-Sedos-Pippin-&reviewsID=3204)
 
-      **TECHNICAL STAGE MANAGER** | Giles Burden
 
-      **IMAGE AND FLYER DESIGN** | Rebecca Pitt
+      “Pippin is a triumph… highly recommended.”[Pippin, 2018, The 730 Review
+      (\*\*\*\*)](https://www.the730review.co.uk/2018/05/11/pippin-sedos-review/)
 
-      **COMMITTEE LIAISON AND COMPANY STAGE MANAGER** | Rebecca Chisholm
+
+      “It was not good. It was very good... Go to the Bridewell and give some
+      support to these guys. They deserve it!”[Pippin, 2018, London Theatre
+      Reviews (\*\*\*\*)](http://www.londontheatrereviews.co.uk/post.cfm?p=303)
+
+
+      “The whole production is more polished and entertaining than many
+      professional shows… In the hands of Sedos, Pippin is a gem of a
+      musical.”[Pippin, 2018, Fairy Powered Productions
+      (\*\*\*\*)](http://fairypoweredproductions.com/pippin-review/)
+
+
+      <!--EndFragment-->
+    order: 4
+    title: REVIEWS
 ---
-
-> Think about your life, Pippin.
-Days are tame and nights the same.
+**Think about your life, Pippin. Days are tame and nights the same.
 Now think about the beauty
-In one perfect flame...
+In one perfect flame…**
 
 Meet Pippin. Young, ambitious, full of potential and ready to change the world. But things are never that simple.
 
