@@ -4,18 +4,18 @@ year: '2019'
 authors: by BERNARD SHAW
 subtitle: A romantic comedy
 showtimes:
-  - time: '2020-09-17 19:30+01:00'
-  - time: '2020-09-18 19:30+01:00'
-  - time: '2020-09-19 19:30+01:00'
-  - time: '2020-09-20 19:30+01:00'
-  - time: '2020-09-21 19:30+01:00'
-  - time: '2020-09-21 14:30+01:00'
+  - time: '2019-09-17 19:30+01:00'
+  - time: '2019-09-18 19:30+01:00'
+  - time: '2019-09-19 19:30+01:00'
+  - time: '2019-09-20 19:30+01:00'
+  - time: '2019-09-21 19:30+01:00'
+  - time: '2019-09-21 14:30+01:00'
 showtime-summary: 17-21 September 2019
 venue: Bridewell Theatre
 header-image: /assets/valentines-day-2057745.jpg
 flyer: /assets/ArmandtheMan-A5-flyer-FRONT-800.jpg
 sections:
-  - body: |-
+  - body: >-
       <!--StartFragment-->
 
       **CAST**\

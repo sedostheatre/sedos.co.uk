@@ -5,7 +5,7 @@ authors: 'Book by ABE BURROWS, JACK WEINSTOCK, WILLIE GILBERT'
 authors2: Music and Lyrics by FRANK LOESSER
 authors3: Based on How to Succeed in Business without Really Trying by SHEPHERD MEAD
 showtimes:
-  - time: '2020-05-15 19:30+01:00'
+  - time: '2019-05-15 19:30+01:00'
 showtime-summary: 15-25 May 2019
 venue: Bridewell Theatre
 header-image: /assets/A4 poster AW_print-crop-square-360.jpg
