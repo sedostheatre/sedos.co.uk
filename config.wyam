@@ -50,9 +50,13 @@ Pipelines.Add("AllShows",
 );
 
 Pipelines.Add("FutureShows",
-    Documents("AllShows"),
-    Where((doc, ctx) => doc.Get("showtimes", Enumerable.Empty<IDocument>()).Any(time => time.Get<DateTime>("time") > DateTime.Now)),
-    OrderBy((doc, ctx) => doc.Get("showtimes", Enumerable.Empty<IDocument>()).Select(time => time.Get<DateTime>("time")).First())
+    ReadFiles("shows/*.md"),
+    FrontMatter(Yaml()),
+    Meta("header-image", CopyAndResizeHeaderImage),
+    Meta("flyer", (doc, ctx) => CopyAndResizeImageFromMeta(doc, ctx, "flyer", null, 360)),
+    Meta("showtimes", (doc, ctx) => doc.Get("showtimes", Enumerable.Empty<IDocument>())),
+    Where((doc, ctx) => doc.Get<IEnumerable<IDocument>>("showtimes").Any(time => time.Get<DateTime>("time") > DateTime.Now)),
+    OrderBy((doc, ctx) => doc.Get<IEnumerable<IDocument>>("showtimes").Select(time => time.Get<DateTime>("time")).First())
 );
 
 Pipelines.Add("News",
