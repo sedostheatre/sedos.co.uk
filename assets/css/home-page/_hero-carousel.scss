@@ -1,0 +1,50 @@
+.home-page-show-carousel-item {
+    height: 70vh;
+    border-radius: 0;
+
+    .show-title {
+        a, a:focus, a:hover {
+            color: white;
+            text-decoration: none;
+        }
+    }
+
+    .row {
+        height: 100%;
+    }
+}
+
+.header-carousel {
+    .has-indicators {
+        margin-bottom: 130px;
+    }
+
+    .carousel-indicators {
+        overflow-x: initial;
+        bottom:-130px;
+
+        li {
+            width: auto;
+            height: auto;
+            text-indent: initial;
+
+            .hero-indicator-image {
+                width: 100px;
+                height: 100px;
+
+                background-position-x: center;
+                background-position-y: center;
+                background-size: cover;
+                background-repeat: no-repeat;
+
+                opacity: 0.3;
+            }
+
+            &.active {
+                .hero-indicator-image {
+                    opacity: 1;
+                }
+            }
+        }
+    }
+}

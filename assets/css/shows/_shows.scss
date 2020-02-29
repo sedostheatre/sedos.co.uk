@@ -1,0 +1,28 @@
+@import "show-header";
+
+.show-page-header {
+    border-radius: 0;
+
+    .row {
+        height: 100%;
+    }
+}
+
+.show-nav {
+    font-size: 1.125em;
+}
+
+.show-timings-column {
+    @extend %blue-border-left;
+}
+
+.upcoming-shows-section, .past-shows-section {
+    @extend %page-section;
+    background: $lighter-blue;
+    padding-bottom: 15px;
+    padding-top: 15px;
+}
+
+.show-details-nav-header {
+    text-transform: uppercase;
+}

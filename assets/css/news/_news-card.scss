@@ -1,0 +1,42 @@
+.news-card-container{
+    padding-top: 15px;
+    padding-bottom: 15px;
+
+    .news-card {
+        @include media-breakpoint-down(sm) {
+            max-height: 300px;
+        }
+
+        @include media-breakpoint-up(sm) {
+            height: 300px;
+        }
+
+        .card-body {
+            overflow: hidden;
+            padding-bottom: 20px;
+            background: $light-blue;
+        }
+
+        .card-footer {
+            a {
+                color: white;
+            }
+        }
+
+        .card-footer, .card-header {
+            background: darken($light-blue, 10);
+        }
+
+        .card-img-top {
+            height: 204px;
+            background-position-x: center;
+            background-position-y: center;
+            background-size: cover;
+            background-repeat: no-repeat;
+        }
+
+        .card-header {
+            margin-bottom: 3px;
+        }
+    }
+}

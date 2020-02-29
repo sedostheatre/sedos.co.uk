@@ -1,0 +1,32 @@
+$sedos-blue: #044484;
+$light-blue: #23778e;
+$lighter-blue: #499fcd;
+$turquoise: #04a897;
+$purple: #521e4a;
+$pink: #c92c71;
+$red: #cc2822;
+$yellow: #f9b000;
+$lime: #d7dd33;
+$grey: #f2f2f2;
+
+$white: #ffffff;
+
+$theme-colors: (
+    "primary": $sedos-blue,
+    "sedos-blue": $sedos-blue,
+    "light-blue": $light-blue,
+    "lighter-blue": $lighter-blue,
+    "turquoise": $turquoise,
+    "purple": $purple,
+    "pink": $pink,
+    "red": $red,
+    "yellow": $yellow,
+    "lime": $lime
+);
+
+$card-border-radius: 0;
+$carousel-control-icon-width: 30px;
+
+$body-bg: $grey;
+
+$btn-border-radius: 0;

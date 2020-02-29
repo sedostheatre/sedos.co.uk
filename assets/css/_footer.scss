@@ -1,0 +1,27 @@
+.social-icons {
+    list-style: none;
+    flex-direction: row;
+    display: flex;
+    padding: 0;
+    float: right;
+
+    .social-icon {
+        height: 2rem;
+        margin: 0 0.4rem;
+    }
+}
+
+.footer-image {
+    height: 60px;
+}
+
+.footer-container {
+    border-top: $sedos-blue 3px solid;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+    .navigation-link {
+        line-height: 30px;
+        font-size: 18px;
+    }
+}

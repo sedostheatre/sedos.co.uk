@@ -1,0 +1,26 @@
+@import "event-card";
+
+.events-section {
+    @extend %page-section;
+    background: $purple;
+    padding-bottom: 15px;
+    padding-top: 15px;
+}
+
+.events-column {
+    @extend %blue-border-left;
+}
+
+.regular-event-card {
+    .card-header { 
+        background: darken($pink, 10);
+    }
+
+    a, a:focus, a:hover {
+        color: white;
+    }
+
+    .card-title {
+        margin-bottom: 0;
+    }
+}

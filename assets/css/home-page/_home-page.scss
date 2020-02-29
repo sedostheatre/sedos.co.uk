@@ -1,0 +1,18 @@
+@import "show-card";
+@import "hero-carousel";
+
+.home-events-section {
+    @extend %page-section;
+    background: $purple;
+    margin-top: 3px;
+    padding-bottom: 15px;
+    padding-top: 15px;
+}
+
+.home-news-section {
+    @extend %page-section;
+    background: $turquoise;
+    border-top: 3px solid $sedos-blue;
+    padding-bottom: 15px;
+    padding-top: 15px;
+}
