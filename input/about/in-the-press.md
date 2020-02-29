@@ -231,6 +231,8 @@ image: /assets/246651_10151107053838267_1333029569_n.jpg
 \
 *Legally Blonde*
 
+![](/assets/17317383118_0142e7a575_c.jpg)
+
 “Sedos represents everything an amateur society should be and we can unanimously say this is the best amateur musical we have seen. Ever. (And we’ve seen rather a lot...).” [Legally Blonde, 2015, Sardines](http://www.sardinesmagazine.co.uk/reviews/review.php?REVIEW-Sedos-Legally%20Blonde&reviewsID=1441)
 
 **2014**
