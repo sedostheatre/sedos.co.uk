@@ -8,51 +8,7 @@ image: /assets/246651_10151107053838267_1333029569_n.jpg
 
 **2019**
 
-*Baal*
 
-“I can think of few amateur companies who would, or could, take on the challenge of Brecht’s first play but ever-versatile, adventurous Sedos have staged it with confidence, verve and a lot of talent.” [Baal, 2019, Sardines](http://www.sardinesmagazine.co.uk/reviews/review.php?REVIEW-Sedos-Baal-&reviewsID=3458)
-
-*Next Thing You Know*
-
-“Sedos have a reputation for delivering West End quality in every production, and it certainly shows here. The work that has gone into the show is visible in every second, from the slick set changes, to the choreography, to the songs, Sedos pull out all the stops to present a fantastically designed, well performed evening’s entertainment with a few kooky interactive elements thrown in.” [Next Thing You Know, 2019, Everything Theatre](http://everything-theatre.co.uk/2019/03/next-thing-you-know-the-bridewell-theatre-review.html)
-
-“An impressive set, a solid cast and imaginative immersive theatre made for a fun night out.” [Next Thing You Know, 2019, Musical Theatre Musings](http://musicaltheatremusings.co.uk/next-thing-you-know)
-
-“Interspersed with song and with a very cleverly designed set that allowed the bar to also be an office and a bedroom with very little changeover or delay, the production was as close to top quality as I’ve seen in a while. Mix this up with the skilled acting and comfortable immersive experience and I would confidently recommend Next Thing You Know. A very enjoyable evening’s entertainment indeed.” [Next Thing You Know, 2019, London Theatre 1 (\*\*\*\*)](https://www.londontheatre1.com/reviews/play/next-thing-you-know-at-the-bridewell-theatre-review/)
-
-“Sedos never cease to amaze with their production values, creating polished shows that you forget are by an amateur company. For NTYK, the theatre is transformed into Sullivan Street Tavern in New York. Mingling at the bar with the regulars until last orders is rung to get the audience into their seats, the ambience is brilliant, and the set design team deserve at least 10 stars for their authentic and detailed realisation of a bar that is instantly recognisable to anyone who watches New York set TV shows. The staging is wonderfully thought out and director Dan Saunders has created a special atmosphere.” [Next Thing You Know, 2019, Fairy Powered Productions](http://fairypoweredproductions.com/next-thing-you-know-review/)
-
-*After the Dance*
-
-“Overall, this is an entertaining and thought-provoking revival that does justice to Rattigan’s neglected work.” [After the Dance, 2019, Sardines](http://www.sardinesmagazine.co.uk/reviews/review.php?REVIEW-Sedos-After%20the%20Dance&reviewsID=3542)
-
-“The production, typical of Sedos, is more professional than their amateur dramatics moniker might imply, and is certainly one to consider if you’re a nearby City worker keen to take in some fringe theatre that certainly punches above its weight.” [After the Dance, 2019, Everything Theatre](http://everything-theatre.co.uk/2019/04/after-the-dance-review.html)
-
-*How to Succeed in Business Without Really Trying*
-
-“Quite simply, the show is wonderful and should serve as a shining beacon throughout across the entire non-professional sector. Whether you see the same show produced at at the Union Theatre, Young Vic, Charing Cross Theatre, Jermyn Street Theatre or any other professional off-West End/Fringe venue, it will not get any better than this. Amateur groups around the capital pay attention; this is how to put on a musical! This fifty-eight-year-old show (which also played the West End in 1963) makes a fitting return to London and is probably as close to earning a ‘professional’ tag as you can get.” [How to Succeed in Business Without Really Trying, 2019, Sardines (\*\*\*\**)](http://www.sardinesmagazine.co.uk/reviews/review.php?REVIEW-Sedos-How%20To%20Succeed%20In%20Business%20Without%20Really%20Trying&reviewsID=3578)
-
-“A magnificent cast make nonsense of their amateur status performing with charm and humour. A basic but still adequate set is the only sign of Sedos’ amdram status. Even so, I’ve never seen such rapid set changes with props moved into place so quickly you wouldn’t have noticed them. This is a production that could easily be dropped into the West End without any noticeable difference; a thoroughly professional production that ticked all the right boxes.” [How to Succeed in Business Without Really Trying, 2019, Everything Theatre (\*\*\*\*)](http://everything-theatre.co.uk/2019/05/how-to-succeed-in-business-without-really-trying-bridewell-theatre-review.html)
-
-“Sedos’ production of How To Succeed In Business Without Really Trying is a great chance to see this musical, with bundles of comedy and a cast that excel in getting their character across I would recommend getting yourselves down to the Bridewell Theatre.” [How to Succeed in Business Without Really Trying, 2019, Musical Theatre Musings](http://musicaltheatremusings.co.uk/how-to-succeed-in-business-without-really-trying)
-
-“Once again, Sedos have a hit on their hands. The level of this show is something that you would expect from a London production. The fact that the cast is made up of amateurs that all have separate day jobs makes it even more impressive.” [How to Succeed in Business Without Really Trying, 2019,London Theatre Reviews](http://www.londontheatrereviews.co.uk/post.cfm?p=1271)
-
-*Soho Cinders*
-
-“A hearty and sincere production, it’s a more complex story than the traditional fairy-tale from which it is adapted, but it’s a lively and engaging one at that.” [Soho Cinders, 2019, London Theatre 1](https://www.londontheatre1.com/reviews/musical/stiles-drewes-soho-cinders-at-the-bridewell-theatre/)
-
-[](https://www.londontheatre1.com/reviews/musical/stiles-drewes-soho-cinders-at-the-bridewell-theatre/)*Arms and the Man* 
-
-“Produced by the technically amateur Sedos theatre company this is another production from them which deserves a transfer to the West End. It’s a smart, witty and thoughtful play, beautifully acted and staged.” [Arms and the Man, 2019, Comedy To Watch (\*\*\*\*)](https://comedytowatch.com/2019/09/18/live-review-arms-and-the-man/)
-
-*Dangerous Liaisons*
-
-“As a long-time fan of Sedos, I was excited to be able to attend the first night of their first full dance production… Rest assured, my expectations were exceeded on both counts as the evening unfolded into a masterclass of dramatic contemporary dance which fully captured the themes of seduction and revenge of the original play. Each Sedos season showcases a range of plays and musicals, from popular, well-loved classics to lesser-known and newer works which can challenge both cast and audience. Their weekly Sedance class obviously attracts enthusiastic and highly competent dancers, and the decision to use this to add a new artform to their repertoire was brilliant and will hopefully herald more in the future. I can only add that they have set the bar very high with this one… It was a fantastic experience to be in the performance space with the dancers, feeling their every breath, absorbing their energy and watching the skill of their performance. Congratulations to everyone involved for the faith in what you were creating - you achieved what you set out to do with bells on!” [Dangerous Liaisons, 2019, Musical Theatre Musings](http://musicaltheatremusings.co.uk/dangerous-liaisons)
-
-“A performance of this style is incredibly ambitious for any professional dance troop. What makes this more impressive is that an amateur dramatics society created all of this. Sedos are known for their incredibly high-quality shows, but Dangerous Liaisons has put them on a whole different level. This production with these incredible performers would not be out of place on a West End stage.” [Dangerous Liaisons, 2019, London Theatre Reviews (\*\*\*\**)](http://www.londontheatrereviews.co.uk/post.cfm?p=1820)
-
-“The dancing is gorgeous, athletic and very expressive. The performance space is tiny, so you are up close and personal with the dancers/actors, and they absolutely carry you along with the story… Sedos is an amateur company, but there is nothing amateurish about this show – it’s ambitious, clever and exciting, but also beautifully economical and precise.” [Dangerous Liaisons, 2019, Fairy Powered Productions (\*\*\*\*)](http://fairypoweredproductions.com/dangerous-liaisons-review/)
 
 *Ragtime*
 
@@ -73,6 +29,52 @@ image: /assets/246651_10151107053838267_1333029569_n.jpg
 “An orchestra of eighteen and a cast of thirty-two is impressive for the West End these days, let alone amateur dramatics. The production team is worth a mention as well, for several reasons… It is difficult to balance out the sound with a cast and an orchestra as large as this, but the techies here do a remarkable job, with not a single lyric or line of spoken dialogue missed thanks to each and every microphone functioning as it should throughout.” [Ragtime, 2019, London Theatre 1 (\*\*\*\**)](https://www.londontheatre1.com/reviews/musical/ragtime-at-the-bridewell-theatre-review/)
 
 “Sedos have created a captivating and heartbreaking production which should stay with you long after you leave the theatre. You’d be hard pressed to find such an abundance of talent elsewhere in the West End.” [Ragtime, 2019, My Fair Theatregoer](https://myfairtheatregoer.com/2019/11/16/review-ragtime-bridewell-theatre-%E2%8B%86%E2%8B%86%E2%8B%86%E2%8B%86/)
+
+*Dangerous Liaisons*
+
+“As a long-time fan of Sedos, I was excited to be able to attend the first night of their first full dance production… Rest assured, my expectations were exceeded on both counts as the evening unfolded into a masterclass of dramatic contemporary dance which fully captured the themes of seduction and revenge of the original play. Each Sedos season showcases a range of plays and musicals, from popular, well-loved classics to lesser-known and newer works which can challenge both cast and audience. Their weekly Sedance class obviously attracts enthusiastic and highly competent dancers, and the decision to use this to add a new artform to their repertoire was brilliant and will hopefully herald more in the future. I can only add that they have set the bar very high with this one… It was a fantastic experience to be in the performance space with the dancers, feeling their every breath, absorbing their energy and watching the skill of their performance. Congratulations to everyone involved for the faith in what you were creating - you achieved what you set out to do with bells on!” [Dangerous Liaisons, 2019, Musical Theatre Musings](http://musicaltheatremusings.co.uk/dangerous-liaisons)
+
+“A performance of this style is incredibly ambitious for any professional dance troop. What makes this more impressive is that an amateur dramatics society created all of this. Sedos are known for their incredibly high-quality shows, but Dangerous Liaisons has put them on a whole different level. This production with these incredible performers would not be out of place on a West End stage.” [Dangerous Liaisons, 2019, London Theatre Reviews (\*\*\*\**)](http://www.londontheatrereviews.co.uk/post.cfm?p=1820)
+
+“The dancing is gorgeous, athletic and very expressive. The performance space is tiny, so you are up close and personal with the dancers/actors, and they absolutely carry you along with the story… Sedos is an amateur company, but there is nothing amateurish about this show – it’s ambitious, clever and exciting, but also beautifully economical and precise.” [Dangerous Liaisons, 2019, Fairy Powered Productions (\*\*\*\*)](http://fairypoweredproductions.com/dangerous-liaisons-review/)
+
+[](https://www.londontheatre1.com/reviews/musical/stiles-drewes-soho-cinders-at-the-bridewell-theatre/)*Arms and the Man* 
+
+“Produced by the technically amateur Sedos theatre company this is another production from them which deserves a transfer to the West End. It’s a smart, witty and thoughtful play, beautifully acted and staged.” [Arms and the Man, 2019, Comedy To Watch (\*\*\*\*)](https://comedytowatch.com/2019/09/18/live-review-arms-and-the-man/)
+
+*Soho Cinders*
+
+“A hearty and sincere production, it’s a more complex story than the traditional fairy-tale from which it is adapted, but it’s a lively and engaging one at that.” [Soho Cinders, 2019, London Theatre 1](https://www.londontheatre1.com/reviews/musical/stiles-drewes-soho-cinders-at-the-bridewell-theatre/)
+
+*How to Succeed in Business Without Really Trying*
+
+“Quite simply, the show is wonderful and should serve as a shining beacon throughout across the entire non-professional sector. Whether you see the same show produced at at the Union Theatre, Young Vic, Charing Cross Theatre, Jermyn Street Theatre or any other professional off-West End/Fringe venue, it will not get any better than this. Amateur groups around the capital pay attention; this is how to put on a musical! This fifty-eight-year-old show (which also played the West End in 1963) makes a fitting return to London and is probably as close to earning a ‘professional’ tag as you can get.” [How to Succeed in Business Without Really Trying, 2019, Sardines (\*\*\*\**)](http://www.sardinesmagazine.co.uk/reviews/review.php?REVIEW-Sedos-How%20To%20Succeed%20In%20Business%20Without%20Really%20Trying&reviewsID=3578)
+
+“A magnificent cast make nonsense of their amateur status performing with charm and humour. A basic but still adequate set is the only sign of Sedos’ amdram status. Even so, I’ve never seen such rapid set changes with props moved into place so quickly you wouldn’t have noticed them. This is a production that could easily be dropped into the West End without any noticeable difference; a thoroughly professional production that ticked all the right boxes.” [How to Succeed in Business Without Really Trying, 2019, Everything Theatre (\*\*\*\*)](http://everything-theatre.co.uk/2019/05/how-to-succeed-in-business-without-really-trying-bridewell-theatre-review.html)
+
+“Sedos’ production of How To Succeed In Business Without Really Trying is a great chance to see this musical, with bundles of comedy and a cast that excel in getting their character across I would recommend getting yourselves down to the Bridewell Theatre.” [How to Succeed in Business Without Really Trying, 2019, Musical Theatre Musings](http://musicaltheatremusings.co.uk/how-to-succeed-in-business-without-really-trying)
+
+“Once again, Sedos have a hit on their hands. The level of this show is something that you would expect from a London production. The fact that the cast is made up of amateurs that all have separate day jobs makes it even more impressive.” [How to Succeed in Business Without Really Trying, 2019,London Theatre Reviews](http://www.londontheatrereviews.co.uk/post.cfm?p=1271)
+
+*After the Dance*
+
+“Overall, this is an entertaining and thought-provoking revival that does justice to Rattigan’s neglected work.” [After the Dance, 2019, Sardines](http://www.sardinesmagazine.co.uk/reviews/review.php?REVIEW-Sedos-After%20the%20Dance&reviewsID=3542)
+
+“The production, typical of Sedos, is more professional than their amateur dramatics moniker might imply, and is certainly one to consider if you’re a nearby City worker keen to take in some fringe theatre that certainly punches above its weight.” [After the Dance, 2019, Everything Theatre](http://everything-theatre.co.uk/2019/04/after-the-dance-review.html)
+
+*Next Thing You Know*
+
+“Sedos have a reputation for delivering West End quality in every production, and it certainly shows here. The work that has gone into the show is visible in every second, from the slick set changes, to the choreography, to the songs, Sedos pull out all the stops to present a fantastically designed, well performed evening’s entertainment with a few kooky interactive elements thrown in.” [Next Thing You Know, 2019, Everything Theatre](http://everything-theatre.co.uk/2019/03/next-thing-you-know-the-bridewell-theatre-review.html)
+
+“An impressive set, a solid cast and imaginative immersive theatre made for a fun night out.” [Next Thing You Know, 2019, Musical Theatre Musings](http://musicaltheatremusings.co.uk/next-thing-you-know)
+
+“Interspersed with song and with a very cleverly designed set that allowed the bar to also be an office and a bedroom with very little changeover or delay, the production was as close to top quality as I’ve seen in a while. Mix this up with the skilled acting and comfortable immersive experience and I would confidently recommend Next Thing You Know. A very enjoyable evening’s entertainment indeed.” [Next Thing You Know, 2019, London Theatre 1 (\*\*\*\*)](https://www.londontheatre1.com/reviews/play/next-thing-you-know-at-the-bridewell-theatre-review/)
+
+“Sedos never cease to amaze with their production values, creating polished shows that you forget are by an amateur company. For NTYK, the theatre is transformed into Sullivan Street Tavern in New York. Mingling at the bar with the regulars until last orders is rung to get the audience into their seats, the ambience is brilliant, and the set design team deserve at least 10 stars for their authentic and detailed realisation of a bar that is instantly recognisable to anyone who watches New York set TV shows. The staging is wonderfully thought out and director Dan Saunders has created a special atmosphere.” [Next Thing You Know, 2019, Fairy Powered Productions](http://fairypoweredproductions.com/next-thing-you-know-review/)
+
+*Baal*
+
+“I can think of few amateur companies who would, or could, take on the challenge of Brecht’s first play but ever-versatile, adventurous Sedos have staged it with confidence, verve and a lot of talent.” [Baal, 2019, Sardines](http://www.sardinesmagazine.co.uk/reviews/review.php?REVIEW-Sedos-Baal-&reviewsID=3458)
 
 **2018** 
 
