@@ -106,6 +106,10 @@ Childlike in his innocence but grotesque in form, Frankenstein's bewildered crea
 
 Urgent concerns of scientific responsibility, parental neglect, cognitive development and the nature of good and evil are embedded within this thrilling and deeply disturbing classic gothic tale.
 
-*Frankenstein* was first presented at the National Theatre, London, on 5 February 2011, directed by Danny Boyle.
+*Frankenstein* was first presented at the Nat
+
+![](/assets/37044936594_82e2dd9c8e_k.jpg)
+
+ional Theatre, London, on 5 February 2011, directed by Danny Boyle.
 
 *Frankenstein* contains adult themes, nudity and scenes of a sexual and violent nature.
