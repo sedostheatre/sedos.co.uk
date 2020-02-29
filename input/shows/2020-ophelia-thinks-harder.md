@@ -49,7 +49,7 @@ sections:
 
 **"Artists, scholars, poets and princes will travel the world to see me... I shall pass into myth!"**
 
-**A riotous reworking of Shakespeare's*Hamlet*- with serious themes, nevertheless. Featuring Ophelia, her maid, St Joan and a couple of locals -*Rosencrantz and Guildenstern*.**
+**A riotous reworking of Shakespeare's *Hamlet*- with serious themes, nevertheless. Featuring Ophelia, her maid, St Joan and a couple of locals -*Rosencrantz and Guildenstern*.**
 
 The Prince is a hazard and the new King’s a puppet. Who the hell is running Denmark? Ophelia tries to please. Ophelia fails. Ophelia thinks harder.
 
