@@ -3,7 +3,8 @@ title: 'Working: a musical'
 year: '2020'
 authors: Adapted by NINA FASO and STEPHEN SCHWARTZ
 authors2: With additional contributions by GORDON GREENBERG
-subtitle: 12-16 May 2020
+authors3: ''
+subtitle: 'A delightfully funny and thoroughly touching musical '
 showtimes:
   - time: '2020-05-12 19:30+01:00'
   - time: '2020-05-13 19:30+01:00'
@@ -11,6 +12,7 @@ showtimes:
   - time: '2020-05-15 19:30+01:00'
   - time: '2020-05-16 14:30+01:00'
   - time: '2020-05-16 19:30+01:00'
+showtime-summary: 12-16 May 2020
 venue: Bridewell Theatre
 primary-color: '#000000'
 header-image: /assets/working-skyline.jpg
