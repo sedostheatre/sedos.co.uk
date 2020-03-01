@@ -15,7 +15,49 @@ venue: Bridewell Theatre
 primary-color: '#000000'
 header-image: /assets/working-skyline.jpg
 flyer: /assets/Working Poster Final Proof-800.png
-sections: []
+sections:
+  - order: 1
+    title: CAST & CREATIVE TEAM
+    body: |-
+      <!--StartFragment-->
+
+      CAST
+
+      Adrian Hau\
+      Bridgette Amofah\
+      Debbie McCasland\
+      Jack Brown\
+      Kate Gledhill\
+      Olga-Marie Platt\
+      Sam Sugarman\
+      Sanchez Simpson
+
+      **CREATIVE TEAM**\
+      \
+      **DIRECTOR** | Peter Shimmin\
+      **MUSICAL DIRECTOR** | Will Gaines\
+      **MOVEMENT DIRECTOR** | Tess Robinson\
+      **PRODUCER** | Michelle Calvert\
+      **CREATIVE DESIGNER** | Gill Daniell\
+      **ASSISTANT DIRECTOR** | Jacob Hajjar\
+      **SOUND DESIGNER** | Adam Coppard\
+      **LIGHTING DESIGNER** | Olly Levett\
+      **COSTUME ASSISTANT** | Jessie Davidson\
+      **SET BUILDER** | Adam Lockett\
+      **PROJECTION** | Joseph Henshaw\
+      **MARKETING** | Peter Shimmin\
+      **COMMITTEE LIAISON** | Stephen Beeny
+
+      <!--EndFragment-->
+  - order: 2
+    title: GALLERY
+    body: >-
+      <a data-flickr-embed="true"
+      href="https://www.flickr.com/photos/sedos/albums/72157713320103323"
+      title="Working: A Musical - 2020"><img
+      src="https://live.staticflickr.com/65535/49605804937_8fa2fbc024_z.jpg"
+      width="452" height="640" alt="Working: A Musical - 2020"></a><script async
+      src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 ---
 <!--StartFragment-->
 
