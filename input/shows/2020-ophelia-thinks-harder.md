@@ -5,10 +5,15 @@ authors: by JEAN BETTS
 authors2: and WILLIAM SHAKESPEARE
 authors3: 31 March-4 April 2020
 showtimes:
-  - time: '2020-03-31 22:21+01:00'
+  - time: '2020-03-31 19:30+01:00'
+  - time: '2020-04-01 19:30+01:00'
+  - time: '2020-04-02 19:30+01:00'
+  - time: '2020-04-03 19:30+01:00'
+  - time: '2020-04-04 14:30+01:00'
+  - time: '2020-04-04 19:30+01:00'
 venue: Bridewell Theatre
 header-image: /assets/ophelia-thinks-harder-landscape.jpg
-flyer: /assets/Ophelia-image-360.jpg
+flyer: /assets/2020-02-16-ophelia-flyer-front-800.png
 sections:
   - body: |-
       <!--StartFragment-->
