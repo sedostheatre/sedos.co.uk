@@ -21,8 +21,8 @@ ticket-prices: >-
   £13.50). Premium Tickets guarantee you a seat in the best rows in the house.
   Note they are unreserved within the premium block.
 primary-color: '#0b0f18'
-header-image: ''
-flyer: '/assets/OCH-headshotmontage].jpg'
+header-image: '/assets/OCH-headshotmontage].jpg'
+flyer: /assets/Our countrys good A5_front-800.jpg
 sections:
   - body: |-
       <!--StartFragment-->
