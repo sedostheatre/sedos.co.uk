@@ -12,6 +12,7 @@ showtimes:
   - time: '2020-04-04 14:30+01:00'
   - time: '2020-04-04 19:30+01:00'
 venue: Bridewell Theatre
+primary-color: '#b21b60'
 header-image: /assets/ophelia-thinks-harder-landscape.jpg
 flyer: /assets/2020-02-16-ophelia-flyer-front-800.png
 sections:
