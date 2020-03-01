@@ -11,6 +11,7 @@ showtimes:
   - time: '2020-07-11 14:30+01:00'
   - time: '2020-07-11 19:30+01:00'
 venue: Bridewell Theatre
+primary-color: '#f35892'
 header-image: /assets/lovevalourcompassion-landscape.jpg
 flyer: ''
 sections:
