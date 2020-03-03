@@ -2,8 +2,8 @@
 title: Sedance
 image: assets/images/events/sedance-banner.jpg
 header-image: assets/images/headers/SedosWebsite-Banner-sedance.jpg
-venue: Studio 1 of RADA Studios
-recurrence: Every Wednesday
+venue: ''
+recurrence: Every Monday
 ---
 Sedance is Sedos’ weekly dance class, running every Monday night, 7.10-9pm, at [1 Brewers’ Hall Garden, London EC2V 5DX](https://sedos.l3v5y.co.uk/venues/bhg) (nearest tube is Moorgate)
 
