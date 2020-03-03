@@ -180,7 +180,7 @@ image: /assets/246651_10151107053838267_1333029569_n.jpg
 
 *Such Stuff As Dreams Are Made On*
 
-![](/assets/26633088111_fc5b4efc4a_o.jpg)
+![](/assets/26633088111_b3a35b54e9_c.jpg)
 
 “I would give the show as many stars as possible and think everyone in London should see this show… I encourage, urge and plead with you to go, because I guarantee you will not have seen anything like this before. Whoever is in charge of awards that the folks at Sedos would be eligible for, book your ticket now!” [Such Stuff As Dreams Are Made On, 2016, A Younger Theatre](https://www.ayoungertheatre.com/review-such-stuff-as-dreams-are-made-on-caplan-house/)
 
