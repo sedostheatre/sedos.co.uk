@@ -55,4 +55,6 @@ Plus, don’t forget to follow us on social media:
 * [twitter.com/sedos](https://twitter.com/sedos)
 * [instagram.com/sedoslondon](https://www.instagram.com/sedoslondon/)
 
-  ![](/assets/24985108603_0ab28b6786_c.jpg)
+![](/assets/24985108603_0ab28b6786_c.jpg)
+
+*Sedos' 2016 production of I Love You, You're Perfect, Now Change*
