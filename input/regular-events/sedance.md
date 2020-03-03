@@ -17,7 +17,7 @@ Classes are led by Tom Leonard (choreographer for Sedos’ productions of *Dange
 
 Please wear something comfortable that allows you freedom of movement and shoes in which you can point your feet (or do it in socks). Please let the session leader know of any injuries before the class begins and work at your own pace.
 
-Make sure you join the Facebook group to stay up-to-date! Just search “Sedance” on Facebook to find it. Feel free to email **[sedance@sedos.co.uk ](<>)**if you have any questions.
+Make sure you join the Facebook group to stay up-to-date! Just search “Sedance” on Facebook to find it. Feel free to email sedance@sedos.co.uk if you have any questions.
 
 PRICES (card and contactless payments only):
 
