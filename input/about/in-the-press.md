@@ -379,6 +379,8 @@ Three Sisters, 2012, Remote Goat
 
 *Parade*
 
+![](/assets/4842714345_743f8f6805_c.jpg)
+
 “This production boasts a cast who are able to hold together a stirling ensemble and a rapturous vocal performance.... the vocalists of Sedos are easily able to match the force and accuracy of any West End ensemble, and with rousing flair.... A wonderful set of costumes are atmospherically lit by fiercely stark beams and the band is simply superb.” Parade, 2009, Remote Goat
 
 “A riveting production... Musical Director Matthew Gould has obviously worked a great deal with an already very gifted cast, and it has paid off. From Richard Ash’s opening lines to the last note of the piece, Parade is beautifully and emotionally sung... The second act’s ‘All the Wasted Time’ is breathtakingly good, and if there was no other merit to this production, it would be worth seeing for these few brilliant minutes alone.” Parade, 2009, Fringe Review
