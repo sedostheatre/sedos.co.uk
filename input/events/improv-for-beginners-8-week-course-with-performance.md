@@ -21,7 +21,7 @@ Dates: every Friday from 13 March-1 May 2020, 7-9pm, [1 Brewers' Hall Garden, Lo
 
 Performances: 5-7 May 2020, [Bridewell Theatre, Bride Lane, London EC4Y 8EQ](https://sedos.l3v5y.co.uk/venues/bridewell)
 
-Workshop: 12-4pm, 21 March 2020
+[Workshop: 12-4pm, 21 March 2020](https://sedos.l3v5y.co.uk/events/improv-workshop-with-stephen-davidson)
 
 Cost: It is free to take the course but you will need to become a member. You must purchase the workshop seperately, see the Sedos box office for more information. 
 
