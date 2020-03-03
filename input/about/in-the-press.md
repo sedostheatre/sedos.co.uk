@@ -347,6 +347,8 @@ Three Sisters, 2012, Remote Goat
 
 *A Little Night Music*
 
+![](/assets/6898876399_ba94cdbd21_z.jpg)
+
 “\[Sedos] should be credited as one of the premier \[amateur] companies in the country, as their track record for staging professional-standard shows proves… it was a genius stroke by co-directors Roger Harwood and Dawn Harrison-Wallace to stage the entire show as a flashback… the casting was difficult to fault… \[the cast] all did a great job of bringing the show to life… top marks must go to the costume team for their fantastic work… \[musical director] David Griffiths and his musicians gave a performance grander than many of those you'd hear in West End theatres… Congratulations again to Sedos for another great production…” A Little Night Music, 2011, SONDHEIM the magazine - official publication of the Sondheim Society
 
 “Masterful in both dramatic and auditory terms…” A Little Night Music, 2011, Remote Goat
