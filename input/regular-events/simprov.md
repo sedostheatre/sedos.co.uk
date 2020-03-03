@@ -9,7 +9,7 @@ header-image: assets/images/headers/SedosWebsite-Banner-Simprov.jpg
 venue: ''
 recurrence: ''
 ---
-Simprov is our group that let's members and non-members explore their spontaneous side!
+Simprov is our group that lets members and non-members explore their spontaneous side!
 
 We also have our very own in-house improv group, The Banana Hut Gang, which was formed from a collection of the most die-hard Simprov attendees, who are there to design new shows and spread the improv love across London.
 
