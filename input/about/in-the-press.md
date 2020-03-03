@@ -303,6 +303,8 @@ image: /assets/246651_10151107053838267_1333029569_n.jpg
 
 *Guys & Dolls*
 
+![](/assets/8472503957_d261e79e00_c.jpg)
+
 “In the grand scheme of amateur, fringe and professional musicals, this cast perform to the absolute max with passion and humour throughout. Moreover, everyone looks like they’re having a great time doing it. London audiences should take notice of Sedos, as its creatives are clearly more than capable of giving their professional neighbours a run for their money.” Guys & Dolls, 2012, thepublicreviews.com
 
 “The bar for performance level has been set so high by countless previous productions that every new interpretation of the piece has a daunting task to match expectations and standards. Sedos… rose to the challenge with a confident, sure footed, vibrant and stylish performance, and emerged with full honours.” Guys & Dolls, 2012, Sardines
