@@ -24,4 +24,4 @@ Time: 12-4pm
 
 Location: [1 Brewers' Hall Garden, London EC2V 5DX](https://sedos.l3v5y.co.uk/venues/bhg)
 
-Cost: £8 for non-members/£5 for members
+Cost: £8 for non-members and £5 for members
