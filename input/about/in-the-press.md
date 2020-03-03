@@ -8,8 +8,6 @@ image: /assets/246651_10151107053838267_1333029569_n.jpg
 
 **2019**
 
-
-
 *Ragtime*
 
 ![](/assets/49059373836_90a6c5fb2d_c.jpg)
@@ -96,7 +94,7 @@ image: /assets/246651_10151107053838267_1333029569_n.jpg
 
 *Pippin*
 
-![](/assets/Pippin.jpg)
+![](/assets/41992373771_f06cfe1c8d_c.jpg)
 
 “It’s 45 years since I saw *Pippin* in the West End, and while the themes are certainly still current, the style and the devices can feel a little dated. Chris Adams’ compelling production, especially at the end, cuts through the tricks and the whimsy to achieve a genuinely moving piece of drama.” [Pippin, 2018, Remote Goat](https://www.remotegoat.com/uk/review/13861/deliciously-dark-stephen-schwartz-revival/)
 
@@ -160,7 +158,7 @@ image: /assets/246651_10151107053838267_1333029569_n.jpg
 
 *Frankenstein* 
 
-![](/assets/37705654016_cc1e30c08f_o.jpg)
+![](/assets/37705654016_b820d8a35e_c.jpg)
 
 “Watching \[Jonathon] Cooper’s character progression and journey throughout the whole show was, I felt, a master class in acting.” [Frankenstein, 2017, Sardines](http://www.sardinesmagazine.co.uk/reviews/review.php?REVIEW-Sedos-Frankenstein&reviewsID=3004)
 
