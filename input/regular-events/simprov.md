@@ -1,9 +1,6 @@
 ---
 title: Simprov
-times:
-  - time: 2018-03-09T00:00:00.000Z
-  - time: 2018-03-23T00:00:00.000Z
-  - time: 2018-04-06T00:00:00.000Z
+times: []
 image: assets/images/events/simprov-banner.jpg
 header-image: assets/images/headers/SedosWebsite-Banner-Simprov.jpg
 venue: ''
