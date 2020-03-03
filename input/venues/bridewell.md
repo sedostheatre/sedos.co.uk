@@ -58,4 +58,4 @@ The Bridewell Theatre is accessible through the main entrance via a portable ram
 
 ![](/assets/14516771093_8396f98cf1_c.jpg)
 
-*The award-winning set for Sedos' 2014 production of Into the Woods at the Bridewell.*
+*The award-winning set for Sedos' 2014 production of Into the Woods at the Bridewell*
