@@ -40,3 +40,7 @@ Drop-in price - £8 per class
 10 classes £60 (works out at £6 per class)
 
 *We look forward to seeing you there!*
+
+![](/assets/48781085673_2a459c1bb7_c.jpg)
+
+*Rehearsals for Sedos' 2019 original dance adaptation, Dangerous Liaisons*
