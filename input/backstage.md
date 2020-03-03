@@ -10,3 +10,5 @@ There are jobs for everyone whether you want to be involved for the whole produc
 Some backstage roles require previous experience or certain skills, but lots of jobs just need enthusiasm and a willingness to devote your time and energy to the show. There are also lots of opportunities to learn new skills.
 
 For more information contact: backstage@sedos.co.uk
+
+![](/assets/8119013834_92dfdaa97c_c.jpg)
