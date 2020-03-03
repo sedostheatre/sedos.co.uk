@@ -54,3 +54,6 @@ Plus, don’t forget to follow us on social media:
 * [facebook.com/sedostheatre](https://www.facebook.com/sedostheatre/)
 * [twitter.com/sedos](https://twitter.com/sedos)
 * [instagram.com/sedoslondon](https://www.instagram.com/sedoslondon/)
+* ![](/assets/image00010.jpeg)
+
+  *Sedos' 2019 weekend musical of Hairspray*
