@@ -1,7 +1,7 @@
 ---
 title: Acting Group
 times: []
-venue: BHG
+venue: '1 Brewers'' Hall Garden, London EC2V 5DX'
 recurrence: Once a month
 ---
 The Acting Group offers sessions approximately once a month, with a friendly, relaxed and supportive atmosphere for people who want to act... whether you want to brush up on their skills, prepare for an audition or simply "have a go". 
@@ -12,7 +12,7 @@ There's nothing to prepare. Bring yourself, a tea or coffee, and take a script t
 
 You can also bring your own script if you have a specific audition piece you want to try, or if you just really like the script! Scripts should be approx. 5 minutes (no longer than 8 minutes) and there will also be a selection of two-three handers on the day to choose from (monologues are welcome too).
 
-It's free to take part in the Acting Group — just email [events@sedos.co.uk](mailto:events@sedos.co.uk)to give us an idea of numbers. We won't reply back, unless you have a specific question.
+It's free to take part in the Acting Group — just email [events@sedos.co.uk ](mailto:events@sedos.co.uk)to give us an idea of numbers. We won't reply back, unless you have a specific question.
 
 **2020 dates:**
 
