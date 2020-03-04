@@ -233,9 +233,9 @@ image: /assets/246651_10151107053838267_1333029569_n.jpg
 
 “Sedos represents everything an amateur society should be and we can unanimously say this is the best amateur musical we have seen. Ever. (And we’ve seen rather a lot...).” [Legally Blonde, 2015, Sardines](http://www.sardinesmagazine.co.uk/reviews/review.php?REVIEW-Sedos-Legally%20Blonde&reviewsID=1441)
 
-**2014**
+# **2014**
 
-*Into the Woods*
+## *Into the Woods*
 
 “\[Sedos has] pulled it off at the Bridewell Theatre, which is given more depth and texture than you’ve ever seen courtesy of a vast, twisting set of trees and grassy paths and wooden walkways. This, along with a fantastic orchestra led by Ryan Macaulay, and incredibly solid direction and choreography, are the details that elevate it from other amateur and short run productions into the realm of quality fringe.” [Into the Woods, 2014, Public Reviews](https://www.thepublicreviews.com/into-the-woods-bridewell-theatre-london/)
 
@@ -251,13 +251,13 @@ image: /assets/246651_10151107053838267_1333029569_n.jpg
 
 “As usual Sedos has its audience eating out of their hands in the first ten seconds as once again, their professional attitude shines through in this memorable performance… strong musical direction by Ryan Macaulay presents Sondheim's distinctive harmonies and tongue-twisting lyrics at their best… Steven King's set design is just extraordinary. Every inch, from floor to ceiling, of the Bridewell Theatre's performance space, has been used effectively. It's worth seeing this show for the scenery along… Sondheim is not an easy sing and most amateur companies would shy away from it so I take my hat off to anyone who can perform it as well as Sedos.” [Into the Woods, 2014, InfoBarrel](http://www.infobarrel.com/Into_the_Woods_-_A_Sedos_Production_at_the_Bridewell_Theatre_London)
 
-*Heaven Can Wait*
+## *Heaven Can Wait*
 
 “This humorous play is full of laughs reminding us of the working man ethics of the 1940s. Sedos give this production their all. High production values and consistently focused performances by the entire cast make for an outstanding performance. Praise must also go to the designers for their simple, but extremely effective scenery, and to the crew for the smoothest of scene changes, as one comes to expect with a company of this calibre… As usual – an outstanding production… With plenty of challenging productions every year, ranging from drama to musical theatre, nothing frightens this aspiring company whose well-deserved reputation in the world of amateur theatre comes from sincerity, dedication and very hard work.” Heaven Can Wait, 2014, InfoBarrel
 
-**2013**
+# **2013**
 
-*Hot Mikado*
+## *Hot Mikado*
 
 “Sedos certainly takes the spirit of the piece and entertained the audience with a sizzling production and a great night out. From the opening number when the scantily clad ladies of Japan burst onto the stage to the grand finale the company combined set, costume, staging and lighting with some brilliant performances to provide an excellent night out…” Hot Mikado, 2013, Sardines
 
@@ -267,7 +267,7 @@ image: /assets/246651_10151107053838267_1333029569_n.jpg
 
 “The cast remain totally focussed throughout the show. Their tight harmonies and excellent diction combine with strong and varied dance routines to give us a thoroughly enjoyable and beautifully costumed performance. Sedos know exactly how to capture an audience, hold it firmly in the palms of their hands, and then send it on its way, humming those compulsive ear worms – the catchy tunes you just can’t get out of your head…” Hot Mikado, 2013, InfoBarrel
 
-*Macbeth*
+## *Macbeth*
 
 ![](/assets/10556024264_8bbe512951_c.jpg)
 
@@ -275,19 +275,19 @@ image: /assets/246651_10151107053838267_1333029569_n.jpg
 
 “Praising a production for the quality of the costumes, design or special effects is sometimes seen as rather a backhanded compliment. While this can be true, it is easy to forget that theatre is a visual medium, and so such elements are a legitimate part of the spectacle. In the case of Sedos’ Steampunk inspiredMacbeth, at the Bridewell Theatre, the production values are far beyond anything else you are likely to see on the fringe stage. Indeed, they put large parts of the West End to shame…Director Chloe Faine and Matt Gould (who produced the show) should congratulate themselves on a job well done, along with the rest of the cast and crew.” Macbeth, 2013, Remote Goat
 
-*A Man of No Importance*
+## *A Man of No Importance*
 
 “As an example of total theatricality, I think it is very hard to better this show… the whole cast demonstrated a particularly high standard of singing and the accents were accurate (I commend Sedos for seeking help with this often-overlooked aspect) and consistent… in summary this was a very fine production of this very fine musical.” A Man of No Importance, 2013, Sardines
 
 “The show is very much an ensemble piece, and it seems invidious to single out single performances, when there really isn’t a weak link in the cast… Congratulations to all involved.” A Man of No Importance, 2013, The Gay UK
 
-*Autobahn*
+## *Autobahn*
 
 “The acting is top-notch, as one expects from Sedos… These are alternately funny and disturbing vignettes, excellently played by a confident and talented cast.” Autobahn, 2013, Sardines
 
 “…there are no weak performances… the show is definitely worth seeing. Director Jacqui Adams has produced a show that will linger in people’s minds, and one \[that] again confirms Sedos’ status as a company known for putting on provocative drama.” Autobahn, 2013, Remote Goat
 
-*Godspell*
+## *Godspell*
 
 “This is quite simply the best amateur production I have ever seen… Any director worth their salt would be proud of what Stanex and choreographer Kimberley Barker have achieved… It goes without saying that the role of Jesus is crucial and Joe Penny, a researcher at the New Economics Foundation in his day job, is astounding. Many a West End performer should count themselves lucky that they are not up against this immensely talented young man when auditioning for professional shows… as an ensemble \[the supporting cast] are faultless…” Godspell, 2013, Front Row Dress
 
@@ -295,13 +295,13 @@ image: /assets/246651_10151107053838267_1333029569_n.jpg
 
 “This production confounds expectations on every level.” Godspell, 2013, The Public Reviews
 
-*Gormenghast*
+## *Gormenghast*
 
 “These are seriously good actors, working hard to make the play work in a style that is always in danger of disappearing up its own backside, as plenty of similar productions have done since this style of theatre appeared half a century ago (or should I say ‘reappeared’, since the similarities with classical Greek tragedy are striking). The fact that it didn’t fail is testament to the talent of the actors and the cojones of director Andrew Marchant… I don’t think Sedos intended to give its audience an easy ride, pushing theatre as far as they could. This style of theatre isn’t for everyone, but, taken purely on its own terms, Gormenghast was an unquestioned success.” Gormenghast, 2013, Sardines
 
-**2012**
+# **2012**
 
-*Guys & Dolls*
+## *Guys and Dolls*
 
 ![](/assets/8472503957_d261e79e00_c.jpg)
 
@@ -311,20 +311,19 @@ image: /assets/246651_10151107053838267_1333029569_n.jpg
 
 “…an inventive, energetic, comedic and enjoyable musical because of the love of the material and attention to detail. The small space is home to a big ensemble of talent, expertly choreographed by Thomas Leonard in such a way that regularly leaves the audience breathless… This is a high-quality production of a favourite musical…” Guys & Dolls, 2012, Remote Goat
 
-*As You Like It*
+## *As You Like It*
 
-“The Stock Exchange Dramatic and Operatic Society excels once again with their innovative and unusual one-hour production of Shakepeare's As You Like… The production has been designed and executed in a truly professional manner demonstrating there is no shortage of highly talented players active in amateur theatre.”\
-As You Like It (London), 2012, Suite101.com
+“The Stock Exchange Dramatic and Operatic Society excels once again with their innovative and unusual one-hour production of Shakepeare's As You Like… The production has been designed and executed in a truly professional manner demonstrating there is no shortage of highly talented players active in amateur theatre.” As You Like It (London), 2012, Suite101.com
 
 “Told by those who evidently have a deep set understanding and respect for the text, the story is excellently executed so that not a line is out of place or superfluous to their storytelling cause. The overall design was incredibly creative and brilliantly executed… There are no weak performances from any member of the cast, each an integral link in a strong company… Sedos is so close to being professional it hurts. Outstandingly polished performances, brilliant direction and joy in creating theatrical masterpieces makes these young actors ones to watch.” As You Like It (Edinburgh), 2012, Broadway Baby (five stars)
 
 “Sedos’ version of this classic play is silly, sweet, and very witty.” As You Like It (Edinburgh), 2012, Three Weeks
 
-*Baby*
+## *Baby*
 
 “Sedos… produced a production that not only had incredible production standards, but left me wondering why this gem of a show has been languishing for so long… Musically, the show was kept bouncing along under the baton of David Winters, whose 5 piece band were superb… Major kudos must go to Sedos for nurturing and producing what can only be called a stunning production. I just wish it were running for another week so I could go at least a few more times. Baby left me with a lump in my throat. It exceeded myevery expectation and left me wanting more. Exceptional!!” Baby, 2012, Amateur Stage
 
-*Spring Awakening*
+## *Spring Awakening*
 
 “Within thirty seconds it was very obvious that this is no ordinary amateur company. The Sedos production ofSpring Awakeningwas executed in atotally professional manner leaving little doubt that amateur theatre can be every bit as good as professional theatre, and in this case, even better.” Spring Awakening, 2012, Suite101.com\
 \
@@ -336,16 +335,16 @@ As You Like It (London), 2012, Suite101.com
 \
 “Chris Warner (director) and Max Wolf (creative director) should be justifiably proud of this production. They have chosen not to carbon copy the original production but instead create their own vision and that is to be applauded… on the night I attended, mature adults were visibly moved to tears.” Spring Awakening, 2012, Amateur Stage
 
-*Three Sisters*
+## *Three Sisters*
 
 “There is little evidence of Sedos theatre company's amateur status in its charming production which neatly balances the characters' loneliness and frustration with a sense of hope and humour.” Three Sisters, 2012, One Stop Arts
 
 “As the first show of 2012 for Sedos, Three Sisters rewards before it begins, by presenting the audience with a stunning set... the scale of the thing was impressive... The use of the depth of the stage at the Bridewell was a brilliant and brave move on the director's part, giving opportunity to place the actors as a framed piece of art.”\
 Three Sisters, 2012, Remote Goat
 
-**2011**
+# **2011**
 
-*A Little Night Music*
+## *A Little Night Music*
 
 ![](/assets/6898876725_1108119837_o.jpg)
 
@@ -353,11 +352,11 @@ Three Sisters, 2012, Remote Goat
 
 “Masterful in both dramatic and auditory terms…” A Little Night Music, 2011, Remote Goat
 
-*The Last Days of Judas Iscariot*
+## *The Last Days of Judas Iscariot*
 
 “Billed as an amateur production, the Sedos’ cast are anything but. The clever staging and superb costumes only amplify the wonderful work being put in by the actors… A production that does real justice to the writing and ethos of the play, this is one you will be loath to miss…” The Last Days of Judas Iscariot, 2011, thepublicreviews.com
 
-*Assassins*
+## *Assassins*
 
 “The amateur production I refer to was the very professionally staged version by Sedos… As dry and as sterile as this group may sound (bankers, dancing?), the talent involved was phenomenal… The cast, for one, was perfectly formed… everyone did a fantastic job, all the more incredible when you realise that this was an amateur production…” Assassins, 2011, SONDHEIM the magazine - official publication of the Sondheim Society
 
@@ -365,19 +364,19 @@ Three Sisters, 2012, Remote Goat
 
 “Assassins is rarely staged well and you be hard pressed to find a better amateur production. Kudos to Sedos!!” Assassins, 2011, asmagazine.co.uk
 
-*Arcadia*
+## *Arcadia*
 
 “The simple set worked well for both times and was believable… It is always a joy to go and see well acted and well directed theatre… The audience could tell \[the actors] understood what their characters were saying and why they had to say it… All the performances were strong and retained their originality… Overall a great piece…” Arcadia, 2011, Sardines
 
-**2010**
+# **2010**
 
-*Kiss of the Spider Woman: the Musical*
+## *Kiss of the Spider Woman: The Musical*
 
 “Sedos is generally, and I would say correctly, regarded as the best amateur theatre company in London… And so I had high expectations of the opening night… In short, it's fantastic… kudos to Sedos for an unconventional selection which has been pulled off in (their now trademark) style…” Kiss of the Spider Woman: the Musical, 2010, Remote Goat
 
-**2009**
+# **2009**
 
-*Parade*
+## *Parade*
 
 ![](/assets/4842714345_743f8f6805_c.jpg)
 
@@ -387,16 +386,16 @@ Three Sisters, 2012, Remote Goat
 
 “Talent and scrupulous attention to detail.” Parade, 2009, The London Word
 
-**2008**
+# **2008**
 
-*Rent*
+## *Rent*
 
 “It was fantastic – every bit as good as the West End version, and much more enjoyable than Rent: Remixed!”\
 Rent, 2008, reader view in the London Evening Standard
 
-**2007**
+# **2007**
 
-*Sweeney Todd*
+## *Sweeney Todd*
 
 “A good performance which can stand comparison with the best the professional stage has to offer”\
 Sweeney Todd, 2007, Sweeney Todd Forum online
