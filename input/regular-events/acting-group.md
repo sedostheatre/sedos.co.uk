@@ -1,6 +1,7 @@
 ---
 title: Acting Group
 times: []
+image: /assets/21595508472_219462c05e_c.jpg
 venue: '1 Brewers'' Hall Garden, London EC2V 5DX'
 recurrence: Once a month
 ---
