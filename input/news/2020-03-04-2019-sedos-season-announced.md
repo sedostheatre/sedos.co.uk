@@ -1,6 +1,6 @@
 ---
 title: 2019 Sedos season announced
-date: '2018-08-31'
+date: '2018-09-12'
 image: /assets/2019-season.jpg
 extract: 'Four musicals, three plays and a brand new movement piece '
 ---
