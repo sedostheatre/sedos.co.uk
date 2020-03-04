@@ -1,5 +1,5 @@
 ---
-title: Sedos marches at Pride
+title: Sedos marches at Pride in London
 date: '2019-07-09'
 image: /assets/sedosatpride.jpg
 extract: >-
