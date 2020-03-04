@@ -1,5 +1,5 @@
 ---
-title: Congratulations to Hairspray weekend workshop cast
+title: Congratulations to Hairspray cast
 date: '2019-03-18'
 image: /assets/image00010.jpeg
 extract: 60 people took part in the Weekend Workshop
