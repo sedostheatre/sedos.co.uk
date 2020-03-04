@@ -28,6 +28,6 @@ St Paul’s (Central line), eight-minute walk
 
 Please contact us in advance of your visit on admin@sedos.co.uk if you have accessibility needs.
 
-![](/assets/49552680861_f38ababc87_c.jpg "Sedos' 2019 weekend musical of Hairspray at BHG")
+![](/assets/49552680861_f38ababc87_c.jpg)
 
 *Rehearsals at BHG for Sedos' 2020 production of The Musical of Musicals (The Musical!)*
