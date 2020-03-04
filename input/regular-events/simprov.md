@@ -1,7 +1,7 @@
 ---
 title: Simprov
 times: []
-image: assets/images/events/simprov-banner.jpg
+image: /assets/Simprov-BHG-Gang.jpg
 header-image: assets/images/headers/SedosWebsite-Banner-Simprov.jpg
 venue: ''
 recurrence: ''
