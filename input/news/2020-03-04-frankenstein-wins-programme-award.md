@@ -1,5 +1,5 @@
 ---
-title: Frankenstein wins programme award
+title: Frankenstein wins national award
 date: '2018-09-01'
 image: /assets/nodawards2018.jpg
 extract: Sedos was a winner of a national NODA award
