@@ -6,6 +6,14 @@ image: /assets/246651_10151107053838267_1333029569_n.jpg
 ---
 ## Sedos in the press
 
+# 2020
+
+## *The Musical of Musicals (The Musical!)*
+
+“On any level Sedos production of*The Musical of Musicals, The Musical*at the Bridewell, is a fantastic night out, whether you are a musical aficionado or just someone looking for an evening’s entertainment… Ultimately the strength of this show lies with the six cast members. Emma J Leaver, the director, has found performers with confidence in their own versatility, who really throw themselves into the range of styles and characterisation needed to play all these parts… This show is a great way to forget about storms, elections and coronavirus and just lose yourselves in the magic of the musicals on a wintery February evening.“ [The Musical of Musicals (The Musical!), 2020, Sardines](http://www.sardinesmagazine.co.uk/reviews/review.php?REVIEW-Sedos-Musical%20of%20Musicals%20(the%20musical!)&reviewsID=3879)
+
+
+
 # **2019**
 
 ## *Ragtime*
