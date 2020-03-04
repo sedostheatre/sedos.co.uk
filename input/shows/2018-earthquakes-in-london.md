@@ -118,8 +118,7 @@ sections:
     order: 4
     title: REVIEWS
 ---
-
-> It's cabaret, we've got our heads down and we’re dancing and drinking as fast as we can. The enemy is on its way, but this time it doesn't have guns and gas it has storms and earthquakes, fire and brimstone
+***"It's cabaret, we've got our heads down and we’re dancing and drinking as fast as we can. The enemy is on its way, but this time it doesn't have guns and gas it has storms and earthquakes, fire and brimstone"***
 
 An all-pervasive fear of the future and a guilty pleasure in the excesses of the present drive Mike Bartlett’s epic rollercoaster of a play from 1968 to 2525 and back again.
 
