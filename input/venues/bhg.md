@@ -14,6 +14,8 @@ EC2V 5DX
 
 Brewers’ Hall Garden is a passage accessible on foot between Aldermanbury Square and London Wall. The entrance to our space is up a ramp or a couple of steps off the passage.
 
+![](/assets/screen-shot-2020-03-04-at-19.11.39.png)
+
 **Nearest tube stations:**
 
 Moorgate (Northern, Circle, Hammersmith and City and Metropolitan lines), five-minute walk
