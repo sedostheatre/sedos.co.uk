@@ -10,6 +10,8 @@ image: /assets/246651_10151107053838267_1333029569_n.jpg
 
 ## *The Musical of Musicals (The Musical!)*
 
+![](/assets/49584512558_d82c077fa4_c.jpg)
+
 “On any level Sedos production of*The Musical of Musicals, The Musical*at the Bridewell, is a fantastic night out, whether you are a musical aficionado or just someone looking for an evening’s entertainment… Ultimately the strength of this show lies with the six cast members. Emma J Leaver, the director, has found performers with confidence in their own versatility, who really throw themselves into the range of styles and characterisation needed to play all these parts… This show is a great way to forget about storms, elections and coronavirus and just lose yourselves in the magic of the musicals on a wintery February evening.“ [The Musical of Musicals (The Musical!), 2020, Sardines](http://www.sardinesmagazine.co.uk/reviews/review.php?REVIEW-Sedos-Musical%20of%20Musicals%20(the%20musical!)&reviewsID=3879)
 
 “Daniel Saunders’ Jitter goes from a cross between Sweeney Todd of the Stephen Sondheim musical of the same name and George from *Sunday in the Park* *with Geor*ge to the title character in *The Phantom of the Opera*. His isn’t the only one displaying versatility – Laura Ellis’ June channels her inner Eva Perón in such a way that nobody would be crying for her, whether from Argentina or otherwise. Joseph Dickens’ Billy, meanwhile, is as comfortable as a cowboy as he is as *Evita*’s Che. Completing the cast are ensemble members Lucy Spreckley and Alex Yelland, who are both superb.“ [The Musical of Musicals (The Musical!), 2020, London Theatre 1 (\*\*\*\*)](https://www.londontheatre1.com/reviews/musical/the-musical-of-musicals-the-musical-at-the-bridewell-theatre-review/)
