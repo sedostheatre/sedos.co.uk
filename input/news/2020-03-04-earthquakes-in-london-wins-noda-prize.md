@@ -1,5 +1,5 @@
 ---
-title: Earthquakes in London wins NODA prize
+title: Earthquakes in London wins prize
 date: '2019-06-19'
 image: /assets/earthquake-company.jpg
 extract: Sedos show wins best drama award
