@@ -1,6 +1,6 @@
 ---
 title: '2020 Sedos season announced '
-date: '2020-03-04'
+date: '2019-09-13'
 image: /assets/season.jpg
 extract: 'Three musicals, four plays and more'
 ---
