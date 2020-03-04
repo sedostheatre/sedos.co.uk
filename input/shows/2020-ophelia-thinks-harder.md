@@ -12,6 +12,7 @@ showtimes:
   - time: '2020-04-03 19:30+01:00'
   - time: '2020-04-04 14:30+01:00'
   - time: '2020-04-04 19:30+01:00'
+showtime-summary: 31 March-4 April 2020
 venue: Bridewell Theatre
 primary-color: '#b21b60'
 header-image: /assets/ophelia-thinks-harder-landscape.jpg
