@@ -4,7 +4,7 @@ times:
   - time: '2020-03-13 07:00+00:00'
 image: /assets/simprov3-360.jpg
 venue: '1 Brewers'' Hall Garden, London EC2V 5DX'
-recurrence: Fridays from 13 March-1 May 2020
+recurrence: 'Fridays, 13 March-1 May 2020, 7-9pm'
 ticket-prices: Free to Sedos members
 ---
 Ever fancied trying your hand at improvisation, but scared or worried you won't be any good? Perhaps you've tried improv before but would love to develop your skills. Well, if either scenario describes you, then you're in luck - as you can now sign up to join our new eight-week improv course for beginners running at [1 Brewers' Hall Garden, London EC2V 5DX](https://sedos.l3v5y.co.uk/venues/bhg) from 13 March 2020. 
