@@ -25,7 +25,7 @@ Performances: 5-7 May 2020, [Bridewell Theatre, Bride Lane, London EC4Y 8EQ](htt
 
 Cost: It is free to take the course but you will need to become a member. You must purchase the workshop seperately, see the Sedos box office for more information. 
 
-**Want to take part?:**
+**Want to take part?**
 
 If you're keen to take part, please email your interest and availability for the workshop, rehearsals and performances to [bananahutgang@gmail.com](mailto:bananahutgang@gmail.com).
 
