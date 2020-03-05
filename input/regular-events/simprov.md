@@ -8,8 +8,6 @@ recurrence: ''
 ---
 Simprov is our group that lets members and non-members explore their spontaneous side!
 
-We also have our very own in-house improv group, The Banana Hut Gang, which was formed from a collection of the most die-hard Simprov attendees, who are there to design new shows and spread the improv love across London.
-
 [Find out about our eight-week beginners' improv course,](https://sedos.l3v5y.co.uk/events/improv-for-beginners-8-week-course-with-performance) running 13 March-1 May 2020, with a performance at the end.
 
 ## **The Banana Hut Gang**
