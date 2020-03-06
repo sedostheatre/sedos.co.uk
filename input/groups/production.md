@@ -13,4 +13,4 @@ The production group has a group on Facebook (just search "Sedos Production Grou
 
 ![](/assets/28610193295_e6dbbbb263_c.jpg)
 
-*Our 2016 production of London Road.*
+*Our 2016 production of London Road*
