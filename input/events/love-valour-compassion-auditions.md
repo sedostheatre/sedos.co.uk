@@ -22,6 +22,6 @@ We are looking for a diverse group of seven strong character actors to stage thi
 **Auditions:** Thursday 19 and Sunday 22 March\
 **Recalls:** Saturday 28 March
 
-**SIGN UP**: [membership.sedos.co.uk/signup/](**[membership.sedos.co.uk/signup/](https://membership.sedos.co.uk/signup/)**)
+**SIGN UP**: [membership.sedos.co.uk/signup/](https://membership.sedos.co.uk)
 
 ![](/assets/lvcoblong.jpg)
