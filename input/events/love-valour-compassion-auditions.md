@@ -2,7 +2,6 @@
 title: Love! Valour! Compassion! auditions
 times:
   - time: '2020-03-19 07:00+00:00'
-  - time: '2020-03-22 05:46+00:00'
   - time: '2020-03-22 11:00+00:00'
 image: /assets/lvcoblong.jpg
 venue: '1 Brewers’ Hall Garden, London EC2V 5DX'
