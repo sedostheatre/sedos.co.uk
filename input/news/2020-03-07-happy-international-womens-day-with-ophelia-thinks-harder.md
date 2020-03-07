@@ -1,5 +1,5 @@
 ---
-title: Happy International Women's Day with Ophelia Thinks Harder
+title: Ophelia and International Women's Day
 date: '2020-03-07'
 image: /assets/unnamed.jpg
 extract: Happy International Women's Day with the cast of Ophelia Thinks Harder
