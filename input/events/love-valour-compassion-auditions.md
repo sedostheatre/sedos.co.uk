@@ -23,3 +23,5 @@ We are looking for a diverse group of seven strong character actors to stage thi
 **Recalls:** Saturday 28 March
 
 **SIGN UP**: [membership.sedos.co.uk/signup/](**[membership.sedos.co.uk/signup/](https://membership.sedos.co.uk/signup/)**)
+
+![](/assets/lvcoblong.jpg)
