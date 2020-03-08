@@ -49,27 +49,6 @@ float-nav: true
     </div>
 </div>
 
-<div class="home-news-section">
-    <div class="container">
-        <div class="row">
-        @{
-            var latestNews = Documents["News"]
-                .OrderBy(newsArticle => newsArticle.Get<DateTime>("date"))
-                .Take(4);
-            foreach(var article in latestNews)
-            {
-                Html.RenderPartial("Partials/_NewsCard", @article);
-            }
-        }
-        </div>
-        <div class="row justify-content-center">
-            <div class="col-auto mt-3">
-                <a class="text-white" href="@Context.GetLink("/news")">View all news</a>
-            </div>
-        </div>
-    </div>
-</div>
-
 <div class="home-events-section">
     <div class="container">
         <div class="row">
@@ -98,6 +77,27 @@ float-nav: true
         <div class="row justify-content-center">
             <div class="col-auto mt-3">
                 <a class="text-white" href="@Context.GetLink("/get-involved")">View all events</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="home-news-section">
+    <div class="container">
+        <div class="row">
+        @{
+            var latestNews = Documents["News"]
+                .OrderBy(newsArticle => newsArticle.Get<DateTime>("date"))
+                .Take(4);
+            foreach(var article in latestNews)
+            {
+                Html.RenderPartial("Partials/_NewsCard", @article);
+            }
+        }
+        </div>
+        <div class="row justify-content-center">
+            <div class="col-auto mt-3">
+                <a class="text-white" href="@Context.GetLink("/news")">View all news</a>
             </div>
         </div>
     </div>
