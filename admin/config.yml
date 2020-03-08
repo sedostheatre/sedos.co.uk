@@ -119,9 +119,11 @@ collections:
       - name: image
         label: Image (used on the home page/all news for the card tile)
         widget: image
+        required: false
       - name: extract
         label: Extract (used on the home page/all news page, if an image isn't set)
         widget: string
+        required: false
       - name: body
         label: Article content
         widget: markdown
