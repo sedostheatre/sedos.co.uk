@@ -87,7 +87,7 @@ float-nav: true
         <div class="row">
         @{
             var latestNews = Documents["News"]
-                .OrderBy(newsArticle => newsArticle.Get<DateTime>("date"))
+                .OrderByDescending(newsArticle => newsArticle.Get<DateTime>("date"))
                 .Take(4);
             foreach(var article in latestNews)
             {
