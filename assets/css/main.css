@@ -3237,7 +3237,7 @@ a.text-lime:hover, a.text-lime:focus { color: #b8bd20 !important; }
 
 .banner h1 { font-size: 1.75em; }
 
-.page-section, .home-events-section, .home-news-section, .news-section, .events-section, .upcoming-shows-section, .past-shows-section, .about-section { padding-top: 30px; padding-bottom: 30px; }
+.page-section, .home-events-section, .home-news-section, .news-section, .events-section, .upcoming-shows-section, .past-shows-section, .about-section, .your-visit-section { padding-top: 30px; padding-bottom: 30px; }
 
 .mt-3px { margin-top: 3px; }
 
@@ -3397,3 +3397,13 @@ a.text-lime:hover, a.text-lime:focus { color: #b8bd20 !important; }
 .about-card .card-footer, .about-card .card-header { background: #044484; }
 
 .about-card .card-header { margin-bottom: 3px; }
+
+.your-visit-section { background: #499fcd; padding-bottom: 15px; padding-top: 15px; }
+
+.your-visit-card .card-body { overflow: hidden; padding-bottom: 20px; }
+
+.your-visit-card .card-footer a { color: white; }
+
+.your-visit-card .card-footer, .your-visit-card .card-header { background: #044484; }
+
+.your-visit-card .card-header { margin-bottom: 3px; }
