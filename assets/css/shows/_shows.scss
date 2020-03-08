@@ -26,3 +26,15 @@
 .show-details-nav-header {
     text-transform: uppercase;
 }
+
+.sidebar-flyer {
+    padding: 1em 0;
+    height: 24em;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    img {
+        height: 100%;
+    }
+}

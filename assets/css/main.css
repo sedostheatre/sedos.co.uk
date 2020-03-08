@@ -3384,6 +3384,10 @@ a.text-lime:hover, a.text-lime:focus { color: #b8bd20 !important; }
 
 .show-details-nav-header { text-transform: uppercase; }
 
+.sidebar-flyer { padding: 1em 0; height: 24em; display: flex; flex-direction: column; align-items: center; }
+
+.sidebar-flyer img { height: 100%; }
+
 .about-section { background: #499fcd; padding-bottom: 15px; padding-top: 15px; }
 
 .about-card .card-body { overflow: hidden; padding-bottom: 20px; }
