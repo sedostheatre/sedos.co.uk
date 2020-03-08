@@ -3245,6 +3245,12 @@ a.text-lime:hover, a.text-lime:focus { color: #b8bd20 !important; }
 
 .page-section { background: #499fcd; }
 
+.figure { display: block; margin-left: auto; margin-right: auto; }
+
+.figure img { display: block; margin-left: auto; margin-right: auto; }
+
+.figure figcaption.figure-caption { text-align: center; font-style: italic; color: #212529; }
+
 .header-carousel .header-carousel-image { background-position-x: center; background-position-y: center; background-size: cover; background-repeat: no-repeat; height: 70vh; border-radius: 0; }
 
 .header-carousel-narrow .header-carousel-image { background-position-x: center; background-position-y: center; background-size: cover; background-repeat: no-repeat; height: 40vh; border-radius: 0; }
