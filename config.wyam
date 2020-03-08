@@ -144,6 +144,21 @@ Pipelines.Add("AboutSections",
     WriteFiles(".html")
 );
 
+Pipelines.Add("YourVisitSections",
+    ReadFiles("your-visit/*.md"),
+    FrontMatter(Yaml()),
+    Markdown()
+        .UseExtension<Markdig.Extensions.Bootstrap.BootstrapExtension>()
+        .UseExtension<TargetLinkExtension>()
+        .UseExtensions(),
+    Meta("page-title", "Your Visit"),
+    ForEach(
+        Meta("image", (doc, ctx) => CopyAndResizeImageFromMeta(doc, ctx, "image", 600, 300))
+    ),
+    Razor().WithViewStart("Layout/_PageViewStart.cshtml"),
+    WriteFiles(".html")
+);
+
 Pipelines.Add("Sass",
     ReadFiles("assets/css/main.scss"),
     Sass().WithCompactOutputStyle(),
@@ -158,7 +173,7 @@ Pipelines.Add("Index",
 );
 
 Pipelines.Add("TopLevelPages",
-    ReadFiles("past-productions.cshtml", "about.cshtml"),
+    ReadFiles("past-productions.cshtml", "about.cshtml", "your-visit.cshtml"),
     FrontMatter(Yaml()),
     Meta("header-image", CopyAndResizeHeaderImage),
     Razor(),
