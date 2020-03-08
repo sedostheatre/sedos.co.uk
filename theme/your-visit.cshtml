@@ -1,0 +1,49 @@
+---
+title: Your Visit
+header-image: assets/images/headers/SedosWebsite-Banner-1.jpg
+---
+
+<div class="page-wrapper bg-light">
+    @{
+        Html.RenderPartial("Partials/_HeaderCarousel");
+
+        var sectionRows = Documents["YourVisitSections"]
+            .GroupBy(section => section.Get<int>("row"))
+            .OrderBy(grouping => grouping.Key);
+    }
+
+    <div class="banner">
+        <div class="container">
+            <h1>Your Visit</h1>
+        </div>
+    </div>
+
+    <div class="your-visit-section">
+        @foreach(var sectionRow in sectionRows)
+        {
+            <div class="your-visit-section">
+                <div class="container">
+                    <div class="row">
+                        @foreach(var yourVisitSection in sectionRow.OrderBy(row => row.Get<int>("column")))
+                        {
+                            var link = yourVisitSection.Get<string>("link", null) == null
+                                ? Context.GetLink(yourVisitSection)
+                                : Context.GetLink(yourVisitSection.Get<string>("link"));
+
+                            <div class="col-md">
+                                <a class="text-white" href="@link">
+                                    <div class="card border-0 text-white mb-3 mb-md-0 about-card">
+                                        <div class="card-header">
+                                            <h4 class="card-title">@yourVisitSection["title"]</h4>
+                                        </div>
+                                        <img class="card-img-top" src="@Context.GetLink(yourVisitSection.Get<IDocument>("image"))">
+                                    </div>
+                                </a>
+                            </div>
+                        }
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>
