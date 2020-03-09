@@ -5,6 +5,7 @@ times:
   - time: '2020-03-22 11:00+00:00'
 image: /assets/lvcoblong.jpg
 venue: '1 Brewers’ Hall Garden, London EC2V 5DX'
+recurrence: 19 and 22 March
 ---
 **Eight gay men.**\
 **Three long weekends.**\
