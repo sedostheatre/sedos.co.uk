@@ -33,7 +33,7 @@ Robert J Stanex\
 Mark Macey\
 Charlotte Price\
 \
-Minutes of Trustees’ meetings can be found here
+[Minutes of trustees’ meetings can be found here](https://www.dropbox.com/sh/pz59ex3iwl1dvtu/AABG_C87fxRnti2LwMAJe_gga?dl=0)
 
 ## Management committee
 
@@ -47,7 +47,7 @@ To contact the management committee, please email [committee@sedos.co.uk](mailto
 
 The management committee meets monthly.
 
-Minutes of the management committee’s meetings can be found.
+[Minutes of the management committee’s meetings can be found here.](https://www.dropbox.com/sh/4k5xzud0xtt4nkv/AABLzsgMFefnoHVIol9sXx74a?dl=0)
 
 ### Members of the management committee (2019/2020) are:
 
