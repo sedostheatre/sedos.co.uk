@@ -11,7 +11,8 @@ venue: Bridewell Theatre
 header-image: /assets/A4 poster AW_print-crop-square-360.jpg
 flyer: /assets/HTSWRT-flyer front-800.jpg
 sections:
-  - body: >-
+  - title: CAST & CREATIVE TEAM
+    body: >-
       <!--StartFragment-->
 
 
@@ -20,23 +21,23 @@ sections:
 
       \
 
-      **J.P FINCH**| James Leggat\
+      **J.P FINCH** | James Leggat\
 
-      **ROSEMARY PILKINGTON**| Miranda Evans\
+      **ROSEMARY PILKINGTON** | Miranda Evans\
 
-      **J.B BIGGLEY**| David Robson\
+      **J.B BIGGLEY** | David Robson\
 
-      **SMITTY**| Lauren Clarke\
+      **SMITTY** | Lauren Clarke\
 
-      **BUD FRUMP**| Matt Young\
+      **BUD FRUMP** | Matt Young\
 
-      **MISS JONES**| Tessa Kennedy\
+      **MISS JONES** | Tessa Kennedy\
 
-      **HEDY LA RUE**| Lora Jones\
+      **HEDY LA RUE** | Lora Jones\
 
-      **BERT BRATT**| Ben Woolley\
+      **BERT BRATT** | Ben Woolley\
 
-      **MR TWIMBLE**/**WALLY WOMPER**| Sam Barnes\
+      **MR TWIMBLE**/**WALLY WOMPER** | Sam Barnes\
 
       **\
 
@@ -55,39 +56,39 @@ sections:
 
       \
 
-      **DIRECTOR**| Peter Shimmin\
+      **DIRECTOR** | Peter Shimmin\
 
-      **MUSICAL DIRECTOR**| Michael Cannon\
+      **MUSICAL DIRECTOR** | Michael Cannon\
 
-      **CHOREOGRAPHER**| Samantha Miller\
+      **CHOREOGRAPHER** | Samantha Miller\
 
-      **PRODUCER**| Rebecca Chisholm\
+      **PRODUCER** | Rebecca Chisholm\
 
-      **ASSISTANT MUSICAL DIRECTOR**| Will Gaines\
+      **ASSISTANT MUSICAL DIRECTOR** | Will Gaines\
 
-      **TAP CHOREOGRAPHER**| Paul Brookland Williams\
+      **TAP CHOREOGRAPHER** | Paul Brookland Williams\
 
-      **LIGHTING DESIGNER**| Olly Levett\
+      **LIGHTING DESIGNER** | Olly Levett\
 
-      **SOUND DESIGNER**| Adam Coppard\
+      **SOUND DESIGNER** | Adam Coppard\
 
-      **COSTUME DESIGNER**| Larissa Gauger\
+      **COSTUME DESIGNER** | Larissa Gauger\
 
-      **DRESS MAKER**| Clare Harding\
+      **DRESS MAKER** | Clare Harding\
 
-      **ARTWORK**| Zoë Dobell\
+      **ARTWORK** | Zoë Dobell\
 
-      **MARKETING**| Peter Shimmin\
+      **MARKETING** | Peter Shimmin\
 
-      **PHOTOGRAPHY**| Stephen Russell\
+      **PHOTOGRAPHY** | Stephen Russell\
 
-      **COMMITTEE LIAISON**| Steve King
+      **COMMITTEE LIAISON** | Steven King
 
 
       <!--EndFragment-->
     order: 1
-    title: CAST & CREATIVE TEAM
-  - body: >-
+  - title: REVIEWS
+    body: >-
       <!--StartFragment-->
 
 
@@ -133,7 +134,6 @@ sections:
 
       <!--EndFragment-->
     order: 1
-    title: REVIEWS
 ---
 <!--StartFragment-->
 
