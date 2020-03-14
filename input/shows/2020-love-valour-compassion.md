@@ -1,7 +1,7 @@
 ---
 title: Love! Valour! Compassion!
 year: '2020'
-authors: by TERENCE MCNALLY
+authors: by TERRENCE MCNALLY
 subtitle: 'A monumental exploration into life, love and loss at the end of the millennium'
 showtimes:
   - time: '2020-07-07 19:30+01:00'
@@ -37,12 +37,10 @@ sections:
 
 Winner of the 1995 Tony Award for Best Play, *Love! Valour! Compassion!* is a monumental exploration into life, love and loss at the end of the millennium.
 
-As hilarious as it is heart-breaking, Terence McNally's seminal work captures the zeitgeist of 90s America and forces the question - when reality hits home, who and what is most important to us?
+As hilarious as it is heart-breaking, Terrence McNally's seminal work captures the zeitgeist of 90s America and forces the question - when reality hits home, who and what is most important to us?
 
-We are looking for a diverse group of 7 strong character actors to stage this seldom performed piece.
+We are looking for a diverse group of seven strong character actors to stage this seldom performed piece. [See auditions information here.](https://sedos.l3v5y.co.uk/events/love-valour-compassion-auditions) 
 
-
-
-*This amateur production is presented by arrangement with JosefWeinberger Ltd.*
+*This amateur production is presented by arrangement with Josef Weinberger Ltd.*
 
 <!--EndFragment-->
