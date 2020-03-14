@@ -137,7 +137,7 @@ sections:
 ---
 <!--StartFragment-->
 
-***How to Succeed*is a witty, satirical show with an exhilarating musical score and a plethora of interesting and diverse characters.**
+***How to Succeed* is a witty, satirical show with an exhilarating musical score and a plethora of interesting and diverse characters.**
 
 The story follows J Pierrepont Finch, a lowly window washer, who tries to use a little handbook called ‘How to Succeed in Business Without Really Trying’ to climb the corporate ladder and become a high-powered executive at World Wide Wickets - a cricket wicket company.
 
