@@ -112,7 +112,7 @@ sections:
       picture-in-picture" allowfullscreen></iframe>
     order: 3
 ---
-**Next Thing You Know** ***(“NTYK”) is a musical about four New Yorkers waking up from their invincible* twenties and confronting adulthood in the city that never sleeps. It looks at a time in life when one day you wake up, and instead of a hangover, you have a job. Instead of a fling, you have a live-in girlfriend. And instead of naïve dreams, you have reality. Think: a musical episode of *How I Met Your Mother* or** ***Friends*.**
+***Next Thing You Know*** **(“NTYK”)is a musical about four New Yorkers waking up from their invincible twenties and confronting adulthood in the city that never sleeps. It looks at a time in life when one day you wake up, and instead of a hangover, you have a job. Instead of a fling, you have a live-in girlfriend. And instead of naïve dreams, you have reality. Think: a musical episode of *How I Met Your Mother* or** ***Friends*.**
 
 Like MacLaren’s or Central Perk, there is a central location that throws the characters of NTYK together – a little dive bar on Sullivan Street. We plan to create an immersive dive bar on the Bridewell stage (similar to a Secret Cinema experience) where, before the show and during the interval, the audience can buy a drink or two and mix and mingle with the people of New York, including being part of the ‘behind the scenes’ experience of what the characters of NTYK get up to on their big night out!
 
