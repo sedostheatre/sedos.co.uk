@@ -15,39 +15,36 @@ venue: Bridewell theatre
 header-image: /assets/SohoCindersCast-360.jpg
 flyer: /assets/SohoCindersFlyerFront-800.jpg
 sections:
-  - body: >-
+  - title: CAST & CREATIVE TEAM
+    body: >-
       <!--StartFragment-->
 
 
       **CAST**
 
 
+      **ROBBIE** | Alex Stephenson\
 
+      **VELCRO** | Kat Knight\
 
-      **ROBBIE**| Alex Stephenson\
+      **CLODAGH** | Maria Waters\
 
-      **VELCRO**| Kat Knight\
+      **DANA** | Michelle Bock\
 
-      **CLODAGH**| Maria Waters\
+      **JAMES PRINCE** | Jacob Botha\
 
-      **DANA**| Michelle Bock\
+      **MARILYN PLATT** | Caroline Hart\
 
-      **JAMES PRINCE**| Jacob Botha\
+      **WILLIAM GEORGE** | Paul Matania\
 
-      **MARILYN PLATT**| Caroline Hart\
+      **LORD BELLINGHAM** | David Pearson\
 
-      **WILLIAM GEORGE**| Paul Matania\
+      **SIDESADDLE** | Bex Evans\
 
-      **LORD BELLINGHAM**| David Pearson\
-
-      **SIDESADDLE**| Bex Evans\
-
-      **SASHA LARKIN**| Deborah Lean
+      **SASHA LARKIN** | Deborah Lean
 
 
       **ENSEMBLE**
-
-
 
 
       Sarah Berryman\
@@ -80,30 +77,30 @@ sections:
 
       \
 
-      **DIRECTOR**| Angus Jacobs\
+      **DIRECTOR** | Angus Jacobs\
 
-      **MUSICAL DIRECTOR and PRODUCER**| Ryan Macaulay\
+      **MUSICAL DIRECTOR and PRODUCER** | Ryan Macaulay\
 
-      **ASSOCIATE CHOREOGRAPHERS**| Gayle Bryans, Eloise Menezes and Vaughan
+      **ASSOCIATE CHOREOGRAPHERS** | Gayle Bryans, Eloise Menezes and Vaughan
       Watts\
 
-      **SET DESIGN**| Andrew Laidlaw\
+      **SET DESIGN** | Andrew Laidlaw\
 
-      **LIGHTING DESIGN**| Olly Levett\
+      **LIGHTING DESIGN** | Olly Levett\
 
-      **SOUND DESIGN**| Adam Coppard\
+      **SOUND DESIGN** | Adam Coppard\
 
       **COSTUME DESIGN**| Angus Jacobs and Becs Crighton\
 
-      **MARKETING**| Pippa Kyle\
+      **MARKETING** | Pippa Kyle\
 
-      **STAGE MANAGER**| Lizzie Levett
+      **STAGE MANAGER** | Lizzie Levett
 
 
       <!--EndFragment-->
     order: 1
-    title: CAST & CREATIVE TEAM
-  - body: >-
+  - title: GALLERY
+    body: >-
       <a data-flickr-embed="true"
       href="https://www.flickr.com/photos/sedos/albums/72157709236901417"
       title="Soho Cinders - 2019"><img
@@ -111,8 +108,8 @@ sections:
       width="640" height="480" alt="Soho Cinders - 2019"></a><script async
       src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
     order: 1
-    title: GALLERY
-  - body: >-
+  - title: REVIEWS
+    body: >-
       <!--StartFragment-->
 
 
@@ -124,7 +121,6 @@ sections:
 
       <!--EndFragment-->
     order: 3
-    title: REVIEWS
 ---
 **Robbie has a few problems. His mother has just died, without making a will, and the Old Compton Street laundrette she owned, "Sit & Spin", is under threat from his vulgar stepsisters as they attempt to hike up the rent. If that wasn't enough, he loves one man while being paid to hang out with another!**
 
