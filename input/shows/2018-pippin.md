@@ -21,19 +21,20 @@ primary-color: '#0b0f18'
 header-image: /assets/leads.jpg
 flyer: /assets/pippin-poster-800.jpg
 sections:
-  - body: |-
+  - title: CAST & CREATIVE TEAM
+    body: |-
       <!--StartFragment-->
 
       **CAST**
 
-      **LEADING PLAYER**| Corin Miller\
-      **PIPPIN**| Joe Thompson-Oubari\
-      **CHARLEMAGNE**| Kris Webb\
-      **LEWIS**| Paul Nicholas Dyke\
-      **FASTRADA**| Vicky Terry\
-      **BERTHE**| Annie Houseago\
-      **CATHERINE**| Charlie Welch\
-      **THEO**| Matthew Cise / Jake Purton
+      **LEADING PLAYER** | Corin Miller\
+      **PIPPIN** | Joe Thompson-Oubari\
+      **CHARLEMAGNE** | Kris Webb\
+      **LEWIS** | Paul Nicholas Dyke\
+      **FASTRADA** | Vicky Terry\
+      **BERTHE** | Annie Houseago\
+      **CATHERINE** | Charlie Welch\
+      **THEO** | Matthew Cise / Jake Purton
 
       **PLAYERS**\
       \
@@ -49,10 +50,32 @@ sections:
       Vaughan Watts (dance captain)\
       Sean Westwood
 
+      **CREATIVE**
+
+      **DIRECTOR** | Chris Adams\
+      **MUSICAL DIRECTOR** | Sophie Wright\
+      **CHOREOGRAPHER** | Paul Brookland Williams\
+      **ASSISTANT MUSICAL DIRECTOR** | Ed Curry\
+      **PRODUCERS** | Lizzie Drapper and Pippa Kyle\
+      **LIGHTING DESIGNER** | Oliver Levett\
+      **SOUND DESIGNERS** | Adrian Jeakins and Henry Whittaker\
+      **SET BUILDER** | Steven King\
+      **COSTUMES** | Clare Harding\
+      **TECHNICAL STAGE MANAGER** | Giles Burden\
+      **COMPANY STAGE MANAGER AND COMMITTEE LIAISON** | Rebecca Chisholm\
+      **ASSISTANT STAGE MANAGER** | Peter Shimmin\
+      **BANNER DESIGN AND CREATION** | Lesley Birch\
+      **SOUND ASSISTANT** | Adam Coppard\
+      **IMAGE AND FLYER DESIGN** | Rebecca Pitt\
+      **MARKETING AND PROGRAMME DESIGN** | Pippa Kyle\
+      **PHOTOGRAPHERS** | Michael Smith, Chris Adams and Paul Nicholas Dyke
+
+
+
       <!--EndFragment-->
     order: 1
-    title: CAST & CREATIVE TEAM
-  - body: >-
+  - title: GALLERY
+    body: >-
       <a data-flickr-embed="true"
       href="https://www.flickr.com/photos/sedos/albums/72157665408534407"
       title="Pippin - 2018"><img
@@ -60,8 +83,8 @@ sections:
       width="640" height="363" alt="Pippin - 2018"></a><script async
       src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
     order: 2
-    title: GALLERY
-  - body: >-
+  - title: VIDEO
+    body: >-
       <iframe width="560" height="315"
       src="https://www.youtube.com/embed/_DRZBbOSsi8" frameborder="0"
       allow="accelerometer; autoplay; encrypted-media; gyroscope;
@@ -73,8 +96,8 @@ sections:
       allow="accelerometer; autoplay; encrypted-media; gyroscope;
       picture-in-picture" allowfullscreen></iframe>
     order: 3
-    title: VIDEO
-  - body: >-
+  - title: REVIEWS
+    body: >-
       <!--StartFragment-->
 
 
@@ -115,16 +138,14 @@ sections:
 
       <!--EndFragment-->
     order: 4
-    title: REVIEWS
 ---
-**Think about your life, Pippin. Days are tame and nights the same.
-Now think about the beauty
+**Think about your life, Pippin. Days are tame and nights the same. Now think about the beauty
 In one perfect flame…**
 
 Meet Pippin. Young, ambitious, full of potential and ready to change the world. But things are never that simple.
 
 Setting out to make his mark, Pippin dabbles with the horrors of war, the lure of sex and the sordid world of politics, failing at every turn. But there is someone Pippin can rely on. Someone he can trust. Someone who can help Pippin be remembered forever… in one final, extraordinary blaze of glory.
 
-With its infectious and unforgettable score from four-time Grammy and three-time Oscar winner Stephen Schwartz (Wicked, Godspell, Children of Eden), Pippin has delighted audiences across the world. The most recent Broadway revival swept the New York awards circuit, including winning the Tony Award for Best Revival of a Musical.
+With its infectious and unforgettable score from four-time Grammy and three-time Oscar winner Stephen Schwartz (*Wicked*, *Godspell*, *Children of Eden*), *Pippin* has delighted audiences across the world. The most recent Broadway revival swept the New York awards circuit, including winning the Tony Award for Best Revival of a Musical.
 
 Join us. Perhaps you’ll find your very own corner of the sky.
