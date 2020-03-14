@@ -13,6 +13,6 @@ Auditions for the named parts will take place on the evening of Tuesday 28 April
 
 Participation in the Weekend Musical is free for Sedos members and £15 for non-members.
 
-Find out more in the audition notice [tinyurl.com/sedossisteract](tinyurl.com/sedossisteract) and sign up to take part at [membership.sedos.co.uk](membership.sedos.co.uk)
+Find out more in the audition notice [tinyurl.com/sedossisteract](https://tinyurl.com/sedossisteract) and sign up to take part at [membership.sedos.co.uk](https://membership.sedos.co.uk)
 
 ![](/assets/sisteractweb.jpg)
