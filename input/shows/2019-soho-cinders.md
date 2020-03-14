@@ -128,8 +128,6 @@ James Prince also has problems. He’s running for mayor, but his campaign manag
 
 When your only inheritance is an urn of ashes on the mantelpiece or if your secret romance becomes tabloid front page news, can love really conquer all?
 
-From the laundrette which hears more confidences than it washes G-strings, to a dramatic political fundraiser where a mobile phone is lost as midnight strikes, Soho Cinders is a witty, heartwarming musical twist on the classic fairytale.
-
-
+From the laundrette which hears more confidences than it washes G-strings, to a dramatic political fundraiser where a mobile phone is lost as midnight strikes, *Soho Cinders* is a witty, heartwarming musical twist on the classic fairytale.
 
 *An amateur production presented by arrangement with Music Theatre International (Europe). All authorised performance materials are also supplied by MTI Europe. www.MTISHOWS.co.uk*
