@@ -14,40 +14,41 @@ venue: Bridewell Theatre
 header-image: /assets/About-JoinUs.jpg
 flyer: /assets/drowsyfront-800.jpg
 sections:
-  - body: >-
+  - title: CAST & CREATIVE TEAM
+    body: >-
       <!--StartFragment-->
 
 
       CAST
 
 
-      **Man In Chair**| Alex Baker\
+      **MAN IN CHAIR** | Alex Baker\
 
-      **The Drowsy Chaperone**| Vicky Terry\
+      **THE DROWSY CHAPERONE** | Vicky Terry\
 
-      **Janet van de Graaff**| Corin Miller\
+      **JANET VAN DE GRAAFF** | Corin Miller\
 
-      **Robert Martin**| Angus Jacobs\
+      **ROBERT MARTIN** | Angus Jacobs\
 
-      **George**| Lewis McKenzie\
+      **GEORGE** | Lewis McKenzie\
 
-      **Aldolpho**| Kevin Murray\
+      **ALDOLPHO** | Kevin Murray\
 
-      **Mrs. Tottendale**| Penny Rodie\
+      **MRS TOTTENDALE** | Penny Rodie\
 
-      **Underling**| Matt Bentley\
+      **UNDERLING** | Matt Bentley\
 
-      **Feldzie**g | Dan Saunders\
+      **FELDZIEG** | Dan Saunders\
 
-      **Kitty**| Heather Broderick\
+      **KITTY** | Heather Broderick\
 
-      **Gangsters**| Tom Chesover and Inti Conde\
+      **GANGSTERS** | Tom Chesover and Inti Conde\
 
-      **Trix**| Siobhan Aarons\
+      **TRIX** | Siobhan Aarons\
 
       \
 
-      **Ensemble**| Breeana Gardiner, Natalie Harding-Moore, Eloise Horton,
+      **ENSEMBLE** | Breeana Gardiner, Natalie Harding-Moore, Eloise Horton,
       Charlotte Raven and Vaughan-Alicia Watts
 
 
@@ -56,35 +57,35 @@ sections:
       CREATIVE TEAM
 
 
-      **Director**| Emma J Leaver\
+      **DIRECTOR** | Emma J Leaver\
 
-      **Musical Director**| Michael Cannon\
+      **MUSICAL DIRECTOR** | Michael Cannon\
 
-      **Choreographer**| Laura de Iongh\
+      **CHOREOGRAPHER** | Laura de Iongh\
 
-      **Producers**| Adrian Hau and Ruth Luckins\
+      **PRODUCERS** | Adrian Hau and Ruth Luckins\
 
-      **Assistant Produce**r | Pippa Kyle\
+      **ASSISTANT PRODUCER** | Pippa Kyle\
 
-      **Assistant Director**| Matt Hudson\
+      **ASSISTANT DIRECTOR** | Matt Hudson\
 
-      **Conductor**| Adrian Hau\
+      **CONDUCTOR** | Adrian Hau\
 
-      **Assistant Choreographer**| Hannah Shields\
+      **ASSISTANT CHOREOGRAPHER** | Hannah Shields\
 
-      **Stage Manager**| Lizzie Drapper\
+      **STAGE MANAGER** | Lizzie Drapper\
 
-      **Set Design**| Stuart Massey\
+      **SET DESIGN** | Stuart Massey\
 
-      **Costumes**| Sara Simon-Vermot and Clare Harding\
+      **COSTUMES** | Sara Simon-Vermot and Clare Harding\
 
-      **Lighting Design**| Olly Levett
+      **LIGHTING DESIGN** | Olly Levett
 
 
       <!--EndFragment-->
     order: 1
-    title: CAST & CREATIVE TEAM
-  - body: >-
+  - title: GALLERY
+    body: >-
       <a data-flickr-embed="true"
       href="https://www.flickr.com/photos/sedos/albums/72157680171102106"
       title="The Drowsy Chaperone - 2017"><img
@@ -93,8 +94,8 @@ sections:
       async src="//embedr.flickr.com/assets/client-code.js"
       charset="utf-8"></script>
     order: 2
-    title: GALLERY
-  - body: >-
+  - title: REVIEWS
+    body: >-
       <!--StartFragment-->
 
 
@@ -118,9 +119,8 @@ sections:
 
       <!--EndFragment-->
     order: 3
-    title: REVIEWS
 ---
-**Winner of five Tony Awards including Best Book of Musical and Best Original Score,*The Drowsy Chaperone*bursts to life on the Bridewell Theatre stage this May.**
+**Winner of five Tony Awards including Best Book of Musical and Best Original Score,*The Drowsy Chaperone* bursts to life on the Bridewell Theatre stage this May.**
 
 A Man sits at home, and looks for a cure for his “non-specific sadness”. He turns to his record collection and selects a little-known recording from the glory days of Broadway, “The Drowsy Chaperone”. As the record plays, we are transported into the world of a 1920s musical where there are gangsters, mistaken identities and a wedding that may or may not happen. While the musical comes to life around him, we not only learn more about the characters of the farcical production, but more about The Man and how he came to be sitting alone, feeling blue.
 
