@@ -31,7 +31,8 @@ primary-color: '#750630'
 header-image: /assets/bar-2209813.jpg
 flyer: /assets/poster.jpg
 sections:
-  - body: >-
+  - title: CAST & CREATIVE TEAM
+    body: >-
       <!--StartFragment-->
 
 
@@ -40,26 +41,25 @@ sections:
 
       \
 
-      **WAVERLY**| Laura Ellis\
+      **WAVERLY** | Laura Ellis\
 
-      **LISA**| Bobbi Mair\
+      **LISA** | Bobbi Mair\
 
-      **DARREN**| Joshua Yeardley / Luke James Leahy*\
+      **DARREN** | Joshua Yeardley / Luke James Leahy*\
 
-      **LUKE**| Chris Foxwell
+      **LUKE** | Chris Foxwell
 
 
-      **ENSEMBLE**| Lauren Clarke, Ellie Jones, Emma J Leaver, Alex Stephenson,
+      **ENSEMBLE** | Lauren Clarke, Ellie Jones, Emma J Leaver, Alex Stephenson,
       Sarah White, Joshua Yeardley / Luke James Leahy (when not playing Darren*)
 
 
       \
 
-      *\*The role of Darren will be played by Joshua Yeardley
-      on**Tuesday**,**Thursday**and**Saturday night**(**5**,**7**and**9
-      March**), and by Luke James Leahy
-      on**Wednesday**,**Friday**and**Saturday**matinée (**6**,**8**and**9
-      March**).*
+      *\*The role of Darren will be played by Joshua Yeardley on **Tuesday**,
+      **Thursday** and **Saturday night** (**5**, **7** and **9 March**), and by
+      Luke James Leahy on **Wednesday**, **Friday** and **Saturday** matinée
+      (**6**, **8** and **9 March**).*
 
 
       \
@@ -69,27 +69,27 @@ sections:
 
       \
 
-      **DIRECTOR**| Dan Saunders\
+      **DIRECTOR** | Dan Saunders\
 
-      **MUSICAL DIRECTOR**| Adrian Hau\
+      **MUSICAL DIRECTOR** | Adrian Hau\
 
-      **PRODUCER**| Natalie Harding-Moore\
+      **PRODUCER** | Natalie Harding-Moore\
 
-      **TECHNICAL LEAD**| Olly Levett\
+      **TECHNICAL LEAD** | Olly Levett\
 
-      **STAGE MANAGER**| Lizzie Levett\
+      **STAGE MANAGER** | Lizzie Levett\
 
-      **POSTER DESIGN**| Zoe Dobell\
+      **POSTER DESIGN** | Zoe Dobell\
 
-      **SET REALISATION**| Andrew Laidlaw\
+      **SET REALISATION** | Andrew Laidlaw\
 
-      **ASSISTANT STAGE MANAGER**| Shiri Stern
+      **ASSISTANT STAGE MANAGER** | Shiri Stern
 
 
       <!--EndFragment-->
     order: 1
-    title: CAST & CREATIVE TEAM
-  - body: >-
+  - title: GALLERY
+    body: >-
       <a data-flickr-embed="true"
       href="https://www.flickr.com/photos/sedos/albums/72157678038786328"
       title="Next Thing You Know - 2019"><img
@@ -98,8 +98,8 @@ sections:
       async src="//embedr.flickr.com/assets/client-code.js"
       charset="utf-8"></script>
     order: 2
-    title: GALLERY
-  - body: >-
+  - title: VIDEOS
+    body: >-
       <iframe width="560" height="315"
       src="https://www.youtube.com/embed/gv4tHs6k0Zg" frameborder="0"
       allow="accelerometer; autoplay; encrypted-media; gyroscope;
@@ -111,7 +111,6 @@ sections:
       allow="accelerometer; autoplay; encrypted-media; gyroscope;
       picture-in-picture" allowfullscreen></iframe>
     order: 3
-    title: VIDEOS
 ---
 **Next Thing You Know** ***(“NTYK”) is a musical about four New Yorkers waking up from their invincible* twenties and confronting adulthood in the city that never sleeps. It looks at a time in life when one day you wake up, and instead of a hangover, you have a job. Instead of a fling, you have a live-in girlfriend. And instead of naïve dreams, you have reality. Think: a musical episode of *How I Met Your Mother* or** ***Friends*.**
 
