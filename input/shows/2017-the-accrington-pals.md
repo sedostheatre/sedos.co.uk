@@ -9,30 +9,33 @@ venue: Bridewell Theatre
 header-image: /assets/accringtoncast.png
 flyer: /assets/accringtonflyerfront-800.jpg
 sections:
-  - body: |-
-      **CAST****\
-      BERTHA**- Kimberly Barker**\
-      CSM RIVERS**- James Franey\
-      **EVA**- Lydia Johnson\
-      **MAY**- Deborah Lean\
-      **RALPH**- Adam Moulder\
-      **ANNIE**- Paula Mount\
-      **REGGIE**- Rosalia Myttas-Perris\
-      **SARAH**- Leila Ruban\
-      **TOM**- Robert J. Stanex\
-      **ARTHUR**- Mark Watson
+  - title: CAST & CREATIVE TEAM
+    body: |-
+      **CAST**\
+      **BERTHA** | Kimberly Barker\
+      **CSM RIVERS |** James Franey**\
+      EVA** |Lydia Johnson**\
+      MAY** | Deborah Lean**\
+      RALPH** | Adam Moulder**\
+      ANNIE** | Paula Mount**\
+      REGGIE** | Rosalia Myttas-Perris**\
+      SARAH** | Leila Ruban**\
+      TOM** | Robert J. Stanex**\
+      ARTHUR** | Mark Watson
 
-      **DIRECTOR**- Fran Rafferty\
-      **PRODUCER**- Rebecca Chisholm\
-      **LIGHTING DESIGNER**- Oliver Levett\
-      **SOUND DESIGNER**- Adrian Jeakins\
-      **COMPANY STAGE MANAGER AND PROPS SUPERVISOR**- Lizzie Drapper\
-      **SET CONSTRUCTION**- Ben Hussey\
-      **MARKETING CONSULTANT**- Kaytie Lee\
-      **PHOTOGRAPHY**- Stephen Russell
+      **CREATIVE TEAM**
+
+      **DIRECTOR** | Fran Rafferty\
+      **PRODUCER** | Rebecca Chisholm\
+      **LIGHTING DESIGNER** | Oliver Levett\
+      **SOUND DESIGNER** | Adrian Jeakins\
+      **COMPANY STAGE MANAGER AND PROPS SUPERVISOR** | Lizzie Drapper\
+      **SET CONSTRUCTION** | Ben Hussey\
+      **MARKETING CONSULTANT** | Kaytie Lee\
+      **PHOTOGRAPHY** | Stephen Russell
     order: 1
-    title: CAST & CREATIVE TEAM
-  - body: >-
+  - title: GALLERY
+    body: >-
       <a data-flickr-embed="true"
       href="https://www.flickr.com/photos/sedos/albums/72157677053010262"
       title="The Accrington Pals - 2017"><img
@@ -41,8 +44,8 @@ sections:
       async src="//embedr.flickr.com/assets/client-code.js"
       charset="utf-8"></script>
     order: 2
-    title: GALLERY
-  - body: >-
+  - title: VIDEO
+    body: >-
       <iframe width="560" height="315"
       src="https://www.youtube.com/embed/sLMjq-nqX4w" frameborder="0"
       allow="accelerometer; autoplay; encrypted-media; gyroscope;
@@ -54,9 +57,8 @@ sections:
       allow="accelerometer; autoplay; encrypted-media; gyroscope;
       picture-in-picture" allowfullscreen></iframe>
     order: 3
-    title: VIDEO
 ---
-***The Accrington Pals*is a beautiful play byPeter Whelanabout the women and men from a town during the raising of Kitchener’s Army, duringWorld War I.**
+***The Accrington Pals* is a beautiful play byPeter Whelanabout the women and men from a town during the raising of Kitchener’s Army, duringWorld War I.**
 
 This new production will be modern dress; acknowledging that this pithy, often funny, human-interest play has the opportunity to open the audiences view to a sense of history repeating rather than the distance of a centenary war.
 
@@ -64,7 +66,7 @@ Our setting will be amongst the market stalls of a small town; our Pals (a secti
 
 May is a green grocer who inherited her work from her father and has by default become the epicentre of the town. Close-by, Annie, Sarah and Bertha.
 
-Tom has signed up to the Pals, with his best friend Ralph, and Annie’s pigeonfancying husband, Arthur. They have their reasons; reasons that May struggles to understand, and rallies against.
+Tom has signed up to the Pals, with his best friend Ralph, and Annie’s pigeon-fancying husband, Arthur. They have their reasons; reasons that May struggles to understand, and rallies against.
 
 In the boys absence Eva, Ralph’s girlfriend, replaces Tom in May’s life and on the stall. The men are disappearing from the town as the women close ranks to defend what remains. In the midst of which, Reggie ducks and dives about the town trying to make sense of a family and town that continues to disintegrate under the pressure of war.
 
