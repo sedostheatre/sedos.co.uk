@@ -12,7 +12,8 @@ showtimes:
 header-image: /assets/nether-cast-650.jpg
 flyer: /assets/thenether-poster.jpg
 sections:
-  - body: |-
+  - title: CAST & CREATIVE TEAM
+    body: |-
       **CAST**
 
       **MORRIS** | Kasia Chodurek\
@@ -23,20 +24,20 @@ sections:
 
       **PRODUCTION TEAM**\
       \
-      **DIRECTOR**| Kimberly Barker\
-      **ASSISTANT DIRECTOR**| Olivier Namet\
-      **PRODUCTION MANAGER**| Robert J. Stanex\
-      **PRODUCER**| Aileen Ryan\
-      **TECHNICAL PRODUCER**| Lizzie Drapper\
-      **STAGE MANAGER**| Lottie Mills\
-      **PROJECTION DESIGN**| Olivier Namet\
-      **SET DESIGN**| Kimberly Barker and Robert J. Stanex\
-      **LIGHTING DESIGN**| Oliver Levett\
-      **SOUND DESIGN**| Ben Hussey\
-      **COSTUMES**| Deborah Lean
+      **DIRECTOR** | Kimberly Barker\
+      **ASSISTANT DIRECTOR** | Olivier Namet\
+      **PRODUCTION MANAGER** | Robert J. Stanex\
+      **PRODUCER**  Aileen Ryan\
+      **TECHNICAL PRODUCER** | Lizzie Drapper\
+      **STAGE MANAGER** | Lottie Mills\
+      **PROJECTION DESIGN** | Olivier Namet\
+      **SET DESIGN** | Kimberly Barker and Robert J. Stanex\
+      **LIGHTING DESIGN** | Oliver Levett\
+      **SOUND DESIGN** | Ben Hussey\
+      **COSTUMES** | Deborah Lean
     order: 1
-    title: CAST & CREATIVE TEAM
-  - body: >-
+  - title: VIDEO
+    body: >-
       <a data-flickr-embed="true"
       href="https://www.flickr.com/photos/sedos/albums/72157688525670345"
       title="The Nether - 2017"><img
@@ -44,14 +45,13 @@ sections:
       width="640" height="427" alt="The Nether - 2017"></a><script async
       src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
     order: 2
-    title: VIDEO
-  - body: >-
+  - title: VIDEO
+    body: >-
       <iframe width="560" height="315"
       src="https://www.youtube.com/embed/uTJQBTLb66w" frameborder="0"
       allow="accelerometer; autoplay; encrypted-media; gyroscope;
       picture-in-picture" allowfullscreen></iframe>
     order: 3
-    title: VIDEO
 ---
 **NETHER REALM**\
 **1. Another world for mythical creatures**\
@@ -61,4 +61,4 @@ sections:
 
 The internet has evolved into the Nether, a vast network of virtual reality realms. Users may log in, choose an identity, and indulge any desire. When Detective Morris investigates a realm called The Hideaway where people with a sexual interest in children may live out their fantasies involving children, she brings its creator in for interrogation. They discover they have made emotional attachments in his realm that blind them to the greater questions of ethical behavior, both in the imagination and the outside world.
 
-**PLEASE NOTE:***The Nether*is being performed as part of a two show evening of theatre and will take place before performances of contemporary musical***[Ordinary Days](https://sedos.co.uk/2017/ordinarydays.htm)***.
+**PLEASE NOTE:** *The Nether* is being performed as part of a two show evening of theatre and will take place before performances of contemporary musical *[Ordinary Days](https://sedos.l3v5y.co.uk/shows/2017-ordinary-days)*.
