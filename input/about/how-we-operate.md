@@ -62,3 +62,7 @@ Tim Garrad\
 Olly Levett \
 Deborah Lean\
 Andy Hind
+
+## Groups
+
+Sedos has a [marketing group](https://sedos.l3v5y.co.uk/groups/marketing), a [production group](https://sedos.l3v5y.co.uk/groups/production) and a [membership group](https://sedos.l3v5y.co.uk/groups/membership), all of which contribute to the day to day operations of the society. Anyone can volunteer to get involved in these groups.
