@@ -19,13 +19,14 @@ venue: Rayne Theatre & Minack Theatre
 header-image: /assets/SwellParty-Minack-1-360.jpg
 flyer: /assets/SwellParty-A5-FRONT-800.jpg
 sections:
-  - body: |-
+  - title: CAST & CREATIVE TEAM
+    body: |-
       <!--StartFragment-->
 
       **CAST**
 
-      **COLE**| James Franey\
-      **LINDA**| Liz Flint
+      **COLE** | James Franey\
+      **LINDA** | Liz Flint
 
       Stephen Beeny\
       Susan Booth\
@@ -38,21 +39,21 @@ sections:
       **\
       CREATIVE TEAM**
 
-      **DIRECTORS**| Roger Harwood and Dawn Harrison-Wallace\
-      **MUSICAL DIRECTOR**| Matt Gould\
-      **CHOREOGRAPHER**| Jane Saunders\
-      **PRODUCER**| Lizzie Levett\
-      **STAGE MANAGER**| Andrew Laidlaw\
-      **SET DESIGNER**| Steven King\
-      **LIGHTING DESIGNER**| Olly Levett\
-      **SOUND DESIGNER**| Adam Coppard\
-      **DESIGN and MARKETING**| Stephen Beeny and Pippa Kyle\
-      **PIANIST**| Ryan Macaulay
+      **DIRECTORS** | Roger Harwood and Dawn Harrison-Wallace\
+      **MUSICAL DIRECTOR** | Matt Gould\
+      **CHOREOGRAPHER** | Jane Saunders\
+      **PRODUCER** | Lizzie Levett\
+      **STAGE MANAGER** | Andrew Laidlaw\
+      **SET DESIGNER** | Steven King\
+      **LIGHTING DESIGNER** | Olly Levett\
+      **SOUND DESIGNER** | Adam Coppard\
+      **DESIGN and MARKETING** | Stephen Beeny and Pippa Kyle\
+      **PIANIST** | Ryan Macaulay
 
       <!--EndFragment-->
     order: 1
-    title: CAST & CREATIVE TEAM
-  - body: >-
+  - title: GALLERY
+    body: >-
       <a data-flickr-embed="true"
       href="https://www.flickr.com/photos/sedos/albums/72157708791677932"
       title="A Swell Party - 2019"><img
@@ -60,8 +61,8 @@ sections:
       width="640" height="427" alt="A Swell Party - 2019"></a><script async
       src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
     order: 2
-    title: GALLERY
-  - body: >-
+  - title: REVIEW
+    body: >-
       #### **A Swell Party – Review SEDOS**
 
       ***reviewed by Jenni Balow***
@@ -136,7 +137,6 @@ sections:
 
       When’s the next party?
     order: 3
-    title: REVIEW
 ---
 <!--StartFragment-->
 
