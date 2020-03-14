@@ -15,19 +15,20 @@ primary-color: '#17a2b8'
 header-image: /assets/35518725_10156293703593267_8650517914618691584_n.jpg
 flyer: /assets/FlyerA6-Front-800.jpg
 sections:
-  - body: |-
+  - title: CAST & CREATIVE TEAM
+    body: |-
       <!--StartFragment-->
 
       **CAST**
 
-      **COLIN**| Marcus Ezekiel\
-      **FREYA**| Kimberly Barker\
-      **JASMINE**| Izzi Richardson\
-      **PETER/EMILY**| Helena Bumpus\
-      **SARAH**| Carrie Pennifer\
-      **STEVE**| David Pearson\
-      **ROBERT**| Paul Francis\
-      **TOM**| Hassan Govia\
+      **COLIN** | Marcus Ezekiel\
+      **FREYA** | Kimberly Barker\
+      **JASMINE** | Izzi Richardson\
+      **PETER/EMILY** | Helena Bumpus\
+      **SARAH** | Carrie Pennifer\
+      **STEVE** | David Pearson\
+      **ROBERT** | Paul Francis\
+      **TOM** | Hassan Govia\
       \
       **ENSEMBLE**
 
@@ -42,22 +43,22 @@ sections:
       \
       **PRODUCTION TEAM**\
       \
-      **DIRECTOR**| Chris Davis\
-      **TECHNICAL PRODUCER**| Oliver Levett\
-      **ASSISTANT DIRECTOR**| Olivier Namet\
-      **LIGHTING DESIGN**| Oliver Levett\
-      **SOUND DESIGN**| Adam Lockett & Adam Coppard\
-      **COSTUME DESIGN**| Thekla Bollinger\
-      **CHOREOGRAPHER**| Tom Leonard\
-      **PROJECTION & MARKETING DESIGN**| Olivier Namet\
-      **STAGE MANAGER:**Jade Bull\
-      **ASSISTANT STAGE MANAGER:**Wing-Ho Lin\
-      **COMMITTEE LIAISON**| Matt Gould
+      **DIRECTOR** | Chris Davis\
+      **TECHNICAL PRODUCER** | Oliver Levett\
+      **ASSISTANT DIRECTOR** | Olivier Namet\
+      **LIGHTING DESIGN** | Oliver Levett\
+      **SOUND DESIGN** | Adam Lockett and Adam Coppard\
+      **COSTUME DESIGN** | Thekla Bollinger\
+      **CHOREOGRAPHER** | Tom Leonard\
+      **PROJECTION & MARKETING DESIGN** | Olivier Namet\
+      **STAGE MANAGER** |Jade Bull\
+      **ASSISTANT STAGE MANAGER** | Wing-Ho Lin\
+      **COMMITTEE LIAISON** | Matt Gould
 
       <!--EndFragment-->
     order: 1
-    title: CAST & CREATIVE TEAM
-  - body: >-
+  - title: GALLERY
+    body: >-
       <a data-flickr-embed="true"
       href="https://www.flickr.com/photos/sedos/albums/72157704576107721"
       title="Earthquakes in London - 2018"><img
@@ -66,8 +67,8 @@ sections:
       async src="//embedr.flickr.com/assets/client-code.js"
       charset="utf-8"></script>
     order: 2
-    title: GALLERY
-  - body: >-
+  - title: TRAILER
+    body: >-
       <iframe width="560" height="315"
       src="https://www.youtube.com/embed/McCnRmeCW0w" frameborder="0"
       allow="accelerometer; autoplay; encrypted-media; gyroscope;
@@ -79,8 +80,8 @@ sections:
       allow="accelerometer; autoplay; encrypted-media; gyroscope;
       picture-in-picture" allowfullscreen></iframe>
     order: 3
-    title: TRAILER
-  - body: >-
+  - title: REVIEWS
+    body: >-
       <!--StartFragment-->
 
 
@@ -116,14 +117,13 @@ sections:
 
       <!--EndFragment-->
     order: 4
-    title: REVIEWS
 ---
 ***"It's cabaret, we've got our heads down and we’re dancing and drinking as fast as we can. The enemy is on its way, but this time it doesn't have guns and gas it has storms and earthquakes, fire and brimstone"***
 
 An all-pervasive fear of the future and a guilty pleasure in the excesses of the present drive Mike Bartlett’s epic rollercoaster of a play from 1968 to 2525 and back again.
 
-Earthquakes in London includes burlesque strip shows, bad dreams, social breakdown, population explosion, and worldwide paranoia. It is a fast and furious metropolitan crash of people, scenes and decades, as three sisters attempt to navigate their dislocated lives and loves, while their dysfunctional father, a brilliant scientist, predicts global catastrophe.
+*Earthquakes in London* includes burlesque strip shows, bad dreams, social breakdown, population explosion, and worldwide paranoia. It is a fast and furious metropolitan crash of people, scenes and decades, as three sisters attempt to navigate their dislocated lives and loves, while their dysfunctional father, a brilliant scientist, predicts global catastrophe.
 
 Mike Bartlett’s contemporary and direct dialogue combines a strong sense of humanity with epic ambition, as well as finely aimed shafts of political comment embedded effortlessly into every scene.
 
-Earthquakes in London was first performed on 4 August 2010 at the National Theatre, in a co-production with Headlong Theatre. The Telegraph called it "the theatrical equivalent of a thrilling rollercoaster ride".
+*Earthquakes in London* was first performed on 4 August 2010 at the National Theatre, in a co-production with Headlong Theatre. The Telegraph called it "the theatrical equivalent of a thrilling rollercoaster ride".
