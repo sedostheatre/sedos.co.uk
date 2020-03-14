@@ -13,27 +13,28 @@ showtime-summary: 27-30 September 2017
 header-image: /assets/od-cast-650.jpg
 flyer: /assets/ordinarydays-quickfront.jpg
 sections:
-  - body: |-
+  - title: CAST & CREATIVE TEAM
+    body: |-
       <!--StartFragment-->
 
       **CAST**
 
-      **Jason**| Inti Conde\
-      **Claire**| Louisa Roberts\
-      **Deb**| Kate Gledhill\
-      **Warren**I Glen Jordan
+      **JASON** | Inti Conde\
+      **CLAIRE** | Louisa Roberts\
+      **DEB** | Kate Gledhill\
+      **WARREN** I Glen Jordan
 
       **CREATIVE TEAM**\
       \
-      **Director**| Yojiro Ichikawa\
-      **Musical Director**| Ed Curry\
-      **Producer**| Vaughan Watts\
-      **Assistant director**| Peter Shimmin
+      **DIRECTOR** | Yojiro Ichikawa\
+      **MUSICAL DIRECTOR** | Ed Curry\
+      **PRODUCER** | Vaughan Watts\
+      **ASSISTANT DIRECTOR** | Peter Shimmin
 
       <!--EndFragment-->
     order: 1
-    title: CAST & CREATIVE TEAM
-  - body: >-
+  - title: GALLERY
+    body: >-
       <a data-flickr-embed="true"
       href="https://www.flickr.com/photos/sedos/albums/72157687808907485"
       title="Ordinary Days - 2017"><img
@@ -41,18 +42,16 @@ sections:
       width="640" height="427" alt="Ordinary Days - 2017"></a><script async
       src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
     order: 2
-    title: GALLERY
-  - body: >-
+  - title: VIDEO
+    body: >-
       <iframe width="560" height="315"
       src="https://www.youtube.com/embed/q3WP8EyzhYY" frameborder="0"
       allow="accelerometer; autoplay; encrypted-media; gyroscope;
       picture-in-picture" allowfullscreen></iframe>
     order: 3
-    title: VIDEO
 ---
-
 <blockquote class="blockquote">
-  <p>[Ordinary Days] captures with stinging clarity that uneasy moment in youth when doubts begin to cloud hopes for a future of unlimited possibility.</p>
+  <p>\[Ordinary Days] captures with stinging clarity that uneasy moment in youth when doubts begin to cloud hopes for a future of unlimited possibility.</p>
   <footer class="blockquote-footer">Charles Isherwood,<cite title=" The New York Times"> The New York Times</cite></footer>
 </blockquote>
 
@@ -64,4 +63,4 @@ sections:
 
 For *Ordinary Days*, Adam Gwon won the 2008 Fred Ebb Award for excellence in musical theatre songwriting and the 2011 Kleban Award in the Lyricist category.
 
-**PLEASE NOTE**: *Ordinary Days* is being performed as part of a two show evening of theatre and will take place after performances of drama The Nether.
+**PLEASE NOTE**: *Ordinary Days* is being performed as part of a two show evening of theatre and will take place after performances of drama *[The Nether](https://sedos.l3v5y.co.uk/shows/2017-the-nether)*.
