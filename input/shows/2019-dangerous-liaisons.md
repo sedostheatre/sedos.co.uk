@@ -137,10 +137,10 @@ sections:
 ---
 <!--StartFragment-->
 
-**It got a facelift in the 90s with*Cruel Intentions*and now Sedos brings a fresh new take on the classic story of seduction, betrayal and exploitation.**
+**It got a facelift in the 90s with *Cruel Intentions* and now Sedos brings a fresh new take on the classic story of seduction, betrayal and exploitation.**
 
 Be transported to Hollywood where beauty is expected, abuses of power lurk under the shiny surface and the rivalry of two high powered producers set in motion a story that will create stars and destroy lives.
 
-Told through dance, experience an original adaptation that brings*Dangerous Liaisons*crashing into the gender politics of 2019.
+Told through dance, experience an original adaptation that brings *Dangerous Liaisons* crashing into the gender politics of 2019.
 
 <!--EndFragment-->
