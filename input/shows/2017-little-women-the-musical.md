@@ -16,35 +16,36 @@ venue: Bridewell Theatre
 header-image: /assets/littlewomen-family-800.jpg
 flyer: /assets/lw-poster-800.jpg
 sections:
-  - body: |-
+  - title: CAST & CREATIVE TEAM
+    body: |-
       **CAST**
 
-      **Jo March** | Kate Gledhill\
-      **Meg March** | Emma Coffey\
-      **Beth March** | Kimberly Barker\
-      **Amy March** | Lauren Clarke\
-      **Marmee** | Paula Mount\
-      **Aunt March** | Annie Houseago\
-      **Theodore Laurence III** | Nicholas Dore\
-      **John Brooke** | Toby Churchley\
-      **Professor Bhaer** |Keith Walters\
-      **Grandpa Laurence** | Brian Voakes
+      **JO MARCH** | Kate Gledhill\
+      **MEG MARCH** | Emma Coffey\
+      **BETH MARCH** | Kimberly Barker\
+      **AMY MACH** | Lauren Clarke\
+      **MARMEE** | Paula Mount\
+      **AUNT MARCH** | Annie Houseago\
+      **THEODORE LAURENCE III** | Nicholas Dore\
+      **JOHN BROOKE** | Toby Churchley\
+      **PROFESSOR BHAER** |Keith Walters\
+      **GRANDPA LAURENCE** | Brian Voakes
 
       \
       **CREATIVE TEAM**
 
-      **Director and Designer** | Robert J. Stanex\
-      **Musical Director** | Ryan Macaulay\
-      **Creative Producer** | Rebecca Chisholm\
-      **Technical Producer** | Ben Hussey\
-      **Costumier** | Deborah Lean\
-      **Movement Director** | Thomas Leonard\
-      **Lighting Design** | Elske Waite\
-      **Set Realisation** | Oliver Levett\
-      **Visual Artist** | Lydia Hughes
+      **DIRECTOR AND DESIGNER** | Robert J. Stanex\
+      **MUSICAL DIRECTOR** | Ryan Macaulay\
+      **CREATIVE PRODUCER** | Rebecca Chisholm\
+      **TECHNICAL PRODUCER** | Ben Hussey\
+      **COSTUMIER** | Deborah Lean\
+      **MOVEMENT** | Thomas Leonard\
+      **LIGHTING DESIGNER** | Elske Waite\
+      **SET REALISATION** | Oliver Levett\
+      **VISUAL ARTIST** | Lydia Hughes
     order: 1
-    title: CAST & CREATIVE TEAM
-  - body: >-
+  - title: GALLERY
+    body: >-
       <a data-flickr-embed="true"
       href="https://www.flickr.com/photos/sedos/albums/72157681757288974"
       title="Little Women the Musical - 2017"><img
@@ -53,8 +54,8 @@ sections:
       async src="//embedr.flickr.com/assets/client-code.js"
       charset="utf-8"></script>
     order: 2
-    title: GALLERY
-  - body: >-
+  - title: VIDEO
+    body: >-
       <iframe width="560" height="315"
       src="https://www.youtube.com/embed/UFBcF3KdRiE" frameborder="0"
       allow="accelerometer; autoplay; encrypted-media; gyroscope;
@@ -66,8 +67,8 @@ sections:
       allow="accelerometer; autoplay; encrypted-media; gyroscope;
       picture-in-picture" allowfullscreen></iframe>
     order: 3
-    title: VIDEO
-  - body: >-
+  - title: VIDEO
+    body: >-
       “The beautiful set design for Sedos’ production, the sheer talent of those
       playing the March sisters and the clever direction means that I took this
       award.”[Little Women The Musical, 2017, Musical Theatre Musings (best
@@ -83,7 +84,6 @@ sections:
       standard productions.”[Little Women The Musical, 2017, London Theatre
       1](https://www.londontheatre1.com/reviews/review-little-women-bridewell-theatre/)
     order: 4
-    title: VIDEO
 ---
 **“Some books are so familiar that reading them is like being home again.”**
 
