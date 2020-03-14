@@ -17,7 +17,7 @@ primary-color: '#000000'
 header-image: /assets/LukcyStuff-rehearsal2-360.jpg
 flyer: /assets/LuckyStiffFlyerFront-14June-800.jpg
 sections:
-  - title: CAST & CREATIVDE TEAM
+  - title: CAST & CREATIVE TEAM
     body: |-
       <!--StartFragment-->
 
