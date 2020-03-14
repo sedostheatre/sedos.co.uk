@@ -15,4 +15,6 @@ Participation in the Weekend Musical is free for Sedos members and £15 for non-
 
 Find out more in the audition notice [tinyurl.com/sedossisteract](https://tinyurl.com/sedossisteract) and sign up to take part at [membership.sedos.co.uk](https://membership.sedos.co.uk)
 
+You can [read more about our 2019 Weekend Musical *Hairspray* here. ](https://sedos.l3v5y.co.uk/news/2020-03-04-congratulations-to-hairspray-weekend-workshop-cast)
+
 ![](/assets/sisteractweb.jpg)
