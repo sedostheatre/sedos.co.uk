@@ -24,49 +24,48 @@ primary-color: '#0b0f18'
 header-image: '/assets/OCH-headshotmontage].jpg'
 flyer: /assets/Our countrys good A5_front-800.jpg
 sections:
-  - body: |-
+  - title: CAST & CREATIVE TEAM
+    body: |-
       <!--StartFragment-->
 
       **CAST**
 
       \
-      CAPTAIN ARTHUR PHILLIP / SHITTY Meg| Simon Hill\
-      MAJOR ROBBIE ROSS| John Irvine\
-      CAPTAIN DAVID COLLINS / ROBERT SIDEWAY| Josh Yard\
-      CAPTAIN WATKINS TENCH / CAESAR| Kieron Mieres\
-      CAPTAIN JEMMY CAMPBELL / JOHN ARSCOTT| TheoBhatt\
-      REV. JOHNSON / JOHN WISEHAMMER| Dave McGroarty\
-      LT WILLIAM DAWES / DUCKLING SMITH| Jamila Jennings Grant\
-      LT JOHNSTON / LIZ MORDEN| Jessica Withey\
-      KETCH FREEMAN / CAPTAIN WATKINS TENCH| James Haughey\
-      RALPH CLARKE| Sam Pearce\
-      MARY BRENHAM| Sophia Popadopoulos\
-      SECOND LT WILL FADDY / DABBY BRYANT| Kat Novkovic\
-      MIDSHIPMAN HARRY BREWER / CAESAR| Matt Tylianakis
-
+      **CAPTAIN ARTHUR PHILLIP / SHITTY MEG** | Simon Hill\
+      **MAJOR ROBBIE ROSS** | John Irvine\
+      **CAPTAIN DAVID COLLINS / ROBERT SIDEWAY** | Josh Yard\
+      **CAPTAIN WATKINS TENCH / CAESAR** | Kieron Mieres\
+      **CAPTAIN JEMMY CAMPBELL / JOHN ARSCOTT** | TheoBhatt\
+      **REV. JOHNSON / JOHN WISEHAMMER** | Dave McGroarty\
+      **LT WILLIAM DAWES / DUCKLING SMITH** | Jamila Jennings Grant\
+      **LT JOHNSTON / LIZ MORDEN** | Jessica Withey\
+      **KETCH FREEMAN / CAPTAIN WATKINS TENCH** | James Haughey\
+      **RALPH CLARKE** | Sam Pearce\
+      **MARY BRENHAM** | Sophia Popadopoulos\
+      **SECOND LT WILL FADDY / DABBY BRYANT** | Kat Novkovic\
+      **MIDSHIPMAN HARRY BREWER / CAESAR** | Matt Tylianakis\
       \
-      **CREATIVE TEAM**
-
+      **CREATIVE TEAM**\
       \
-      **DIRECTOR**| Chloe Robertson\
-      **PRODUCER**| Rebecca Kendall\
-      **ASSOCIATE DIRECTOR**| Matt Gould\
-      **ASSISTANT PRODUCER and STAGE MANAGER**| Christina Wayman\
-      **LIGHTING DESIGNER**| Adam Coppard\
-      **SET DESIGN**| Brian Tucker\
-      **SET BUILD/ASM/SOUND**| Adam Lockett\
-      **COSTUMES**| Elinor Turner and Clare Harding\
-      **WIGS**| Karen de la Poer\
-      **MARKETING**| Angharad Corona\
-      **WARDROBE**| Deborah Lean\
-      **PROSTHETICS and MAKE UP**| Georgia Olive\
-      **GRAPHIC DESIGN**| Jon Norton\
-      **PROPS and COMMITTEE LIAISON**| Tim Garrard
+      **DIRECTOR** | Chloe Robertson\
+      **PRODUCER** | Rebecca Kendall\
+      **ASSOCIATE DIRECTOR** | Matt Gould\
+      **ASSISTANT PRODUCER and STAGE MANAGER** | Christina Wayman\
+      **LIGHTING DESIGNER** | Adam Coppard\
+      **SET DESIGN** | Brian Tucker\
+      **SET BUILD/ASM/SOUND** | Adam Lockett\
+      **COSTUMES** | Elinor Turner and Clare Harding\
+      **WIGS** | Karen de la Poer\
+      **MARKETING** | Angharad Corona\
+      **WARDROBE** | Deborah Lean\
+      **PROSTHETICS and MAKE-UP** | Georgia Olive\
+      **GRAPHIC DESIGN** | Jon Norton\
+      **PROPS and COMMITTEE LIAISON** | Tim Garrard
 
       <!--EndFragment-->
     order: 1
-    title: CAST & CREATIVE TEAM
-  - body: >-
+  - title: GALLERY
+    body: >-
       <a data-flickr-embed="true"
       href="https://www.flickr.com/photos/sedos/albums/72157701179621261"
       title="Our Country&#x27;s Good - 2018"><img
@@ -75,8 +74,8 @@ sections:
       async src="//embedr.flickr.com/assets/client-code.js"
       charset="utf-8"></script>
     order: 2
-    title: GALLERY
-  - body: >-
+  - title: REVIEWS
+    body: >-
       <!--StartFragment-->
 
 
@@ -103,7 +102,6 @@ sections:
 
       <!--EndFragment-->
     order: 3
-    title: REVIEWS
 ---
 ***"From distant climes, o’er wide-spread seas we come, Though not with much eclat or beat of drum,
 True patriots all; for be it understood,
