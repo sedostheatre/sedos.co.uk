@@ -27,57 +27,40 @@ primary-color: '#ff6801'
 header-image: /assets/afterthedance-event.jpg
 flyer: /assets/after-the-dance-flyer-800.jpg
 sections:
-  - body: |-
-      **DIRECTOR** | Jon Foster
+  - title: CAST AND CREATIVE TEAM
+    body: |-
+      **CAST**
 
-      **ASSISTANT DIRECTOR** | Chloe Baker
+      **JOAN** | Liz Flint\
+      **DAVID** | Dom Ward\
+      **JOHN** | Chris de Pury\
+      **PETER** | James Cross\
+      **HELEN** | Hannah Brooks\
+      \
+      **WILLIAMS** | Will Howells\
+      **GEORGE** | Josh Mallalieh\
+      **JULIA** | Sarah Beebe\
+      **CYRIL** | Ben Stroud\
+      **MOYA** | Sophie King\
+      **LAWRENCE** | Ollie Milner\
+      **ARTHUR** | David Pearson\
+      **MISS POTTER**| Mariam Rasekh
 
-      **CO-PRODUCERS** | Fatima Ifthikar and Lloyd Smith
+      **CREATIVE TEAM**
 
-      **STAGE MANAGER** | Freddie Byron
-
-      **SET DESIGN** | Peter Foster
-
-      **COSTUME DESIGN** | Natalie Walker
-
-      **LIGHTING** | Will Carne
-
-      **ASSISTANT STAGE MANAGER** | Erynn Blansjaar
-
-      **MARKETING COORDINATOR** | Ben Stroud
-
-      **COMMITTEE LIASON** | Tim Garrad
-    order: 1
-    title: creatives
-  - body: |-
-      **JOAN** | Liz Flint
-
-      **DAVID** | Dom Ward
-
-      **JOHN** | Chris de Pury
-
-      **PETER** | James Cross
-
-      **HELEN** | Hannah Brooks
-
-      **WILLIAMS** | Will Howells
-
-      **GEORGE** | Josh Mallalieh
-
-      **JULIA** | Sarah Beebe
-
-      **CYRIL** | Ben Stroud
-
-      **MOYA** | Sophie King
-
-      **LAWRENCE** | Ollie Milner
-
-      **ARTHUR** | David Pearson
-
-      **MISS POTTER** | Mariam Rasekh
+      **DIRECTOR** | Jon Foster\
+      **ASSISTANT DIRECTOR** | Chloe Baker\
+      **CO-PRODUCERS** | Fatima Ifthikar and Lloyd Smith\
+      **STAGE MANAGER** | Freddie Byron\
+      **SET DESIGN** | Peter Foster\
+      **COSTUME DESIGN** | Natalie Walker\
+      **LIGHTING** | Will Carne\
+      **ASSISTANT STAGE MANAGER** | Erynn Blansjaar\
+      **MARKETING COORDINATOR** | Ben Stroud\
+      **COMMITTEE LIAISON** | Tim Garrad
     order: 2
-    title: CAST
-  - body: >-
+  - title: REVIEWS
+    body: >-
       <!--StartFragment-->
 
 
@@ -95,7 +78,6 @@ sections:
 
       <!--EndFragment-->
     order: 3
-    title: REVIEWS
 ---
 **“It’s the bright young things over again, only they were never bright and now they’re not even young”**
 
