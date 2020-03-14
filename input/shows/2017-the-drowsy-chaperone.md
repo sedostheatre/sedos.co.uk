@@ -19,7 +19,7 @@ sections:
       <!--StartFragment-->
 
 
-      CAST
+      **CAST**
 
 
       **MAN IN CHAIR** | Alex Baker\
@@ -54,7 +54,7 @@ sections:
 
       \
 
-      CREATIVE TEAM
+      **CREATIVE TEAM**
 
 
       **DIRECTOR** | Emma J Leaver\
