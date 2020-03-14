@@ -14,34 +14,34 @@ venue: Bridewell Theatre
 header-image: /assets/cast-photo-1st-rehearsal-all-smiles-800.jpg
 flyer: /assets/flyer-the-rivals-front-1000.jpg
 sections:
-  - body: |-
+  - title: CAST & CREATIVE TEAM
+    body: |-
       **CAST**
 
-      **Sir Anthony Absolute**| Anthony Green\
-      **Captain Jack Absolute**| Joe Docherty\
-      **Faulkland**| Peter Cabrera\
-      **Bob Acres**| Ian Green\
-      **Sir Lucius O'Trigger**| Rob de la Poer\
-      **Fag**| Graham White\
-      \
-      **Mrs Malaprop**| Venla Freeman\
-      **Lydia Languish**| Katie Hooper\
-      **Julia**| Carrie Pennifer\
-      **Lucy**| Kate Parke\
-      **Phoebe**| Henriette Schroder
+      **SIR ANTHONY ABSOLUTE** | Anthony Green\
+      **CAPTAIN JACK ABSOLUTE** | Joe Docherty\
+      **FAULKLAND** | Peter Cabrera\
+      **BOB ACRES** | Ian Green\
+      **SIR LUCIUS O'TRIGGER** | Rob de la Poer\
+      **FAG** | Graham White\
+      **MRS MALAPROP** | Venla Freeman\
+      **LYDIA LANGUISH** | Katie Hooper\
+      **JULIA** | Carrie Pennifer\
+      **LUCY** | Kate Parke\
+      **PHOEBE** | Henriette Schroder
 
       \
       **CREATIVE TEAM**\
       \
-      **Director**| Sylvia Finnimore\
-      **Producer**| Mark Zeffertt\
-      **Assistant director**| Frederica Byron\
-      **Lighting and set design**| Peter Foster\
-      **Publicity**| Peta Walmsley\
-      **Graphic designer**| Mia King
+      **DIRECTOR** | Sylvia Finnimore\
+      **PRODUCER** | Mark Zeffertt\
+      **ASSISTANT DIRECTOR** | Frederica Byron\
+      **LIGHTING AND SET DESIGN** | Peter Foster\
+      **MARKETING** | Peta Walmsley\
+      **GRAPHIC DESIGNER** | Mia King
     order: 1
-    title: CAST & CREATIVE TEAM
-  - body: >-
+  - title: GALLERY
+    body: >-
       <a data-flickr-embed="true"
       href="https://www.flickr.com/photos/sedos/albums/72157686140874753"
       title="The Rivals - 2017"><img
@@ -49,19 +49,18 @@ sections:
       width="640" height="427" alt="The Rivals - 2017"></a><script async
       src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
     order: 2
-    title: GALLERY
-  - body: >-
+  - title: VIDEO
+    body: >-
       <iframe width="560" height="315"
       src="https://www.youtube.com/embed/s_QlADv0oGY" frameborder="0"
       allow="accelerometer; autoplay; encrypted-media; gyroscope;
       picture-in-picture" allowfullscreen></iframe>
     order: 3
-    title: VIDEO
 ---
 **“COME, COME, WE MUST LAY ASIDE SOME OF OUR ROMANCE - A LITTLE WEALTH AND COMFORT MAY BE ENDURED AFTER ALL”**
 
-Written in 1775,*The Rivals*is a classic comedy in the restoration style.
+Written in 1775,*The Rivals* is a classic comedy in the restoration style.
 
 Wealthy, head-strong beauty Lydia Languish, wants to marry a poor man to offend her guardian Aunt and hopefully prompt a romantic elopement. Jack Absolute, himself a wealthy man, learns of this, and adopts the fake identity of Beverley, a poorly paid Ensign, in order to win her affections.
 
-From this deception, many complications arise with hilarious consequences, not least because she has two other eager suitors in the shape of Bob Acres and Sir Lucius O’Trigger
+From this deception, many complications arise with hilarious consequences, not least because she has two other eager suitors in the shape of Bob Acres and Sir Lucius O’Trigger.
