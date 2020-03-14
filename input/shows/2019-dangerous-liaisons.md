@@ -15,26 +15,27 @@ venue: Bridewell Theatre
 header-image: /assets/DL image.jpg
 flyer: /assets/DL FLYER FRONT copy - TEASER.jpg
 sections:
-  - body: >-
+  - title: CAST & CREATIVE TEAM
+    body: >-
       <!--StartFragment-->
 
 
       **CAST**
 
 
-      **MERTEUIL**| Peter Stonnell\
+      **MERTEUIL** | Peter Stonnell\
 
-      **GERCOURT**| Hannah Roberts\
+      **GERCOURT** | Hannah Roberts\
 
-      **VALMONT**| Olivier Namet\
+      **VALMONT** | Olivier Namet\
 
-      **TOURVEL**|Lisa Eastman\
+      **TOURVEL** | Lisa Eastman\
 
-      **CECILE**| Rachel Savage\
+      **CECILE** | Rachel Savage\
 
-      **DANCENY**| Wing Ho Lin\
+      **DANCENY** | Wing Ho Lin\
 
-      **VOLANGE**| Claire Pattie
+      **VOLANGE** | Claire Pattie
 
 
       Mary Bennett\
@@ -57,30 +58,30 @@ sections:
       **CREATIVE TEAM**
 
 
-      **DEVISED, DIRECTED and CHOREOGRAPHED BY**| Kimberly Barker and Tom
+      **DEVISED, DIRECTED and CHOREOGRAPHED BY** | Kimberly Barker and Tom
       Leonard**\
 
-      PRODUCER**| Clare Harding**\
+      PRODUCER** | Clare Harding**\
 
-      STAGE MANAGER**| Matt Hudson**\
+      STAGE MANAGER** | Matt Hudson**\
 
-      CREATIVE DESIGN**| Robert J. Stanex**\
+      CREATIVE DESIGN** | Robert J. Stanex**\
 
-      LIGHTING DESIGN**| Olly Levett**\
+      LIGHTING DESIGN** | Olly Levett**\
 
-      SOUND DESIGN**| Adam Coppard**\
+      SOUND DESIGN** | Adam Coppard**\
 
-      FILM PRODUCTION and CREATIVE CONSULTANT**| Olivier Namet**\
+      FILM PRODUCTION and CREATIVE CONSULTANT** | Olivier Namet**\
 
-      CREATIVE CONSULTANT**|Dan Saunders\
+      CREATIVE CONSULTANT** | Dan Saunders\
 
-      **PHOTOGRAPHY**| Michael Smith
+      **PHOTOGRAPHY** | Michael Smith
 
 
       <!--EndFragment-->
     order: 1
-    title: CAST & CREATIVE TEAM
-  - body: >-
+  - title: GALLERY
+    body: >-
       <a data-flickr-embed="true"
       href="https://www.flickr.com/photos/sedos/albums/72157711030014363"
       title="Dangerous  Liaison - 2019"><img
@@ -88,8 +89,8 @@ sections:
       width="470" height="640" alt="Dangerous  Liaison - 2019"></a><script async
       src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
     order: 2
-    title: GALLERY
-  - body: >-
+  - title: REVIEWS
+    body: >-
       <!--StartFragment-->
 
 
@@ -133,7 +134,6 @@ sections:
 
       <!--EndFragment-->
     order: 3
-    title: REVIEWS
 ---
 <!--StartFragment-->
 
