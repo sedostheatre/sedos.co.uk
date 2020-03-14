@@ -18,7 +18,8 @@ primary-color: '#b21b60'
 header-image: /assets/ophelia-thinks-harder-landscape.jpg
 flyer: /assets/2020-02-16-ophelia-flyer-front-800.png
 sections:
-  - body: |-
+  - title: CAST & CREATIVE TEAM
+    body: |-
       <!--StartFragment-->
 
       **CAST**
@@ -29,15 +30,15 @@ sections:
       **ROSENCRANTZ** | Sarah Berryman\
       **GUILDENSTERN** | Jamila Jennings-Grant\
       **ST JOAN/WOMAN 3** | Connie Cha\
-      **OPHELIA’S MOTHER / QUEEN’S MAID**| Aileen Ryan\
-      **WOMAN 2 / QUEEN’S MAID**| Marnie Gore\
+      **OPHELIA’S MOTHER / QUEEN’S MAID** | Aileen Ryan\
+      **WOMAN 2 / QUEEN’S MAID** | Marnie Gore\
       **HAMLET** | Josh Beckman\
-      **HORATIO**|  Rhydian Harris\
+      **HORATIO** |  Rhydian Harris\
       **POLONIUS** | David Pearson\
       **LAERTES** | Lewis McKenzie\
-      **PLAYER 1**|  Emily Bates\
-      **PLAYER 2**|  Roz Brierley\
-      **PLAYER 3 / WOMAN 1**| Mackenzie Sumner\
+      **PLAYER 1** |  Emily Bates\
+      **PLAYER 2** |  Roz Brierley\
+      **PLAYER 3 / WOMAN 1** | Mackenzie Sumner\
       **PLAYER 4** | Stephen Cole
 
       \
@@ -51,7 +52,6 @@ sections:
 
       <!--EndFragment-->
     order: 1
-    title: CAST & CREATIVE TEAM
 ---
 <!--StartFragment-->
 
