@@ -18,50 +18,49 @@ primary-color: '#1a1c61'
 header-image: /assets/YCTIWY BACK-skyline-800.jpg
 flyer: /assets/YCTIWY POSTER FRONT-800.jpg
 sections:
-  - body: |-
+  - title: CAST & CREATIVE TEAM
+    body: |-
       <!--StartFragment-->
 
       **CAST**
 
-      **ESSIE CARMICHAEL**| Sarah Berryman\
-      **THE GRAND DUCHESS OLGA KATRINA**| Lily Ann Green\
-      **DE PINNA**| James Cross\
-      **RHEBA**| Lisa Depuis\
-      **DONALD**| Joe Docherty\
+      **ESSIE CARMICHAEL** | Sarah Berryman\
+      **THE GRAND DUCHESS OLGA KATRINA** | Lily Ann Green\
+      **DE PINNA** | James Cross\
+      **RHEBA** | Lisa Depuis\
+      **DONALD** | Joe Docherty\
       **PAUL SYCAMOR**E | Mark Watson Gray\
-      **ANTHONY KIRBY**| Craig Karpel\
-      **MIRIAM KIRBY**| Cathy Abbott\
-      **TONY KIRBY**| Graeme Langford\
-      **ED CARMICHAEL**| David Pearson\
-      **MARTIN VANDERHOF**| Robert Pennant Jones\
-      **ALICE SYCAMORE**| Izzi Richardson\
-      **PENNY SYCAMORE**| Dara Seitzman\
-      **BORIS KOLENKHOV**| Matt Tylianakis\
-      **WILBUR HENDERSON**| Nelson Wan\
-      **MAC**| Callum McGregor
-
-
+      **ANTHONY KIRBY** | Craig Karpel\
+      **MIRIAM KIRBY** | Cathy Abbott\
+      **TONY KIRBY** | Graeme Langford\
+      **ED CARMICHAEL** | David Pearson\
+      **MARTIN VANDERHOF** | Robert Pennant Jones\
+      **ALICE SYCAMORE** | Izzi Richardson\
+      **PENNY SYCAMORE** | Dara Seitzman\
+      **BORIS KOLENKHOV** | Matt Tylianakis\
+      **WILBUR HENDERSON** | Nelson Wan\
+      **MAC** | Callum McGregor
 
       **PRODUCTION TEAM**\
       \
-      **DIRECTOR**| Nick Mouton\
-      **PRODUCER**| Peta Walmsley\
-      **PRODUCTION MANAGER**| Andrew Laidlaw\
-      **STAGE MANAGER**| Rebecca Moran\
-      **ASSITANT STAGE MANAGER**| Frederica Byron\
-      **SET DESIGN**| Peter Foster\
-      **LIGHTING DESIGN**| Laurence Tuerk\
-      **COSTUME DESIGN**| Andrea Ortiz\
-      **MARKETING**| Rachel Elfassy Bitoun\
-      **MASTER CARPENTER**| Andy Hind\
-      **FIGHT COORDINATOR**| Dan Styles\
-      **MUSIC TUTOR**| Ben Thiele-Long\
-      **COMMITTEE LIAISON & DANCE COORDINATOR**| Kimberly Barker
+      **DIRECTOR** | Nick Mouton\
+      **PRODUCER** | Peta Walmsley\
+      **PRODUCTION MANAGER** | Andrew Laidlaw\
+      **STAGE MANAGER** | Rebecca Moran\
+      **ASSITANT STAGE MANAGER** | Frederica Byron\
+      **SET DESIGN** | Peter Foster\
+      **LIGHTING DESIGN** | Laurence Tuerk\
+      **COSTUME DESIGN** | Andrea Ortiz\
+      **MARKETING** | Rachel Elfassy Bitoun\
+      **MASTER CARPENTER** | Andy Hind\
+      **FIGHT COORDINATOR** | Dan Styles\
+      **MUSIC TUTOR** | Ben Thiele-Long\
+      **COMMITTEE LIAISON & DANCE COORDINATOR** | Kimberly Barker
 
       <!--EndFragment-->
     order: 1
-    title: CAST & CREATIVE TEAM
-  - body: >-
+  - title: GALLERY
+    body: >-
       <a data-flickr-embed="true"
       href="https://www.flickr.com/photos/sedos/albums/72157693612771604"
       title="You Can&#x27;t Take It With You - 2018"><img
@@ -70,8 +69,8 @@ sections:
       2018"></a><script async src="//embedr.flickr.com/assets/client-code.js"
       charset="utf-8"></script>
     order: 2
-    title: GALLERY
-  - body: >-
+  - title: VIDEO
+    body: >-
       <iframe width="560" height="315"
       src="https://www.youtube.com/embed/CFSW0e4EAbE" frameborder="0"
       allow="accelerometer; autoplay; encrypted-media; gyroscope;
@@ -89,8 +88,8 @@ sections:
       allow="accelerometer; autoplay; encrypted-media; gyroscope;
       picture-in-picture" allowfullscreen></iframe>
     order: 3
-    title: VIDEO
-  - body: >-
+  - title: REVIEWS
+    body: >-
       <!--StartFragment-->
 
 
@@ -129,16 +128,11 @@ sections:
 
       <!--EndFragment-->
     order: 4
-    title: REVIEWS
 ---
-> <!--StartFragment-->
->
-> **“How many of us would be willing to settle when we're young for what we eventually get? All those plans we make...what happens to them? It's only a handful of the lucky ones that can look back and say that they even came close.”**
->
-> Moss Hart and George S. Kaufman's biting comedycelebrates non-conformityand has been delighting audiences since 1936.
->
-> *You Can't Take it With You*introduces audiences to the freethinking Sycamore family and the mayhem that ensues when their daughter's fiancé brings his conservative, straight-laced parents to dinner on the wrong night.
->
-> The play won the 1937 Pulitzer Prize for Drama and was adapted for the screen, which won the Academy Award for Best Picture and Best Director. The show was revived on Broadway in 2014 starring James Earl Jones and Rose Byrne.
->
-> <!--EndFragment-->
+**“How many of us would be willing to settle when we're young for what we eventually get? All those plans we make...what happens to them? It's only a handful of the lucky ones that can look back and say that they even came close.”**
+
+Moss Hart and George S. Kaufman's biting comedycelebrates non-conformityand has been delighting audiences since 1936.
+
+*You Can't Take it With You* introduces audiences to the freethinking Sycamore family and the mayhem that ensues when their daughter's fiancé brings his conservative, straight-laced parents to dinner on the wrong night.
+
+The play won the 1937 Pulitzer Prize for Drama and was adapted for the screen, which won the Academy Award for Best Picture and Best Director. The show was revived on Broadway in 2014 starring James Earl Jones and Rose Byrne.
