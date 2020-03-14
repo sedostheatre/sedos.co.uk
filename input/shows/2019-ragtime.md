@@ -21,29 +21,30 @@ venue: Bridewell Theatre
 header-image: /assets/statue-of-liberty-359341.jpg
 flyer: /assets/ragtime-a5-flyer-front-800_000.jpg
 sections:
-  - body: |-
+  - title: CAST & CREATIVE TEAM
+    body: |-
       <!--StartFragment-->
 
       **CAST**
 
-      **COALHOUSE WALKER JR**| Jonathon Grant\
-      **SARAH**| Sara Rajeswaran\
-      **MOTHER**| Chloë Faine\
-      **FATHER**| Andrew Overin\
-      **TATEH**| Rob Archibald\
-      **EMMA GOLDMAN**| Zo Pisera\
-      **EVELYN NESBIT**| Deborah Lean\
-      **YOUNGER BROTHER**| Robert J. Stanex\
-      **BOOKER T WASHINGTON**| Chris Nelson\
-      **GRANDFATHER**| Brian Voakes\
-      **HARRY HOUDINI**| Daryl Armstrong\
-      **SARAH'S FRIEND**| Tasha Msanide\
-      **LITTLE GIRL**| Jessica Helfgott\
-      **HENRY FORD**| Callum Runciman\
-      **JP MORGAN**| Stephen Beeny\
-      **WILLIE CONKLIN**| Joseph Henshaw\
+      **COALHOUSE WALKER JR** | Jonathon Grant\
+      **SARAH** | Sara Rajeswaran\
+      **MOTHER** | Chloë Faine\
+      **FATHER** | Andrew Overin\
+      **TATEH** | Rob Archibald\
+      **EMMA GOLDMAN** | Zo Pisera\
+      **EVELYN NESBIT** | Deborah Lean\
+      **YOUNGER BROTHER** | Robert J. Stanex\
+      **BOOKER T WASHINGTON** | Chris Nelson\
+      **GRANDFATHER** | Brian Voakes\
+      **HARRY HOUDINI** | Daryl Armstrong\
+      **SARAH'S FRIEND** | Tasha Msanide\
+      **LITTLE GIRL** | Jessica Helfgott\
+      **HENRY FORD** | Callum Runciman\
+      **JP MORGAN** | Stephen Beeny\
+      **WILLIE CONKLIN** | Joseph Henshaw\
       **LITTLE BO**Y | Evan Huntley-Robertson\
-      **COALHOUSE WALKER III**| Brooklyn Appiah / Dwayne Ravenor
+      **COALHOUSE WALKER III** | Brooklyn Appiah / Dwayne Ravenor
 
       **ENSEMBLE**\
       Michael Cannon\
@@ -64,22 +65,22 @@ sections:
       **\
       CREATIVE TEAM**
 
-      **DIRECTOR**| Matt Gould\
-      **MUSICAL DIRECTOR**| Ryan Macaulay\
-      **CHOREOGRAPHERS**| Victoria-Louise Currie and Rachel Elfassy-Bitoun\
-      **PRODUCERS**| Lizzie Levett and Pippa Kyle\
-      **SET DESIGNER**| Steven King\
-      **COSTUME DESIGNER**| Deborah Lean\
-      **LIGHTING DESIGNER**| Olly Levett\
-      **SOUND DESIGNER**| Adrian Jeakins\
-      **MARKETING**| Stephen Beeny\
-      **PHOTOGRAPHER**| David Ovenden\
-      **COMMITTEE LIAISON**| Deborah Lean
+      **DIRECTOR** | Matt Gould\
+      **MUSICAL DIRECTOR** | Ryan Macaulay\
+      **CHOREOGRAPHERS** | Victoria-Louise Currie and Rachel Elfassy-Bitoun\
+      **PRODUCERS** | Lizzie Levett and Pippa Kyle\
+      **SET DESIGNER** | Steven King\
+      **COSTUME DESIGNER** | Deborah Lean\
+      **LIGHTING DESIGNER** | Olly Levett\
+      **SOUND DESIGNER** | Adrian Jeakins\
+      **MARKETING** | Stephen Beeny\
+      **PHOTOGRAPHERS** | David Ovenden and Dancers of London\
+      **COMMITTEE LIAISON** | Deborah Lean
 
       <!--EndFragment-->
     order: 1
-    title: CAST & CREATIVE TEAM
-  - body: >-
+  - title: TRAILER
+    body: >-
       <iframe width="560" height="315"
       src="https://www.youtube.com/embed/Ot2mKiVp870" frameborder="0"
       allow="accelerometer; autoplay; encrypted-media; gyroscope;
@@ -91,8 +92,8 @@ sections:
       allow="accelerometer; autoplay; encrypted-media; gyroscope;
       picture-in-picture" allowfullscreen></iframe>
     order: 2
-    title: TRAILER
-  - body: >-
+  - title: GALLERY
+    body: >-
       <a data-flickr-embed="true"
       href="https://www.flickr.com/photos/sedos/albums/72157711036870308"
       title="Ragtime: The Musical - 2019"><img
@@ -101,8 +102,8 @@ sections:
       async src="//embedr.flickr.com/assets/client-code.js"
       charset="utf-8"></script>
     order: 3
-    title: GALLERY
-  - body: >-
+  - title: VIDEO
+    body: >-
       <iframe width="560" height="315"
       src="https://www.youtube.com/embed/T4QrUOruMj8" frameborder="0"
       allow="accelerometer; autoplay; encrypted-media; gyroscope;
@@ -156,8 +157,8 @@ sections:
       allow="accelerometer; autoplay; encrypted-media; gyroscope;
       picture-in-picture" allowfullscreen></iframe>
     order: 4
-    title: VIDEO
-  - body: >-
+  - title: REVIEWS
+    body: >-
       <!--StartFragment-->
 
 
@@ -232,30 +233,4 @@ sections:
 
       <!--EndFragment-->
     order: 5
-    title: REVIEWS
 ---
-> <!--StartFragment-->
->
-> **"It was the music\
-> Of something beginning,\
-> An era exploding,\
-> A century spinning\
-> In riches and rags,\
-> And in rhythm and rhyme.\
-> The people called it ragtime…"**
->
-> **AT THE DAWN OF A NEW CENTURY, EVERYTHING IS CHANGING AND ANYTHING IS POSSIBLE**
->
-> *Ragtime*is a sweeping epic musical about the birth of America that weaves together real celebrities and historical events with a timeless tale of three families in pursuit of the American Dream.
->
-> Set in the melting pot of New York, the stories of a stifled upper-class wife, a determined Jewish immigrant and a daring young Harlem musician are intertwined, united by their desire and belief in a brighter tomorrow. Together, they confront history’s timeless contradictions of wealth and poverty, freedom and prejudice, hope and despair - and what it means to live in America.
->
-> A multi award-winning masterpiece from LynnAhrensand StephenFlaherty, with a book by Terrence McNally,*Ragtime*is a compelling story of courage, love and hope.
->
-> “A triumph for the stage” -*Time Magazine*
->
-> "The Ultimate Musical for Our Time" -*Huffington Post*
->
-> "Explosive and thrilling! Theatre-shaking intensity...*Ragtime*is nothing short of a masterpiece"*\- Bloomberg News*
->
-> <!--EndFragment-->
