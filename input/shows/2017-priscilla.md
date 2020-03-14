@@ -10,26 +10,27 @@ venue: Bridewell Theatre
 header-image: /assets/priscrehearsal-800.jpg
 flyer: /assets/queen-of-the-desert-flyer-front-800.jpg
 sections:
-  - body: |-
+  - title: CAST & PRODUCTION TEAM
+    body: |-
       <!--StartFragment-->
 
       **CAST**
 
-      **Adam**| Ian Thiele-Long\
-      **Bernadette**| Alex McKinven\
-      **Diva**| Victoria Greenway\
-      **Diva**| Corin Miller\
-      **Diva**| Skyla Loureda\
-      **Bob**| Mark Macey\
-      **Miss Understanding**| John Bainton\
-      **Marion**| Natalie Harding-Moore\
-      **Shirley**| Rowena Turner\
-      **Cynthia**| Romana Moss\
-      **Frank**| Andy Macpherson\
-      **Jimmy**| Claire Linney\
-      **Farrah**| Alex Magliaro\
-      **Pastor**| Chris Warner\
-      **Benji**| Matthew Cise and Evan Huntley-Robertson
+      **ADAM** | Ian Thiele-Long\
+      **BERNADETTE** | Alex McKinven\
+      **DIVA** | Victoria Greenway\
+      **DIVA** | Corin Miller\
+      **DIVA** | Skyla Loureda\
+      **BOB** | Mark Macey\
+      **MISS UNDERSTANDING** | John Bainton\
+      **MARION** | Natalie Harding-Moore\
+      **SHIRLEY** | Rowena Turner\
+      **CYNTHIA** | Romana Moss\
+      **FRANK** | Andy Macpherson\
+      **JIMMY** | Claire Linney\
+      **FARRAH** | Alex Magliaro\
+      **PASTOR** | Chris Warner\
+      **BENJI** | Matthew Cise and Evan Huntley-Robertson
 
       **Ensemble:**
 
@@ -46,22 +47,22 @@ sections:
 
       **PRODUCTION TEAM**
 
-      **Director** | Angus Jacobs\
-      **Musical Director** | Ryan Macaulay\
-      **Choreographer**| Eloise Horton\
-      **Assistant Director** | Laura Graham-Matheson\
-      **Producer** | Lizzie Drapper\
-      **Set Designer** | Steve King\
-      **Lighting Designer**| Olly Levett\
-      **Sound Designer**| Adrian Jeakins\
-      **Stage Manager**| Andrew Laidlaw\
-      **Marketing Manager** | Nick Crabb\
-      **Committee Liaison**| Stephen Beeny
+      **DIRECTOR** | Angus Jacobs\
+      **MUSICAL DIRECTOR** | Ryan Macaulay\
+      **CHOREOGRAPHER** | Eloise Horton\
+      **ASSISTANT DIRECTOR** | Laura Graham-Matheson\
+      **PRODUCER** | Lizzie Drapper\
+      **SET DESIGNER** | Steve King\
+      **LIGHTING DESIGNER** | Olly Levett\
+      **SOUND DESIGNER** | Adrian Jeakins\
+      **STAGE MANAGER** | Andrew Laidlaw\
+      **MARKETING MANAGER**  | Nick Crabb\
+      **COMMITTEE LIAISON** | Stephen Beeny
 
       <!--EndFragment-->
     order: 1
-    title: CAST & PRODUCTION TEAM
-  - body: >-
+  - title: GALLERY
+    body: >-
       <a data-flickr-embed="true"
       href="https://www.flickr.com/photos/sedos/albums/72157688993313616"
       title="Priscilla Queen of the Desert The Musical - 2017"><img
@@ -70,7 +71,6 @@ sections:
       2017"></a><script async src="//embedr.flickr.com/assets/client-code.js"
       charset="utf-8"></script>
     order: 2
-    title: GALLERY
 ---
 <!--StartFragment-->
 
@@ -82,6 +82,6 @@ Their journey through the desert introduces them to a variety of memorable chara
 
 Based on the Oscar-winning 1994 hit movie, the critically-acclaimed stage musical version of*Priscilla*has played to packed houses all over the world during its journey over the past 10 years.
 
-*Priscilla Queen of the Desert The Musical*was first presented at the Lyric Theatre, Sydney, on 7 October 2006, directed by Simon Phillips.
+*Priscilla Queen of the Desert The Musical* was first presented at the Lyric Theatre, Sydney, on 7 October 2006, directed by Simon Phillips.
 
 <!--EndFragment-->
