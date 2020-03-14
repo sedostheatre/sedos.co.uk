@@ -17,36 +17,38 @@ primary-color: '#00FF00'
 header-image: /assets/framk-newsletter-montage.jpg
 flyer: /assets/frankenstein-a5-flyerfront-final-1000.jpg
 sections:
-  - body: |-
+  - title: CAST & CREATIVE TEAM
+    body: |-
       **CAST**\
-      **The Creature**| Jonathon Cooper\
-      **Victor Frankenstein**| Stephen Russell\
-      **Elizabeth**| Jessica Rogers\
-      **De Lacey/Ewan**| Paul Francis\
-      **Monsieur Frankenstein/Klaus**| Simon Hill\
-      **Agatha**| Lizzie Coles\
-      **Felix**| Peter Shimmin\
-      **Gretel/Clarice**| Kathryn Newbould\
-      **Rab/Gustav**| Lloyd Smith\
-      **Female Creature**| Samantha Miller\
-      **William**| Samuel Jenshoj
+      \
+      **THE CREATURE** | Jonathon Cooper\
+      **VICTOR FRANKENSTEIN** | Stephen Russell\
+      **ELIZABETH** | Jessica Rogers\
+      **DE LACEY/EWAN** | Paul Francis\
+      **MONSIEUR FRANKENSTEIN/KLAUS** | Simon Hill\
+      **AGATHA** | Lizzie Coles\
+      **FELIX** | Peter Shimmin\
+      **GRETEL/CLARICE** | Kathryn Newbould\
+      **RAB/GUSTAV** | Lloyd Smith\
+      **FEMALE CREATURE** | Samantha Miller\
+      **WILLIAM** | Samuel Jenshoj
 
       **PRODUCTION TEAM**\
       \
-      **Director**| Matt Gould\
-      **Producer**| Pippa Kyle\
-      **Sound and Video**| Adrian Jeakins\
-      **Lighting**| Martin Walton\
-      **Set**| Steve King\
-      **Choreographer and Assistant Director**| Tim Garrad\
-      **Prosthetics and Make-up**| Alice Batten-Jacobs\
-      **Assistant Prosthetics and Make-up**| Daisy Moore\
-      **Stage Manager**| Andrew Laidlaw\
-      **Props and Assistant Stage Manager |**Annie O'Brien\
-      **MarketingManager**| Stephen Beeny
+      **DIRECTOR** | Matt Gould\
+      **PRODUCER** | Pippa Kyle\
+      **SOUND AND VIDEO** | Adrian Jeakins\
+      **LIGHTING** | Martin Walton\
+      **SET** | Steven King\
+      **CHOREOGRAPHER AND ASSISTANT DIRECTOR** | Tim Garrad\
+      **PROSTHETICS AND MAKE-UP** | Alice Batten-Jacobs\
+      **ASSISTANT** **PROSTHETICS AND MAKE-UP** | Daisy Moore\
+      **STAGE MANAGER** | Andrew Laidlaw\
+      **PROPS AND ASSISTANT STAGE MANAGER** |Annie O'Brien\
+      **MARKETING MANAGER** | Stephen Beeny
     order: 1
-    title: CAST & CREATIVE TEAM
-  - body: >-
+  - title: GALLERY
+    body: >-
       <a data-flickr-embed="true"
       href="https://www.flickr.com/photos/sedos/albums/72157686050979874"
       title="Frankenstein - 2017"><img
@@ -54,8 +56,8 @@ sections:
       width="640" height="480" alt="Frankenstein - 2017"></a><script async
       src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
     order: 2
-    title: GALLERY
-  - body: >-
+  - title: VIDEO
+    body: >-
       <iframe width="560" height="315"
       src="https://www.youtube.com/embed/bhoJpBcygYY" frameborder="0"
       allow="accelerometer; autoplay; encrypted-media; gyroscope;
@@ -91,14 +93,13 @@ sections:
       allow="accelerometer; autoplay; encrypted-media; gyroscope;
       picture-in-picture" allowfullscreen></iframe>
     order: 3
-    title: VIDEO
-  - body: >-
+  - title: CREATING THE MONSTER
+    body: >-
       <iframe width="560" height="315"
       src="https://www.youtube.com/embed/HvMYI_7mDic" frameborder="0"
       allow="accelerometer; autoplay; encrypted-media; gyroscope;
       picture-in-picture" allowfullscreen></iframe>
     order: 4
-    title: CREATING THE MONSTER
 ---
 **"Slowly I learnt the ways of humans: how to ruin, how to hate, how to debase, how to humiliate. And at the feet of my master I learnt the highest of human skills, the skill no other creature owns: I finally learnt how to lie**."
 
