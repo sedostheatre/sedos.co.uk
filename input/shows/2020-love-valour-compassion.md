@@ -28,8 +28,6 @@ sections:
 
 #### **THIS SHOW HAS BEEN TEMPORARILY POSTPONED. [FIND OUT MORE](https://sedos.l3v5y.co.uk/news/2020-03-26-a-message-to-our-members-and-friends).**
 
-
-
 **Eight gay men.**\
 **Three long weekends.**\
 **One last summer.**
