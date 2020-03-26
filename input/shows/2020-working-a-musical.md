@@ -60,8 +60,6 @@ sections:
 
 #### **THIS SHOW HAS BEEN TEMPORARILY POSTPONED. [FIND OUT MORE](https://sedos.l3v5y.co.uk/news/2020-03-26-a-message-to-our-members-and-friends).**
 
-
-
 **In 1974 Chicago radio broadcaster Studs Terkel published a best selling compilation of interviews with a cross section of Americans talking about their jobs**.
 
 In 2007-2008 additional interviews were conducted. Terkel described it as ‘the extraordinary dreams of ordinary people’. *Workin*g is the musical adaptation of Terkel’s book, and the words of the people he interviewed. It was first conceived by Stephen Schwartz (*Godspell*, *Pippin*, *Wicked*) and staged on Broadway in 1978.
