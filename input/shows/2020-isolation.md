@@ -1,7 +1,7 @@
 ---
 title: 'Isolation: A 30 Day Theatrical Experiment.'
 year: '2020'
-authors2: Sedos members
+authors2: by Sedos members
 subtitle: >-
   When theatres go dark and creatives are forced to isolate. The show must go
   on!
