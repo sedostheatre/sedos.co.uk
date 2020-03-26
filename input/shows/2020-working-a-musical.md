@@ -18,7 +18,7 @@ sections:
     body: |-
       <!--StartFragment-->
 
-      CAST
+      **CAST**
 
       Adrian Hau\
       Bridgette Amofah\
