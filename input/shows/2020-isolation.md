@@ -11,7 +11,7 @@ showtime-summary: 'Sunday 19 April 2020, 12pm'
 venue: Online
 ticket-prices: FREE
 primary-color: '#19346b'
-header-image: /assets/isolation-landscape.001.jpeg
+header-image: /assets/isolation-coronavirus.jpg
 flyer: /assets/isolation-portrait.jpeg
 sections: []
 ---
