@@ -9,7 +9,7 @@ showtime-summary: THIS SHOW HAS BEEN TEMPORARILY POSTPONED.
 venue: Bridewell Theatre
 primary-color: '#f35892'
 header-image: /assets/lovevalourcompassion-landscape.jpg
-flyer: ''
+flyer: /assets/lovevalourcompassion-landscape.jpg
 sections:
   - order: 1
     title: CAST & CREATIVE TEAM
