@@ -6,7 +6,7 @@ authors2: With additional contributions by GORDON GREENBERG
 authors3: ''
 subtitle: 'A delightfully funny and thoroughly touching musical '
 showtimes:
-  - time: '2020-06-02 19:30+01:00'
+  - time: '2020-07-07 19:30+01:00'
 showtime-summary: THIS SHOW HAS BEEN TEMPORARILY POSTPONED.
 venue: Bridewell Theatre
 primary-color: '#000000'
