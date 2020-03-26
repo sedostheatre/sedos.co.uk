@@ -4,13 +4,8 @@ year: '2020'
 authors: by TERRENCE MCNALLY
 subtitle: 'A monumental exploration into life, love and loss at the end of the millennium'
 showtimes:
-  - time: '2020-07-07 19:30+01:00'
-  - time: '2020-07-08 19:30+01:00'
-  - time: '2020-07-09 19:30+01:00'
-  - time: '2020-07-10 19:30+01:00'
-  - time: '2020-07-11 14:30+01:00'
-  - time: '2020-07-11 19:30+01:00'
-showtime-summary: 7-11 July 2020
+  - time: '2020-08-04 19:30+01:00'
+showtime-summary: THIS SHOW HAS BEEN TEMPORARILY POSTPONED.
 venue: Bridewell Theatre
 primary-color: '#f35892'
 header-image: /assets/lovevalourcompassion-landscape.jpg
@@ -30,6 +25,8 @@ sections:
       <!--EndFragment-->
 ---
 <!--StartFragment-->
+
+### **THIS SHOW HAS BEEN TEMPORARILY POSTPONED. [FIND OUT MORE](https://sedos.l3v5y.co.uk/news/2020-03-26-a-message-to-our-members-and-friends).**
 
 **Eight gay men.**\
 **Three long weekends.**\
