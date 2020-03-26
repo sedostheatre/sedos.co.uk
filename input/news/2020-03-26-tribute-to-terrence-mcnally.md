@@ -1,5 +1,5 @@
 ---
-title: Tribute to Terrence McNally
+title: Tribute to playwright Terrence McNally
 date: '2020-03-24'
 image: /assets/mcnallytribute.jpg
 extract: Award-wining playwright Terrence McNally dies
