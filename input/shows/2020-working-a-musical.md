@@ -6,13 +6,8 @@ authors2: With additional contributions by GORDON GREENBERG
 authors3: ''
 subtitle: 'A delightfully funny and thoroughly touching musical '
 showtimes:
-  - time: '2020-05-12 19:30+01:00'
-  - time: '2020-05-13 19:30+01:00'
-  - time: '2020-05-14 19:30+01:00'
-  - time: '2020-05-15 19:30+01:00'
-  - time: '2020-05-16 14:30+01:00'
-  - time: '2020-05-16 19:30+01:00'
-showtime-summary: 12-16 May 2020
+  - time: '2020-06-02 19:30+01:00'
+showtime-summary: THIS SHOW HAS BEEN TEMPORARILY POSTPONED.
 venue: Bridewell Theatre
 primary-color: '#000000'
 header-image: /assets/working-skyline.jpg
@@ -62,6 +57,8 @@ sections:
       src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 ---
 <!--StartFragment-->
+
+### **THIS SHOW HAS BEEN TEMPORARILY POSTPONED. [FIND OUT MORE](https://sedos.l3v5y.co.uk/news/2020-03-26-a-message-to-our-members-and-friends).**
 
 **In 1974 Chicago radio broadcaster Studs Terkel published a best selling compilation of interviews with a cross section of Americans talking about their jobs**.
 
