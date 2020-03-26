@@ -11,7 +11,7 @@ The following Sedos events and activities are therefore postponed:
 
 *Ophelia Thinks Harder\
 Working*\
-Auditions for*Love! Valour! Compassion!*\
+Auditions for *Love! Valour! Compassion!*\
 Improv Workshop\
 Simprov
 
