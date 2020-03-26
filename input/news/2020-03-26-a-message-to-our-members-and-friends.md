@@ -1,7 +1,7 @@
 ---
 title: A message to our members and friends
 date: '2020-03-17'
-image: /assets/sedoslogo-blue-square.png
+image: /assets/sedos-logo.jpg
 ---
 Dear Members and Friends,
 
