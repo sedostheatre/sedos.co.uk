@@ -29,18 +29,21 @@
             {
                 <h5>@Model.Get("recurrence")</h5>
             }
-            var times = Model.Get("times", Enumerable.Empty<IDocument>())
-                             .Select(time => time.Get<DateTime>("time"));
-            if(times.Any())
+            else
             {
-                <ul>
-                    @foreach(var time in times
-                            .Select(t => t.ToString("dddd dd MMMM yyyy h.mm") + t.ToString("tt").ToLower())
-                    )
-                    {
-                        <li>@time</li>
-                    }
-                </ul>
+                var times = Model.Get("times", Enumerable.Empty<IDocument>())
+                                .Select(time => time.Get<DateTime>("time"));
+                if(times.Any())
+                {
+                    <ul>
+                        @foreach(var time in times
+                                .Select(t => t.ToString("dddd dd MMMM yyyy h.mm") + t.ToString("tt").ToLower())
+                        )
+                        {
+                            <li>@time</li>
+                        }
+                    </ul>
+                }
             }
 
             if(Model.Get("ticket-prices", null) != null)
