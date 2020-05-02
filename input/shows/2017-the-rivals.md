@@ -1,15 +1,15 @@
 ---
 title: The Rivals
-year: '2017'
+year: "2017"
 authors: by RICHARD BRINSLEY SHERIDAN
 subtitle: By Richard Brinsley Sheridan
 showtimes:
-  - time: '2017-09-19 19:30+0100'
-  - time: '2017-09-20 19:30+0100'
-  - time: '2017-09-21 19:30+0100'
-  - time: '2017-09-22 19:30+0100'
-  - time: '2017-09-23 14:30+0100'
-  - time: '2017-09-23 19:30+0100'
+  - time: 2017-09-19 19:30+0100
+  - time: 2017-09-20 19:30+0100
+  - time: 2017-09-21 19:30+0100
+  - time: 2017-09-22 19:30+0100
+  - time: 2017-09-23 14:30+0100
+  - time: 2017-09-23 19:30+0100
 venue: Bridewell Theatre
 header-image: /assets/cast-photo-1st-rehearsal-all-smiles-800.jpg
 flyer: /assets/flyer-the-rivals-front-1000.jpg
@@ -41,8 +41,7 @@ sections:
       **GRAPHIC DESIGNER** | Mia King
     order: 1
   - title: GALLERY
-    body: >-
-      <a data-flickr-embed="true"
+    body: <a data-flickr-embed="true"
       href="https://www.flickr.com/photos/sedos/albums/72157686140874753"
       title="The Rivals - 2017"><img
       src="https://live.staticflickr.com/4388/36860613561_c3f79cac02_z.jpg"
@@ -50,14 +49,13 @@ sections:
       src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
     order: 2
   - title: VIDEO
-    body: >-
-      <iframe width="560" height="315"
+    body: <iframe width="560" height="315"
       src="https://www.youtube.com/embed/s_QlADv0oGY" frameborder="0"
       allow="accelerometer; autoplay; encrypted-media; gyroscope;
       picture-in-picture" allowfullscreen></iframe>
     order: 3
 ---
-**“COME, COME, WE MUST LAY ASIDE SOME OF OUR ROMANCE - A LITTLE WEALTH AND COMFORT MAY BE ENDURED AFTER ALL”**
+##### **“Come, come, we must lay aside some of our romance - a little wealth and comfort may be endured after all”**
 
 Written in 1775,*The Rivals* is a classic comedy in the restoration style.
 
