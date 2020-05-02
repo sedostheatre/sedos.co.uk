@@ -86,6 +86,15 @@ sections:
 
       <!--EndFragment-->
     order: 1
+  - order: 1
+    title: GALLERY
+    body: <a data-flickr-embed="true"
+      href="https://www.flickr.com/photos/sedos/albums/72157714134275037"
+      title="How to Succeed in Business without Really Trying - 2019"><img
+      src="https://live.staticflickr.com/65535/49846550286_dfb9b3b013_z.jpg"
+      width="640" height="427" alt="How to Succeed in Business without Really
+      Trying - 2019"></a><script async
+      src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
   - title: REVIEWS
     body: >-
       <!--StartFragment-->
@@ -105,15 +114,6 @@ sections:
 
       <!--EndFragment-->
     order: 1
-  - order: 1
-    title: GALLERY
-    body: <a data-flickr-embed="true"
-      href="https://www.flickr.com/photos/sedos/albums/72157714134275037"
-      title="How to Succeed in Business without Really Trying - 2019"><img
-      src="https://live.staticflickr.com/65535/49846550286_dfb9b3b013_z.jpg"
-      width="640" height="427" alt="How to Succeed in Business without Really
-      Trying - 2019"></a><script async
-      src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 ---
 <!--StartFragment-->
 
