@@ -56,10 +56,9 @@ sections:
     order: 2
   - title: VIDEO
     body: >-
-      <iframe width="560" height="315"
-      src="https://www.youtube.com/embed/7rLzSeqdMS4" frameborder="0"
-      allow="accelerometer; autoplay; encrypted-media; gyroscope;
-      picture-in-picture" allowfullscreen></iframe>
+      <div class="video-responsive">
+        <?# YouTube 7rLzSeqdMS4 /?>
+      </div>
     order: 3
 ---
 **“I think I’m a human being before anything else. I don’t care what other people say. I don’t care what people write in books. I need to think for myself”**

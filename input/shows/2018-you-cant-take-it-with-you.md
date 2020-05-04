@@ -71,22 +71,17 @@ sections:
     order: 2
   - title: VIDEO
     body: >-
-      <iframe width="560" height="315"
-      src="https://www.youtube.com/embed/CFSW0e4EAbE" frameborder="0"
-      allow="accelerometer; autoplay; encrypted-media; gyroscope;
-      picture-in-picture" allowfullscreen></iframe>
+      <div class="video-responsive">
+        <?# YouTube CFSW0e4EAbE /?>
+      </div>
 
+      <div class="video-responsive">
+        <?# YouTube zR6C27BFSV0 /?>
+      </div>
 
-      <iframe width="560" height="315"
-      src="https://www.youtube.com/embed/zR6C27BFSV0" frameborder="0"
-      allow="accelerometer; autoplay; encrypted-media; gyroscope;
-      picture-in-picture" allowfullscreen></iframe>
-
-
-      <iframe width="560" height="315"
-      src="https://www.youtube.com/embed/MUPbcKWyDEQ" frameborder="0"
-      allow="accelerometer; autoplay; encrypted-media; gyroscope;
-      picture-in-picture" allowfullscreen></iframe>
+      <div class="video-responsive">
+        <?# YouTube MUPbcKWyDEQ /?>
+      </div>
     order: 3
   - title: REVIEWS
     body: >-

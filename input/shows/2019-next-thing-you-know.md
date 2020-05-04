@@ -100,16 +100,13 @@ sections:
     order: 2
   - title: VIDEOS
     body: >-
-      <iframe width="560" height="315"
-      src="https://www.youtube.com/embed/gv4tHs6k0Zg" frameborder="0"
-      allow="accelerometer; autoplay; encrypted-media; gyroscope;
-      picture-in-picture" allowfullscreen></iframe>
+      <div class="video-responsive">
+        <?# YouTube gv4tHs6k0Zg /?>
+      </div>
 
-
-      <iframe width="560" height="315"
-      src="https://www.youtube.com/embed/mIE1WDS5K6o" frameborder="0"
-      allow="accelerometer; autoplay; encrypted-media; gyroscope;
-      picture-in-picture" allowfullscreen></iframe>
+      <div class="video-responsive">
+        <?# YouTube mIE1WDS5K6o /?>
+      </div>
     order: 3
 ---
 ***Next Thing You Know*** **(“NTYK”)is a musical about four New Yorkers waking up from their invincible twenties and confronting adulthood in the city that never sleeps. It looks at a time in life when one day you wake up, and instead of a hangover, you have a job. Instead of a fling, you have a live-in girlfriend. And instead of naïve dreams, you have reality. Think: a musical episode of *How I Met Your Mother* or** ***Friends*.**

@@ -69,16 +69,13 @@ sections:
     order: 2
   - title: TRAILER
     body: >-
-      <iframe width="560" height="315"
-      src="https://www.youtube.com/embed/McCnRmeCW0w" frameborder="0"
-      allow="accelerometer; autoplay; encrypted-media; gyroscope;
-      picture-in-picture" allowfullscreen></iframe>
+      <div class="video-responsive">
+        <?# YouTube McCnRmeCW0w /?>
+      </div>
 
-
-      <iframe width="560" height="315"
-      src="https://www.youtube.com/embed/h-hZ2yJOHds" frameborder="0"
-      allow="accelerometer; autoplay; encrypted-media; gyroscope;
-      picture-in-picture" allowfullscreen></iframe>
+      <div class="video-responsive">
+        <?# YouTube h-hZ2yJOHds /?>
+      </div>
     order: 3
   - title: REVIEWS
     body: >-

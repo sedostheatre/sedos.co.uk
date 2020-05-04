@@ -58,47 +58,36 @@ sections:
     order: 2
   - title: VIDEO
     body: >-
-      <iframe width="560" height="315"
-      src="https://www.youtube.com/embed/bhoJpBcygYY" frameborder="0"
-      allow="accelerometer; autoplay; encrypted-media; gyroscope;
-      picture-in-picture" allowfullscreen></iframe>
+      <div class="video-responsive">
+        <?# YouTube bhoJpBcygYY /?>
+      </div>
+      
+      <div class="video-responsive">
+        <?# YouTube zqbH85bCUdU /?>
+      </div>
 
+      <div class="video-responsive">
+        <?# YouTube jEZnhxztwcI /?>
+      </div>
 
-      <iframe width="560" height="315"
-      src="https://www.youtube.com/embed/zqbH85bCUdU" frameborder="0"
-      allow="accelerometer; autoplay; encrypted-media; gyroscope;
-      picture-in-picture" allowfullscreen></iframe>
+      <div class="video-responsive">
+        <?# YouTube nrWgh6lyaI8 /?>
+      </div>
 
+      <div class="video-responsive">
+        <?# YouTube yFeAjiKsxR0 /?>
+      </div>
 
-      <iframe width="560" height="315"
-      src="https://www.youtube.com/embed/jEZnhxztwcI" frameborder="0"
-      allow="accelerometer; autoplay; encrypted-media; gyroscope;
-      picture-in-picture" allowfullscreen></iframe>
-
-
-      <iframe width="560" height="315"
-      src="https://www.youtube.com/embed/nrWgh6lyaI8" frameborder="0"
-      allow="accelerometer; autoplay; encrypted-media; gyroscope;
-      picture-in-picture" allowfullscreen></iframe>
-
-
-      <iframe width="560" height="315"
-      src="https://www.youtube.com/embed/yFeAjiKsxR0" frameborder="0"
-      allow="accelerometer; autoplay; encrypted-media; gyroscope;
-      picture-in-picture" allowfullscreen></iframe>
-
-
-      <iframe width="560" height="315"
-      src="https://www.youtube.com/embed/oxiiQK2lE3E" frameborder="0"
-      allow="accelerometer; autoplay; encrypted-media; gyroscope;
-      picture-in-picture" allowfullscreen></iframe>
+      <div class="video-responsive">
+        <?# YouTube oxiiQK2lE3E /?>
+      </div>      
     order: 3
   - title: CREATING THE MONSTER
     body: >-
-      <iframe width="560" height="315"
-      src="https://www.youtube.com/embed/HvMYI_7mDic" frameborder="0"
-      allow="accelerometer; autoplay; encrypted-media; gyroscope;
-      picture-in-picture" allowfullscreen></iframe>
+      <div class="video-responsive">
+      <?# YouTube HvMYI_7mDic /?>
+      </div>
+      
     order: 4
 ---
 **"Slowly I learnt the ways of humans: how to ruin, how to hate, how to debase, how to humiliate. And at the feet of my master I learnt the highest of human skills, the skill no other creature owns: I finally learnt how to lie**."

@@ -56,18 +56,15 @@ sections:
     order: 2
   - title: VIDEO
     body: >-
-      <iframe width="560" height="315"
-      src="https://www.youtube.com/embed/UFBcF3KdRiE" frameborder="0"
-      allow="accelerometer; autoplay; encrypted-media; gyroscope;
-      picture-in-picture" allowfullscreen></iframe>
+      <div class="video-responsive">
+        <?# YouTube UFBcF3KdRiE /?>
+      </div>
 
-
-      <iframe width="560" height="315"
-      src="https://www.youtube.com/embed/69M-HyZZ4rU" frameborder="0"
-      allow="accelerometer; autoplay; encrypted-media; gyroscope;
-      picture-in-picture" allowfullscreen></iframe>
+      <div class="video-responsive">
+      <?# YouTube 69M-HyZZ4rU /?>
+      </div>
     order: 3
-  - title: VIDEO
+  - title: PRESS
     body: >-
       “The beautiful set design for Sedos’ production, the sheer talent of those
       playing the March sisters and the clever direction means that I took this
