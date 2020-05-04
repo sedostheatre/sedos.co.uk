@@ -85,16 +85,13 @@ sections:
     order: 2
   - title: VIDEO
     body: >-
-      <iframe width="560" height="315"
-      src="https://www.youtube.com/embed/_DRZBbOSsi8" frameborder="0"
-      allow="accelerometer; autoplay; encrypted-media; gyroscope;
-      picture-in-picture" allowfullscreen></iframe>
+      <div class="video-responsive">
+        <?# YouTube _DRZBbOSsi8 /?>
+      </div>
 
-
-      <iframe width="560" height="315"
-      src="https://www.youtube.com/embed/OKzCtNZDzpQ" frameborder="0"
-      allow="accelerometer; autoplay; encrypted-media; gyroscope;
-      picture-in-picture" allowfullscreen></iframe>
+      <div class="video-responsive">
+        <?# YouTube OKzCtNZDzpQ /?>
+      </div>      
     order: 3
   - title: REVIEWS
     body: >-

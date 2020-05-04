@@ -79,10 +79,9 @@ sections:
     order: 2
   - title: VIDEO
     body: >-
-      <iframe width="560" height="315"
-      src="https://www.youtube.com/embed/iijwhhQ6PtU" frameborder="0"
-      allow="accelerometer; autoplay; encrypted-media; gyroscope;
-      picture-in-picture" allowfullscreen></iframe>
+      <div class="video-responsive">
+        <?# YouTube iijwhhQ6PtU /?>
+      </div>
     order: 3
 ---
 <!--StartFragment-->

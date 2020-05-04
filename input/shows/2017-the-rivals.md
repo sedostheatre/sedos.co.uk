@@ -49,10 +49,10 @@ sections:
       src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
     order: 2
   - title: VIDEO
-    body: <iframe width="560" height="315"
-      src="https://www.youtube.com/embed/s_QlADv0oGY" frameborder="0"
-      allow="accelerometer; autoplay; encrypted-media; gyroscope;
-      picture-in-picture" allowfullscreen></iframe>
+    body: >-
+      <div class="video-responsive">
+        <?# YouTube s_QlADv0oGY /?>
+      </div>
     order: 3
 ---
 ##### **“Come, come, we must lay aside some of our romance - a little wealth and comfort may be endured after all”**

@@ -81,16 +81,12 @@ sections:
     order: 1
   - title: TRAILER
     body: >-
-      <iframe width="560" height="315"
-      src="https://www.youtube.com/embed/Ot2mKiVp870" frameborder="0"
-      allow="accelerometer; autoplay; encrypted-media; gyroscope;
-      picture-in-picture" allowfullscreen></iframe>
-
-
-      <iframe width="560" height="315"
-      src="https://www.youtube.com/embed/fP57Rkf2J4g" frameborder="0"
-      allow="accelerometer; autoplay; encrypted-media; gyroscope;
-      picture-in-picture" allowfullscreen></iframe>
+      <div class="video-responsive">
+        <?# YouTube Ot2mKiVp870 /?>
+      </div>
+      <div class="video-responsive">
+        <?# YouTube fP57Rkf2J4g /?>
+      </div>      
     order: 2
   - title: GALLERY
     body: >-
@@ -104,58 +100,58 @@ sections:
     order: 3
   - title: VIDEO
     body: >-
-      <iframe width="560" height="315"
-      src="https://www.youtube.com/embed/T4QrUOruMj8" frameborder="0"
-      allow="accelerometer; autoplay; encrypted-media; gyroscope;
-      picture-in-picture" allowfullscreen></iframe>
+      <div class="video-responsive">
+      <?# YouTube T4QrUOruMj8 /?>
+      </div>
+      
 
 
-      <iframe width="560" height="315"
-      src="https://www.youtube.com/embed/oXJW8uRmgmE" frameborder="0"
-      allow="accelerometer; autoplay; encrypted-media; gyroscope;
-      picture-in-picture" allowfullscreen></iframe>
+      <div class="video-responsive">
+      <?# YouTube oXJW8uRmgmE /?>
+      </div>
+      
 
 
-      <iframe width="560" height="315"
-      src="https://www.youtube.com/embed/TSkDX_YDcg0" frameborder="0"
-      allow="accelerometer; autoplay; encrypted-media; gyroscope;
-      picture-in-picture" allowfullscreen></iframe>
+      <div class="video-responsive">
+      <?# YouTube TSkDX_YDcg0 /?>
+      </div>
+      
 
 
-      <iframe width="560" height="315"
-      src="https://www.youtube.com/embed/S_ikqgkzXQM" frameborder="0"
-      allow="accelerometer; autoplay; encrypted-media; gyroscope;
-      picture-in-picture" allowfullscreen></iframe>
+      <div class="video-responsive">
+      <?# YouTube S_ikqgkzXQM /?>
+      </div>
+      
 
 
-      <iframe width="560" height="315"
-      src="https://www.youtube.com/embed/ncmwHdA55z0" frameborder="0"
-      allow="accelerometer; autoplay; encrypted-media; gyroscope;
-      picture-in-picture" allowfullscreen></iframe>
+      <div class="video-responsive">
+      <?# YouTube ncmwHdA55z0 /?>
+      </div>
+      
 
 
-      <iframe width="560" height="315"
-      src="https://www.youtube.com/embed/HzJ_7-bt8Ug" frameborder="0"
-      allow="accelerometer; autoplay; encrypted-media; gyroscope;
-      picture-in-picture" allowfullscreen></iframe>
+      <div class="video-responsive">
+      <?# YouTube HzJ_7-bt8Ug /?>
+      </div>
+      
 
 
-      <iframe width="560" height="315"
-      src="https://www.youtube.com/embed/yCK_wlVPbtQ" frameborder="0"
-      allow="accelerometer; autoplay; encrypted-media; gyroscope;
-      picture-in-picture" allowfullscreen></iframe>
+      <div class="video-responsive">
+      <?# YouTube yCK_wlVPbtQ /?>
+      </div>
+      
 
 
-      <iframe width="560" height="315"
-      src="https://www.youtube.com/embed/zZ0lssLozqs" frameborder="0"
-      allow="accelerometer; autoplay; encrypted-media; gyroscope;
-      picture-in-picture" allowfullscreen></iframe>
+      <div class="video-responsive">
+      <?# YouTube zZ0lssLozqs /?>
+      </div>
+      
 
 
-      <iframe width="560" height="315"
-      src="https://www.youtube.com/embed/wG-mXAbwNa0" frameborder="0"
-      allow="accelerometer; autoplay; encrypted-media; gyroscope;
-      picture-in-picture" allowfullscreen></iframe>
+      <div class="video-responsive">
+      <?# YouTube wG-mXAbwNa0 /?>
+      </div>
+      
     order: 4
   - title: REVIEWS
     body: >-
