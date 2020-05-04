@@ -9,7 +9,10 @@
     }
 
     .show-card {
-        background: $sedos-blue;
+        @include media-breakpoint-up(sm) {
+            background: $sedos-blue;
+        }
+        
         width: 100%;
         height: 360px;
 
