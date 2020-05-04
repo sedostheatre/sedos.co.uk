@@ -12,9 +12,24 @@ using Markdig.Renderers;
 using Markdig.Renderers.Html.Inlines;
 using Markdig.Syntax.Inlines;
 using Markdig.Renderers.Html;
+using Wyam.Common.Meta;
 
 Settings["title"] = "Sedos";
 ContentStreamFactory = new MemoryContentStreamFactory();
+
+ShortcodeCollection.Add("Quote", (KeyValuePair<string, string>[] args, string content, IDocument document, IExecutionContext context) =>
+{
+    var arguments = args.ToDictionary(context, "Cite", "Url");
+    if(arguments.ContainsKey("cite") && arguments.ContainsKey("url"))
+    {
+        return $"<blockquote class='blockquote text-center'>“{content.Trim()}”<footer class='blockquote-footer'><cite><a title='{arguments.String("cite")}' href='{arguments.String("url")}'>{arguments.String("cite")}</a></cite></footer></blockquote>";
+    }
+    if(arguments.ContainsKey("cite"))
+    {
+        return $"<blockquote class='blockquote text-center'>“{content.Trim()}”<footer class='blockquote-footer'><cite>{arguments.String("cite")}</cite></footer></blockquote>";
+    }
+    return $"<blockquote class='blockquote text-center'>“{content.Trim()}”</blockquote>";
+});
 
 Pipelines.Add("Footer",
     ReadFiles("footer.yml"),
@@ -143,6 +158,7 @@ Pipelines.Add("AboutSections",
         Meta("image", (doc, ctx) => CopyAndResizeImageFromMeta(doc, ctx, "image", 600, 300))
     ),
     Razor().WithViewStart("Layout/_PageViewStart.cshtml"),
+    Shortcodes(),
     WriteFiles(".html")
 );
 
