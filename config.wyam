@@ -12,9 +12,24 @@ using Markdig.Renderers;
 using Markdig.Renderers.Html.Inlines;
 using Markdig.Syntax.Inlines;
 using Markdig.Renderers.Html;
+using Wyam.Common.Meta;
 
 Settings["title"] = "Sedos";
 ContentStreamFactory = new MemoryContentStreamFactory();
+
+ShortcodeCollection.Add("Quote", (KeyValuePair<string, string>[] args, string content, IDocument document, IExecutionContext context) =>
+{
+    var arguments = args.ToDictionary(context, "Cite", "Url");
+    if(arguments.ContainsKey("cite") && arguments.ContainsKey("url"))
+    {
+        return $"<blockquote>“{content.Trim()}”<footer>— <cite><a title='{arguments.String("cite")}' href='{arguments.String("url")}'>{arguments.String("cite")}</a></cite></footer></blockquote>";
+    }
+    if(arguments.ContainsKey("cite"))
+    {
+        return $"<blockquote>“{content.Trim()}”<footer>— <cite>{arguments.String("cite")}</cite></footer></blockquote>";
+    }
+    return $"<blockquote>“{content.Trim()}”</blockquote>";
+});
 
 Pipelines.Add("Footer",
     ReadFiles("footer.yml"),
