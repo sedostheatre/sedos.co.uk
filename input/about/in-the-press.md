@@ -10,7 +10,9 @@ image: /assets/246651_10151107053838267_1333029569_n.jpg
 
 ## *The Musical of Musicals (The Musical!)*
 
+^^^
 ![](/assets/49584512558_d82c077fa4_c.jpg)
+^^^ The Musical of Musicals (The Musical!)
 
 <?# Quote Url="http://www.sardinesmagazine.co.uk/reviews/review.php?REVIEW-Sedos-Musical%20of%20Musicals%20(the%20musical!)&reviewsID=3879" Cite="The Musical of Musicals (The Musical!), 2020, Sardines" ?>On any level Sedos production of*The Musical of Musicals, The Musical*at the Bridewell, is a fantastic night out, whether you are a musical aficionado or just someone looking for an evening’s entertainment… Ultimately the strength of this show lies with the six cast members. Emma J Leaver, the director, has found performers with confidence in their own versatility, who really throw themselves into the range of styles and characterisation needed to play all these parts… This show is a great way to forget about storms, elections and coronavirus and just lose yourselves in the magic of the musicals on a wintery February evening.<?#/ Quote ?>
 
@@ -24,7 +26,9 @@ image: /assets/246651_10151107053838267_1333029569_n.jpg
 
 ## *Ragtime*
 
+^^^
 ![](/assets/49059373836_90a6c5fb2d_c.jpg)
+^^^ Ragtime
 
 <?# Quote Url="http://www.sardinesmagazine.co.uk/reviews/review.php?REVIEW-Sedos-Ragtime&reviewsID=3775" Cite="Ragtime, 2019, Sardines" ?>Many groups would not be able to cast this show, let alone put it on stage, but Sedos can do so and with verve and invention in Matt Gould’s pacy and intelligent production, managing his cast of 32 well and ensuring that the complex storyline is at all times as clear as possible. MD Ryan Macaulay conducts an 18-piece orchestra and it is a delight to hear this score played so well and in these orchestrations. Choreography from Victoria Louise-Currie and Rachel Elfassy-Bitoun is nicely differentiated for the various groups and makes good use of the multi-layered set.<?#/ Quote ?>
 
@@ -108,7 +112,9 @@ image: /assets/246651_10151107053838267_1333029569_n.jpg
 
 ## *Pippin*
 
+^^^
 ![](/assets/41992373771_f06cfe1c8d_c.jpg)
+^^^ Pippin
 
 <?# Quote Url="https://www.remotegoat.com/uk/review/13861/deliciously-dark-stephen-schwartz-revival/" Cite="Pippin, 2018, Remote Goat" ?>It’s 45 years since I saw *Pippin* in the West End, and while the themes are certainly still current, the style and the devices can feel a little dated. Chris Adams’ compelling production, especially at the end, cuts through the tricks and the whimsy to achieve a genuinely moving piece of drama.<?#/ Quote ?>
 
@@ -148,7 +154,7 @@ image: /assets/246651_10151107053838267_1333029569_n.jpg
 
 ## *Our Country's Good*
 
-"Strong production of modern classic." [Our Country’s Good, 2018, Remote Goat](https://www.remotegoat.com/uk/review/14089/strong-production-of-modern-classic/)
+<?# Quote Url="https://www.remotegoat.com/uk/review/14089/strong-production-of-modern-classic/" Cite="Our Country’s Good, 2018, Remote Goat" ?>Strong production of modern classic.<?#/ Quote ?>
 
 <?# Quote Url="http://www.sardinesmagazine.co.uk/reviews/review.php?REVIEW-Sedos-Our+Countrys+Good&reviewsID=3362" Cite="Our Country’s Good, 2018, Sardines" ?>I think this production of Our Country’s Good is the best non-professional 'straight' play (musicals are a different animal) I have ever seen. Of course that’s partly down to the strength of Wertenbaker’s timeless, topical, funny, poignant, horrifying text. But it’s also a huge credit to the talented Sedos cast and their director, Chloe Robertson.<?#/ Quote ?>
 
@@ -172,7 +178,9 @@ image: /assets/246651_10151107053838267_1333029569_n.jpg
 
 ## *Frankenstein*
 
+^^^
 ![](/assets/37705654016_b820d8a35e_c.jpg)
+^^^ Frankenstein 
 
 <?# Quote Url="http://www.sardinesmagazine.co.uk/reviews/review.php?REVIEW-Sedos-Frankenstein&reviewsID=3004" Cite="Frankenstein, 2017, Sardines" ?>Watching \[Jonathon] Cooper’s character progression and journey throughout the whole show was, I felt, a master class in acting.<?#/ Quote ?>
 
@@ -194,7 +202,9 @@ image: /assets/246651_10151107053838267_1333029569_n.jpg
 
 ## *Such Stuff As Dreams Are Made On*
 
+^^^
 ![](/assets/26633088111_b3a35b54e9_c.jpg)
+^^^ Such Stuff As Dreams Are Made On
 
 <?# Quote Url="https://www.ayoungertheatre.com/review-such-stuff-as-dreams-are-made-on-caplan-house/" Cite="Such Stuff As Dreams Are Made On, 2016, A Younger Theatre" ?>I would give the show as many stars as possible and think everyone in London should see this show… I encourage, urge and plead with you to go, because I guarantee you will not have seen anything like this before. Whoever is in charge of awards that the folks at Sedos would be eligible for, book your ticket now!<?#/ Quote ?>
 
@@ -243,7 +253,9 @@ image: /assets/246651_10151107053838267_1333029569_n.jpg
 
 ## *Legally Blonde*
 
+^^^
 ![](/assets/17317383118_0142e7a575_c.jpg)
+^^^ Legally Blonde
 
 <?# Quote Url="http://www.sardinesmagazine.co.uk/reviews/review.php?REVIEW-Sedos-Legally%20Blonde&reviewsID=1441" Cite="Legally Blonde, 2015, Sardines" ?>Sedos represents everything an amateur society should be and we can unanimously say this is the best amateur musical we have seen. Ever. (And we’ve seen rather a lot...).<?#/ Quote ?>
 
@@ -255,7 +267,9 @@ image: /assets/246651_10151107053838267_1333029569_n.jpg
 
 <?# Quote Url="http://www.sardinesmagazine.co.uk/reviews/review.php?reviewsID=1097" Cite="Into the Woods, 2014, Sardines Magazine" ?>The whole production was visually stunning… Director Matt Gould gave us a production that had a good pace, plenty of humour, some original touches and a brooding sense of menace…Each actor gives an outstanding individual performance but the sense of the cast working as a team is never lost… truly impressive performances all round… Sedos certainly lived up to their premier status with a production that leads you on a fabulous journey down a twisted path to a breathtaking conclusion.<?#/ Quote ?>
 
+^^^
 ![](/assets/13601504703_f940777794_c.jpg)
+^^^ Into the Woods
 
 <?# Quote Url="$3" Cite="Into the Woods, 2014, Retox Magazine\" ?>If Sedos has taught us one thing, a tall order is never impossible for them... Sedos has created here a hugely fun production, combining experienced directing (Matthew Gould), excellent musical direction (Ryan Macaulay) and fantastic casting... Like a fairy-tale playground in a deep dark forest, set designer Steven King’s creation was astounding. Along with production designer Rebecca Turner, costume designer Deborah Lean and the team that put everything together this production was nothing short of visually spectacular.<?#/ Quote ?>
 \
@@ -283,7 +297,9 @@ image: /assets/246651_10151107053838267_1333029569_n.jpg
 
 ## *Macbeth*
 
+^^^
 ![](/assets/10556024264_8bbe512951_c.jpg)
+^^^ Macbeth
 
 <?# Quote  Cite="Macbeth, 2013, Sardines" ?>As soon as the play began the commitment of every actor hit you in the face with every inch of stage swarming with character, character that as the play progressed and actors doubled up on parts, was never lost. Every line, every performer… absolutely deserved their every moment and created a performance well beyond the level of the amateur theatre… So many performances stood out… All the costumes were beyond fantastic and Deborah Lean’s mixing of military, Scottish and the Elizabethan was seamlessly done, including the translation of set design to costume… Final praise, however, has to go to Chloë Faine’s directing. Also credited as designer, her vision is seamlessly woven through performance, costume, blocking, set design and everything else. This production was meticulously thought out, and it shows… Sedos has set theMacbethbar exceptionally high.<?#/ Quote ?>
 
@@ -317,7 +333,9 @@ image: /assets/246651_10151107053838267_1333029569_n.jpg
 
 ## *Guys and Dolls*
 
+^^^
 ![](/assets/8472503957_d261e79e00_c.jpg)
+^^^ Guys and Dolls
 
 <?# Quote  Cite="Guys & Dolls, 2012, thepublicreviews.com" ?>In the grand scheme of amateur, fringe and professional musicals, this cast perform to the absolute max with passion and humour throughout. Moreover, everyone looks like they’re having a great time doing it. London audiences should take notice of Sedos, as its creatives are clearly more than capable of giving their professional neighbours a run for their money.<?#/ Quote ?>
 
@@ -361,7 +379,9 @@ image: /assets/246651_10151107053838267_1333029569_n.jpg
 
 ## *A Little Night Music*
 
+^^^
 ![](/assets/6898876725_1108119837_o.jpg)
+^^^ A Little Night Music
 
 <?# Quote  Cite="A Little Night Music, 2011, SONDHEIM the magazine - official publication of the Sondheim Society" ?>\[Sedos] should be credited as one of the premier \[amateur] companies in the country, as their track record for staging professional-standard shows proves… it was a genius stroke by co-directors Roger Harwood and Dawn Harrison-Wallace to stage the entire show as a flashback… the casting was difficult to fault… \[the cast] all did a great job of bringing the show to life… top marks must go to the costume team for their fantastic work… \[musical director] David Griffiths and his musicians gave a performance grander than many of those you'd hear in West End theatres… Congratulations again to Sedos for another great production…<?#/ Quote ?>
 
@@ -393,7 +413,9 @@ image: /assets/246651_10151107053838267_1333029569_n.jpg
 
 ## *Parade*
 
+^^^
 ![](/assets/4842714345_743f8f6805_c.jpg)
+^^^ Parade
 
 <?# Quote  Cite="Parade, 2009, Remote Goat" ?>This production boasts a cast who are able to hold together a stirling ensemble and a rapturous vocal performance.... the vocalists of Sedos are easily able to match the force and accuracy of any West End ensemble, and with rousing flair.... A wonderful set of costumes are atmospherically lit by fiercely stark beams and the band is simply superb.<?#/ Quote ?>
 
