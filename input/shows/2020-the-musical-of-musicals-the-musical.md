@@ -1,16 +1,16 @@
 ---
 title: The Musical Of Musicals (The Musical)
-year: '2020'
+year: "2020"
 authors: Music by ERIC ROCKWELL
 authors2: Lyrics by JOANNE BOGA
 authors3: Book by ERIC ROCKWELL and JOANNE BOGA
 showtimes:
-  - time: '2020-02-25 19:30+00:00'
-  - time: '2020-02-26 19:30+00:00'
-  - time: '2020-02-27 19:30+00:00'
-  - time: '2020-02-28 19:30+00:00'
-  - time: '2020-02-29 19:30+00:00'
-  - time: '2020-02-29 14:30+00:00'
+  - time: 2020-02-25 19:30+00:00
+  - time: 2020-02-26 19:30+00:00
+  - time: 2020-02-27 19:30+00:00
+  - time: 2020-02-28 19:30+00:00
+  - time: 2020-02-29 19:30+00:00
+  - time: 2020-02-29 14:30+00:00
 showtime-summary: 25-29 February 2020
 venue: Bridewell
 header-image: /assets/SedosWebsite-Banner-sechoir.jpg
@@ -46,8 +46,7 @@ sections:
       <!--EndFragment-->
     order: 1
   - title: GALLERY
-    body: >-
-      <a data-flickr-embed="true"
+    body: <a data-flickr-embed="true"
       href="https://www.flickr.com/photos/sedos/albums/72157713052722446"
       title="The Musical Of Musicals (The Musical) - 2020"><img
       src="https://live.staticflickr.com/65535/49552185823_c1c04ff7a4_z.jpg"
@@ -58,7 +57,7 @@ sections:
 ---
 ## A COMIC VALENTINE TO MUSICAL THEATRE
 
-A musical about musicals! In this hilarious satire of musical theatre, one story becomes five delightful musicals, each written in the distinctive style of a different master of the form, from Rodgers and Hammerstein to Stephen Sondheim.
+**A musical about musicals! In this hilarious satire of musical theatre, one story becomes five delightful musicals, each written in the distinctive style of a different master of the form, from Rodgers and Hammerstein to Stephen Sondheim.**
 
 The basic plot: June is an ingenue who can't pay the rent and is threatened by her evil landlord. Will the handsome leading man come to the rescue?
 
