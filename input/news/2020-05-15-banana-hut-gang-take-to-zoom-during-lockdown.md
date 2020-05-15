@@ -1,7 +1,7 @@
 ---
 title: Banana Hut Gang take to Zoom during lockdown
-date: 2020-04-26
-image: /assets/chooseyourown-poster.jpg
+date: 2020-04-26T00:00:00.000Z
+image: /assets/bhg-pink-background.png
 ---
 After Edinburgh Fringe 2020 got cancelled, this group of tenacious improvisers wanted to find a way to bring their improv show to the people and keep the nation smiling throughout the lockdown. So they did just that: Banana Hut Gang are making a whole load of lemonade with all the lemons we’ve been given, and damn is it tasty!
 
