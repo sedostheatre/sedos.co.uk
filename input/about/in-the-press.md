@@ -2,7 +2,7 @@
 title: In the press
 row: 3
 column: 1
-image: /assets/246651_10151107053838267_1333029569_n.jpg
+image: /assets/aboutus-inthepress.jpg
 ---
 ## Sedos in the press
 
