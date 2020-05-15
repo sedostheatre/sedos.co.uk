@@ -1,7 +1,6 @@
 ---
 title: Rehearsed reading of The Lieutenant of Inishmore
-times:
-  - time: 2020-05-31 07:00+01:00
+times: []
 image: /assets/cat.jpg
 venue: ""
 ticket-prices: ""
