@@ -1,10 +1,12 @@
 ---
 title: Rehearsed teading of The Lieutenant of Inishmore
+times:
+  - time: 2020-05-31 07:00+01:00
 image: /assets/cat.jpg
 venue: Zoom
 ticket-prices: Free
 ---
-The rehearsed reading of *The Lieutenant of Inishmore* will take place on Sunday 31 May, via Zoom.
+The rehearsed reading of *The Lieutenant of Inishmore* will take place on Sunday 31 May, via Zoomm from 7.30pm-9pm.
 
 If you're interested in watching, all you have to do is send a quick email saying you want to watch to events@sedos.co.uk. We'll add you to the list and send you a link to watch nearer the time of the show. 
 
