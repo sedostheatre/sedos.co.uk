@@ -8,7 +8,7 @@ showtimes:
 showtime-summary: 5, 7, 9, 19-24 August 2019
 venue: Miller London, BHG and Greenside @ Infirmary Street
 header-image: /assets/Simprov-BHG-Gang.jpg
-flyer: /assets/60334415_10157023769203267_9154599616056918016_n.jpg
+flyer: /assets/chooseyourown-poster.jpg
 sections:
   - title: CAST
     body: |-
