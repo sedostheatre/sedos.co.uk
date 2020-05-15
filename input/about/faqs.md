@@ -2,7 +2,7 @@
 title: FAQs
 row: 2
 column: 2
-image: /assets/4907208581_7ba48b9e47_z.jpg
+image: /assets/musicalsofmusicals-tn.jpg
 ---
 ## FAQs
 
