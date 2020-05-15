@@ -16,4 +16,4 @@ It's a 1-hour Vinyasa Flow class, followed by time to catch up with pals new and
 
 Classes are free but please sign up in advance for each class through the link below. 
 
-[BOOK HERE](https://mattmoves.as.me/schedule.php?appointmentType=13797270)
+**[BOOK HERE](https://mattmoves.as.me/schedule.php?appointmentType=13797270)**
