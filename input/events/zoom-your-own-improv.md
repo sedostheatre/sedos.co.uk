@@ -9,7 +9,7 @@ times:
   - time: 2020-06-24 08:30+01:00
 image: /assets/bhg-pink-background.png
 venue: Zoom
-recurrence: Every Wednesday at 8.30pm
+recurrence: Wednesdays at 8.30pm
 ticket-prices: Free
 ---
 The Banana Hut Gang are here to cheer up your Wednesday evening with their virtual improv show live from isolation!
