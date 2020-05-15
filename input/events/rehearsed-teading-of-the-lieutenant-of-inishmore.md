@@ -3,8 +3,8 @@ title: Rehearsed reading of The Lieutenant of Inishmore
 times:
   - time: 2020-05-31 07:00+01:00
 image: /assets/cat.jpg
-venue: Zoom
-ticket-prices: Free
+venue: ""
+ticket-prices: ""
 ---
 The rehearsed reading of *The Lieutenant of Inishmore* will take place on Sunday 31 May, via Zoom, from 7.30pm-9pm.
 
