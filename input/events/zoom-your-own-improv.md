@@ -6,6 +6,7 @@ times:
   - time: 2020-06-03 08:30+01:00
   - time: 2020-06-10 08:30+01:00
   - time: 2020-06-17 08:30+01:00
+  - time: 2020-06-24 08:30+01:00
 image: /assets/bhg-pink-background.png
 venue: Zoom
 recurrence: Every Wednesday at 8.30pm
