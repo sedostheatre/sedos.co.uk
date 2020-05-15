@@ -7,4 +7,6 @@ We know how tricky sourcing everything for shows can be. All the items we hire o
 
 So whether it's a single prop or item of clothing, or a full set of The Full Monty final scene outfits (!), why not have a chat with us about how we might be able to help? 
 
-Email your query to our dedicated costume and prop address, cygnetshire@gmail.com, and we'll go from there!
+Email your query to our dedicated costume and prop address, **hires@sedos.co.uk**, and we'll go from there!
+
+![](/assets/bjg-costumeandprophire.jpg)
