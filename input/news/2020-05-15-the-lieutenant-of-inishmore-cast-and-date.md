@@ -1,18 +1,18 @@
 ---
 title: The Lieutenant Of Inishmore cast and date
-date: 2020-05-15
+date: 2020-05-15T00:00:00.000Z
 image: /assets/cat.jpg
 ---
 We're pleased to announce our cast for our rehearsed reading of *The Lieutenant of Inishmore* and and save the show date, Sunday 31 May.
 
 **PADRAIC:** Josh Mallalieu \
-**MAIREAD:** Amy Carmichael
-**DONNY:** Dan Saunders
-**DAVEY:** Rhydian Harris
-**JAMES:** Adam Moulder
-**CHRISTIE:** Matt Tylianakis
-**BRENDAN:** Luke Leahy
-**JOEY: J**osh Yard
+**MAIREAD:** Amy Carmichae\
+**DONNY:** Dan Saunders \
+**DAVEY:** Rhydian Harris \
+**JAMES:** Adam Moulder \
+**CHRISTIE:** Matt Tylianakis \
+**BRENDAN:** Luke Leahy \
+**JOEY:** Josh Yard
 
 A huge thank you to everyone who sent in an audition video! They were uniformly great, and we could have cast the show several times over with the performances we got. 
 
