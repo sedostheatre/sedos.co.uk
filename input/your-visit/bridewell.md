@@ -2,6 +2,6 @@
 title: Bridewell
 row: 1
 column: 1
-image: assets/images/about/bridewell.jpg
+image: /assets/your-visit-bridewell-theatre-2.jpg
 link: /venues/bridewell
 ---
