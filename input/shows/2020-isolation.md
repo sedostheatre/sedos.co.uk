@@ -1,16 +1,15 @@
 ---
-title: 'Isolation: A 30 Day Theatrical Experiment.'
-year: '2020'
+title: "Isolation: A 30 Day Theatrical Experiment."
+year: "2020"
 authors2: by Sedos members
-subtitle: >-
-  When theatres go dark and creatives are forced to isolate. The show must go
-  on!
+subtitle: When theatres go dark and creatives are forced to isolate. The show must go on!
 showtimes:
-  - time: '2020-04-19 12:00+01:00'
-showtime-summary: 'Sunday 19 April 2020, 12pm'
+  - time: 2020-04-19 12:00+01:00
+  - time: 2020-07-31 13:28+01:00
+showtime-summary: From Sunday 19 April 2020, 12pm
 venue: Online
 ticket-prices: FREE
-primary-color: '#19346b'
+primary-color: "#19346b"
 header-image: /assets/isolation-coronavirus.jpg
 flyer: /assets/isolation-portrait.jpeg
 sections: []
