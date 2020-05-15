@@ -1,6 +1,6 @@
 ---
 title: " Your society needs you!"
-date: 2020-04-02
+date: 2020-04-02T00:00:00.000Z
 image: /assets/sedos-members.jpg
 ---
 ![](/assets/sedos-members.jpg)
@@ -11,7 +11,7 @@ The Board of Trustees' primary responsibility is to ensure the long-term financi
 
 The Management Committee is responsible for the day-to-day running and management of the society, under the oversight of the Board of Trustees.
 
-### **Trustee Elections**
+#### **Trustee Elections**
 
 Under the terms of the Society's constitution, a number of the current Trustees will be standing for re-election, and a small number of Trustees have indicated that they will be standing down. So if you would be interested in becoming a Trustee, please contact Alex Baker, Secretary of the Board of Trustees at alexanderjbaker@gmail.com for more information.
 
