@@ -2,7 +2,7 @@
 title: About
 row: 1
 column: 1
-image: assets/images/about/our-history.jpg
+image: /assets/aboutus-armandtheman.jpg
 ---
 Sedos stands for the Stock Exchange Dramatic and Operatic Society. The society was founded in 1905 by senior members of the stock exchange and, although the membership now includes an eclectic mix from all over London, we maintain firm links with the City.\
 \
