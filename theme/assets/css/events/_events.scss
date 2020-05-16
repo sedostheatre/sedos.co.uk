@@ -10,18 +10,3 @@
 .events-column {
     @extend %blue-border-left;
 }
-
-.event-card {
-    .card-header { 
-        background: darken($pink, 10);
-    }
-
-    a, a:focus {
-        color: white;
-    }
-
-    .card-title {
-        margin-bottom: 0;
-        color: white;
-    }
-}

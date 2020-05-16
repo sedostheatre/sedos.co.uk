@@ -1,46 +1,13 @@
+@import "../_card-mixins";
+
 .event-card-container {
-    padding-top: 15px;
-    padding-bottom: 15px;
-    a:hover {
-        text-decoration: none;
-        color: darken(white, 10);
+    @include card-container;
+
+    .regular-event-card {
+        background: darken($pink, 10);
     }
 
     .event-card {
-        flex-direction: column;
-        display: flex;
-
-        @include media-breakpoint-down(sm) {
-            max-height: 300px;
-        }
-
-        @include media-breakpoint-up(sm) {
-            height: 300px;
-        }
-
-        .card-body {
-            overflow: hidden;
-            padding-bottom: 20px;
-            background: $pink;
-            display: flex;
-        }
-
-        .card-footer, .card-header {
-            background: darken($pink, 10);
-            color: white;
-            display: flex;
-        }
-
-        .card-img-top {
-            height: 204px;
-            background-position-x: center;
-            background-position-y: center;
-            background-size: cover;
-            background-repeat: no-repeat;
-        }
-
-        .card-header {
-            margin-bottom: 3px;
-        }
+        @include card($pink);
     }
 }
