@@ -1,8 +1,15 @@
-.event-card-container{
+.event-card-container {
     padding-top: 15px;
     padding-bottom: 15px;
+    a:hover {
+        text-decoration: none;
+        color: darken(white, 10);
+    }
 
     .event-card {
+        flex-direction: column;
+        display: flex;
+
         @include media-breakpoint-down(sm) {
             max-height: 300px;
         }
@@ -15,16 +22,13 @@
             overflow: hidden;
             padding-bottom: 20px;
             background: $pink;
-        }
-
-        .card-footer {
-            a {
-                color: white;
-            }
+            display: flex;
         }
 
         .card-footer, .card-header {
             background: darken($pink, 10);
+            color: white;
+            display: flex;
         }
 
         .card-img-top {
