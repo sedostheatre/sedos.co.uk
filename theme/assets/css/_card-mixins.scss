@@ -1,0 +1,49 @@
+
+@mixin card($colour) {
+    flex-direction: column;
+    display: flex;
+
+    .card-body {
+        overflow: hidden;
+        padding-bottom: 20px;
+        background: $colour;
+        display: flex;
+    }
+
+    .card-footer, .card-header {
+        background: darken($colour, 10);
+        color: white;
+        display: flex;
+        flex-direction: column;
+    }
+    
+    .card-header {
+        margin-bottom: 3px;
+    }
+
+    .card-img-top {
+        height: 204px;
+        background-position-x: center;
+        background-position-y: center;
+        background-size: cover;
+        background-repeat: no-repeat;
+    }
+
+    @include media-breakpoint-down(sm) {
+        max-height: 300px;
+    }
+
+    @include media-breakpoint-up(sm) {
+        height: 300px;
+    }
+}
+
+@mixin card-container {
+    padding-top: 15px;
+    padding-bottom: 15px;
+
+    a:hover {
+        text-decoration: none;
+        color: darken(white, 10);
+    }
+}

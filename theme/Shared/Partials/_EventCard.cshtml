@@ -1,30 +1,28 @@
 @model IDocument
 
 <div class="event-card-container col-md-3 col-sm-6 mb-3 mb-md-0">
-    <div class="event-card card text-white border-0">
-        <div class="card-header">
-            <a href="@Context.GetLink(Model)" class="text-white">
-            <h4 class="card-title">@Model["title"]</h4>
-            </a>
-            <div class="card-text text-light">
-                <small>
-                    @{
-                        var text = Model.ContainsKey("recurrence") && !string.IsNullOrWhiteSpace(Model.Get<string>("recurrence"))
-                        ? Model.Get("recurrence")
-                        : Model.Get("times", Enumerable.Empty<IDocument>())
-                                .Select(time => time.Get<DateTime>("time"))
-                                .FirstOrDefault(x => x >= DateTime.Now)
-                                .ToString("d MMMM");
-                    }
-                    @text
-                </small>
+    <a href="@Context.GetLink(Model)">
+        <div class="event-card card border-0">
+            <div class="card-header">
+                <h4 class="card-title">@Model["title"]</h4>
+                <div class="card-text text-light">
+                    <small>
+                        @{
+                            var text = Model.ContainsKey("recurrence") && !string.IsNullOrWhiteSpace(Model.Get<string>("recurrence"))
+                            ? Model.Get("recurrence")
+                            : Model.Get("times", Enumerable.Empty<IDocument>())
+                                    .Select(time => time.Get<DateTime>("time"))
+                                    .FirstOrDefault(x => x >= DateTime.Now)
+                                    .ToString("d MMMM");
+                        }
+                        @text
+                    </small>
+                </div>
+            </div>
+            <div class="card-img-top" style="background-image: url(@Context.GetLink((IDocument)Model["image"]))"></div>
+            <div class="card-footer">
+                See more
             </div>
         </div>
-        <div class="card-img-top" style="background-image: url(@Context.GetLink((IDocument)Model["image"]))"></div>
-        <div class="card-footer text-muted">
-            <a href="@Context.GetLink(Model)">
-                See more
-            </a>
-        </div>
-    </div>
+    </a>
 </div>

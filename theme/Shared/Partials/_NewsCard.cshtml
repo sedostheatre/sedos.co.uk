@@ -1,33 +1,30 @@
 @model IDocument
 
 <div class="news-card-container col-md-3 col-sm-6 mb-3 mb-md-0">
-    <div class="news-card card border-0">
-        <div class="card-header">
-            <a href="@Context.GetLink(Model)" class="text-white">
+    <a href="@Context.GetLink(Model)">
+        <div class="news-card card border-0">
+            <div class="card-header">
                 <h4 class="card-title">@Model["title"]</h4>
-            </a>
-        </div>
-
-        @if(Model.ContainsKey("image") && Model["image"] != null)
-        {
-            <div class="card-img-top"
-                 style="background-image: url(@Context.GetLink((IDocument)Model["image"]))">
             </div>
-        }
-        else
-        {
-            <div class="card-body text-white">
-                @{
-                    var extract = Model.Get("extract", "");
-                    extract = string.IsNullOrEmpty(extract) ? (string)Model["Excerpt"] : extract;
-                }
-                <p class="card-text news-excerpt">@Html.Raw(extract)</p>
-            </div>
-        }
-        <div class="card-footer">
-            <a href="@Context.GetLink(Model)" class="text-white" >
+            @if(Model.ContainsKey("image") && Model["image"] != null)
+            {
+                <div class="card-img-top"
+                    style="background-image: url(@Context.GetLink((IDocument)Model["image"]))">
+                </div>
+            }
+            else
+            {
+                <div class="card-body text-white">
+                    @{
+                        var extract = Model.Get("extract", "");
+                        extract = string.IsNullOrEmpty(extract) ? (string)Model["Excerpt"] : extract;
+                    }
+                    <p class="card-text news-excerpt">@Html.Raw(extract)</p>
+                </div>
+            }
+            <div class="card-footer">
                 Read the full article
-            </a>
+            </div>
         </div>
-    </div>
+    </a>
 </div>
