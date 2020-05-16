@@ -145,7 +145,7 @@ collections:
           - label: event time
             widget: datetime
             name: time
-            format: YYYY-MM-DD hh:mmZ
+            format: YYYY-MM-DD HH:mmZ
       - name: image
         label: Featured Image
         widget: image
@@ -183,7 +183,7 @@ collections:
           - label: event time
             widget: datetime
             name: time
-            format: YYYY-MM-DD hh:mmZ
+            format: YYYY-MM-DD HH:mmZ
       - name: image
         label: Featured Image
         widget: image
