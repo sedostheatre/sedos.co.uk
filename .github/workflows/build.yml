@@ -1,0 +1,14 @@
+on: push
+  branches-ignore:
+      - master
+
+jobs:
+  build:
+    name: Build
+    runs-on: windows-2019
+    steps:
+    - name: Build
+      uses: ecampidoglio/cake-action@v1
+      with:
+        target: Build
+        cake-version: 0.33.0
