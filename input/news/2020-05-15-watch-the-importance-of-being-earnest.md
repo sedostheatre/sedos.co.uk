@@ -12,7 +12,7 @@ Directed by Lloyd Smith with a cast of eight, this delicious farcical comedy, in
 Watch this space for screening details for our next virtual play *The Lieutenant of Inishmore*.
 
 <div class="video-responsive">
-  <?# https://www.youtube.com/embed/xv_-iUU4NG8/?>
+  <?# YouTube xv_-iUU4NG8 /?>
 </div>
 
 ![](/assets/zoom-earnest-1.jpg)
