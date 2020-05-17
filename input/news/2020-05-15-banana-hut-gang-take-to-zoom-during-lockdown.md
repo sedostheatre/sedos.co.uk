@@ -13,7 +13,7 @@ Banana Hut Gang member Laura Capaldi commented “When Edinburgh Fringe Festival
 
 **Cast** | Laura Capaldi, Alex Magliaro, Sam Pearce, Jess Rogers, Jonny Scott, James Alexander Stone, Chris Warner.
 
-**Producer** | Chloe Karpinskyj.
+**Producer** | Chloe Karpinskyj
 
 **Zoom meeting ID:** 971-0453-7924 \
 **Zoom link:** <https://zoom.us/j/97104537924> \
