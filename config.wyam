@@ -101,7 +101,6 @@ Pipelines.Add("News",
     Meta("fallback-header",
         (doc, ctx) => CopyAndResizeImageFromFile(doc, ctx, "assets/images/headers/SedosWebsite-Banner-Seats-flaton.jpg", 1280, null)
     ),
-    Meta("page-title", "News"),
     Meta("background-override", "bg-turquoise"),
     Razor().WithViewStart("Layout/_NewsArticleViewStart.cshtml"),
     WriteFiles(".html")
