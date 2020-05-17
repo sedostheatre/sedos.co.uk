@@ -1,7 +1,7 @@
 ---
 title: Rehearsed reading of The Lieutenant of Inishmore
 times:
-  - time: 2020-05-31 07:30+01:00
+  - time: 2020-05-31 19:30+01:00
 image: /assets/cat.jpg
 venue: ""
 recurrence: Sunday 31 May, 7.30pm
