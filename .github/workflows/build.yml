@@ -1,0 +1,16 @@
+on:
+  push:
+    branches-ignore:
+    - master
+
+jobs:
+  build:
+    name: Build
+    runs-on: windows-2019
+    steps:
+    - uses: actions/checkout@v2.1.0
+    - name: Build
+      run: .\build.ps1 -Target "Build"
+      shell: powershell
+
+    
