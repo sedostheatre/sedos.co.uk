@@ -10,4 +10,6 @@ jobs:
     steps:
     - name: Build
       run: .\build.ps1 -Target "Build"
+      shell: powershell
+
     
