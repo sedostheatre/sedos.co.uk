@@ -8,10 +8,6 @@ jobs:
     name: Build
     runs-on: windows-2019
     steps:
-    - name: ls
-      run: ls
     - name: Build
-      uses: ecampidoglio/cake-action@v1
-      with:
-        target: Build
-        cake-version: 0.33.0
+      run: .\build.ps1 -Target "Build"
+    
