@@ -6,7 +6,7 @@ subtitle: When creatives are forced to isolate; the show must go on!
 showtimes:
   - time: 2020-04-19 12:00+01:00
   - time: 2020-07-31 13:28+01:00
-showtime-summary: Online duirng lockdown
+showtime-summary: Online during lockdown
 venue: ""
 ticket-prices: ""
 primary-color: "#19346b"
