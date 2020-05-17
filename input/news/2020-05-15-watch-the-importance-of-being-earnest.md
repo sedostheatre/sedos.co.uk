@@ -1,6 +1,6 @@
 ---
 title: Watch The Importance Of Being Earnest
-date: 2020-04-29
+date: 2020-04-29T00:00:00.000Z
 image: /assets/zoom-earnest-1.jpg
 ---
 Missed our live Zoom production of Wilde's trivial comedy for serious people? Then you're in luck as it's now available to watch again online.
@@ -11,10 +11,8 @@ Directed by Lloyd Smith with a cast of eight, this delicious farcical comedy, in
 
 Watch this space for screening details for our next virtual play *The Lieutenant of Inishmore*.
 
-```
-<iframe width="560" height="315" src="https://www.youtube.com/embed/xv_-iUU4NG8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-```
-
-
+<div class="video-responsive">
+  <?# https://www.youtube.com/embed/xv_-iUU4NG8/?>
+</div>
 
 ![](/assets/zoom-earnest-1.jpg)
