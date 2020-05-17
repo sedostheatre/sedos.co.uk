@@ -5,12 +5,12 @@ authors: Book and lyrics by LYNN AHRENS
 authors2: Music by STEPHEN FLAHERTY
 subtitle: ''
 showtimes:
-  - time: '2018-09-18 19:30+0100'
-  - time: '2018-09-20 19:30+0100'
-  - time: '2018-09-19 19:30+0100'
-  - time: '2018-09-21 19:30+0100'
-  - time: '2018-09-22 19:30+0100'
-  - time: '2018-09-22 14:30+0100'
+  - time: '2018-09-18 19:30'
+  - time: '2018-09-20 19:30'
+  - time: '2018-09-19 19:30'
+  - time: '2018-09-21 19:30'
+  - time: '2018-09-22 19:30'
+  - time: '2018-09-22 14:30'
 showtime-summary: 18-22 September
 venue: Bridewell Theatre
 primary-color: '#000000'

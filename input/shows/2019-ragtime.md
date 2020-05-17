@@ -5,17 +5,17 @@ authors: Book by TERRENCE MCNALLY
 authors2: Music by STEPHEN FLAHERTY
 authors3: Lyrics by LYNN AHRENS
 showtimes:
-  - time: 2019-11-13 19:30+00:00
-  - time: 2019-11-14 19:30+00:00
-  - time: 2019-11-15 19:30+00:00
-  - time: 2019-11-16 14:30+00:00
-  - time: 2019-11-16 19:30+00:00
-  - time: 2019-11-19 19:30+00:00
-  - time: 2019-11-20 19:30+00:00
-  - time: 2019-11-21 19:30+00:00
-  - time: 2019-11-22 19:30+00:00
-  - time: 2019-11-23 14:30+00:00
-  - time: 2019-11-23 19:30+00:00
+  - time: 2019-11-13 19:30
+  - time: 2019-11-14 19:30
+  - time: 2019-11-15 19:30
+  - time: 2019-11-16 14:30
+  - time: 2019-11-16 19:30
+  - time: 2019-11-19 19:30
+  - time: 2019-11-20 19:30
+  - time: 2019-11-21 19:30
+  - time: 2019-11-22 19:30
+  - time: 2019-11-23 14:30
+  - time: 2019-11-23 19:30
 showtime-summary: 13-23 November 2019
 venue: Bridewell Theatre
 header-image: /assets/statue-of-liberty-359341.jpg

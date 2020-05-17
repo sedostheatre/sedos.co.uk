@@ -1,7 +1,7 @@
 ---
 title: 'Improv for beginners: course with performance'
 times:
-  - time: '2020-03-13 07:00+00:00'
+  - time: '2020-03-13 07:00'
 image: /assets/simprov3-360.jpg
 venue: '1 Brewers'' Hall Garden, London EC2V 5DX'
 recurrence: 'Fridays, 13 March-1 May 2020'

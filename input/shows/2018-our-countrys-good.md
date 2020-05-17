@@ -4,12 +4,12 @@ year: '2018'
 authors: by TIMBERLAKE WERTENBAKER
 subtitle: A modern classic exploring crime and punishment and the power of theatre
 showtimes:
-  - time: '2018-10-23 19:30+0100'
-  - time: '2018-10-24 19:30+0100'
-  - time: '2018-10-25 19:30+0100'
-  - time: '2018-10-26 19:30+0100'
-  - time: '2018-10-27 19:30+0100'
-  - time: '2018-10-27 14:30+0100'
+  - time: '2018-10-23 19:30'
+  - time: '2018-10-24 19:30'
+  - time: '2018-10-25 19:30'
+  - time: '2018-10-26 19:30'
+  - time: '2018-10-27 19:30'
+  - time: '2018-10-27 14:30'
 showtime-summary: 23-27 October 2018
 venue: Bridewell Theatre
 ticket-prices: >-

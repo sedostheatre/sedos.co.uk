@@ -4,12 +4,12 @@ year: '2018'
 authors: By MIKE BARTLETT
 subtitle: An epic rollercoaster of a play that takes us from 1968 to 2525 and back again
 showtimes:
-  - time: '2018-07-10 19:30+0100'
-  - time: '2018-07-11 19:30+0100'
-  - time: '2018-07-12 19:30+0100'
-  - time: '2018-07-13 19:30+0100'
-  - time: '2018-07-14 19:30+0100'
-  - time: '2018-07-14 14:30+0100'
+  - time: '2018-07-10 19:30'
+  - time: '2018-07-11 19:30'
+  - time: '2018-07-12 19:30'
+  - time: '2018-07-13 19:30'
+  - time: '2018-07-14 19:30'
+  - time: '2018-07-14 14:30'
 showtime-summary: 10-14 JULY
 primary-color: '#17a2b8'
 header-image: /assets/35518725_10156293703593267_8650517914618691584_n.jpg

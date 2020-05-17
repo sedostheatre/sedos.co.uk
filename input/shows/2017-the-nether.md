@@ -4,11 +4,11 @@ year: '2017'
 authors: by JENNIFER HALEY
 subtitle: By Jeninifer Haley
 showtimes:
-  - time: '2017-09-26 19:00+0100'
-  - time: '2017-09-27 19:00+0100'
-  - time: '2017-09-28 19:00+0100'
-  - time: '2017-09-29 19:00+0100'
-  - time: '2017-09-30 17:00+0100'
+  - time: '2017-09-26 19:00'
+  - time: '2017-09-27 19:00'
+  - time: '2017-09-28 19:00'
+  - time: '2017-09-29 19:00'
+  - time: '2017-09-30 17:00'
 header-image: /assets/nether-cast-650.jpg
 flyer: /assets/thenether-poster.jpg
 sections:

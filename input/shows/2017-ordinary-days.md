@@ -4,11 +4,11 @@ year: '2017'
 authors: Music and Lyrics | ADAM GWON
 subtitle: ''
 showtimes:
-  - time: '2017-09-27 21:00+0100'
-  - time: '2017-09-28 21:00+0100'
-  - time: '2017-09-29 21:00+0100'
-  - time: '2017-09-30 14:30+0100'
-  - time: '2017-09-30 19:00+0100'
+  - time: '2017-09-27 21:00'
+  - time: '2017-09-28 21:00'
+  - time: '2017-09-29 21:00'
+  - time: '2017-09-30 14:30'
+  - time: '2017-09-30 19:00'
 showtime-summary: 27-30 September 2017
 header-image: /assets/od-cast-650.jpg
 flyer: /assets/ordinarydays-quickfront.jpg

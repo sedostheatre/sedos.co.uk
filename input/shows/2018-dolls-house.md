@@ -5,12 +5,12 @@ authors: by HENRIK IBSEN
 authors2: English language version by SIMON STEPHENS
 subtitle: ''
 showtimes:
-  - time: '2018-01-23 19:30+0100'
-  - time: '2018-01-24 19:30+0100'
-  - time: '2018-01-25 19:30+0100'
-  - time: '2018-01-26 19:30+0100'
-  - time: '2018-01-27 19:30+0100'
-  - time: '2018-01-27 14:30+0100'
+  - time: '2018-01-23 19:30'
+  - time: '2018-01-24 19:30'
+  - time: '2018-01-25 19:30'
+  - time: '2018-01-26 19:30'
+  - time: '2018-01-27 19:30'
+  - time: '2018-01-27 14:30'
 showtime-summary: 23-27 January 2018
 venue: Bridewell Theatre
 primary-color: '#B1D1FC'
