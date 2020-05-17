@@ -11,11 +11,13 @@ Zoom Your Own... Improv! retains all these elements and slickly transfers them o
 
 Banana Hut Gang member Laura Capaldi commented “When Edinburgh Fringe Festival 2020 was cancelled we were all so disappointed, but we picked ourselves up, brushed up on our Zoom knowledge and reformed our show as a virtual experience. We’re so excited to bring our show to new audiences that have never seen it before and might not have been able to venture out to an improv show in the past. We can’t wait to see what genres and quests the audience will throw our way in the new virtual version of our show!”
 
-Cast | Laura Capaldi, Alex Magliaro, Sam Pearce, Jess Rogers, Jonny Scott, James Alexander Stone, Chris Warner. Producer | Chloe Karpinskyj.
+**Cast** | Laura Capaldi, Alex Magliaro, Sam Pearce, Jess Rogers, Jonny Scott, James Alexander Stone, Chris Warner.
+
+**Producer** | Chloe Karpinskyj.
 
 **Zoom meeting ID:** 971-0453-7924 \
-**Zoom link:** <https://zoom.us/j/97104537924>
-**Stream on Facebook:** [www.facebook.com/bananahutgang](http://www.facebook.com/bananahutgang)
-**Watch past shows** [www.youtube.com/channel/UC2gp5U6JvDumjMpCSqntSdA](http://www.youtube.com/channel/UC2gp5U6JvDumjMpCSqntSdA)
-**DatesL** Every Wednesday during Lockdown!
+**Zoom link:** <https://zoom.us/j/97104537924> \
+**Stream on Facebook:** [www.facebook.com/bananahutgang](http://www.facebook.com/bananahutgang) \
+**Watch past shows** [www.youtube.com/channel/UC2gp5U6JvDumjMpCSqntSdA](http://www.youtube.com/channel/UC2gp5U6JvDumjMpCSqntSdA) \
+**Dates:** Every Wednesday during Lockdown! \
 **Time:** 8.30pm - 9.15pm GMT
