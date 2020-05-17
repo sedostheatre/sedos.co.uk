@@ -96,28 +96,17 @@ sections:
     order: 2
   - title: REVIEWS
     body: >-
-      <!--StartFragment-->
+      <?# Quote Url="http://www.sardinesmagazine.co.uk/reviews/review.php?REVIEW-Sedos-The%20Drowsy%20Chaperone&reviewsID=2838" Cite="The Drowsy Chaperone, 2017, Sardines" ?>
+      This is a brilliant, brilliant show that has always deserved to be seen. In the case of this production, more so than ever.
+      <?#/ Quote ?>
 
+      <?# Quote Url="https://www.londontheatre1.com/reviews/review-the-drowsy-chaperone-bridewell-theatre/" Cite="The Drowsy Chaperone, 2017, London Theatre 1" ?>
+      The Drowsy Chaperone may be categorised as an amateur level production, but it didn’t show. The quality of this production was fantastic and truly entertaining.
+      <?#/ Quote ?>
 
-      “This is a brilliant, brilliant show that has always deserved to be seen.
-      In the case of this production, more so than ever.”[The Drowsy Chaperone,
-      2017,
-      Sardines](http://www.sardinesmagazine.co.uk/reviews/review.php?REVIEW-Sedos-The%20Drowsy%20Chaperone&reviewsID=2838)
-
-
-      “The Drowsy Chaperone may be categorised as an amateur level production,
-      but it didn’t show. The quality of this production was fantastic and truly
-      entertaining.”[The Drowsy Chaperone, 2017, London Theatre
-      1](https://www.londontheatre1.com/reviews/review-the-drowsy-chaperone-bridewell-theatre/)
-
-
-      “I feel as if I am constantly saying this about Sedos, but they really
-      have got amateur theatre right and the Drowsy Chaperone is yet another
-      example of this.”[The Drowsy Chaperone, 2017, Musical Theatre
-      Musings](http://musicaltheatremusings.co.uk/drowsy-chaperone-sedos)
-
-
-      <!--EndFragment-->
+      <?# Quote Url="http://musicaltheatremusings.co.uk/drowsy-chaperone-sedos" Cite="The Drowsy Chaperone, 2017, Musical Theatre Musings" ?>
+      I feel as if I am constantly saying this about Sedos, but they really have got amateur theatre right and the Drowsy Chaperone is yet another example of this.
+      <?#/ Quote ?>
     order: 3
 ---
 **Winner of five Tony Awards including Best Book of Musical and Best Original Score,*The Drowsy Chaperone* bursts to life on the Bridewell Theatre stage this May.**

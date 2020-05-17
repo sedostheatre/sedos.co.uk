@@ -91,48 +91,17 @@ sections:
     order: 2
   - title: REVIEWS
     body: >-
-      <!--StartFragment-->
+      <?# Quote Url="http://musicaltheatremusings.co.uk/dangerous-liaisons" Cite="Dangerous Liaisons, 2019, Musical Theatre Musings" ?>
+      As a long-time fan of Sedos, I was excited to be able to attend the first night of their first full dance production… Rest assured, my expectations were exceeded on both counts as the evening unfolded into a masterclass of dramatic contemporary dance which fully captured the themes of seduction and revenge of the original play. Each Sedos season showcases a range of plays and musicals, from popular, well-loved classics to lesser-known and newer works which can challenge both cast and audience. Their weekly Sedance class obviously attracts enthusiastic and highly competent dancers, and the decision to use this to add a new artform to their repertoire was brilliant and will hopefully herald more in the future. I can only add that they have set the bar very high with this one… It was a fantastic experience to be in the performance space with the dancers, feeling their every breath, absorbing their energy and watching the skill of their performance. Congratulations to everyone involved for the faith in what you were creating - you achieved what you set out to do with bells on!
+      <?#/ Quote ?>
 
+      <?# Quote Url="http://www.londontheatrereviews.co.uk/post.cfm?p=1820" Cite="Dangerous Liaisons, 2019, London Theatre Reviews (\*\*\*\**)" ?>
+      A performance of this style is incredibly ambitious for any professional dance troop. What makes this more impressive is that an amateur dramatics society created all of this. Sedos are known for their incredibly high-quality shows, but Dangerous Liaisons has put them on a whole different level. This production with these incredible performers would not be out of place on a West End stage.
+      <?#/ Quote ?>
 
-      “As a long-time fan of Sedos, I was excited to be able to attend the first
-      night of their first full dance production… Rest assured, my expectations
-      were exceeded on both counts as the evening unfolded into a masterclass of
-      dramatic contemporary dance which fully captured the themes of seduction
-      and revenge of the original play. Each Sedos season showcases a range of
-      plays and musicals, from popular, well-loved classics to lesser-known and
-      newer works which can challenge both cast and audience. Their weekly
-      Sedance class obviously attracts enthusiastic and highly competent
-      dancers, and the decision to use this to add a new artform to their
-      repertoire was brilliant and will hopefully herald more in the future. I
-      can only add that they have set the bar very high with this one… It was a
-      fantastic experience to be in the performance space with the dancers,
-      feeling their every breath, absorbing their energy and watching the skill
-      of their performance. Congratulations to everyone involved for the faith
-      in what you were creating - you achieved what you set out to do with bells
-      on!”[Dangerous Liaisons, 2019, Musical Theatre
-      Musings](http://musicaltheatremusings.co.uk/dangerous-liaisons)
-
-
-      “A performance of this style is incredibly ambitious for any professional
-      dance troop. What makes this more impressive is that an amateur dramatics
-      society created all of this. Sedos are known for their incredibly
-      high-quality shows, but Dangerous Liaisons has put them on a whole
-      different level. This production with these incredible performers would
-      not be out of place on a West End stage.”[Dangerous Liaisons, 2019, London
-      Theatre Reviews
-      (\*\*\*\**)](http://www.londontheatrereviews.co.uk/post.cfm?p=1820)
-
-
-      “The dancing is gorgeous, athletic and very expressive. The performance
-      space is tiny, so you are up close and personal with the dancers/actors,
-      and they absolutely carry you along with the story… Sedos is an amateur
-      company, but there is nothing amateurish about this show – it’s ambitious,
-      clever and exciting, but also beautifully economical and
-      precise.”[Dangerous Liaisons, 2019, Fairy Powered Productions
-      (\*\*\*\*)](http://fairypoweredproductions.com/dangerous-liaisons-review/)
-
-
-      <!--EndFragment-->
+      <?# Quote Url="http://fairypoweredproductions.com/dangerous-liaisons-review/" Cite="Dangerous Liaisons, 2019, Fairy Powered Productions (\*\*\*\*)" ?>
+      The dancing is gorgeous, athletic and very expressive. The performance space is tiny, so you are up close and personal with the dancers/actors, and they absolutely carry you along with the story… Sedos is an amateur company, but there is nothing amateurish about this show – it’s ambitious, clever and exciting, but also beautifully economical and precise.
+      <?#/ Quote ?>
     order: 3
 ---
 <!--StartFragment-->
