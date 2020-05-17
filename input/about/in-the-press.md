@@ -232,18 +232,22 @@ image: /assets/aboutus-inthepress.jpg
 
 <?# Quote Url="http://www.sardinesmagazine.co.uk/reviews/review.php?REVIEW-Sedos-One%20Man,%20Two%20Guvnors&reviewsID=2581" Cite="One Man, Two Guvnors, 2016, Sardines" ?>I have seen quite a lot of Sedos productions over the last few years, and their shows are of a consistent excellent quality. They are undoubtedly a collection of extremely talented directors, actors and performers. One Man, Two Guv’nors upheld that high expectation and did not disappoint; the show was of professional standard with even the smallest parts giving consistent high quality performances.<?#/ Quote ?>
 
-“Sedos is an amateur dramatic company, but the acting is easily on par with the professional show I saw previously. In fact, having seen Sedos in action before, it seems they are once again blurring the lines between professional and amateur theatre. In particular, they prove that the quality of a show is determined by those involved – and not whether anyone is getting paid.”[ One Man, Two Guvnors, 2016, West End Wilma](https://www.westendwilma.com/review-one-man-two-guvnors-bridewell/)
+
+<?# Quote Url="https://www.westendwilma.com/review-one-man-two-guvnors-bridewell/" Cite="One Man, Two Guvnors, 2016, West End Wilma" ?>
+Sedos is an amateur dramatic company, but the acting is easily on par with the professional show I saw previously. In fact, having seen Sedos in action before, it seems they are once again blurring the lines between professional and amateur theatre. In particular, they prove that the quality of a show is determined by those involved – and not whether anyone is getting paid.<?#/ Quote ?>
 
 ## *Candide*
 
 <?# Quote Url="http://www.sardinesmagazine.co.uk/reviews/review.php?REVIEW-Sedos-Candide&reviewsID=2644" Cite="Candide, 2016, Sardines" ?>The result is an irreverent, apt, ever topical musical… it’s in excellent hands with Sedos which, as usual, achieves a near professional standard… A jolly good evening’s entertainment, then. All credit to this production and all who sail in her.<?#/ Quote ?>
 
-<?# Quote Url="http://musicaltheatremusings.co.uk/candide" Cite="Candide, 2016, Musical Theatre Musings" ?>Sedos delivered the production in a classy manner with an incredibly strong cast in everything from their characterisation to music and a strong visual feast for the eyes.<?#/ Quote ?>
+<?# Quote Url="http://musicaltheatremusings.co.uk/candide" Cite="Candide, 2016, Musical Theatre Musings" ?>
+Sedos delivered the production in a classy manner with an incredibly strong cast in everything from their characterisation to music and a strong visual feast for the eyes.<?#/ Quote ?>
 
 ## *Pornography*
 
-“Sedos are one of the countries best amateur dramatic groups.... I do admire how versatile Sedos can be from stunning productions of musicals...to clever and infrequently performed plays such as Pornography.”\
-[Pornography, 2016, Musical Theatre Musings](http://musicaltheatremusings.co.uk/pornography-the-play)
+<?# Quote Url="http://musicaltheatremusings.co.uk/pornography-the-play" Cite="Pornography, 2016, Musical Theatre Musings" ?>
+Sedos are one of the countries best amateur dramatic groups.... I do admire how versatile Sedos can be from stunning productions of musicals...to clever and infrequently performed plays such as Pornography.
+<?#/ Quote ?>
 
 # **2015**
 
