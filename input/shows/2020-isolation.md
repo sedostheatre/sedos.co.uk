@@ -18,11 +18,11 @@ When physical performance spaces go dark and creatives are forced to isolate, co
 
 For 30 days during lockdown (20 March-19 April 2020) we invited you to join us in creating new digital theatrical content exploring the theme of isolation. Just because you are physically distancing, doesn’t mean we can’t still be social. We wanted you, with your housemates, to turn your home into a live performance space with  opportunities for writers, composers, actors, dancers, tech creatives and directors to get involved.
 
-The experiment culminates in a virtual showcase that will be shared on the Sedos YouTube channel and Facebook page during lockdown. 
+The experiment culminates in a virtual showcase that will be shared on the **[Sedos YouTube](https://www.youtube.com/user/SedosVideo/videos)** channel during lockdown. 
 
 Take a look and see how isolation has inspired the Sedos Membership.
 
-#### **[WATCH THE VIDEOS](https://www.youtube.com/user/SedosVideo/videos)**
+### **[WATCH THE VIDEOS](https://www.youtube.com/user/SedosVideo/videos)**
 
 **CREATIVE TEAM**\
 **PRODUCER** | Robert J. Stanex
