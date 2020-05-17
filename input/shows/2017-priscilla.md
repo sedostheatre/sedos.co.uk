@@ -4,7 +4,7 @@ year: '2017'
 authors: by Stephan Elliott and Allan Scott
 subtitle: Journey to the heart of fabulous!
 showtimes:
-  - time: '2017-11-22 19:30+0100'
+  - time: '2017-11-22 19:30'
 showtime-summary: 'Wed 22 Nov - Sat 2 Dec, 7:30pm (Sat matinees 2:30pm)'
 venue: Bridewell Theatre
 header-image: /assets/priscrehearsal-800.jpg

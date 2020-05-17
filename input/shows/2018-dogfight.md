@@ -3,7 +3,7 @@ title: Dogfight
 year: '2018'
 authors: 'Benj Paske, Justin Paul and Peter Duchan'
 showtimes:
-  - time: '2018-03-06 19:30+0100'
+  - time: '2018-03-06 19:30'
 showtime-summary: 23-27 January
 venue: bridewell
 primary-color: '#555500'

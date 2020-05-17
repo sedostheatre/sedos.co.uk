@@ -5,12 +5,12 @@ authors: Music by JOSHUA SALZMAN
 authors2: Lyrics by RYAN CUNNINGHAM
 subtitle: A musical about confronting adulthood in the city that never sleeps
 showtimes:
-  - time: 2019-03-05 19:30+00:00
-  - time: 2019-03-06 19:30+00:00
-  - time: 2019-03-07 19:30+00:00
-  - time: 2019-03-08 19:30+00:00
-  - time: 2019-03-09 14:30+00:00
-  - time: 2019-03-09 19:30+00:00
+  - time: 2019-03-05 19:30
+  - time: 2019-03-06 19:30
+  - time: 2019-03-07 19:30
+  - time: 2019-03-08 19:30
+  - time: 2019-03-09 14:30
+  - time: 2019-03-09 19:30
 showtime-summary: 7.30pm, Sat matinee at 2.30pm
 venue: Bridewell Theatre
 ticket-prices: >-

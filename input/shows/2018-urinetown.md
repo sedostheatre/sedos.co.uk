@@ -5,16 +5,16 @@ authors: Music and Lyrics by MARK HOLLMANN
 authors2: Book and Lyrics by GREG KOTIS
 subtitle: Tomorrow will not stink!
 showtimes:
-  - time: '2018-11-21 19:30+0100'
-  - time: '2018-11-22 19:30+0100'
-  - time: '2018-11-23 19:30+0100'
-  - time: '2018-11-24 19:30+0100'
-  - time: '2018-11-24 14:30+0100'
-  - time: '2018-11-28 19:30+0100'
-  - time: '2018-11-29 19:30+0100'
-  - time: '2018-11-30 19:30+0100'
-  - time: '2018-12-01 19:30+0100'
-  - time: '2018-12-01 14:30+0100'
+  - time: '2018-11-21 19:30'
+  - time: '2018-11-22 19:30'
+  - time: '2018-11-23 19:30'
+  - time: '2018-11-24 19:30'
+  - time: '2018-11-24 14:30'
+  - time: '2018-11-28 19:30'
+  - time: '2018-11-29 19:30'
+  - time: '2018-11-30 19:30'
+  - time: '2018-12-01 19:30'
+  - time: '2018-12-01 14:30'
 showtime-summary: 21 November-1 December 2018
 venue: Bridewell Theatre
 ticket-prices: ''

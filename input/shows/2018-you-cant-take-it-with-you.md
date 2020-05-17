@@ -4,13 +4,13 @@ year: '2018'
 authors: By MOSS HART and GEORGE S. KAUFMAN
 subtitle: A biting comedy that celebrates non-conformity
 showtimes:
-  - time: '2018-04-09 19:30+0100'
-  - time: '2018-04-10 19:30+0100'
-  - time: '2018-04-11 19:30+0100'
-  - time: '2018-04-12 19:30+0100'
-  - time: '2018-04-13 19:30+0100'
-  - time: '2018-04-14 14:30+0100'
-  - time: '2018-04-14 19:30+0100'
+  - time: '2018-04-09 19:30'
+  - time: '2018-04-10 19:30'
+  - time: '2018-04-11 19:30'
+  - time: '2018-04-12 19:30'
+  - time: '2018-04-13 19:30'
+  - time: '2018-04-14 14:30'
+  - time: '2018-04-14 19:30'
 showtime-summary: 9-14 APRIL
 venue: Bridewell Theatre
 ticket-prices: ''

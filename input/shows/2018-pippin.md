@@ -7,13 +7,13 @@ subtitle: >-
   Meet Pippin. Young, ambitious, full of potential and ready to change the
   world. But things are never that simple.
 showtimes:
-  - time: '2018-05-09 19:30+0100'
-  - time: '2018-05-10 19:30+0100'
-  - time: '2018-05-11 19:30+0100'
-  - time: '2018-05-12 19:30+0100'
-  - time: '2018-05-13 19:30+0100'
-  - time: '2018-05-13 14:30+0100'
-  - time: '2018-05-14 19:30+0100'
+  - time: '2018-05-09 19:30'
+  - time: '2018-05-10 19:30'
+  - time: '2018-05-11 19:30'
+  - time: '2018-05-12 19:30'
+  - time: '2018-05-13 19:30'
+  - time: '2018-05-13 14:30'
+  - time: '2018-05-14 19:30'
 showtime-summary: 9-19 MAY
 venue: Bridewell Theatre
 ticket-prices: ''
