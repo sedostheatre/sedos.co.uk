@@ -34,7 +34,10 @@
                 <h3 class="showtime-summary">@Model["showtime-summary"]</h3>
             }
             <div class="show-action-bar">
-                <a href="#" class="btn btn-light">Book tickets</a>
+                @if(Model.Get("box-office-open", false))
+                {
+                    <a href="#" class="btn btn-light">Book tickets</a>
+                }
                 <a href="@Context.GetLink(Model)" class="btn btn-light" style="margin-left: 15px;">More info</a>
             </div>
         </div>

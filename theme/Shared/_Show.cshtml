@@ -70,7 +70,7 @@
                             }
                         </ul>
 
-                        if(showDates.Any(x => x > DateTime.Now))
+                        if(showDates.Any(x => x > DateTime.Now) && Model.Get("box-office-open", false))
                         {
                             <button class="btn btn-sedos-blue">Book tickets</button>
                         }

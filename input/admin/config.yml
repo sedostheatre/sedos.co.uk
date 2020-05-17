@@ -77,6 +77,11 @@ collections:
         name: flyer
         widget: image
         required: false
+      - label: Box office open
+        name: box-office-open
+        widget: boolean
+        default: false
+        required: false
       - label: Show details
         name: body
         widget: markdown
