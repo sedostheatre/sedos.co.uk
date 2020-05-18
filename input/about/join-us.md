@@ -47,7 +47,7 @@ For more information about joining email membership@sedos.co.uk.
 
 Please note, if you are not already a Sedos member and you are cast in a show you must become a Sedos member at or before the first rehearsal of a production. You must be a member of Sedos for the entire rehearsal period and performance dates.
 
-For those not wishing to join Sedos as a member straight away, why not sign up for our weekly newsletter so that you will receive all the latest news from Sedos, including the latest auditions.
+For those not wishing to join Sedos as a member straight away, why not sign up for our weekly newsletter so that you will receive all the latest news from Sedos, including the latest auditions. Sign up [here](http://visitor.r20.constantcontact.com/d.jsp?llr=7yoblmeab&p=oi&m=1104220830492&sit=yqu4b8vfb&f=4cc31fd7-b79d-4c4e-a679-b7da2f2904ac)!
 
 Plus, don’t forget to follow us on social media:
 
