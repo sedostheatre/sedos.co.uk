@@ -3,7 +3,7 @@ public_folder: /assets
 
 backend:
   name: git-gateway
-  branch: master
+  branch: content
   repo: sedostheatre/sedos.co.uk
 
 collections:
