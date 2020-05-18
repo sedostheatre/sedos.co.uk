@@ -1,7 +1,7 @@
 ---
 title: Sister Act Weekend Musical
 times:
-  - time: '2020-05-01 04:30+01:00'
+  - time: '2020-05-01 04:30'
 image: /assets/sisteract.jpg
 recurrence: 'Auditions 28 April, rehearsals 1-3 May'
 ---

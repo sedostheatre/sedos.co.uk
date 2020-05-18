@@ -4,7 +4,7 @@ year: "2019"
 authors: " By Sedos' Banana Hut Gang "
 subtitle: Sedos on tour to the EDINBURGH FRINGE FESTIVAL
 showtimes:
-  - time: 2019-08-09 17:32+01:00
+  - time: 2019-08-09 17:32
 showtime-summary: 5, 7, 9, 19-24 August 2019
 venue: Miller London, BHG and Greenside @ Infirmary Street
 header-image: /assets/Simprov-BHG-Gang.jpg

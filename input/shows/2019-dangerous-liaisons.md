@@ -4,12 +4,12 @@ year: '2019'
 authors3: ''
 subtitle: An original dance adaptation
 showtimes:
-  - time: '2019-10-15 19:30+01:00'
-  - time: '2019-10-16 19:30+01:00'
-  - time: '2019-10-17 19:30+01:00'
-  - time: '2019-10-18 19:30+01:00'
-  - time: '2019-10-19 15:00+01:00'
-  - time: '2019-10-19 18:00+01:00'
+  - time: '2019-10-15 19:30'
+  - time: '2019-10-16 19:30'
+  - time: '2019-10-17 19:30'
+  - time: '2019-10-18 19:30'
+  - time: '2019-10-19 15:00'
+  - time: '2019-10-19 18:00'
 showtime-summary: 15-19 October 2019
 venue: Bridewell Theatre
 header-image: /assets/DL image.jpg

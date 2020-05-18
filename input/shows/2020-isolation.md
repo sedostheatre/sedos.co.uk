@@ -4,8 +4,8 @@ year: "2020"
 authors2: by Sedos members
 subtitle: When creatives are forced to isolate; the show must go on!
 showtimes:
-  - time: 2020-04-19 12:00+01:00
-  - time: 2020-07-31 13:28+01:00
+  - time: 2020-04-19 12:00
+  - time: 2020-07-31 13:28
 showtime-summary: Online during lockdown
 venue: ""
 ticket-prices: ""

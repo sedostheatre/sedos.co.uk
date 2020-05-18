@@ -5,12 +5,12 @@ authors: by NICK DEAR
 authors2: based on the novel by MARY SHELLEY
 subtitle: ''
 showtimes:
-  - time: '2017-10-17 19:30+01:00'
-  - time: '2017-10-18 19:30+01:00'
-  - time: '2017-10-19 19:30+01:00'
-  - time: '2017-10-20 19:30+01:00'
-  - time: '2017-10-21 19:30+01:00'
-  - time: '2017-10-21 14:30+01:00'
+  - time: '2017-10-17 19:30'
+  - time: '2017-10-18 19:30'
+  - time: '2017-10-19 19:30'
+  - time: '2017-10-20 19:30'
+  - time: '2017-10-21 19:30'
+  - time: '2017-10-21 14:30'
 showtime-summary: 17-21 October 2017
 venue: Bridewell Theatre
 primary-color: '#00FF00'
