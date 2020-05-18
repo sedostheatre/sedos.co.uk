@@ -8,7 +8,7 @@
             @foreach(var link in footerModel.Get<IEnumerable<IDocument>>("external-links"))
             {
                 <div class="col-auto">
-                    <a href="@link["url"]" aria-label="@link["name"]">
+                    <a href="@link["url"]" aria-label="@link["name"]" target="_blank">
                         <img class="footer-image" src="@Context.GetLink(link.Get<string>("image"))"></img>
                     </a>
                 </div>
