@@ -16,15 +16,12 @@ The winners will now be up against winners from the other London regions at the 
 Congratulations once again!
 
 **BEST PLAY:** *Arms and the Man* \
-**BEST MUSICAL:** *Ragtime*
-
+**BEST MUSICAL:** *Ragtime*\
 **FLAME AWARD** (awarded for inspirational contribution to the pursuit of excellence in theatre and enhancement of the overall theatrical experience): *Ragtime* \
-**TROPHY OF ENCOURAGEMENT**: *Dangerous Liaisons* (awarded for its innovation, imagination and originality)
-
+**TROPHY OF ENCOURAGEMENT**: *Dangerous Liaisons* (awarded for its innovation, imagination and originality)\
 **BEST ACTOR IN A MUSICAL:** James Leggat as J P Finch in *How to Succeed in Business Without Really Trying* \
 **BEST ACTRESS IN A MUSICAL:** Zo Pisera as Emma Goldman in *Ragtime* \
-**CHORUS WORK AWARD:** *Ragtime*
-
+**CHORUS WORK AWARD:** *Ragtime*\
 **SCENIC AWARD:** *Arms and the Man*
 
 ![](/assets/unnamed-17-.jpg)
