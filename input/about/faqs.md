@@ -12,7 +12,7 @@ Absolutely! We welcome people of all levels, ages and experience.
 
 **How do I find out about auditions?**
 
-For those not wishing to join Sedos as a member straight away, why not sign up for our weekly newsletter so that you will receive all the latest news from Sedos, including the latest auditions?
+For those not wishing to join Sedos as a member straight away, why not sign up for our weekly newsletter so that you will receive all the latest news from Sedos, including the latest auditions? Sign up [here](http://visitor.r20.constantcontact.com/d.jsp?llr=7yoblmeab&p=oi&m=1104220830492&sit=yqu4b8vfb&f=4cc31fd7-b79d-4c4e-a679-b7da2f2904ac)!
 
 Plus, don’t forget to follow us on social media:
 
