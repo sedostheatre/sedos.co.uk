@@ -136,16 +136,16 @@ sections:
       ><footer><cite><a href='http://musicaltheatremusings.co.uk/ragtime-sedos'>Ragtime, 2019, Musical Theatre Musings</a></cite></footer>
 
       >There is too much good about this production to sum it all up in one short review but if you are a fan of the bombastic in musical theatre.*Ragtime*is a must see and you never know when you might have the opportunity again with such a rarely performed work. Sedos have bravely taken a risk on this one and it has paid off in spades. An accomplished piece of theatre executed by an accomplished group of peoples whose love of the art shines through in everything they do.
-      ><footer><cite><a href='https://broadwaybaby.com/shows/ragtime/748113'>Ragtime, 2019, Broadway Baby (\*\*\*\**)</a></cite></footer>
+      ><footer><cite><a href='https://broadwaybaby.com/shows/ragtime/748113'>Ragtime, 2019, Broadway Baby (*****)</a></cite></footer>
 
       >This Sedos production is a marvel and is not just an excellent amateur production. It is genuinely one of the best shows to grace a London stage this year.
-      ><footer><cite><a href='http://www.londontheatrereviews.co.uk/post.cfm?p=1987'>Ragtime, 2019, London Theatre Reviews (\*\*\*\**)</a></cite></footer>
+      ><footer><cite><a href='http://www.londontheatrereviews.co.uk/post.cfm?p=1987'>Ragtime, 2019, London Theatre Reviews (*****)</a></cite></footer>
 
       >It is shocking to me that this production is Amateur Dramatics, as the quality of the performances, the costumes, lighting, orchestra, and production quality is very high.
       ><footer><cite><a href='https://www.withinherwords.co.uk/post/ragtime-presented-by-sedos'>Ragtime, 2019, Within Her Words</a></cite></footer>
 
       >An orchestra of eighteen and a cast of thirty-two is impressive for the West End these days, let alone amateur dramatics. The production team is worth a mention as well, for several reasons… It is difficult to balance out the sound with a cast and an orchestra as large as this, but the techies here do a remarkable job, with not a single lyric or line of spoken dialogue missed thanks to each and every microphone functioning as it should throughout.
-      ><footer><cite><a href='https://www.londontheatre1.com/reviews/musical/ragtime-at-the-bridewell-theatre-review/'>Ragtime, 2019, London Theatre 1 (\*\*\*\**)</a></cite></footer>
+      ><footer><cite><a href='https://www.londontheatre1.com/reviews/musical/ragtime-at-the-bridewell-theatre-review/'>Ragtime, 2019, London Theatre 1 (*****)</a></cite></footer>
 
       >Sedos have created a captivating and heartbreaking production which should stay with you long after you leave the theatre. You’d be hard pressed to find such an abundance of talent elsewhere in the West End.
       ><footer><cite><a href='https://myfairtheatregoer.com/2019/11/16/review-ragtime-bridewell-theatre-%E2%8B%86%E2%8B%86%E2%8B%86%E2%8B%86/'>Ragtime, 2019, My Fair Theatregoer</a></cite></footer>

@@ -95,10 +95,10 @@ sections:
       ><footer><cite><a href='http://musicaltheatremusings.co.uk/dangerous-liaisons'>Dangerous Liaisons, 2019, Musical Theatre Musings</a></cite></footer>
 
       >A performance of this style is incredibly ambitious for any professional dance troop. What makes this more impressive is that an amateur dramatics society created all of this. Sedos are known for their incredibly high-quality shows, but Dangerous Liaisons has put them on a whole different level. This production with these incredible performers would not be out of place on a West End stage.
-      ><footer><cite><a href='http://www.londontheatrereviews.co.uk/post.cfm?p=1820'>Dangerous Liaisons, 2019, London Theatre Reviews (\*\*\*\**)</a></cite></footer>
+      ><footer><cite><a href='http://www.londontheatrereviews.co.uk/post.cfm?p=1820'>Dangerous Liaisons, 2019, London Theatre Reviews (*****)</a></cite></footer>
 
       >The dancing is gorgeous, athletic and very expressive. The performance space is tiny, so you are up close and personal with the dancers/actors, and they absolutely carry you along with the story… Sedos is an amateur company, but there is nothing amateurish about this show – it’s ambitious, clever and exciting, but also beautifully economical and precise.
-      ><footer><cite><a href='http://fairypoweredproductions.com/dangerous-liaisons-review/'>Dangerous Liaisons, 2019, Fairy Powered Productions (\*\*\*\*)</a></cite></footer>
+      ><footer><cite><a href='http://fairypoweredproductions.com/dangerous-liaisons-review/'>Dangerous Liaisons, 2019, Fairy Powered Productions (****)</a></cite></footer>
     order: 3
 ---
 <!--StartFragment-->
