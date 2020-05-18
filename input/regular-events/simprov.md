@@ -6,7 +6,7 @@ header-image: assets/images/headers/SedosWebsite-Banner-Simprov.jpg
 venue: ""
 recurrence: Fridays at 7pm
 ---
-#### **DUE TO CORONAVIRUS, SIMPROB HAS BEEN TEMPORARILY SUSPENDED**
+#### **DUE TO CORONAVIRUS, SIMPROV HAS BEEN TEMPORARILY SUSPENDED**
 
 Simprov is the Sedos group that lets members and non-members explore their spontaneous side!
 
