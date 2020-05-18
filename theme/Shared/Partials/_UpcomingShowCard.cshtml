@@ -1,24 +1,44 @@
 @model IDocument
 
-<div class="upcoming-show-card-container col-md-3 col-sm-6 mb-3 mb-md-0">
-    <a href="@Context.GetLink(Model)" class="show-card-link">
-        <div class="show-card card bg-sedos-blue text-white border-0">
-        <div class="card-header">
-            <a href="@Context.GetLink(Model)" class="text-white">
-                <h4 class="card-title">@Model["title"]</h4>
-            </a>
-            <div class="card-text text-light">
-                <small>
-                    @Model.Get("showtime-summary", "")
-                </small>
+@{
+    var flyer = Model.Get("flyer") as IDocument;
+    var hasFlyer = flyer != null;
+    var flyerImagelink =hasFlyer ? Context.GetLink(flyer) : Context.GetLink((IDocument)Model["header-image"]);            
+    var showLink = Context.GetLink(Model);
+}
+
+@if(hasFlyer) 
+{
+    <div class="col-md-3 col-sm-6 show-card-wrapper">
+        <a href="@showLink" class="show-card-link">
+            <div class="show-card" style="background-image: url(@flyerImagelink)">
+            </div>
+        </a>
+    </div>
+}
+else
+{
+    <div class="upcoming-show-card-container col-md-3 col-sm-6 mb-3 mb-md-0">
+        <a href="showLink" class="show-card-link">
+            <div class="show-card card bg-sedos-blue text-white border-0">
+            <div class="card-header">
+                <a href="@showLink" class="text-white">
+                    <h4 class="card-title">@Model["title"]</h4>
+                </a>
+                <div class="card-text text-light">
+                    <small>
+                        @Model.Get("showtime-summary", "")
+                    </small>
+                </div>
+            </div>
+            <div class="card-img-top" style="background-image: url(@flyerImagelink)"></div>
+            <div class="card-footer text-muted">
+                <a href="@showLink">
+                    See more
+                </a>
             </div>
         </div>
-        <div class="card-img-top" style="background-image: url(@Context.GetLink((IDocument)Model["header-image"]))"></div>
-        <div class="card-footer text-muted">
-            <a href="@Context.GetLink(Model)">
-                See more
-            </a>
-        </div>
+        </a>
     </div>
-    </a>
-</div>
+}
+
