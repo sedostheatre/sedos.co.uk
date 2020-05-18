@@ -47,9 +47,7 @@ sections:
     order: 2
   - title: VIDEO
     body: >-
-      <div class="video-responsive">
-        <?# YouTube uTJQBTLb66w /?>
-      </div>
+      <div class="video-responsive"><?# YouTube uTJQBTLb66w /?></div>
     order: 3
 ---
 **NETHER REALM**\

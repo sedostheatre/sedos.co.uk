@@ -79,9 +79,7 @@ sections:
     order: 2
   - title: VIDEO
     body: >-
-      <div class="video-responsive">
-        <?# YouTube iijwhhQ6PtU /?>
-      </div>
+      <div class="video-responsive"><?# YouTube iijwhhQ6PtU /?></div>
     order: 3
 ---
 <!--StartFragment-->

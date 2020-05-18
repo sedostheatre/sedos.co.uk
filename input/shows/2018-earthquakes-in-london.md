@@ -69,13 +69,9 @@ sections:
     order: 2
   - title: TRAILER
     body: >-
-      <div class="video-responsive">
-        <?# YouTube McCnRmeCW0w /?>
-      </div>
+      <div class="video-responsive"><?# YouTube McCnRmeCW0w /?></div>
 
-      <div class="video-responsive">
-        <?# YouTube h-hZ2yJOHds /?>
-      </div>
+      <div class="video-responsive"><?# YouTube h-hZ2yJOHds /?></div>
     order: 3
   - title: REVIEWS
     body: >-
