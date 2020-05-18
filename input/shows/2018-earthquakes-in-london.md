@@ -75,17 +75,14 @@ sections:
     order: 3
   - title: REVIEWS
     body: >-
-      <?# Quote Url="http://musicaltheatremusings.co.uk/earthquakes-in-london" Cite="Earthquakes in London, 2018, Musical Theatre Musings" ?>
-      It is unfortunate that for too many people, the epithet “amateur” in relation to theatre remains redolent of inexpert performance in draughty church halls by well-meaning performers of limited talent. The reality is that for many groups nowadays, there is an almost invisible line between so called professional performance (ironically not necessarily of the highest quality) and other productions which are only amateur in the sense that participants have not been paid. Sedos specifically states in its programme notes that they “strive for professional standards in both performance and production values” and it is fair to say that they have a well-established reputation in achieving that ambition which has once again been reinforced by this production of Earthquakes in London.
-      <?#/ Quote ?>
+      >It is unfortunate that for too many people, the epithet “amateur” in relation to theatre remains redolent of inexpert performance in draughty church halls by well-meaning performers of limited talent. The reality is that for many groups nowadays, there is an almost invisible line between so called professional performance (ironically not necessarily of the highest quality) and other productions which are only amateur in the sense that participants have not been paid. Sedos specifically states in its programme notes that they “strive for professional standards in both performance and production values” and it is fair to say that they have a well-established reputation in achieving that ambition which has once again been reinforced by this production of Earthquakes in London.
+      ><footer><cite><a href='http://musicaltheatremusings.co.uk/earthquakes-in-london'>Earthquakes in London, 2018, Musical Theatre Musings</a></cite></footer>
 
-      <?# Quote Url="https://www.londontheatre1.com/reviews/earthquakes-in-london-at-the-bridewell-theatre-review/" Cite="Earthquakes in London, 2018, Londontheatre1" ?>
-      All told, this is another great production from Sedos that makes you stop and think about what we are doing to the earth and if we shouldn’t be trying something different so that by the year 2525, man will still be alive.
-      <?#/ Quote ?>
+      >All told, this is another great production from Sedos that makes you stop and think about what we are doing to the earth and if we shouldn’t be trying something different so that by the year 2525, man will still be alive.
+      ><footer><cite><a href='https://www.londontheatre1.com/reviews/earthquakes-in-london-at-the-bridewell-theatre-review/'>Earthquakes in London, 2018, Londontheatre1</a></cite></footer>
 
-      <?# Quote Url="http://everything-theatre.co.uk/2018/07/earthquakes-in-london-bridewell-theatre-review.html" Cite="Earthquakes in London, 2018, Everything Theatre" ?>
-      The absolute bravery, or maybe insanity, of director Chris Davis to stage this play in an amateur production makes it all the more incredible. And that mention of amateur is the only time it should be raised, because believe me, there is absolutely nothing amateur about this production.
-      <?#/ Quote ?>
+      >The absolute bravery, or maybe insanity, of director Chris Davis to stage this play in an amateur production makes it all the more incredible. And that mention of amateur is the only time it should be raised, because believe me, there is absolutely nothing amateur about this production.
+      ><footer><cite><a href='http://everything-theatre.co.uk/2018/07/earthquakes-in-london-bridewell-theatre-review.html'>Earthquakes in London, 2018, Everything Theatre</a></cite></footer>
     order: 4
 ---
 ***"It's cabaret, we've got our heads down and we’re dancing and drinking as fast as we can. The enemy is on its way, but this time it doesn't have guns and gas it has storms and earthquakes, fire and brimstone"***

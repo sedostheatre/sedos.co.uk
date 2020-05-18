@@ -97,21 +97,17 @@ sections:
       src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
   - title: REVIEWS
     body: >-
-      <?# Quote Url="http://www.sardinesmagazine.co.uk/reviews/review.php?REVIEW-Sedos-How%20To%20Succeed%20In%20Business%20Without%20Really%20Trying&reviewsID=3578" Cite="How to Succeed in Business Without Really Trying, 2019, Sardines (*****)" ?>
-      Quite simply, the show is wonderful and should serve as a shining beacon throughout across the entire non-professional sector. Whether you see the same show produced at at the Union Theatre, Young Vic, Charing Cross Theatre, Jermyn Street Theatre or any other professional off-West End/Fringe venue, it will not get any better than this. Amateur groups around the capital pay attention; this is how to put on a musical! This fifty-eight-year-old show (which also played the West End in 1963) makes a fitting return to London and is probably as close to earning a ‘professional’ tag as you can get.
-      <?#/ Quote ?>
+      >Quite simply, the show is wonderful and should serve as a shining beacon throughout across the entire non-professional sector. Whether you see the same show produced at at the Union Theatre, Young Vic, Charing Cross Theatre, Jermyn Street Theatre or any other professional off-West End/Fringe venue, it will not get any better than this. Amateur groups around the capital pay attention; this is how to put on a musical! This fifty-eight-year-old show (which also played the West End in 1963) makes a fitting return to London and is probably as close to earning a ‘professional’ tag as you can get.
+      ><footer><cite><a href='http://www.sardinesmagazine.co.uk/reviews/review.php?REVIEW-Sedos-How%20To%20Succeed%20In%20Business%20Without%20Really%20Trying&reviewsID=3578'>How to Succeed in Business Without Really Trying, 2019, Sardines (*****)</a></cite></footer>
 
-      <?# Quote Url="http://everything-theatre.co.uk/2019/05/how-to-succeed-in-business-without-really-trying-bridewell-theatre-review.html" Cite="How to Succeed in Business Without Really Trying, 2019, Everything Theatre (\*\*\*\*)" ?>
-      A magnificent cast make nonsense of their amateur status performing with charm and humour. A basic but still adequate set is the only sign of Sedos’ amdram status. Even so, I’ve never seen such rapid set changes with props moved into place so quickly you wouldn’t have noticed them. This is a production that could easily be dropped into the West End without any noticeable difference; a thoroughly professional production that ticked all the right boxes.
-      <?#/ Quote ?>
+      >A magnificent cast make nonsense of their amateur status performing with charm and humour. A basic but still adequate set is the only sign of Sedos’ amdram status. Even so, I’ve never seen such rapid set changes with props moved into place so quickly you wouldn’t have noticed them. This is a production that could easily be dropped into the West End without any noticeable difference; a thoroughly professional production that ticked all the right boxes.
+      ><footer><cite><a href='http://everything-theatre.co.uk/2019/05/how-to-succeed-in-business-without-really-trying-bridewell-theatre-review.html'>How to Succeed in Business Without Really Trying, 2019, Everything Theatre (\*\*\*\*)</a></cite></footer>
 
-      <?# Quote Url="http://musicaltheatremusings.co.uk/how-to-succeed-in-business-without-really-trying" Cite="How to Succeed in Business Without Really Trying, 2019, Musical Theatre Musings" ?>
-      Sedos’ production of How To Succeed In Business Without Really Trying is a great chance to see this musical, with bundles of comedy and a cast that excel in getting their character across I would recommend getting yourselves down to the Bridewell Theatre.
-      <?#/ Quote ?>
+      >Sedos’ production of How To Succeed In Business Without Really Trying is a great chance to see this musical, with bundles of comedy and a cast that excel in getting their character across I would recommend getting yourselves down to the Bridewell Theatre.
+      ><footer><cite><a href='http://musicaltheatremusings.co.uk/how-to-succeed-in-business-without-really-trying'>How to Succeed in Business Without Really Trying, 2019, Musical Theatre Musings</a></cite></footer>
 
-      <?# Quote Url="http://www.londontheatrereviews.co.uk/post.cfm?p=1271" Cite="How to Succeed in Business Without Really Trying, 2019,London Theatre Reviews" ?>
-      Once again, Sedos have a hit on their hands. The level of this show is something that you would expect from a London production. The fact that the cast is made up of amateurs that all have separate day jobs makes it even more impressive.
-      <?#/ Quote ?>
+      >Once again, Sedos have a hit on their hands. The level of this show is something that you would expect from a London production. The fact that the cast is made up of amateurs that all have separate day jobs makes it even more impressive.
+      ><footer><cite><a href='http://www.londontheatrereviews.co.uk/post.cfm?p=1271'>How to Succeed in Business Without Really Trying, 2019,London Theatre Reviews</a></cite></footer>
     order: 1
 ---
 <!--StartFragment-->

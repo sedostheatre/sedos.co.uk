@@ -60,13 +60,11 @@ sections:
     order: 1
   - title: REVIEWS
     body: >-
-      <?# Quote Url="http://musicaltheatremusings.co.uk/lucky-stiff" Cite="Lucky Stiff, 2018, Musical Theatre Musings" ?>
-      Huge congratulations must go to the whole production team for putting on a fabulous show. This show is a MUST to see and would recommend to anyone.
-      <?#/ Quote ?>
+      >Huge congratulations must go to the whole production team for putting on a fabulous show. This show is a MUST to see and would recommend to anyone.
+      ><footer><cite><a href='http://musicaltheatremusings.co.uk/lucky-stiff'>Lucky Stiff, 2018, Musical Theatre Musings</a></cite></footer>
 
-      <?# Quote Url="http://www.sardinesmagazine.co.uk/reviews/review.php?REVIEW-Sedos-Lucky%20Stiff%20-%20%E2%98%85%E2%98%85%E2%98%85%E2%98%85&reviewsID=3327" Cite="Lucky Stiff, 2018, Sardines (\*\*\*\*)" ?>
-      This show was directed with “big show values” – it had colour, glamour, a powerful orchestra, very clever set design and beautifully contrasting performances.
-      <?#/ Quote ?>
+      >This show was directed with “big show values” – it had colour, glamour, a powerful orchestra, very clever set design and beautifully contrasting performances.
+      ><footer><cite><a href='http://www.sardinesmagazine.co.uk/reviews/review.php?REVIEW-Sedos-Lucky%20Stiff%20-%20%E2%98%85%E2%98%85%E2%98%85%E2%98%85&reviewsID=3327'>Lucky Stiff, 2018, Sardines (\*\*\*\*)</a></cite></footer>
 
     order: 1
 ---

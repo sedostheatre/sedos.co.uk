@@ -91,29 +91,23 @@ sections:
     order: 3
   - title: REVIEWS
     body: >-
-      <?# Quote Url="https://www.remotegoat.com/uk/review/13861/deliciously-dark-stephen-schwartz-revival/" Cite="Pippin, 2018, Remote Goat" ?>
-      It’s 45 years since I saw *Pippin* in the West End, and while the themes are certainly still current, the style and the devices can feel a little outdated. Chris Adams’ compelling production, especially at the end, cuts through the tricks and the whimsy to achieve a genuinely moving piece of drama.
-      <?#/ Quote ?>
+      >It’s 45 years since I saw *Pippin* in the West End, and while the themes are certainly still current, the style and the devices can feel a little outdated. Chris Adams’ compelling production, especially at the end, cuts through the tricks and the whimsy to achieve a genuinely moving piece of drama.
+      ><footer><cite><a href='https://www.remotegoat.com/uk/review/13861/deliciously-dark-stephen-schwartz-revival/'>Pippin, 2018, Remote Goat</a></cite></footer>
 
-      <?# Quote Url="https://www.londontheatre1.com/reviews/review-pippin-returns-the-bridewell-theatre-london/" Cite="Pippin, 2018, London Theatre 1 (\*\*\*\**)" ?>
-      If ever a show was crying out for a large scale return to the West End, then Pippin is the one and, my advice is to all the members of Sedos, give up the day jobs and take it there.
-      <?#/ Quote ?>
+      >If ever a show was crying out for a large scale return to the West End, then Pippin is the one and, my advice is to all the members of Sedos, give up the day jobs and take it there.
+      ><footer><cite><a href='https://www.londontheatre1.com/reviews/review-pippin-returns-the-bridewell-theatre-london/'>Pippin, 2018, London Theatre 1 (\*\*\*\**)</a></cite></footer>
 
-      <?# Quote Url="http://www.sardinesmagazine.co.uk/reviews/review.php?REVIEW-Sedos-Pippin-&reviewsID=3204" Cite="Pippin, 2018, Sardines (\*\*\*\**)" ?>
-      For my money the show is good enough to transfer West, half a mile up the road. Certainly, many of the cast could have a second string to their bows in the commercial theatre any time they wanted.
-      <?#/ Quote ?>
+      >For my money the show is good enough to transfer West, half a mile up the road. Certainly, many of the cast could have a second string to their bows in the commercial theatre any time they wanted.
+      ><footer><cite><a href='http://www.sardinesmagazine.co.uk/reviews/review.php?REVIEW-Sedos-Pippin-&reviewsID=3204'>Pippin, 2018, Sardines (\*\*\*\**)</a></cite></footer>
 
-      <?# Quote Url="https://www.the730review.co.uk/2018/05/11/pippin-sedos-review/" Cite="Pippin, 2018, The 730 Review (\*\*\*\*)" ?>
-      Pippin is a triumph… highly recommended.
-      <?#/ Quote ?>
+      >Pippin is a triumph… highly recommended.
+      ><footer><cite><a href='https://www.the730review.co.uk/2018/05/11/pippin-sedos-review/'>Pippin, 2018, The 730 Review (\*\*\*\*)</a></cite></footer>
 
-      <?# Quote Url="http://www.londontheatrereviews.co.uk/post.cfm?p=303" Cite="Pippin, 2018, London Theatre Reviews (\*\*\*\*)" ?>
-      It was not good. It was very good... Go to the Bridewell and give some support to these guys. They deserve it!
-      <?#/ Quote ?>
+      >It was not good. It was very good... Go to the Bridewell and give some support to these guys. They deserve it!
+      ><footer><cite><a href='http://www.londontheatrereviews.co.uk/post.cfm?p=303'>Pippin, 2018, London Theatre Reviews (\*\*\*\*)</a></cite></footer>
 
-      <?# Quote Url="http://fairypoweredproductions.com/pippin-review/" Cite="Pippin, 2018, Fairy Powered Productions (\*\*\*\*)" ?>
-      The whole production is more polished and entertaining than many professional shows… In the hands of Sedos, Pippin is a gem of a musical.
-      <?#/ Quote ?>
+      >The whole production is more polished and entertaining than many professional shows… In the hands of Sedos, Pippin is a gem of a musical.
+      ><footer><cite><a href='http://fairypoweredproductions.com/pippin-review/'>Pippin, 2018, Fairy Powered Productions (\*\*\*\*)</a></cite></footer>
     order: 4
 ---
 **Think about your life, Pippin. Days are tame and nights the same. Now think about the beauty

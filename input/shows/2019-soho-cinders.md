@@ -110,11 +110,8 @@ sections:
     order: 1
   - title: REVIEWS
     body: >-
-      <?# Quote Url="https://www.londontheatre1.com/reviews/musical/stiles-drewes-soho-cinders-at-the-bridewell-theatre/" Cite="Soho Cinders, 2019, London Theatre 1" ?>
-      A hearty and sincere production, it’s a more complex story than the
-      traditional fairy-tale from which it is adapted, but it’s a lively and
-      engaging one at that.
-      <?#/ Quote ?>
+      >A hearty and sincere production, it’s a more complex story than the traditional fairy-tale from which it is adapted, but it’s a lively and engaging one at that.
+      ><footer><cite><a href='https://www.londontheatre1.com/reviews/musical/stiles-drewes-soho-cinders-at-the-bridewell-theatre/'>Soho Cinders, 2019, London Theatre 1</a></cite></footer>
     order: 3
 ---
 **Robbie has a few problems. His mother has just died, without making a will, and the Old Compton Street laundrette she owned, "Sit & Spin", is under threat from his vulgar stepsisters as they attempt to hike up the rent. If that wasn't enough, he loves one man while being paid to hang out with another!**

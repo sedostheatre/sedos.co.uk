@@ -76,17 +76,14 @@ sections:
     order: 2
   - title: REVIEWS
     body: >-
-      <?# Quote Url="https://www.remotegoat.com/uk/review/14089/strong-production-of-modern-classic/" Cite="Our Country’s Good, 2018, Remote Goat" ?>
-      Strong production of modern classic.
-      <?#/ Quote ?>
+      >Strong production of modern classic.
+      ><footer><cite><a href='https://www.remotegoat.com/uk/review/14089/strong-production-of-modern-classic/'>Our Country’s Good, 2018, Remote Goat</a></cite></footer>
 
-      <?# Quote Url="http://www.sardinesmagazine.co.uk/reviews/review.php?REVIEW-Sedos-Our+Countrys+Good&reviewsID=3362" Cite="Our Country’s Good, 2018, Sardines" ?>
-      I think this production of Our Country’s Good is the best non-professional 'straight' play (musicals are a different animal) I have ever seen. Of course that’s partly down to the strength of Wertenbaker’s timeless, topical, funny, poignant, horrifying text. But it’s also a huge credit to the talented Sedos cast and their director, Chloe Robertson.
-      <?#/ Quote ?>
+      >I think this production of Our Country’s Good is the best non-professional 'straight' play (musicals are a different animal) I have ever seen. Of course that’s partly down to the strength of Wertenbaker’s timeless, topical, funny, poignant, horrifying text. But it’s also a huge credit to the talented Sedos cast and their director, Chloe Robertson.
+      ><footer><cite><a href='http://www.sardinesmagazine.co.uk/reviews/review.php?REVIEW-Sedos-Our+Countrys+Good&reviewsID=3362'>Our Country’s Good, 2018, Sardines</a></cite></footer>
 
-      <?# Quote Url="http://fairypoweredproductions.com/our-countrys-good-review-3/?fbclid=IwAR21VRGOfvlcyQ5Aq7qHEEFm3KIJyrBUDoIn7rcO6NHpvFJVbR127yyA6jw" Cite="Our Country’s Good, 2018, Fairy Powered Productions" ?>
-      It’s easy to forget that Sedos are an amateur company – their production values and talented casts are always of such a high standard. Sedos’s production of Our Country’s Good, 30 years on from it’s Royal Court premiere, is another stunning success.
-      <?#/ Quote ?>
+      >It’s easy to forget that Sedos are an amateur company – their production values and talented casts are always of such a high standard. Sedos’s production of Our Country’s Good, 30 years on from it’s Royal Court premiere, is another stunning success.
+      ><footer><cite><a href='http://fairypoweredproductions.com/our-countrys-good-review-3/?fbclid=IwAR21VRGOfvlcyQ5Aq7qHEEFm3KIJyrBUDoIn7rcO6NHpvFJVbR127yyA6jw'>Our Country’s Good, 2018, Fairy Powered Productions</a></cite></footer>
     order: 3
 ---
 ***"From distant climes, o’er wide-spread seas we come, Though not with much eclat or beat of drum,

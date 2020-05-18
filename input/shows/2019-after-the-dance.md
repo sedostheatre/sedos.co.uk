@@ -61,13 +61,11 @@ sections:
     order: 2
   - title: REVIEWS
     body: >-
-      <?# Quote Cite="Sardines" Url="http://www.sardinesmagazine.co.uk/reviews/review.php?REVIEW-Sedos-After%20the%20Dance&reviewsID=3542" ?>
-      Overall, this is an entertaining and thought-provoking revival that does justice to Rattigan’s neglected work.
-      <?#/ Quote ?>
+      >Overall, this is an entertaining and thought-provoking revival that does justice to Rattigan’s neglected work.
+      ><footer><cite><a href='http://www.sardinesmagazine.co.uk/reviews/review.php?REVIEW-Sedos-After%20the%20Dance&reviewsID=3542'>Sardines</a></cite></footer>
 
-      <?# Quote Cite="After the Dance, 2019, Everything Theatre" Url="http://everything-theatre.co.uk/2019/04/after-the-dance-review.html" ?>
-      The production, typical of Sedos, is more professional than their amateur dramatics moniker might imply, and is certainly one to consider if you’re a nearby City worker keen to take in some fringe theatre that certainly punches above its weight.
-      <?#/ Quote ?>
+      >The production, typical of Sedos, is more professional than their amateur dramatics moniker might imply, and is certainly one to consider if you’re a nearby City worker keen to take in some fringe theatre that certainly punches above its weight.
+      ><footer><cite><a href='http://everything-theatre.co.uk/2019/04/after-the-dance-review.html'>After the Dance, 2019, Everything Theatre</a></cite></footer>
     order: 3
 ---
 **“It’s the bright young things over again, only they were never bright and now they’re not even young”**
