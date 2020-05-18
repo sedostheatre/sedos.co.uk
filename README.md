@@ -24,8 +24,5 @@ Changes will be rebuilt and the page should update in sync.
   - Supported by wyam, nice syntax to work with
 - Bootstrap for framework
   - Because it's easy :)
-- AppVeyor for CI
-  - Because I have an account and it mostly works
-- GitHub pages for hosting
-  - Up for debate, was just easy to get up and running
-  - Some hosting is on netlify because it makes content editing easier
+- GitHub actions for CI
+- Netlify for hosting
