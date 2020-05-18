@@ -3,9 +3,11 @@ title: Simprov
 times: []
 image: /assets/Simprov-BHG-Gang.jpg
 header-image: assets/images/headers/SedosWebsite-Banner-Simprov.jpg
-venue: ''
-recurrence: ''
+venue: ""
+recurrence: ""
 ---
+#### **DUE TO CORONAVIRUS, SIMPROB HAS BEEN TEMPORARILY SUSPENDED**
+
 Simprov is the Sedos group that lets members and non-members explore their spontaneous side!
 
 If you want to learn improvisation skills and practise them in a fun and supportive way, then the Simprov Drop In is the place for you. We also run regular workshops and courses that lead to public performances.
