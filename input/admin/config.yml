@@ -296,3 +296,9 @@ collections:
         fields:
           - {label: title, name: title, widget: string}
           - {label: Details, name: body, widget: markdown, required: false}
+      - label: "Contact Us"
+        name: "contact-us"
+        file: "input/contact-us.md"
+        fields:
+          - {label: title, name: title, widget: string}
+          - {label: Details, name: body, widget: markdown, required: false}
