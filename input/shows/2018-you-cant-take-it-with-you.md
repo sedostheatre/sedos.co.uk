@@ -71,17 +71,11 @@ sections:
     order: 2
   - title: VIDEO
     body: >-
-      <div class="video-responsive">
-        <?# YouTube CFSW0e4EAbE /?>
-      </div>
+      <div class="video-responsive"><?# YouTube CFSW0e4EAbE /?></div>
 
-      <div class="video-responsive">
-        <?# YouTube zR6C27BFSV0 /?>
-      </div>
+      <div class="video-responsive"><?# YouTube zR6C27BFSV0 /?></div>
 
-      <div class="video-responsive">
-        <?# YouTube MUPbcKWyDEQ /?>
-      </div>
+      <div class="video-responsive"><?# YouTube MUPbcKWyDEQ /?></div>
     order: 3
   - title: REVIEWS
     body: >-

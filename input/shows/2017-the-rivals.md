@@ -50,9 +50,7 @@ sections:
     order: 2
   - title: VIDEO
     body: >-
-      <div class="video-responsive">
-        <?# YouTube s_QlADv0oGY /?>
-      </div>
+      <div class="video-responsive"><?# YouTube s_QlADv0oGY /?></div>
     order: 3
 ---
 ##### **“Come, come, we must lay aside some of our romance - a little wealth and comfort may be endured after all”**

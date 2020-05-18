@@ -58,35 +58,21 @@ sections:
     order: 2
   - title: VIDEO
     body: >-
-      <div class="video-responsive">
-        <?# YouTube bhoJpBcygYY /?>
-      </div>
+      <div class="video-responsive"><?# YouTube bhoJpBcygYY /?></div>
       
-      <div class="video-responsive">
-        <?# YouTube zqbH85bCUdU /?>
-      </div>
+      <div class="video-responsive"><?# YouTube zqbH85bCUdU /?></div>
 
-      <div class="video-responsive">
-        <?# YouTube jEZnhxztwcI /?>
-      </div>
+      <div class="video-responsive"><?# YouTube jEZnhxztwcI /?></div>
 
-      <div class="video-responsive">
-        <?# YouTube nrWgh6lyaI8 /?>
-      </div>
+      <div class="video-responsive"><?# YouTube nrWgh6lyaI8 /?></div>
 
-      <div class="video-responsive">
-        <?# YouTube yFeAjiKsxR0 /?>
-      </div>
+      <div class="video-responsive"><?# YouTube yFeAjiKsxR0 /?></div>
 
-      <div class="video-responsive">
-        <?# YouTube oxiiQK2lE3E /?>
-      </div>      
+      <div class="video-responsive"><?# YouTube oxiiQK2lE3E /?></div>      
     order: 3
   - title: CREATING THE MONSTER
     body: >-
-      <div class="video-responsive">
-      <?# YouTube HvMYI_7mDic /?>
-      </div>
+      <div class="video-responsive"><?# YouTube HvMYI_7mDic /?></div>
       
     order: 4
 ---

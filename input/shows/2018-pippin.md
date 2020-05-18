@@ -85,13 +85,9 @@ sections:
     order: 2
   - title: VIDEO
     body: >-
-      <div class="video-responsive">
-        <?# YouTube _DRZBbOSsi8 /?>
-      </div>
+      <div class="video-responsive"><?# YouTube _DRZBbOSsi8 /?></div>
 
-      <div class="video-responsive">
-        <?# YouTube OKzCtNZDzpQ /?>
-      </div>      
+      <div class="video-responsive"><?# YouTube OKzCtNZDzpQ /?></div>      
     order: 3
   - title: REVIEWS
     body: >-

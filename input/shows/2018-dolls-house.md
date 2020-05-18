@@ -56,9 +56,7 @@ sections:
     order: 2
   - title: VIDEO
     body: >-
-      <div class="video-responsive">
-        <?# YouTube 7rLzSeqdMS4 /?>
-      </div>
+      <div class="video-responsive"><?# YouTube 7rLzSeqdMS4 /?></div>
     order: 3
 ---
 **“I think I’m a human being before anything else. I don’t care what other people say. I don’t care what people write in books. I need to think for myself”**

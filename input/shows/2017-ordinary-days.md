@@ -44,9 +44,7 @@ sections:
     order: 2
   - title: VIDEO
     body: >-
-      <div class="video-responsive">
-        <?# YouTube q3WP8EyzhYY /?>
-      </div>      
+      <div class="video-responsive"><?# YouTube q3WP8EyzhYY /?></div>      
     order: 3
 ---
 <blockquote class="blockquote">

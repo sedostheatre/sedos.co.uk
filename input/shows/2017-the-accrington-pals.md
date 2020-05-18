@@ -46,12 +46,8 @@ sections:
     order: 2
   - title: VIDEO
     body: >-
-      <div class="video-responsive">
-        <?# YouTube sLMjq-nqX4w /?>
-      </div>
-      <div class="video-responsive">
-        <?# YouTube Pd2TOa768eM /?>
-      </div>      
+      <div class="video-responsive"><?# YouTube sLMjq-nqX4w /?></div>
+      <div class="video-responsive"><?# YouTube Pd2TOa768eM /?></div>      
     order: 3
 ---
 ***The Accrington Pals* is a beautiful play byPeter Whelanabout the women and men from a town during the raising of Kitchener’s Army, duringWorld War I.**

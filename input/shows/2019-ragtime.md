@@ -81,11 +81,8 @@ sections:
     order: 1
   - title: TRAILER
     body: |-
-      <div class="video-responsive">
-        <?# YouTube Ot2mKiVp870 /?>
-      </div> <div class="video-responsive">
-        <?# YouTube fP57Rkf2J4g /?>
-      </div>      
+      <div class="video-responsive"><?# YouTube Ot2mKiVp870 /?></div> 
+      <div class="video-responsive"><?# YouTube fP57Rkf2J4g /?></div>      
     order: 2
   - title: GALLERY
     body: '<a data-flickr-embed="true"

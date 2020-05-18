@@ -56,13 +56,9 @@ sections:
     order: 2
   - title: VIDEO
     body: >-
-      <div class="video-responsive">
-        <?# YouTube UFBcF3KdRiE /?>
-      </div>
+      <div class="video-responsive"><?# YouTube UFBcF3KdRiE /?></div>
 
-      <div class="video-responsive">
-      <?# YouTube 69M-HyZZ4rU /?>
-      </div>
+      <div class="video-responsive"><?# YouTube 69M-HyZZ4rU /?></div>
     order: 3
   - title: PRESS
     body: >-
