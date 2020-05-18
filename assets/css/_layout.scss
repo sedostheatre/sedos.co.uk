@@ -67,9 +67,27 @@
     position:absolute;
 }
 
-.blockquote-footer { 
+.blockquote-footer-no-dash { 
+    text-align: center;
     &::before {
       content: ""; // override bootstrap default
     }
 }
   
+blockquote {
+    p {
+        text-align: center;
+        &::before {
+            content: "“";
+        }
+        &::after {
+            content: "”";
+        }
+    }
+    footer {
+        text-align: center;
+        &::before {
+            content: "";
+        }
+    }
+}

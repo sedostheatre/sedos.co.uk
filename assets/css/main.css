@@ -1,3 +1,4 @@
+@charset "UTF-8";
 /*! Bootstrap v4.0.0 (https://getbootstrap.com) Copyright 2011-2018 The Bootstrap Authors Copyright 2011-2018 Twitter, Inc. Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE) */
 :root { --blue: #007bff; --indigo: #6610f2; --purple: #521e4a; --pink: #c92c71; --red: #cc2822; --orange: #fd7e14; --yellow: #f9b000; --green: #28a745; --teal: #20c997; --cyan: #17a2b8; --white: #ffffff; --gray: #6c757d; --gray-dark: #343a40; --primary: #044484; --secondary: #6c757d; --success: #28a745; --info: #17a2b8; --warning: #f9b000; --danger: #cc2822; --light: #f8f9fa; --dark: #343a40; --sedos-blue: #044484; --light-blue: #23778e; --lighter-blue: #499fcd; --turquoise: #04a897; --purple: #521e4a; --pink: #c92c71; --red: #cc2822; --yellow: #f9b000; --lime: #d7dd33; --breakpoint-xs: 0; --breakpoint-sm: 576px; --breakpoint-md: 768px; --breakpoint-lg: 992px; --breakpoint-xl: 1200px; --font-family-sans-serif: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol"; --font-family-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace; }
 
@@ -3255,7 +3256,19 @@ a.text-lime:hover, a.text-lime:focus { color: #b8bd20 !important; }
 
 .video-responsive iframe { left: 0; top: 0; height: 100%; width: 100%; position: absolute; }
 
-.blockquote-footer::before { content: ""; }
+.blockquote-footer-no-dash { text-align: center; }
+
+.blockquote-footer-no-dash::before { content: ""; }
+
+blockquote p { text-align: center; }
+
+blockquote p::before { content: "“"; }
+
+blockquote p::after { content: "”"; }
+
+blockquote footer { text-align: center; }
+
+blockquote footer::before { content: ""; }
 
 .header-carousel .header-carousel-image { background-position-x: center; background-position-y: center; background-size: cover; background-repeat: no-repeat; height: 70vh; border-radius: 0; }
 
