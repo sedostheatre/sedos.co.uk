@@ -5,11 +5,11 @@ authors: Music by George Stiles | Lyrics by Anthony Drewe
 authors2: Book by Anthony Drewe and Elliot Davies
 subtitle: Midnight is just the start
 showtimes:
-  - time: '2019-07-10 19:30+01:00'
-  - time: '2019-07-11 19:30+01:00'
-  - time: '2019-07-12 19:30+01:00'
-  - time: '2019-07-13 19:30+01:00'
-  - time: '2019-07-13 14:30+01:00'
+  - time: '2019-07-10 19:30'
+  - time: '2019-07-11 19:30'
+  - time: '2019-07-12 19:30'
+  - time: '2019-07-13 19:30'
+  - time: '2019-07-13 14:30'
 showtime-summary: 10-13 July 2019
 venue: Bridewell theatre
 header-image: /assets/SohoCindersCast-360.jpg

@@ -6,14 +6,14 @@ authors2: Written by JOHN KANE
 authors3: Conceived by DAVID KERNAN
 subtitle: A celebration of the life & work of COLE PORTER
 showtimes:
-  - time: '2019-06-02 16:00+01:00'
-  - time: '2019-06-10 20:00+01:00'
-  - time: '2019-06-11 12:00+01:00'
-  - time: '2019-06-11 20:00+01:00'
-  - time: '2019-06-12 20:00+01:00'
-  - time: '2019-06-13 12:00+01:00'
-  - time: '2019-06-13 20:00+01:00'
-  - time: '2019-06-14 20:00+01:00'
+  - time: '2019-06-02 16:00'
+  - time: '2019-06-10 20:00'
+  - time: '2019-06-11 12:00'
+  - time: '2019-06-11 20:00'
+  - time: '2019-06-12 20:00'
+  - time: '2019-06-13 12:00'
+  - time: '2019-06-13 20:00'
+  - time: '2019-06-14 20:00'
 showtime-summary: 2 June & 10-14 June 2019
 venue: Rayne Theatre & Minack Theatre
 header-image: /assets/SwellParty-Minack-1-360.jpg

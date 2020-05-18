@@ -6,12 +6,12 @@ subtitle: >-
   “It’s the bright young things over again, only they were never bright and now
   they’re not even young”
 showtimes:
-  - time: '2019-04-09 19:30+01:00'
-  - time: '2019-04-10 19:30+01:00'
-  - time: '2019-04-11 19:30+01:00'
-  - time: '2019-04-13 14:30+01:00'
-  - time: '2019-04-12 19:30+01:00'
-  - time: '2019-04-13 19:30+01:00'
+  - time: '2019-04-09 19:30'
+  - time: '2019-04-10 19:30'
+  - time: '2019-04-11 19:30'
+  - time: '2019-04-13 14:30'
+  - time: '2019-04-12 19:30'
+  - time: '2019-04-13 19:30'
 showtime-summary: 9-13 April 2019
 venue: Bridewell Theatre
 ticket-prices: >-
