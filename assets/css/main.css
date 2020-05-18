@@ -3315,7 +3315,7 @@ a.text-lime:hover, a.text-lime:focus { color: #b8bd20 !important; }
 
 .footer-container { border-top: #044484 3px solid; padding-top: 10px; padding-bottom: 10px; }
 
-.footer-container .navigation-link { line-height: 30px; font-size: 18px; }
+.footer-container .navigation-link { font-size: 18px; }
 
 .news-card-container { padding-top: 15px; padding-bottom: 15px; }
 
