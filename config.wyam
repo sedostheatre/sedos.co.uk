@@ -24,11 +24,11 @@ ShortcodeCollection.Add("Quote", (KeyValuePair<string, string>[] args, string co
     var arguments = args.ToDictionary(context, "Cite", "Url");
     if(arguments.ContainsKey("cite") && arguments.ContainsKey("url"))
     {
-        return $"<blockquote class='blockquote text-center'>“{content.Trim()}”<footer class='blockquote-footer'><cite><a title='{arguments.String("cite")}' href='{arguments.String("url")}'>{arguments.String("cite")}</a></cite></footer></blockquote>";
+        return $"<blockquote class='blockquote text-center'>“{content.Trim()}”<footer class='blockquote-footer-no-dash'><cite><a title='{arguments.String("cite")}' href='{arguments.String("url")}'>{arguments.String("cite")}</a></cite></footer></blockquote>";
     }
     if(arguments.ContainsKey("cite"))
     {
-        return $"<blockquote class='blockquote text-center'>“{content.Trim()}”<footer class='blockquote-footer'><cite>{arguments.String("cite")}</cite></footer></blockquote>";
+        return $"<blockquote class='blockquote text-center'>“{content.Trim()}”<footer class='blockquote-footer-no-dash'><cite>{arguments.String("cite")}</cite></footer></blockquote>";
     }
     return $"<blockquote class='blockquote text-center'>“{content.Trim()}”</blockquote>";
 });
