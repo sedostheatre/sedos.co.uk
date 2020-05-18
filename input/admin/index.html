@@ -25,7 +25,7 @@
         };
       },
       toBlock: function(obj) {
-        return '<div class="video-responsive"><?# YouTube '+obj.id + ' /?></div>';
+        return '<div class="video-responsive"><?# YouTube ' + obj.id + ' /?></div>';
       },      
       toPreview: function(obj) {
         return (
@@ -48,11 +48,33 @@
         };
       },
       toBlock: function(obj) {
-        return '>' + obj.quote + '><footer><cite><a href="' + obj.url + '">' + obj.cite + '</a></cite></footer>'
+        return '>' + obj.quote + '\n><footer><cite><a href="' + obj.url + '">' + obj.cite + '</a></cite></footer>'
       },      
       toPreview: function(obj) {
         return (
           '<blockquote>' + obj.quote + '<footer><cite><a href="' + obj.url + '">' + obj.cite + '</a></cite></footer></blockquote>'
+        );
+      }
+    });
+    </script>
+  <script>
+    CMS.registerEditorComponent({
+      id: "figure",
+      label: "Figure",
+      fields: [{name: 'asset', label: 'Image', widget: 'image'}, {name: 'quote', label: 'Quote', widget: 'string'}],      
+      pattern: /^\^\^\^\s*\!\[\]\((\S*)\)\n*\^\^\^(.*)$/,
+      fromBlock: function(match) {
+        return {
+          asset: match[1],
+          quote: match[2]
+        };
+      },
+      toBlock: function(obj) {
+        return '^^^ ![]('+obj.asset +') \n^^^ '+ obj.quote;
+      },      
+      toPreview: function(obj) {
+        return (
+          '<img src="'+obj.asset + '"/>'
         );
       }
     });
