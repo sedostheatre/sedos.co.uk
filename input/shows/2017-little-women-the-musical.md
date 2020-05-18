@@ -62,20 +62,11 @@ sections:
     order: 3
   - title: PRESS
     body: >-
-      <?# Quote Url="http://musicaltheatremusings.co.uk/2017-roundup" Cite="Little Women The Musical, 2017, Musical Theatre Musings (best amateur production of 2017)" ?>
-      The beautiful set design for Sedos’ production, the sheer talent of those
-      playing the March sisters and the clever direction means that I took this
-      award.
-      <?#/ Quote ?>
+      >The beautiful set design for Sedos’ production, the sheer talent of those playing the March sisters and the clever direction means that I took this award.
+      ><footer><cite><a href='http://musicaltheatremusings.co.uk/2017-roundup'>Little Women The Musical, 2017, Musical Theatre Musings (best amateur production of 2017)</a></cite></footer>
 
-      <?# Quote Url="https://www.londontheatre1.com/reviews/review-little-women-bridewell-theatre/" Cite="Little Women The Musical, 2017, London Theatre 1" ?>
-      On realising that I was going to watch an amateur production I
-      embarrassingly didn’t have high hopes for this production of Little Women
-      the Musical – however, within the first few lines, I was proven very
-      wrong. The Stock Exchange Dramatic and Operatic Society – better known as
-      Sedos – are an amateur company who I now realise deliver professional
-      standard productions.
-      <?#/ Quote ?>
+      > On realising that I was going to watch an amateur production I embarrassingly didn’t have high hopes for this production of Little Women the Musical – however, within the first few lines, I was proven very wrong. The Stock Exchange Dramatic and Operatic Society – better known as Sedos – are an amateur company who I now realise deliver professional standard productions. 
+      ><footer><cite><a href='https://www.londontheatre1.com/reviews/review-little-women-bridewell-theatre/'>Little Women The Musical, 2017, London Theatre 1</a></cite></footer>
     order: 4
 ---
 **“Some books are so familiar that reading them is like being home again.”**

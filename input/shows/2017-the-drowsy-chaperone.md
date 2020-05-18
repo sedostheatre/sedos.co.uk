@@ -96,17 +96,14 @@ sections:
     order: 2
   - title: REVIEWS
     body: >-
-      <?# Quote Url="http://www.sardinesmagazine.co.uk/reviews/review.php?REVIEW-Sedos-The%20Drowsy%20Chaperone&reviewsID=2838" Cite="The Drowsy Chaperone, 2017, Sardines" ?>
-      This is a brilliant, brilliant show that has always deserved to be seen. In the case of this production, more so than ever.
-      <?#/ Quote ?>
+      >This is a brilliant, brilliant show that has always deserved to be seen. In the case of this production, more so than ever.
+      ><footer><cite><a href='http://www.sardinesmagazine.co.uk/reviews/review.php?REVIEW-Sedos-The%20Drowsy%20Chaperone&reviewsID=2838'>The Drowsy Chaperone, 2017, Sardines</a></cite></footer>
 
-      <?# Quote Url="https://www.londontheatre1.com/reviews/review-the-drowsy-chaperone-bridewell-theatre/" Cite="The Drowsy Chaperone, 2017, London Theatre 1" ?>
-      The Drowsy Chaperone may be categorised as an amateur level production, but it didn’t show. The quality of this production was fantastic and truly entertaining.
-      <?#/ Quote ?>
+      >The Drowsy Chaperone may be categorised as an amateur level production, but it didn’t show. The quality of this production was fantastic and truly entertaining.
+      ><footer><cite><a href='https://www.londontheatre1.com/reviews/review-the-drowsy-chaperone-bridewell-theatre/'>The Drowsy Chaperone, 2017, London Theatre 1</a></cite></footer>
 
-      <?# Quote Url="http://musicaltheatremusings.co.uk/drowsy-chaperone-sedos" Cite="The Drowsy Chaperone, 2017, Musical Theatre Musings" ?>
-      I feel as if I am constantly saying this about Sedos, but they really have got amateur theatre right and the Drowsy Chaperone is yet another example of this.
-      <?#/ Quote ?>
+      >I feel as if I am constantly saying this about Sedos, but they really have got amateur theatre right and the Drowsy Chaperone is yet another example of this.
+      ><footer><cite><a href='http://musicaltheatremusings.co.uk/drowsy-chaperone-sedos'>The Drowsy Chaperone, 2017, Musical Theatre Musings</a></cite></footer>
     order: 3
 ---
 **Winner of five Tony Awards including Best Book of Musical and Best Original Score,*The Drowsy Chaperone* bursts to life on the Bridewell Theatre stage this May.**
