@@ -3,7 +3,7 @@ title: Seyoga
 image: /assets/seyoga.jpg
 header-image: /assets/seyoga.jpg
 venue: Zoom
-recurrence: Every Wednesday at 6.30pm
+recurrence: Wednesdays at 6.30pm
 ticket-prices: Free, but please sign up in advance for each class
 ---
 Connect with yourself on Wednesday evenings at 6.30pm
