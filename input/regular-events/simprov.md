@@ -4,7 +4,7 @@ times: []
 image: /assets/Simprov-BHG-Gang.jpg
 header-image: assets/images/headers/SedosWebsite-Banner-Simprov.jpg
 venue: ""
-recurrence: ""
+recurrence: Fridays at 7pm
 ---
 #### **DUE TO CORONAVIRUS, SIMPROB HAS BEEN TEMPORARILY SUSPENDED**
 
