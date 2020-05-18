@@ -13,5 +13,26 @@
 <body>
   <!-- Include the script that builds the page and powers Netlify CMS -->
   <script src="https://unpkg.com/netlify-cms@^2.0.0/dist/cms.js"></script>
+  <script>
+    CMS.registerEditorComponent({
+      id: "youtube",
+      label: "YouTube",
+      fields: [{name: 'id', label: 'Youtube Video ID', widget: 'string'}],      
+      pattern: /^<div class="video-responsive"><\?# YouTube (\S+) \/\?><\/div>$/,
+      fromBlock: function(match) {
+        return {
+          id: match[1]
+        };
+      },
+      toBlock: function(obj) {
+        return '<div class="video-responsive"><?# YouTube '+obj.id + ' /?></div>';
+      },      
+      toPreview: function(obj) {
+        return (
+          '<img src="http://img.youtube.com/vi/' + obj.id + '/maxresdefault.jpg" alt="Youtube Video"/>'
+        );
+      }
+    });
+  </script>
 </body>
 </html>
