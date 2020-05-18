@@ -39,7 +39,7 @@
     <div class="events-section">
         <div class="container ">
             <div class="row">
-                @foreach(var eventItem in Documents["RegularEvents"])
+                @foreach(var eventItem in Documents["RegularEvents"].OrderBy(i => i["title"]))
                 {
                     Html.RenderPartial("Partials/_EventCard", @eventItem);
                 }
