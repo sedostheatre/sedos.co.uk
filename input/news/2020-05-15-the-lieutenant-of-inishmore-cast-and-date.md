@@ -4,7 +4,7 @@ date: 2020-05-15T00:00:00.000Z
 image: /assets/cat.jpg
 box-office-open: false
 ---
-We're pleased to announce our cast for our rehearsed reading of *The Lieutenant of Inishmore* and and save the show date, Sunday 31 May.
+We're pleased to announce our cast for our rehearsed reading of *The Lieutenant of Inishmore* and and save the show date, Sunday 31 May 2020.
 
 **PADRAIC:** Josh Mallalieu \
 **MAIREAD:** Amy Carmichae\
