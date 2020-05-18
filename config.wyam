@@ -14,6 +14,8 @@ using Markdig.Syntax.Inlines;
 using Markdig.Renderers.Html;
 using Wyam.Common.Meta;
 
+System.Globalization.CultureInfo.DefaultThreadCurrentCulture = System.Globalization.CultureInfo.InvariantCulture;
+
 Settings["title"] = "Sedos";
 ContentStreamFactory = new MemoryContentStreamFactory();
 
