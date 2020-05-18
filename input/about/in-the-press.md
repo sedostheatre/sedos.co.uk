@@ -10,7 +10,12 @@ image: /assets/aboutus-inthepress.jpg
 
 ## *The Musical of Musicals (The Musical!)*
 
-^^^ ![](/assets/49584512558_d82c077fa4_c.jpg)   ^^^ The Musical of Musicals (The Musical!)
+^^^ ![](/assets/49584512558_d82c077fa4_c.jpg)   
+^^^ The Musical of Musicals (The Musical!)
+
+>On any level Sedos production of *The Musical of Musicals, The Musical* at the Bridewell, is a fantastic night out, whether you are a musical aficionado or just someone looking for an evening’s entertainment… Ultimately the strength of this show lies with the six cast members. Emma J Leaver, the director, has found performers with confidence in their own versatility, who really throw themselves into the range of styles and characterisation needed to play all these parts… This show is a great way to forget about storms, elections and coronavirus and just lose yourselves in the magic of the musicals on a wintery February evening.
+><footer><cite><a href='http://www.sardinesmagazine.co.uk/reviews/review.php?REVIEW-Sedos-Musical%20of%20Musicals%20(the%20musical!)&reviewsID=3879'>The Musical of Musicals (The Musical!), 2020, Sardines</a></cite></footer>
+
 
 <?# Quote Url="http://www.sardinesmagazine.co.uk/reviews/review.php?REVIEW-Sedos-Musical%20of%20Musicals%20(the%20musical!)&reviewsID=3879" Cite="The Musical of Musicals (The Musical!), 2020, Sardines" ?>On any level Sedos production of\\\\*The Musical of Musicals, The Musical\\\\*at the Bridewell, is a fantastic night out, whether you are a musical aficionado or just someone looking for an evening’s entertainment… Ultimately the strength of this show lies with the six cast members. Emma J Leaver, the director, has found performers with confidence in their own versatility, who really throw themselves into the range of styles and characterisation needed to play all these parts… This show is a great way to forget about storms, elections and coronavirus and just lose yourselves in the magic of the musicals on a wintery February evening.<?#/ Quote ?>
 

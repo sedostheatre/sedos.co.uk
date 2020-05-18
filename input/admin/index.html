@@ -34,5 +34,28 @@
       }
     });
   </script>
+  <script>
+    CMS.registerEditorComponent({
+      id: "quote",
+      label: "Quote",
+      fields: [{name: 'quote', label: 'Quote', widget: 'text'}, {name: 'url', label: 'url', widget: 'string'}, {name: 'cite', label: 'Cite', widget: 'string'}],      
+      pattern: /^>(.*)\n><footer><cite><a href='(\S*)'>(.*)<\/a><\/cite><\/footer>/,
+      fromBlock: function(match) {
+        return {
+          quote: match[1],
+          url: match[2],
+          cite: match[3]
+        };
+      },
+      toBlock: function(obj) {
+        return '>' + obj.quote + '><footer><cite><a href="' + obj.url + '">' + obj.cite + '</a></cite></footer>'
+      },      
+      toPreview: function(obj) {
+        return (
+          '<blockquote>' + obj.quote + '<footer><cite><a href="' + obj.url + '">' + obj.cite + '</a></cite></footer></blockquote>'
+        );
+      }
+    });
+    </script>
 </body>
 </html>
