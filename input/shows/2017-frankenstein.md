@@ -1,19 +1,19 @@
 ---
 title: Frankenstein
-year: '2017'
+year: "2017"
 authors: by NICK DEAR
 authors2: based on the novel by MARY SHELLEY
-subtitle: ''
+subtitle: ""
 showtimes:
-  - time: '2017-10-17 19:30'
-  - time: '2017-10-18 19:30'
-  - time: '2017-10-19 19:30'
-  - time: '2017-10-20 19:30'
-  - time: '2017-10-21 19:30'
-  - time: '2017-10-21 14:30'
+  - time: 2017-10-17 19:30
+  - time: 2017-10-18 19:30
+  - time: 2017-10-19 19:30
+  - time: 2017-10-20 19:30
+  - time: 2017-10-21 19:30
+  - time: 2017-10-21 14:30
 showtime-summary: 17-21 October 2017
 venue: Bridewell Theatre
-primary-color: '#00FF00'
+primary-color: "#00FF00"
 header-image: /assets/framk-newsletter-montage.jpg
 flyer: /assets/frankenstein-a5-flyerfront-final-1000.jpg
 sections:
@@ -48,8 +48,7 @@ sections:
       **MARKETING MANAGER** | Stephen Beeny
     order: 1
   - title: GALLERY
-    body: >-
-      <a data-flickr-embed="true"
+    body: <a data-flickr-embed="true"
       href="https://www.flickr.com/photos/sedos/albums/72157686050979874"
       title="Frankenstein - 2017"><img
       src="https://live.staticflickr.com/4489/37044936594_0ca7bf822a_z.jpg"
@@ -57,9 +56,9 @@ sections:
       src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
     order: 2
   - title: VIDEO
-    body: >-
+    body: |-
       <div class="video-responsive"><?# YouTube bhoJpBcygYY /?></div>
-      
+
       <div class="video-responsive"><?# YouTube zqbH85bCUdU /?></div>
 
       <div class="video-responsive"><?# YouTube jEZnhxztwcI /?></div>
@@ -68,12 +67,10 @@ sections:
 
       <div class="video-responsive"><?# YouTube yFeAjiKsxR0 /?></div>
 
-      <div class="video-responsive"><?# YouTube oxiiQK2lE3E /?></div>      
+      <div class="video-responsive"><?# YouTube oxiiQK2lE3E /?></div>
     order: 3
   - title: CREATING THE MONSTER
-    body: >-
-      <div class="video-responsive"><?# YouTube HvMYI_7mDic /?></div>
-      
+    body: <div class="video-responsive"><?# YouTube HvMYI_7mDic /?></div>
     order: 4
 ---
 **"Slowly I learnt the ways of humans: how to ruin, how to hate, how to debase, how to humiliate. And at the feet of my master I learnt the highest of human skills, the skill no other creature owns: I finally learnt how to lie**."
