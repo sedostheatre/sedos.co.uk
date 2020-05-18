@@ -14,7 +14,6 @@ social-links:
   - url: https://www.instagram.com/sedoslondon/
     image: /assets/images/social-footers/instagram.svg
     name: Flickr
-  # TODO Slack
 external-links:
   - image: /assets/images/footers/sedos-resident-at-bridewell-theatre.png
     url: http://www.sbf.org.uk/whats-on
@@ -23,11 +22,11 @@ external-links:
     url: https://www.noda.org.uk/
     name: NODA
 internal-links:
-  - url: '#'
+  - url: 'http://visitor.r20.constantcontact.com/d.jsp?llr=7yoblmeab&p=oi&m=1104220830492&sit=yqu4b8vfb&f=4cc31fd7-b79d-4c4e-a679-b7da2f2904ac'
     name: Newsletter sign-up
-  - url: '#'
+  - url: '/about/join-us'
     name: Contact us
-  - url: '#'
+  - url: '/about/join-us'
     name: Join us
 second-row:
   - name: Sedos is a registered charity No. 1173896
