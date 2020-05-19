@@ -1,15 +1,15 @@
 ---
-title: 'Working: a musical'
-year: '2020'
+title: "Working: a musical"
+year: "2020"
 authors: Adapted by NINA FASO and STEPHEN SCHWARTZ
 authors2: With additional contributions by GORDON GREENBERG
-authors3: ''
-subtitle: 'A delightfully funny and thoroughly touching musical '
+authors3: ""
+subtitle: "A thoroughly touching musical "
 showtimes:
-  - time: '2020-07-07 19:30'
+  - time: 2020-07-07 19:30
 showtime-summary: THIS SHOW HAS BEEN TEMPORARILY POSTPONED.
 venue: Bridewell Theatre
-primary-color: '#000000'
+primary-color: "#000000"
 header-image: /assets/working-skyline.jpg
 flyer: /assets/Working Poster Final Proof-800.png
 sections:
@@ -48,13 +48,12 @@ sections:
       <!--EndFragment-->
   - order: 2
     title: GALLERY
-    body: >-
-      <a data-flickr-embed="true"
+    body: '<a data-flickr-embed="true"
       href="https://www.flickr.com/photos/sedos/albums/72157713320103323"
       title="Working: A Musical - 2020"><img
       src="https://live.staticflickr.com/65535/49605804937_8fa2fbc024_z.jpg"
       width="452" height="640" alt="Working: A Musical - 2020"></a><script async
-      src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+      src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>'
 ---
 <!--StartFragment-->
 
