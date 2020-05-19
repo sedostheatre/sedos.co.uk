@@ -7,7 +7,7 @@ authors3: ""
 subtitle: A riotous reworking of Hamlet.
 showtimes:
   - time: 2020-06-01 19:30
-showtime-summary: THIS SHOW HAS BEEN TEMPORARILY POSTPONED.
+showtime-summary: THIS SHOW HAS BEEN TEMPORARILY POSTPONED
 venue: bridewell
 primary-color: "#b21b60"
 header-image: /assets/ophelia-thinks-harder-landscape.jpg
