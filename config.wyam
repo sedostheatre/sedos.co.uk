@@ -122,7 +122,6 @@ Pipelines.Add("Events",
     Meta("fallback-header",
         (doc, ctx) => CopyAndResizeImageFromFile(doc, ctx, "assets/images/headers/molm.jpg", 1280, null)
     ),
-    Meta("page-title", "Events"),
     Meta("background-override", "bg-purple"),
     Razor().WithViewStart("Layout/_EventViewStart.cshtml"),
     WriteFiles(".html")
