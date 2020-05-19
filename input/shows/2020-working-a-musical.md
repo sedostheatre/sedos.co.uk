@@ -7,7 +7,7 @@ authors3: ""
 subtitle: "A thoroughly touching musical "
 showtimes:
   - time: 2020-07-07 19:30
-showtime-summary: THIS SHOW HAS BEEN TEMPORARILY POSTPONED.
+showtime-summary: THIS SHOW HAS BEEN TEMPORARILY POSTPONED
 venue: Bridewell Theatre
 primary-color: "#000000"
 header-image: /assets/working-skyline.jpg
