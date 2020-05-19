@@ -11,5 +11,4 @@ The production group meets regularly to discuss how current productions are goin
 
 The production group has a group on Facebook (just search "Sedos Production Group") and anyone asking to join it will be admitted, so do look us up if you are interested. For further information or just to get in touch please email [production@sedos.co.uk](mailto:production@sedos.co.uk)
 
-^^^ ![](/assets/28610193295_e6dbbbb263_c.jpg) 
-^^^ *Our 2016 production of London Road*
+![](/assets/28610193295_e6dbbbb263_c.jpg)  *Our 2016 production of London Road*
