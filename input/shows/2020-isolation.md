@@ -1,5 +1,5 @@
 ---
-title: "Isolation: A Lockdown Experiment."
+title: "Isolation: A Lockdown Experiment"
 year: "2020"
 authors2: by Sedos members
 subtitle: When creatives are forced to isolate; the show must go on!
