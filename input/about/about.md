@@ -4,8 +4,6 @@ row: 1
 column: 1
 image: /assets/aboutus-armandtheman.jpg
 ---
-Testing Deployment
-
 Sedos stands for the Stock Exchange Dramatic and Operatic Society. The society was founded in 1905 by senior members of the stock exchange and, although the membership now includes an eclectic mix from all over London, we maintain firm links with the City.\
 \
 Sedos is a registered charity (no. 1173896) with 340 members and stages eight to ten shows a year. We have been the resident theatre company at the Bridewell Theatre since 2012 and most of our season takes place there, although we also perform in other venues.\
@@ -27,5 +25,4 @@ More recently television luminaries such as [Nicholas Parsons](https://en.wikipe
 
 **If you want to find out more about Sedos, please email** [membership@sedos.co.uk](membership@sedos.co.uk) **for more details, and our membership secretary will be happy to get back to you!**
 
-^^^ ![](/assets/48114677321_bd0b9e8b25_c.jpg) 
-^^^ Sedos' 2019 production of A Swell Party at the Minack Theatre
+^^^ ![](/assets/48114677321_bd0b9e8b25_c.jpg)  ^^^ Sedos' 2019 production of A Swell Party at the Minack Theatre
