@@ -1,15 +1,15 @@
 ---
 title: Ophelia Thinks Harder
-year: '2020'
+year: "2020"
 authors: by JEAN BETTS
 authors2: and WILLIAM SHAKESPEARE
-authors3: ''
-subtitle: A riotous reworking of Shakespeare's Hamlet.
+authors3: ""
+subtitle: A riotous reworking of Hamlet.
 showtimes:
-  - time: '2020-06-01 19:30'
+  - time: 2020-06-01 19:30
 showtime-summary: THIS SHOW HAS BEEN TEMPORARILY POSTPONED.
 venue: bridewell
-primary-color: '#b21b60'
+primary-color: "#b21b60"
 header-image: /assets/ophelia-thinks-harder-landscape.jpg
 flyer: /assets/2020-02-16-ophelia-flyer-front-800.png
 sections:
