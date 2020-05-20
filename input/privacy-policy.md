@@ -1,7 +1,7 @@
 ---
 title: Privacy policy
 ---
-Sedos respects your privacy and does not sell, rent or loan any identifiable information collected on this site. Any information that you give will be treated in a careful and secure manner. It will not be used in ways to which you have not consented.
+**Sedos respects your privacy and does not sell, rent or loan any identifiable information collected on this site. Any information that you give will be treated in a careful and secure manner. It will not be used in ways to which you have not consented.**
 
 This statement explains how we may collect and use information about you through our website. If you have any questions about our privacy policies, want to exercise your right to see a copy of the information that we hold about you, or think that information we hold about you may need to be corrected, please send an email to our data protection officer at dataprotection@sedos.co.uk.
 
