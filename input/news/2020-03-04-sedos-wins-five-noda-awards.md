@@ -1,10 +1,10 @@
 ---
 title: Sedos wins five NODA awards
-date: '2018-06-29'
+date: 2018-06-29
 image: /assets/37077000390_d83fa6ef88_c.jpg
 extract: Five Sedos shows have won NODA district awards
 ---
-We're delighted to let you know that Sedos is the district winner of no less than five NODA Awards this year!
+**We're delighted to let you know that Sedos is the district winner of no less than five NODA Awards this year!**
 
 **Best Musical**:*The Drowsy Chaperone*
 
