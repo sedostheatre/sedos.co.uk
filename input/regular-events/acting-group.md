@@ -5,11 +5,9 @@ image: /assets/21595508472_219462c05e_c.jpg
 venue: 1 Brewers' Hall Garden, London EC2V 5DX
 recurrence: Saturdays, once a month
 ---
-
-
 #### **DUE TO CORONAVIRUS, THE ACTING GROUP HAS BEEN TEMPORARILY SUSPENDED**
 
-The Acting Group offers sessions approximately once a month, with a friendly, relaxed and supportive atmosphere for people who want to act... whether you want to brush up on their skills, prepare for an audition or simply "have a go". 
+**The Acting Group offers sessions approximately once a month, with a friendly, relaxed and supportive atmosphere for people who want to act... whether you want to brush up on their skills, prepare for an audition or simply "have a go".** 
 
 All levels of ability are welcome, whether it's your first time or your 50th time! 
 
