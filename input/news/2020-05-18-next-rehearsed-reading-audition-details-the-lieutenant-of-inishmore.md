@@ -3,7 +3,7 @@ title: "Next rehearsed reading audition details: the Lieutenant Of Inishmore"
 date: 2020-05-01T00:00:00.000Z
 image: /assets/cat.jpg
 ---
-Our next rehearsed reading is kicking off, and we need you!
+**Our next rehearsed reading is kicking off, and we need you!**
 
 Following the success of *The Importance of Being Earnest*, we're pleased to announce that our next online performance will be *The Lieutenant of Inishmore* by Martin McDonagh.
 
