@@ -1,11 +1,9 @@
 ---
 title: A message to our members and friends
-date: '2020-03-17'
+date: 2020-03-17
 image: /assets/sedos-logo.jpg
 ---
-Dear Members and Friends,
-
-In light of yesterday's announcements by the Government, with much sadness, we have taken the difficult but responsible decision to suspend our operations for the time being and postpone a number of upcoming events.
+**In light of the announcement by the Government on 16 March 2020, with much sadness, we have taken the difficult but responsible decision to suspend our operations for the time being and postpone a number of upcoming events.**
 
 The following Sedos events and activities are therefore postponed:
 
