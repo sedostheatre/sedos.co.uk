@@ -7,7 +7,7 @@ authors3: ""
 subtitle: "A thoroughly touching musical "
 showtimes:
   - time: 2020-07-07 19:30
-showtime-summary: THIS SHOW HAS BEEN TEMPORARILY POSTPONED
+showtime-summary: THIS SHOW HAS BEEN POSTPONED
 venue: Bridewell Theatre
 primary-color: "#000000"
 header-image: /assets/working-skyline.jpg
@@ -57,7 +57,7 @@ sections:
 ---
 <!--StartFragment-->
 
-#### **THIS SHOW HAS BEEN TEMPORARILY POSTPONED. [FIND OUT MORE](https://sedos.l3v5y.co.uk/news/2020-03-26-a-message-to-our-members-and-friends).**
+#### **THIS SHOW HAS BEEN POSTPONED. [FIND OUT MORE](https://sedos.l3v5y.co.uk/news/2020-03-26-a-message-to-our-members-and-friends).**
 
 **In 1974 Chicago radio broadcaster Studs Terkel published a best selling compilation of interviews with a cross section of Americans talking about their jobs**.
 
