@@ -10,4 +10,4 @@ We’d like to thank:
 * The members of our marketing, production and membership groups
 * The past and present team at the Bridewell Theatre, where we are the resident theatre company
 * Olly Levett for building this website
-* All the photographers who take pictures of our shows and whose images make this website look great, including: Michael Smith, David Ovenden, Stephen Russell, Adrian Hau, Neil Ballinger, Ruth Anthony and Dancers of London
+* All the photographers who take pictures of our shows and whose images make this website look great, including: Michael Smith, David Ovenden, Stephen Russell, Adrian Hau, Nick Chronnell, Neil Ballinger, Ruth Anthony and Dancers of London
