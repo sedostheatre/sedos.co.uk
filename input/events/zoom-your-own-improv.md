@@ -12,7 +12,7 @@ venue: Online via Zoom
 recurrence: Wednesdays at 8.30pm
 ticket-prices: ""
 ---
-The Banana Hut Gang are here to cheer up your Wednesday evenings with their virtual improv show live from isolation!
+**The Banana Hut Gang are here to cheer up your Wednesday evenings with their virtual improv show live from isolation!**
 
 *Zoom Your Own...Improv!* is back with a vengeance, so join all your Sedos chums in watching the show live on Zoom, all for free and all from the comfort of your own home (like everything at the moment!). 
 
