@@ -7,7 +7,7 @@ authors3: ""
 subtitle: A riotous reworking of Hamlet.
 showtimes:
   - time: 2020-06-01 19:30
-showtime-summary: THIS SHOW HAS BEEN TEMPORARILY POSTPONED
+showtime-summary: THIS SHOW HAS BEEN POSTPONED
 venue: bridewell
 primary-color: "#b21b60"
 header-image: /assets/ophelia-thinks-harder-landscape.jpg
@@ -52,8 +52,7 @@ sections:
 
 #### **THIS SHOW HAS BEEN TEMPORARILY POSTPONED. [FIND OUT MORE](https://sedos.l3v5y.co.uk/news/2020-03-26-a-message-to-our-members-and-friends).**
 
->Artists, scholars, poets and princes will travel the world to see me... I shall pass into myth!
-><footer><cite><a href="undefined">undefined</a></cite></footer>
+> Artists, scholars, poets and princes will travel the world to see me... I shall pass into myth!
 
 A riotous reworking of Shakespeare's *Hamlet* - with serious themes, nevertheless. Featuring Ophelia, her maid, St Joan and a couple of locals - Rosencrantz and Guildenstern.
 
