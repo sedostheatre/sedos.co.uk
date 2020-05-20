@@ -20,6 +20,17 @@ jobs:
           ${{ runner.os }}-build-${{ env.cache-name }}-
           ${{ runner.os }}-build-
           ${{ runner.os }}-
+    - name: Cache assets
+      uses: actions/cache@v1
+      env:
+        cache-name: cache-assets
+      with:
+        path: theme/assets/lib
+        key: ${{ runner.os }}-build-${{ env.cache-name }}-${{ hashFiles('build.cake') }}
+        restore-keys: |
+          ${{ runner.os }}-build-${{ env.cache-name }}-
+          ${{ runner.os }}-build-
+          ${{ runner.os }}-
     - name: Build
       run: .\build.ps1 -Target "Build"
       shell: powershell
