@@ -8,7 +8,7 @@ recurrence: Fridays at 7pm
 ---
 #### **DUE TO CORONAVIRUS, SIMPROV HAS BEEN TEMPORARILY SUSPENDED**
 
-Simprov is the Sedos group that lets members and non-members explore their spontaneous side!
+**Simprov is the Sedos group that lets members and non-members explore their spontaneous side!**
 
 If you want to learn improvisation skills and practise them in a fun and supportive way, then the Simprov Drop In is the place for you. We also run regular workshops and courses that lead to public performances.
 
