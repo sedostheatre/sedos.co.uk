@@ -1,10 +1,10 @@
 ---
 title: 2019 Sedos season announced
-date: '2018-09-12'
+date: 2018-09-12
 image: /assets/2019-season.jpg
-extract: 'Four musicals, three plays and a brand new movement piece '
+extract: "Four musicals, three plays and a brand new movement piece "
 ---
-We're delighted to announce the 2019 Sedos season of four musicals, three plays and a brand new movement piece.
+**We're delighted to announce the 2019 Sedos season of four musicals, three plays and a brand new movement piece.**
 
 Thank you to everyone who joined us last night for the launch of the 2019 Sedos Season, which features eight shows: four musicals, three plays and a brand new movement piece, as well as an enticing mix of social events and workshops.
 
