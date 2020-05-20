@@ -15,7 +15,7 @@ jobs:
         cache-name: cache-tools
       with:
         path: tools
-        key: ${{ runner.os }}-build-${{ env.cache-name }}-${{ hashFiles('tools/packages.config') }}-${{ hashFiles('config.wyam') }}
+        key: ${{ runner.os }}-build-${{ env.cache-name }}-${{ hashFiles('tools/packages.config') }}-${{ hashFiles('config.wyam') }}-${{ hashFiles('build.cake') }}
         restore-keys: |
           ${{ runner.os }}-build-${{ env.cache-name }}-
           ${{ runner.os }}-build-
