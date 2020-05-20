@@ -11,6 +11,8 @@ The best way to contact us is by email - we'll be happy to help.
 
 **Get involved backstage:** [backstage@sedos.co.uk](backstage@sedos.co.uk)
 
+**For everything to do with the website:** [webmaster@sedos.co.uk](mailto:webmaster@sedos.co.uk)
+
 **Sedos committee:** [committee@sedos.co.uk](committee@sedos.co.uk)
 
 **Marketing group and press enquiries:** [marketing@sedos.co.uk](marketing@sedos.co.uk)
