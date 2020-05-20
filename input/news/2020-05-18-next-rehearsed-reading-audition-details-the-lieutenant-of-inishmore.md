@@ -1,5 +1,5 @@
 ---
-title: "Next rehearsed reading audition details: the Lieutenant Of Inishmore"
+title: "Next rehearsed reading audition details: The Lieutenant Of Inishmore"
 date: 2020-05-01T00:00:00.000Z
 image: /assets/cat.jpg
 ---
