@@ -2,7 +2,7 @@
 title: Thanks
 header-image: assets/images/headers/SedosWebsite-Banner-redcurtain.jpg
 ---
-Everything we do at Sedos is the work of volunteers, from building this website to putting on all our shows. It's a team effort. 
+**Everything we do at Sedos is the work of volunteers, from building this website to putting on all our shows. It's a team effort.** 
 
 We’d like to thank:
 
