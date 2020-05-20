@@ -1,10 +1,10 @@
 ---
 title: Frankenstein wins Whitbread Trophy
-date: '2018-06-30'
+date: 2018-06-30
 image: /assets/frankprog-tearsheet-650.jpg
-extract: 'Trophy for Frankenstein programme '
+extract: "Trophy for Frankenstein programme "
 ---
-We have great pleasure in announcing that Sedos is the winner of the Whitbread Trophy award for Programme Design (Standard Class) for *Frankenstein*. Huge congratulations to Pippa Kyle and Stephen Beeny, who created the award-winning programme.
+**We have great pleasure in announcing that Sedos is the winner of the Whitbread Trophy award for Programme Design (Standard Class) for *Frankenstein*. Huge congratulations to Pippa Kyle and Stephen Beeny, who created the award-winning programme.**
 
 The 16-page, large format square programme featured photography by David Ovenden, an interesting article by *Frankenstein'*s director Matt Gould, cast and creative team biogs alongside information on Sedos, the Bridewell Theatre and Noda itself.
 
