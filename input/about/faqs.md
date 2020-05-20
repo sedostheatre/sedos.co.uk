@@ -6,6 +6,8 @@ image: /assets/aboutus-howtosucceed.jpg
 ---
 ## FAQs
 
+
+
 **Are auditions open to everyone?**
 
 Absolutely! We welcome people of all levels, ages and experience.
@@ -109,5 +111,4 @@ All cast, production teams and crew are required to help with the get-out. The c
 
 If you want to find out more about Sedos, please email membership@sedos.co.uk for more details, and our membership secretary will be happy to get back to you.
 
-^^^ ![](/assets/39596528731_3d13b47b95_c.jpg) 
-^^^ Sedos' 2017 production of Priscilla Queen of the Desert: The Musical
+^^^ ![](/assets/39596528731_3d13b47b95_c.jpg)  ^^^ Sedos' 2017 production of Priscilla Queen of the Desert: The Musical
