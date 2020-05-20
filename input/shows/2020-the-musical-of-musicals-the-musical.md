@@ -55,7 +55,7 @@ sections:
       charset="utf-8"></script>
     order: 1
 ---
-## A COMIC VALENTINE TO MUSICAL THEATRE
+#### A COMIC VALENTINE TO MUSICAL THEATRE
 
 **A musical about musicals! In this hilarious satire of musical theatre, one story becomes five delightful musicals, each written in the distinctive style of a different master of the form, from Rodgers and Hammerstein to Stephen Sondheim.**
 
