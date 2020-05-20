@@ -15,4 +15,7 @@ Watch this space for screening details for our next virtual play *The Lieutenant
   <?# YouTube xv_-iUU4NG8 /?>
 </div>
 
-![](/assets/zoom-earnest-1.jpg)
+
+
+^^^ ![](/assets/zoom-earnest-1.jpg) 
+^^^ undefined
