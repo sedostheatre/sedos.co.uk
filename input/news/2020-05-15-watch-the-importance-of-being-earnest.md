@@ -3,7 +3,7 @@ title: Watch The Importance Of Being Earnest
 date: 2020-04-29T00:00:00.000Z
 image: /assets/zoom-earnest-1.jpg
 ---
-Missed our live Zoom production of Wilde's trivial comedy for serious people? Then you're in luck as it's now available to watch again online.
+**Missed our live Zoom production of Wilde's trivial comedy for serious people? Then you're in luck as it's now available to watch again online.**
 
 Pass the cucumber sandwiches and pour yourself a cup of tea. Our rehearsed reading of Oscar Wilde's trivial comedy for serious people, *The Importance of Being Earnest*, is available to watch again online. 
 
@@ -15,7 +15,4 @@ Watch this space for screening details for our next virtual play *The Lieutenant
   <?# YouTube xv_-iUU4NG8 /?>
 </div>
 
-
-
-^^^ ![](/assets/zoom-earnest-1.jpg) 
-^^^ undefined
+^^^ ![](/assets/zoom-earnest-1.jpg)  ^^^ undefined
