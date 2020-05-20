@@ -1,13 +1,13 @@
 ---
-title: 'Improv for beginners: course with performance'
+title: "Improv for beginners: course with performance"
 times:
-  - time: '2020-03-13 07:00'
+  - time: 2020-03-13 07:00
 image: /assets/simprov3-360.jpg
-venue: '1 Brewers'' Hall Garden, London EC2V 5DX'
-recurrence: 'Fridays, 13 March-1 May 2020'
+venue: 1 Brewers' Hall Garden, London EC2V 5DX
+recurrence: Fridays, 13 March-1 May 2020
 ticket-prices: Free to Sedos members
 ---
-Ever fancied trying your hand at improvisation, but scared or worried you won't be any good? Perhaps you've tried improv before but would love to develop your skills. Well, if either scenario describes you, then you're in luck - as you can now sign up to join our new eight-week improv course for beginners running at [1 Brewers' Hall Garden, London EC2V 5DX](https://sedos.l3v5y.co.uk/venues/bhg) from 13 March 2020. 
+**Ever fancied trying your hand at improvisation, but scared or worried you won't be any good? Perhaps you've tried improv before but would love to develop your skills. Well, if either scenario describes you, then you're in luck - as you can now sign up to join our new eight-week improv course for beginners running at [1 Brewers' Hall Garden, London EC2V 5DX](https://sedos.l3v5y.co.uk/venues/bhg) from 13 March 2020.** 
 
 The course is perfect for complete newbies and those with some experience. We'll be looking at the basics of improvisation (eg. listening and agreeing), learning some essential improv games (think *Whose Line is it Anyway?*) and also practising a 'long-form' improv format called The Harold. It's a great way to build confidence, develop collaboration skills, and is generally a great tool to take with you whenever you walk on stage. (P.S. It's really helpful for auditions, too!) 
 
