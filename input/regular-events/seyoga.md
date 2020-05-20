@@ -6,7 +6,7 @@ venue: Zoom
 recurrence: Wednesdays at 6.30pm
 ticket-prices: Free, but please sign up in advance for each class
 ---
-Connect with yourself on Wednesday evenings at 6.30pm
+**Connect with yourself on Wednesday evenings at 6.30pm**
 
 Yoga is a great way to move the body, connect with the mind and steady the breath. 
 
