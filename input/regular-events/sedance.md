@@ -5,7 +5,7 @@ header-image: assets/images/headers/SedosWebsite-Banner-sedance.jpg
 venue: 1 Brewers' Hall Garden, London EC2V 5DX
 recurrence: Mondays at 7.10pm
 ---
-Sedance is Sedos’ weekly dance class, running every Monday night, 7.10-9pm, at [1 Brewers’ Hall Garden, London EC2V 5DX](https://sedos.l3v5y.co.uk/venues/bhg) (nearest tube is Moorgate)
+**Sedance is Sedos’ weekly dance class, running every Monday night, 7.10-9pm, at [1 Brewers’ Hall Garden, London EC2V 5DX](https://sedos.l3v5y.co.uk/venues/bhg) (nearest tube is Moorgate)**
 
 What better way to get in shape, improve your technique or simply enjoy the buzz of dancing? (And it's a great excuse for a cheeky pop to the local hostelry on a Monday evening to catch up with what's going on in Sedos!)
 
