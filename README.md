@@ -26,6 +26,3 @@ Changes will be rebuilt and the page should update in sync.
   - Because it's easy :)
 - GitHub actions for CI
 - Netlify for hosting
-
-
--- forcing a rerun
