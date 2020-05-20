@@ -4,7 +4,7 @@ date: 2020-05-15T00:00:00.000Z
 image: /assets/cat.jpg
 box-office-open: false
 ---
-We're pleased to announce our cast for our rehearsed reading of *The Lieutenant of Inishmore* and and save the show date, Sunday 31 May 2020.
+**We're pleased to announce our cast for our rehearsed reading of *The Lieutenant of Inishmore* and and save the show date, Sunday 31 May 2020.**
 
 **PADRAIC:** Josh Mallalieu \
 **MAIREAD:** Amy Carmichae\
@@ -19,5 +19,4 @@ A huge thank you to everyone who sent in an audition video! They were uniformly 
 
 The reading will take place over Zoom on Sunday 31 May, 7.30-9pm. If you're interested in watching, all you have to do is send a quick email saying you want to watch to events@sedos.co.uk. We'll add you to the list and send you a link to watch nearer the time of the show. The show is free and open to all!
 
-^^^ ![](/assets/cat.jpg) 
-^^^ undefined
+^^^ ![](/assets/cat.jpg)  ^^^ undefined
