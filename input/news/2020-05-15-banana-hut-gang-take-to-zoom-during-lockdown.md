@@ -3,7 +3,7 @@ title: Banana Hut Gang take to Zoom during lockdown
 date: 2020-04-26T00:00:00.000Z
 image: /assets/bhg-pink-background.png
 ---
-After Edinburgh Fringe 2020 got cancelled, this group of tenacious improvisers wanted to find a way to bring their improv show to the people and keep the nation smiling throughout the lockdown. So they did just that: Banana Hut Gang are making a whole load of lemonade with all the lemons we’ve been given, and damn is it tasty!
+**After Edinburgh Fringe 2020 got cancelled, this group of tenacious improvisers wanted to find a way to bring their improv show to the people and keep the nation smiling throughout the lockdown. So they did just that: Banana Hut Gang are making a whole load of lemonade with all the lemons we’ve been given, and damn is it tasty!**
 
 In their 2019 sell-out Edinburgh Fringe show Choose Your Own…Improv! Banana Hut Gang created a dynamic new form of long form improv. In this show the audience call ALL the shots, not just at the beginning when they pick a genre, lead character and quest, but also throughout the 45 minute long improvised play when they help to decide what will happen to the main character throughout the story. Whether it’s a murder mystery, sci-fi or romcom, the Banana Hut Gang create a brand-new world and the audience make crucial decisions that drive the story forwards, derail it completely or force the performers to return to previous decisions and choose another path.
 
