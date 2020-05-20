@@ -1,10 +1,10 @@
 ---
 title: Sedos wins five NODA awards
-date: '2019-05-06'
+date: 2019-05-06
 image: /assets/30907316528_249eb53e3d_c.jpg
 extract: Sedos' 2018 shows have taken five NODA London district prizes
 ---
-We're delighted that Sedos has won five NODA London district awards.
+**We're delighted that Sedos has won five NODA London district awards.**
 
 Four of our 2018 shows have been recognised in the recent NODA London awards, with five winners. Huge congratulations to all our district winners:
 
