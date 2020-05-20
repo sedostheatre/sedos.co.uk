@@ -3,7 +3,7 @@ title: Sedos wins eight NODA District Awards
 date: 2020-05-02T00:00:00.000Z
 image: /assets/unnamed-17-.jpg
 ---
-The society was recognised with an incredible eight awards, including best play and best musical. 
+**The society was recognised with an incredible eight awards, including best play and best musical.** 
 
 We are honoured to have been rewarded with eight NODA Central London District Awards for our 2019 season. This is a feat extensively beyond anything Sedos has achieved before, being a testament to the breadth and depth of our capabilities. 
 
@@ -24,5 +24,4 @@ Congratulations once again!
 **CHORUS WORK AWARD:** *Ragtime*\
 **SCENIC AWARD:** *Arms and the Man*
 
-^^^ ![](/assets/unnamed-17-.jpg) 
-^^^ undefined
+^^^ ![](/assets/unnamed-17-.jpg)  ^^^ undefined
