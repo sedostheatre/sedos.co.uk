@@ -19,7 +19,7 @@ jobs:
         restore-keys: |
           ${{ runner.os }}-build-${{ env.cache-name }}-
           ${{ runner.os }}-build-
-          ${{ runner.os }}-    
+          ${{ runner.os }}-
     - name: Build
       run: .\build.ps1 -Target "Build"
       shell: powershell
