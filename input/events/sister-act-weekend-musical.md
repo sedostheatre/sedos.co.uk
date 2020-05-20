@@ -1,11 +1,11 @@
 ---
 title: Sister Act Weekend Musical
 times:
-  - time: '2020-05-01 04:30'
+  - time: 2020-05-01 04:30
 image: /assets/sisteract.jpg
-recurrence: 'Auditions 28 April, rehearsals 1-3 May'
+recurrence: Auditions 28 April, rehearsals 1-3 May
 ---
-Registrations are now open for our 2020 Weekend Musical, *Sister Act.*
+**Registrations are now open for our 2020 Weekend Musical, *Sister Act.***
 
 The main aim of this weekend is to have fun! It’s a chance to pack all the highs of doing a show into a 48-hour period and to give an opportunity to perform to people who might not usually be able to commit to a rehearsal period due to other commitments.
 
