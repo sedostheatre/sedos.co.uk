@@ -3,10 +3,9 @@ title: " Your society needs you!"
 date: 2020-04-02T00:00:00.000Z
 image: /assets/sedos-members.jpg
 ---
-^^^ ![](/assets/aboutus-trustees-19-20.jpg) 
-^^^ undefined
+^^^ ![](/assets/aboutus-trustees-19-20.jpg)  ^^^ undefined
 
-At the forthcoming AGM on Thursday 4 June 2020, there will be a number of vacancies on the Sedos board of trustees and also on the management committee.
+**At the forthcoming AGM on Thursday 4 June 2020, there will be a number of vacancies on the Sedos board of trustees and also on the management committee.**
 
 The board of trustees' primary responsibility is to ensure the long-term financial health of the society together with ensuring compliance with laws, regulations and financial reporting obligations.
 
