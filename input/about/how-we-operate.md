@@ -6,7 +6,7 @@ image: /assets/aboutus-trustees-19-20.jpg
 ---
 Sedos is a Charitable Incorporated Association.
 
-Click here to read the constitution.
+**[Click here to read the constitution](https://sedos.l3v5y.co.uk/assets/SedosConstitution.pdf)**.
 
 Sedos' charitable objects are:
 
