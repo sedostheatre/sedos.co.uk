@@ -1,12 +1,12 @@
 ---
 title: Improv workshop with Stephen Davidson
 times:
-  - time: '2020-03-21 12:00'
+  - time: 2020-03-21 12:00
 image: /assets/stephendavidson300.jpg
-venue: '1 Brewers'' Hall Garden, London EC2V 5DX'
+venue: 1 Brewers' Hall Garden, London EC2V 5DX
 recurrence: 21 March 2020
 ---
-Join us for an improvisation workshop​ suitable for all levels. 
+**Join us for an improvisation workshop​ suitable for all levels.** 
 
 Have you always wanted to be free on stage? Know how to say yes and make connections with your fellow performers? 
 
