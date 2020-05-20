@@ -1,10 +1,9 @@
 ---
-title: '2020 Sedos season announced '
-date: '2019-09-13'
+title: "2020 Sedos season announced "
+date: 2019-09-13
 image: /assets/season.jpg
-extract: 'Three musicals, four plays and more'
+extract: Three musicals, four plays and more
 ---
-\
 **We’re delighted to announce the 2020 Sedos season of three musicals, four plays, plus more for our members.**\
 \
 Thank you to everyone who joined us last night for the launch of the 2020 Sedos season, which features seven shows — three musicals and four plays — plus a members’ week and several workshop-style productions.\
