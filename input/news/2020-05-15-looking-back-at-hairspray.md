@@ -9,11 +9,10 @@ The next few days should have been exciting ones with our Weekend Musical of *Si
 
 Meanwhile, take a look back at these pictures of last year's W*eekend Musical of Hairspray*, which over 60 people took part in, with Ryan Macaulay at the helm as Musical Director.
 
->Good morning Baltimore\ 
+>Good morning Baltimore\
 Every day's like an open door\
 Every night is a fantasy\
 Every sound's like a symphony...
-
 ><footer><cite><a href="undefined">undefined</a></cite></footer>
 
 ![](/assets/hairspray.jpg)  ^^^ undefined
