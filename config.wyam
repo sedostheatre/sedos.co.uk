@@ -33,6 +33,15 @@ ShortcodeCollection.Add("Quote", (KeyValuePair<string, string>[] args, string co
     return $"<blockquote class='blockquote text-center'>“{content.Trim()}”</blockquote>";
 });
 
+Pipelines.Add("OldSite",
+    ReadFiles("old-site/**/*.*"),
+    Meta("RelativeFilePath", (doc,ctx) => { 
+        var input = doc["RelativeFilePath"].ToString();
+        return input.Substring(input.IndexOf('/') + 1);
+    }),
+    WriteFiles()
+);
+
 Pipelines.Add("Footer",
     ReadFiles("footer.yml"),
     Yaml()
