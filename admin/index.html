@@ -48,7 +48,7 @@
         };
       },
       toBlock: function(obj) {
-        return '>' + obj.quote + '\n><footer><cite><a href="' + obj.url + '">' + obj.cite + '</a></cite></footer>'
+        return '>' + obj.quote + '\r\n><footer><cite><a href="' + obj.url + '">' + obj.cite + '</a></cite></footer>'
       },      
       toPreview: function(obj) {
         return (
@@ -70,7 +70,7 @@
         };
       },
       toBlock: function(obj) {
-        return '^^^ ![]('+obj.asset +') \n^^^ '+ obj.quote;
+        return '^^^ ![]('+obj.asset +') \r\n^^^ '+ obj.quote;
       },      
       toPreview: function(obj) {
         return (
