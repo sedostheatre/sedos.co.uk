@@ -13,4 +13,4 @@ During a career spanning nearly 60 years, McNally created a vast body of work, i
 McNally, 81, was a lung cancer survivor who suffered from an underlying lung condition.
 
 ^^^ ![](/assets/mcnallytribute.jpg)
-^^^ undefined
+^^^ 
