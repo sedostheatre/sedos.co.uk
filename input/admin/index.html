@@ -38,7 +38,7 @@
     CMS.registerEditorComponent({
       id: "quote",
       label: "Quote",
-      fields: [{name: 'quote', label: 'Quote', widget: 'text', required: true}, {name: 'url', label: 'url', widget: 'string', required: false}, {name: 'cite', label: 'Cite', widget: 'string', , required: true}],      
+      fields: [{name: 'quote', label: 'Quote', widget: 'text', required: true}, {name: 'url', label: 'url', widget: 'string', required: false}, {name: 'cite', label: 'Cite', widget: 'string', required: true}],      
       pattern: /^>(.*)\n><footer><cite>(?:<a href="(\S*)">(.*)<\/a>)?(?:(.*))?<\/cite><\/footer>/,
       fromBlock: function(match) {
         return {
@@ -52,7 +52,7 @@
         if(obj.url) {
          cite = '<a href="' + obj.url + '">' + obj.cite + '</a>';
         }
-        return '>' + obj.quote + '\r\n><footer><cite>' + cite + '</cite></footer>'
+        return '>' + obj.quote + '\r\n><footer><cite>' + cite + '</cite></footer>';
       },      
       toPreview: function(obj) {
         return (
