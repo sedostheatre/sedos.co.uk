@@ -53,7 +53,7 @@ sections:
       <!--EndFragment-->
     order: 1
   - title: GALLERY
-    body: >-
+    body: |-
       <a data-flickr-embed="true"
       href="https://www.flickr.com/photos/sedos/albums/72157708791677932"
       title="A Swell Party - 2019"><img
@@ -62,7 +62,7 @@ sections:
       src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
     order: 2
   - title: REVIEW
-    body: >-
+    body: |-
       #### **A Swell Party – Review SEDOS**
 
       ***reviewed by Jenni Balow***

@@ -16,7 +16,7 @@ header-image: /assets/SohoCindersCast-360.jpg
 flyer: /assets/SohoCindersFlyerFront-800.jpg
 sections:
   - title: CAST & CREATIVE TEAM
-    body: >-
+    body: |-
       <!--StartFragment-->
 
 
@@ -100,7 +100,7 @@ sections:
       <!--EndFragment-->
     order: 1
   - title: GALLERY
-    body: >-
+    body: |-
       <a data-flickr-embed="true"
       href="https://www.flickr.com/photos/sedos/albums/72157709236901417"
       title="Soho Cinders - 2019"><img
@@ -109,7 +109,7 @@ sections:
       src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
     order: 1
   - title: REVIEWS
-    body: >-
+    body: |-
       >A hearty and sincere production, it’s a more complex story than the traditional fairy-tale from which it is adapted, but it’s a lively and engaging one at that.
       ><footer><cite><a href='https://www.londontheatre1.com/reviews/musical/stiles-drewes-soho-cinders-at-the-bridewell-theatre/'>Soho Cinders, 2019, London Theatre 1</a></cite></footer>
     order: 3

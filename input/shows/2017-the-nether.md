@@ -37,7 +37,7 @@ sections:
       **COSTUMES** | Deborah Lean
     order: 1
   - title: VIDEO
-    body: >-
+    body: |-
       <a data-flickr-embed="true"
       href="https://www.flickr.com/photos/sedos/albums/72157688525670345"
       title="The Nether - 2017"><img
@@ -46,7 +46,7 @@ sections:
       src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
     order: 2
   - title: VIDEO
-    body: >-
+    body: |-
       <div class="video-responsive"><?# YouTube uTJQBTLb66w /?></div>
     order: 3
 ---

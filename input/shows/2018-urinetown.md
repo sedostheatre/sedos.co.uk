@@ -68,7 +68,7 @@ sections:
       <!--EndFragment-->
     order: 1
   - title: GALLERY
-    body: >-
+    body: |-
       <a data-flickr-embed="true"
       href="https://www.flickr.com/photos/sedos/albums/72157673097993157"
       title="Urinetown: the Musical - 2018"><img
@@ -78,7 +78,7 @@ sections:
       charset="utf-8"></script>
     order: 2
   - title: VIDEO
-    body: >-
+    body: |-
       <div class="video-responsive"><?# YouTube iijwhhQ6PtU /?></div>
     order: 3
 ---

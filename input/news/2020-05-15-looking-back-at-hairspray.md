@@ -15,4 +15,5 @@ Every night is a fantasy\
 Every sound's like a symphony...
 ><footer><cite><a href="undefined">undefined</a></cite></footer>
 
-![](/assets/hairspray.jpg)  ^^^ undefined
+![](/assets/hairspray.jpg)
+^^^ undefined

@@ -31,7 +31,7 @@ header-image: /assets/bar-2209813.jpg
 flyer: /assets/poster.jpg
 sections:
   - title: CAST & CREATIVE TEAM
-    body: >-
+    body: |-
       <!--StartFragment-->
 
 

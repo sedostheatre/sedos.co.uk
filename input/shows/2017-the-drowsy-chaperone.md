@@ -15,7 +15,7 @@ header-image: /assets/About-JoinUs.jpg
 flyer: /assets/drowsyfront-800.jpg
 sections:
   - title: CAST & CREATIVE TEAM
-    body: >-
+    body: |-
       <!--StartFragment-->
 
 
@@ -85,7 +85,7 @@ sections:
       <!--EndFragment-->
     order: 1
   - title: GALLERY
-    body: >-
+    body: |-
       <a data-flickr-embed="true"
       href="https://www.flickr.com/photos/sedos/albums/72157680171102106"
       title="The Drowsy Chaperone - 2017"><img
@@ -95,7 +95,7 @@ sections:
       charset="utf-8"></script>
     order: 2
   - title: REVIEWS
-    body: >-
+    body: |-
       >This is a brilliant, brilliant show that has always deserved to be seen. In the case of this production, more so than ever.
       ><footer><cite><a href='http://www.sardinesmagazine.co.uk/reviews/review.php?REVIEW-Sedos-The%20Drowsy%20Chaperone&reviewsID=2838'>The Drowsy Chaperone, 2017, Sardines</a></cite></footer>
 

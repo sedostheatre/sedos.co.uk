@@ -45,7 +45,7 @@ sections:
       <!--EndFragment-->
     order: 1
   - title: GALLERY
-    body: >-
+    body: |-
       <a data-flickr-embed="true"
       href="https://www.flickr.com/photos/sedos/albums/72157688453785482"
       title="A Doll&#x27;s House - 2018"><img
@@ -55,7 +55,7 @@ sections:
       charset="utf-8"></script>
     order: 2
   - title: VIDEO
-    body: >-
+    body: |-
       <div class="video-responsive"><?# YouTube 7rLzSeqdMS4 /?></div>
     order: 3
 ---

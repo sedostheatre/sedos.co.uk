@@ -9,4 +9,5 @@ So whether it's a single prop or item of clothing, or a full set of *The Full Mo
 
 Email your query to our dedicated costume and prop address, [hires@sedos.co.uk](hires@sedos.co.uk), and we'll go from there!
 
-^^^ ![](/assets/costunmes.jpg)  ^^^ undefined
+^^^ ![](/assets/costunmes.jpg)
+^^^ undefined

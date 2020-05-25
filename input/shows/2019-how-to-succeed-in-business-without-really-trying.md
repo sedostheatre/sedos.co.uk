@@ -12,7 +12,7 @@ header-image: /assets/A4 poster AW_print-crop-square-360.jpg
 flyer: /assets/HTSWRT-flyer front-800.jpg
 sections:
   - title: CAST & CREATIVE TEAM
-    body: >-
+    body: |-
       <!--StartFragment-->
 
 
@@ -96,7 +96,7 @@ sections:
       Trying - 2019"></a><script async
       src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
   - title: REVIEWS
-    body: >-
+    body: |-
       >Quite simply, the show is wonderful and should serve as a shining beacon throughout across the entire non-professional sector. Whether you see the same show produced at at the Union Theatre, Young Vic, Charing Cross Theatre, Jermyn Street Theatre or any other professional off-West End/Fringe venue, it will not get any better than this. Amateur groups around the capital pay attention; this is how to put on a musical! This fifty-eight-year-old show (which also played the West End in 1963) makes a fitting return to London and is probably as close to earning a ‘professional’ tag as you can get.
       ><footer><cite><a href='http://www.sardinesmagazine.co.uk/reviews/review.php?REVIEW-Sedos-How%20To%20Succeed%20In%20Business%20Without%20Really%20Trying&reviewsID=3578'>How to Succeed in Business Without Really Trying, 2019, Sardines (*****)</a></cite></footer>
 

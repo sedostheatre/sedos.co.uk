@@ -260,7 +260,11 @@ public IDocument CopyAndResizeImageFromFile(IDocument doc, IExecutionContext ctx
 public IDocument ProcessMarkdown(IDocument doc, IExecutionContext ctx)
 {
     return ctx.Execute(
-        new IModule[] {Markdown("body")},
+        new IModule[] {
+            Markdown("body")
+            .UseExtension<Markdig.Extensions.Bootstrap.BootstrapExtension>()
+            .UseExtension<TargetLinkExtension>()
+            .UseExtensions()},
         new IDocument[] { doc }
         ).FirstOrDefault();
 }

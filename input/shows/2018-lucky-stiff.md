@@ -50,7 +50,7 @@ sections:
       <!--EndFragment-->
     order: 1
   - title: GALLERY
-    body: >-
+    body: |-
       <a data-flickr-embed="true"
       href="https://www.flickr.com/photos/sedos/albums/72157697833244282"
       title="Lucky Stiff - 2018"><img
@@ -59,7 +59,7 @@ sections:
       src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
     order: 1
   - title: REVIEWS
-    body: >-
+    body: |-
       >Huge congratulations must go to the whole production team for putting on a fabulous show. This show is a MUST to see and would recommend to anyone.
       ><footer><cite><a href='http://musicaltheatremusings.co.uk/lucky-stiff'>Lucky Stiff, 2018, Musical Theatre Musings</a></cite></footer>
 
