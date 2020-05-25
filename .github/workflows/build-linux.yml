@@ -29,4 +29,3 @@ jobs:
           ${{ runner.os }}-build-${{ env.cache-name }}-
     - name: Build
       run: ./build.sh -Target "Build"
-      shell: powershell
