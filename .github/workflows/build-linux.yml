@@ -28,4 +28,4 @@ jobs:
         restore-keys: |
           ${{ runner.os }}-build-${{ env.cache-name }}-
     - name: Build
-      run: ./build.sh --target "Build"
+      run: ./build.sh
