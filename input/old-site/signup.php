@@ -1,0 +1,1 @@
+<?php  header( 'Location: https://membership.sedos.co.uk/signup/' ) ;  ?>
