@@ -16,7 +16,7 @@
 
 *.md       text
 *.tt       text
-*.sh       text
+*.sh       text eol=lf
 *.ps1      text
 *.cmd      text
 *.bat      text
