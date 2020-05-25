@@ -38,7 +38,7 @@
     CMS.registerEditorComponent({
       id: "quote",
       label: "Quote",
-      fields: [{name: 'quote', label: 'Quote', widget: 'text'}, {name: 'url', label: 'url', widget: 'string'}, {name: 'cite', label: 'Cite', widget: 'string'}],      
+      fields: [{name: 'quote', label: 'Quote', widget: 'text', required: true}, {name: 'url', label: 'url', widget: 'string', required: false}, {name: 'cite', label: 'Cite', widget: 'string', , required: true}],      
       pattern: /^>(.*)\n><footer><cite>(?:<a href="(\S*)">(.*)<\/a>)?(?:(.*))?<\/cite><\/footer>/,
       fromBlock: function(match) {
         return {
@@ -65,8 +65,8 @@
     CMS.registerEditorComponent({
       id: "figure",
       label: "Figure",
-      fields: [{name: 'asset', label: 'Image', widget: 'image'}, {name: 'quote', label: 'Quote', widget: 'string'}],      
-      pattern: /^\^\^\^\s*\!\[\]\((\S*)\)\n*\^\^\^(.*)$/,
+      fields: [{name: 'asset', label: 'Image', widget: 'image', required: true}, {name: 'quote', label: 'Quote', widget: 'string', required: false}],      
+      pattern: /^\^\^\^\s*\!\[\]\((\S*)\)\n*\^\^\^ (.*)$/,
       fromBlock: function(match) {
         return {
           asset: match[1],
@@ -74,7 +74,7 @@
         };
       },
       toBlock: function(obj) {
-        return '^^^ ![]('+obj.asset +') \r\n^^^ '+ obj.quote;
+        return '^^^ ![]('+obj.asset +') \r\n^^^ '+ (obj.quote ?? '');
       },      
       toPreview: function(obj) {
         return (
