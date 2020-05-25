@@ -24,4 +24,5 @@ Congratulations once again!
 **CHORUS WORK AWARD:** *Ragtime*\
 **SCENIC AWARD:** *Arms and the Man*
 
-^^^ ![](/assets/unnamed-17-.jpg)  ^^^ undefined
+^^^ ![](/assets/unnamed-17-.jpg)
+^^^ undefined
