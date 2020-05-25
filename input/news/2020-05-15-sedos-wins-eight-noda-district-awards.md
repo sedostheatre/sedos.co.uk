@@ -25,4 +25,4 @@ Congratulations once again!
 **SCENIC AWARD:** *Arms and the Man*
 
 ^^^ ![](/assets/unnamed-17-.jpg)
-^^^ undefined
+^^^ 

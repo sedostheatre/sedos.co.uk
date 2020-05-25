@@ -13,7 +13,7 @@ Meanwhile, take a look back at these pictures of last year's W*eekend Musical of
 Every day's like an open door\
 Every night is a fantasy\
 Every sound's like a symphony...
-><footer><cite><a href="undefined">undefined</a></cite></footer>
+><footer><cite></cite></footer>
 
 ![](/assets/hairspray.jpg)
-^^^ undefined
+^^^ 
