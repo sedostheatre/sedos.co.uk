@@ -35,7 +35,7 @@ ShortcodeCollection.Add("Quote", (KeyValuePair<string, string>[] args, string co
 
 Pipelines.Add("OldSite",
     ReadFiles("old-site/**/*.*"),
-    Meta("RelativeFilePath", (doc,ctx) => { 
+    Meta("RelativeFilePath", (doc,ctx) => {
         var input = doc["RelativeFilePath"].ToString();
         return input.Substring(input.IndexOf('/') + 1);
     }),
