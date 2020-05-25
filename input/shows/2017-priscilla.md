@@ -62,7 +62,7 @@ sections:
       <!--EndFragment-->
     order: 1
   - title: GALLERY
-    body: >-
+    body: |-
       <a data-flickr-embed="true"
       href="https://www.flickr.com/photos/sedos/albums/72157688993313616"
       title="Priscilla Queen of the Desert The Musical - 2017"><img

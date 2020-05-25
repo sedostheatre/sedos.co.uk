@@ -11,7 +11,7 @@ header-image: assets/images/headers/2018-dogfight-header-image.jpg
 flyer: assets/images/flyers/2018-dogfight-flyer.jpg
 sections:
   - title: CAST AND CREATIVE TEAM
-    body: >-
+    body: |-
       **CAST**
 
 

@@ -60,7 +60,7 @@ sections:
       **COMMITTEE LIAISON** | Tim Garrad
     order: 2
   - title: REVIEWS
-    body: >-
+    body: |-
       >Overall, this is an entertaining and thought-provoking revival that does justice to Rattigan’s neglected work.
       ><footer><cite><a href='http://www.sardinesmagazine.co.uk/reviews/review.php?REVIEW-Sedos-After%20the%20Dance&reviewsID=3542'>Sardines</a></cite></footer>
 

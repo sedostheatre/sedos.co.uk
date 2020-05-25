@@ -16,7 +16,7 @@ header-image: /assets/DL image.jpg
 flyer: /assets/DL FLYER FRONT copy - TEASER.jpg
 sections:
   - title: CAST & CREATIVE TEAM
-    body: >-
+    body: |-
       <!--StartFragment-->
 
 
@@ -81,7 +81,7 @@ sections:
       <!--EndFragment-->
     order: 1
   - title: GALLERY
-    body: >-
+    body: |-
       <a data-flickr-embed="true"
       href="https://www.flickr.com/photos/sedos/albums/72157711030014363"
       title="Dangerous  Liaison - 2019"><img
@@ -90,7 +90,7 @@ sections:
       src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
     order: 2
   - title: REVIEWS
-    body: >-
+    body: |-
       >As a long-time fan of Sedos, I was excited to be able to attend the first night of their first full dance production… Rest assured, my expectations were exceeded on both counts as the evening unfolded into a masterclass of dramatic contemporary dance which fully captured the themes of seduction and revenge of the original play. Each Sedos season showcases a range of plays and musicals, from popular, well-loved classics to lesser-known and newer works which can challenge both cast and audience. Their weekly Sedance class obviously attracts enthusiastic and highly competent dancers, and the decision to use this to add a new artform to their repertoire was brilliant and will hopefully herald more in the future. I can only add that they have set the bar very high with this one… It was a fantastic experience to be in the performance space with the dancers, feeling their every breath, absorbing their energy and watching the skill of their performance. Congratulations to everyone involved for the faith in what you were creating - you achieved what you set out to do with bells on!
       ><footer><cite><a href='http://musicaltheatremusings.co.uk/dangerous-liaisons'>Dangerous Liaisons, 2019, Musical Theatre Musings</a></cite></footer>
 

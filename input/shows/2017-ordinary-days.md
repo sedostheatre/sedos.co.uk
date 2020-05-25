@@ -34,7 +34,7 @@ sections:
       <!--EndFragment-->
     order: 1
   - title: GALLERY
-    body: >-
+    body: |-
       <a data-flickr-embed="true"
       href="https://www.flickr.com/photos/sedos/albums/72157687808907485"
       title="Ordinary Days - 2017"><img
@@ -43,7 +43,7 @@ sections:
       src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
     order: 2
   - title: VIDEO
-    body: >-
+    body: |-
       <div class="video-responsive"><?# YouTube q3WP8EyzhYY /?></div>      
     order: 3
 ---

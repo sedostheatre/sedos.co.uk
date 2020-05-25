@@ -65,7 +65,7 @@ sections:
       <!--EndFragment-->
     order: 1
   - title: GALLERY
-    body: >-
+    body: |-
       <a data-flickr-embed="true"
       href="https://www.flickr.com/photos/sedos/albums/72157701179621261"
       title="Our Country&#x27;s Good - 2018"><img
@@ -75,7 +75,7 @@ sections:
       charset="utf-8"></script>
     order: 2
   - title: REVIEWS
-    body: >-
+    body: |-
       >Strong production of modern classic.
       ><footer><cite><a href='https://www.remotegoat.com/uk/review/14089/strong-production-of-modern-classic/'>Our Country’s Good, 2018, Remote Goat</a></cite></footer>
 

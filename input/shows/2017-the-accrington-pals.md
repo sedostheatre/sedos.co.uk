@@ -35,7 +35,7 @@ sections:
       **PHOTOGRAPHY** | Stephen Russell
     order: 1
   - title: GALLERY
-    body: >-
+    body: |-
       <a data-flickr-embed="true"
       href="https://www.flickr.com/photos/sedos/albums/72157677053010262"
       title="The Accrington Pals - 2017"><img
@@ -45,7 +45,7 @@ sections:
       charset="utf-8"></script>
     order: 2
   - title: VIDEO
-    body: >-
+    body: |-
       <div class="video-responsive"><?# YouTube sLMjq-nqX4w /?></div>
       <div class="video-responsive"><?# YouTube Pd2TOa768eM /?></div>      
     order: 3

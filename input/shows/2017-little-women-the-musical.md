@@ -45,7 +45,7 @@ sections:
       **VISUAL ARTIST** | Lydia Hughes
     order: 1
   - title: GALLERY
-    body: >-
+    body: |-
       <a data-flickr-embed="true"
       href="https://www.flickr.com/photos/sedos/albums/72157681757288974"
       title="Little Women the Musical - 2017"><img
@@ -55,13 +55,13 @@ sections:
       charset="utf-8"></script>
     order: 2
   - title: VIDEO
-    body: >-
+    body: |-
       <div class="video-responsive"><?# YouTube UFBcF3KdRiE /?></div>
 
       <div class="video-responsive"><?# YouTube 69M-HyZZ4rU /?></div>
     order: 3
   - title: PRESS
-    body: >-
+    body: |-
       >The beautiful set design for Sedos’ production, the sheer talent of those playing the March sisters and the clever direction means that I took this award.
       ><footer><cite><a href='http://musicaltheatremusings.co.uk/2017-roundup'>Little Women The Musical, 2017, Musical Theatre Musings (best amateur production of 2017)</a></cite></footer>
 

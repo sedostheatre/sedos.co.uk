@@ -58,7 +58,7 @@ sections:
       <!--EndFragment-->
     order: 1
   - title: GALLERY
-    body: >-
+    body: |-
       <a data-flickr-embed="true"
       href="https://www.flickr.com/photos/sedos/albums/72157704576107721"
       title="Earthquakes in London - 2018"><img
@@ -68,13 +68,13 @@ sections:
       charset="utf-8"></script>
     order: 2
   - title: TRAILER
-    body: >-
+    body: |-
       <div class="video-responsive"><?# YouTube McCnRmeCW0w /?></div>
 
       <div class="video-responsive"><?# YouTube h-hZ2yJOHds /?></div>
     order: 3
   - title: REVIEWS
-    body: >-
+    body: |-
       >It is unfortunate that for too many people, the epithet “amateur” in relation to theatre remains redolent of inexpert performance in draughty church halls by well-meaning performers of limited talent. The reality is that for many groups nowadays, there is an almost invisible line between so called professional performance (ironically not necessarily of the highest quality) and other productions which are only amateur in the sense that participants have not been paid. Sedos specifically states in its programme notes that they “strive for professional standards in both performance and production values” and it is fair to say that they have a well-established reputation in achieving that ambition which has once again been reinforced by this production of Earthquakes in London.
       ><footer><cite><a href='http://musicaltheatremusings.co.uk/earthquakes-in-london'>Earthquakes in London, 2018, Musical Theatre Musings</a></cite></footer>
 

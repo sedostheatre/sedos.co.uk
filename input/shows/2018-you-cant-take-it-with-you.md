@@ -60,7 +60,7 @@ sections:
       <!--EndFragment-->
     order: 1
   - title: GALLERY
-    body: >-
+    body: |-
       <a data-flickr-embed="true"
       href="https://www.flickr.com/photos/sedos/albums/72157693612771604"
       title="You Can&#x27;t Take It With You - 2018"><img
@@ -70,7 +70,7 @@ sections:
       charset="utf-8"></script>
     order: 2
   - title: VIDEO
-    body: >-
+    body: |-
       <div class="video-responsive"><?# YouTube CFSW0e4EAbE /?></div>
 
       <div class="video-responsive"><?# YouTube zR6C27BFSV0 /?></div>
@@ -78,7 +78,7 @@ sections:
       <div class="video-responsive"><?# YouTube MUPbcKWyDEQ /?></div>
     order: 3
   - title: REVIEWS
-    body: >-
+    body: |-
       >I’ve seen a couple of productions from Sedos now and each one of them has really impressed me with the quality of the performances and attention to detail in the staging, and with You Can’t Take it With You, they have delivered another first-rate production.
       ><footer><cite><a href='https://www.lastminutetheatretickets.com/londonwestend/review-you-cant-take-it-with-you-bridewell-theatre/'>You Can’t Take it With You, 2018, lastminutetheatretickets.com</a></cite></footer>
 

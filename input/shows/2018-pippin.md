@@ -75,7 +75,7 @@ sections:
       <!--EndFragment-->
     order: 1
   - title: GALLERY
-    body: >-
+    body: |-
       <a data-flickr-embed="true"
       href="https://www.flickr.com/photos/sedos/albums/72157665408534407"
       title="Pippin - 2018"><img
@@ -84,13 +84,13 @@ sections:
       src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
     order: 2
   - title: VIDEO
-    body: >-
+    body: |-
       <div class="video-responsive"><?# YouTube _DRZBbOSsi8 /?></div>
 
       <div class="video-responsive"><?# YouTube OKzCtNZDzpQ /?></div>      
     order: 3
   - title: REVIEWS
-    body: >-
+    body: |-
       >It’s 45 years since I saw *Pippin* in the West End, and while the themes are certainly still current, the style and the devices can feel a little outdated. Chris Adams’ compelling production, especially at the end, cuts through the tricks and the whimsy to achieve a genuinely moving piece of drama.
       ><footer><cite><a href='https://www.remotegoat.com/uk/review/13861/deliciously-dark-stephen-schwartz-revival/'>Pippin, 2018, Remote Goat</a></cite></footer>
 
