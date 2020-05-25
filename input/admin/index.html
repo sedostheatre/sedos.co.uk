@@ -66,7 +66,7 @@
       id: "figure",
       label: "Figure",
       fields: [{name: 'asset', label: 'Image', widget: 'image', required: true}, {name: 'quote', label: 'Quote', widget: 'string', required: false}],      
-      pattern: /^\^\^\^\s*\!\[\]\((\S*)\)\n*\^\^\^ (.*)$/,
+      pattern: /^\^\^\^\s*\!\[\]\((\S*)\)\n*\^\^\^\s*(.*)$/,
       fromBlock: function(match) {
         return {
           asset: match[1],
@@ -74,7 +74,7 @@
         };
       },
       toBlock: function(obj) {
-        return '^^^ ![]('+obj.asset +') \r\n^^^ '+ (obj.quote ?? '');
+        return '^^^ ![]('+obj.asset +')\r\n^^^ '+ (obj.quote ?? '');
       },      
       toPreview: function(obj) {
         return (
