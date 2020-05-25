@@ -39,16 +39,20 @@
       id: "quote",
       label: "Quote",
       fields: [{name: 'quote', label: 'Quote', widget: 'text'}, {name: 'url', label: 'url', widget: 'string'}, {name: 'cite', label: 'Cite', widget: 'string'}],      
-      pattern: /^>(.*)\n><footer><cite><a href='(\S*)'>(.*)<\/a><\/cite><\/footer>/,
+      pattern: /^>(.*)\n><footer><cite>(?:<a href="(\S*)">(.*)<\/a>)?(?:(.*))?<\/cite><\/footer>/,
       fromBlock: function(match) {
         return {
           quote: match[1],
           url: match[2],
-          cite: match[3]
+          cite: match[3] ?? match[4]
         };
       },
       toBlock: function(obj) {
-        return '>' + obj.quote + '\r\n><footer><cite><a href="' + obj.url + '">' + obj.cite + '</a></cite></footer>'
+        var cite =  obj.cite;
+        if(obj.url) {
+         cite = '<a href="' + obj.url + '">' + obj.cite + '</a>';
+        }
+        return '>' + obj.quote + '\r\n><footer><cite>' + cite + '</cite></footer>'
       },      
       toPreview: function(obj) {
         return (
