@@ -44,7 +44,7 @@
         return {
           quote: match[1],
           url: match[2],
-          cite: match[3] ?? match[4]
+          cite: match[3] || match[4]
         };
       },
       toBlock: function(obj) {
@@ -74,7 +74,7 @@
         };
       },
       toBlock: function(obj) {
-        return '^^^ ![]('+obj.asset +')\r\n^^^ '+ (obj.quote ?? '');
+        return '^^^ ![]('+obj.asset +')\r\n^^^ '+ (obj.quote || '');
       },      
       toPreview: function(obj) {
         return (
