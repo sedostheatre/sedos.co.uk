@@ -175,15 +175,16 @@ sections:
       ><footer><cite><a href='https://myfairtheatregoer.com/2019/11/16/review-ragtime-bridewell-theatre-%E2%8B%86%E2%8B%86%E2%8B%86%E2%8B%86/'>Ragtime, 2019, My Fair Theatregoer</a></cite></footer>
     order: 5
 ---
-**"It was the music\
+>It was the music\
 Of something beginning,\
 An era exploding,\
 A century spinning\
 In riches and rags,\
 And in rhythm and rhyme.\
-The people called it ragtime…"**
+The people called it ragtime…
+><footer><cite>undefined</cite></footer>
 
-AT THE DAWN OF A NEW CENTURY, EVERYTHING IS CHANGING AND ANYTHING IS POSSIBLE
+**At the dawn of the new century, everything is changing and anything is possible.**
 
 *Ragtime* is a sweeping epic musical about the birth of America that weaves together real celebrities and historical events with a timeless tale of three families in pursuit of the American Dream.
 
@@ -194,6 +195,8 @@ A multi award-winning masterpiece from Lynn Ahrens and Stephen Flaherty, with a 
 >A triumph for the stage
 ><footer><cite>Time Magazine</cite></footer>
 
-"The Ultimate Musical for Our Time" - *Huffington Post*
+>The Ultimate Musical for Our Time
+><footer><cite>Huffington Post</cite></footer>
 
-"Explosive and thrilling! Theatre-shaking intensity...*Ragtime* is nothing short of a masterpiece" *\- Bloomberg News*
+>Explosive and thrilling! Theatre-shaking intensity...*Ragtime* is nothing short of a masterpiece
+><footer><cite>Bloomberg News</cite></footer>
