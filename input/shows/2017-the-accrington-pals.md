@@ -55,7 +55,7 @@ sections:
       <div class="video-responsive"><?# YouTube Pd2TOa768eM /?></div>      
     order: 3
 ---
-***The Accrington Pals* is a beautiful play by Peter Whelanabout the women and men from a town during the raising of Kitchener’s Army, duringWorld War I.**
+***The Accrington Pals* is a beautiful play by Peter Whelan about the women and men from a town during the raising of Kitchener’s Army, during World War I.**
 
 This new production will be modern dress; acknowledging that this pithy, often funny, human-interest play has the opportunity to open the audiences view to a sense of history repeating rather than the distance of a centenary war.
 
