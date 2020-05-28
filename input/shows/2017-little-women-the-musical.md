@@ -1,16 +1,17 @@
 ---
 title: Little Women the musical
-year: '2017'
+year: "2017"
 authors: book by ALLAN KNEE
 authors2: music by JASON HOWLAND
 authors3: lyrics by MINDI DICKSTEIN
 subtitle: based on the novel by LOUISA MAY ALCOTT
 showtimes:
-  - time: '2017-06-28 19:30'
-  - time: '2017-06-29 19:30'
-  - time: '2017-06-30 19:30'
-  - time: '2017-07-01 14:30'
-  - time: '2017-07-01 19:30'
+  - time: 2017-06-27 19:30
+  - time: 2017-06-28 19:30
+  - time: 2017-06-29 19:30
+  - time: 2017-06-30 19:30
+  - time: 2017-07-01 14:30
+  - time: 2017-07-01 19:30
 showtime-summary: 27 June-1 July 2017
 venue: Bridewell Theatre
 header-image: /assets/littlewomen-family-800.jpg
@@ -60,16 +61,21 @@ sections:
 
       <div class="video-responsive"><?# YouTube 69M-HyZZ4rU /?></div>
     order: 3
-  - title: PRESS
-    body: |-
-      >The beautiful set design for Sedos’ production, the sheer talent of those playing the March sisters and the clever direction means that I took this award.
+  - title: REVIEWS
+    body: >-
+      >The beautiful set design for Sedos’ production, the sheer talent of those
+      playing the March sisters and the clever direction means that I took this
+      award.
+
       ><footer><cite><a href='http://musicaltheatremusings.co.uk/2017-roundup'>Little Women The Musical, 2017, Musical Theatre Musings (best amateur production of 2017)</a></cite></footer>
 
+
       > On realising that I was going to watch an amateur production I embarrassingly didn’t have high hopes for this production of Little Women the Musical – however, within the first few lines, I was proven very wrong. The Stock Exchange Dramatic and Operatic Society – better known as Sedos – are an amateur company who I now realise deliver professional standard productions. 
+
       ><footer><cite><a href='https://www.londontheatre1.com/reviews/review-little-women-bridewell-theatre/'>Little Women The Musical, 2017, London Theatre 1</a></cite></footer>
     order: 4
 ---
-**“Some books are so familiar that reading them is like being home again.”**
+> **Some books are so familiar that reading them is like being home again.**
 
 Against the backdrop of Civil War, aspiring writer Jo hides from life’s difficulties in her attic and pens stories of adventure.
 
