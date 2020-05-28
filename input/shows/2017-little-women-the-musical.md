@@ -77,7 +77,7 @@ sections:
 ---
 > Some books are so familiar that reading them is like being home again.
 
-Against the backdrop of Civil War, aspiring writer Jo hides from life’s difficulties in her attic and pens stories of adventure.
+**Against the backdrop of Civil War, aspiring writer Jo hides from life’s difficulties in her attic and pens stories of adventure.**
 
 With her father away, Jo and her sisters must learn to negotiate love, loss and life under the ever-loving watch of their beloved Marmee.
 
