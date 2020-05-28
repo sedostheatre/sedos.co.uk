@@ -1,14 +1,14 @@
 ---
 title: Ordinary Days
-year: '2017'
+year: "2017"
 authors: Music and Lyrics | ADAM GWON
-subtitle: ''
+subtitle: ""
 showtimes:
-  - time: '2017-09-27 21:00'
-  - time: '2017-09-28 21:00'
-  - time: '2017-09-29 21:00'
-  - time: '2017-09-30 14:30'
-  - time: '2017-09-30 19:00'
+  - time: 2017-09-27 21:00
+  - time: 2017-09-28 21:00
+  - time: 2017-09-29 21:00
+  - time: 2017-09-30 14:30
+  - time: 2017-09-30 19:30
 showtime-summary: 27-30 September 2017
 header-image: /assets/od-cast-650.jpg
 flyer: /assets/ordinarydays-quickfront.jpg
@@ -43,14 +43,11 @@ sections:
       src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
     order: 2
   - title: VIDEO
-    body: |-
-      <div class="video-responsive"><?# YouTube q3WP8EyzhYY /?></div>      
+    body: '<div class="video-responsive"><?# YouTube q3WP8EyzhYY /?></div>      '
     order: 3
 ---
-<blockquote class="blockquote">
-  <p>\[Ordinary Days] captures with stinging clarity that uneasy moment in youth when doubts begin to cloud hopes for a future of unlimited possibility.</p>
-  <footer class="blockquote-footer-no-dash">Charles Isherwood,<cite title=" The New York Times"> The New York Times</cite></footer>
-</blockquote>
+>[Ordinary Days] captures with stinging clarity that uneasy moment in youth when doubts begin to cloud hopes for a future of unlimited possibility.
+><footer><cite>Charles Isherwood, The New York Times</cite></footer>
 
 **From one of musical theatre's most exciting new composers comes *Ordinary Days*, a refreshingly honest and funny musical about making real connections in the city that never sleeps (but probably should at some point).**
 
