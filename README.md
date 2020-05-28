@@ -4,13 +4,24 @@ The new site for [Sedos](www.sedos.co.uk), built using Wyam.
 
 ## Developing
 
-To run locally (on Windows), run
+### Windows
+To run locally:
 
 ```powershell
 build.ps1 -Target Preview
 ```
 
-and then browse the site on [localhost:5080](localhost:5080).
+### Mac / Linux
+
+#### Pre-requisites
+.NET Core 2.1 is required - installers and binaries are available on the [official download page](https://dotnet.microsoft.com/download/dotnet-core/2.1) 
+
+#### Run
+```shell
+./build.sh --target=Preview
+```
+
+On any platform the site should then be available on [localhost:5080](localhost:5080).
 
 Changes will be rebuilt and the page should update in sync.
 
