@@ -99,7 +99,7 @@ sections:
 
       ><footer><cite><a href="https://www.londontheatre1.com/reviews/priscilla-queen-of-the-desert-review-bridewell-theatre-london/">Priscilla Queen of the Desert, 2017, London Theatre 1</a></cite></footer>
 ---
-> #### **A journey to the heart of fabulous!**
+> A journey to the heart of fabulous!
 
 **A colourful and vibrant spectacular featuring all-time dance and pop hits from the 80’s and 90’s, the story follows the adventure of three friends brought together under unique circumstances. Join them on their travels from the glamour and sparkle of Sydney as they ‘Go West’ into the heart of the Australian continent.**
 
