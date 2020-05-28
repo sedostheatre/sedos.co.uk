@@ -3406,7 +3406,7 @@ blockquote.blockquote footer::before { content: ""; }
 
 @media (max-height: 40rem) { .show-header .show-subtitle { font-size: 1.5em; } }
 
-@media (max-width: 991.98px) { .show-header .show-title { font-size: 3em; margin-bottom: 0; padding-bottom: 0; }
+@media (max-width: 991.98px) { .show-header .show-title { font-size: 2em; margin-bottom: 0; padding-bottom: 0; }
   .show-header .show-authors, .show-header .show-authors-2, .show-header .show-authors-3 { font-size: 1.5em; }
   .show-header .show-subtitle { font-size: 1.3em; }
   .show-header .show-details-bottom .showtime-summary { font-size: 1.3em; } }
