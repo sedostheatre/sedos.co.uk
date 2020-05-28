@@ -72,6 +72,23 @@ sections:
   - title: CREATING THE MONSTER
     body: <div class="video-responsive"><?# YouTube HvMYI_7mDic /?></div>
     order: 4
+  - order: 1
+    title: REVIEWS
+    body: >-
+      >Watching [Jonathon] Cooper’s character progression and journey throughout
+      the whole show was, I felt, a master class in acting.
+
+      ><footer><cite><a href="http://www.sardinesmagazine.co.uk/reviews/review.php?REVIEW-Sedos-Frankenstein&reviewsID=3004">Frankenstein, 2017, Sardines</a></cite></footer>
+
+
+      >What is immediately apparent is that the ‘stars’ of this show are the designers.
+
+      ><footer><cite><a href="https://www.londontheatre1.com/reviews/review-frankenstein-bridewell-theatre/">Frankenstein, 2017, London Theatre 1</a></cite></footer>
+
+
+      >As always, Sedos deserve top marks for their production values.
+
+      ><footer><cite><a href="https://www.remotegoat.com/uk/review/13608/intense-production-of-horror-classic/">Frankenstein, 2017, Remote Goat</a></cite></footer>
 ---
 > Slowly I learnt the ways of humans: how to ruin, how to hate, how to debase, how to humiliate. And at the feet of my master I learnt the highest of human skills, the skill no other creature owns: I finally learnt how to lie.
 
