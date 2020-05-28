@@ -74,7 +74,7 @@
     }
 }
   
-blockquote {
+blockquote.blockquote {
     p {
         text-align: center;
         &::before {
@@ -83,6 +83,7 @@ blockquote {
         &::after {
             content: "”";
         }
+        margin-bottom: 0;
     }
     footer {
         text-align: center;
@@ -90,4 +91,6 @@ blockquote {
             content: "";
         }
     }
+    
+    font-size: 1.1rem;
 }
