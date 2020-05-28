@@ -105,6 +105,6 @@ sections:
 
 Their journey through the desert introduces them to a variety of memorable characters and situations that only three drag queens could encounter. Technicolour outfits, sky-high heels and upbeat anthems entertain from start to finish, but relationships are at the very heart of this story which will keep you smiling, laughing – and singing along!
 
-Based on the Oscar-winning 1994 hit movie, the critically-acclaimed stage musical version of*Priscilla*has played to packed houses all over the world during its journey over the past 10 years.
+Based on the Oscar-winning 1994 hit movie, the critically-acclaimed stage musical version of *Priscilla* has played to packed houses all over the world during its journey over the past 10 years.
 
 *Priscilla Queen of the Desert The Musical* was first presented at the Lyric Theatre, Sydney, on 7 October 2006, directed by Simon Phillips.
