@@ -55,6 +55,5 @@ The Banana Hut Gang are regular attendees at the Simprov drop in, so say hi to J
 
 Follow the [Simprov Facebook page](https://www.facebook.com/groups/176792046058352/) and Sedos newsletters for more details on shows.
 
-![](/assets/Simprov-BHG-Gang.jpg)
-
-*The Banana Hut Gang*
+^^^ ![](/assets/Simprov-BHG-Gang.jpg)
+^^^ The Banana Hut Gang
