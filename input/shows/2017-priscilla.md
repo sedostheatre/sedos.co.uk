@@ -15,7 +15,7 @@ showtimes:
   - time: 2017-12-01 19:30
   - time: 2017-12-02 14:30
   - time: 2017-12-02 19:30
-showtime-summary: Wed 22 Nov - Sat 2 Dec, 7:30pm (Sat matinees 2:30pm)
+showtime-summary: Wed 22 Nov-Sat 2 Dec
 venue: Bridewell Theatre
 header-image: /assets/priscrehearsal-800.jpg
 flyer: /assets/queen-of-the-desert-flyer-front-800.jpg
