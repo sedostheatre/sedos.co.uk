@@ -9,7 +9,7 @@ showtimes:
   - time: 2017-09-28 19:00
   - time: 2017-09-29 19:00
   - time: 2017-09-30 17:00
-showtime-summary: 26-30 Sept
+showtime-summary: 26-30 September 2017
 header-image: /assets/nether-cast-650.jpg
 flyer: /assets/thenether-poster.jpg
 sections:
