@@ -55,7 +55,7 @@ sections:
 ---
 > ##### **Come, come, we must lay aside some of our romance - a little wealth and comfort may be endured after all**
 
-**Written in 1775,*The Rivals* is a classic comedy in the restoration style.**
+**Written in 1775, *The Rivals* is a classic comedy in the restoration style.**
 
 Wealthy, head-strong beauty Lydia Languish, wants to marry a poor man to offend her guardian Aunt and hopefully prompt a romantic elopement. Jack Absolute, himself a wealthy man, learns of this, and adopts the fake identity of Beverley, a poorly paid Ensign, in order to win her affections.
 
