@@ -124,12 +124,9 @@ sections:
       ><footer><cite><a href='http://fairypoweredproductions.com/pippin-review/'>Pippin, 2018, Fairy Powered Productions (****)</a></cite></footer>
     order: 4
 ---
-> Think about your life, Pippin.
->
-> Days are tame and nights the same.
->
-> Now think about the beauty 
->
+> Think about your life, Pippin.\
+> Days are tame and nights the same.\
+> Now think about the beauty \
 > In one perfect flame…
 
 **Meet Pippin. Young, ambitious, full of potential and ready to change the world. But things are never that simple.**
