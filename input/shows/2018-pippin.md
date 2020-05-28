@@ -1,23 +1,22 @@
 ---
 title: Pippin
-year: '2018'
+year: "2018"
 authors: Book by ROGER O. HIRSON
 authors2: Music and Lyrics by STEPHEN SCHWARTZ
-subtitle: >-
-  Meet Pippin. Young, ambitious, full of potential and ready to change the
-  world. But things are never that simple.
+subtitle: Meet Pippin. Young, ambitious, full of potential and ready to change
+  the world. But things are never that simple.
 showtimes:
-  - time: '2018-05-09 19:30'
-  - time: '2018-05-10 19:30'
-  - time: '2018-05-11 19:30'
-  - time: '2018-05-12 19:30'
-  - time: '2018-05-13 19:30'
-  - time: '2018-05-13 14:30'
-  - time: '2018-05-14 19:30'
+  - time: 2018-05-09 19:30
+  - time: 2018-05-10 19:30
+  - time: 2018-05-11 19:30
+  - time: 2018-05-12 19:30
+  - time: 2018-05-13 19:30
+  - time: 2018-05-13 14:30
+  - time: 2018-05-14 19:30
 showtime-summary: 9-19 MAY
 venue: Bridewell Theatre
-ticket-prices: ''
-primary-color: '#0b0f18'
+ticket-prices: ""
+primary-color: "#0b0f18"
 header-image: /assets/leads.jpg
 flyer: /assets/pippin-poster-800.jpg
 sections:
@@ -90,30 +89,48 @@ sections:
       <div class="video-responsive"><?# YouTube OKzCtNZDzpQ /?></div>      
     order: 3
   - title: REVIEWS
-    body: |-
-      >It’s 45 years since I saw *Pippin* in the West End, and while the themes are certainly still current, the style and the devices can feel a little outdated. Chris Adams’ compelling production, especially at the end, cuts through the tricks and the whimsy to achieve a genuinely moving piece of drama.
+    body: >-
+      >It’s 45 years since I saw *Pippin* in the West End, and while the themes
+      are certainly still current, the style and the devices can feel a little
+      outdated. Chris Adams’ compelling production, especially at the end, cuts
+      through the tricks and the whimsy to achieve a genuinely moving piece of
+      drama.
+
       ><footer><cite><a href='https://www.remotegoat.com/uk/review/13861/deliciously-dark-stephen-schwartz-revival/'>Pippin, 2018, Remote Goat</a></cite></footer>
 
+
       >If ever a show was crying out for a large scale return to the West End, then Pippin is the one and, my advice is to all the members of Sedos, give up the day jobs and take it there.
+
       ><footer><cite><a href='https://www.londontheatre1.com/reviews/review-pippin-returns-the-bridewell-theatre-london/'>Pippin, 2018, London Theatre 1 (*****)</a></cite></footer>
 
+
       >For my money the show is good enough to transfer West, half a mile up the road. Certainly, many of the cast could have a second string to their bows in the commercial theatre any time they wanted.
+
       ><footer><cite><a href='http://www.sardinesmagazine.co.uk/reviews/review.php?REVIEW-Sedos-Pippin-&reviewsID=3204'>Pippin, 2018, Sardines (*****)</a></cite></footer>
 
+
       >Pippin is a triumph… highly recommended.
+
       ><footer><cite><a href='https://www.the730review.co.uk/2018/05/11/pippin-sedos-review/'>Pippin, 2018, The 730 Review (****)</a></cite></footer>
 
+
       >It was not good. It was very good... Go to the Bridewell and give some support to these guys. They deserve it!
+
       ><footer><cite><a href='http://www.londontheatrereviews.co.uk/post.cfm?p=303'>Pippin, 2018, London Theatre Reviews (****)</a></cite></footer>
 
+
       >The whole production is more polished and entertaining than many professional shows… In the hands of Sedos, Pippin is a gem of a musical.
+
       ><footer><cite><a href='http://fairypoweredproductions.com/pippin-review/'>Pippin, 2018, Fairy Powered Productions (****)</a></cite></footer>
     order: 4
 ---
-**Think about your life, Pippin. Days are tame and nights the same. Now think about the beauty
-In one perfect flame…**
+> Think about your life, Pippin.\
+>
+> Days are tame and nights the same.\
+>
+> Now think about the beauty In one perfect flame…\
 
-Meet Pippin. Young, ambitious, full of potential and ready to change the world. But things are never that simple.
+**Meet Pippin. Young, ambitious, full of potential and ready to change the world. But things are never that simple.**
 
 Setting out to make his mark, Pippin dabbles with the horrors of war, the lure of sex and the sordid world of politics, failing at every turn. But there is someone Pippin can rely on. Someone he can trust. Someone who can help Pippin be remembered forever… in one final, extraordinary blaze of glory.
 
