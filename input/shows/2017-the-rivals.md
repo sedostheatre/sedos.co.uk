@@ -53,7 +53,7 @@ sections:
     body: <div class="video-responsive"><?# YouTube s_QlADv0oGY /?></div>
     order: 3
 ---
-> Come, come, we must lay aside some of our romance - a little wealth and comfort may be endured after all
+> Come, come, we must lay aside some of our romance - a little wealth and comfort may be endured after all.
 
 **Written in 1775, *The Rivals* is a classic comedy in the restoration style.**
 
