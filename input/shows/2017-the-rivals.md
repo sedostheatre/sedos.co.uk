@@ -10,7 +10,7 @@ showtimes:
   - time: 2017-09-22 19:30
   - time: 2017-09-23 14:30
   - time: 2017-09-23 19:30
-showtime-summary: 19-23 Sept 2017
+showtime-summary: 19-23 September 2017
 venue: Bridewell Theatre
 header-image: /assets/cast-photo-1st-rehearsal-all-smiles-800.jpg
 flyer: /assets/flyer-the-rivals-front-1000.jpg
@@ -53,9 +53,9 @@ sections:
     body: <div class="video-responsive"><?# YouTube s_QlADv0oGY /?></div>
     order: 3
 ---
-##### **“Come, come, we must lay aside some of our romance - a little wealth and comfort may be endured after all”**
+> ##### **Come, come, we must lay aside some of our romance - a little wealth and comfort may be endured after all**
 
-Written in 1775,*The Rivals* is a classic comedy in the restoration style.
+**Written in 1775,*The Rivals* is a classic comedy in the restoration style.**
 
 Wealthy, head-strong beauty Lydia Languish, wants to marry a poor man to offend her guardian Aunt and hopefully prompt a romantic elopement. Jack Absolute, himself a wealthy man, learns of this, and adopts the fake identity of Beverley, a poorly paid Ensign, in order to win her affections.
 
