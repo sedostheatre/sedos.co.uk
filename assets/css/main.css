@@ -3260,15 +3260,17 @@ a.text-lime:hover, a.text-lime:focus { color: #b8bd20 !important; }
 
 .blockquote-footer-no-dash::before { content: ""; }
 
-blockquote p { text-align: center; }
+blockquote.blockquote { font-size: 1.1rem; }
 
-blockquote p::before { content: "“"; }
+blockquote.blockquote p { text-align: center; margin-bottom: 0; }
 
-blockquote p::after { content: "”"; }
+blockquote.blockquote p::before { content: "“"; }
 
-blockquote footer { text-align: center; }
+blockquote.blockquote p::after { content: "”"; }
 
-blockquote footer::before { content: ""; }
+blockquote.blockquote footer { text-align: center; }
+
+blockquote.blockquote footer::before { content: ""; }
 
 .header-carousel .header-carousel-image { background-position-x: center; background-position-y: center; background-size: cover; background-repeat: no-repeat; height: 70vh; border-radius: 0; }
 
