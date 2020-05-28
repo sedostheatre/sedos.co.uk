@@ -10,6 +10,7 @@ showtimes:
   - time: 2017-09-22 19:30
   - time: 2017-09-23 14:30
   - time: 2017-09-23 19:30
+showtime-summary: 19-23 Sept 2017
 venue: Bridewell Theatre
 header-image: /assets/cast-photo-1st-rehearsal-all-smiles-800.jpg
 flyer: /assets/flyer-the-rivals-front-1000.jpg
@@ -49,8 +50,7 @@ sections:
       src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
     order: 2
   - title: VIDEO
-    body: |-
-      <div class="video-responsive"><?# YouTube s_QlADv0oGY /?></div>
+    body: <div class="video-responsive"><?# YouTube s_QlADv0oGY /?></div>
     order: 3
 ---
 ##### **“Come, come, we must lay aside some of our romance - a little wealth and comfort may be endured after all”**
