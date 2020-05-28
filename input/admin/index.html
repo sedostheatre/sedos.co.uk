@@ -43,12 +43,12 @@
       fromBlock: function(match) {
         return {
           quote: match[1],
-          url: match[2],
-          cite: match[3] || match[4]
+          url: match[2] || '',
+          cite: match[3] || match[4] || ''
         };
       },
       toBlock: function(obj) {
-        var cite =  obj.cite;
+        var cite = obj.cite || '';
         if(obj.url) {
          cite = '<a href="' + obj.url + '">' + obj.cite + '</a>';
         }
