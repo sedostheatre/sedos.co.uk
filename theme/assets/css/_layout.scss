@@ -83,6 +83,7 @@ blockquote {
         &::after {
             content: "”";
         }
+        margin-bottom: 0;
     }
     footer {
         text-align: center;
