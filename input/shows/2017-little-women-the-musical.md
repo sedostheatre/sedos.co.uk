@@ -75,7 +75,7 @@ sections:
       ><footer><cite><a href='https://www.londontheatre1.com/reviews/review-little-women-bridewell-theatre/'>Little Women The Musical, 2017, London Theatre 1</a></cite></footer>
     order: 4
 ---
-> **Some books are so familiar that reading them is like being home again.**
+> Some books are so familiar that reading them is like being home again.
 
 Against the backdrop of Civil War, aspiring writer Jo hides from life’s difficulties in her attic and pens stories of adventure.
 
