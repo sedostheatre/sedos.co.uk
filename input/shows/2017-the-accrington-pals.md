@@ -1,9 +1,14 @@
 ---
 title: The Accrington Pals
-year: '2017'
+year: "2017"
 authors: by PETER WHELAN
 showtimes:
-  - time: '2017-02-14 19:30'
+  - time: 2017-02-14 19:30
+  - time: 2017-02-15 19:30
+  - time: 2017-02-16 19:30
+  - time: 2017-02-17 19:30
+  - time: 2017-02-18 15:00
+  - time: 2017-02-18 19:30
 showtime-summary: 14-18 February 2017
 venue: Bridewell Theatre
 header-image: /assets/accringtoncast.png
@@ -50,7 +55,7 @@ sections:
       <div class="video-responsive"><?# YouTube Pd2TOa768eM /?></div>      
     order: 3
 ---
-***The Accrington Pals* is a beautiful play byPeter Whelanabout the women and men from a town during the raising of Kitchener’s Army, duringWorld War I.**
+***The Accrington Pals* is a beautiful play by Peter Whelanabout the women and men from a town during the raising of Kitchener’s Army, duringWorld War I.**
 
 This new production will be modern dress; acknowledging that this pithy, often funny, human-interest play has the opportunity to open the audiences view to a sense of history repeating rather than the distance of a centenary war.
 
