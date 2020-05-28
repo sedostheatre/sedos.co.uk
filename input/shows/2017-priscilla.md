@@ -1,11 +1,21 @@
 ---
 title: Priscilla Queen of the Desert The Musical
-year: '2017'
+year: "2017"
 authors: by Stephan Elliott and Allan Scott
 subtitle: Journey to the heart of fabulous!
 showtimes:
-  - time: '2017-11-22 19:30'
-showtime-summary: 'Wed 22 Nov - Sat 2 Dec, 7:30pm (Sat matinees 2:30pm)'
+  - time: 2017-11-22 19:30
+  - time: 2017-11-23 19:30
+  - time: 2017-11-24 19:30
+  - time: 2017-11-25 14:30
+  - time: 2017-11-25 19:30
+  - time: 2017-11-28 19:30
+  - time: 2017-11-29 19:30
+  - time: 2017-11-30 19:30
+  - time: 2017-12-01 19:30
+  - time: 2017-12-02 14:30
+  - time: 2017-12-02 19:30
+showtime-summary: Wed 22 Nov - Sat 2 Dec, 7:30pm (Sat matinees 2:30pm)
 venue: Bridewell Theatre
 header-image: /assets/priscrehearsal-800.jpg
 flyer: /assets/queen-of-the-desert-flyer-front-800.jpg
@@ -71,10 +81,25 @@ sections:
       2017"></a><script async src="//embedr.flickr.com/assets/client-code.js"
       charset="utf-8"></script>
     order: 2
----
-<!--StartFragment-->
+  - order: 1
+    title: REVIEWS
+    body: >-
+      >A quick exit-poll on the audience provided comments such as 'exuberant',
+      'brilliant', 'didn't want it to end' and 'you'll regret not seeing it.' My
+      favourite has to be 'very pink and gay, but the best kind of gay.'
+      Congratulations to Director / Costume Designer Angus Jacobs, Musical
+      Director Ryan Macaulay and the whole creative team. It might not be as
+      glittery or explosive as a big-budget West End version but it's just as
+      fabulous.
 
-#### **"A journey to the heart of fabulous!"**
+      ><footer><cite><a href="http://www.sardinesmagazine.co.uk/reviews/review.php?REVIEW-SEDOS-Priscilla%20Queen%20of%20the%20Desert%20-%20the%20Musical&reviewsID=3051t">Priscilla Queen of the Desert, 2017, Sardines</a></cite></footer>
+
+
+      >Overall, then I guess it’s pretty obvious I enjoyed Priscilla Queen of the Desert. Sedos have put together and delivered a first-rate show that is fun with a capital ‘F’ and entertaining with a capital ‘E’ from start to finish.
+
+      ><footer><cite><a href="https://www.londontheatre1.com/reviews/priscilla-queen-of-the-desert-review-bridewell-theatre-london/">Priscilla Queen of the Desert, 2017, London Theatre 1</a></cite></footer>
+---
+> #### **A journey to the heart of fabulous!**
 
 **A colourful and vibrant spectacular featuring all-time dance and pop hits from the 80’s and 90’s, the story follows the adventure of three friends brought together under unique circumstances. Join them on their travels from the glamour and sparkle of Sydney as they ‘Go West’ into the heart of the Australian continent.**
 
@@ -83,5 +108,3 @@ Their journey through the desert introduces them to a variety of memorable chara
 Based on the Oscar-winning 1994 hit movie, the critically-acclaimed stage musical version of*Priscilla*has played to packed houses all over the world during its journey over the past 10 years.
 
 *Priscilla Queen of the Desert The Musical* was first presented at the Lyric Theatre, Sydney, on 7 October 2006, directed by Simon Phillips.
-
-<!--EndFragment-->
