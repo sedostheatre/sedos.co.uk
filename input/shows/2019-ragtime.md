@@ -182,7 +182,7 @@ A century spinning\
 In riches and rags,\
 And in rhythm and rhyme.\
 The people called it ragtime…
-><footer><cite>undefined</cite></footer>
+><footer><cite></cite></footer>
 
 **At the dawn of the new century, everything is changing and anything is possible.**
 
