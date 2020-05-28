@@ -38,15 +38,6 @@ sections:
       **COSTUMES** | Deborah Lean
     order: 1
   - title: VIDEO
-    body: |-
-      <a data-flickr-embed="true"
-      href="https://www.flickr.com/photos/sedos/albums/72157688525670345"
-      title="The Nether - 2017"><img
-      src="https://live.staticflickr.com/4438/23481743188_47ae973d11_z.jpg"
-      width="640" height="427" alt="The Nether - 2017"></a><script async
-      src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-    order: 2
-  - title: VIDEO
     body: <div class="video-responsive"><?# YouTube uTJQBTLb66w /?></div>
     order: 3
 ---
