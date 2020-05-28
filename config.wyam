@@ -259,7 +259,7 @@ public IDocument CopyAndResizeImageFromFile(IDocument doc, IExecutionContext ctx
         new IModule[]
         {
             ReadFiles(filename),
-            Image().Resize(width: width, height: height),
+            Image().Resize(width: width, height: height, mode: SixLabors.ImageSharp.Processing.Transforms.ResizeMode.Min),
             WriteFiles()
         },
         new IDocument[] { doc }
