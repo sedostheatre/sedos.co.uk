@@ -4,5 +4,4 @@ row: 1
 column: 3
 image: /assets/your-visit-bridewell-theatre.jpg
 ---
-
-Some content in here about our Box Office, or it could just link straight through
+In light of the announcement by the Government on 16 March 2020, with much sadness, we have taken the difficult but responsible decision to suspend our operations for the time being and postpone a number of upcoming events.
