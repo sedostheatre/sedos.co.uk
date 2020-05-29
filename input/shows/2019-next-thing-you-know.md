@@ -13,38 +13,21 @@ showtimes:
   - time: 2019-03-09 19:30
 showtime-summary: 7.30pm, Sat matinee at 2.30pm
 venue: Bridewell Theatre
-ticket-prices: >-
-  £14.50 - £23
-
-
-  No booking fee. Buy 10 tickets online and get a 10% discount.
-
-
-  All tickets bought on the door must be paid for in cash - we cannot take card payments on the door.
-
-
-  Evening performances: onstage bar opens at 7pm, show commences at 7.30pm.
-
-  Saturday matinée: onstage bar opens at 2pm, show commences at 2.30pm.
+ticket-prices: ""
 primary-color: "#750630"
 header-image: /assets/bar-2209813.jpg
 flyer: /assets/poster.jpg
 sections:
   - title: CAST & CREATIVE TEAM
-    body: |-
-      <!--StartFragment-->
-
-
+    body: >-
       **CAST**
 
-
-      \
 
       **WAVERLY** | Laura Ellis\
 
       **LISA** | Bobbi Mair\
 
-      **DARREN** | Joshua Yeardley / Luke James Leahy*\
+      **DARREN** | Joshua Yeardley / Luke James Leahy\
 
       **LUKE** | Chris Foxwell
 
@@ -52,17 +35,13 @@ sections:
       **ENSEMBLE** | Lauren Clarke, Ellie Jones, Emma J Leaver, Alex Stephenson, Sarah White, Joshua Yeardley / Luke James Leahy (when not playing Darren*)
 
 
-      \
-
       *\*The role of Darren will be played by Joshua Yeardley on **Tuesday**, **Thursday** and **Saturday night** (**5**, **7** and **9 March**), and by Luke James Leahy on **Wednesday**, **Friday** and **Saturday** matinée (**6**, **8** and **9 March**).*
 
 
-      \
+
 
       **CREATIVE TEAM**
 
-
-      \
 
       **DIRECTOR** | Dan Saunders\
 
@@ -79,9 +58,6 @@ sections:
       **SET REALISATION** | Andrew Laidlaw\
 
       **ASSISTANT STAGE MANAGER** | Shiri Stern
-
-
-      <!--EndFragment-->
     order: 1
   - title: GALLERY
     body: <a data-flickr-embed="true"
