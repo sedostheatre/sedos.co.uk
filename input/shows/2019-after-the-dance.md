@@ -1,30 +1,21 @@
 ---
 title: After the Dance
-year: '2019'
-authors: 'by TERRENCE RATTIGAN '
-subtitle: >-
-  “It’s the bright young things over again, only they were never bright and now
-  they’re not even young”
+year: "2019"
+authors: "by TERRENCE RATTIGAN "
+subtitle: “It’s the bright young things over again, only they were never bright
+  and now they’re not even young”
 showtimes:
-  - time: '2019-04-09 19:30'
-  - time: '2019-04-10 19:30'
-  - time: '2019-04-11 19:30'
-  - time: '2019-04-13 14:30'
-  - time: '2019-04-12 19:30'
-  - time: '2019-04-13 19:30'
+  - time: 2019-04-09 19:30
+  - time: 2019-04-10 19:30
+  - time: 2019-04-11 19:30
+  - time: 2019-04-13 14:30
+  - time: 2019-04-12 19:30
+  - time: 2019-04-13 19:30
 showtime-summary: 9-13 April 2019
 venue: Bridewell Theatre
-ticket-prices: >-
-  £11.50 - £20
-
-
-  No booking fee. Buy 10 tickets online and get a 10% discount.
-
-
-  All tickets bought on the door must be paid for in cash - we cannot take card
-  payments on the door.
-primary-color: '#ff6801'
-header-image: /assets/afterthedance-event.jpg
+ticket-prices: ""
+primary-color: "#e7213b"
+header-image: /assets/arms-header.jpg
 flyer: /assets/after-the-dance-flyer-800.jpg
 sections:
   - title: CAST AND CREATIVE TEAM
@@ -60,17 +51,22 @@ sections:
       **COMMITTEE LIAISON** | Tim Garrad
     order: 2
   - title: REVIEWS
-    body: |-
-      >Overall, this is an entertaining and thought-provoking revival that does justice to Rattigan’s neglected work.
+    body: >-
+      >Overall, this is an entertaining and thought-provoking revival that does
+      justice to Rattigan’s neglected work.
+
       ><footer><cite><a target="_blank" href='http://www.sardinesmagazine.co.uk/reviews/review.php?REVIEW-Sedos-After%20the%20Dance&reviewsID=3542'>Sardines</a></cite></footer>
 
+
       >The production, typical of Sedos, is more professional than their amateur dramatics moniker might imply, and is certainly one to consider if you’re a nearby City worker keen to take in some fringe theatre that certainly punches above its weight.
+
       ><footer><cite><a target="_blank" href='http://everything-theatre.co.uk/2019/04/after-the-dance-review.html'>After the Dance, 2019, Everything Theatre</a></cite></footer>
     order: 3
 ---
-**“It’s the bright young things over again, only they were never bright and now they’re not even young”**
+>It’s the bright young things over again, only they were never bright and now they’re not even young
+><footer><cite></cite></footer>
 
-_After the Dance_ by Terence Rattigan is a hilarious, heartbreaking and hauntingly beautiful play. Despite being a critical success when it premiered in 1938, the looming declaration of war meant it was quickly forgotten until a 2010 revival at the National Theatre brought it back to prominence.
+*After the Dance* by Terence Rattigan is a hilarious, heartbreaking and hauntingly beautiful play. Despite being a critical success when it premiered in 1938, the looming declaration of war meant it was quickly forgotten until a 2010 revival at the National Theatre brought it back to prominence.
 
 Written as an attack on the hedonistic lifestyle of the ‘bright young things’ of the 1920s and 30s, the play's action takes place on the eve of the Second World War in the drawing-room of the Scott-Fowlers’ flat in Mayfair, a fashionable part of London. The play focuses on David Scott-Fowler and his wife Joan who revel in their hard-drinking, hard-partying lifestyle and maintain they married for amusement and not love. When a third figure comes into the equation the couple have to face the truth of their lives, to disastrous consequence.
 
