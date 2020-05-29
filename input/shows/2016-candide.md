@@ -80,6 +80,12 @@ sections:
       >“Sedos delivered the production in a classy manner with an incredibly strong cast in everything from their characterisation to music and a strong visual feast for the eyes.”
 
       ><footer><cite><a href="http://musicaltheatremusings.co.uk/candide">Candide, 2016, Musical Theatre Musings</a></cite></footer>
+  - order: 4
+    title: VIDEO
+    body: |-
+      <div class="video-responsive"><?# YouTube v=t91W5p6dX24 /?></div>
+
+      <div class="video-responsive"><?# YouTube v=t91W5p6dX24 /?></div>
 ---
 >The best of all possible worlds
 ><footer><cite></cite></footer>
