@@ -1,19 +1,19 @@
 ---
 title: Lucky Stiff
-year: '2018'
+year: "2018"
 authors: Book and lyrics by LYNN AHRENS
 authors2: Music by STEPHEN FLAHERTY
-subtitle: ''
+subtitle: ""
 showtimes:
-  - time: '2018-09-18 19:30'
-  - time: '2018-09-20 19:30'
-  - time: '2018-09-19 19:30'
-  - time: '2018-09-21 19:30'
-  - time: '2018-09-22 19:30'
-  - time: '2018-09-22 14:30'
+  - time: 2018-09-18 19:30
+  - time: 2018-09-20 19:30
+  - time: 2018-09-19 19:30
+  - time: 2018-09-21 19:30
+  - time: 2018-09-22 19:30
+  - time: 2018-09-22 14:30
 showtime-summary: 18-22 September
 venue: Bridewell Theatre
-primary-color: '#000000'
+primary-color: "#000000"
 header-image: /assets/LukcyStuff-rehearsal2-360.jpg
 flyer: /assets/LuckyStiffFlyerFront-14June-800.jpg
 sections:
@@ -21,7 +21,7 @@ sections:
     body: |-
       <!--StartFragment-->
 
-      CAST
+      **CAST**
 
       **ANNABE**L | Penny Rodie\
       **HARRY** | Jonathan Scott\
@@ -34,7 +34,7 @@ sections:
       **WOMAN** | Lois Dollemore, Rebecca Chisholm, Karla Lyford
 
       \
-      CREATIVE TEAM
+      **CREATIVE TEAM**
 
       **DIRECTOR and DESIGNER** | Roger Harwood\
       **MUSICAL DIRECTOR** | Tim Nelson\
@@ -59,13 +59,16 @@ sections:
       src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
     order: 1
   - title: REVIEWS
-    body: |-
-      >Huge congratulations must go to the whole production team for putting on a fabulous show. This show is a MUST to see and would recommend to anyone.
+    body: >-
+      >Huge congratulations must go to the whole production team for putting on
+      a fabulous show. This show is a MUST to see and would recommend to anyone.
+
       ><footer><cite><a target="_blank" href='http://musicaltheatremusings.co.uk/lucky-stiff'>Lucky Stiff, 2018, Musical Theatre Musings</a></cite></footer>
 
-      >This show was directed with “big show values” – it had colour, glamour, a powerful orchestra, very clever set design and beautifully contrasting performances.
-      ><footer><cite><a target="_blank" href='http://www.sardinesmagazine.co.uk/reviews/review.php?REVIEW-Sedos-Lucky%20Stiff%20-%20%E2%98%85%E2%98%85%E2%98%85%E2%98%85&reviewsID=3327'>Lucky Stiff, 2018, Sardines (****)</a></cite></footer>
 
+      >This show was directed with “big show values” – it had colour, glamour, a powerful orchestra, very clever set design and beautifully contrasting performances.
+
+      ><footer><cite><a target="_blank" href='http://www.sardinesmagazine.co.uk/reviews/review.php?REVIEW-Sedos-Lucky%20Stiff%20-%20%E2%98%85%E2%98%85%E2%98%85%E2%98%85&reviewsID=3327'>Lucky Stiff, 2018, Sardines (****)</a></cite></footer>
     order: 1
 ---
 <!--StartFragment-->
