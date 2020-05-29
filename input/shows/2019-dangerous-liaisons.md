@@ -1,25 +1,22 @@
 ---
 title: Dangerous Liaisons
-year: '2019'
-authors3: ''
+year: "2019"
+authors3: ""
 subtitle: An original dance adaptation
 showtimes:
-  - time: '2019-10-15 19:30'
-  - time: '2019-10-16 19:30'
-  - time: '2019-10-17 19:30'
-  - time: '2019-10-18 19:30'
-  - time: '2019-10-19 15:00'
-  - time: '2019-10-19 18:00'
+  - time: 2019-10-15 19:30
+  - time: 2019-10-16 19:30
+  - time: 2019-10-17 19:30
+  - time: 2019-10-18 19:30
+  - time: 2019-10-19 15:00
+  - time: 2019-10-19 18:00
 showtime-summary: 15-19 October 2019
 venue: Bridewell Theatre
 header-image: /assets/DL image.jpg
 flyer: /assets/DL FLYER FRONT copy - TEASER.jpg
 sections:
   - title: CAST & CREATIVE TEAM
-    body: |-
-      <!--StartFragment-->
-
-
+    body: >-
       **CAST**
 
 
@@ -53,32 +50,26 @@ sections:
       Tallulah Skeete
 
 
-      \
-
       **CREATIVE TEAM**
 
 
-      **DEVISED, DIRECTED and CHOREOGRAPHED BY** | Kimberly Barker and Tom
-      Leonard**\
+      **DEVISED, DIRECTED** and **CHOREOGRAPHED BY** | Kimberly Barker and Tom Leonard~\
 
-      PRODUCER** | Clare Harding**\
+      **PRODUCER** | Clare Harding\
 
-      STAGE MANAGER** | Matt Hudson**\
+      **STAGE MANAGER** | Matt Hudson\
 
-      CREATIVE DESIGN** | Robert J. Stanex**\
+      **CREATIVE DESIGN** | Robert J. Stanex\
 
-      LIGHTING DESIGN** | Olly Levett**\
+      **LIGHTING DESIGN** | Olly Levett\
 
-      SOUND DESIGN** | Adam Coppard**\
+      **SOUND DESIGN** | Adam Coppard\
 
-      FILM PRODUCTION and CREATIVE CONSULTANT** | Olivier Namet**\
+      **FILM PRODUCTION** and **CREATIVE CONSULTANT** | Olivier Namet\
 
-      CREATIVE CONSULTANT** | Dan Saunders\
+      **CREATIVE CONSULTANT** | Dan Saunders\
 
       **PHOTOGRAPHY** | Michael Smith
-
-
-      <!--EndFragment-->
     order: 1
   - title: GALLERY
     body: |-
@@ -90,14 +81,34 @@ sections:
       src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
     order: 2
   - title: REVIEWS
-    body: |-
-      >As a long-time fan of Sedos, I was excited to be able to attend the first night of their first full dance production… Rest assured, my expectations were exceeded on both counts as the evening unfolded into a masterclass of dramatic contemporary dance which fully captured the themes of seduction and revenge of the original play. Each Sedos season showcases a range of plays and musicals, from popular, well-loved classics to lesser-known and newer works which can challenge both cast and audience. Their weekly Sedance class obviously attracts enthusiastic and highly competent dancers, and the decision to use this to add a new artform to their repertoire was brilliant and will hopefully herald more in the future. I can only add that they have set the bar very high with this one… It was a fantastic experience to be in the performance space with the dancers, feeling their every breath, absorbing their energy and watching the skill of their performance. Congratulations to everyone involved for the faith in what you were creating - you achieved what you set out to do with bells on!
+    body: >-
+      >As a long-time fan of Sedos, I was excited to be able to attend the first
+      night of their first full dance production… Rest assured, my expectations
+      were exceeded on both counts as the evening unfolded into a masterclass of
+      dramatic contemporary dance which fully captured the themes of seduction
+      and revenge of the original play. Each Sedos season showcases a range of
+      plays and musicals, from popular, well-loved classics to lesser-known and
+      newer works which can challenge both cast and audience. Their weekly
+      Sedance class obviously attracts enthusiastic and highly competent
+      dancers, and the decision to use this to add a new artform to their
+      repertoire was brilliant and will hopefully herald more in the future. I
+      can only add that they have set the bar very high with this one… It was a
+      fantastic experience to be in the performance space with the dancers,
+      feeling their every breath, absorbing their energy and watching the skill
+      of their performance. Congratulations to everyone involved for the faith
+      in what you were creating - you achieved what you set out to do with bells
+      on!
+
       ><footer><cite><a target="_blank" href='http://musicaltheatremusings.co.uk/dangerous-liaisons'>Dangerous Liaisons, 2019, Musical Theatre Musings</a></cite></footer>
 
+
       >A performance of this style is incredibly ambitious for any professional dance troop. What makes this more impressive is that an amateur dramatics society created all of this. Sedos are known for their incredibly high-quality shows, but Dangerous Liaisons has put them on a whole different level. This production with these incredible performers would not be out of place on a West End stage.
+
       ><footer><cite><a target="_blank" href='http://www.londontheatrereviews.co.uk/post.cfm?p=1820'>Dangerous Liaisons, 2019, London Theatre Reviews (*****)</a></cite></footer>
 
+
       >The dancing is gorgeous, athletic and very expressive. The performance space is tiny, so you are up close and personal with the dancers/actors, and they absolutely carry you along with the story… Sedos is an amateur company, but there is nothing amateurish about this show – it’s ambitious, clever and exciting, but also beautifully economical and precise.
+
       ><footer><cite><a target="_blank" href='http://fairypoweredproductions.com/dangerous-liaisons-review/'>Dangerous Liaisons, 2019, Fairy Powered Productions (****)</a></cite></footer>
     order: 3
 ---
