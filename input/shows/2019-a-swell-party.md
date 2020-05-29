@@ -1,22 +1,23 @@
 ---
 title: A Swell Party
-year: '2019'
+year: "2019"
 authors: Music and Lyrics by COLE PORTER
 authors2: Written by JOHN KANE
 authors3: Conceived by DAVID KERNAN
 subtitle: A celebration of the life & work of COLE PORTER
 showtimes:
-  - time: '2019-06-02 16:00'
-  - time: '2019-06-10 20:00'
-  - time: '2019-06-11 12:00'
-  - time: '2019-06-11 20:00'
-  - time: '2019-06-12 20:00'
-  - time: '2019-06-13 12:00'
-  - time: '2019-06-13 20:00'
-  - time: '2019-06-14 20:00'
+  - time: 2019-06-02 16:00
+  - time: 2019-06-10 20:00
+  - time: 2019-06-11 12:00
+  - time: 2019-06-11 20:00
+  - time: 2019-06-12 20:00
+  - time: 2019-06-13 12:00
+  - time: 2019-06-13 20:00
+  - time: 2019-06-14 20:00
 showtime-summary: 2 June & 10-14 June 2019
 venue: Rayne Theatre & Minack Theatre
-header-image: /assets/SwellParty-Minack-1-360.jpg
+primary-color: "#1b1b1d"
+header-image: /assets/swell-header.jpg
 flyer: /assets/SwellParty-A5-FRONT-800.jpg
 sections:
   - title: CAST & CREATIVE TEAM
