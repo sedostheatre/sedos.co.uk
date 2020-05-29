@@ -175,16 +175,15 @@ sections:
       ><footer><cite><a target="_blank" href='https://myfairtheatregoer.com/2019/11/16/review-ragtime-bridewell-theatre-%E2%8B%86%E2%8B%86%E2%8B%86%E2%8B%86/'>Ragtime, 2019, My Fair Theatregoer</a></cite></footer>
     order: 5
 ---
->It was the music\
-Of something beginning,\
-An era exploding,\
-A century spinning\
-In riches and rags,\
-And in rhythm and rhyme.\
-The people called it ragtime…
-><footer><cite></cite></footer>
+> It was the music\
+> Of something beginning,\
+> An era exploding,\
+> A century spinning\
+> In riches and rags,\
+> And in rhythm and rhyme.\
+> The people called it ragtime…
 
-**At the dawn of the new century, everything is changing and anything is possible.**
+At the dawn of the new century, everything is changing and anything is possible.
 
 *Ragtime* is a sweeping epic musical about the birth of America that weaves together real celebrities and historical events with a timeless tale of three families in pursuit of the American Dream.
 
