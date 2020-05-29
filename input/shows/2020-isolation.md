@@ -5,10 +5,11 @@ authors2: by Sedos members
 subtitle: When creatives are forced to isolate; the show must go on!
 showtimes:
   - time: 2020-04-19 12:00
-  - time: 2020-07-31 13:28
+  - time: 2020-07-31 22:00
 showtime-summary: Online during lockdown
 venue: ""
-ticket-prices: ""
+ticket-prices: Isolation videos will be released throughout lockdown on Facebook
+  and the Sedos YouTube channel.
 primary-color: "#19346b"
 header-image: /assets/isolation-coronavirus.jpg
 flyer: /assets/isolation-portrait.jpeg
