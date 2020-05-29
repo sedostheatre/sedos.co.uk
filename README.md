@@ -1,6 +1,6 @@
 # Sedos
 
-The new site for [Sedos](www.sedos.co.uk), built using Wyam.
+The new site for [Sedos](https://www.sedos.co.uk), built using Wyam.
 
 ## Developing
 
@@ -21,7 +21,7 @@ build.ps1 -Target Preview
 ./build.sh --target=Preview
 ```
 
-On any platform the site should then be available on [localhost:5080](localhost:5080).
+On any platform the site should then be available on [localhost:5080](http://localhost:5080).
 
 Changes will be rebuilt and the page should update in sync.
 
