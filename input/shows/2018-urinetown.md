@@ -26,8 +26,7 @@ sections:
     body: |-
       <!--StartFragment-->
 
-      CAST
-
+      **CAST**\
       \
       **HOPE CLADWELL** | Miranda Evans\
       **BOBBY STRONG** | Joe McWilliam\
@@ -52,8 +51,7 @@ sections:
       Tasila Banda, Amy Carmichael, Jessie Davidson, Adrian Hau, Josh Yeardley
 
       \
-      **CREATIVE TEAM**
-
+      **CREATIVE TEAM**\
       \
       **DIRECTOR** | Yojiro Ichikawa\
       **MUSICAL DIRECTOR** | Ryan Macaulay\
