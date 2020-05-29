@@ -65,13 +65,13 @@ sections:
   - order: 3
     title: REVIEWS
     body: >-
-      > “The result is an irreverent, apt, ever topical musical… it’s in
+      > The result is an irreverent, apt, ever topical musical… it’s in
       excellent hands with Sedos which, as usual, achieves a near professional
       standard… A jolly good evening’s entertainment, then. All credit to this
-      production and all who sail in her.”
+      production and all who sail in her.
 
 
-      >“Sedos delivered the production in a classy manner with an incredibly strong cast in everything from their characterisation to music and a strong visual feast for the eyes.”
+      >Sedos delivered the production in a classy manner with an incredibly strong cast in everything from their characterisation to music and a strong visual feast for the eyes.
 
       ><footer><cite><a href="http://musicaltheatremusings.co.uk/candide">Candide, 2016, Musical Theatre Musings</a></cite></footer>
   - order: 4
