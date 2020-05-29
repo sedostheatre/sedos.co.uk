@@ -83,9 +83,7 @@ sections:
     body: |-
       <div class="video-responsive"><?# YouTube t91W5p6dX24 /?></div>
 
-
-
-      <div class="video-responsive"><?# YouTube t91W5p6dX24 /?></div>
+      <div class="video-responsive"><?# YouTube v=3f-7giI1GsA /?></div>
 ---
 >The best of all possible worlds
 ><footer><cite></cite></footer>
