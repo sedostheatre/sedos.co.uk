@@ -2,6 +2,7 @@
 title: One Man, Two Guvnors
 year: "2016"
 authors: by RICHARD BEAN
+subtitle: A new production of the award-winning National Theatre comedy play
 showtimes:
   - time: 2016-10-04 19:30
   - time: 2016-10-05 19:30
@@ -57,4 +58,4 @@ But Roscoe is really Rachel, his sister, posing as her brother who has been kill
 
 Henshall takes an opportunity to make a few extra bob helping Stubbers as well as Roscoe. To avoid them finding out, he tries to keep his two guvnors apart.
 
-In Richard Bean’s modern re-telling of Carlo Goldini’s The Servant of Two Masters, that is easier said than done.
+In Richard Bean’s modern re-telling of Carlo Goldini’s *The Servant of Two Masters*, that is easier said than done.
