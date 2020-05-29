@@ -10,7 +10,7 @@ showtimes:
   - time: 2016-10-08 14:30
   - time: 2016-10-08 19:30
 primary-color: "#070707"
-header-image: /assets/onman.jpg
+header-image: /assets/onman2.jpg
 flyer: /assets/om2g-flyerfront-600.jpg
 box-office-open: false
 sections:
