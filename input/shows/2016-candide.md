@@ -36,7 +36,9 @@ sections:
       **VANDERDENDUR** | Chris Starkey
 
       **FEMALE ENSEMBLE:**\
-      Francesca Canty Becky Chisholm Jess Davidson
+      Francesca Canty \
+      Becky Chisholm \
+      Jess Davidson \
       Victoria Greenway
       Georgie Sheppard
       Rowena Turner
@@ -44,7 +46,9 @@ sections:
       Laura Williams
 
       **MALE ENSEMBLE:**\
-      Nick Dore Paul Francis Tim Garrad
+      Nick Dore \
+      Paul Francis \
+      Tim Garrad \
       Stephen Hewitt
       Ben Press
 
