@@ -7,7 +7,7 @@ recurrence: Mondays at 7.10pm
 ---
 #### **DURING LOCKDOWN, SEDANCE HAS MOVED ONLINE TO ZOOM. [FIND OUT MORE](https://www.facebook.com/groups/328763023951811/)**
 
-**Sedance is Sedos’ weekly dance class, running every Monday night, 7.10-9pm, at [1 Brewers’ Hall Garden, London EC2V 5DX](https://sedos.l3v5y.co.uk/venues/bhg) (nearest tube is Moorgate)**
+**Sedance is Sedos’ weekly dance class, running every Monday night, 7.10-9pm, at [1 Brewers’ Hall Garden, London EC2V 5DX](/venues/bhg) (nearest tube is Moorgate)**
 
 What better way to get in shape, improve your technique or simply enjoy the buzz of dancing? (And it's a great excuse for a cheeky pop to the local hostelry on a Monday evening to catch up with what's going on in Sedos!)
 

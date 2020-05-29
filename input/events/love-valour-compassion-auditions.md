@@ -11,7 +11,7 @@ recurrence: 19 and 22 March
 **Three long weekends.**\
 **One last summer.**
 
-Winner of the 1995 Tony Award for Best Play, *[Love! Valour! Compassion](https://sedos.l3v5y.co.uk/shows/2020-love-valour-compassion)!* is a monumental exploration into life, love and loss at the end of the millennium.
+Winner of the 1995 Tony Award for Best Play, *[Love! Valour! Compassion](/shows/2020-love-valour-compassion)!* is a monumental exploration into life, love and loss at the end of the millennium.
 
 As hilarious as it is heart-breaking, Terence McNally's seminal work captures the zeitgeist of 90s America and forces the question - when reality hits home, who and what is most important to us?
 

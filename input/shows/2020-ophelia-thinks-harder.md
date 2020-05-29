@@ -50,7 +50,7 @@ sections:
 ---
 <!--StartFragment-->
 
-#### **THIS SHOW HAS BEEN POSTPONED. [FIND OUT MORE](https://sedos.l3v5y.co.uk/news/2020-03-26-a-message-to-our-members-and-friends).**
+#### **THIS SHOW HAS BEEN POSTPONED. [FIND OUT MORE](/news/2020-03-26-a-message-to-our-members-and-friends).**
 
 > Artists, scholars, poets and princes will travel the world to see me... I shall pass into myth!
 
