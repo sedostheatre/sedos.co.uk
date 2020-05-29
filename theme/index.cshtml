@@ -88,6 +88,7 @@ float-nav: true
         @{
             var latestNews = Documents["News"]
                 .OrderByDescending(newsArticle => newsArticle.Get<DateTime>("date"))
+                .ThenBy(newsArticle => newsArticle.Get<String>("title"))
                 .Take(4);
             foreach(var article in latestNews)
             {
