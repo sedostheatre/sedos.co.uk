@@ -36,11 +36,11 @@ sections:
       **PRODUCER** | Clare Harding\
       **LEAD CHOREOGRAPHER** | Deborah Lean\
       **GUEST CHOREOGRAPHERS** | Danielle Capretti, Mary Bennett, Olivier Namet\
-      **ASSISTANT DIRECTOR** |Chris Foxwell\
+      **ASSISTANT DIRECTOR** | Chris Foxwell\
       **LIGHTING DESIGNER** | Martin Walton\
       **COSTUME DESIGNER** | Frederica Byron\
-      **SOUND DESIGNER** |Henry Whittaker\
-      **STAGE MANAGER** |Shiri Stern\
+      **SOUND DESIGNER** | Henry Whittaker\
+      **STAGE MANAGER** | Shiri Stern\
       **COMMITTEE LIAISON** | Olly Levett
 
       <!--EndFragment-->
