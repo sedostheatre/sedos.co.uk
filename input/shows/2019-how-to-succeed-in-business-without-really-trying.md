@@ -8,8 +8,9 @@ showtimes:
   - time: 2019-05-15 19:30
 showtime-summary: 15-25 May 2019
 venue: Bridewell Theatre
-header-image: /assets/A4 poster AW_print-crop-square-360.jpg
-flyer: /assets/HTSWRT-flyer front-800.jpg
+primary-color: "#d63228"
+header-image: ""
+flyer: /assets/how-to-header.jpg
 sections:
   - title: CAST & CREATIVE TEAM
     body: >-
