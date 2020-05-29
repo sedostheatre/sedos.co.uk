@@ -17,6 +17,7 @@ showtimes:
   - time: 2016-12-02 19:30
   - time: 2016-12-03 14:30
   - time: 2016-12-03 19:30
+header-image: /assets/sedoswebsite-banner-candide.jpg
 flyer: /assets/candude-flyerfront-800-3.jpg
 box-office-open: false
 sections:
