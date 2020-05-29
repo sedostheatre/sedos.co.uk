@@ -25,19 +25,18 @@ sections:
     title: CAST & CREATIVE TEAM
     body: |-
       **VANDERDENDUR** | Mark Siddall \
-      **CUNEGONDE** | Emma Morgan
-      **PANGLOSS/VOLTAIRE** | Stephen Russell
-      **PAQUETTE** | Kate Gledhill
-      **MARTIN** | Stephen Beeny
-      **CACAMBO** | Peter Shimmin
-      **MAXIMILLIAN** | Sam Brassington
-      **OLD WOMAN** | Tal Hewitt
-      **GOVERNOR** | Paul Cozens
+      **CUNEGONDE** | Emma Morgan \
+      **PANGLOSS/VOLTAIRE** | Stephen Russell \
+      **PAQUETTE** | Kate Gledhill \
+      **MARTIN** | Stephen Beeny \
+      **CACAMBO** | Peter Shimmin \
+      **MAXIMILLIAN** | Sam Brassington \
+      **OLD WOMAN** | Tal Hewitt \
+      **GOVERNOR** | Paul Cozens \
       **VANDERDENDUR** | Chris Starkey
 
       **FEMALE ENSEMBLE:**\
-      Francesca Canty Becky Chisholm
-      Jess Davidson
+      Francesca Canty Becky Chisholm Jess Davidson
       Victoria Greenway
       Georgie Sheppard
       Rowena Turner
@@ -45,17 +44,16 @@ sections:
       Laura Williams
 
       **MALE ENSEMBLE:**\
-      Nick Dore Paul Francis
-      Tim Garrad
+      Nick Dore Paul Francis Tim Garrad
       Stephen Hewitt
       Ben Press
 
       **CREATIVES**
 
       **DIRECTOR** | Michael Smith \
-      **MUSICAL DIRECTOR** | Matt Gould
-      **ASSISTANT DIRECTOR** | Roger Harwood
-      **CHOREOGRAPHER** | Jane Saunders
+      **MUSICAL DIRECTOR** | Matt Gould \
+      **ASSISTANT DIRECTOR** | Roger Harwood \
+      **CHOREOGRAPHER** | Jane Saunders \
       **PRODUCER** | Lizzie Drapper
   - order: 2
     title: GALLERY
@@ -67,14 +65,10 @@ sections:
   - order: 3
     title: REVIEWS
     body: >-
-      >“The result is an irreverent, apt, ever topical musical… it’s in
+      > “The result is an irreverent, apt, ever topical musical… it’s in
       excellent hands with Sedos which, as usual, achieves a near professional
       standard… A jolly good evening’s entertainment, then. All credit to this
       production and all who sail in her.”
-
-
-
-      ><footer><cite><a href="http://www.sardinesmagazine.co.uk/reviews/review.php?REVIEW-Sedos-Candide&reviewsID=2644">Candide, 2016, Sardines</a></cite></footer>
 
 
       >“Sedos delivered the production in a classy manner with an incredibly strong cast in everything from their characterisation to music and a strong visual feast for the eyes.”
