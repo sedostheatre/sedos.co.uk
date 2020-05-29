@@ -24,7 +24,7 @@ ShortcodeCollection.Add("Quote", (KeyValuePair<string, string>[] args, string co
     var arguments = args.ToDictionary(context, "Cite", "Url");
     if(arguments.ContainsKey("cite") && arguments.ContainsKey("url"))
     {
-        return $"<blockquote class='blockquote text-center'>“{content.Trim()}”<footer class='blockquote-footer-no-dash'><cite><a title='{arguments.String("cite")}' href='{arguments.String("url")}'>{arguments.String("cite")}</a></cite></footer></blockquote>";
+        return $"<blockquote class='blockquote text-center'>“{content.Trim()}”<footer class='blockquote-footer-no-dash'><cite><a target='_blank' title='{arguments.String("cite")}' href='{arguments.String("url")}'>{arguments.String("cite")}</a></cite></footer></blockquote>";
     }
     if(arguments.ContainsKey("cite"))
     {
