@@ -19,20 +19,6 @@ System.Globalization.CultureInfo.DefaultThreadCurrentCulture = System.Globalizat
 Settings["title"] = "Sedos";
 ContentStreamFactory = new MemoryContentStreamFactory();
 
-ShortcodeCollection.Add("Quote", (KeyValuePair<string, string>[] args, string content, IDocument document, IExecutionContext context) =>
-{
-    var arguments = args.ToDictionary(context, "Cite", "Url");
-    if(arguments.ContainsKey("cite") && arguments.ContainsKey("url"))
-    {
-        return $"<blockquote class='blockquote text-center'>“{content.Trim()}”<footer class='blockquote-footer-no-dash'><cite><a title='{arguments.String("cite")}' href='{arguments.String("url")}'>{arguments.String("cite")}</a></cite></footer></blockquote>";
-    }
-    if(arguments.ContainsKey("cite"))
-    {
-        return $"<blockquote class='blockquote text-center'>“{content.Trim()}”<footer class='blockquote-footer-no-dash'><cite>{arguments.String("cite")}</cite></footer></blockquote>";
-    }
-    return $"<blockquote class='blockquote text-center'>“{content.Trim()}”</blockquote>";
-});
-
 Pipelines.Add("OldSite",
     ReadFiles("old-site/**/*.*"),
     Meta("RelativeFilePath", (doc,ctx) => {
