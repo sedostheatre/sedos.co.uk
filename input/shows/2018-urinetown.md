@@ -1,25 +1,25 @@
 ---
 title: Urinetown
-year: '2018'
+year: "2018"
 authors: Music and Lyrics by MARK HOLLMANN
 authors2: Book and Lyrics by GREG KOTIS
 subtitle: Tomorrow will not stink!
 showtimes:
-  - time: '2018-11-21 19:30'
-  - time: '2018-11-22 19:30'
-  - time: '2018-11-23 19:30'
-  - time: '2018-11-24 19:30'
-  - time: '2018-11-24 14:30'
-  - time: '2018-11-28 19:30'
-  - time: '2018-11-29 19:30'
-  - time: '2018-11-30 19:30'
-  - time: '2018-12-01 19:30'
-  - time: '2018-12-01 14:30'
+  - time: 2018-11-21 19:30
+  - time: 2018-11-22 19:30
+  - time: 2018-11-23 19:30
+  - time: 2018-11-24 19:30
+  - time: 2018-11-24 14:30
+  - time: 2018-11-28 19:30
+  - time: 2018-11-29 19:30
+  - time: 2018-11-30 19:30
+  - time: 2018-12-01 19:30
+  - time: 2018-12-01 14:30
 showtime-summary: 21 November-1 December 2018
 venue: Bridewell Theatre
-ticket-prices: ''
-primary-color: '#912d2b'
-header-image: ''
+ticket-prices: ""
+primary-color: "#e4c97a"
+header-image: /assets/urinetown-small-header.jpg
 flyer: /assets/urinetown poster-360.png
 sections:
   - title: CAST & CREATIVE TEAM
@@ -78,8 +78,7 @@ sections:
       charset="utf-8"></script>
     order: 2
   - title: VIDEO
-    body: |-
-      <div class="video-responsive"><?# YouTube iijwhhQ6PtU /?></div>
+    body: <div class="video-responsive"><?# YouTube iijwhhQ6PtU /?></div>
     order: 3
 ---
 <!--StartFragment-->
