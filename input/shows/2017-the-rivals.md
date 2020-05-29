@@ -2,7 +2,7 @@
 title: The Rivals
 year: "2017"
 authors: by RICHARD BRINSLEY SHERIDAN
-subtitle: By Richard Brinsley Sheridan
+subtitle: A classic comedy in the restoration style
 showtimes:
   - time: 2017-09-19 19:30
   - time: 2017-09-20 19:30
