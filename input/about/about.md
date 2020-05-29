@@ -8,7 +8,7 @@ image: /assets/aboutus-armandtheman.jpg
 \
 Sedos is a registered charity (no. 1173896) with 340 members and stages eight to ten shows a year. We have been the resident theatre company at the Bridewell Theatre since 2012 and most of our season takes place there, although we also perform in other venues.\
 \
-Sedos is an amateur company, but we strive for professional standards in both performance and production values. [You can read reviews of our shows here.](https://sedos.l3v5y.co.uk/about/in-the-press)
+Sedos is an amateur company, but we strive for professional standards in both performance and production values. [You can read reviews of our shows here.](/about/in-the-press)
 
 ## A Potted History
 

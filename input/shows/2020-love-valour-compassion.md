@@ -26,7 +26,7 @@ sections:
 ---
 <!--StartFragment-->
 
-#### **THIS SHOW HAS BEEN POSTPONED. [FIND OUT MORE](https://sedos.l3v5y.co.uk/news/2020-03-26-a-message-to-our-members-and-friends).**
+#### **THIS SHOW HAS BEEN POSTPONED. [FIND OUT MORE](/news/2020-03-26-a-message-to-our-members-and-friends).**
 
 **Eight gay men.**\
 **Three long weekends.**\
@@ -36,7 +36,7 @@ Winner of the 1995 Tony Award for Best Play, *Love! Valour! Compassion!* is a mo
 
 As hilarious as it is heart-breaking, Terrence McNally's seminal work captures the zeitgeist of 90s America and forces the question - when reality hits home, who and what is most important to us?
 
-We are looking for a diverse group of seven strong character actors to stage this seldom performed piece. [See auditions information here.](https://sedos.l3v5y.co.uk/events/love-valour-compassion-auditions) 
+We are looking for a diverse group of seven strong character actors to stage this seldom performed piece. [See auditions information here.](/events/love-valour-compassion-auditions) 
 
 *This amateur production is presented by arrangement with Josef Weinberger Ltd.*
 

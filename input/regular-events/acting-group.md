@@ -29,4 +29,4 @@ Sat 20 June
 
 Sat 18 July
 
-The sessions start at 10am and last until approximately 1pm at [1 Brewers' Hall Garden, London EC2V 5DX](https://sedos.l3v5y.co.uk/venues/bhg)
+The sessions start at 10am and last until approximately 1pm at [1 Brewers' Hall Garden, London EC2V 5DX](/venues/bhg)

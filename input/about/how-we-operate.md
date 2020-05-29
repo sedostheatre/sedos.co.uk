@@ -6,7 +6,7 @@ image: /assets/aboutus-trustees-19-20.jpg
 ---
 Sedos is a Charitable Incorporated Association.
 
-**[Click here to read the constitution](https://sedos.l3v5y.co.uk/assets/SedosConstitution.pdf)**.
+**[Click here to read the constitution](/assets/SedosConstitution.pdf)**.
 
 Sedos' charitable objects are:
 
@@ -65,4 +65,4 @@ Andy Hind
 
 ## Groups
 
-Sedos has a [marketing group](https://sedos.l3v5y.co.uk/groups/marketing), a [production group](https://sedos.l3v5y.co.uk/groups/production) and a [membership group](https://sedos.l3v5y.co.uk/groups/membership), all of which contribute to the day to day operations of the society. Anyone can volunteer to get involved in these groups.
+Sedos has a [marketing group](/groups/marketing), a [production group](/groups/production) and a [membership group](/groups/membership), all of which contribute to the day to day operations of the society. Anyone can volunteer to get involved in these groups.

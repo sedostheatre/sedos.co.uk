@@ -57,4 +57,4 @@ sections:
 
 For *Ordinary Days*, Adam Gwon won the 2008 Fred Ebb Award for excellence in musical theatre songwriting and the 2011 Kleban Award in the Lyricist category.
 
-**PLEASE NOTE**: *Ordinary Days* is being performed as part of a two show evening of theatre and will take place after performances of drama *[The Nether](https://sedos.l3v5y.co.uk/shows/2017-the-nether)*.
+**PLEASE NOTE**: *Ordinary Days* is being performed as part of a two show evening of theatre and will take place after performances of drama *[The Nether](/shows/2017-the-nether)*.

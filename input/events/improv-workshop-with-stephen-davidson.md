@@ -22,6 +22,6 @@ Date: 21 March 2020
 
 Time: 12-4pm
 
-Location: [1 Brewers' Hall Garden, London EC2V 5DX](https://sedos.l3v5y.co.uk/venues/bhg)
+Location: [1 Brewers' Hall Garden, London EC2V 5DX](/venues/bhg)
 
 Cost: £8 for non-members and £5 for members
