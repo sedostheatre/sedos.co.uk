@@ -29,7 +29,7 @@ sections:
 **BHG LONDON PREVIEW** | 9 August , from 7.30pm | FREE\
 **GREENSIDE @ INFIRMARY STREET** | 19-24 August 2019
 
-**Join the [Banana Hut Gang](https://sedos.l3v5y.co.uk/regular-events/simprov) as they create a brave new (and WIP!) improvised world where you get to call the shots. Keep the story on track, derail it completely, or start again...**
+**Join the [Banana Hut Gang](/regular-events/simprov) as they create a brave new (and WIP!) improvised world where you get to call the shots. Keep the story on track, derail it completely, or start again...**
 
 What do you want to see? A marriage or a funeral? An abandoned spaceship or a creepy dungeon? A murder or a resurrection? In Choose Your Own... Improv!, you decide. Join the Banana Hut Gang as they create a brave new improvised world where you get to call the shots.
 

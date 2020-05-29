@@ -49,4 +49,4 @@ sections:
 
 The internet has evolved into the Nether, a vast network of virtual reality realms. Users may log in, choose an identity, and indulge any desire. When Detective Morris investigates a realm called The Hideaway where people with a sexual interest in children may live out their fantasies involving children, she brings its creator in for interrogation. They discover they have made emotional attachments in his realm that blind them to the greater questions of ethical behavior, both in the imagination and the outside world.
 
-**PLEASE NOTE:** *The Nether* is being performed as part of a two show evening of theatre and will take place before performances of contemporary musical *[Ordinary Days](https://sedos.l3v5y.co.uk/shows/2017-ordinary-days)*.
+**PLEASE NOTE:** *The Nether* is being performed as part of a two show evening of theatre and will take place before performances of contemporary musical *[Ordinary Days](/shows/2017-ordinary-days)*.
