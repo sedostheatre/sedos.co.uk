@@ -18,7 +18,7 @@ primary-color: "#e7213b"
 header-image: /assets/arms-header.jpg
 flyer: /assets/after-the-dance-flyer-800.jpg
 sections:
-  - title: CAST AND CREATIVE TEAM
+  - title: CAST & CREATIVE TEAM
     body: |-
       **CAST**
 
