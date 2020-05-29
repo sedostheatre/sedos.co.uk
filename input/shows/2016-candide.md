@@ -57,6 +57,29 @@ sections:
       **ASSISTANT DIRECTOR** | Roger Harwood
       **CHOREOGRAPHER** | Jane Saunders
       **PRODUCER** | Lizzie Drapper
+  - order: 2
+    title: GALLERY
+    body: <a data-flickr-embed="true" href="https://www.flickr.com/gp/sedos/28s7t4"
+      title="Candide - 2016"><img
+      src="https://live.staticflickr.com/5519/31090552832_486d5fd8d8_z.jpg"
+      width="640" height="480" alt="Candide - 2016"></a><script async
+      src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+  - order: 3
+    title: REVIEWS
+    body: >-
+      >“The result is an irreverent, apt, ever topical musical… it’s in
+      excellent hands with Sedos which, as usual, achieves a near professional
+      standard… A jolly good evening’s entertainment, then. All credit to this
+      production and all who sail in her.”
+
+
+
+      ><footer><cite><a href="http://www.sardinesmagazine.co.uk/reviews/review.php?REVIEW-Sedos-Candide&reviewsID=2644">Candide, 2016, Sardines</a></cite></footer>
+
+
+      >“Sedos delivered the production in a classy manner with an incredibly strong cast in everything from their characterisation to music and a strong visual feast for the eyes.”
+
+      ><footer><cite><a href="http://musicaltheatremusings.co.uk/candide">Candide, 2016, Musical Theatre Musings</a></cite></footer>
 ---
 >The best of all possible worlds
 ><footer><cite></cite></footer>
