@@ -3433,6 +3433,8 @@ blockquote.blockquote footer::before { content: ""; }
 
 .sidebar-flyer img { height: 100%; }
 
+iframe.flickr-embed-frame { height: 427px !important; }
+
 .about-section { background: #499fcd; padding-bottom: 15px; padding-top: 15px; }
 
 .about-card .card-body { overflow: hidden; padding-bottom: 20px; }
