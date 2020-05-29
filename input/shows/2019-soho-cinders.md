@@ -1,25 +1,22 @@
 ---
 title: Soho Cinders
-year: '2019'
+year: "2019"
 authors: Music by George Stiles | Lyrics by Anthony Drewe
 authors2: Book by Anthony Drewe and Elliot Davies
 subtitle: Midnight is just the start
 showtimes:
-  - time: '2019-07-10 19:30'
-  - time: '2019-07-11 19:30'
-  - time: '2019-07-12 19:30'
-  - time: '2019-07-13 19:30'
-  - time: '2019-07-13 14:30'
+  - time: 2019-07-10 19:30
+  - time: 2019-07-11 19:30
+  - time: 2019-07-12 19:30
+  - time: 2019-07-13 19:30
+  - time: 2019-07-13 14:30
 showtime-summary: 10-13 July 2019
 venue: Bridewell theatre
 header-image: /assets/SohoCindersCast-360.jpg
 flyer: /assets/SohoCindersFlyerFront-800.jpg
 sections:
   - title: CAST & CREATIVE TEAM
-    body: |-
-      <!--StartFragment-->
-
-
+    body: >-
       **CAST**
 
 
@@ -70,19 +67,14 @@ sections:
       Vaughan Watts
 
 
-      **\
+      **CREATIVE TEAM**
 
-      CREATIVE TEAM**
-
-
-      \
 
       **DIRECTOR** | Angus Jacobs\
 
-      **MUSICAL DIRECTOR and PRODUCER** | Ryan Macaulay\
+      **MUSICAL DIRECTOR and PRODUCER** | Ryan Macaulay~\
 
-      **ASSOCIATE CHOREOGRAPHERS** | Gayle Bryans, Eloise Menezes and Vaughan
-      Watts\
+      **ASSOCIATE CHOREOGRAPHERS** | Gayle Bryans, Eloise Menezes and Vaughan Watts\
 
       **SET DESIGN** | Andrew Laidlaw\
 
@@ -95,9 +87,6 @@ sections:
       **MARKETING** | Pippa Kyle\
 
       **STAGE MANAGER** | Lizzie Levett
-
-
-      <!--EndFragment-->
     order: 1
   - title: GALLERY
     body: |-
@@ -109,8 +98,11 @@ sections:
       src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
     order: 1
   - title: REVIEWS
-    body: |-
-      >A hearty and sincere production, it’s a more complex story than the traditional fairy-tale from which it is adapted, but it’s a lively and engaging one at that.
+    body: >-
+      >A hearty and sincere production, it’s a more complex story than the
+      traditional fairy-tale from which it is adapted, but it’s a lively and
+      engaging one at that.
+
       ><footer><cite><a target="_blank" href='https://www.londontheatre1.com/reviews/musical/stiles-drewes-soho-cinders-at-the-bridewell-theatre/'>Soho Cinders, 2019, London Theatre 1</a></cite></footer>
     order: 3
 ---
