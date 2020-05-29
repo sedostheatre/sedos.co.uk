@@ -1,9 +1,9 @@
 ---
 title: Candide
 year: "2016"
-authors: Music by Leonard Bernstein
-authors2: Book adapted from Voltaire by Hugh Wheeler
-authors3: Lyrics by Richard Wilbur
+authors: Music by LEONARD BERNSTEIN
+authors2: Book adapted from VOLTAIRE by HUGH WHEELER
+authors3: Lyrics by RICHARD WILBUR
 subtitle: The best of all possible worlds!
 showtimes:
   - time: 2016-11-23 19:30
