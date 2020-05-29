@@ -1,17 +1,19 @@
 ---
 title: Dogfight
-year: '2018'
-authors: 'Benj Paske, Justin Paul and Peter Duchan'
+year: "2018"
+authors: Benj Paske, Justin Paul and Peter Duchan
+subtitle: |
+  A contemporary musical by the authors of Dear Evan Hansen
 showtimes:
-  - time: '2018-03-06 19:30'
+  - time: 2018-03-06 19:30
 showtime-summary: 23-27 January
 venue: bridewell
-primary-color: '#555500'
+primary-color: "#555500"
 header-image: assets/images/headers/2018-dogfight-header-image.jpg
 flyer: assets/images/flyers/2018-dogfight-flyer.jpg
 sections:
   - title: CAST AND CREATIVE TEAM
-    body: |-
+    body: >-
       **CAST**
 
 
@@ -27,11 +29,12 @@ sections:
 
       **LOUNGE SINGER** | Dan Saunders\
 
-      **MALE SUPPORTING CAST** | Chris Foxwell, Adrian Hau, Matt Morden and Josh
-      Yeardley\
 
-      **FEMALE SUPPORTING CAST** | Laura Ellis, Sarah Johnson, Charlotte Levy,
-      Louise Roberts and Penny Rodie
+      **MALE SUPPORTING CAST** | Chris Foxwell, Adrian Hau, Matt Morden and Josh Yeardley\
+
+      \
+
+      **FEMALE SUPPORTING CAST** | Laura Ellis, Sarah Johnson, Charlotte Levy, Louise Roberts and Penny Rodie
 
 
       **CREATIVE TEAM**
@@ -48,8 +51,6 @@ sections:
       **LIGHTING DESIGNER** | Olly Levett
     order: 1
 float-nav: true
-subtitle: |
-  A contemporary musical by the authors of Dear Evan Hansen
 ---
 **"The whole damn world might change tomorrow So we go for broke today"**
 
