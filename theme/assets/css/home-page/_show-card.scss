@@ -10,7 +10,7 @@
 
     .show-card {
         @include media-breakpoint-up(sm) {
-            background: $sedos-blue;
+            background-color: $sedos-blue;
         }
         
         width: 100%;
