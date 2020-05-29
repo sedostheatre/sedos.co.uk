@@ -77,9 +77,11 @@ sections:
   - order: 4
     title: VIDEO
     body: |-
-      <div class="video-responsive"><?# YouTube v=t91W5p6dX24 /?></div>
+      <div class="video-responsive"><?# YouTube t91W5p6dX24 /?></div>
 
-      <div class="video-responsive"><?# YouTube v=t91W5p6dX24 /?></div>
+
+
+      <div class="video-responsive"><?# YouTube t91W5p6dX24 /?></div>
 ---
 >The best of all possible worlds
 ><footer><cite></cite></footer>
