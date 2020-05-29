@@ -58,6 +58,22 @@ sections:
       width="640" height="427" alt="One Man, Two Guvnors - 2016"></a><script
       async src="//embedr.flickr.com/assets/client-code.js"
       charset="utf-8"></script>
+  - order: 3
+    body: >-
+      >I have seen quite a lot of Sedos productions over the last few years, and
+      their shows are of a consistent excellent quality. They are undoubtedly a
+      collection of extremely talented directors, actors and performers. One
+      Man, Two Guv’nors upheld that high expectation and did not disappoint; the
+      show was of professional standard with even the smallest parts giving
+      consistent high quality performances.
+
+      ><footer><cite><a href="http://www.sardinesmagazine.co.uk/reviews/review.php?REVIEW-Sedos-One%20Man,%20Two%20Guvnors&reviewsID=2581">One Man, Two Guvnors, 2016, Sardines</a></cite></footer>
+
+
+      >Sedos is an amateur dramatic company, but the acting is easily on par with the professional show I saw previously. In fact, having seen Sedos in action before, it seems they are once again blurring the lines between professional and amateur theatre. In particular, they prove that the quality of a show is determined by those involved – and not whether anyone is getting paid.
+
+      ><footer><cite><a href="https://www.westendwilma.com/review-one-man-two-guvnors-bridewell/">One Man, Two Guvnors, 2016, West End Wilma</a></cite></footer>
+    title: REVIEWS
 ---
 **A new production of the award-winning National Theatre comedy play.**
 
