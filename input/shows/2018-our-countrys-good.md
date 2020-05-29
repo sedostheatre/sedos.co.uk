@@ -1,27 +1,20 @@
 ---
 title: Our Country's Good
-year: '2018'
+year: "2018"
 authors: by TIMBERLAKE WERTENBAKER
 subtitle: A modern classic exploring crime and punishment and the power of theatre
 showtimes:
-  - time: '2018-10-23 19:30'
-  - time: '2018-10-24 19:30'
-  - time: '2018-10-25 19:30'
-  - time: '2018-10-26 19:30'
-  - time: '2018-10-27 19:30'
-  - time: '2018-10-27 14:30'
+  - time: 2018-10-23 19:30
+  - time: 2018-10-24 19:30
+  - time: 2018-10-25 19:30
+  - time: 2018-10-26 19:30
+  - time: 2018-10-27 19:30
+  - time: 2018-10-27 14:30
 showtime-summary: 23-27 October 2018
-venue: Bridewell Theatre
-ticket-prices: >-
-  Tickets: £14 (concessions £11.50) unless otherwise stated, see below for
-  special performances.
-
-
-  A limited number of Premium Tickets are available for £16 (concessions
-  £13.50). Premium Tickets guarantee you a seat in the best rows in the house.
-  Note they are unreserved within the premium block.
-primary-color: '#0b0f18'
-header-image: '/assets/OCH-headshotmontage].jpg'
+venue: ""
+ticket-prices: ""
+primary-color: "#0b0f18"
+header-image: /assets/OCH-headshotmontage].jpg
 flyer: /assets/Our countrys good A5_front-800.jpg
 sections:
   - title: CAST & CREATIVE TEAM
@@ -75,24 +68,29 @@ sections:
       charset="utf-8"></script>
     order: 2
   - title: REVIEWS
-    body: |-
+    body: >-
       >Strong production of modern classic.
+
       ><footer><cite><a target="_blank" href='https://www.remotegoat.com/uk/review/14089/strong-production-of-modern-classic/'>Our Country’s Good, 2018, Remote Goat</a></cite></footer>
 
+
       >I think this production of Our Country’s Good is the best non-professional 'straight' play (musicals are a different animal) I have ever seen. Of course that’s partly down to the strength of Wertenbaker’s timeless, topical, funny, poignant, horrifying text. But it’s also a huge credit to the talented Sedos cast and their director, Chloe Robertson.
+
       ><footer><cite><a target="_blank" href='http://www.sardinesmagazine.co.uk/reviews/review.php?REVIEW-Sedos-Our+Countrys+Good&reviewsID=3362'>Our Country’s Good, 2018, Sardines</a></cite></footer>
 
+
       >It’s easy to forget that Sedos are an amateur company – their production values and talented casts are always of such a high standard. Sedos’s production of Our Country’s Good, 30 years on from it’s Royal Court premiere, is another stunning success.
+
       ><footer><cite><a target="_blank" href='http://fairypoweredproductions.com/our-countrys-good-review-3/?fbclid=IwAR21VRGOfvlcyQ5Aq7qHEEFm3KIJyrBUDoIn7rcO6NHpvFJVbR127yyA6jw'>Our Country’s Good, 2018, Fairy Powered Productions</a></cite></footer>
     order: 3
 ---
-***"From distant climes, o’er wide-spread seas we come, Though not with much eclat or beat of drum,
-True patriots all; for be it understood,
+>From distant climes, o’er wide-spread seas we come, Though not with much eclat or beat of drum, True patriots all; for be it understood,
 We left our country for our country’s good;
 No private views disgrac’d our generous zeal,
 What urg’d our travels was our country’s weal;
 And none will doubt but that our emigration
-Has prov’d most useful, to the British nation."***
+Has prov’d most useful, to the British nation.
+><footer><cite></cite></footer>
 
 30 years on from its premiere at the Royal Court, *Our Country's Good* is a modern classic, exploring themes of crime, punishment and the unifying and civilising power of theatre.
 
