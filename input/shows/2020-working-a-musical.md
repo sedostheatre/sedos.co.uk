@@ -12,6 +12,8 @@ venue: Bridewell Theatre
 primary-color: "#000000"
 header-image: /assets/working-skyline.jpg
 flyer: /assets/Working Poster Final Proof-800.png
+RedirectFrom: 
+ - '2020/working.htm'
 sections:
   - order: 1
     title: CAST & CREATIVE TEAM
