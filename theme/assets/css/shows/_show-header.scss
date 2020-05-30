@@ -108,18 +108,24 @@
         }
 
         .show-title {
-            font-size: 3em;
+            font-size: 2em;
             padding-bottom: 0.25em;
         }
 
+        .show-authors,
+        .show-authors-2,
+        .show-authors-3  {
+            font-size: 1.2em;
+        }
+
         .show-subtitle {
-            font-size: 1.5em;
+            font-size: 1.2em;
             max-width: 100%;
         }
 
         .show-details-bottom {
             .showtime-summary {
-                font-size: 1.5em;
+                font-size: 1.2em;
             }
         }
 
