@@ -3412,9 +3412,10 @@ blockquote.blockquote footer::before { content: ""; }
   .show-header .show-details-bottom .showtime-summary { font-size: 1.3em; } }
 
 @media (max-width: 767.98px) { .show-header .show-details { padding-top: 0; }
-  .show-header .show-title { font-size: 3em; padding-bottom: 0.25em; }
-  .show-header .show-subtitle { font-size: 1.5em; max-width: 100%; }
-  .show-header .show-details-bottom .showtime-summary { font-size: 1.5em; }
+  .show-header .show-title { font-size: 2em; padding-bottom: 0.25em; }
+  .show-header .show-authors, .show-header .show-authors-2, .show-header .show-authors-3 { font-size: 1.2em; }
+  .show-header .show-subtitle { font-size: 1.2em; max-width: 100%; }
+  .show-header .show-details-bottom .showtime-summary { font-size: 1.2em; }
   .show-header .show-details { text-align: center; }
   .show-header .show-details { padding-top: 1em; }
   .show-header .show-header-image { min-height: 30vh; } }
