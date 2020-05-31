@@ -14,18 +14,14 @@ sections:
   - order: 1
     title: CAST & CREATIVE TEAM
     body: |-
-      <!--StartFragment-->
-
       **CREATIVE TEAM**
 
-      **DIRECTOR & DESIGNER**| Robert J. Stanex\
-      **PRODUCER**| Rebecca Chisholm\
-      **CHOREOGRAPHER**| Kimberly Barker
-
-      <!--EndFragment-->
+      **DIRECTOR & DESIGNER** | Robert J. Stanex\
+      **PRODUCER** | Rebecca Chisholm\
+      **CHOREOGRAPHER** | Kimberly Barker
+RedirectFrom:
+  - 2020/LoveValourCompassion.htm
 ---
-<!--StartFragment-->
-
 #### **THIS SHOW HAS BEEN POSTPONED. [FIND OUT MORE](/news/2020-03-26-a-message-to-our-members-and-friends).**
 
 **Eight gay men.**\
@@ -39,5 +35,3 @@ As hilarious as it is heart-breaking, Terrence McNally's seminal work captures t
 We are looking for a diverse group of seven strong character actors to stage this seldom performed piece. [See auditions information here.](/events/love-valour-compassion-auditions) 
 
 *This amateur production is presented by arrangement with Josef Weinberger Ltd.*
-
-<!--EndFragment-->
