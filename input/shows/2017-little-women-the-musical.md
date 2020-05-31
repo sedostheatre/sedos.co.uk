@@ -1,10 +1,10 @@
 ---
 title: Little Women the musical
 year: "2017"
-authors: book by ALLAN KNEE
-authors2: music by JASON HOWLAND
-authors3: lyrics by MINDI DICKSTEIN
-subtitle: based on the novel by LOUISA MAY ALCOTT
+authors: Book by ALLAN KNEE
+authors2: Music by JASON HOWLAND
+authors3: Lyrics by MINDI DICKSTEIN
+subtitle: Based on the novel by LOUISA MAY ALCOTT
 showtimes:
   - time: 2017-06-27 19:30
   - time: 2017-06-28 19:30
@@ -74,6 +74,8 @@ sections:
 
       ><footer><cite><a target="_blank" href='https://www.londontheatre1.com/reviews/review-little-women-bridewell-theatre/'>Little Women The Musical, 2017, London Theatre 1</a></cite></footer>
     order: 4
+RedirectFrom:
+  - 2017/littlewomen.htm
 ---
 > Some books are so familiar that reading them is like being home again.
 
