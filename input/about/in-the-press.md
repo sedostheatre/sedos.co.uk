@@ -175,10 +175,7 @@ image: /assets/aboutus-inthepress.jpg
 >I’ve seen a couple of productions from Sedos now and each one of them has really impressed me with the quality of the performances and attention to detail in the staging, and with You Can’t Take it With You, they have delivered another first-rate production.
 ><footer><cite><a target="_blank" href="https://www.lastminutetheatretickets.com/londonwestend/review-you-cant-take-it-with-you-bridewell-theatre/">You Can’t Take it With You, 2018, lastminutetheatretickets.com</a></cite></footer>
 
->Sedos has never been, and never will be, just another ‘amateur’ company! Their work stands out dramatically in so many ways. They achieve the highest possible standards on stage whilst nurturing the skills of their very talented team of players, directors, set and costume designers.
-><footer><cite><a target="_blank" href="http://www.infobarrel.com/You_Cant_Take_it_With_You_-_A_Sedos_Production">You Can’t Take it With You, 2018, Infobarrel</a></cite></footer>
-
->Another outstanding performance! As in all comedies timing and teamwork are the vital ingredients and Sedos are experts at timing. They successfully maintain their American accents throughout and their attention to detail, particularly to costumes and set design, is excellent.
+>Sedos has never been, and never will be, just another ‘amateur’ company! Their work stands out dramatically in so many ways. They achieve the highest possible standards on stage whilst nurturing the skills of their very talented team of players, directors, set and costume designers… Another outstanding performance! As in all comedies timing and teamwork are the vital ingredients and Sedos are experts at timing. They successfully maintain their American accents throughout and their attention to detail, particularly to costumes and set design, is excellent.
 ><footer><cite><a target="_blank" href="http://www.infobarrel.com/You_Cant_Take_it_With_You_-_A_Sedos_Production">You Can’t Take it With You, 2018, Infobarrel</a></cite></footer>
 
 >What a pleasurable and delightful play this is. I could go on at length about certain aspects in this production of You Can’t Take It With You that don’t make a lot of sense, but rather like The Addams Family, the eccentricities are what make the characters in this bizarre and chaotic – but nonetheless hilarious- so compelling and unique.
