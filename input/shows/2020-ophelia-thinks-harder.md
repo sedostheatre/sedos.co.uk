@@ -8,7 +8,7 @@ subtitle: A riotous reworking of Hamlet.
 showtimes:
   - time: 2020-06-01 19:30
 showtime-summary: THIS SHOW HAS BEEN POSTPONED
-venue: bridewell
+venue: Bridewell Theatre
 primary-color: "#b21b60"
 header-image: /assets/ophelia-thinks-harder-landscape.jpg
 flyer: /assets/2020-02-16-ophelia-flyer-front-800.png
@@ -47,9 +47,9 @@ sections:
 
       <!--EndFragment-->
     order: 1
+RedirectFrom:
+  - 2020/opheliathinksharder.htm
 ---
-<!--StartFragment-->
-
 #### **THIS SHOW HAS BEEN POSTPONED. [FIND OUT MORE](/news/2020-03-26-a-message-to-our-members-and-friends).**
 
 > Artists, scholars, poets and princes will travel the world to see me... I shall pass into myth!
@@ -61,5 +61,3 @@ The Prince is a hazard and the new King’s a puppet. Who the hell is running De
 With guerilla feminists invading the castle, failed spells from a frustrated maid, endless direction from a wily Queen and various ignored ghosts, this is not the Hamlet you know.
 
 *Ophelia Thinks Harder* is a heightened, confused and darkly-funny world, where Shakespeare meets feminism. And this time Ophelia gets all the best lines.
-
-<!--EndFragment-->
