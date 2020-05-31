@@ -8,8 +8,8 @@ showtimes:
   - time: 2019-04-09 19:30
   - time: 2019-04-10 19:30
   - time: 2019-04-11 19:30
-  - time: 2019-04-13 14:30
   - time: 2019-04-12 19:30
+  - time: 2019-04-13 14:30
   - time: 2019-04-13 19:30
 showtime-summary: 9-13 April 2019
 venue: Bridewell Theatre
@@ -62,11 +62,12 @@ sections:
 
       ><footer><cite><a target="_blank" href='http://everything-theatre.co.uk/2019/04/after-the-dance-review.html'>After the Dance, 2019, Everything Theatre</a></cite></footer>
     order: 3
+RedirectFrom:
+  - 2019/afterthedance.htm
 ---
->It’s the bright young things over again, only they were never bright and now they’re not even young
-><footer><cite></cite></footer>
+> It’s the bright young things over again, only they were never bright and now they’re not even young
 
-*After the Dance* by Terence Rattigan is a hilarious, heartbreaking and hauntingly beautiful play. Despite being a critical success when it premiered in 1938, the looming declaration of war meant it was quickly forgotten until a 2010 revival at the National Theatre brought it back to prominence.
+***After the Dance* by Terence Rattigan is a hilarious, heartbreaking and hauntingly beautiful play. Despite being a critical success when it premiered in 1938, the looming declaration of war meant it was quickly forgotten until a 2010 revival at the National Theatre brought it back to prominence.**
 
 Written as an attack on the hedonistic lifestyle of the ‘bright young things’ of the 1920s and 30s, the play's action takes place on the eve of the Second World War in the drawing-room of the Scott-Fowlers’ flat in Mayfair, a fashionable part of London. The play focuses on David Scott-Fowler and his wife Joan who revel in their hard-drinking, hard-partying lifestyle and maintain they married for amusement and not love. When a third figure comes into the equation the couple have to face the truth of their lives, to disastrous consequence.
 
