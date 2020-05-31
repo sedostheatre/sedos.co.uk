@@ -1,7 +1,7 @@
 ---
 title: The Nether
 year: "2017"
-authors: by JENNIFER HALEY
+authors: By JENNIFER HALEY
 subtitle: ""
 showtimes:
   - time: 2017-09-26 19:00
