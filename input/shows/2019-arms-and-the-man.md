@@ -52,7 +52,7 @@ sections:
       src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
     order: 1
   - order: 3
-    title: REVIEWS
+    title: REVIEW
     body: >-
       >Produced by the technically amateur Sedos theatre company this is another
       production from them which deserves a transfer to the West End. It’s a
