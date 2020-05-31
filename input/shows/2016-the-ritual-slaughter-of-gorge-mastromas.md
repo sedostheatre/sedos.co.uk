@@ -52,15 +52,11 @@ sections:
 RedirectFrom:
   - 2016/ritualslaughterofgorgemastromas.htm
 ---
-> **The three golden rules.**
->
-> **Whenever you want something take it.**
->
-> **All that is required to take everything you want is absolute will and an ability to lie to the depths of your heart.**
->
-> **Never think of the outcome, assume discovery, embrace each second as if it were your last.**
->
-> **Never every regret.**
+> **The three golden rules.**\
+> **Whenever you want something take it.**\
+> **All that is required to take everything you want is absolute will and an ability to lie to the depths of your heart.**\
+> **Never think of the outcome, assume discovery, embrace each second as if it were your last.**\
+> **Never ever regret.**
 
 **A pantheon of seven unnamed gods, lost in time, recall to the audience the life of Gorge Mastromas. A dark epic tale chronicling the life of Gorge Mastromas, a Kane-like figure who rises to become one of the richest, most influential and ruthless people in the world.**
 
