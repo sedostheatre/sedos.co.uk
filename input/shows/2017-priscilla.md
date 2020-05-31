@@ -1,7 +1,7 @@
 ---
 title: Priscilla Queen of the Desert The Musical
 year: "2017"
-authors: by Stephan Elliott and Allan Scott
+authors: By Stephan Elliott and Allan Scott
 subtitle: Journey to the heart of fabulous!
 showtimes:
   - time: 2017-11-22 19:30
@@ -98,6 +98,8 @@ sections:
       >Overall, then I guess it’s pretty obvious I enjoyed Priscilla Queen of the Desert. Sedos have put together and delivered a first-rate show that is fun with a capital ‘F’ and entertaining with a capital ‘E’ from start to finish.
 
       ><footer><cite><a target="_blank" href="https://www.londontheatre1.com/reviews/priscilla-queen-of-the-desert-review-bridewell-theatre-london/">Priscilla Queen of the Desert, 2017, London Theatre 1</a></cite></footer>
+RedirectFrom:
+  - https://sedos.co.uk/2017/priscilla.htm
 ---
 > A journey to the heart of fabulous!
 
