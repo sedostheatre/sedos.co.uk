@@ -40,6 +40,15 @@ sections:
       **LIGHTING DESIGNER** | Robin Snowden\
       **LIGHTING OPERATOR** | Verity Sleeman\
       **SOUND** | Steven King and Amanda Liu
+  - order: 2
+    title: GALLERY
+    body: <a data-flickr-embed="true"
+      href="https://www.flickr.com/photos/sedos/29927559726/in/album-72157670731019014/"
+      title="The Ritual Slaughter of Gorge Mastromas - 2016"><img
+      src="https://www.flickr.com/photos/sedos/29334961523/in/album-72157670731019014/"
+      width="640" height="480" alt="The Ritual Slaughter of Gorge Mastromas -
+      2016"></a><script async src="//embedr.flickr.com/assets/client-code.js"
+      charset="utf-8"></script>
 RedirectFrom:
   - 2016/ritualslaughterofgorgemastromas.htm
 ---
