@@ -1,7 +1,7 @@
 ---
 title: A Doll's House
 year: "2018"
-authors: by HENRIK IBSEN
+authors: By HENRIK IBSEN
 authors2: English language version by SIMON STEPHENS
 subtitle: ""
 showtimes:
