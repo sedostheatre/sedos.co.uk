@@ -59,7 +59,6 @@ Pipelines.Add("Venues",
 Pipelines.Add("AllShows",
     ReadFiles("shows/*.md"),
     FrontMatter(Yaml()),
-    WriteFiles(".html").OnlyMetadata(),
     Meta("has-body-content",  (doc, ctx) => !string.IsNullOrWhiteSpace(doc.Content)),
     Markdown()
         .UseExtension<Markdig.Extensions.Bootstrap.BootstrapExtension>()
@@ -70,8 +69,7 @@ Pipelines.Add("AllShows",
     Meta("sections", (doc, ctx) => doc.Get("sections", Enumerable.Empty<IDocument>()).OrderBy(d => d.Get("order", 1)).Select(d => ProcessMarkdown(d, ctx))),
     Razor().WithViewStart("Layout/_ShowViewStart.cshtml"),
     Shortcodes(),
-    Redirect().WithAdditionalOutput("_redirects", redirects => string.Join(Environment.NewLine, redirects.Select(r => $"/{r.Key} {r.Value}"))),
-    WriteFiles()
+    WriteFiles(".html")
 );
 
 Pipelines.Add("FutureShows",
@@ -215,6 +213,12 @@ Pipelines.Add("ImageAssets",
 
 Pipelines.Add("NetlifyAdmin",
     CopyFiles("admin/**/*.*")
+);
+
+Pipelines.Add("Redirects",
+    Documents("AllShows"),
+    Redirect().WithAdditionalOutput("_redirects", redirects => string.Join(Environment.NewLine, redirects.Select(r => $"/{r.Key} {r.Value}"))),
+    WriteFiles()
 );
 
 public static string TrimIfStartsWith(
