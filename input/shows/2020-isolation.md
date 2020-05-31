@@ -1,7 +1,7 @@
 ---
 title: "Isolation: A Lockdown Experiment"
 year: "2020"
-authors2: by Sedos members
+authors2: By Sedos members
 subtitle: When creatives are forced to isolate; the show must go on!
 showtimes:
   - time: 2020-04-19 12:00
@@ -14,6 +14,8 @@ primary-color: "#19346b"
 header-image: /assets/isolation-coronavirus.jpg
 flyer: /assets/isolation-portrait.jpeg
 sections: []
+RedirectFrom:
+  - 2020/isolation.htm
 ---
 **When physical performance spaces go dark and creatives are forced to isolate, communities, more than ever, need theatre. The show must go on!**
 
