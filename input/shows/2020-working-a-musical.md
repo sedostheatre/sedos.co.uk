@@ -12,8 +12,6 @@ venue: Bridewell Theatre
 primary-color: "#000000"
 header-image: /assets/working-skyline.jpg
 flyer: /assets/Working Poster Final Proof-800.png
-RedirectFrom: 
- - '2020/working.htm'
 sections:
   - order: 1
     title: CAST & CREATIVE TEAM
@@ -56,9 +54,9 @@ sections:
       src="https://live.staticflickr.com/65535/49605804937_8fa2fbc024_z.jpg"
       width="452" height="640" alt="Working: A Musical - 2020"></a><script async
       src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>'
+RedirectFrom:
+  - 2020/working.htm
 ---
-<!--StartFragment-->
-
 #### **THIS SHOW HAS BEEN POSTPONED. [FIND OUT MORE](/news/2020-03-26-a-message-to-our-members-and-friends).**
 
 **In 1974 Chicago radio broadcaster Studs Terkel published a best selling compilation of interviews with a cross section of Americans talking about their jobs**.
@@ -66,5 +64,3 @@ sections:
 In 2007-2008 additional interviews were conducted. Terkel described it as ‘the extraordinary dreams of ordinary people’. *Workin*g is the musical adaptation of Terkel’s book, and the words of the people he interviewed. It was first conceived by Stephen Schwartz (*Godspell*, *Pippin*, *Wicked*) and staged on Broadway in 1978.
 
 *Working* is a delightfully funny and thoroughly touching musical which explores what goes through the minds of everyday people - from construction workers and waitresses to firemen, secretaries and cleaning women. It showcases the individuals' occupations and also laments their lost hopes and dreams - taking the average worker's viewpoint and showing that he or she is anything but average.
-
-<!--EndFragment-->
