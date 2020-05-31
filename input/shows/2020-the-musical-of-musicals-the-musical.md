@@ -19,8 +19,6 @@ flyer: /assets/Musicals-A5-flyer-FRONT-800.jpg
 sections:
   - title: CAST & CREATIVE TEAM
     body: |-
-      <!--StartFragment-->
-
       **CAST**
 
       **JUNE** | Laura Ellis\
@@ -43,8 +41,6 @@ sections:
       **SOUND DESIGNER** | Henry Whittaker\
       **STAGE MANAGER** | Shiri Stern\
       **COMMITTEE LIAISON** | Olly Levett
-
-      <!--EndFragment-->
     order: 1
   - title: GALLERY
     body: <a data-flickr-embed="true"
