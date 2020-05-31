@@ -9,9 +9,9 @@ showtimes:
   - time: 2018-09-20 19:30
   - time: 2018-09-19 19:30
   - time: 2018-09-21 19:30
-  - time: 2018-09-22 19:30
   - time: 2018-09-22 14:30
-showtime-summary: 18-22 September
+  - time: 2018-09-22 19:30
+showtime-summary: 18-22 September 2018
 venue: Bridewell Theatre
 primary-color: "#000000"
 header-image: /assets/LukcyStuff-rehearsal2-360.jpg
@@ -70,19 +70,17 @@ sections:
 
       ><footer><cite><a target="_blank" href='http://www.sardinesmagazine.co.uk/reviews/review.php?REVIEW-Sedos-Lucky%20Stiff%20-%20%E2%98%85%E2%98%85%E2%98%85%E2%98%85&reviewsID=3327'>Lucky Stiff, 2018, Sardines (****)</a></cite></footer>
     order: 1
+RedirectFrom:
+  - 2018/luckystiff.htm
 ---
-<!--StartFragment-->
-
 **From the writers of *Ragtime*, *Once On This Island*, *A Man of No Importance* and *Anastasia*, comes this wacky musical farce about diamonds, dogs, murder and love.**
 
 *Lucky Stiff* is an offbeat, hilarious murder mystery farce complete with mistaken identities, six million-dollars-worth of diamonds, and a corpse in a wheelchair. The story revolves around an unassuming shoe salesman from East Grinstead who is forced to take the embalmed body of his recently murdered uncle on a vacation to Monte Carlo. Should he succeed in passing his uncle off as alive, Harry Witherspoon stands to inherit six million bucks. If not, the money goes to the Universal Dog Home of Brooklyn.
 
 Tony Award-winning writing team Lynn Ahrens and Stephen Flaherty's first produced show, *Lucky Stiff* premiered Off-Broadway at Playwrights Horizons in 1988 when it won the Richard Rodgers Award and Washington's Helen Hayes Award for Best Musical. It made its professional UK debut believe it or not at the Bridewell Theatre(!) in 1997 and more recently was staged at the Union Theatre (2017).
 
-“This is a real giggle and guffaw show, long on craziness, full of fun, demanding nothing more than that you have a good time. And you will.”\
-*Gloria Cole, United Press International*
+>This is a real giggle and guffaw show, long on craziness, full of fun, demanding nothing more than that you have a good time. And you will.
+><footer><cite>Gloria Cole, United Press International</cite></footer>
 
-“Best of all…is the music. The composer, Stephen Flaherty, and his songs, melodic and refreshing, are the real thing.”\
-*Edith Oliver, The New Yorker*
-
-<!--EndFragment-->
+>Best of all…is the music. The composer, Stephen Flaherty, and his songs, melodic and refreshing, are the real thing
+><footer><cite>Edith Oliver, The New Yorker</cite></footer>
