@@ -24,9 +24,9 @@ RedirectFrom:
 ---
 #### **THIS SHOW HAS BEEN POSTPONED. [FIND OUT MORE](/news/2020-03-26-a-message-to-our-members-and-friends).**
 
-**Eight gay men.**\
-**Three long weekends.**\
-**One last summer.**
+> **Eight gay men.**\
+> **Three long weekends.**\
+> **One last summer.**
 
 Winner of the 1995 Tony Award for Best Play, *Love! Valour! Compassion!* is a monumental exploration into life, love and loss at the end of the millennium.
 
