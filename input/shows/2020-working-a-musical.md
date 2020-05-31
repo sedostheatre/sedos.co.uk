@@ -16,8 +16,6 @@ sections:
   - order: 1
     title: CAST & CREATIVE TEAM
     body: |-
-      <!--StartFragment-->
-
       **CAST**
 
       Adrian Hau\
@@ -44,8 +42,6 @@ sections:
       **PROJECTION** | Joseph Henshaw\
       **MARKETING** | Peter Shimmin\
       **COMMITTEE LIAISON** | Stephen Beeny
-
-      <!--EndFragment-->
   - order: 2
     title: GALLERY
     body: '<a data-flickr-embed="true"
