@@ -1,7 +1,7 @@
 ---
 title: The Drowsy Chaperone
 year: "2017"
-authors: Music & Lyrics by LISA LAMBERT and GREG MORRISON
+authors: Music and Lyrics by LISA LAMBERT and GREG MORRISON
 authors2: Book by BOB MARTIN and DON MCKELLAR
 authors3: ""
 subtitle: ""
@@ -119,6 +119,8 @@ sections:
 
       ><footer><cite><a target="_blank" href='http://musicaltheatremusings.co.uk/drowsy-chaperone-sedos'>The Drowsy Chaperone, 2017, Musical Theatre Musings</a></cite></footer>
     order: 3
+RedirectFrom:
+  - 2017/drowsychaperone.htm
 ---
 **Winner of five Tony Awards including Best Book of Musical and Best Original Score,*The Drowsy Chaperone* bursts to life on the Bridewell Theatre stage this May.**
 
