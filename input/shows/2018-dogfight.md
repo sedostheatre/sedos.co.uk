@@ -1,7 +1,9 @@
 ---
 title: Dogfight
 year: "2018"
-authors: Benj Paske, Justin Paul and Peter Duchan
+authors: Music and Lyrics by BENJ PASEK and JUSTIN PAUL and Peter Duchan
+authors2: Book by PETER DUCHAN
+authors3: " Based on the Warner Bros. film and screenplay by BOB COMFORT"
 subtitle: |
   A contemporary musical by the authors of Dear Evan Hansen
 showtimes:
@@ -13,8 +15,6 @@ showtimes:
   - time: 2018-03-10 19:30
 showtime-summary: 6-10 March 2018
 venue: Bridewell Theatre
-primary-color: "#555500"
-header-image: assets/images/headers/2018-dogfight-header-image.jpg
 flyer: assets/images/flyers/2018-dogfight-flyer.jpg
 sections:
   - title: CAST AND CREATIVE TEAM
@@ -71,6 +71,8 @@ sections:
 RedirectFrom:
   - 2018/dogfight.htm
 float-nav: true
+primary-color: "#555500"
+header-image: assets/images/headers/2018-dogfight-header-image.jpg
 ---
 > **The whole damn world might change tomorrow** \
 > **So we go for broke today**
