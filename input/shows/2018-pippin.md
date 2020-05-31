@@ -9,11 +9,15 @@ showtimes:
   - time: 2018-05-09 19:30
   - time: 2018-05-10 19:30
   - time: 2018-05-11 19:30
+  - time: 2018-05-12 14:30
   - time: 2018-05-12 19:30
-  - time: 2018-05-13 19:30
-  - time: 2018-05-13 14:30
-  - time: 2018-05-14 19:30
-showtime-summary: 9-19 MAY
+  - time: 2018-05-15 19:30
+  - time: 2018-05-16 19:30
+  - time: 2018-05-17 19:30
+  - time: 2018-05-18 19:30
+  - time: 2018-05-19 14:30
+  - time: 2018-05-19 19:30
+showtime-summary: 9-19 May 2018
 venue: Bridewell Theatre
 ticket-prices: ""
 primary-color: "#0b0f18"
@@ -123,13 +127,15 @@ sections:
 
       ><footer><cite><a target="_blank" href='http://fairypoweredproductions.com/pippin-review/'>Pippin, 2018, Fairy Powered Productions (****)</a></cite></footer>
     order: 4
+RedirectFrom:
+  - 2018/pippin.htm
 ---
 > Think about your life, Pippin.\
 > Days are tame and nights the same.\
 > Now think about the beauty \
 > In one perfect flame…
 
-Meet Pippin. Young, ambitious, full of potential and ready to change the world. But things are never that simple.
+**Meet Pippin. Young, ambitious, full of potential and ready to change the world. But things are never that simple.**
 
 Setting out to make his mark, Pippin dabbles with the horrors of war, the lure of sex and the sordid world of politics, failing at every turn. But there is someone Pippin can rely on. Someone he can trust. Someone who can help Pippin be remembered forever… in one final, extraordinary blaze of glory.
 
