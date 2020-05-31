@@ -13,6 +13,7 @@ using Markdig.Renderers.Html.Inlines;
 using Markdig.Syntax.Inlines;
 using Markdig.Renderers.Html;
 using Wyam.Common.Meta;
+using SixLabors.ImageSharp.Processing.Transforms;
 
 System.Globalization.CultureInfo.DefaultThreadCurrentCulture = System.Globalization.CultureInfo.InvariantCulture;
 
@@ -96,7 +97,7 @@ Pipelines.Add("News",
     Meta("image", (doc, ctx) => CopyAndResizeImageFromMeta(doc, ctx, "image", 300, 300)),
     Meta("header-image", CopyAndResizeHeaderImage),
     Meta("fallback-header",
-        (doc, ctx) => CopyAndResizeImageFromFile(doc, ctx, "assets/images/headers/SedosWebsite-Banner-Seats-flaton.jpg", 1280, null)
+        (doc, ctx) => CopyAndResizeImageFromFile(doc, ctx, "assets/images/headers/SedosWebsite-Banner-Seats-flaton.jpg", 1280, null, ResizeMode.BoxPad)
     ),
     Meta("background-override", "bg-turquoise"),
     Razor().WithViewStart("Layout/_NewsArticleViewStart.cshtml"),
@@ -115,7 +116,7 @@ Pipelines.Add("Events",
     Meta("header-image", CopyAndResizeHeaderImage),
     Meta("image", (doc, ctx) => CopyAndResizeImageFromMeta(doc, ctx, "image", 300, 300)),
     Meta("fallback-header",
-        (doc, ctx) => CopyAndResizeImageFromFile(doc, ctx, "assets/images/headers/molm.jpg", 1280, null)
+        (doc, ctx) => CopyAndResizeImageFromFile(doc, ctx, "assets/images/headers/molm.jpg", 1280, null, ResizeMode.BoxPad)
     ),
     Meta("background-override", "bg-purple"),
     Razor().WithViewStart("Layout/_EventViewStart.cshtml"),
@@ -236,22 +237,28 @@ public static string TrimIfStartsWith(
 
 public IDocument CopyAndResizeHeaderImage(IDocument doc, IExecutionContext ctx)
 {
-    return CopyAndResizeImageFromMeta(doc, ctx, "header-image", 1280, null);
+    return CopyAndResizeImageFromMeta(doc, ctx, "header-image", 1280, null, ResizeMode.Pad);
 }
 
-public IDocument CopyAndResizeImageFromMeta(IDocument doc, IExecutionContext ctx, string fieldName, int? width, int? height)
+public IDocument CopyAndResizeImageFromMeta(IDocument doc, IExecutionContext ctx, string fieldName, int? width, int? height, ResizeMode mode = ResizeMode.Min)
 {
     var fileName = doc.Get<string>(fieldName).TrimIfStartsWith("/");
-    return string.IsNullOrWhiteSpace(fileName) ? null : CopyAndResizeImageFromFile(doc, ctx, fileName, width, height);
+    return string.IsNullOrWhiteSpace(fileName) ? null : CopyAndResizeImageFromFile(doc, ctx, fileName, width, height, mode);
 }
 
-public IDocument CopyAndResizeImageFromFile(IDocument doc, IExecutionContext ctx, string filename, int? width, int? height)
+public IDocument CopyAndResizeImageFromFile(
+    IDocument doc, 
+    IExecutionContext ctx, 
+    string filename, 
+    int? width, 
+    int? height, 
+    ResizeMode mode = ResizeMode.Min)
 {
     return ctx.Execute(
         new IModule[]
         {
             ReadFiles(filename),
-            Image().Resize(width: width, height: height, mode: SixLabors.ImageSharp.Processing.Transforms.ResizeMode.Min),
+            Image().Resize(width: width, height: height, mode: mode),
             WriteFiles()
         },
         new IDocument[] { doc }
