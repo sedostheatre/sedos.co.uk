@@ -2,7 +2,7 @@
 title: The Nether
 year: "2017"
 authors: by JENNIFER HALEY
-subtitle: By Jennifer Haley
+subtitle: ""
 showtimes:
   - time: 2017-09-26 19:00
   - time: 2017-09-27 19:00
@@ -40,6 +40,8 @@ sections:
   - title: VIDEO
     body: <div class="video-responsive"><?# YouTube uTJQBTLb66w /?></div>
     order: 3
+RedirectFrom:
+  - 2017/nether.htm
 ---
 **NETHER REALM**\
 **1. Another world for mythical creatures**\
