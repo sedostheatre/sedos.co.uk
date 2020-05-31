@@ -17,6 +17,8 @@ showtimes:
   - time: 2016-12-02 19:30
   - time: 2016-12-03 14:30
   - time: 2016-12-03 19:30
+showtime-summary: 23 November-3 December 2016
+venue: Bridewell Theatre
 header-image: /assets/candide-show-header.jpg
 flyer: /assets/candude-flyerfront-800-3.jpg
 box-office-open: false
@@ -69,10 +71,11 @@ sections:
   - order: 3
     title: REVIEWS
     body: >-
-      > The result is an irreverent, apt, ever topical musical… it’s in
-      excellent hands with Sedos which, as usual, achieves a near professional
-      standard… A jolly good evening’s entertainment, then. All credit to this
-      production and all who sail in her.
+      
+
+      >The result is an irreverent, apt, ever topical musical… it’s in excellent hands with Sedos which, as usual, achieves a near professional standard… A jolly good evening’s entertainment, then. All credit to this production and all who sail in her.
+
+      ><footer><cite><a target="_blank" href="http://www.sardinesmagazine.co.uk/reviews/review.php?REVIEW-Sedos-Candide&reviewsID=2644">Candide, 2016, Sardines</a></cite></footer>
 
 
       >Sedos delivered the production in a classy manner with an incredibly strong cast in everything from their characterisation to music and a strong visual feast for the eyes.
@@ -84,11 +87,12 @@ sections:
       <div class="video-responsive"><?# YouTube t91W5p6dX24 /?></div>
 
       <div class="video-responsive"><?# YouTube 3f-7giI1GsA /?></div>
+RedirectFrom:
+  - 2016/candide.htm
 ---
->The best of all possible worlds
-><footer><cite></cite></footer>
+> The best of all possible worlds
 
-Based on Voltaire's 1759 novella of the same name, *Candide* is a masterpiece from the greats of musical theatre. The show combines a beautiful score with a fast-paced, witty book in a joyful and hilarious operetta which as been delighting audiences for 60 years.
+**Based on Voltaire's 1759 novella of the same name, *Candide* is a masterpiece from the greats of musical theatre. The show combines a beautiful score with a fast-paced, witty book in a joyful and hilarious operetta which as been delighting audiences for 60 years.**
 
 A naïve young man, Candide, is thrown out of the Baron of Thunder-Den-Tronck's castle when he attempts to marry the Baron's daughter Cunegonde. They embark on a round-the-world journey in which their idealistic belief that all's for the best in this "best of all possible worlds" is challenged by a series of absurd misfortunes.
 
