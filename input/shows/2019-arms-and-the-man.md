@@ -1,7 +1,7 @@
 ---
 title: Arms and the Man
 year: "2019"
-authors: by BERNARD SHAW
+authors: By BERNARD SHAW
 subtitle: A romantic comedy
 showtimes:
   - time: 2019-09-17 19:30
