@@ -97,7 +97,7 @@ sections:
       width="640" height="480" alt="Soho Cinders - 2019"></a><script async
       src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
     order: 1
-  - title: REVIEWS
+  - title: REVIEW
     body: >-
       >A hearty and sincere production, it’s a more complex story than the
       traditional fairy-tale from which it is adapted, but it’s a lively and
