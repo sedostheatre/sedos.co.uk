@@ -23,8 +23,6 @@ flyer: /assets/ragtime-a5-flyer-front-800_000.jpg
 sections:
   - title: CAST & CREATIVE TEAM
     body: |-
-      <!--StartFragment-->
-
       **CAST**
 
       **COALHOUSE WALKER JR** | Jonathon Grant\
@@ -76,8 +74,6 @@ sections:
       **MARKETING** | Stephen Beeny\
       **PHOTOGRAPHERS** | David Ovenden and Dancers of London\
       **COMMITTEE LIAISON** | Deborah Lean
-
-      <!--EndFragment-->
     order: 1
   - title: TRAILER
     body: |-
@@ -132,48 +128,50 @@ sections:
       Victoria Louise-Currie and Rachel Elfassy-Bitoun is nicely differentiated
       for the various groups and makes good use of the multi-layered set.
 
-      ><footer><cite><a target="_blank" href='http://www.sardinesmagazine.co.uk/reviews/review.php?REVIEW-Sedos-Ragtime&reviewsID=3775'>Ragtime, 2019, Sardines</a></cite></footer>
+      ><footer><cite><a target="_blank" href="http://www.sardinesmagazine.co.uk/reviews/review.php?REVIEW-Sedos-Ragtime&reviewsID=3775">Ragtime, 2019, Sardines</a></cite></footer>
 
 
       >This is a truly outstanding production, lively, slick and colourful. Although Sedos describes itself as “amateur” there’s little doubt that their attitude to every production is totally professional. 
 
-      ><footer><cite><a target="_blank" href='https://hubpages.com/entertainment/Ragtime-a-Sedos-Production-at-the-Bridewell-Theatre-London'>Ragtime, 2019, Hub Pages</a></cite></footer>
+      ><footer><cite><a target="_blank" href="https://hubpages.com/entertainment/Ragtime-a-Sedos-Production-at-the-Bridewell-Theatre-London">Ragtime, 2019, Hub Pages</a></cite></footer>
 
 
       >Sedos manage to execute a perfect reading of a challenging score with multiple scene transitions. 
 
-      ><footer><cite><a target="_blank" href='http://everything-theatre.co.uk/2019/11/ragtime-bridewell-theatre-review.html'>Ragtime, 2019, Everything Theatre</a></cite></footer>
+      ><footer><cite><a target="_blank" href="http://everything-theatre.co.uk/2019/11/ragtime-bridewell-theatre-review.html">Ragtime, 2019, Everything Theatre</a></cite></footer>
 
 
       >Sedos have achieved another high class and polished performance in Ragtime. It managed to move me from anger to sadness and send shivers down my spine throughout. 
 
-      ><footer><cite><a target="_blank" href='http://musicaltheatremusings.co.uk/ragtime-sedos'>Ragtime, 2019, Musical Theatre Musings</a></cite></footer>
+      ><footer><cite><a target="_blank" href="http://musicaltheatremusings.co.uk/ragtime-sedos">Ragtime, 2019, Musical Theatre Musings</a></cite></footer>
 
 
       >There is too much good about this production to sum it all up in one short review but if you are a fan of the bombastic in musical theatre.*Ragtime*is a must see and you never know when you might have the opportunity again with such a rarely performed work. Sedos have bravely taken a risk on this one and it has paid off in spades. An accomplished piece of theatre executed by an accomplished group of peoples whose love of the art shines through in everything they do.
 
-      ><footer><cite><a target="_blank" href='https://broadwaybaby.com/shows/ragtime/748113'>Ragtime, 2019, Broadway Baby (*****)</a></cite></footer>
+      ><footer><cite><a target="_blank" href="Ragtime, 2019, Broadway Baby">https://broadwaybaby.com/shows/ragtime/748113</a></cite></footer>
 
 
       >This Sedos production is a marvel and is not just an excellent amateur production. It is genuinely one of the best shows to grace a London stage this year.
 
-      ><footer><cite><a target="_blank" href='http://www.londontheatrereviews.co.uk/post.cfm?p=1987'>Ragtime, 2019, London Theatre Reviews (*****)</a></cite></footer>
+      ><footer><cite><a target="_blank" href="https://www.londontheatrereviews.co.uk/post.cfm?p=1987">Ragtime, 2019, London Theatre Reviews</a></cite></footer>
 
 
       >It is shocking to me that this production is Amateur Dramatics, as the quality of the performances, the costumes, lighting, orchestra, and production quality is very high. 
 
-      ><footer><cite><a target="_blank" href='https://www.withinherwords.co.uk/post/ragtime-presented-by-sedos'>Ragtime, 2019, Within Her Words</a></cite></footer>
+      ><footer><cite><a target="_blank" href="https://www.withinherwords.co.uk/post/ragtime-presented-by-sedos">Ragtime, 2019, Within Her Words</a></cite></footer>
 
 
       >An orchestra of eighteen and a cast of thirty-two is impressive for the West End these days, let alone amateur dramatics. The production team is worth a mention as well, for several reasons… It is difficult to balance out the sound with a cast and an orchestra as large as this, but the techies here do a remarkable job, with not a single lyric or line of spoken dialogue missed thanks to each and every microphone functioning as it should throughout. 
 
-      ><footer><cite><a target="_blank" href='https://www.londontheatre1.com/reviews/musical/ragtime-at-the-bridewell-theatre-review/'>Ragtime, 2019, London Theatre 1 (*****)</a></cite></footer>
+      ><footer><cite><a target="_blank" href="https://www.londontheatre1.com/reviews/musical/ragtime-at-the-bridewell-theatre-review/">Ragtime, 2019, London Theatre 1</a></cite></footer>
 
 
       >Sedos have created a captivating and heartbreaking production which should stay with you long after you leave the theatre. You’d be hard pressed to find such an abundance of talent elsewhere in the West End. 
 
-      ><footer><cite><a target="_blank" href='https://myfairtheatregoer.com/2019/11/16/review-ragtime-bridewell-theatre-%E2%8B%86%E2%8B%86%E2%8B%86%E2%8B%86/'>Ragtime, 2019, My Fair Theatregoer</a></cite></footer>
+      ><footer><cite><a target="_blank" href="https://myfairtheatregoer.com/2019/11/16/review-ragtime-bridewell-theatre-⋆⋆⋆⋆/">Ragtime, 2019, My Fair Theatregoer</a></cite></footer>
     order: 5
+RedirectFrom:
+  - 2019/ragtime.htm
 ---
 > It was the music\
 > Of something beginning,\
@@ -183,7 +181,7 @@ sections:
 > And in rhythm and rhyme.\
 > The people called it ragtime…
 
-At the dawn of the new century, everything is changing and anything is possible.
+**At the dawn of the new century, everything is changing and anything is possible.**
 
 *Ragtime* is a sweeping epic musical about the birth of America that weaves together real celebrities and historical events with a timeless tale of three families in pursuit of the American Dream.
 
