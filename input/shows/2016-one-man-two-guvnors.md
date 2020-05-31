@@ -10,6 +10,8 @@ showtimes:
   - time: 2016-10-07 19:30
   - time: 2016-10-08 14:30
   - time: 2016-10-08 19:30
+showtime-summary: 4-8 October 2016
+venue: Bridewell Theatre
 primary-color: "#070707"
 header-image: /assets/onman2.jpg
 flyer: /assets/om2g-flyerfront-600.jpg
@@ -74,6 +76,8 @@ sections:
 
       ><footer><cite><a href="https://www.westendwilma.com/review-one-man-two-guvnors-bridewell/">One Man, Two Guvnors, 2016, West End Wilma</a></cite></footer>
     title: REVIEWS
+RedirectFrom:
+  - 2016/onemantwoguvnors.htm
 ---
 **A new production of the award-winning National Theatre comedy play.**
 
