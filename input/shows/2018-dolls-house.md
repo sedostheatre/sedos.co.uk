@@ -1,19 +1,19 @@
 ---
 title: A Doll's House
-year: '2018'
+year: "2018"
 authors: by HENRIK IBSEN
 authors2: English language version by SIMON STEPHENS
-subtitle: ''
+subtitle: ""
 showtimes:
-  - time: '2018-01-23 19:30'
-  - time: '2018-01-24 19:30'
-  - time: '2018-01-25 19:30'
-  - time: '2018-01-26 19:30'
-  - time: '2018-01-27 19:30'
-  - time: '2018-01-27 14:30'
+  - time: 2018-01-23 19:30
+  - time: 2018-01-24 19:30
+  - time: 2018-01-25 19:30
+  - time: 2018-01-26 19:30
+  - time: 2018-01-27 14:30
+  - time: 2018-01-27 19:30
 showtime-summary: 23-27 January 2018
 venue: Bridewell Theatre
-primary-color: '#B1D1FC'
+primary-color: "#B1D1FC"
 header-image: /assets/greenwich-1864809-1000.jpg
 flyer: /assets/ADollsHouse-A5-FlyerFront - FINAL2 - 800.jpg
 sections:
@@ -55,13 +55,14 @@ sections:
       charset="utf-8"></script>
     order: 2
   - title: VIDEO
-    body: |-
-      <div class="video-responsive"><?# YouTube 7rLzSeqdMS4 /?></div>
+    body: <div class="video-responsive"><?# YouTube 7rLzSeqdMS4 /?></div>
     order: 3
+RedirectFrom:
+  - 2018/adollshouse.htm
 ---
-**“I think I’m a human being before anything else. I don’t care what other people say. I don’t care what people write in books. I need to think for myself”**
+> I think I’m a human being before anything else. I don’t care what other people say. I don’t care what people write in books. I need to think for myself.
 
-Henrik Ibsen’s *A Doll’s House* premiered in 1879 in Copenhagen provoking huge controversy within its apparently feminist message and cemented Ibsen’s commitment to realist drama. In Ibsen’s play, Nora Helmer has secretly borrowed a large amount of money to pay for her husband, Torvald to recover from illness on a sabbatical in Italy. Torvald’s perception of Nora is of a silly, naive spendthrift, so it is only when the truth begins to emerge and Torvald realises who Nora really is that unbendable cracks appear in their marriage.
+**Henrik Ibsen’s *A Doll’s House* premiered in 1879 in Copenhagen provoking huge controversy within its apparently feminist message and cemented Ibsen’s commitment to realist drama. In Ibsen’s play, Nora Helmer has secretly borrowed a large amount of money to pay for her husband, Torvald to recover from illness on a sabbatical in Italy. Torvald’s perception of Nora is of a silly, naive spendthrift, so it is only when the truth begins to emerge and Torvald realises who Nora really is that unbendable cracks appear in their marriage.**
 
 Ibsen’s masterpiece examines the way society shapes us and our conception of others. It considers marriage, family, money and the roles of both men and women in a play famous for its flawed and realistic characters.
 
