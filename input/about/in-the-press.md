@@ -80,6 +80,11 @@ image: /assets/aboutus-inthepress.jpg
 >A hearty and sincere production, it’s a more complex story than the traditional fairy-tale from which it is adapted, but it’s a lively and engaging one at that.
 ><footer><cite><a target="_blank" href="https://www.londontheatre1.com/reviews/musical/stiles-drewes-soho-cinders-at-the-bridewell-theatre/">Soho Cinders, 2019, London Theatre 1</a></cite></footer>
 
+## *A Swell Party*
+
+>This production, a Minack debut for Sedos which usually performs just off Fleet Street, classily directed by Roger Harwood and Dawn Harrison-Wallace, dances us through his amazing, sometimes outrageous, ultimately poignant life story, on a triumph of an Art Deco set designed by Steven King… This is glamour with bucketfuls of fizz, and a feeling of extravagant luxury washes over us as the Sedos singers seemingly effortlessly swing through around 50 famous numbers with on-stage pianists, musical director Matt Gould and Ryan Macaulay, the brilliant Annette Brown tooting and drumming, and the Minack’s executive director Zoe Curnow having her own party on double bass. Matt and Ryan are a delightful duo, tap dancing too, with narration by the ultra smooth James Franey as Cole, joined by Liz Flint as his wife Linda in shimmering emerald silk, backed by Stephen Beeney, Susan Booth, Rachel Elfassy-Bitoun, Will Garood, Deborah Lean, Yvette Shiel and Alex Yelland.Producer Lizzie Levett, choreographer Jane Saunders, sound and lighting Adam Coppard and Olly Levett, and stage manager Andrew Laidlaw and team make it all so believable. When’s the next party?   
+><footer><cite><a target="_blank" href="https://www.minack.com/explorewhat-we-doour-past-shows/swell-party">A Swell Party, 2019, Jenni Balou</a></cite></footer>
+
 ## *How to Succeed in Business Without Really Trying*
 
 >Quite simply, the show is wonderful and should serve as a shining beacon throughout across the entire non-professional sector. Whether you see the same show produced at at the Union Theatre, Young Vic, Charing Cross Theatre, Jermyn Street Theatre or any other professional off-West End/Fringe venue, it will not get any better than this. Amateur groups around the capital pay attention; this is how to put on a musical! This fifty-eight-year-old show (which also played the West End in 1963) makes a fitting return to London and is probably as close to earning a ‘professional’ tag as you can get.
@@ -233,7 +238,7 @@ image: /assets/aboutus-inthepress.jpg
 ## *Frankenstein*
 
 ^^^ ![](/assets/37705654016_b820d8a35e_c.jpg)
-^^^ Frankenstein 
+^^^ Frankenstein
 
 >Watching [Jonathon] Cooper’s character progression and journey throughout the whole show was, I felt, a master class in acting.
 ><footer><cite><a target="_blank" href="http://www.sardinesmagazine.co.uk/reviews/review.php?REVIEW-Sedos-Frankenstein&reviewsID=3004">Frankenstein, 2017, Sardines</a></cite></footer>
@@ -345,7 +350,6 @@ image: /assets/aboutus-inthepress.jpg
 
 >If Sedos has taught us one thing, a tall order is never impossible for them... Sedos has created here a hugely fun production, combining experienced directing (Matthew Gould), excellent musical direction (Ryan Macaulay) and fantastic casting... Like a fairy-tale playground in a deep dark forest, set designer Steven King’s creation was astounding. Along with production designer Rebecca Turner, costume designer Deborah Lean and the team that put everything together this production was nothing short of visually spectacular.
 ><footer><cite>Into the Woods, 2014, Retox Magazine</cite></footer>
-
 
 >The set is a wondrous creation by Steven King... The first act reveal of the titular woods was the first of many times I was glad I’d packed a handkerchief. Added to this is a phenomenal 15 piece orchestra under the baton of conductor and musical director Ryan Macaulay playing Jonathan Tunick’s orchestrations in all their original glory. Director Matthew Gould and choreographer Gayle Bryans marshall their enormous cast with steady inventive hands and produce something akin to magic and to hear some of Sondheim’s finest songs backed by a full orchestra is worth the price of admission alone.
 ><footer><cite>Into the Woods, 2014, Front Row Dress</cite></footer>
