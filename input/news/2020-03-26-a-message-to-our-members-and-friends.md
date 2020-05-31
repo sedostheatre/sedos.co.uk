@@ -1,6 +1,6 @@
 ---
 title: A message to our members and friends
-date: 2020-03-17
+date: 2020-03-17T00:00:00.000Z
 image: /assets/sedos-logo.jpg
 ---
 **In light of the announcement by the Government on 16 March 2020, with much sadness, we have taken the difficult but responsible decision to suspend our operations for the time being and postpone a number of upcoming events.**
@@ -15,7 +15,7 @@ Simprov
 
 Sedance is also cancelled until further notice.
 
-We will make a decision nearer the time whether our Members' Week events (Play In a Day; Simprov; *Sister Act*) can go ahead as planned depending on whether the guidance changes.
+We will make a decision nearer the time whether our Members' Week events (Play In a Day; Simprov; *Sister Act*) can go ahead as planned depending on whether the guidance changes. UPDATED 19 April: the Members' Week events are also now postponed.
 
 We will refund tickets already bought for postponed events and audition fees for *Love! Valour! Compassion!*
 
