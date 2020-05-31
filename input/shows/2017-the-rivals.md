@@ -1,7 +1,7 @@
 ---
 title: The Rivals
 year: "2017"
-authors: by RICHARD BRINSLEY SHERIDAN
+authors: By RICHARD BRINSLEY SHERIDAN
 subtitle: A classic comedy in the restoration style
 showtimes:
   - time: 2017-09-19 19:30
@@ -53,6 +53,8 @@ sections:
   - title: VIDEO
     body: <div class="video-responsive"><?# YouTube s_QlADv0oGY /?></div>
     order: 3
+RedirectFrom:
+  - 2017/therivals.htm
 ---
 > Come, come, we must lay aside some of our romance - a little wealth and comfort may be endured after all.
 
