@@ -1,8 +1,8 @@
 ---
 title: Frankenstein
 year: "2017"
-authors: by NICK DEAR
-authors2: based on the novel by MARY SHELLEY
+authors: By NICK DEAR
+authors2: Based on the novel by MARY SHELLEY
 subtitle: ""
 showtimes:
   - time: 2017-10-17 19:30
@@ -89,6 +89,8 @@ sections:
       >As always, Sedos deserve top marks for their production values.
 
       ><footer><cite><a target="_blank" href="https://www.remotegoat.com/uk/review/13608/intense-production-of-horror-classic/">Frankenstein, 2017, Remote Goat</a></cite></footer>
+RedirectFrom:
+  - 2017/frankenstein.htm
 ---
 > Slowly I learnt the ways of humans: how to ruin, how to hate, how to debase, how to humiliate. And at the feet of my master I learnt the highest of human skills, the skill no other creature owns: I finally learnt how to lie.
 
