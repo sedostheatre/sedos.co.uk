@@ -1,11 +1,21 @@
 ---
-title: How to Succeed in Business without Really Trying
+title: How to Succeed in Business Without Really Trying
 year: "2019"
 authors: Book by ABE BURROWS, JACK WEINSTOCK, WILLIE GILBERT
 authors2: Music and Lyrics by FRANK LOESSER
 authors3: Based on How to Succeed in Business without Really Trying by SHEPHERD MEAD
 showtimes:
   - time: 2019-05-15 19:30
+  - time: 2019-05-16 19:30
+  - time: 2019-05-17 19:30
+  - time: 2019-05-18 14:30
+  - time: 2019-05-18 19:30
+  - time: 2019-05-21 19:30
+  - time: 2019-05-22 19:30
+  - time: 2019-05-23 19:30
+  - time: 2019-05-24 19:30
+  - time: 2019-05-25 14:30
+  - time: 2019-05-25 19:30
 showtime-summary: 15-25 May 2019
 venue: Bridewell Theatre
 primary-color: "#d63228"
@@ -98,23 +108,25 @@ sections:
       fitting return to London and is probably as close to earning a
       ‘professional’ tag as you can get.
 
-      ><footer><cite><a target="_blank" href='http://www.sardinesmagazine.co.uk/reviews/review.php?REVIEW-Sedos-How%20To%20Succeed%20In%20Business%20Without%20Really%20Trying&reviewsID=3578'>How to Succeed in Business Without Really Trying, 2019, Sardines (*****)</a></cite></footer>
+      ><footer><cite><a target="_blank" href="http://www.sardinesmagazine.co.uk/reviews/review.php?REVIEW-Sedos-How%20To%20Succeed%20In%20Business%20Without%20Really%20Trying&reviewsID=3578">How to Succeed in Business Without Really Trying, 2019, Sardines</a></cite></footer>
 
 
       >A magnificent cast make nonsense of their amateur status performing with charm and humour. A basic but still adequate set is the only sign of Sedos’ amdram status. Even so, I’ve never seen such rapid set changes with props moved into place so quickly you wouldn’t have noticed them. This is a production that could easily be dropped into the West End without any noticeable difference; a thoroughly professional production that ticked all the right boxes.
 
-      ><footer><cite><a target="_blank" href='http://everything-theatre.co.uk/2019/05/how-to-succeed-in-business-without-really-trying-bridewell-theatre-review.html'>How to Succeed in Business Without Really Trying, 2019, Everything Theatre (****)</a></cite></footer>
+      ><footer><cite><a target="_blank" href="http://everything-theatre.co.uk/2019/05/how-to-succeed-in-business-without-really-trying-bridewell-theatre-review.html">How to Succeed in Business Without Really Trying, 2019, Everything Theatre</a></cite></footer>
 
 
       >Sedos’ production of How To Succeed In Business Without Really Trying is a great chance to see this musical, with bundles of comedy and a cast that excel in getting their character across I would recommend getting yourselves down to the Bridewell Theatre.
 
-      ><footer><cite><a target="_blank" href='http://musicaltheatremusings.co.uk/how-to-succeed-in-business-without-really-trying'>How to Succeed in Business Without Really Trying, 2019, Musical Theatre Musings</a></cite></footer>
+      ><footer><cite><a target="_blank" href="http://musicaltheatremusings.co.uk/how-to-succeed-in-business-without-really-trying">How to Succeed in Business Without Really Trying, 2019, Musical Theatre Musings</a></cite></footer>
 
 
       >Once again, Sedos have a hit on their hands. The level of this show is something that you would expect from a London production. The fact that the cast is made up of amateurs that all have separate day jobs makes it even more impressive.
 
-      ><footer><cite><a target="_blank" href='http://www.londontheatrereviews.co.uk/post.cfm?p=1271'>How to Succeed in Business Without Really Trying, 2019,London Theatre Reviews</a></cite></footer>
+      ><footer><cite><a target="_blank" href="http://www.londontheatrereviews.co.uk/post.cfm?p=1271">How to Succeed in Business Without Really Trying, 2019, London Theatre Reviews</a></cite></footer>
     order: 1
+RedirectFrom:
+  - 2019/howtosucceed.htm
 ---
 ***How to Succeed* is a witty, satirical show with an exhilarating musical score and a plethora of interesting and diverse characters.**
 
