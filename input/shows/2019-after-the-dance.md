@@ -1,7 +1,7 @@
 ---
 title: After the Dance
 year: "2019"
-authors: "by TERRENCE RATTIGAN "
+authors: "By TERRENCE RATTIGAN "
 subtitle: “It’s the bright young things over again, only they were never bright
   and now they’re not even young”
 showtimes:
