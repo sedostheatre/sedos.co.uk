@@ -1,7 +1,7 @@
 ---
 title: The Accrington Pals
 year: "2017"
-authors: by PETER WHELAN
+authors: By PETER WHELAN
 showtimes:
   - time: 2017-02-14 19:30
   - time: 2017-02-15 19:30
@@ -54,6 +54,8 @@ sections:
       <div class="video-responsive"><?# YouTube sLMjq-nqX4w /?></div>
       <div class="video-responsive"><?# YouTube Pd2TOa768eM /?></div>      
     order: 3
+RedirectFrom:
+  - 2017/theaccringtonpals.htm
 ---
 ***The Accrington Pals* is a beautiful play by Peter Whelan about the women and men from a town during the raising of Kitchener’s Army, during World War I.**
 
