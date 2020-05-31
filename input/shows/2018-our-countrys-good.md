@@ -1,7 +1,7 @@
 ---
 title: Our Country's Good
 year: "2018"
-authors: by TIMBERLAKE WERTENBAKER
+authors: By TIMBERLAKE WERTENBAKER
 subtitle: A modern classic exploring crime and punishment and the power of theatre
 showtimes:
   - time: 2018-10-23 19:30
