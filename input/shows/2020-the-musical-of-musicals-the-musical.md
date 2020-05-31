@@ -9,8 +9,8 @@ showtimes:
   - time: 2020-02-26 19:30
   - time: 2020-02-27 19:30
   - time: 2020-02-28 19:30
-  - time: 2020-02-29 19:30
   - time: 2020-02-29 14:30
+  - time: 2020-02-29 19:30
 showtime-summary: 25-29 February 2020
 venue: Bridewell Theatre
 primary-color: "#ff0085"
@@ -55,10 +55,12 @@ sections:
       2020"></a><script async src="//embedr.flickr.com/assets/client-code.js"
       charset="utf-8"></script>
     order: 1
+RedirectFrom:
+  - 2020/musicalofmusicals.htm
 ---
-#### A COMIC VALENTINE TO MUSICAL THEATRE
+**A comic valentine to musical theatre.**
 
-**A musical about musicals! In this hilarious satire of musical theatre, one story becomes five delightful musicals, each written in the distinctive style of a different master of the form, from Rodgers and Hammerstein to Stephen Sondheim.**
+A musical about musicals! In this hilarious satire of musical theatre, one story becomes five delightful musicals, each written in the distinctive style of a different master of the form, from Rodgers and Hammerstein to Stephen Sondheim.
 
 The basic plot: June is an ingenue who can't pay the rent and is threatened by her evil landlord. Will the handsome leading man come to the rescue?
 
