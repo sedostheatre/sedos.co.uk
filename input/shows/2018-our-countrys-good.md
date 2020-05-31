@@ -8,8 +8,8 @@ showtimes:
   - time: 2018-10-24 19:30
   - time: 2018-10-25 19:30
   - time: 2018-10-26 19:30
-  - time: 2018-10-27 19:30
   - time: 2018-10-27 14:30
+  - time: 2018-10-27 19:30
 showtime-summary: 23-27 October 2018
 venue: ""
 ticket-prices: ""
@@ -83,15 +83,15 @@ sections:
 
       ><footer><cite><a target="_blank" href='http://fairypoweredproductions.com/our-countrys-good-review-3/?fbclid=IwAR21VRGOfvlcyQ5Aq7qHEEFm3KIJyrBUDoIn7rcO6NHpvFJVbR127yyA6jw'>Our Country’s Good, 2018, Fairy Powered Productions</a></cite></footer>
     order: 3
+RedirectFrom:
+  - 2018/ourcountrysgood.htm
 ---
->From distant climes, o’er wide-spread seas we come, Though not with much eclat or beat of drum, True patriots all; for be it understood,
-We left our country for our country’s good;
-No private views disgrac’d our generous zeal,
-What urg’d our travels was our country’s weal;
-And none will doubt but that our emigration
-Has prov’d most useful, to the British nation.
-><footer><cite></cite></footer>
+> From distant climes, o’er wide-spread seas we come, Though not with much eclat or beat of drum, True patriots all; for be it understood, We left our country for our country’s good;
+> No private views disgrac’d our generous zeal,
+> What urg’d our travels was our country’s weal;
+> And none will doubt but that our emigration
+> Has prov’d most useful, to the British nation.
 
-30 years on from its premiere at the Royal Court, *Our Country's Good* is a modern classic, exploring themes of crime, punishment and the unifying and civilising power of theatre.
+**Thirty years on from its premiere at the Royal Court, *Our Country's Good* is a modern classic, exploring themes of crime, punishment and the unifying and civilising power of theatre.**
 
 Set in 1787, it tells the true story of a group of convicts transported to Australia who, faced with the appalling realities of life in a penal colony, come together to rehearse and perform a play.
