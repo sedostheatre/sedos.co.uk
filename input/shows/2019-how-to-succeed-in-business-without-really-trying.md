@@ -3,7 +3,7 @@ title: How to Succeed in Business Without Really Trying
 year: "2019"
 authors: Book by ABE BURROWS, JACK WEINSTOCK, WILLIE GILBERT
 authors2: Music and Lyrics by FRANK LOESSER
-authors3: Based on How to Succeed in Business without Really Trying by SHEPHERD MEAD
+authors3: Based on How to Succeed in Business Without Really Trying by SHEPHERD MEAD
 showtimes:
   - time: 2019-05-15 19:30
   - time: 2019-05-16 19:30
