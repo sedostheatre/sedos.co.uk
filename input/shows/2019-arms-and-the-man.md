@@ -8,8 +8,8 @@ showtimes:
   - time: 2019-09-18 19:30
   - time: 2019-09-19 19:30
   - time: 2019-09-20 19:30
-  - time: 2019-09-21 19:30
   - time: 2019-09-21 14:30
+  - time: 2019-09-21 19:30
 showtime-summary: 17-21 September 2019
 venue: Bridewell Theatre
 primary-color: "#e7213b"
@@ -18,8 +18,6 @@ flyer: /assets/ArmandtheMan-A5-flyer-FRONT-800.jpg
 sections:
   - title: CAST & CREATIVE TEAM
     body: |-
-      <!--StartFragment-->
-
       **CAST**
 
       **RAINA** | Sophie Platts-Martin\
@@ -43,8 +41,6 @@ sections:
       **STAGE MANAGER** | Freddie Byron \
       **SET CONSTRUCTION** | Andy Hind\
       **COMMITTEE LIASON** | Rebecca Chisholm
-
-      <!--EndFragment-->
     order: 1
   - title: GALLERY
     body: |-
@@ -55,9 +51,17 @@ sections:
       width="640" height="427" alt="Arms and the Man - 2019"></a><script async
       src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
     order: 1
----
-<!--StartFragment-->
+  - order: 3
+    title: REVIEWS
+    body: >-
+      >Produced by the technically amateur Sedos theatre company this is another
+      production from them which deserves a transfer to the West End. It’s a
+      smart, witty and thoughtful play, beautifully acted and staged.
 
+      ><footer><cite><a target="_blank" href="https://comedytowatch.com/2019/09/18/live-review-arms-and-the-man/">Arms and the Man, 2019, Comedy to Watch</a></cite></footer>
+RedirectFrom:
+  - 2019/armsandtheman.htm
+---
 **All’s fair in love and war as a classic romantic triangle spins out of control in Bernard Shaw’s (*Pygmalion, Saint Joan*) most popular play.**
 
 Raina Petkoff craves more out of life. Having read every book in the library, including all the romance novels, she’s sure there is more in store for her - she wants adventure, she wants love, she wants to get the hell out of town. So, when a charming soldier on the hop from the battlefield clambers into her bedroom, what’s a clever, practical minded girl to do? Offer him sanctuary, feed him chocolate and fall in love. It’s only natural.
@@ -65,5 +69,3 @@ Raina Petkoff craves more out of life. Having read every book in the library, in
 The problem is, she’s already engaged. To the most eligible man in town. Raina needs to decide if she stays true to her gallant fiancé, or if she elopes with this dashing, mysterious stranger.
 
 Will the battlefield hero conquer her heart, or will the suitor with the most chocolate win?
-
-<!--EndFragment-->
