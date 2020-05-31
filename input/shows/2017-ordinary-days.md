@@ -1,7 +1,7 @@
 ---
 title: Ordinary Days
 year: "2017"
-authors: Music and Lyrics | ADAM GWON
+authors: Music and Lyrics by ADAM GWON
 subtitle: ""
 showtimes:
   - time: 2017-09-27 21:00
@@ -45,6 +45,8 @@ sections:
   - title: VIDEO
     body: '<div class="video-responsive"><?# YouTube q3WP8EyzhYY /?></div>      '
     order: 3
+RedirectFrom:
+  - 2017/ordinarydays.htm
 ---
 >[Ordinary Days] captures with stinging clarity that uneasy moment in youth when doubts begin to cloud hopes for a future of unlimited possibility.
 ><footer><cite>Charles Isherwood, The New York Times</cite></footer>
