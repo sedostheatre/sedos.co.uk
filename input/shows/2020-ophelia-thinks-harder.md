@@ -15,8 +15,6 @@ flyer: /assets/2020-02-16-ophelia-flyer-front-800.png
 sections:
   - title: CAST & CREATIVE TEAM
     body: |-
-      <!--StartFragment-->
-
       **CAST**
 
       **OPHELIA** | Natalie Harding-Moore\
@@ -44,8 +42,6 @@ sections:
       **PRODUCER** | Olly Levett\
       **DESIGNER** | Yvette Henderson\
       **LIGHTING DESIGN** | Adam Coppard
-
-      <!--EndFragment-->
     order: 1
 RedirectFrom:
   - 2020/opheliathinksharder.htm
