@@ -109,6 +109,7 @@ collections:
         label: Redirect From
         description: Pages on the old site to redirect from
         widget: list
+        required: false
   - name: news
     label: News
     description: News articles
