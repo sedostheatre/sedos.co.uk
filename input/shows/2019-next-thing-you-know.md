@@ -11,7 +11,7 @@ showtimes:
   - time: 2019-03-08 19:30
   - time: 2019-03-09 14:30
   - time: 2019-03-09 19:30
-showtime-summary: 7.30pm, Sat matinee at 2.30pm
+showtime-summary: 5-9 March 2019
 venue: Bridewell Theatre
 ticket-prices: ""
 primary-color: "#750630"
@@ -73,6 +73,34 @@ sections:
       <div class="video-responsive"><?# YouTube gv4tHs6k0Zg /?></div>
       <div class="video-responsive"><?# YouTube mIE1WDS5K6o /?></div>
     order: 3
+  - order: 4
+    title: REVIEWS
+    body: >-
+      >Sedos have a reputation for delivering West End quality in every
+      production, and it certainly shows here. The work that has gone into the
+      show is visible in every second, from the slick set changes, to the
+      choreography, to the songs, Sedos pull out all the stops to present a
+      fantastically designed, well performed evening’s entertainment with a few
+      kooky interactive elements thrown in.
+
+      ><footer><cite><a target="_blank" href="http://everything-theatre.co.uk/2019/03/next-thing-you-know-the-bridewell-theatre-review.html">Next Thing You Know, 2019, Everything Theatre</a></cite></footer>
+
+
+      >An impressive set, a solid cast and imaginative immersive theatre made for a fun night out.
+
+      ><footer><cite><a target="_blank" href="http://musicaltheatremusings.co.uk/next-thing-you-know">Next Thing You Know, 2019, Musical Theatre Musings</a></cite></footer>
+
+
+      >Interspersed with song and with a very cleverly designed set that allowed the bar to also be an office and a bedroom with very little changeover or delay, the production was as close to top quality as I’ve seen in a while. Mix this up with the skilled acting and comfortable immersive experience and I would confidently recommend Next Thing You Know. A very enjoyable evening’s entertainment indeed.
+
+      ><footer><cite><a target="_blank" href="https://www.londontheatre1.com/reviews/play/next-thing-you-know-at-the-bridewell-theatre-review/">Next Thing You Know, 2019, London Theatre 1</a></cite></footer>
+
+
+      >Sedos never cease to amaze with their production values, creating polished shows that you forget are by an amateur company. For NTYK, the theatre is transformed into Sullivan Street Tavern in New York. Mingling at the bar with the regulars until last orders is rung to get the audience into their seats, the ambience is brilliant, and the set design team deserve at least 10 stars for their authentic and detailed realisation of a bar that is instantly recognisable to anyone who watches New York set TV shows. The staging is wonderfully thought out and director Dan Saunders has created a special atmosphere.
+
+      ><footer><cite><a target="_blank" href="http://fairypoweredproductions.com/next-thing-you-know-review/">Next Thing You Know, 2019, Fairy Powered Productions</a></cite></footer>
+RedirectFrom:
+  - 2019/nextthingyouknow.htm
 ---
 ***Next Thing You Know*** **(“NTYK”) is a musical about four New Yorkers waking up from their invincible twenties and confronting adulthood in the city that never sleeps. It looks at a time in life when one day you wake up, and instead of a hangover, you have a job. Instead of a fling, you have a live-in girlfriend. And instead of naïve dreams, you have reality. Think: a musical episode of *How I Met Your Mother* or** ***Friends*.**
 
