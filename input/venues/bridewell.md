@@ -20,19 +20,19 @@ Off Fleet Street\
 London\
 EC4Y 8EQ
 
-**Nearest tube stations:**
+**Nearest tube stations**
 
 Blackfriars (District and Circle line), three-minute walk
 
 St Paul’s (Central line), seven-minute walk
 
-**Bus:**
+**Bus**
 
 Fleet Street, 4, 11, I5, 23, 26, 76
 
 New Bridge Street, 45, 63, 172
 
-**Rail:**
+**Rail**
 
 Thameslink, two-minute walk
 
@@ -56,5 +56,4 @@ Certain shows may not be able to admit latecomers at all or not until the interv
 
 The Bridewell Theatre is accessible through the main entrance via a portable ramp over a threshold stone with a riser height ranging from 110-150mm from right to left. Access from the threshold to the auditorium is via a stairlift (230kg weight load) and to the theatre bar and lavatories via a platform lift (340kg weight load).
 
-^^^ ![](/assets/14516771093_8396f98cf1_c.jpg) 
-^^^ The award-winning set for Sedos' 2014 production of Into the Woods at the Bridewell
+^^^ ![](/assets/14516771093_8396f98cf1_c.jpg)  ^^^ The award-winning set for Sedos' 2014 production of Into the Woods at the Bridewell
