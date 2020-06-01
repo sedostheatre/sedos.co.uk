@@ -2,6 +2,7 @@
 title: Whose Life Is It Anyway?
 year: "2016"
 authors: By BRIAN CLARK
+subtitle: A patient tries to claim the right to die
 showtimes:
   - time: 2016-06-21 19:30
   - time: 2016-06-22 19:30
