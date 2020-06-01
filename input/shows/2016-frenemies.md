@@ -6,8 +6,17 @@ showtimes:
   - time: 2016-08-31 17:00
   - time: 2016-08-31 20:00
   - time: 2016-09-01 20:00
+  - time: 2016-08-06 16:00
+  - time: 2016-08-07 16:00
+  - time: 2016-08-08 16:00
+  - time: 2016-08-09 16:00
+  - time: 2016-08-10 16:00
+  - time: 2016-08-11 16:00
+  - time: 2016-08-12 16:00
+  - time: 2016-08-13 16:00
 showtime-summary: 1 July-1 August and 6-13 August 2016
 venue: Bridewell Theatre and Forest Theatre
+primary-color: "#d2232a"
 header-image: /assets/frenemies-header.jpg
 flyer: /assets/frenemies-flyer-final-1-800.jpg
 box-office-open: false
@@ -32,6 +41,14 @@ sections:
       **ASSISTANT DIRECTOR** and **ASSISTANT PRODUCER** | Adrian Hau\
       **STAGE MANAGER** | Becky Chisholm
     title: " CAST & CREATIVE TEAM"
+  - order: 2
+    title: GALLERY
+    body: <a data-flickr-embed="true"
+      href="https://www.flickr.com/photos/sedos/albums/72157667960895894"
+      title="Frenemies - 2016"><img
+      src="https://live.staticflickr.com/7739/27562439173_efb68f1933_z.jpg"
+      width="640" height="427" alt="Frenemies - 2016"></a><script async
+      src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 RedirectFrom:
   - 2016/frenemies.htm
 ---
