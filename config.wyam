@@ -67,21 +67,11 @@ Pipelines.Add("AllShows",
         .UseExtensions(),    
     Meta("header-image", CopyAndResizeHeaderImage),
     Meta("flyer", (doc, ctx) => CopyAndResizeImageFromMeta(doc, ctx, "flyer", null, 360)),
+    Meta("showtimes", (doc, ctx) => doc.Get("showtimes", Enumerable.Empty<IDocument>())),
     Meta("sections", (doc, ctx) => doc.Get("sections", Enumerable.Empty<IDocument>()).OrderBy(d => d.Get("order", 1)).Select(d => ProcessMarkdown(d, ctx))),
     Razor().WithViewStart("Layout/_ShowViewStart.cshtml"),
     Shortcodes(),
     WriteFiles(".html")
-);
-
-Pipelines.Add("FutureShows",
-    ReadFiles("shows/*.md"),
-    FrontMatter(Yaml()),
-    WriteFiles(".html").OnlyMetadata(),
-    Meta("header-image", CopyAndResizeHeaderImage),
-    Meta("flyer", (doc, ctx) => CopyAndResizeImageFromMeta(doc, ctx, "flyer", null, 360)),
-    Meta("showtimes", (doc, ctx) => doc.Get("showtimes", Enumerable.Empty<IDocument>())),
-    Where((doc, ctx) => doc.Get<IEnumerable<IDocument>>("showtimes").Any(time => time.Get<DateTime>("time") > DateTime.Now)),
-    OrderBy((doc, ctx) => doc.Get<IEnumerable<IDocument>>("showtimes").Select(time => time.Get<DateTime>("time")).First())
 );
 
 Pipelines.Add("News",

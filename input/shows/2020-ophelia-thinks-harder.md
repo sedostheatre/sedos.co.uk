@@ -11,8 +11,9 @@ showtimes:
   - time: 2020-04-02 19:30
   - time: 2020-04-03 19:30
   - time: 2020-04-04 16:00
-  - time: 2020-08-02 19:30
 showtime-summary: THIS SHOW HAS BEEN POSTPONED
+show-on-homepage: true
+order-on-homepage: 1
 flyer: /assets/2020-02-16-ophelia-flyer-front-800.png
 RedirectFrom:
   - 2020/opheliathinksharder.htm

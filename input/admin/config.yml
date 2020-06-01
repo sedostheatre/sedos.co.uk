@@ -57,6 +57,14 @@ collections:
         label: Summary of show times, shown at the footer of the home page/show details header
         widget: string
         required: false
+      - label: Show on home page?
+        name: show-on-homepage
+        widget: boolean
+        required: false
+      - label: Order on home page
+        name: order-on-homepage
+        widget: number
+        required: false
       - label: Venue
         name: venue
         widget: string
