@@ -26,7 +26,7 @@ sections:
   - order: 1
     title: CAST & CREATIVE TEAM
     body: |-
-      **VANDERDENDUR** | Mark Siddall \
+      **CANDIDE** | Mark Siddall \
       **CUNEGONDE** | Emma Morgan \
       **PANGLOSS/VOLTAIRE** | Stephen Russell \
       **PAQUETTE** | Kate Gledhill \
@@ -41,8 +41,7 @@ sections:
       Francesca Canty \
       Becky Chisholm \
       Jess Davidson \
-      Victoria Greenway
-      Georgie Sheppard
+      Victoria Greenway Georgie Sheppard
       Rowena Turner
       Jo Webber
       Laura Williams
@@ -51,8 +50,7 @@ sections:
       Nick Dore \
       Paul Francis \
       Tim Garrad \
-      Stephen Hewitt
-      Ben Press
+      Stephen Hewitt Ben Press
 
       **CREATIVES**
 
