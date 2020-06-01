@@ -17,6 +17,7 @@ showtimes:
   - time: 2016-08-05 19:30
   - time: 2016-08-02 14:30
   - time: 2016-08-06 19:30
+showtime-summary: 27 July-6 August 2016
 venue: Bridewell Theatre
 primary-color: "#27693b"
 header-image: /assets/londonroad-header.jpg
