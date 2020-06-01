@@ -6,7 +6,7 @@ subtitle: The show must go on!
 showtimes:
   - time: 2020-03-30 12:00
   - time: 2020-04-19 12:00
-  - time: 2020-07-31 22:00
+  - time: 2020-08-01 22:00
 showtime-summary: Online during lockdown
 venue: ""
 flyer: /assets/isolation-portrait.jpeg
