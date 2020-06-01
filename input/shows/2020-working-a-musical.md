@@ -4,7 +4,7 @@ year: "2020"
 authors: Adapted by NINA FASO and STEPHEN SCHWARTZ
 authors2: With additional contributions by GORDON GREENBERG
 authors3: ""
-subtitle: "A thoroughly touching musical "
+subtitle: ""
 showtimes:
   - time: 2020-07-07 19:30
   - time: 2020-07-08 19:30
