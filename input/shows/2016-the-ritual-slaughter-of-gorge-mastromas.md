@@ -43,10 +43,10 @@ sections:
   - order: 2
     title: GALLERY
     body: <a data-flickr-embed="true"
-      href="https://www.flickr.com/photos/sedos/29927559726/in/album-72157670731019014/"
+      href="https://www.flickr.com/photos/sedos/albums/72157670731019014"
       title="The Ritual Slaughter of Gorge Mastromas - 2016"><img
-      src="https://www.flickr.com/photos/sedos/29334961523/in/album-72157670731019014/"
-      width="640" height="480" alt="The Ritual Slaughter of Gorge Mastromas -
+      src="https://live.staticflickr.com/8339/29878458591_36dcf3e6ba_z.jpg"
+      width="640" height="427" alt="The Ritual Slaughter of Gorge Mastromas -
       2016"></a><script async src="//embedr.flickr.com/assets/client-code.js"
       charset="utf-8"></script>
 RedirectFrom:
