@@ -6,8 +6,6 @@ image: /assets/aboutus-howtosucceed.jpg
 ---
 ## FAQs
 
-
-
 **Are auditions open to everyone?**
 
 Absolutely! We welcome people of all levels, ages and experience.
@@ -95,7 +93,7 @@ Most of our rehearsals take place at 1 Brewers' Hall Garden (BHG), London EC2V 5
 
 We are the resident theatre company at the Bridewell Theatre, just off Fleet Street in London, and we generally perform there for 10 weeks a year.
 
-We also perform at a other venues from time to time, including at the Edinburgh Fringe and the Minack Theatre. 
+We also perform at other venues from time to time, including at the Edinburgh Fringe and the Minack Theatre. 
 
 **How long is the performance period?**
 
