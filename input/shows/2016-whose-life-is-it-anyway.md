@@ -12,6 +12,7 @@ showtimes:
 showtime-summary: 21–25 June 2016
 venue: Bridewell Theatre
 primary-color: "#056fb6"
+header-image: /assets/whose-life-header.jpg
 flyer: /assets/whoselifeflyer_a5_front-final-final-800.jpg
 box-office-open: false
 sections:
