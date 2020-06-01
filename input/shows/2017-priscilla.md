@@ -99,7 +99,7 @@ sections:
 
       ><footer><cite><a target="_blank" href="https://www.londontheatre1.com/reviews/priscilla-queen-of-the-desert-review-bridewell-theatre-london/">Priscilla Queen of the Desert, 2017, London Theatre 1</a></cite></footer>
 RedirectFrom:
-  - https://sedos.co.uk/2017/priscilla.htm
+  - /2017/priscilla.htm
 ---
 > A journey to the heart of fabulous!
 
