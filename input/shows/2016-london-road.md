@@ -56,6 +56,44 @@ sections:
       **LIGHTING DESIGNER** | Oliver Levett\
       S**TAGE MANAGER** | Andrew Laidlaw
     title: CAST & CREATIVE TEAM
+  - order: 2
+    title: REVIEWS
+    body: >-
+      >I've been off line pretty much since Friday night so not had a chance to
+      say how brilliant I thought the show was. It was a joy to see how you had
+      brought it to life and found new beauty in an old flower. So many
+      congratulations to all of you. I do hope you have a great week and
+      continue to wow audiences with your expertise. Thank you
+
+      ><footer><cite>Message from playwright Alecky Blythe</cite></footer>
+
+
+      >**** A real triumph for Sedos. 
+
+      ><footer><cite><a target="_blank" href="https://www.londontheatre1.com/reviews/review-london-road-bridewell-theatre/">London Road, 2016, Londontheatre1.com (****)</a></cite></footer>
+
+
+      >An outstanding performance of an extraordinary musical.
+
+      ><footer><cite><a target="_blank" href="http://www.infobarrel.com/Sedos_Presents_London_Road_at_Bridewell_Theatre_London">London Road*, 2016, InfoBarrel</a></cite></footer>
+
+
+      >I’m fast running out of superlatives when discussing the ongoing virtuosity of Sedos.... A sublime piece of theatre.
+
+      ><footer><cite><a target="_blank" href="http://www.sardinesmagazine.co.uk/reviews/review.php?REVIEW-Sedos-London%20Road&reviewsID=2510">*London Road*, 2016, Sardines Magazine</a></cite></footer>
+
+
+      >A very stylish and smart production of an intriguing gem of a musical... [Sedos] creates something that is touching, funny, uncomfortable and thought-provoking.
+
+      ><footer><cite><a target="_blank" href="https://www.myentertainmentworld.ca/2016/08/london-road-sedos/">London Road*, 2016, My Entertainment World</a></cite></footer>
+  - order: 3
+    title: GALLERY
+    body: <a data-flickr-embed="true"
+      href="https://www.flickr.com/photos/sedos/albums/72157670235961335"
+      title="London Road - 2016"><img
+      src="https://live.staticflickr.com/8155/28610193295_e6dbbbb263_z.jpg"
+      width="640" height="357" alt="London Road - 2016"></a><script async
+      src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 RedirectFrom:
   - 2016/londonroad.htm
 ---
