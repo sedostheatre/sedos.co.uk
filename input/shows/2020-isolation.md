@@ -2,7 +2,7 @@
 title: "Isolation: A Lockdown Experiment"
 year: "2020"
 authors2: By Sedos members
-subtitle: When creatives are forced to isolate; the show must go on!
+subtitle: The show must go on!
 showtimes:
   - time: 2020-04-19 12:00
   - time: 2020-07-31 22:00
