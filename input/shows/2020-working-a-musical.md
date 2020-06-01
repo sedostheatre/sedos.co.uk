@@ -12,6 +12,8 @@ showtimes:
   - time: 2020-07-10 19:30
   - time: 2020-07-11 14:30
   - time: 2020-07-11 19:30
+  - time: 2020-06-01 11:20
+  - time: 2020-08-02 19:30
 showtime-summary: THIS SHOW HAS BEEN POSTPONED
 flyer: /assets/Working Poster Final Proof-800.png
 RedirectFrom:
