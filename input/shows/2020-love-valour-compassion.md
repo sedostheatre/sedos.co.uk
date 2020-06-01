@@ -3,20 +3,12 @@ title: Love! Valour! Compassion!
 year: "2020"
 authors: By TERRENCE MCNALLY
 subtitle: A monumental exploration into life, love and loss at the end of the millennium
-showtimes:
-  - time: 2020-08-04 19:30
-  - time: 2020-08-05 19:30
-  - time: 2020-08-06 19:30
-  - time: 2020-08-07 19:30
-  - time: 2020-08-08 14:30
-  - time: 2020-08-08 19:30
+showtimes: []
 showtime-summary: THIS SHOW HAS BEEN POSTPONED
 venue: Bridewell Theatre
-flyer: /assets/lovevalourcompassion-portrait-2.jpg
-RedirectFrom:
-  - 2020/LoveValourCompassion.htm
 primary-color: "#f35892"
 header-image: /assets/lovevalourcompassion-landscape.jpg
+flyer: /assets/lovevalourcompassion-portrait-2.jpg
 sections:
   - order: 1
     title: CAST & CREATIVE TEAM
@@ -26,6 +18,8 @@ sections:
       **DIRECTOR & DESIGNER** | Robert J. Stanex\
       **PRODUCER** | Rebecca Chisholm\
       **CHOREOGRAPHER** | Kimberly Barker
+RedirectFrom:
+  - 2020/LoveValourCompassion.htm
 ---
 #### **THIS SHOW HAS BEEN POSTPONED. [FIND OUT MORE](/news/2020-03-26-a-message-to-our-members-and-friends).**
 
