@@ -1,7 +1,7 @@
 ---
 title: Love! Valour! Compassion!
 year: "2020"
-authors: by TERRENCE MCNALLY
+authors: By TERRENCE MCNALLY
 subtitle: A monumental exploration into life, love and loss at the end of the millennium
 showtimes:
   - time: 2020-08-04 19:30
