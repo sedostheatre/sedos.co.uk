@@ -1,10 +1,10 @@
 ---
 title: Ophelia Thinks Harder
 year: "2020"
-authors: by JEAN BETTS
+authors: By JEAN BETTS
 authors2: and WILLIAM SHAKESPEARE
 authors3: ""
-subtitle: A riotous reworking of Hamlet.
+subtitle: A riotous reworking of Hamlet
 showtimes:
   - time: 2020-03-31 19:30
   - time: 2020-04-01 19:30
