@@ -25,7 +25,8 @@ sections:
     body: |-
       **CAST**
 
-      Juliette Chrisman Nick Dore\
+      Juliette Chrisman \
+      Nick Dore\
       Fiona Jones\
       Pedro Pinhal\
       Katie Rice\
@@ -36,7 +37,8 @@ sections:
       \
       **CREATIVE TEAM**
 
-      **DIRECTOR** | Dan Saunders PRODUCER | Lizzie Drapper\
+      **DIRECTOR** | Dan Saunders \
+      **PRODUCER** | Lizzie Drapper\
       **TECHNICAL DIRECTOR** | Ben Hussey\
       **ASSISTANT DIRECTOR** and **ASSISTANT PRODUCER** | Adrian Hau\
       **STAGE MANAGER** | Becky Chisholm
