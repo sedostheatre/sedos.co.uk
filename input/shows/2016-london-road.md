@@ -112,7 +112,7 @@ Playwright Alecky Blythe recorded extensive interviews with the residents of Lon
 
 “I've been off line pretty much since Friday night so not had a chance to say how brilliant I thought the show was. It was a joy to see how you had brought it to life and found new beauty in an old flower. So many congratulations to all of you. I do hope you have a great week and continue to wow audiences with your expertise. Thank you.”
 
-![](/assets/aleckyandcast.jpg "Alecky B, plus original National Theatre London cast members Nick Holder and Michael Schaeffer, with the Sedos cast of London Road.lythe")
+![Alecky Blythe, plus original National Theatre London cast members Nick Holder and Michael Schaeffer, with the Sedos cast of London Road.](/assets/aleckyandcast.jpg "Alecky Blythe, plus original National Theatre London cast members Nick Holder and Michael Schaeffer, with the Sedos cast of London Road.")
 
 >This miraculously innovative show finds a new way of representing reality \[and] opens up rich possibilities for musical theatre.
 ><footer><cite>Guardian</cite></footer>
