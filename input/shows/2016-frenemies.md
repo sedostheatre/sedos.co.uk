@@ -60,7 +60,7 @@ A show about those people you love to hate. That bitch co-worker? That arsehole 
 
 Six short plays from international writers presented over the course of one hour. Each play is comedy driven with strong dramatic elements in some. The plays will share a stylistic theme as well as the general theme of 'Frenemies' to create a cohesive show performed by an ensemble of eight actors.
 
-**The plays featured in Frenemies are:**
+The plays featured in *Frenemies* are:
 
 **I Can Tell Your Handbag is Fake**, *by Dean Lundquist* \
 Three fashion-conscious friends meet on the underground where one of them, much to chagrin of the others, points out that she can tell that their handbags are fake. A commentary on what fashion means to identity.
