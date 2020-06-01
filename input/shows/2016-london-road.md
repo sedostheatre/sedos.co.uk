@@ -107,10 +107,14 @@ Playwright Alecky Blythe recorded extensive interviews with the residents of Lon
 
 *London Road* is an experimental and challenging musical documentary which reveals the ways in which even the darkest experiences can inspire a community. *London Road* was originally performed at the National Theatre in 2011, winning the Critics’ Circle Award for Best Musical. A feature film of the production was made in 2015 starring Olivia Colman and Tom Hardy and including many of original cast.
 
+**Message from playwright Alecky Blythe:**
+
+“I've been off line pretty much since Friday night so not had a chance to say how brilliant I thought the show was. It was a joy to see how you had brought it to life and found new beauty in an old flower. So many congratulations to all of you. I do hope you have a great week and continue to wow audiences with your expertise. Thank you.”
+
+![](/assets/aleckyandcast.jpg "Alecky B, plus original National Theatre London cast members Nick Holder and Michael Schaeffer, with the Sedos cast of London Road.lythe")
+
 >This miraculously innovative show finds a new way of representing reality \[and] opens up rich possibilities for musical theatre.
 ><footer><cite>Guardian</cite></footer>
-
-
 
 >An astonishing document about a beleaguered yet resilient community... a startling, magically original success.
 ><footer><cite>Evening Standard</cite></footer>
