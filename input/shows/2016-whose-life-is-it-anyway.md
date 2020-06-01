@@ -39,6 +39,23 @@ sections:
       **NURSING CONSULTANT** | Lisa Stewart\
       **SPINAL INJURY LIAISON** | Lady-Marie Dawson-Malcolm
     title: CAST & CREATIVE TEAM
+  - order: 1
+    title: REVIEWS
+    body: >-
+      >A riveting couple of hours… this is a thought-provoking and thoroughly
+      entertaining piece of theatre about a highly sensitive and controversial
+      subject.
+
+      ><footer><cite><a target="_blank" href="http://www.sardinesmagazine.co.uk/reviews/review.php?REVIEW-Sedos-Whose%20Life%20is%20it%20Anyway?&reviewsID=2450">Whose Life Is It Anyway?, 2016, Sardines</a></cite></footer>
+  - order: 3
+    title: GALLERY
+    body: <a data-flickr-embed="true"
+      href="https://www.flickr.com/photos/sedos/albums/72157668834137680"
+      title="Whose Life Is It Anyway? - 2016"><img
+      src="https://live.staticflickr.com/7424/27387858910_7ac7cd0b78_z.jpg"
+      width="640" height="427" alt="Whose Life Is It Anyway? - 2016"></a><script
+      async src="//embedr.flickr.com/assets/client-code.js"
+      charset="utf-8"></script>
 RedirectFrom:
   - 2016/whoselifeisitanyway.htm
 ---
