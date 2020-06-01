@@ -53,7 +53,7 @@ sections:
       **CREATIVE TEAM**
 
 
-      **DEVISED, DIRECTED** and **CHOREOGRAPHED BY** | Kimberly Barker and Tom Leonard~\
+      **DEVISED, DIRECTED** and **CHOREOGRAPHED BY** | Kimberly Barker and Tom Leonard\
 
       **PRODUCER** | Clare Harding\
 
