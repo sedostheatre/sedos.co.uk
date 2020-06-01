@@ -27,7 +27,7 @@ Take a look and see how isolation has inspired the Sedos Membership.
 
 ### **[WATCH THE VIDEOS](https://www.youtube.com/user/SedosVideo/videos)**
 
-
+  
 
 **CREATIVE TEAM**\
 \
