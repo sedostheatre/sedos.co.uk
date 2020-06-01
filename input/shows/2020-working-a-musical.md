@@ -9,18 +9,15 @@ showtimes:
   - time: 2020-05-12 19:30
   - time: 2020-05-13 19:30
   - time: 2020-05-14 19:30
-  - time: 2020-07-10 19:30
   - time: 2020-05-15 19:30
   - time: 2020-05-16 14:30
   - time: 2020-05-16 19:30
   - time: 2020-08-03 19:30
 showtime-summary: THIS SHOW HAS BEEN POSTPONED
-flyer: /assets/Working Poster Final Proof-800.png
-RedirectFrom:
-  - 2020/working.htm
 venue: Bridewell Theatre
 primary-color: "#000000"
 header-image: /assets/working-skyline.jpg
+flyer: /assets/Working Poster Final Proof-800.png
 sections:
   - order: 1
     title: CAST & CREATIVE TEAM
@@ -59,6 +56,8 @@ sections:
       src="https://live.staticflickr.com/65535/49605804937_8fa2fbc024_z.jpg"
       width="452" height="640" alt="Working: A Musical - 2020"></a><script async
       src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>'
+RedirectFrom:
+  - 2020/working.htm
 ---
 #### **THIS SHOW HAS BEEN POSTPONED. [FIND OUT MORE](/news/2020-03-26-a-message-to-our-members-and-friends).**
 
