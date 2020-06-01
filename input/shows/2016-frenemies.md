@@ -18,7 +18,7 @@ showtime-summary: 1 July-1 August and 6-13 August 2016
 venue: Bridewell Theatre and Forest Theatre
 primary-color: "#d2232a"
 header-image: /assets/frenemies-header.jpg
-flyer: /assets/frenemies-flyer-final-1-800.jpg
+flyer: /assets/frenemies-flyer-final-1-800-2.jpg
 box-office-open: false
 sections:
   - order: 1
