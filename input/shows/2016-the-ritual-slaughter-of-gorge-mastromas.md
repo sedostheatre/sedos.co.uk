@@ -24,7 +24,7 @@ sections:
       **MARTIN** | John Irvine\
       **GEL** | Oli O'Donohoe\
       **PETE** | Calvin Crawley\
-      **PORTER** | Alain English!\
+      **PORTER** | Alain English\
       **A** | Imogen Turner\
       **LOUISA** | Grace Parker\
       \
