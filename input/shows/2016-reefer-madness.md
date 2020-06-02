@@ -59,6 +59,9 @@ sections:
       src="https://live.staticflickr.com/1652/25445835043_dded814197_z.jpg"
       width="640" height="427" alt="Reefer Madness - 2016"></a><script async
       src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+  - order: 3
+    title: VIDEO
+    body: <div class="video-responsive"><?# YouTube v=B4-aD4MxYl4 /?></div>
 RedirectFrom:
   - 2016/reefermadness.htm
 ---
