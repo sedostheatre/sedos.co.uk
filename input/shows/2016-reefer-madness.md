@@ -18,7 +18,38 @@ box-office-open: false
 sections:
   - order: 1
     title: CAST & CREATIVE TEAM
-    body: CAST & CREATIVE TEAM
+    body: |-
+      **CAST**
+
+      **LECTURER** | Sam Benton \
+      **JIMMY** | Josh Gordon\
+      **MAR**Y | Abbie Minnock\
+      **JACK** | Brady Lloyd\
+      **MAE** | Lisa Rost-Welling\
+      **SALLY** | Sara Rajeswaran\
+      **RALPH** | Conor Rooney\
+      **PLACARD GIRL** | Alexa Downey
+
+      **ENSEMBLE**
+
+      Alex Bacon Kristoff Beens\
+      Sarah Berryman\
+      Chris Cahill\
+      Jonathan Cooper\
+      Natalie Harding-Moore\
+      Lydia Marston\
+      Sam Miller\
+      Kat Novkovic\
+      Katie Renton\
+      Mark Siddall
+
+      **CREATIVE TEAM**
+
+      **DIRECTOR** | Matt Bentley \
+      **MUSICAL DIRECTOR** | Hayden Taylor\
+      **CHOREOGRAPHER** | Alice Bendall\
+      **PRODUCER** | Nicola Gledhill\
+      **ASSISTANT PRODUCER** | Blake Klein
   - order: 2
     title: GALLERY
     body: <a data-flickr-embed="true"
