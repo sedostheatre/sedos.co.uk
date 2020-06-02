@@ -12,11 +12,21 @@ showtimes:
   - time: 2016-05-21 19:30
 showtime-summary: 17-21 May 2016
 venue: Bridewell Theatre
+primary-color: "#067330"
+flyer: /assets/reefer-flyer-front-600.jpg
 box-office-open: false
 sections:
   - order: 1
     title: CAST & CREATIVE TEAM
     body: CAST & CREATIVE TEAM
+  - order: 2
+    title: GALLERY
+    body: <a data-flickr-embed="true"
+      href="https://www.flickr.com/photos/sedos/albums/72157666333725756"
+      title="Reefer Madness - 2016"><img
+      src="https://live.staticflickr.com/1652/25445835043_dded814197_z.jpg"
+      width="640" height="427" alt="Reefer Madness - 2016"></a><script async
+      src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 RedirectFrom:
   - 2016/reefermadness.htm
 ---
