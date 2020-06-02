@@ -55,6 +55,15 @@ sections:
       **FLYER DESIGNER |** Rebecca Turner\
       **PROGRAMME DESIGNER |** Pippa Kyle\
       **PHOTOGRAPHER |** Michael Smith
+  - order: 2
+    title: GALLERY
+    body: <a data-flickr-embed="true"
+      href="https://www.flickr.com/photos/sedos/albums/72157663464629379"
+      title="I Love You, You&#x27;re Perfect, Now Change - 2016"><img
+      src="https://live.staticflickr.com/1524/24985108603_0ab28b6786_z.jpg"
+      width="640" height="427" alt="I Love You, You&#x27;re Perfect, Now Change
+      - 2016"></a><script async src="//embedr.flickr.com/assets/client-code.js"
+      charset="utf-8"></script>
 RedirectFrom:
   - 2016/ILoveYouYourePerfectNowChange.htm
 ---
