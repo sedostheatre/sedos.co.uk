@@ -80,4 +80,6 @@ RedirectFrom:
 > \
 > And thousands and thousands and thousands and thousands of years passed. And as for man and woman…
 
-*I Love You, You're Perfect, Now Change* is the second-longest running off Broadway musical. By turns poignant and funny, this cabaret style show celebrates and reflects on the beauty and comedy of love in all its guises.
+***I Love You, You're Perfect, Now Change* is the second-longest running off Broadway musical.** 
+
+By turns poignant and funny, this cabaret style show celebrates and reflects on the beauty and comedy of love in all its guises.
