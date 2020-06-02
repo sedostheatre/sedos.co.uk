@@ -35,6 +35,45 @@ sections:
       >Such Stuff as Dreams are Made On is absolutely fantastic… a truly fantastic show that will play with your mind and blow you away from the moment it starts until you once more leave the building and re-enter the real world which, for a while will seem a little less colourful than it was before.
 
       ><footer><cite><a target="_blank" href="https://www.londontheatre1.com/reviews/fantastic-such-stuff-as-dreams-are-made-on/">Such Stuff As Dreams Are Made On, 2016, London Theatre 1 </a></cite></footer>
+  - order: 1
+    title: CAST & CREATIVE TEAM
+    body: |-
+      **LIVE CAST**
+
+      Amaranthe Partridge \
+      Benjamin Hoope\
+      Bronia Kupczyk\
+      Caitlin Homes\
+      Camille Richmon\
+      Daniel Davies\
+      Davinia Hamilton\
+      Emma Morgan\
+      Graham Rice\
+      Helena Bumpus\
+      James Stone\
+      Jen Jewell\
+      Kaytie Lee\
+      Kimberly Barker\
+      Olivier Namet\
+      Rebecca Wedgwood\
+      Robert Stanex	
+
+      **VOICE CAST**
+
+      Alan Maddrell Alex Baker\
+      Chris de Pury\
+      Paul Francis\
+      Will Harrison-Wallace\
+      Zoë Thomas-Webb
+
+      (other voices played by the live cast members)
+
+      **CAST & CREATIVE TEAM**
+
+      **DIRECTORS** | Sarah Heenan and Charlotte Price \
+      **ASSOCIATE DIRECTOR** | Samuel Hunt\
+      **PRODUCER** | Clare Harding\
+      **MUSICAL DIRECTOR** | Michael Smith
 RedirectFrom:
   - 2016/suchstuff.htm
 ---
