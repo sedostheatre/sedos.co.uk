@@ -1,6 +1,6 @@
 ---
 title: Sedos launches new website
-date: 2020-06-02
+date: 2020-06-05
 image: /assets/screen-shot-2020-06-02-at-17.52.46.png
 ---
 **Today (Friday 5 June 2020), Sedos launches a new website – the first major overhaul of our online presence in 13 years.**
