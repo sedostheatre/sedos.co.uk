@@ -5,6 +5,7 @@ authors: "Adapted from WILLIAM SHAKESPEARE'S The Tempest "
 authors2: By SARAH HEENAN
 subtitle: An immersive adventure through Shakespeare's final play
 showtime-summary: 12-23 April 2016
+header-image: /assets/such-stuff-header.jpg
 flyer: /assets/suckstuff-l-black-800.jpg
 box-office-open: false
 sections:
