@@ -15,6 +15,7 @@ showtimes:
 showtime-summary: " 8-12 March 2016"
 venue: Bridewell Theatre
 primary-color: "#ffc102"
+header-image: /assets/24985108603_5c365e5ffe_k.jpg
 flyer: /assets/i-love-you-poster-front-print-600.jpg
 box-office-open: false
 sections:
