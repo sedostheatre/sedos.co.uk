@@ -9,6 +9,15 @@ flyer: /assets/suckstuff-l-black-800.jpg
 box-office-open: false
 sections:
   - order: 1
+    title: GALLERY
+    body: <a data-flickr-embed="true"
+      href="https://www.flickr.com/photos/sedos/albums/72157666288150421"
+      title="Such Stuff As Dreams Are Made On - 2016"><img
+      src="https://live.staticflickr.com/1462/26672402806_85391c8655_z.jpg"
+      width="640" height="427" alt="Such Stuff As Dreams Are Made On -
+      2016"></a><script async src="//embedr.flickr.com/assets/client-code.js"
+      charset="utf-8"></script>
+  - order: 1
     title: REVIEWS
     body: >-
       >I would give the show as many stars as possible and think everyone in
