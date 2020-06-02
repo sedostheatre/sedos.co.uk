@@ -1,7 +1,7 @@
 ---
 title: Reefer Madness
 year: "2016"
-authors: by KEVIN MURPHY and DAN STUDNEY
+authors: By KEVIN MURPHY and DAN STUDNEY
 subtitle: A raucous musical satire
 showtimes:
   - time: 2016-05-17 19:30
