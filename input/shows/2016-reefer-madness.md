@@ -60,6 +60,14 @@ sections:
       width="640" height="427" alt="Reefer Madness - 2016"></a><script async
       src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
   - order: 3
+    body: >-
+      >I applaud Sedos for taking a risk and producing this little known show
+      and encourage those who want to spend the night laughing at inappropriate
+      jokes to get themselves along to the Bridewell.
+
+      ><footer><cite><a target="_blank" href="http://musicaltheatremusings.co.uk/reefer-madness">Reefer Madness, 2016, Musical Theatre Musings</a></cite></footer>
+    title: REVIEWS
+  - order: 4
     title: VIDEO
     body: <div class="video-responsive"><?# YouTube v=B4-aD4MxYl4 /?></div>
 RedirectFrom:
