@@ -3,8 +3,8 @@ title: I Love You, You're Perfect, Now Change
 year: "2016"
 authors: Book and Lyrics by JOE DIPIETRO
 authors2: Music by JIMMY ROBERTS
-subtitle: A cabaret style show celebrates and reflects on the beauty and comedy
-  of love in all its guises
+subtitle: A cabaret style show which celebrates and reflects on the beauty and
+  comedy of love in all its guises
 showtimes:
   - time: 2016-03-08 19:30
   - time: 2016-03-09 19:30
@@ -74,10 +74,10 @@ sections:
 RedirectFrom:
   - 2016/ILoveYouYourePerfectNowChange.htm
 ---
-> "And the Lord God said, 'Let there be man and woman.' And there was man and woman. And that night, man asked woman if she was busy. And woman said, 'Thank you' she'd have to check, but she'd still like to see other people. And man said, 'There are no other people.'
->
-> "And woman said, 'Okay, how 'bout this: we get married, you vow your eternal love for me and you never see another woman naked for the rest of your life.' And man said, 'Oh.'
->
-> "And thousands and thousands and thousands and thousands of years passed. And as for man and woman…"
+> And the Lord God said, 'Let there be man and woman.' And there was man and woman. And that night, man asked woman if she was busy. And woman said, 'Thank you' she'd have to check, but she'd still like to see other people. And man said, 'There are no other people.'\
+> \
+> And woman said, 'Okay, how 'bout this: we get married, you vow your eternal love for me and you never see another woman naked for the rest of your life.' And man said, 'Oh.'\
+> \
+> And thousands and thousands and thousands and thousands of years passed. And as for man and woman…
 
 *I Love You, You're Perfect, Now Change* is the second-longest running off Broadway musical. By turns poignant and funny, this cabaret style show celebrates and reflects on the beauty and comedy of love in all its guises.
