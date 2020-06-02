@@ -69,7 +69,7 @@ sections:
     title: REVIEWS
   - order: 4
     title: VIDEO
-    body: <div class="video-responsive"><?# YouTube v=B4-aD4MxYl4 /?></div>
+    body: <div class="video-responsive"><?# YouTube B4-aD4MxYl4 /?></div>
 RedirectFrom:
   - 2016/reefermadness.htm
 ---
