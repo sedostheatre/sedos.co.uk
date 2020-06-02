@@ -1,13 +1,13 @@
 ---
 title: Sedos launches new website
 date: 2020-06-05
-image: /assets/screen-shot-2020-06-02-at-17.52.46.png
+image: /assets/screen-shot-2020-06-02-at-18.20.16.png
 ---
 **Today (Friday 5 June 2020), Sedos launches a new website – the first major overhaul of our online presence in 13 years.**
 
 Sedos’ first website went live in December 2003, making the society one of the first amateur companies to go digital. The website was then given a refresh in December 2007.
 
-The 2020 edition of the website will be mobile and tablet compatible, the first time the Sedos website has boasted this functionality, which reflects the way many people now spend much of their time online. 
+The 2020 edition of the website is mobile and tablet compatible, the first time the Sedos website has boasted this functionality, which reflects the way many people now spend much of their time online. 
 
 The new site has been planned for a couple of years, with a great deal of work behind the scenes considering what visitors want from a website, what it should look like and how it should be structured, as well as buildilng and populating the site. We wanted to take into account the different needs and priorities of different stakeholders coming to the website, from our current members to those looking to buy a ticket and our potential members, future backstage crews and auditionees.
 
