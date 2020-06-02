@@ -1,0 +1,65 @@
+---
+title: I Love You, You're Perfect, Now Change
+year: "2016"
+authors: Book and Lyrics by JOE DIPIETRO
+authors2: Music by JIMMY ROBERTS
+subtitle: A cabaret style show celebrates and reflects on the beauty and comedy
+  of love in all its guises
+showtimes:
+  - time: 2016-03-08 19:30
+  - time: 2016-03-09 19:30
+  - time: 2020-03-10 19:30
+  - time: 2016-03-11 19:30
+  - time: 2020-03-12 14:30
+  - time: 2016-03-12 19:30
+showtime-summary: " 8-12 March 2016"
+venue: Bridewell Theatre
+flyer: /assets/i-love-you-poster-front-print-600.jpg
+box-office-open: false
+sections:
+  - order: 1
+    title: CAST & CREATIVE TEAM
+    body: |-
+      **CAST**
+
+      Fiona Allan\
+      Laura Bird\
+      Joe Chittenden-Veal\
+      Kate Gledhill\
+      Adrian Hau\
+      Matt Hudson\
+      Luke James Leahy\
+      Claire Linney\
+      Penny Rodie\
+      Dan Saunders\
+      Brice Sedgwick\
+      Gemma Louise Zirfas\
+      \
+      **CREATIVE TEAM**
+
+      **DIRECTOR |** Emma J Leaver\
+      **MUSICAL DIRECTOR |** Michael Cannon\
+      **PRODUCERS |** Pippa Kyle & Ruth Luckins\
+      **STAGE MANAGER |** Gabi Benton-Stace\
+      **SET DESIGNERS |** Stuart Massey & Emma J Leaver\
+      **SET BUILDER |** Stuart Massey\
+      **LIGHTING DESIGNER |** Ruth Luckins\
+      **LIGHTING ASSISTANT |** Max Cherry\
+      **LIGHTING OPERATOR |** Aileen Ryan\
+      **PROPS CO-ORDINATOR |** Lisa Crook\
+      **COSTUME CO-ORDINATORS |** Gemma Louise Zirfas & Claire Linney\
+      **REHEARSAL PIANIST |** Jonathan Wagstaff\
+      **MOVEMENT COACH |** Natalie Demain\
+      **FLYER DESIGNER |** Rebecca Turner\
+      **PROGRAMME DESIGNER |** Pippa Kyle\
+      **PHOTOGRAPHER |** Michael Smith
+RedirectFrom:
+  - 2016/ILoveYouYourePerfectNowChange.htm
+---
+> "And the Lord God said, 'Let there be man and woman.' And there was man and woman. And that night, man asked woman if she was busy. And woman said, 'Thank you' she'd have to check, but she'd still like to see other people. And man said, 'There are no other people.'
+>
+> "And woman said, 'Okay, how 'bout this: we get married, you vow your eternal love for me and you never see another woman naked for the rest of your life.' And man said, 'Oh.'
+>
+> "And thousands and thousands and thousands and thousands of years passed. And as for man and woman…"
+
+*I Love You, You're Perfect, Now Change* is the second-longest running off Broadway musical. By turns poignant and funny, this cabaret style show celebrates and reflects on the beauty and comedy of love in all its guises.
