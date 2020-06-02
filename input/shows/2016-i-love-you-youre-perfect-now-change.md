@@ -64,6 +64,13 @@ sections:
       width="640" height="427" alt="I Love You, You&#x27;re Perfect, Now Change
       - 2016"></a><script async src="//embedr.flickr.com/assets/client-code.js"
       charset="utf-8"></script>
+  - order: 3
+    title: REVIEW
+    body: >-
+      >Sedos have once again achieved an end result to be proud of, a truthful,
+      funny musical bursting with talent.
+
+      ><footer><cite><a target="_blank" href="http://musicaltheatremusings.co.uk/love-you">I Love You, You’re Perfect, Now Change, 2016, Musical Theatre Musings</a></cite></footer>
 RedirectFrom:
   - 2016/ILoveYouYourePerfectNowChange.htm
 ---
