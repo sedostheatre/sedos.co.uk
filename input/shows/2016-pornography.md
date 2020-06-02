@@ -4,8 +4,17 @@ year: "2016"
 authors: By Simon Stephens
 subtitle: A stark and shattering play that captures London in the arc from
   euphoria to devastation
+showtimes:
+  - time: 2019-01-26 19:30
+  - time: 2016-01-27 19:30
+  - time: 2016-01-28 19:30
+  - time: 2019-01-29 19:30
+  - time: 2019-01-30 14:30
+  - time: 2019-01-30 19:30
 showtime-summary: 26-30 January 2016
 venue: Bridewell Theatre
+primary-color: "#900000"
+header-image: /assets/24267419889_2d3b9b7918_c.jpg
 flyer: /assets/simonstephens-flyerfront-600.jpg
 box-office-open: false
 sections:
@@ -28,9 +37,17 @@ sections:
       **PRODUCER |** Madhia Hussain\
       **ASSISTANT DIRECTOR |** Alastair Norton
     title: CAST & CREATIVE TEAM
-  - order: 1
+  - order: 3
     title: VIDEO
     body: <div class="video-responsive"><?# YouTube jqIZ7slcWLA /?></div>
+  - order: 2
+    title: GALLERY
+    body: <a data-flickr-embed="true"
+      href="https://www.flickr.com/photos/sedos/albums/72157662475603901"
+      title="Pornography - 2016"><img
+      src="https://live.staticflickr.com/1701/24267419889_2d3b9b7918_z.jpg"
+      width="640" height="427" alt="Pornography - 2016"></a><script async
+      src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 RedirectFrom:
   - 2016/pornography.htm
 ---
