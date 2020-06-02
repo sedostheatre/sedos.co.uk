@@ -13,6 +13,7 @@ showtimes:
 showtime-summary: 17-21 May 2016
 venue: Bridewell Theatre
 primary-color: "#067330"
+header-image: /assets/reefer-madness-header.jpg
 flyer: /assets/reefer-flyer-front-600.jpg
 box-office-open: false
 sections:
