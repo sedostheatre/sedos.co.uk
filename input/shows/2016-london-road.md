@@ -76,17 +76,17 @@ sections:
 
       >An outstanding performance of an extraordinary musical.
 
-      ><footer><cite><a target="_blank" href="http://www.infobarrel.com/Sedos_Presents_London_Road_at_Bridewell_Theatre_London">London Road*, 2016, InfoBarrel</a></cite></footer>
+      ><footer><cite><a target="_blank" href="http://www.infobarrel.com/Sedos_Presents_London_Road_at_Bridewell_Theatre_London">London Road, 2016, InfoBarrel</a></cite></footer>
 
 
       >I’m fast running out of superlatives when discussing the ongoing virtuosity of Sedos.... A sublime piece of theatre.
 
-      ><footer><cite><a target="_blank" href="http://www.sardinesmagazine.co.uk/reviews/review.php?REVIEW-Sedos-London%20Road&reviewsID=2510">*London Road*, 2016, Sardines Magazine</a></cite></footer>
+      ><footer><cite><a target="_blank" href="http://www.sardinesmagazine.co.uk/reviews/review.php?REVIEW-Sedos-London%20Road&reviewsID=2510">London Road, 2016, Sardines Magazine</a></cite></footer>
 
 
       >A very stylish and smart production of an intriguing gem of a musical... [Sedos] creates something that is touching, funny, uncomfortable and thought-provoking.
 
-      ><footer><cite><a target="_blank" href="https://www.myentertainmentworld.ca/2016/08/london-road-sedos/">London Road*, 2016, My Entertainment World</a></cite></footer>
+      ><footer><cite><a target="_blank" href="https://www.myentertainmentworld.ca/2016/08/london-road-sedos/">London Road, 2016, My Entertainment World</a></cite></footer>
   - order: 3
     title: GALLERY
     body: <a data-flickr-embed="true"
@@ -98,7 +98,7 @@ sections:
 RedirectFrom:
   - 2016/londonroad.htm
 ---
-**A new production of an inspiring 5-star hit that's part musical, part documentary.**
+**A new production of an inspiring five-star hit that's part musical, part documentary.**
 
 In 2006 the everyday life of the town of Ipswich was shattered by the discovery of the bodies of five women.
 
@@ -113,8 +113,6 @@ Playwright Alecky Blythe recorded extensive interviews with the residents of Lon
 “I've been off line pretty much since Friday night so not had a chance to say how brilliant I thought the show was. It was a joy to see how you had brought it to life and found new beauty in an old flower. So many congratulations to all of you. I do hope you have a great week and continue to wow audiences with your expertise. Thank you.”
 
 Here's Alecky, plus original National Theatre London cast members Nick Holder and Michael Schaeffer, with the Sedos cast of London Road.
-
-
 
 ![Alecky Blythe, plus original National Theatre London cast members Nick Holder and Michael Schaeffer, with the Sedos cast of London Road.](/assets/aleckyandcast.jpg "Alecky Blythe, plus original National Theatre London cast members Nick Holder and Michael Schaeffer, with the Sedos cast of London Road.")
 
