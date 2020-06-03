@@ -10,8 +10,7 @@ showtimes:
   - time: 2020-08-02 19:30
 showtime-summary: Online during lockdown
 venue: ""
-ticket-prices: Isolation videos will be released throughout lockdown on Facebook
-  and the Sedos YouTube channel.
+ticket-prices: Isolation videos will be released throughout lockdown.
 primary-color: "#19346b"
 header-image: /assets/isolation-coronavirus.jpg
 flyer: /assets/isolation-portrait.jpeg
