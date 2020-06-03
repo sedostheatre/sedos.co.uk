@@ -9,8 +9,8 @@ showtimes:
   - time: 2020-08-01 22:00
   - time: 2020-08-02 19:30
 showtime-summary: Online during lockdown
-show-on-homepage: true
-order-on-homepage: 1
+show-on-homepage: false
+order-on-homepage: ""
 venue: ""
 ticket-prices: Isolation videos will be released throughout lockdown.
 primary-color: "#19346b"
