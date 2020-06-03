@@ -3,14 +3,10 @@ title: "Isolation: A Lockdown Experiment"
 year: "2020"
 authors2: By Sedos members
 subtitle: The show must go on!
-showtimes:
-  - time: 2020-03-30 12:00
-  - time: 2020-04-19 12:00
-  - time: 2020-08-01 22:00
-  - time: 2020-08-02 19:30
+showtimes: []
 showtime-summary: Online during lockdown
-show-on-homepage: false
-order-on-homepage: ""
+show-on-homepage: true
+order-on-homepage: 1
 venue: ""
 ticket-prices: Isolation videos will be released throughout lockdown.
 primary-color: "#19346b"
