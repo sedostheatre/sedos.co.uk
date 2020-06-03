@@ -3,6 +3,13 @@ title: tick tick... BOOM!
 year: "2015"
 authors: Book, music and lyrics by JONATHAN LARSON
 subtitle: A musical about the courage it takes to follow your dreams
+showtimes:
+  - time: 2015-09-15 20:00
+  - time: 2015-09-16 20:00
+  - time: 2015-09-17 20:00
+  - time: 2015-09-18 20:00
+  - time: 2015-09-19 15:00
+  - time: 2015-09-19 19:00
 showtime-summary: 15-19 September 2015
 venue: Bridewell Theatre
 primary-color: "#d12227"
