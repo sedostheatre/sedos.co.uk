@@ -8,7 +8,7 @@ subtitle: 50th anniversary production of the classic Broadway musical
 showtimes:
   - time: 2015-11-25 19:30
   - time: 2015-11-26 19:30
-  - time: 2019-11-27 19:30
+  - time: 2015-11-27 19:30
   - time: 2015-11-28 14:30
   - time: 2015-11-28 19:30
   - time: 2015-12-01 19:30
