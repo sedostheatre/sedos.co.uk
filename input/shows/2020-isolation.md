@@ -7,6 +7,7 @@ showtimes:
   - time: 2020-03-30 12:00
   - time: 2020-04-19 12:00
   - time: 2020-08-01 22:00
+  - time: 2020-08-02 19:30
 showtime-summary: Online during lockdown
 venue: ""
 ticket-prices: Isolation videos will be released throughout lockdown on Facebook
