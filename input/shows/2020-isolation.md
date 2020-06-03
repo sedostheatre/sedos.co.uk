@@ -43,13 +43,23 @@ sections:
     body: |-
       <div class="video-responsive"><?# YouTube myGDhsqCV3A /?></div>
 
+      \    
+
       <div class="video-responsive"><?# YouTube 3VwumzByasM /?></div>
+
+      \    
 
       <div class="video-responsive"><?# YouTube 48csMuOQMrg /?></div>
 
+      \    
+
       <div class="video-responsive"><?# YouTube -A_kp4JZ2cw /?></div>
 
+      \    
+
       <div class="video-responsive"><?# YouTube Gw9FGLXvwp4 /?></div>
+
+      \
 RedirectFrom:
   - 2020/isolation.htm
 ---
