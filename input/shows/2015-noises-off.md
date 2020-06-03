@@ -45,6 +45,35 @@ sections:
       **LIGHTING AND SOUND DESIGNER** | Ben Hussey\
       **ASSISTANT DIRECTOR** | Tracie Laurinaitis\
       **STAGE MANAGER** | Lizzie Drapper
+  - order: 2
+    title: GALLERY
+    body: <a data-flickr-embed="true"
+      href="https://www.flickr.com/photos/sedos/albums/72157654459452564"
+      title="Noises Off - 2015"><img
+      src="https://live.staticflickr.com/665/21576109173_35008c52ac_z.jpg"
+      width="640" height="480" alt="Noises Off - 2015"></a><script async
+      src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+  - order: 3
+    title: VIDEO
+    body: |-
+      <div class="video-responsive"><?# YouTube NaAVFrP8Olo /?></div>
+
+      <div class="video-responsive"><?# YouTube yLalMPhBIoA /?></div>
+
+      <div class="video-responsive"><?# YouTube I4uK1i0Uo9I /?></div>
+
+      <div class="video-responsive"><?# YouTube LmGDz9zM8lo /?></div>
+  - order: 4
+    title: REVIEWS
+    body: >-
+      >And with a whole week still to go I cannot urge you, no… plead with you,
+      no… beg you enough to clear your diaries and get down to the City of
+      London this coming week for one of the funniest evenings in theatre you’re
+      ever likely to experience.
+
+      ><footer><cite><a target="_blank" href="http://www.sardinesmagazine.co.uk/reviews/review.php?REVIEW-Sedos-Noises%20Off&reviewsID=1590">Noises Off, 2015, Sardines</a></cite></footer>
+RedirectFrom:
+  - 2015/noisesoff.htm
 ---
 > That's what it's all about. Doors and sardines. Getting on – getting off. Getting the sardines on – getting the sardines off. That's farce. That's the theatre. That's life.
 
