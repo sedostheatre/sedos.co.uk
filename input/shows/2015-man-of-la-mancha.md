@@ -68,6 +68,17 @@ sections:
       **PROPS CO-ORDINATOR |** Hannah Hurley\
       **PROPS CREATOR |** SUZIE EDWARDS\
       **MARKETING |** Sonia Goodman
+  - order: 2
+    title: GALLERY
+    body: <a data-flickr-embed="true"
+      href="https://www.flickr.com/photos/sedos/albums/72157656591999654"
+      title="Man of La Mancha - 2015"><img
+      src="https://live.staticflickr.com/5753/23542709416_0816099061_z.jpg"
+      width="640" height="427" alt="Man of La Mancha - 2015"></a><script async
+      src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+  - order: 4
+    title: VIDEO
+    body: <div class="video-responsive"><?# YouTube O3y9IMMVIzY /?></div>
 RedirectFrom:
   - 2015/manoflamancha.htm
 ---
