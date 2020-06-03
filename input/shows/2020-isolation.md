@@ -15,7 +15,46 @@ ticket-prices: Isolation videos will be released throughout lockdown on Facebook
 primary-color: "#19346b"
 header-image: /assets/isolation-coronavirus.jpg
 flyer: /assets/isolation-portrait.jpeg
-sections: []
+sections:
+  - order: 1
+    body: |-
+      **PERFORMERS**
+
+      Simona Hughes \
+      Patricia Jones\
+      Adam Moulder\
+      Izzi Richardson\
+      Graham White
+
+      **WRITERS** 
+
+      Miles Ashall ~\
+      Matt Bentley\
+      Dickon Farmer\
+      Issy Flower\
+      Pippa Kyle
+
+      \
+      **CREATIVE TEAM**\
+      \
+      **PRODUCER** | Robert J. Stanex
+    title: CAST & WRITERS
+  - order: 2
+    title: VIDEO
+    body: >-
+      <div class="video-responsive"><?# YouTube myGDhsqCV3A /?></div>
+
+
+      <div class="video-responsive"><?# YouTube 3VwumzByasM /?></div>
+
+
+      <div class="video-responsive"><?# YouTube 48csMuOQMrg /?></div>
+
+
+      <div class="video-responsive"><?# YouTube https://youtu.be/-A_kp4JZ2cw /?></div>
+
+
+      <div class="video-responsive"><?# YouTube Gw9FGLXvwp4 /?></div>
 RedirectFrom:
   - 2020/isolation.htm
 ---
@@ -28,7 +67,3 @@ The experiment culminates in a virtual showcase that will be shared on the **[Se
 Take a look and see how isolation has inspired the Sedos Membership.
 
 ### **[WATCH THE VIDEOS](https://www.youtube.com/user/SedosVideo/videos)**
-
-**CREATIVE TEAM**\
-\
-**PRODUCER** | Robert J. Stanex
