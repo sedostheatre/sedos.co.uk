@@ -9,7 +9,7 @@
     @{Html.RenderPartial("Partials/_HeaderCarousel");}
 
     @{
-        var latestNews = Documents["News"]
+        var latestNews = Outputs["News"]
             .OrderByDescending(article => article.Get<DateTime>("date"))
             .ThenBy(article => article["title"])
             .Take(8);

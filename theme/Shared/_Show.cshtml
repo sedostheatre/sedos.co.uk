@@ -47,7 +47,7 @@
                 @{
                     if(Model.ContainsKey("venue"))
                     {
-                        var venue = Documents["Venues"].FirstOrDefault(x => x["key"].ToString().Equals(Model["venue"].ToString()));
+                        var venue = Outputs["Venues"].FirstOrDefault(x => x["key"].ToString().Equals(Model["venue"].ToString()));
                         if(venue != null)
                         {
                             <h4><a href="@Context.GetLink(venue)">@venue["name"]</a></h4>
@@ -77,7 +77,7 @@
                     }
                 }
                 @{
-                    var flyerDocument = (IDocument)Model["flyer"];
+                    var flyerDocument = (IDocument)null;// Model["flyer"];
                     var link = flyerDocument == null ? "" : Context.GetLink(flyerDocument);
                     <div class="sidebar-flyer">
                         <img src="@link" alt='@Model["title"] flyer image'></img>

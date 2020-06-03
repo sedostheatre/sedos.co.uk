@@ -1,7 +1,7 @@
 @model IDocument
 
 @{
-    var homePageImageDocument = (IDocument)Model["header-image"];
+    IDocument homePageImageDocument = null;// (IDocument)Model["header-image"];
     var link = homePageImageDocument == null ? "" : Context.GetLink(homePageImageDocument);
 }
 

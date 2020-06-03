@@ -8,7 +8,7 @@
 <div class="page-wrapper bg-light">
     @{Html.RenderPartial("Partials/_HeaderCarousel");}
 
-    @if(Documents["UpcomingEvents"].Any())
+    @if(Outputs["UpcomingEvents"].Any())
     {
         <div class="banner">
             <div class="container">
@@ -20,7 +20,7 @@
             <div class="container">
                 <div class="row">
                 @{
-                    foreach(var eventItem in Documents["UpcomingEvents"])
+                    foreach(var eventItem in Outputs["UpcomingEvents"])
                     {
                         Html.RenderPartial("Partials/_EventCard", @eventItem);
                     }
@@ -39,7 +39,7 @@
     <div class="events-section">
         <div class="container ">
             <div class="row">
-                @foreach(var eventItem in Documents["RegularEvents"].OrderBy(i => i["title"]))
+                @foreach(var eventItem in Outputs["RegularEvents"].OrderBy(i => i["title"]))
                 {
                     Html.RenderPartial("Partials/_EventCard", @eventItem);
                 }

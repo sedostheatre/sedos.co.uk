@@ -1,5 +1,6 @@
 ---
 float-nav: true
+title: Sedos
 ---
 
 <div class="header-carousel">
@@ -65,7 +66,7 @@ float-nav: true
         <div class="row">
             <div class="event-card-container d-none d-md-block col-md-3">
                 @{
-                    foreach(var eventItem in Documents["RegularEvents"].OrderBy(i => i["title"]).Take(3))
+                    @*foreach(var eventItem in Outputs["RegularEvents"].OrderBy(i => i["title"]).Take(3))
                     {
                         <div class="card mb-3 border-0 regular-event-card">
                             <a href="@Context.GetLink(eventItem)">
@@ -75,14 +76,14 @@ float-nav: true
                                 </div>
                             </a>
                         </div>
-                    }
+                    }*@
                 }
             </div>
             @{
-                foreach(var eventItem in Documents["UpcomingEvents"].Take(3))
-                {
-                    Html.RenderPartial("Partials/_EventCard", @eventItem);
-                }
+                //foreach(var eventItem in Outputs["UpcomingEvents"].Take(3))
+                //{
+                //    Html.RenderPartial("Partials/_EventCard", @eventItem);
+                //}
             }
 
             <div class="event-card-container d-block d-md-none col-md-3">
@@ -113,7 +114,7 @@ float-nav: true
     <div class="container">
         <div class="row">
         @{
-            var latestNews = Documents["News"]
+            var latestNews = Outputs["News"]
                 .OrderByDescending(newsArticle => newsArticle.Get<DateTime>("date"))
                 .ThenBy(newsArticle => newsArticle.Get<String>("title"))
                 .Take(4);
