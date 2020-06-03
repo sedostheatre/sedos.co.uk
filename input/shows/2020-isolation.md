@@ -40,18 +40,14 @@ sections:
     title: CAST & WRITERS
   - order: 2
     title: VIDEO
-    body: >-
+    body: |-
       <div class="video-responsive"><?# YouTube myGDhsqCV3A /?></div>
-
 
       <div class="video-responsive"><?# YouTube 3VwumzByasM /?></div>
 
-
       <div class="video-responsive"><?# YouTube 48csMuOQMrg /?></div>
 
-
-      <div class="video-responsive"><?# YouTube https://youtu.be/-A_kp4JZ2cw /?></div>
-
+      <div class="video-responsive"><?# YouTube -A_kp4JZ2cw /?></div>
 
       <div class="video-responsive"><?# YouTube Gw9FGLXvwp4 /?></div>
 RedirectFrom:
