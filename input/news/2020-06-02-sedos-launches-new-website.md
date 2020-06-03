@@ -13,7 +13,7 @@ The new site has been planned for a couple of years, with a great deal of work b
 
 The site continues to be improved and added to, but we're excited that it is finally ready to reveal to the world.
 
-If you have any feedback on the new website or find any broken links, please do email us at [newwebsite@sedos.co.uk](newwebsite@sedos.co.uk)
+If you have any feedback on the new website or find any broken links, please do email us at newwebsite@sedos.co.uk
 
 Sedos will also be launching a new box office system when we open bookings for our next show, as and when Covid-19 allows that. 
 
