@@ -43,14 +43,6 @@ sections:
       **PROJECTION** | Joseph Henshaw\
       **MARKETING** | Peter Shimmin\
       **COMMITTEE LIAISON** | Stephen Beeny
-  - order: 2
-    title: GALLERY
-    body: '<a data-flickr-embed="true"
-      href="https://www.flickr.com/photos/sedos/albums/72157713320103323"
-      title="Working: A Musical - 2020"><img
-      src="https://live.staticflickr.com/65535/49605804937_8fa2fbc024_z.jpg"
-      width="452" height="640" alt="Working: A Musical - 2020"></a><script async
-      src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>'
 RedirectFrom:
   - 2020/working.htm
 ---
