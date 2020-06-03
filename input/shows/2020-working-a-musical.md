@@ -7,13 +7,9 @@ authors3: ""
 subtitle: ""
 showtimes:
   - time: 2020-05-12 19:30
-  - time: 2020-05-13 19:30
-  - time: 2020-05-14 19:30
-  - time: 2020-05-15 19:30
-  - time: 2020-05-16 14:30
-  - time: 2020-05-16 19:30
-  - time: 2020-08-03 19:30
 showtime-summary: THIS SHOW HAS BEEN POSTPONED
+show-on-homepage: true
+order-on-homepage: 3
 venue: Bridewell Theatre
 primary-color: "#000000"
 header-image: /assets/working-skyline.jpg
