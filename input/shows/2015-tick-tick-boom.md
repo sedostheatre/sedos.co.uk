@@ -54,6 +54,6 @@ RedirectFrom:
 
 This is Jonathan Larson’s (author of Rent) autobiographical tale of a young composer on the brink of turning 30 and falling into oblivion. His girlfriend wants to get married and move out of the city (tick,), his best friend is making big bucks on Madison Avenue (tick…), yet Jon is still waiting on tables and trying to write the great American musical (BOOM!).
 
-Fourteen songs, multiple characters, and a band, tick, tick… BOOM! embraces the universal ideal of holding onto your dreams through life’s most difficult challenges.
+Fourteen songs, multiple characters, and a band, *tick, tick… BOOM!* embraces the universal ideal of holding onto your dreams through life’s most difficult challenges.
 
 Winner of the Outer Critics Circle award for Best off-Broadway musical in 2001.
