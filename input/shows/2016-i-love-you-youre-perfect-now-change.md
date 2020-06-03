@@ -39,22 +39,22 @@ sections:
       \
       **CREATIVE TEAM**
 
-      **DIRECTOR |** Emma J Leaver\
-      **MUSICAL DIRECTOR |** Michael Cannon\
-      **PRODUCERS |** Pippa Kyle & Ruth Luckins\
-      **STAGE MANAGER |** Gabi Benton-Stace\
-      **SET DESIGNERS |** Stuart Massey & Emma J Leaver\
-      **SET BUILDER |** Stuart Massey\
-      **LIGHTING DESIGNER |** Ruth Luckins\
-      **LIGHTING ASSISTANT |** Max Cherry\
-      **LIGHTING OPERATOR |** Aileen Ryan\
-      **PROPS CO-ORDINATOR |** Lisa Crook\
-      **COSTUME CO-ORDINATORS |** Gemma Louise Zirfas & Claire Linney\
-      **REHEARSAL PIANIST |** Jonathan Wagstaff\
-      **MOVEMENT COACH |** Natalie Demain\
-      **FLYER DESIGNER |** Rebecca Turner\
-      **PROGRAMME DESIGNER |** Pippa Kyle\
-      **PHOTOGRAPHER |** Michael Smith
+      **DIRECTOR** | Emma J Leaver\
+      **MUSICAL DIRECTOR** | Michael Cannon\
+      **PRODUCERS** | Pippa Kyle and Ruth Luckins\
+      **STAGE MANAGER** | Gabi Benton-Stace\
+      **SET DESIGNERS** | Stuart Massey & Emma J Leaver\
+      **SET BUILDER** | Stuart Massey\
+      **LIGHTING DESIGNER** | Ruth Luckins\
+      **LIGHTING ASSISTANT** | Max Cherry\
+      **LIGHTING OPERATOR** | Aileen Ryan\
+      **PROPS CO-ORDINATOR** | Lisa Crook\
+      **COSTUME CO-ORDINATORS** | Gemma Louise Zirfas & Claire Linney\
+      **REHEARSAL PIANIST** | Jonathan Wagstaff\
+      **MOVEMENT COACH** | Natalie Demain\
+      **FLYER DESIGNER** | Rebecca Turner\
+      **PROGRAMME DESIGNER** | Pippa Kyle\
+      **PHOTOGRAPHER** | Michael Smith
   - order: 2
     title: GALLERY
     body: <a data-flickr-embed="true"
