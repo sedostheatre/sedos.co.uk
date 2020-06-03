@@ -11,15 +11,14 @@ showtimes:
   - time: 2020-04-02 19:30
   - time: 2020-04-03 19:30
   - time: 2020-04-04 16:00
+  - time: 2020-08-02 19:30
 showtime-summary: THIS SHOW HAS BEEN POSTPONED
 show-on-homepage: true
 order-on-homepage: 1
-flyer: /assets/2020-02-16-ophelia-flyer-front-800.png
-RedirectFrom:
-  - 2020/opheliathinksharder.htm
 venue: Bridewell Theatre
 primary-color: "#b21b60"
 header-image: /assets/ophelia-thinks-harder-landscape.jpg
+flyer: /assets/2020-02-16-ophelia-flyer-front-800.png
 sections:
   - title: CAST & CREATIVE TEAM
     body: |-
@@ -51,6 +50,8 @@ sections:
       **DESIGNER** | Yvette Henderson\
       **LIGHTING DESIGN** | Adam Coppard
     order: 1
+RedirectFrom:
+  - 2020/opheliathinksharder.htm
 ---
 #### **THIS SHOW HAS BEEN POSTPONED. [FIND OUT MORE](/news/2020-03-26-a-message-to-our-members-and-friends).**
 
