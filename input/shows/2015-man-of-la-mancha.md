@@ -83,7 +83,7 @@ RedirectFrom:
   - 2015/manoflamancha.htm
 ---
 >When life itself seems lunatic, who knows where madness lies? Perhaps to be too practical is madness. To surrender dreams – this may be madness. To seek treasure where there is only trash. Too much sanity may be madness. And maddest of all, to see life as it is and not as it should be.
-><footer><cite>Miguel de Cervantes,*Man of La Mancha*</cite></footer>
+><footer><cite>Miguel de Cervantes, Man of La Mancha</cite></footer>
 
 **Out of the dungeon of despair, the story of knight errant Don Quixote rises in triumphant transformation in the classic musical *Man of La Mancha*.**
 
