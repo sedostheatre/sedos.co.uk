@@ -29,18 +29,18 @@ sections:
     body: |-
       **CAST**
 
-      **CERVANTES |** Chris Starkey\
-      **ALDONZA |** Kate Gledhill\
-      **SANCHO |** Stephen Beeny\
-      **GOVERNOR / INNKEEPER |** Mark Watson\
-      **ANTONIA |** Kimberly Barker\
-      **THE DUKE |** Tim Garrad\
-      **THE PADRE |** Nick Fyson\
-      **THE HOUSEKEEPER |** Jo Webber\
-      **THE BARBER |** James Franey\
-      **MARIA |** Verity Richards\
-      **PEDRO |** Basil Zafiropoulos\
-      **ANSELMO |** Robert J. Stanex
+      **CERVANTES** | Chris Starkey\
+      **ALDONZA** | Kate Gledhill\
+      **SANCHO** | Stephen Beeny\
+      **GOVERNOR / INNKEEPER** | Mark Watson\
+      **ANTONIA** | Kimberly Barker\
+      **THE DUKE** | Tim Garrad\
+      **THE PADRE** | Nick Fyson\
+      **THE HOUSEKEEPER** | Jo Webber\
+      **THE BARBER** | James Franey\
+      **MARIA** | Verity Richards\
+      **PEDRO** | Basil Zafiropoulos\
+      **ANSELMO** | Robert J. Stanex
 
       **ENSEMBLE**
 
@@ -55,19 +55,19 @@ sections:
 
       **CREATIVE TEAM**
 
-      **STAGED AND DIRECTED BY |** Dawn Harrison-Wallace And Roger Harwood\
-      **MUSICAL DIRECTOR |** Benjamin Thiele-Long\
-      **CHOREOGRAPHER |** Jane Saunders\
-      **PRODUCER |** Valentine Monot\
-      **SOUND DESIGNER |** Yvonne Gilbert\
-      **COSTUME LEAD |** Lily O’Hara\
-      **COSTUME CO-ORDINATOR |** Rachael Twyford\
-      **STAGE MANAGER |** Lizzie Drapper\
-      **LIGHTING DESIGNER |** Ben Pickersgill\
-      **SET REALISATION |** Ben Hussey\
-      **PROPS CO-ORDINATOR |** Hannah Hurley\
-      **PROPS CREATOR |** SUZIE EDWARDS\
-      **MARKETING |** Sonia Goodman
+      **STAGED and DIRECTED BY** | Dawn Harrison-Wallace And Roger Harwood\
+      **MUSICAL DIRECTOR** | Benjamin Thiele-Long\
+      **CHOREOGRAPHER** | Jane Saunders\
+      **PRODUCER** | Valentine Monot\
+      **SOUND DESIGNER** | Yvonne Gilbert\
+      **COSTUME LEAD** | Lily O’Hara\
+      **COSTUME CO-ORDINATOR** | Rachael Twyford\
+      **STAGE MANAGER** | Lizzie Drapper\
+      **LIGHTING DESIGNER** | Ben Pickersgill\
+      **SET REALISATION** | Ben Hussey\
+      **PROPS CO-ORDINATOR** | Hannah Hurley\
+      **PROPS CREATOR** | Suzie Edwards\
+      **MARKETING** | Sonia Goodman
   - order: 2
     title: GALLERY
     body: <a data-flickr-embed="true"
