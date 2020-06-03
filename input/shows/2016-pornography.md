@@ -22,20 +22,20 @@ sections:
     body: |-
       **CAST**
 
-      **TEACHER |** Paul Caira\
-      **STUDENT |** Sarah Ratner\
-      **SIBLING |** Alex Woolley\
-      **SIBLING |** Minnie Walker\
-      **ELDERLY LADY |** Liz Stephens\
-      **BOMBER |** Dewaine Barrett\
-      **WORKING MUM |** Bex Parker-Smith\
-      **JASON |** Alex Marlow\
+      **TEACHER** | Paul Caira\
+      **STUDENT** | Sarah Ratner\
+      **SIBLING** | Alex Woolley\
+      **SIBLING** | Minnie Walker\
+      **ELDERLY LADY** | Liz Stephens\
+      **BOMBER** | Dewaine Barrett\
+      **WORKING MUM** | Bex Parker-Smith\
+      **JASON** | Alex Marlow\
       \
       **CREATIVE TEAM**
 
-      **DIRECTOR |** Chris Davis\
-      **PRODUCER |** Madhia Hussain\
-      **ASSISTANT DIRECTOR |** Alastair Norton
+      **DIRECTOR** | Chris Davis\
+      **PRODUCER** | Madhia Hussain\
+      **ASSISTANT DIRECTOR** | Alastair Norton
     title: CAST & CREATIVE TEAM
   - order: 3
     title: VIDEO
