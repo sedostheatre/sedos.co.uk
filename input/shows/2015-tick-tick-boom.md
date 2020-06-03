@@ -10,7 +10,7 @@ header-image: /assets/tick-tick-banner.jpg
 flyer: /assets/tick-flyer-front-600.jpg
 box-office-open: false
 sections:
-  - order: 2
+  - order: 1
     body: |-
       **CAST**
 
@@ -35,6 +35,18 @@ sections:
       **MARKETING OFFICER** | Kaytie Lee\
       **STAGE MANAGER** | Tracie Laurinaitis
     title: CAST & CREATIVE TEAM
+  - order: 2
+    title: GALLERY
+    body: <a data-flickr-embed="true"
+      href="https://www.flickr.com/photos/sedos/albums/72157656375279349"
+      title="tick, tick... BOOM! - 2015"><img
+      src="https://live.staticflickr.com/5624/20708546781_2269b06d6c_z.jpg"
+      width="640" height="427" alt="tick, tick... BOOM! - 2015"></a><script
+      async src="//embedr.flickr.com/assets/client-code.js"
+      charset="utf-8"></script>
+  - order: 2
+    title: VIDEO
+    body: <div class="video-responsive"><?# YouTube dL9OVZrkeWM /?></div>
 RedirectFrom:
   - 2015/ticktickboom.htm
 ---
