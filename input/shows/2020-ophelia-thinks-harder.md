@@ -13,7 +13,7 @@ showtimes:
   - time: 2020-04-04 16:00
 showtime-summary: THIS SHOW HAS BEEN POSTPONED
 show-on-homepage: true
-order-on-homepage: 1
+order-on-homepage: 2
 venue: Bridewell Theatre
 primary-color: "#b21b60"
 header-image: /assets/ophelia-thinks-harder-landscape.jpg
