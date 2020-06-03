@@ -5,12 +5,7 @@ authors: By JEAN BETTS
 authors2: and WILLIAM SHAKESPEARE
 authors3: ""
 subtitle: A riotous reworking of Hamlet
-showtimes:
-  - time: 2020-03-31 19:30
-  - time: 2020-04-01 19:30
-  - time: 2020-04-02 19:30
-  - time: 2020-04-03 19:30
-  - time: 2020-04-04 16:00
+showtimes: []
 showtime-summary: THIS SHOW HAS BEEN POSTPONED
 show-on-homepage: true
 order-on-homepage: 2
