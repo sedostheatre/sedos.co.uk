@@ -64,7 +64,7 @@ sections:
 
       <div class="video-responsive"><?# YouTube LmGDz9zM8lo /?></div>
   - order: 4
-    title: REVIEWS
+    title: REVIEW
     body: >-
       >And with a whole week still to go I cannot urge you, no… plead with you,
       no… beg you enough to clear your diaries and get down to the City of
