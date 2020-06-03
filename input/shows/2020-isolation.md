@@ -27,7 +27,7 @@ sections:
 
       **WRITERS** 
 
-      Miles Ashall ~\
+      Miles Ashall \
       Matt Bentley\
       Dickon Farmer\
       Issy Flower\
