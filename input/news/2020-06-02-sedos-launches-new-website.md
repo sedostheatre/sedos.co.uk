@@ -3,9 +3,9 @@ title: Sedos launches new website
 date: 2020-06-05T00:00:00.000Z
 image: /assets/screen-shot-2020-06-02-at-18.20.16.png
 ---
-**Today (Friday 5 June 2020), Sedos launches a new website – the first major overhaul of our online presence in 13 years.**
+**Today (Friday 5 June 2020), Sedos launches a new website – the first major overhaul of our online presence in 10 years.**
 
-Sedos’ first website went live in December 2003, making the society one of the first amateur companies to go digital. The website was then given a refresh in December 2007.
+Sedos’ first website went live in December 2003, making the society one of the first amateur companies to go digital. The website was then given refreshes in 2007 and 2010.
 
 The 2020 edition of the website is mobile and tablet compatible, the first time the Sedos website has boasted this functionality, which reflects the way many people now spend much of their time online. 
 
