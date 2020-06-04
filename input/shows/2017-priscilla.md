@@ -1,7 +1,7 @@
 ---
 title: Priscilla Queen of the Desert The Musical
 year: "2017"
-authors: By Stephan Elliott and Allan Scott
+authors: By STEPHAN ELLIOTT and ALLAN SCOTT
 subtitle: Journey to the heart of fabulous!
 showtimes:
   - time: 2017-11-22 19:30
