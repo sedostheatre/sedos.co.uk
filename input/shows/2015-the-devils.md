@@ -12,11 +12,57 @@ showtimes:
   - time: 2015-03-21 14:30
   - time: 2015-03-21 19:30
 showtime-summary: 17-21 March 2015
+venue: Bridewell Theatre
 primary-color: "#000000"
 header-image: /assets/the-devils-header.jpg
 flyer: /assets/the-devils.jpg
 box-office-open: false
 sections:
+  - order: 1
+    title: CAST & CREATIVE TEAM
+    body: >-
+      **CAST**
+
+
+      **TRINCANT / SISTER LOUISE** | Jessica Clements\
+
+      **ADAM** | Jimi Odell\
+
+      **D'ARMAGNAC** | Juliette Chrisman\
+
+      **PHILLIPE / SISTER GABRIELLE** | Liz Stevens\
+
+      **DE CERISAY / CARDINAL RICHELIEU** | Matthew Tylianakis\
+
+      **FATHER BARRE** | Michael Mayne\
+
+      **SISTER JEANNE** | Rowena Turner\
+
+      **MANNOURY** | Sam Gregson\
+
+      **FATHER GRANDIER** | Sam Pearce\
+
+      **NINION / SISTER CLAIRE** | Steph Urquhart\
+
+      **BISHOP DE LA ROCHEPOZAY / PRINCE HENRI DE CONDE / FATHER AMBROSE** | Simon Hill\
+
+      **SEWERWOMAN / BONTEMPS** | Sorcha Boyce\
+
+      **DE LAUBARDEMONT** | Stephen Maher\
+
+      **FATHER MIGNON** | Benjamin Press
+
+
+      \
+
+      **CREATIVE TEAM**
+
+
+      **DIRECTOR** | Nick Mouton\
+
+      **PRODUCER** | Ben Hussey\
+
+      **MUSICAL DIRECTOR** and **COMPOSER** | Ben Thiele-Long
   - order: 2
     title: GALLERY
     body: <a data-flickr-embed="true"
@@ -27,7 +73,15 @@ sections:
       src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
   - order: 3
     title: VIDEO
-    body: <div class="video-responsive"><?# YouTube LioARZiBGGM /?></div>
+    body: >-
+      The video is one of four newly written choral pieces which are sung by the
+      cast during *The Devils*. 
+
+
+      Musical director Benjamin Thiele-Long says: "Choral music gives an opportunity, like no other, to express an incredibly diverse range of emotions in a way that connects viscerally with the listener, rather than simply something they just hear. When it came to writing the music for *The Devils*, I wanted have four interlinked pieces that would carry the audience and the cast through the story and convey the initial peace and subsequent anguish and building tension of the plot. Influenced by the work of Morten Lauridsen, Eriks Ensenvalds and the late John Tavener, the pieces use close harmony to create an ethereal atmosphere and establish the liturgy as part of the story."
+
+
+      <div class="video-responsive"><?# YouTube LioARZiBGGM /?></div>
 RedirectFrom:
   - 2015/thedevils.htm
 ---
