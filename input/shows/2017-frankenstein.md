@@ -59,23 +59,23 @@ sections:
     body: |-
       <div class="video-responsive"><?# YouTube bhoJpBcygYY /?></div>
 
-         
+      &nbsp;
 
       <div class="video-responsive"><?# YouTube zqbH85bCUdU /?></div>
 
-        
+      &nbsp;
 
       <div class="video-responsive"><?# YouTube jEZnhxztwcI /?></div>
 
-        
+      &nbsp;
 
       <div class="video-responsive"><?# YouTube nrWgh6lyaI8 /?></div>
 
-        
+      &nbsp;
 
       <div class="video-responsive"><?# YouTube yFeAjiKsxR0 /?></div>
 
-        
+      &nbsp;
 
       <div class="video-responsive"><?# YouTube oxiiQK2lE3E /?></div>
     order: 3
