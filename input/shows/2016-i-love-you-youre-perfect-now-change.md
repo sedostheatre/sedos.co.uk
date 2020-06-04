@@ -1,7 +1,7 @@
 ---
 title: I Love You, You're Perfect, Now Change
 year: "2016"
-authors: Book and Lyrics by JOE DIPIETRO
+authors: Book and lyrics by JOE DIPIETRO
 authors2: Music by JIMMY ROBERTS
 subtitle: A cabaret style show which celebrates and reflects on the beauty and
   comedy of love in all its guises
@@ -65,7 +65,7 @@ sections:
       - 2016"></a><script async src="//embedr.flickr.com/assets/client-code.js"
       charset="utf-8"></script>
   - order: 3
-    title: REVIEW
+    title: REVIEWS
     body: >-
       >Sedos have once again achieved an end result to be proud of, a truthful,
       funny musical bursting with talent.
