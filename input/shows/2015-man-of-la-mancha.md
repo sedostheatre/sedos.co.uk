@@ -1,9 +1,9 @@
 ---
 title: "Man of La Mancha "
 year: "2015"
-authors: Book By DALE WASSERMAN
-authors2: Music By MITCH LEIGH
-authors3: Lyrics By JOE DARIO
+authors: Book by DALE WASSERMAN
+authors2: Music by MITCH LEIGH
+authors3: Lyrics by JOE DARIO
 subtitle: 50th anniversary production of the classic Broadway musical
 showtimes:
   - time: 2015-11-25 19:30
