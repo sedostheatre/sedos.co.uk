@@ -32,7 +32,7 @@ sections:
 
       **Clybourne Park Bridewell Theatre**\
 
-      **Sunday 12 July, 7.30pm**
+      **Sunday 12 July, 7.30pm**\
 
       A weekend workshop performance of Bruce Norris' Pulitzer Prize-winning satirical play which explores issues of race, housing and aspirations for a better life.
 
@@ -82,7 +82,7 @@ sections:
 
       **Shakers Bridewell Theatre**\
 
-      **Monday 13 July, 8pm**
+      **Monday 13 July, 8pm**\
 
       Four actresses bring us a wickedly funny glimpse into the lives of the waitresses and customers at a cocktail bar in this short, stylish comedy by John Godber and Jane Thornton.
 
@@ -108,7 +108,7 @@ sections:
 
       **Americana** \
 
-      **Bridewell Theatre, Wednesday 15 July, 7.30pm**
+      **Bridewell Theatre, Wednesday 15 July, 7.30pm**\
 
       An evening of six plays showcasing the history of American drama. Love, dreams, loss, pain, strength, freedom.
 
@@ -148,7 +148,7 @@ sections:
 
       **Reservoir Dogs** \
 
-      **Bridewell Theatre, Thursday 16 July, 8pm**
+      **Bridewell Theatre, Thursday 16 July, 8pm**\
 
       A live reading of the screenplay of Tarantino’s seminal debut. For one night only, nine actors will recreate the legendary roles of the film in a staged reading. With the limited permission of Quentin Tarantino. All rights reserved.
 
@@ -182,14 +182,14 @@ sections:
 
       **On The Night** \
 
-      **Bridewell Theatre, Friday 17 July, 8.15pm**
+      **Bridewell Theatre, Friday 17 July, 8.15pm**\
 
       A new musical, On the Night is an homage to backstage musicals and a love letter to theatre itself. As the last-minute preparations for their new season commence, a cabaret cast take time out to practise, reminisce and gossip.
 
 
       **COMPOSERS** | Jonathan Brigg, William Brooks, James Cave, Simone Ibbett-Brown, Peter Smith and Joe Steele\
 
-      **BOOK AND ADDITIONAL LYRICS** |Simone Ibbett-Brown and Alice Wright
+      **BOOK AND ADDITIONAL LYRICS** | Simone Ibbett-Brown and Alice Wright
 
 
       **CAST**
@@ -217,11 +217,15 @@ sections:
 
       **Frozen Sing-A-Long** \
 
-      **Bridewell Theatre, Saturday 18 July, 6.30pm**
+      **Bridewell Theatre, Saturday 18 July, 6.30pm**\
 
       Let it go — celebrate the end of the Summer Season by singing your heart out to the Disney film.
 
 
+      \    
+
+
+      \    
 
 
       **Please note:** *Clybourne Park, Shakers, Reservoir Dogs* and *On The Night* contain strong language and/or adult themes.
