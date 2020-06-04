@@ -8,7 +8,7 @@ image: /assets/agm-news.jpg
 **Trustees:**\
 Alex Baker (secretary)\
 Matt Gould (chair of management committee)\
-Dawn Harrison-Wallace (re-elected)\
+Dawn Harrison-Wallace (chair of trustees, re-elected)\
 Roger Harwood\
 Mel Johnson\
 Sara Rajeswaran (new)\
