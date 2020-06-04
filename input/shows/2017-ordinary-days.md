@@ -1,7 +1,7 @@
 ---
 title: Ordinary Days
 year: "2017"
-authors: Music and Lyrics by ADAM GWON
+authors: Music and lyrics by ADAM GWON
 subtitle: ""
 showtimes:
   - time: 2017-09-27 21:00
