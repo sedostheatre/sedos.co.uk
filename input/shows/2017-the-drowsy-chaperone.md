@@ -1,7 +1,7 @@
 ---
 title: The Drowsy Chaperone
 year: "2017"
-authors: Music and Lyrics by LISA LAMBERT and GREG MORRISON
+authors: Music and lyrics by LISA LAMBERT and GREG MORRISON
 authors2: Book by BOB MARTIN and DON MCKELLAR
 authors3: ""
 subtitle: ""
