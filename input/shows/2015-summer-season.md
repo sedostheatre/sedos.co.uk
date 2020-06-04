@@ -14,7 +14,7 @@ showtimes:
   - time: 2015-07-18 18:30
   - time: 2015-07-18 11:00
 showtime-summary: 12-18 July 2015
-venue: Bridewell Theatre and Bishopsgate Institute
+venue: Bridewell Theatre, Bishopsgate Institute, RADA and 1 Brewers’ Hall Garden
 primary-color: "#f9d0e2"
 header-image: /assets/shakers-header.jpg
 flyer: /assets/summerseasonposter-600.jpg
