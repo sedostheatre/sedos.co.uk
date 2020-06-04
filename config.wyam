@@ -40,7 +40,7 @@ Pipelines.Add("TopLevelNav",
 );
 
 Pipelines.Add("HeaderImages", 
-    ReadFiles("header-images.yml"),
+    ReadFiles("header-images/*.yml"),
     Yaml(),
     Meta("image", (doc, ctx) => CopyAndResizeImageFromMeta(doc, ctx, "image-source", 1280, null, ResizeMode.Pad))
 );
