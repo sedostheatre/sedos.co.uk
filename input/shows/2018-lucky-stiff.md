@@ -1,7 +1,7 @@
 ---
 title: Lucky Stiff
 year: "2018"
-authors: Book and Lyrics by LYNN AHRENS
+authors: Book and lyrics by LYNN AHRENS
 authors2: Music by STEPHEN FLAHERTY
 subtitle: ""
 showtimes:
