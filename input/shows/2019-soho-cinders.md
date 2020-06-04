@@ -1,8 +1,8 @@
 ---
 title: Soho Cinders
 year: "2019"
-authors: Music by George Stiles | Lyrics by Anthony Drewe
-authors2: Book by Anthony Drewe and Elliot Davies
+authors: Music by GEORGE STILES | Lyrics by ANTHONY DREWE
+authors2: Book by ANTHONY DREWE and ELLIOT DAVIES
 subtitle: Midnight is just the start
 showtimes:
   - time: 2019-07-10 19:30
@@ -97,7 +97,7 @@ sections:
       width="640" height="480" alt="Soho Cinders - 2019"></a><script async
       src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
     order: 1
-  - title: REVIEW
+  - title: REVIEWS
     body: >-
       >A hearty and sincere production, it’s a more complex story than the
       traditional fairy-tale from which it is adapted, but it’s a lively and
