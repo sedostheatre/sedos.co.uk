@@ -36,45 +36,45 @@ sections:
       A weekend workshop performance of Bruce Norris' Pulitzer Prize-winning satirical play which explores issues of race, housing and aspirations for a better life.
 
 
-      CAST
+      **CAST**
 
 
-      LENA | Valerie Antwi \
+      **LENA** | Valerie Antwi \
 
-      KENNETH | Alex Baker\
+      **KENNETH** | Alex Baker\
 
-      FRANCIENE | Melissa Bethune\
+      **FRANCIENE** | Melissa Bethune\
 
-      KEVIN | Elliot Bornemann\
+      **KEVIN** | Elliot Bornemann\
 
-      LINDSAY | Gemma Bowles\
+      **LINDSAY** | Gemma Bowles\
 
-      RUSS | Neil Duggan\
+      **RUSS** | Neil Duggan\
 
-      STEVE | Robert Hayes\
+      **STEVE** | Robert Hayes\
 
-      BEV | Catilin Holmes\
+      **BEV** | Catilin Holmes\
 
-      DAn | Mark Macey\
+      **DAn** | Mark Macey\
 
-      JIM | David Miller\
+      **JIM** | David Miller\
 
-      KARL | Nick Mouton\
+      **KARL** | Nick Mouton\
 
-      ALBERT | Claudius Samuel Peters\
+      **ALBERT** | Claudius Samuel Peters\
 
-      TOM | Ben Press\
+      **TOM** | Ben Press\
 
-      KATHY | Fran Rafferty\
+      **KATHY** | Fran Rafferty\
 
-      BETSY | Steph Urqhuart
+      **BETSY** | Steph Urqhuart
 
 
-      DIRECTOR | Zoe Thomas-Webb\
+      **DIRECTOR** | Zoe Thomas-Webb\
 
-      ASSISTANT DIRECTOR | Sarah Barker\
+      **ASSISTANT DIRECTOR** | Sarah Barker\
 
-      DESIGNER | Edith Webb
+      **DESIGNER** | Edith Webb
 
 
       \
@@ -86,33 +86,33 @@ sections:
       Four actresses bring us a wickedly funny glimpse into the lives of the waitresses and customers at a cocktail bar in this short, stylish comedy by John Godber and Jane Thornton.
 
 
-      CAST
+      **CAST**
 
 
-      MEl | Laura Bird \
+      **MEl** | Laura Bird \
 
-      CAROL | Carrie Pennifer\
+      **CAROL** | Carrie Pennifer\
 
-      NICKI | Clancy Jessica Ryan\
+      **NICKI** | Clancy Jessica Ryan\
 
-      ADELE | Natalie Demain
+      **ADELE** | Natalie Demain
 
 
-      DIRECTOR | Sylvia Finnimore \
+      **DIRECTOR** | Sylvia Finnimore \
 
-      SET DESIGN | Rebecca Turner
+      **SET DESIGN** | Rebecca Turner
 
 
       \
 
-      Americana \
+      **Americana** \
 
-      Bridewell Theatre, Wednesday 15 July, 7.30pm
+      **Bridewell Theatre, Wednesday 15 July, 7.30pm**
 
       An evening of six plays showcasing the history of American drama. Love, dreams, loss, pain, strength, freedom.
 
 
-      CAST
+      **CAST**
 
 
       Anna Ballantine Lily \
@@ -138,78 +138,78 @@ sections:
       Chris de Pury
 
 
-      DIRECTOR | Alex Magliaro \
+      **DIRECTOR** | Alex Magliaro \
 
-      PRODUCER | Blake Klein
+      **PRODUCER** | Blake Klein
 
 
       \
 
-      Reservoir Dogs \
+      **Reservoir Dogs** \
 
-      Bridewell Theatre, Thursday 16 July, 8pm
+      **Bridewell Theatre, Thursday 16 July, 8pm**
 
       A live reading of the screenplay of Tarantino’s seminal debut. For one night only, nine actors will recreate the legendary roles of the film in a staged reading. With the limited permission of Quentin Tarantino. All rights reserved.
 
 
-      CAST
+      **CAST**
 
 
-      MR WHITE | Mark Johnson \
+      **MR WHITE** | Mark Johnson \
 
-      MR ORANGE | Daniel Davies\
+      **MR ORANGE** | Daniel Davies\
 
-      MR PINK | Mark Macey\
+      **MR PINK** | Mark Macey\
 
-      MR BLOND | Enda Riley\
+      **MR BLOND** | Enda Riley\
 
-      JOE CABOT | Pete Bryans\
+      **JOE CABOT** | Pete Bryans\
 
-      "NICE GUY" EDDIE CABOT | Alain English\
+      **"NICE GUY" EDDIE CABOT** | Alain English\
 
-      MR BROWN | Daniel Saunders\
+      **MR BROWN** | Daniel Saunders\
 
-      MR BLUE | Ian Mantgani\
+      **MR BLUE** | Ian Mantgani\
 
-      NARRATOR | Michael Smith
+      **NARRATOR** | Michael Smith
 
 
-      DIRECTOR | Lorenzo Mason
+      **DIRECTOR** | Lorenzo Mason
 
 
       \
 
-      On The Night \
+      **On The Night** \
 
-      Bridewell Theatre, Friday 17 July, 8.15pm
+      **Bridewell Theatre, Friday 17 July, 8.15pm**
 
       A new musical, On the Night is an homage to backstage musicals and a love letter to theatre itself. As the last-minute preparations for their new season commence, a cabaret cast take time out to practise, reminisce and gossip.
 
 
-      COMPOSERS | Jonathan Brigg, William Brooks, James Cave, Simone Ibbett-Brown, Peter Smith and Joe Steele\
+      **COMPOSERS** | Jonathan Brigg, William Brooks, James Cave, Simone Ibbett-Brown, Peter Smith and Joe Steele\
 
-      BOOK AND ADDITIONAL LYRICS |Simone Ibbett-Brown and Alice Wright
-
-
-      CAST
+      **BOOK AND ADDITIONAL LYRICS** |Simone Ibbett-Brown and Alice Wright
 
 
-      ELLIE | Stephanie Lovegrove\
-
-      JENNIFER | Abigail Francis\
-
-      RUTH | Olga-Marie Pratt\
-
-      HARRY | Adrian Hau\
-
-      GEORGE | Tristan Landymore\
-
-      PETER | Howard Thompson
+      **CAST**
 
 
-      DIRECTORS | Simone Ibbett-Brown and Alice Wright \
+      **ELLIE** | Stephanie Lovegrove\
 
-      MUSICAL DIRECTOR | Oran Doyle
+      **JENNIFER** | Abigail Francis\
+
+      **RUTH** | Olga-Marie Pratt\
+
+      **HARRY** | Adrian Hau\
+
+      **GEORGE** | Tristan Landymore\
+
+      **PETER** | Howard Thompson
+
+
+      **DIRECTORS** | Simone Ibbett-Brown and Alice Wright \
+
+      **MUSICAL DIRECTOR** | Oran Doyle
 
 
       \
