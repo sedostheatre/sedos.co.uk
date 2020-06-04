@@ -12,7 +12,7 @@ showtimes:
   - time: 2019-07-13 20:00
 showtime-summary: 10-13 July 2019
 venue: Bridewell Theatre
-header-image: /assets/SohoCindersCast-360.jpg
+header-image: /assets/soho-cinders-2.jpg
 flyer: /assets/SohoCindersFlyerFront-800.jpg
 sections:
   - title: CAST & CREATIVE TEAM
