@@ -4,6 +4,18 @@ year: "2015"
 authors: Music and lyrics by LAURENCE O'KEEFE and NELL BENJAMIN
 authors2: Book by HEATHER HACH
 subtitle: This hilarious show will have you tickled pink from start to finish
+showtimes:
+  - time: 2015-05-07 19:30
+  - time: 2015-05-08 19:30
+  - time: 2015-05-09 14:30
+  - time: 2015-05-09 19:30
+  - time: 2015-05-11 19:30
+  - time: 2015-05-12 19:30
+  - time: 2015-05-13 19:30
+  - time: 2015-05-14 19:30
+  - time: 2015-05-15 19:30
+  - time: 2015-05-16 14:30
+  - time: 2015-05-11 19:30
 showtime-summary: 7-16 May 2015
 venue: Bridewell Theatre
 primary-color: "#e3078b"
