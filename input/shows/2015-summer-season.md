@@ -2,7 +2,8 @@
 title: Sedos Summer Season
 year: "2015"
 authors: Authors include John Godber, Bruce Norris & Quentin Tarantino
-subtitle: A week of workshops, performances and events across four venues
+authors3: "A week of workshops, performances and events across four venues. "
+subtitle: Watch, learn, try something new or just have fun
 showtimes:
   - time: 2015-07-12 11:30
   - time: 2015-07-12 19:30
