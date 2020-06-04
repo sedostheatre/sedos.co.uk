@@ -4,6 +4,13 @@ year: "2015"
 authors: By JOHN WHITING
 authors2: Based on ALDOUS HUXLEY'S novel
 subtitle: The assertion of self is the ascendancy of the Devil
+showtimes:
+  - time: 2015-03-17 19:30
+  - time: 2015-03-18 19:30
+  - time: 2015-03-19 19:30
+  - time: 2015-03-20 19:30
+  - time: 2015-03-21 14:30
+  - time: 2015-03-21 19:30
 showtime-summary: 17-21 March 2015
 primary-color: "#000000"
 header-image: /assets/the-devils-header.jpg
