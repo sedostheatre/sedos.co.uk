@@ -54,6 +54,7 @@ The management committee meets monthly.
 
 **Chair** | Matt Gould \
 **Secretary** | Lizzie Levett \
+**Treasurer** | Henry Whittaker\
 **Marketing group** | Stephen Beeny \
 **Membership group** | Kim Barker \
 Peter Foster\
@@ -61,8 +62,7 @@ Tim Garrad\
 Kate Gledhill\
 Steven King\
 Olly Levett \
-Mark Siddall\
-Henry Whittaker
+Mark Siddall
 
 ## Groups
 
