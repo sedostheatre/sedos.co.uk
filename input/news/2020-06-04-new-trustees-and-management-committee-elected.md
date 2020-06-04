@@ -1,7 +1,7 @@
 ---
 title: New trustees and management committee elected
-date: 2020-06-05
-image: /assets/sedos-agm.jpg
+date: 2020-06-05T00:00:00.000Z
+image: /assets/agm-news.jpg
 ---
 **At last night's virtual AGM (Thursday 4 June 2020), we voted in new Sedos trustees and members of the management committee, so we are delighted to announce the new line-up:**
 
