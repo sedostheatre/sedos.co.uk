@@ -37,3 +37,8 @@ Changes will be rebuilt and the page should update in sync.
   - Because it's easy :)
 - GitHub actions for CI
 - Netlify for hosting
+
+## Local Netlify Dev
+- run `npx netlify-cms-proxy-server`
+- add `local_backend: true` to `config.yml`
+- visit [](http://localhost:5080/admin/#/)
