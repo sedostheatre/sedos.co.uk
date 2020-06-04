@@ -98,4 +98,4 @@ Sedos presents the Olivier Award winning musical based on the iconic MGM film of
 
 
 
-*This amateur production is presented by arrangement with JOSEF WEINBERGER LIMITED on behalf of MUSIC THEATRE INTERNATIONAL of NEW YORK.*
+This amateur production is presented by arrangement with JOSEF WEINBERGER LIMITED on behalf of MUSIC THEATRE INTERNATIONAL of NEW YORK.
