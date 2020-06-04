@@ -15,7 +15,7 @@ showtime-summary: 9-13 April 2019
 venue: Bridewell Theatre
 ticket-prices: ""
 primary-color: "#92005b"
-header-image: /assets/afterthedance.jpg
+header-image: /assets/afterthedance-2.jpg
 flyer: /assets/after-the-dance-flyer-800.jpg
 sections:
   - title: CAST & CREATIVE TEAM
