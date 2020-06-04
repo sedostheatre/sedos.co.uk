@@ -17,7 +17,7 @@ showtimes:
 showtime-summary: 2 June & 10-14 June 2019
 venue: Rayne Theatre & Minack Theatre
 primary-color: "#1b1b1d"
-header-image: /assets/swell-header.jpg
+header-image: /assets/swell-party-header-2.jpg
 flyer: /assets/SwellParty-A5-FRONT-800.jpg
 sections:
   - title: CAST & CREATIVE TEAM
