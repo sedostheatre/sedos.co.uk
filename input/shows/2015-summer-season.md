@@ -21,55 +21,67 @@ box-office-open: false
 sections:
   - order: 1
     body: >-
-      PERFORMANCES
+      We look forward to welcoming audiences to the Bridewell for our Summer
+      Season week. These shows are all being created with limited rehearsal time
+      and resources, so will not be fully polished performances, but a chance to
+      sample black box, workshop-style theatre.
 
 
-      We look forward to welcoming audiences to the Bridewell for our Summer Season week. These shows are all being created with limited rehearsal time and resources, so will not be fully polished performances, but a chance to sample black box, workshop-style theatre.
+      \
 
+      **Clybourne Park Bridewell Theatre**\
 
-      Clybourne Park Bridewell Theatre, Sunday 12 July, 7.30pm
+      **Sunday 12 July, 7.30pm**
 
       A weekend workshop performance of Bruce Norris' Pulitzer Prize-winning satirical play which explores issues of race, housing and aspirations for a better life.
 
 
-      Cast
+      CAST
 
 
-      LENA | Valerie Antwi KENNETH | Alex Baker
+      LENA | Valerie Antwi \
 
-      FRANCIENE | Melissa Bethune
+      KENNETH | Alex Baker\
 
-      KEVIN | Elliot Bornemann
+      FRANCIENE | Melissa Bethune\
 
-      LINDSAY | Gemma Bowles
+      KEVIN | Elliot Bornemann\
 
-      RUSS | Neil Duggan
+      LINDSAY | Gemma Bowles\
 
-      STEVE | Robert Hayes
+      RUSS | Neil Duggan\
 
-      BEV | Catilin Holmes
+      STEVE | Robert Hayes\
 
-      DAn | Mark Macey
+      BEV | Catilin Holmes\
 
-      JIM | David Miller
+      DAn | Mark Macey\
 
-      KARL | Nick Mouton
+      JIM | David Miller\
 
-      ALBERT | Claudius Samuel Peters
+      KARL | Nick Mouton\
 
-      TOM | Ben Press
+      ALBERT | Claudius Samuel Peters\
 
-      KATHY | Fran Rafferty
+      TOM | Ben Press\
+
+      KATHY | Fran Rafferty\
 
       BETSY | Steph Urqhuart
 
 
-      DIRECTOR | Zoe Thomas-Webb ASSISTANT DIRECTOR | Sarah Barker
+      DIRECTOR | Zoe Thomas-Webb\
+
+      ASSISTANT DIRECTOR | Sarah Barker\
 
       DESIGNER | Edith Webb
 
 
-      Shakers Bridewell Theatre, Monday 13 July, 8pm
+      \
+
+      **Shakers Bridewell Theatre**\
+
+      **Monday 13 July, 8pm**
 
       Four actresses bring us a wickedly funny glimpse into the lives of the waitresses and customers at a cocktail bar in this short, stylish comedy by John Godber and Jane Thornton.
 
@@ -77,17 +89,25 @@ sections:
       CAST
 
 
-      MEl | Laura Bird CAROL | Carrie Pennifer
+      MEl | Laura Bird \
 
-      NICKI | Clancy Jessica Ryan
+      CAROL | Carrie Pennifer\
+
+      NICKI | Clancy Jessica Ryan\
 
       ADELE | Natalie Demain
 
 
-      DIRECTOR | Sylvia Finnimore SET DESIGN | Rebecca Turner
+      DIRECTOR | Sylvia Finnimore \
+
+      SET DESIGN | Rebecca Turner
 
 
-      Americana Bridewell Theatre, Wednesday 15 July, 7.30pm
+      \
+
+      Americana \
+
+      Bridewell Theatre, Wednesday 15 July, 7.30pm
 
       An evening of six plays showcasing the history of American drama. Love, dreams, loss, pain, strength, freedom.
 
@@ -95,31 +115,39 @@ sections:
       CAST
 
 
-      Anna Ballantine Lily Ann Coleman
+      Anna Ballantine Lily \
 
-      Kelly Stone
+      Ann Coleman\
 
-      Georgie Lord
+      Kelly Stone\
 
-      Asma Mani
+      Georgie Lord\
 
-      Brad Johnson
+      Asma Mani\
 
-      David Altaner
+      Brad Johnson\
 
-      Michael Smith
+      David Altaner\
 
-      Christopher Warren
+      Michael Smith\
 
-      Oliver Shermer
+      Christopher Warren\
+
+      Oliver Shermer\
 
       Chris de Pury
 
 
-      DIRECTOR | Alex Magliaro PRODUCER | Blake Klein
+      DIRECTOR | Alex Magliaro \
+
+      PRODUCER | Blake Klein
 
 
-      Reservoir Dogs Bridewell Theatre, Thursday 16 July, 8pm
+      \
+
+      Reservoir Dogs \
+
+      Bridewell Theatre, Thursday 16 July, 8pm
 
       A live reading of the screenplay of Tarantino’s seminal debut. For one night only, nine actors will recreate the legendary roles of the film in a staged reading. With the limited permission of Quentin Tarantino. All rights reserved.
 
@@ -127,19 +155,21 @@ sections:
       CAST
 
 
-      MR WHITE | Mark Johnson MR ORANGE | Daniel Davies
+      MR WHITE | Mark Johnson \
 
-      MR PINK | Mark Macey
+      MR ORANGE | Daniel Davies\
 
-      MR BLOND | Enda Riley
+      MR PINK | Mark Macey\
 
-      JOE CABOT | Pete Bryans
+      MR BLOND | Enda Riley\
 
-      "NICE GUY" EDDIE CABOT | Alain English
+      JOE CABOT | Pete Bryans\
 
-      MR BROWN | Daniel Saunders
+      "NICE GUY" EDDIE CABOT | Alain English\
 
-      MR BLUE | Ian Mantgani
+      MR BROWN | Daniel Saunders\
+
+      MR BLUE | Ian Mantgani\
 
       NARRATOR | Michael Smith
 
@@ -147,37 +177,53 @@ sections:
       DIRECTOR | Lorenzo Mason
 
 
-      On The Night Bridewell Theatre, Friday 17 July, 8.15pm
+      \
+
+      On The Night \
+
+      Bridewell Theatre, Friday 17 July, 8.15pm
 
       A new musical, On the Night is an homage to backstage musicals and a love letter to theatre itself. As the last-minute preparations for their new season commence, a cabaret cast take time out to practise, reminisce and gossip.
 
 
-      COMPOSERS | Jonathan Brigg, William Brooks, James Cave, Simone Ibbett-Brown, Peter Smith and Joe Steele.  BOOK AND ADDITIONAL LYRICS |Simone Ibbett-Brown and Alice Wright.
+      COMPOSERS | Jonathan Brigg, William Brooks, James Cave, Simone Ibbett-Brown, Peter Smith and Joe Steele\
+
+      BOOK AND ADDITIONAL LYRICS |Simone Ibbett-Brown and Alice Wright
 
 
       CAST
 
 
-      ELLIE | Stephanie Lovegrove JENNIFER | Abigail Francis
+      ELLIE | Stephanie Lovegrove\
 
-      RUTH | Olga-Marie Pratt
+      JENNIFER | Abigail Francis\
 
-      HARRY | Adrian Hau
+      RUTH | Olga-Marie Pratt\
 
-      GEORGE | Tristan Landymore
+      HARRY | Adrian Hau\
+
+      GEORGE | Tristan Landymore\
 
       PETER | Howard Thompson
 
 
-      DIRECTORS | Simone Ibbett-Brown and Alice Wright MUSICAL DIRECTOR | Oran Doyle
+      DIRECTORS | Simone Ibbett-Brown and Alice Wright \
+
+      MUSICAL DIRECTOR | Oran Doyle
 
 
-      Frozen Sing-A-Long Bridewell Theatre, Saturday 18 July, 6.30pm
+      \
+
+      **Frozen Sing-A-Long** \
+
+      **Bridewell Theatre, Saturday 18 July, 6.30pm**
 
       Let it go — celebrate the end of the Summer Season by singing your heart out to the Disney film.
 
 
-      Please note: Clybourne Park, Shakers, Reservoir Dogs and On The Night contain strong language and/or adult themes.
+
+
+      **Please note:** *Clybourne Park, Shakers, Reservoir Dogs* and *On The Night* contain strong language and/or adult themes.
     title: PERFORMANCES
   - order: 2
     body: >-
