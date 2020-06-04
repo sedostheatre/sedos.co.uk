@@ -43,23 +43,23 @@ sections:
     body: |-
       <div class="video-responsive"><?# YouTube myGDhsqCV3A /?></div>
 
-      \    
+      &nbsp;
 
       <div class="video-responsive"><?# YouTube 3VwumzByasM /?></div>
 
-         
+      &nbsp;
 
       <div class="video-responsive"><?# YouTube 48csMuOQMrg /?></div>
 
-      \    
+      &nbsp;
 
       <div class="video-responsive"><?# YouTube -A_kp4JZ2cw /?></div>
 
-        
+      &nbsp;
 
       <div class="video-responsive"><?# YouTube Gw9FGLXvwp4 /?></div>
 
-
+      &nbsp;
 
       <div class="video-responsive"><?# YouTube QlI6oCcqRGQ /?></div>
 RedirectFrom:
