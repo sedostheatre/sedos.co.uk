@@ -39,6 +39,12 @@ Pipelines.Add("TopLevelNav",
     Yaml()
 );
 
+Pipelines.Add("HeaderImages", 
+    ReadFiles("header-images/*.yml"),
+    Yaml(),
+    Meta("image", (doc, ctx) => CopyAndResizeImageFromMeta(doc, ctx, "image-source", 1280, null, ResizeMode.Pad))
+);
+
 Pipelines.Add("FallbackHeaders",
     ReadFiles("assets/images/headers/fallback/*.*"),
     Image().Resize(width: 1280, height: null),
@@ -85,10 +91,7 @@ Pipelines.Add("News",
     Excerpt().WithOuterHtml(false),
     Shortcodes(),
     Meta("image", (doc, ctx) => CopyAndResizeImageFromMeta(doc, ctx, "image", 300, 300)),
-    Meta("header-image", CopyAndResizeHeaderImage),
-    Meta("fallback-header",
-        (doc, ctx) => CopyAndResizeImageFromFile(doc, ctx, "assets/images/headers/SedosWebsite-Banner-Seats-flaton.jpg", 1280, null, ResizeMode.BoxPad)
-    ),
+    Meta("category", "news"),
     Meta("background-override", "bg-turquoise"),
     Razor().WithViewStart("Layout/_NewsArticleViewStart.cshtml"),
     WriteFiles(".html")
@@ -103,11 +106,8 @@ Pipelines.Add("Events",
         .UseExtensions(),
     Excerpt().WithOuterHtml(false),
     Shortcodes(),
-    Meta("header-image", CopyAndResizeHeaderImage),
     Meta("image", (doc, ctx) => CopyAndResizeImageFromMeta(doc, ctx, "image", 300, 300)),
-    Meta("fallback-header",
-        (doc, ctx) => CopyAndResizeImageFromFile(doc, ctx, "assets/images/headers/molm.jpg", 1280, null, ResizeMode.BoxPad)
-    ),
+    Meta("category", "events"),
     Meta("background-override", "bg-purple"),
     Razor().WithViewStart("Layout/_EventViewStart.cshtml"),
     WriteFiles(".html")
