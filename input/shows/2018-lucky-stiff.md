@@ -3,7 +3,7 @@ title: Lucky Stiff
 year: "2018"
 authors: Book and lyrics by LYNN AHRENS
 authors2: Music by STEPHEN FLAHERTY
-subtitle: ""
+subtitle: A wacky musical farce about diamonds, dogs, murder and love
 showtimes:
   - time: 2018-09-18 19:30
   - time: 2018-09-20 19:30
@@ -13,7 +13,7 @@ showtimes:
   - time: 2018-09-22 19:30
 showtime-summary: 18-22 September 2018
 venue: Bridewell Theatre
-primary-color: "#000000"
+primary-color: "#f38825"
 header-image: /assets/lucky-stiff.jpg
 flyer: /assets/LuckyStiffFlyerFront-14June-800.jpg
 sections:
