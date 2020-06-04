@@ -13,7 +13,7 @@ showtimes:
 showtime-summary: 17-21 September 2019
 venue: Bridewell Theatre
 primary-color: "#e7213b"
-header-image: /assets/valentines-day-2057745.jpg
+header-image: /assets/arms-and-the-man-header-2.jpg
 flyer: /assets/ArmandtheMan-A5-flyer-FRONT-800.jpg
 sections:
   - title: CAST & CREATIVE TEAM
