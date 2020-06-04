@@ -16,6 +16,7 @@ showtimes:
 showtime-summary: 12-18 July 2015
 venue: Bridewell Theatre and Bishopsgate Institute
 primary-color: "#f9d0e2"
+header-image: /assets/shakers-header.jpg
 flyer: /assets/summerseasonposter-600.jpg
 box-office-open: false
 sections:
