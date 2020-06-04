@@ -1,8 +1,8 @@
 ---
 title: London Road
 year: "2016"
-authors: Book and Lyrics by ALECKY BLYTHE
-authors2: Music and Lyrics by ADAM CORK
+authors: Book and lyrics by ALECKY BLYTHE
+authors2: Music and lyrics by ADAM CORK
 subtitle: A new production of an inspiring five-star hit that's part musical,
   part documentary
 showtimes:
