@@ -92,29 +92,21 @@ sections:
   - title: VIDEO
     body: |-
       <div class="video-responsive"> <?# YouTube T4QrUOruMj8 /?> </div>
-
-
+      &nbsp;
       <div class="video-responsive"> <?# YouTube oXJW8uRmgmE /?> </div>
-
-
+      &nbsp;
       <div class="video-responsive"> <?# YouTube TSkDX_YDcg0 /?> </div>
-
-
+      &nbsp;
       <div class="video-responsive"> <?# YouTube S_ikqgkzXQM /?> </div>
-
-
+      &nbsp;
       <div class="video-responsive"> <?# YouTube ncmwHdA55z0 /?> </div>
-
-
+      &nbsp;
       <div class="video-responsive"> <?# YouTube HzJ_7-bt8Ug /?> </div>
-
-
+      &nbsp;
       <div class="video-responsive"> <?# YouTube yCK_wlVPbtQ /?> </div>
-
-
+      &nbsp;
       <div class="video-responsive"> <?# YouTube zZ0lssLozqs /?> </div>
-
-
+      &nbsp;
       <div class="video-responsive"> <?# YouTube wG-mXAbwNa0 /?> </div>
     order: 4
   - title: REVIEWS
