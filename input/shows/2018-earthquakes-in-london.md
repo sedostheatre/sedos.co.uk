@@ -12,7 +12,7 @@ showtimes:
   - time: 2018-07-14 19:30
 showtime-summary: 10-14 July 2018
 primary-color: "#17a2b8"
-header-image: /assets/35518725_10156293703593267_8650517914618691584_n.jpg
+header-image: /assets/earthquakes-header.jpg
 flyer: /assets/FlyerA6-Front-800.jpg
 sections:
   - title: CAST & CREATIVE TEAM
