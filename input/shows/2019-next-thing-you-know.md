@@ -68,9 +68,10 @@ sections:
       async src="//embedr.flickr.com/assets/client-code.js"
       charset="utf-8"></script>
     order: 2
-  - title: VIDEOS
+  - title: VIDEO
     body: |-
       <div class="video-responsive"><?# YouTube gv4tHs6k0Zg /?></div>
+      &nbsp;
       <div class="video-responsive"><?# YouTube mIE1WDS5K6o /?></div>
     order: 3
   - order: 4
