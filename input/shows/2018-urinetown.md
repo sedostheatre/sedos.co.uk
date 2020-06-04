@@ -1,8 +1,8 @@
 ---
 title: Urinetown
 year: "2018"
-authors: Music and Lyrics by MARK HOLLMANN
-authors2: Book and Lyrics by GREG KOTIS
+authors: Music and lyrics by MARK HOLLMANN
+authors2: Book and lyrics by GREG KOTIS
 subtitle: Tomorrow will not stink!
 showtimes:
   - time: 2018-11-21 19:30
