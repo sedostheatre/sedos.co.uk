@@ -17,6 +17,23 @@ header-image: /assets/serial-killers.jpg
 flyer: /assets/serialflyer-front-600.jpg
 box-office-open: false
 sections:
+  - order: 1
+    body: |-
+      **CAST**
+
+      **PAULINE** | Lisa Rost-Welling  \
+      **ALAN** | Dickon Farmar\
+      **ELAIN**E | Natalie Harding-Moore\
+      **SIMONE** | Hattie Stacey \
+      **MATT** | Rick Woska \
+      **ANDREW LOMAS** | Nick Marrast-Lewis \
+      **SALLY** | Jen Jewell 
+
+      **CREATIVE TEAM**
+
+      **DIRECTOR** | Matt Bentley \
+      **PRODUCER** | Nicola Gledhill
+    title: CAST & CREATIVE TEAM
   - order: 2
     title: GALLERY
     body: <a data-flickr-embed="true"
