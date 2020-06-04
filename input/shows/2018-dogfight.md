@@ -15,6 +15,8 @@ showtimes:
   - time: 2018-03-10 19:30
 showtime-summary: 6-10 March 2018
 venue: Bridewell Theatre
+primary-color: "#555500"
+header-image: assets/images/headers/2018-dogfight-header-image.jpg
 flyer: assets/images/flyers/2018-dogfight-flyer.jpg
 sections:
   - title: CAST AND CREATIVE TEAM
@@ -71,8 +73,6 @@ sections:
 RedirectFrom:
   - 2018/dogfight.htm
 float-nav: true
-primary-color: "#555500"
-header-image: assets/images/headers/2018-dogfight-header-image.jpg
 ---
 > **The whole damn world might change tomorrow** \
 > **So we go for broke today**
@@ -83,7 +83,7 @@ header-image: assets/images/headers/2018-dogfight-header-image.jpg
 
 The rules of the dogfight are simple and cruel: each marine pays in $50, and the marine with the ugliest date wins. But, when one of these Marines, Eddie Birdlace, meets Rose, an awkward and idealistic waitress whom he invites to join him that night, she rewrites the rules of the game and teaches him the power of love and kindness.
 
-Based on the 1991 movie of the same name starring River Phoenix, **Dogfight** premièred Off-Broadway in 2012, when it won the Lucille Lortel Award for Outstanding Musical and was nominated for five Outer Critics Circle and two Drama Desk Awards.
+Based on the 1991 movie of the same name starring River Phoenix, *Dogfight* premièred Off-Broadway in 2012, when it won the Lucille Lortel Award for Outstanding Musical and was nominated for five Outer Critics Circle and two Drama Desk Awards.
 
 >Easily the most delicate, surprising, musically satisfying score since Spring Awakening
 ><footer><cite>Time Out New York</cite></footer>
