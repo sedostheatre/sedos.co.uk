@@ -24,7 +24,7 @@ jobs:
       - name: automerge
         uses: "pascalgn/automerge-action@7ab42e888a333bf77ce865bc84fedc6a365a3548"
         env:
-          GITHUB_TOKEN: "${{ secrets.GITHUB_TOKEN }}"
+          GITHUB_TOKEN: "${{ secrets.ACTIONS_PAT }}"
           MERGE_METHOD: "squash"
           UPDATE_METHOD: "rebase"
           MERGE_DELETE_BRANCH: true
