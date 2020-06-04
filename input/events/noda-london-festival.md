@@ -7,7 +7,7 @@ recurrence: Sunday 14 June, from 10am
 ---
 **The NODA London Festival will be a virtual event this year.**
 
-Sedos is up for a total of [8 NODA awards](https://sedos.l3v5y.co.uk/news/2020-05-15-sedos-wins-eight-noda-district-awards). The presentation will be on the **[NODA London Facebook](https://www.facebook.com/NODA.London/)** page from 10am on Sunday 14 June 2020, when the Regional Winners of Awards, will be announced in turn. You can follow the Awards "live" on the Noda London  Facebook page.
+Sedos is up for a total of [8 NODA awards](https://sedos.l3v5y.co.uk/news/2020-05-15-sedos-wins-eight-noda-district-awards) this year, so we have everything crossed. The presentation will be on the NODA London Facebook page from 10am on Sunday 14 June 2020, when the Regional Winners of Awards, will be announced in turn. You can follow the Awards "live" on the **[NODA London Facebook](https://www.facebook.com/NODA.London/)** page.
 
 A Festival brochure has been produced containing all the usual information including the AGM papers. A link to the brochure can be found below.
 
