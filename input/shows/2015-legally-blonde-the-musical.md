@@ -83,3 +83,7 @@ RedirectFrom:
 **Sorority Queen Elle Woods had it all: the hair, the shoes, the guy. That is, before she was dumped for an evil preppie. Positive that she can win him back, Elle ditches her career in fashion for Harvard Law. Join Elle as she proves that being true to yourself never goes out of style.**
 
 Sedos presents the Olivier Award winning musical based on the iconic MGM film of the same name. This hilarious yet heartwarming show will have you tickled pink from start to finish.
+
+
+
+*This amateur production is presented by arrangement with JOSEF WEINBERGER LIMITED on behalf of MUSIC THEATRE INTERNATIONAL of NEW YORK.*
