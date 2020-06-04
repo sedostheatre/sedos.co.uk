@@ -14,7 +14,7 @@ showtimes:
 showtime-summary: 18-22 September 2018
 venue: Bridewell Theatre
 primary-color: "#000000"
-header-image: /assets/LukcyStuff-rehearsal2-360.jpg
+header-image: /assets/lucky-stiff.jpg
 flyer: /assets/LuckyStiffFlyerFront-14June-800.jpg
 sections:
   - title: CAST & CREATIVE TEAM
