@@ -2,6 +2,16 @@
 title: Summer Season
 year: "2015"
 subtitle: A week of workshops, performances and events
+showtimes:
+  - time: 2015-07-12 11:30
+  - time: 2015-07-12 19:30
+  - time: 2015-07-13 20:00
+  - time: 2015-07-15 19:30
+  - time: 2015-07-16 20:00
+  - time: 2015-07-17 20:15
+  - time: 2015-07-18 14:00
+  - time: 2015-07-18 18:30
+  - time: 2015-07-18 11:00
 showtime-summary: 12-18 July 2015
 venue: Bridewell Theatre and Bishopsgate Institute
 flyer: /assets/summerseasonposter-600.jpg
