@@ -17,6 +17,7 @@ sections:
     body: |-
       **PERFORMERS**
 
+      Dickon Farmer\
       Simona Hughes \
       Patricia Jones\
       Adam Moulder\
@@ -29,7 +30,8 @@ sections:
       Matt Bentley\
       Dickon Farmer\
       Issy Flower\
-      Pippa Kyle
+      Pippa Kyle\
+      Emma J Leaver
 
       \
       **CREATIVE TEAM**\
@@ -45,7 +47,7 @@ sections:
 
       <div class="video-responsive"><?# YouTube 3VwumzByasM /?></div>
 
-      \    
+         
 
       <div class="video-responsive"><?# YouTube 48csMuOQMrg /?></div>
 
@@ -53,11 +55,13 @@ sections:
 
       <div class="video-responsive"><?# YouTube -A_kp4JZ2cw /?></div>
 
-      \    
+        
 
       <div class="video-responsive"><?# YouTube Gw9FGLXvwp4 /?></div>
 
-      \
+
+
+      <div class="video-responsive"><?# YouTube QlI6oCcqRGQ /?></div>
 RedirectFrom:
   - 2020/isolation.htm
 ---
