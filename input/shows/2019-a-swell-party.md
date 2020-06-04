@@ -1,7 +1,7 @@
 ---
 title: A Swell Party
 year: "2019"
-authors: Music and Lyrics by COLE PORTER
+authors: Music and lyrics by COLE PORTER
 authors2: Written by JOHN KANE
 authors3: Conceived by DAVID KERNAN
 subtitle: A celebration of the life & work of COLE PORTER
@@ -62,7 +62,7 @@ sections:
       width="640" height="427" alt="A Swell Party - 2019"></a><script async
       src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
     order: 2
-  - title: REVIEW
+  - title: REVIEWS
     body: >-
       >This production, a Minack debut for Sedos which usually performs just off
       Fleet Street, classily directed by Roger Harwood and Dawn
