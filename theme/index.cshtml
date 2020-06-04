@@ -63,7 +63,7 @@ float-nav: true
 <div class="home-events-section">
     <div class="container">
         <div class="row">
-            <div class="event-card-container col-md-3">
+            <div class="event-card-container d-none d-md-block col-md-3">
                 @{
                     foreach(var eventItem in Documents["RegularEvents"].OrderBy(i => i["title"]).Take(3))
                     {
@@ -84,6 +84,22 @@ float-nav: true
                     Html.RenderPartial("Partials/_EventCard", @eventItem);
                 }
             }
+
+            <div class="event-card-container d-block d-md-none col-md-3">
+                @{
+                    foreach(var eventItem in Documents["RegularEvents"].OrderBy(i => i["title"]).Take(3))
+                    {
+                        <div class="card mb-3 border-0 regular-event-card">
+                            <a href="@Context.GetLink(eventItem)">
+                                <div class="card-header">
+                                    <h4 class="card-title text-white">@eventItem["title"]</h4>
+                                    <div class="card-text text-light"><small>@eventItem.Get("recurrence", "")</small></div>
+                                </div>
+                            </a>
+                        </div>
+                    }
+                }
+            </div>
         </div>
         <div class="row justify-content-center">
             <div class="col-auto mt-3">
