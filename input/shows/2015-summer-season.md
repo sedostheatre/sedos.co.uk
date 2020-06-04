@@ -30,7 +30,7 @@ sections:
       sample black box, workshop-style theatre.
 
 
-      #### \
+
 
       **Clybourne Park** 
 
@@ -81,8 +81,6 @@ sections:
       **DESIGNER** | Edith Webb
 
 
-      #### \
-
       \
 
       **Shakers** 
@@ -109,8 +107,6 @@ sections:
 
       **SET DESIGN** | Rebecca Turner
 
-
-      #### \
 
       \
 
@@ -153,8 +149,6 @@ sections:
       **PRODUCER** | Blake Klein
 
 
-      #### \
-
       \
 
       **Reservoir Dogs** 
@@ -189,8 +183,6 @@ sections:
 
       **DIRECTOR** | Lorenzo Mason
 
-
-      #### \
 
       \
 
@@ -227,8 +219,6 @@ sections:
 
       **MUSICAL DIRECTOR** | Oran Doyle
 
-
-      #### \
 
       \
 
