@@ -1,7 +1,7 @@
 ---
 title: Dogfight
 year: "2018"
-authors: Music and Lyrics by BENJ PASEK and JUSTIN PAUL
+authors: Music and lyrics by BENJ PASEK and JUSTIN PAUL
 authors2: Book by PETER DUCHAN
 authors3: " Based on the Warner Bros. film and screenplay by BOB COMFORT"
 subtitle: |
