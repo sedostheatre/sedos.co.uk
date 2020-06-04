@@ -2,7 +2,7 @@
 title: Pippin
 year: "2018"
 authors: Book by ROGER O. HIRSON
-authors2: Music and Lyrics by STEPHEN SCHWARTZ
+authors2: Music and lyrics by STEPHEN SCHWARTZ
 subtitle: Meet Pippin. Young, ambitious, full of potential and ready to change
   the world. But things are never that simple.
 showtimes:
