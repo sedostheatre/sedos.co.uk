@@ -7,8 +7,11 @@ namespace Sedos.Pipelines
     {
         public RegularEvents()
         {
+            InputModules = new ModuleList
+            { new ReadFiles("regular-events/*.md") };
+
             OutputModules = new ModuleList
-            { };
+            { new WriteFiles()};
         }
 
 

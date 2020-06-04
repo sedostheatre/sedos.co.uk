@@ -9,7 +9,14 @@ namespace Sedos.Pipelines
     {
         public Index()
         {
-            Dependencies.AddRange(nameof(FutureShows), nameof(FallbackHeaders), nameof(RegularEvents), nameof(UpcomingEvents), nameof(TopLevelNav), nameof(Footer), nameof(News));
+            Dependencies.AddRange(
+                nameof(AllShows),
+                nameof(FallbackHeaders),
+                nameof(RegularEvents),
+                nameof(UpcomingEvents),
+                nameof(TopLevelNav),
+                nameof(Footer),
+                nameof(News));
 
             InputModules = new ModuleList
             {
