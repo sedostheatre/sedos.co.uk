@@ -1,7 +1,7 @@
 ---
 title: One Man, Two Guvnors
 year: "2016"
-authors: by RICHARD BEAN
+authors: By RICHARD BEAN
 subtitle: A new production of the award-winning National Theatre comedy play
 showtimes:
   - time: 2016-10-04 19:30
