@@ -271,8 +271,8 @@ sections:
     body: <a data-flickr-embed="true"
       href="https://www.flickr.com/photos/sedos/albums/72157654375495172"
       title="Sedos Summer Season - 2015"><img
-      src="https://live.staticflickr.com/434/18511280578_e22abddc36_z.jpg"
-      width="452" height="640" alt="Sedos Summer Season - 2015"></a><script
+      src="https://live.staticflickr.com/434/18511280578_e22abddc36_c.jpg"
+      width="566" height="800" alt="Sedos Summer Season - 2015"></a><script
       async src="//embedr.flickr.com/assets/client-code.js"
       charset="utf-8"></script>
 RedirectFrom:
