@@ -18,7 +18,7 @@ showtimes:
   - time: 2019-11-23 19:30
 showtime-summary: 13-23 November 2019
 venue: Bridewell Theatre
-header-image: /assets/statue-of-liberty-359341.jpg
+header-image: /assets/ragtime-header-2.jpg
 flyer: /assets/ragtime-a5-flyer-front-800_000.jpg
 sections:
   - title: CAST & CREATIVE TEAM
