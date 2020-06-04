@@ -286,8 +286,8 @@ RedirectFrom:
 ---
 **An exciting summer season featuring a week of workshops, performances and events in central London venues — watch, learn, try something new or just have fun. Catch all our shows for just £15 (£12.50 members) - it's the perfect theatrical social!**
 
-![](/assets/summerseasonflyerinnernew-600.jpg)
 
-\    
+
+![](/assets/summerseasonflyerinnernew-600.jpg)
 
 ![](/assets/summerseasonflyerouternew-600.jpg)
