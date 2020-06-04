@@ -30,11 +30,12 @@ sections:
       sample black box, workshop-style theatre.
 
 
-      \
+      #### \
 
-      **Clybourne Park Bridewell Theatre**\
+      **Clybourne Park** 
 
-      **Sunday 12 July, 7.30pm**\
+
+      **Bridewell Theatre, Sunday 12 July, 7.30pm**\
 
       A weekend workshop performance of Bruce Norris' Pulitzer Prize-winning satirical play which explores issues of race, housing and aspirations for a better life.
 
@@ -80,11 +81,14 @@ sections:
       **DESIGNER** | Edith Webb
 
 
+      #### \
+
       \
 
-      **Shakers Bridewell Theatre**\
+      **Shakers** 
 
-      **Monday 13 July, 8pm**\
+
+      **Bridewell Theatre, Monday 13 July, 8pm**\
 
       Four actresses bring us a wickedly funny glimpse into the lives of the waitresses and customers at a cocktail bar in this short, stylish comedy by John Godber and Jane Thornton.
 
@@ -106,9 +110,12 @@ sections:
       **SET DESIGN** | Rebecca Turner
 
 
+      #### \
+
       \
 
-      **Americana** \
+      **Americana** 
+
 
       **Bridewell Theatre, Wednesday 15 July, 7.30pm**\
 
@@ -146,9 +153,12 @@ sections:
       **PRODUCER** | Blake Klein
 
 
+      #### \
+
       \
 
-      **Reservoir Dogs** \
+      **Reservoir Dogs** 
+
 
       **Bridewell Theatre, Thursday 16 July, 8pm**\
 
@@ -180,9 +190,12 @@ sections:
       **DIRECTOR** | Lorenzo Mason
 
 
+      #### \
+
       \
 
-      **On The Night** \
+      **On The Night** 
+
 
       **Bridewell Theatre, Friday 17 July, 8.15pm**\
 
@@ -215,19 +228,16 @@ sections:
       **MUSICAL DIRECTOR** | Oran Doyle
 
 
+      #### \
+
       \
 
-      **Frozen Sing-A-Long** \
+      **Frozen Sing-A-Long** 
+
 
       **Bridewell Theatre, Saturday 18 July, 6.30pm**\
 
       Let it go — celebrate the end of the Summer Season by singing your heart out to the Disney film.
-
-
-      \    
-
-
-      \    
 
 
       **Please note:** *Clybourne Park, Shakers, Reservoir Dogs* and *On The Night* contain strong language and/or adult themes.
