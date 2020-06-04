@@ -58,15 +58,15 @@ sections:
     body: |-
       <div class="video-responsive"><?# YouTube NaAVFrP8Olo /?></div>
 
-         
+      &nbsp;
 
       <div class="video-responsive"><?# YouTube yLalMPhBIoA /?></div>
 
-         
+      &nbsp;
 
       <div class="video-responsive"><?# YouTube I4uK1i0Uo9I /?></div>
 
-         
+      &nbsp;
 
       <div class="video-responsive"><?# YouTube LmGDz9zM8lo /?></div>
   - order: 4
