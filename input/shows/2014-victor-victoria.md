@@ -31,7 +31,7 @@ sections:
       **CAST**
 
 
-      **VICTORIA GRANT / VICTOR** |Emma Walton\
+      **VICTORIA GRANT / VICTOR** | Emma Walton\
 
       **TODDY (CARROLL TODD)** | Wayne Burke\
 
@@ -82,7 +82,7 @@ sections:
 
       **ASSISTANT PRODUCER** | Cecile Beauvillard\
 
-      **STAGE MANAGER |** Laura Graham-Matheson\
+      **STAGE MANAGER** | Laura Graham-Matheson\
 
       **SET DESIGNER** | Steven King\
 
