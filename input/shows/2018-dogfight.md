@@ -15,11 +15,9 @@ showtimes:
   - time: 2018-03-10 19:30
 showtime-summary: 6-10 March 2018
 venue: Bridewell Theatre
-primary-color: "#e2403d"
-header-image: /assets/dogfight-banner.jpg
 flyer: /assets/dogfight-a5-flyer_02-02-01-800.jpg
 sections:
-  - title: CAST AND CREATIVE TEAM
+  - title: CAST & CREATIVE TEAM
     body: >-
       **CAST**
 
@@ -73,6 +71,8 @@ sections:
 RedirectFrom:
   - 2018/dogfight.htm
 float-nav: true
+primary-color: "#e2403d"
+header-image: /assets/dogfight-banner.jpg
 ---
 > **The whole damn world might change tomorrow** \
 > **So we go for broke today**
