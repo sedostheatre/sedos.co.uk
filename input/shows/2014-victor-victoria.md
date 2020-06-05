@@ -20,7 +20,7 @@ showtimes:
   - time: 2014-12-06 19:30
 showtime-summary: 26 November-6 December 2014
 venue: Bridewell Theatre
-primary-color: "#104c4d"
+primary-color: "#de4c57"
 header-image: /assets/15883864075_d0b964baa1_k.jpg
 flyer: /assets/victorvictoriaflyer-front-600.jpg
 box-office-open: false
