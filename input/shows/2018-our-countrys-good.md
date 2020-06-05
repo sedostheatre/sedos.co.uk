@@ -14,7 +14,7 @@ showtime-summary: 23-27 October 2018
 venue: ""
 ticket-prices: ""
 primary-color: "#0b0f18"
-header-image: /assets/OCH-headshotmontage].jpg
+header-image: /assets/our-countrys-good.jpg
 flyer: /assets/Our countrys good A5_front-800.jpg
 sections:
   - title: CAST & CREATIVE TEAM
