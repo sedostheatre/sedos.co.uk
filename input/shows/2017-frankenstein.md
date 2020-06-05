@@ -3,7 +3,7 @@ title: Frankenstein
 year: "2017"
 authors: By NICK DEAR
 authors2: Based on the novel by MARY SHELLEY
-subtitle: ""
+subtitle: A thrilling and deeply disturbing gothic tale
 showtimes:
   - time: 2017-10-17 19:30
   - time: 2017-10-18 19:30
