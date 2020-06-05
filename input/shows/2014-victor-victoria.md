@@ -89,10 +89,19 @@ sections:
       **LIGHTING DESIGNER** | Jon Winn\
 
       **COSTUME DESIGNER** |[Fiona Lockton](http://fionalockton.wix.com/costumedesign)
+  - order: 2
+    title: GALLERY
+    body: <a data-flickr-embed="true"
+      href="https://www.flickr.com/photos/sedos/albums/72157648487357128"
+      title="Victor/Victoria - 2014"><img
+      src="https://live.staticflickr.com/7473/15858055096_58fbc01f38_z.jpg"
+      width="427" height="640" alt="Victor/Victoria - 2014"></a><script async
+      src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 RedirectFrom:
   - 2014/victorvictoria.htm
 ---
 **We know we're in Paris, but is this person a he or a she? A man or a woman? What confusion... what fun!**
 
-*Victor/Victoria* is a musical comedy based on the 1982 film of the same name, which starred Julie Andrews in the lead role and features the iconic song 'Le jazz hot'. The film was nominated for seven Academy Awards and won the Oscar for best Original Music Score. It was adapted in 1995 as a Broadway musical, where Julie Andrews reprised the lead role receiving a Tony nomination.\
+*Victor/Victoria* is a musical comedy based on the 1982 film of the same name, which starred Julie Andrews in the lead role and features the iconic song 'Le jazz hot'. The film was nominated for seven Academy Awards and won the Oscar for best Original Music Score. It was adapted in 1995 as a Broadway musical, where Julie Andrews reprised the lead role receiving a Tony nomination.
+
 Set in Paris in 1934, a penniless singer (Victoria Grant) colludes with a struggling nightclub singer to disguise herself as a man 'Victor', to entertain as a female impersonator 'Victoria' - and as a result becomes the toast of Paris. Complications arise when a macho Chicago gangster sees the act and finds himself attracted to the star. Much hilarity ensues until 'Victor' confesses ‘he’ is not a man and they fall in love.
