@@ -3,8 +3,9 @@ title: "Working: a musical"
 year: "2020"
 authors: Adapted by NINA FASO and STEPHEN SCHWARTZ
 authors2: With additional contributions by GORDON GREENBERG
-authors3: ""
-subtitle: ""
+authors3: Songs by CRAIG CARNELIA, JAMES TAYLOR, MARY RODGERS, MICKI GRANT,
+  STEPHEN SCHWARTZ, SUSAN BIRKENHEAD and LIN-MANUEL MIRANDA
+subtitle: From the book by STUDS TURKEL
 showtimes: []
 showtime-summary: THIS SHOW HAS BEEN POSTPONED
 show-on-homepage: true
