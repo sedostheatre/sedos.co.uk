@@ -4,6 +4,7 @@ year: "2019"
 authors: Book by TERRENCE MCNALLY
 authors2: Music by STEPHEN FLAHERTY
 authors3: Lyrics by LYNN AHRENS
+subtitle: A sweeping epic musical about the birth of America
 showtimes:
   - time: 2019-11-13 19:30
   - time: 2019-11-14 19:30
