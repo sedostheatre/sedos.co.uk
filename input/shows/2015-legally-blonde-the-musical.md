@@ -28,7 +28,8 @@ sections:
     body: |-
       **CAST**
 
-      **ELLE WOODS** | Laura Bird **EMMETT FORREST** | Chris Cahill
+      **ELLE WOODS** | Laura Bird \
+      **EMMETT FORREST** | Chris Cahill \
       **PAULETTE BONAFONTE** | Corin Miller\
       **WARNER HUNTINGTON III** | Paul Christopher\
       **VIVIENNE KENSINGTON** | Skyla Loureda\
