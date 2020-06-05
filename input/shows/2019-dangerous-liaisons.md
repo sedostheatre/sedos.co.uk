@@ -1,6 +1,7 @@
 ---
 title: Dangerous Liaisons
 year: "2019"
+authors: By KIMBERLY BARKER and TOM LEONARD
 authors3: ""
 subtitle: An original dance adaptation
 showtimes:
