@@ -13,7 +13,7 @@ showtimes:
 showtime-summary: 23-27 October 2018
 venue: ""
 ticket-prices: ""
-primary-color: "#0b0f18"
+primary-color: "#fca62b"
 header-image: /assets/our-countrys-good.jpg
 flyer: /assets/Our countrys good A5_front-800.jpg
 sections:
