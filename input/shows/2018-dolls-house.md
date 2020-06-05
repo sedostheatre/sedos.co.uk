@@ -3,7 +3,8 @@ title: A Doll's House
 year: "2018"
 authors: By HENRIK IBSEN
 authors2: English language version by SIMON STEPHENS
-subtitle: ""
+subtitle: Ibsen’s masterpiece examines the way society shapes us and our
+  conception of others
 showtimes:
   - time: 2018-01-23 19:30
   - time: 2018-01-24 19:30
