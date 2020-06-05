@@ -1,11 +1,9 @@
 ---
-title: Sedos needs you
-date: 2020-03-27
+title: Stay connected as we all stay apart!
+date: 2020-03-27T00:00:00.000Z
 image: /assets/sedos-needs-you.jpg
 ---
-**Stay connected as we all stay apart!**
-
-We are very keen to remain engaged with all of our members and friends during this time of lock-down. Isolation is already going great guns, thanks to everyone who has emailed and got involved. 
+**We are very keen to remain engaged with all of our members and friends during this time of lockdown. Isolation is already going great guns, thanks to everyone who has emailed and got involved.** 
 
 The Banana Hut Gang continue to practice their improvisation skills using Zoom and Tom Leonard lead our first virtual Sedance this week.
 
