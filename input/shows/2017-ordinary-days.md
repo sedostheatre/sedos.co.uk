@@ -13,8 +13,8 @@ showtimes:
 showtime-summary: 27-30 September 2017
 venue: Bridewell Theatre
 primary-color: "#6b6f94"
-header-image: ""
-flyer: /assets/ordinarydaysheader.jpg
+header-image: /assets/ordinarydaysheader.jpg
+flyer: /assets/ordinarydays-quickfront.jpg
 sections:
   - title: CAST & CREATIVE TEAM
     body: |-
