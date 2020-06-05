@@ -13,7 +13,7 @@ showtimes:
 showtime-summary: 9-14 April 2018
 venue: Bridewell Theatre
 ticket-prices: ""
-primary-color: "#1a1c61"
+primary-color: "#a42c2b"
 header-image: /assets/you-can-t-take-it-with-you.jpg
 flyer: /assets/YCTIWY POSTER FRONT-800.jpg
 sections:
