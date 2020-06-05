@@ -33,6 +33,17 @@ sections:
       **CREATIVE TEAM**
 
       **DIRECTOR** | Roger Beaumont
+  - order: 2
+    title: GALLERY
+    body: <a data-flickr-embed="true"
+      href="https://www.flickr.com/photos/sedos/albums/72157648477703419"
+      title="Boeing Boeing - 2014"><img
+      src="https://live.staticflickr.com/3948/15654541812_a2459c02c3_z.jpg"
+      width="640" height="512" alt="Boeing Boeing - 2014"></a><script async
+      src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+  - order: 3
+    title: VIDEO
+    body: <div class="video-responsive"><?# YouTube AukPQ87ehD4 /?></div>
 RedirectFrom:
   - /2014/boeingboeing.htm
 ---
