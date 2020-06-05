@@ -21,7 +21,7 @@ sections:
   - order: 1
     title: CAST & CREATIVE TEAM
     body: |-
-      CAST
+      **CAST**
 
       **BERNARD** | Adam Moulder\
       **ROBERT** | Theo Leonard\
