@@ -2,6 +2,7 @@
 title: The Accrington Pals
 year: "2017"
 authors: By PETER WHELAN
+subtitle: A town throbs and pulses with life, even as death advances
 showtimes:
   - time: 2017-02-14 19:30
   - time: 2017-02-15 19:30
@@ -11,7 +12,8 @@ showtimes:
   - time: 2017-02-18 19:30
 showtime-summary: 14-18 February 2017
 venue: Bridewell Theatre
-header-image: /assets/accringtoncast.png
+primary-color: "#6db52f"
+header-image: /assets/acrington-pals-header.jpg
 flyer: /assets/accringtonflyerfront-800.jpg
 sections:
   - title: CAST & CREATIVE TEAM
