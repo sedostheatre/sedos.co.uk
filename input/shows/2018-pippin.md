@@ -3,8 +3,7 @@ title: Pippin
 year: "2018"
 authors: Book by ROGER O. HIRSON
 authors2: Music and lyrics by STEPHEN SCHWARTZ
-subtitle: Meet Pippin. Young, ambitious, full of potential and ready to change
-  the world. But things are never that simple.
+subtitle: Join us. Perhaps you’ll find your very own corner of the sky...
 showtimes:
   - time: 2018-05-09 19:30
   - time: 2018-05-10 19:30
@@ -21,7 +20,7 @@ showtime-summary: 9-19 May 2018
 venue: Bridewell Theatre
 ticket-prices: ""
 primary-color: "#0b0f18"
-header-image: /assets/leads.jpg
+header-image: /assets/pippin-header.jpg
 flyer: /assets/pippin-poster-800.jpg
 sections:
   - title: CAST & CREATIVE TEAM
