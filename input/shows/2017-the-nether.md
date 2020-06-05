@@ -2,7 +2,7 @@
 title: The Nether
 year: "2017"
 authors: By JENNIFER HALEY
-subtitle: ""
+subtitle: A virtual wonderland that provides total sensory immersion
 showtimes:
   - time: 2017-09-26 19:00
   - time: 2017-09-27 19:00
@@ -10,6 +10,8 @@ showtimes:
   - time: 2017-09-29 19:00
   - time: 2017-09-30 17:00
 showtime-summary: 26-30 September 2017
+venue: Bridewell Theatre
+primary-color: "#079e8d"
 header-image: /assets/nether-cast-650.jpg
 flyer: /assets/thenether-poster.jpg
 sections:
