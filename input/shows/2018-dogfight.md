@@ -16,8 +16,8 @@ showtimes:
 showtime-summary: 6-10 March 2018
 venue: Bridewell Theatre
 primary-color: "#555500"
-header-image: assets/images/headers/2018-dogfight-header-image.jpg
-flyer: assets/images/flyers/2018-dogfight-flyer.jpg
+header-image: ""
+flyer: /assets/dogfight-banner.jpg
 sections:
   - title: CAST AND CREATIVE TEAM
     body: >-
