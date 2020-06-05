@@ -2,7 +2,8 @@
 title: Ordinary Days
 year: "2017"
 authors: Music and lyrics by ADAM GWON
-subtitle: ""
+subtitle: An original musical for anyone who's ever struggled to appreciate the
+  simple things in a complex place.
 showtimes:
   - time: 2017-09-27 21:00
   - time: 2017-09-28 21:00
@@ -10,8 +11,10 @@ showtimes:
   - time: 2017-09-30 14:30
   - time: 2017-09-30 19:30
 showtime-summary: 27-30 September 2017
-header-image: /assets/od-cast-650.jpg
-flyer: /assets/ordinarydays-quickfront.jpg
+venue: Bridewell Theatre
+primary-color: "#6b6f94"
+header-image: ""
+flyer: /assets/ordinarydaysheader.jpg
 sections:
   - title: CAST & CREATIVE TEAM
     body: |-
