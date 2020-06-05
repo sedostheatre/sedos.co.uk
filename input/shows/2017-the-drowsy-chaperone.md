@@ -4,7 +4,7 @@ year: "2017"
 authors: Music and lyrics by LISA LAMBERT and GREG MORRISON
 authors2: Book by BOB MARTIN and DON MCKELLAR
 authors3: ""
-subtitle: ""
+subtitle: A riot of musical silliness
 showtimes:
   - time: 2017-05-03 19:30
   - time: 2017-05-04 19:30
@@ -19,6 +19,7 @@ showtimes:
   - time: 2017-05-13 19:30
 showtime-summary: 27 June-1 July 2017
 venue: Bridewell Theatre
+primary-color: "#f9c848"
 header-image: /assets/About-JoinUs.jpg
 flyer: /assets/drowsyfront-800.jpg
 sections:
