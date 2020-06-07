@@ -88,7 +88,7 @@ sections:
 
       **LIGHTING DESIGNER** | Jon Winn\
 
-      **COSTUME DESIGNER** |[Fiona Lockton](http://fionalockton.wix.com/costumedesign)
+      **COSTUME DESIGNER** | [Fiona Lockton](http://fionalockton.wix.com/costumedesign)
   - order: 2
     title: GALLERY
     body: <a data-flickr-embed="true"
