@@ -2,7 +2,7 @@
 title: Into the Woods
 year: "2014"
 authors: Music and lyrics by STEPHEN SONDHEIM
-authors2: Book by James Lapine
+authors2: Book by JAMES LAPINE
 subtitle: Once upon a time…
 showtimes:
   - time: 2014-04-02 19:30
