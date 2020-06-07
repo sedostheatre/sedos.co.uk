@@ -58,7 +58,7 @@ sections:
       **LIGHTING DESIGN** | Ben Pickersgill\
       **SOUND DESIGN** | Tony Gayle\
       **ASSOCIATE PRODUCER** and **DEPUTY STAGE MANAGER** | Lizzie Drapper \
-      **STAGE MANAGER** |Pippa Roome
+      **STAGE MANAGER** | Pippa Roome
   - order: 2
     title: GALLERY
     body: <a data-flickr-embed="true"
