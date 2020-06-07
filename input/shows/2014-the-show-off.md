@@ -16,7 +16,7 @@ sections:
   - order: 1
     title: CAST & CREATIVE TEAM
     body: >-
-      CAST INCLUDES
+      **CAST INCLUDES**
 
 
       Adrian Hau\
@@ -90,7 +90,7 @@ sections:
       ...and a glittering array of talent from the ranks of Sedance
 
 
-      **PUT TOGETHER BY** |Tom Leonard, Kimberly Barker, Paul Cozens and Chloë Faine
+      **PUT TOGETHER BY** | Tom Leonard, Kimberly Barker, Paul Cozens and Chloë Faine
 RedirectFrom:
   - 2014/showoff.htm
 ---
