@@ -20,7 +20,7 @@ showtimes:
   - time: 2014-08-25 14:30
 showtime-summary: 15-18 July 2014 in London; 17-25 August 2014 in Edinburgh
 venue: Bridewell Theatre and Monkey House at ZOO Venues
-primary-color: "#fff7bc"
+primary-color: "#de0000"
 header-image: /assets/14771217657_b399a02c92_k.jpg
 flyer: /assets/14609545744_7736ab1f4b_k.jpg
 box-office-open: false
@@ -47,10 +47,10 @@ sections:
       **\
       DIRECTOR** | Zoe Thomas-Webb\
       **PRODUCER** | Kaytie Lee\
-      **ASSISTANT PRODUCER |** Stephanie Urquhart\
+      **ASSISTANT PRODUCER** | Stephanie Urquhart\
       **PRODUCTION DESIGN / COSTUMES**  | Edith Webb\
-      **SET DESIGN** |Crispin Thomas\
-      **STAGE MANAGER** |Laura Graham-Matheson
+      **SET DESIGN** | Crispin Thomas\
+      **STAGE MANAGER** | Laura Graham-Matheson
   - order: 2
     title: GALLERY
     body: <a data-flickr-embed="true"
