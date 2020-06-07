@@ -49,16 +49,16 @@ sections:
       \
       **CREATIVE TEAM**
 
-      **DIRECTOR** |Matt Gould\
-      **MUSICAL DIRECTOR** |Ryan Macaulay\
-      **CHOREOGRAPHER** |Gayle Bryans\
+      **DIRECTOR** | Matt Gould\
+      **MUSICAL DIRECTOR** | Ryan Macaulay\
+      **CHOREOGRAPHER** | Gayle Bryans\
       **SET DESIGN** | Steven King\
-      **PRODUCTION DESIGN** |Rebecca Turner\
-      **COSTUME DESIGN** |Deborah Lean\
-      **LIGHTING DESIGN** |Ben Pickersgill\
-      **SOUND DESIGN** |Tony Gayle\
-      **ASSOCIATE PRODUCER** and **DEPUTY STAGE MANAGER** |Lizzie Drapper \
-      STAGE MANAGER: Pippa Roome
+      **PRODUCTION DESIGN** | Rebecca Turner\
+      **COSTUME DESIGN** | Deborah Lean\
+      **LIGHTING DESIGN** | Ben Pickersgill\
+      **SOUND DESIGN** | Tony Gayle\
+      **ASSOCIATE PRODUCER** and **DEPUTY STAGE MANAGER** | Lizzie Drapper \
+      **STAGE MANAGER** |Pippa Roome
   - order: 2
     title: GALLERY
     body: <a data-flickr-embed="true"
