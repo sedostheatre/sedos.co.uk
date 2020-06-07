@@ -1,5 +1,5 @@
 ---
-title: GOVERNMENT INSPECTOR
+title: Government Inspector
 year: "2014"
 authors2: "By NIKOLAI GOGOL "
 authors3: In a version by DAVID HARROWER
