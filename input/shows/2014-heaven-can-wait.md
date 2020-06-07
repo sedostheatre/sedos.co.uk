@@ -2,8 +2,7 @@
 title: Heaven Can Wait
 year: "2014"
 authors: By HARRY SEGALL
-subtitle: The original 1938 play which inspired a number of hit movies and the
-  cult US TV series Quantum Leap
+subtitle: A charming comic fantasy
 showtimes:
   - time: 2014-03-04 19:30
   - time: 2014-03-05 19:30
