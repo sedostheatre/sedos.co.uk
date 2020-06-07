@@ -67,6 +67,16 @@ sections:
       src="https://live.staticflickr.com/3733/13601596035_e74b358752_z.jpg"
       width="640" height="480" alt="Into the Woods - 2014"></a><script async
       src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+  - order: 3
+    title: VIDEO
+    body: |-
+      <div class="video-responsive"><?# YouTube gbapd8JZ0fM&t=13s /?></div>
+
+      <div class="video-responsive"><?# YouTube MlUNpnKljxs /?></div>
+
+      <div class="video-responsive"><?# YouTube oGAn4utSwfA /?></div>
+
+      <div class="video-responsive"><?# YouTube _m5Xa970adw /?></div>
 RedirectFrom:
   - 2014/intothewoods.htm
 ---
