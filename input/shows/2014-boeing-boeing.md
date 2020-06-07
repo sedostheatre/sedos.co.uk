@@ -45,7 +45,7 @@ sections:
     title: VIDEO
     body: <div class="video-responsive"><?# YouTube AukPQ87ehD4 /?></div>
 RedirectFrom:
-  - /2014/boeingboeing.htm
+  - 2014/boeingboeing.htm
 ---
 **It’s the 1960s, and swinging bachelor Bernard couldn’t be happier: a flat in Paris and three gorgeous stewardesses all engaged to him without knowing about each other. But Bernard’s perfect life gets bumpy when his friend Robert comes to stay and a new and speedier Boeing jet throws off all of his careful planning. Soon all three stewardesses are in town simultaneously, Robert is forgetting which lies to tell to whom, and catastrophe looms.**
 
