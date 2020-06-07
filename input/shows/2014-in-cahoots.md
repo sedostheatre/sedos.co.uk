@@ -12,7 +12,7 @@ showtimes:
   - time: 2014-07-12 19:30
 showtime-summary: 8-12 July 2014
 venue: Bridewell Theatre
-primary-color: "#f6e5af"
+primary-color: "#b29261"
 header-image: /assets/14631671603_0f02d2dbe6_k.jpg
 flyer: /assets/14424993608_30b6174322_k.jpg
 box-office-open: false
@@ -33,7 +33,7 @@ sections:
       **CREATIVE TEAM**\
       \
       **DIRECTOR** | Emma J Leaver\
-      **PRODUCER** |Clare Harding
+      **PRODUCER** | Clare Harding
   - order: 2
     title: GALLERY
     body: <a data-flickr-embed="true"
