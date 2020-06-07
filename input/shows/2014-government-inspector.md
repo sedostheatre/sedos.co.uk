@@ -51,6 +51,15 @@ sections:
       **PRODUCTION DESIGN / COSTUMES**  | Edith Webb\
       **SET DESIGN** |Crispin Thomas\
       **STAGE MANAGER** |Laura Graham-Matheson
+  - order: 2
+    title: GALLERY
+    body: <a data-flickr-embed="true"
+      href="https://www.flickr.com/photos/sedos/albums/72157645065503977"
+      title="Government Inspector - 2014"><img
+      src="https://live.staticflickr.com/3838/14934816186_e7a248e29a_z.jpg"
+      width="640" height="427" alt="Government Inspector - 2014"></a><script
+      async src="//embedr.flickr.com/assets/client-code.js"
+      charset="utf-8"></script>
 ---
 > Don't blame the mirror if your face is lopsided.
 
