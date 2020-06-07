@@ -21,7 +21,7 @@ sections:
     body: |-
       **CAST**
 
-      **JOE PENDLETON |** Alex Magliaro\
+      **JOE PENDLETON** | Alex Magliaro\
       **BETTE LOGAN** | Ally Demicoli\
       **TONY ABBOTT** | Craig Karpel\
       **JULIA FARNSWORTH** | Kelly Stone\
