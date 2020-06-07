@@ -47,11 +47,11 @@ sections:
       \
       **CREATIVE TEAM**
 
-      **SHOW DIRECTOR** |Deryck High\
-      **PERFORMANCE DIRECTOR** |Pedro Hume-Rodriguez\
-      **PRODUCER** |Annalisa Checchi\
+      **SHOW DIRECTOR** | Deryck High\
+      **PERFORMANCE DIRECTOR** | Pedro Hume-Rodriguez\
+      **PRODUCER** | Annalisa Checchi\
       **ASSISTANT PRODUCER** | Charles Redfearn\
-      **CHOREOGRAPHERS** |Thomas Leonard, Charles Redfearn, Vaughan Watts
+      **CHOREOGRAPHERS** | Thomas Leonard, Charles Redfearn, Vaughan Watts
   - order: 2
     title: GALLERY
     body: <a data-flickr-embed="true"
