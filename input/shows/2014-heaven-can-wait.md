@@ -39,6 +39,30 @@ sections:
       **DIRECTOR** | Peter Bryans\
       **ASSISTANT DIRECTOR** | James Franey\
       **PRODUCER** | Phillip Deppeller
+  - order: 2
+    title: GALLERY
+    body: <a data-flickr-embed="true"
+      href="https://www.flickr.com/photos/sedos/albums/72157641164460205"
+      title="Heaven Can Wait - 2014"><img
+      src="https://live.staticflickr.com/3767/12928863154_80b3a307f6_z.jpg"
+      width="427" height="640" alt="Heaven Can Wait - 2014"></a><script async
+      src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+  - order: 3
+    title: REVIEWS
+    body: >-
+      >This humorous play is full of laughs reminding us of the working man
+      ethics of the 1940s. Sedos give this production their all. High production
+      values and consistently focused performances by the entire cast make for
+      an outstanding performance. Praise must also go to the designers for their
+      simple, but extremely effective scenery, and to the crew for the smoothest
+      of scene changes, as one comes to expect with a company of this calibre…
+      As usual – an outstanding production… With plenty of challenging
+      productions every year, ranging from drama to musical theatre, nothing
+      frightens this aspiring company whose well-deserved reputation in the
+      world of amateur theatre comes from sincerity, dedication and very hard
+      work.
+
+      ><footer><cite>Heaven Can Wait, 2014, InfoBarrel</cite></footer>
 RedirectFrom:
   - 2014/heavencanwait.htm
 ---
