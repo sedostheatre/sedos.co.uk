@@ -32,13 +32,13 @@ sections:
       \
       CREATIVE TEAM
 
-      **DIRECTOR** |Robert J. Stanex\
-      **MUSICAL DIRECTOR** |Ryan Macaulay\
-      **CHOREGORAPHER** |Kimberly Barker\
-      **PRODUCER** |Rebecca Chisholm\
-      **EXECUTIVE PRODUCER** |Dawn Harrison-Wallace\
-      **ASSISTANT DIRECTOR** |Fran Rafferty\
-      **STAGE MANAGER** |Tracie Laurinaitis
+      **DIRECTOR** | Robert J. Stanex\
+      **MUSICAL DIRECTOR** | Ryan Macaulay\
+      **CHOREGORAPHER** | Kimberly Barker\
+      **PRODUCER** | Rebecca Chisholm\
+      **EXECUTIVE PRODUCER** | Dawn Harrison-Wallace\
+      **ASSISTANT DIRECTOR** | Fran Rafferty\
+      **STAGE MANAGER** | Tracie Laurinaitis
   - order: 2
     title: GALLERY
     body: <a data-flickr-embed="true"
