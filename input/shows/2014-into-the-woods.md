@@ -59,6 +59,14 @@ sections:
       **SOUND DESIGN** |Tony Gayle\
       **ASSOCIATE PRODUCER** and **DEPUTY STAGE MANAGER** |Lizzie Drapper \
       STAGE MANAGER: Pippa Roome
+  - order: 2
+    title: GALLERY
+    body: <a data-flickr-embed="true"
+      href="https://www.flickr.com/photos/sedos/albums/72157641164460085"
+      title="Into the Woods - 2014"><img
+      src="https://live.staticflickr.com/3733/13601596035_e74b358752_z.jpg"
+      width="640" height="480" alt="Into the Woods - 2014"></a><script async
+      src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 RedirectFrom:
   - 2014/intothewoods.htm
 ---
