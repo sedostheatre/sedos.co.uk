@@ -64,8 +64,6 @@ sections:
       <div class="video-responsive"><?# YouTube PqdcQ9WPOgQ /?></div>
 
       <div class="video-responsive"><?# YouTube fucIobq4QrA /?></div>
-
-      <div class="video-responsive"><?# YouTube qc_eUAJmD8 /?></div>
 RedirectFrom:
   - whatson/simprov.htm
 ---
