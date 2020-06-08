@@ -11,7 +11,7 @@ venue: ""
 ticket-prices: Isolation videos will be released throughout lockdown.
 primary-color: "#19346b"
 header-image: /assets/isolation-coronavirus.jpg
-flyer: /assets/isolation-portrait-2.jpg
+flyer: /assets/sedos-in-lockdown-isolation.jpg
 sections:
   - order: 1
     body: |-
