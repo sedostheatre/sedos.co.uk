@@ -37,6 +37,10 @@ sections:
       James Stone\
 
       Jonathan Scott
+  - order: 2
+    title: VIDEO
+    body: <div class="video-responsive"><?# YouTube https://youtu.be/ks5etn_pHjA
+      /?></div>
 RedirectFrom:
   - whatson/simprov.htm
 ---
