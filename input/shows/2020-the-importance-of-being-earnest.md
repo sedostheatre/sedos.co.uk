@@ -6,7 +6,7 @@ subtitle: A rehearsed Zoom reading of Oscar Wilde's trivial comedy for serious p
 showtimes:
   - time: 2020-04-17 19:30
 header-image: /assets/earnest-zoom-header.jpg
-flyer: /assets/sedos-in-lockdown-earnest.jpg
+flyer: /assets/sedos-in-lockdown-earnest-2.jpg
 box-office-open: false
 sections:
   - body: |-
