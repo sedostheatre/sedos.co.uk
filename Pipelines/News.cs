@@ -13,7 +13,7 @@ namespace Sedos.Pipelines
     {
         public News()
         {
-            Dependencies.AddRange(nameof(TopLevelNav), nameof(Footer));
+            Dependencies.AddRange(nameof(TopLevelNav), nameof(Footer), nameof(HeaderImages));
 
             InputModules = new ModuleList
             {
@@ -33,9 +33,7 @@ namespace Sedos.Pipelines
 
                 new SetMetadata("image",  Config.FromDocument((doc, ctx) => HeaderImageExtensions.CopyAndResizeImageFromMeta(doc, ctx, "image", 300, 300))),
             new SetMetadata("header-image", Config.FromDocument((doc, ctx) => HeaderImageExtensions.CopyAndResizeHeaderImage(doc,ctx))),
-            new SetMetadata("fallback-header",
-                 Config.FromDocument((doc, ctx) => HeaderImageExtensions.CopyAndResizeImageFromFile(doc, ctx, "assets/images/headers/SedosWebsite-Banner-Seats-flaton.jpg", 1280, null))
-            ),
+         new SetMetadata("category", "news"),
             new SetMetadata("background-override", "bg-turquoise"),
             new RenderRazor().WithViewStart("Layout/_NewsArticleViewStart.cshtml"),
             };

@@ -1,30 +1,49 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿using Markdig.Extensions.Bootstrap;
+using Sedos.Extensions;
+using Statiq.Common;
+using Statiq.Core;
+using Statiq.Html;
+using Statiq.Markdown;
+using Statiq.Razor;
+using Statiq.Yaml;
 
 namespace Sedos.Pipelines
 {
-    class Events
-
+    public class Events : Pipeline
     {
+        public Events()
+        {
 
-//        Pipelines.Add("Events",
-//    ReadFiles("events/*.md"),
-//    FrontMatter(Yaml()),
-//    Markdown()
-//        .UseExtension<Markdig.Extensions.Bootstrap.BootstrapExtension>()
-//        .UseExtension<TargetLinkExtension>()
-//        .UseExtensions(),
-//    Excerpt().WithOuterHtml(false),
-//    Shortcodes(),
-//    Meta("header-image", CopyAndResizeHeaderImage),
-//    Meta("image", (doc, ctx) => CopyAndResizeImageFromMeta(doc, ctx, "image", 300, 300)),
-//    Meta("fallback-header",
-//        (doc, ctx) => CopyAndResizeImageFromFile(doc, ctx, "assets/images/headers/molm.jpg", 1280, null)
-//    ),
-//    Meta("background-override", "bg-purple"),
-//    Razor().WithViewStart("Layout/_EventViewStart.cshtml"),
-//    WriteFiles(".html")
-//);
+            Dependencies.AddRange(nameof(TopLevelNav), nameof(Footer), nameof(HeaderImages));
+
+            InputModules = new ModuleList
+            {
+                new ReadFiles("events/*.md"),
+            };
+
+            ProcessModules = new ModuleList
+            {
+                new ExtractFrontMatter(new ParseYaml()),
+                new SetDestination(".html"),
+                new RenderMarkdown()
+                    .UseExtension<BootstrapExtension>()
+                    .UseExtension<TargetLinkExtension>()
+                    .UseExtensions(),
+                new GenerateExcerpt().WithOuterHtml(false),
+                new ProcessShortcodes(),
+
+                new SetMetadata("image",  Config.FromDocument((doc, ctx) => HeaderImageExtensions.CopyAndResizeImageFromMeta(doc, ctx, "image", 300, 300))),
+            new SetMetadata("header-image", Config.FromDocument((doc, ctx) => HeaderImageExtensions.CopyAndResizeHeaderImage(doc,ctx))),
+         new SetMetadata("category", "events"),
+            new SetMetadata("background-override", "bg-purple"),
+            new RenderRazor().WithViewStart("Layout/_EventViewStart.cshtml"),
+            };
+
+            OutputModules = new ModuleList
+            {
+                new WriteFiles()
+            };
+
+        }
     }
 }

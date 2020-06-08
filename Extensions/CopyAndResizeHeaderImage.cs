@@ -1,4 +1,5 @@
-﻿using Statiq.Common;
+﻿using SixLabors.ImageSharp.Processing.Transforms;
+using Statiq.Common;
 using Statiq.Core;
 using Statiq.Images;
 using System.Linq;
@@ -13,20 +14,20 @@ namespace Sedos.Extensions
             return await CopyAndResizeImageFromMeta(doc, ctx, "header-image", 1280, null);
         }
 
-        public static async Task<IDocument> CopyAndResizeImageFromMeta(IDocument doc, IExecutionContext ctx, string fieldName, int? width, int? height)
+        public static async Task<IDocument> CopyAndResizeImageFromMeta(IDocument doc, IExecutionContext ctx, string fieldName, int? width, int? height, ResizeMode resizeMode = ResizeMode.BoxPad)
         {
             var fileName = doc.Get<string>(fieldName).TrimIfStartsWith("/");
             return string.IsNullOrWhiteSpace(fileName) ? null :
                 await CopyAndResizeImageFromFile(doc, ctx, fileName, width, height);
         }
 
-        public static async Task<IDocument> CopyAndResizeImageFromFile(IDocument doc, IExecutionContext ctx, string filename, int? width, int? height)
+        public static async Task<IDocument> CopyAndResizeImageFromFile(IDocument doc, IExecutionContext ctx, string filename, int? width, int? height, ResizeMode resizeMode = ResizeMode.BoxPad)
         {
             var documents = await ctx.ExecuteModulesAsync(
                 new ModuleList
                 {
                     new ReadFiles(filename),
-                    new MutateImage().Resize(width: width, height:height),
+                    new MutateImage().Resize(width: width, height: height, mode: resizeMode),
                     new WriteFiles()
                 },
                 new IDocument[] { doc }

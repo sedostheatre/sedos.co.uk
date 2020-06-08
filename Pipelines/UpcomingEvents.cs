@@ -1,18 +1,24 @@
-﻿using Statiq.Core;
+﻿using Statiq.Common;
+using Statiq.Core;
 using System;
-using System.Collections.Generic;
-using System.Text;
+using System.Diagnostics;
+using System.Linq;
 
 namespace Sedos.Pipelines
 {
     public class UpcomingEvents : Pipeline
     {
 
+        public UpcomingEvents()
+        {
+            Dependencies.AddRange(nameof(Events));
 
-//        Pipelines.Add("UpcomingEvents",
-//    Documents("Events"),
-//    Where((doc, ctx) => doc.Get("times", Enumerable.Empty<IDocument>()).Any(time => time.Get<DateTime>("time") > DateTime.Now)),
-//    OrderBy((doc, ctx) => doc.Get("times", Enumerable.Empty<IDocument>()).Select(time => time.Get<DateTime>("time")).First())
-//);
+            ProcessModules = new ModuleList
+            {
+                new ReplaceDocuments(nameof(Events)),
+                new FilterDocuments(Config.FromDocument((doc, ctx) =>doc.Get("times", Enumerable.Empty<IDocument>()).Any(time => time.Get<DateTime>("time") > DateTime.Now))),
+                new OrderDocuments(Config.FromDocument((doc, ctx) => doc.Get("times", Enumerable.Empty<IDocument>()).Select(time => time.Get<DateTime>("time")).First()))
+            };
+        }
     }
 }

@@ -5,6 +5,7 @@ using Statiq.Core;
 using Statiq.Markdown;
 using Statiq.Razor;
 using Statiq.Yaml;
+using System.Linq;
 
 namespace Sedos.Pipelines
 {
@@ -12,7 +13,7 @@ namespace Sedos.Pipelines
     {
         public AllShows()
         {
-            Dependencies.AddRange(nameof(FallbackHeaders), nameof(Venues), nameof(TopLevelNav));
+            Dependencies.AddRange(nameof(Venues));
 
             InputModules = new ModuleList
             {
@@ -25,8 +26,11 @@ namespace Sedos.Pipelines
                  new SetMetadata("has-body-content", Config.FromDocument(d => d.ContentProvider.Length > 0)),
                  new SetMetadata("header-image", Config.FromDocument((doc, ctx) => HeaderImageExtensions.CopyAndResizeHeaderImage(doc,ctx))),
                  new SetMetadata("flyer", Config.FromDocument((doc, ctx) => HeaderImageExtensions.CopyAndResizeImageFromMeta(doc,ctx,"flyer" ,null, 360))),
-                 // TODO
-                 //    Meta("sections", (doc, ctx) => doc.Get("sections", Enumerable.Empty<IDocument>()).OrderBy(d => d.Get("order", 1)).Select(d => ProcessMarkdown(d, ctx))),
+                new SetMetadata("sections",
+                // TODO Fix this
+                Config.FromDocument((doc, ctx) => doc.Get("sections", Enumerable.Empty<IDocument>())
+                .OrderBy(d => d.Get("order", 1))
+                .Select(d => MarkdownExtensions.ProcessMarkdownAsync(d, ctx)))),
                 new RenderMarkdown()
                     .UseExtension<BootstrapExtension>()
                     .UseExtension<TargetLinkExtension>()

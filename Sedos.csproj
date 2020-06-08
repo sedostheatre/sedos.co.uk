@@ -29,4 +29,16 @@
     </None>
     </ItemGroup>
 
+    <ItemGroup>
+      <Compile Remove="Pipelines\AboutSections.cs" />
+      <Compile Remove="Pipelines\ImageAssets.cs" />
+      <Compile Remove="Pipelines\Index.cs" />
+      <Compile Remove="Pipelines\MarkdownPages.cs" />
+      <Compile Remove="Pipelines\NetlifyAdmin.cs" />
+      <Compile Remove="Pipelines\OldSite.cs" />
+      <Compile Remove="Pipelines\Redirects.cs" />
+      <Compile Remove="Pipelines\TopLevelPages.cs" />
+      <Compile Remove="Pipelines\YourVisit.cs" />
+    </ItemGroup>
+
 </Project>

@@ -88,7 +88,7 @@ title: Sedos
 
             <div class="event-card-container d-block d-md-none col-md-3">
                 @{
-                    foreach(var eventItem in Documents["RegularEvents"].OrderBy(i => i["title"]).Take(3))
+                    foreach(var eventItem in Outputs["RegularEvents"].OrderBy(i => i["title"]).Take(3))
                     {
                         <div class="card mb-3 border-0 regular-event-card">
                             <a href="@Context.GetLink(eventItem)">
