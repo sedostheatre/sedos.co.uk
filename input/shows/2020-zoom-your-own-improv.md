@@ -39,7 +39,10 @@ sections:
       Jonathan Scott
   - order: 2
     title: VIDEO
-    body: <div class="video-responsive"><?# YouTube ks5etn_pHjA /?></div>
+    body: |-
+      <div class="video-responsive"><?# YouTube ks5etn_pHjA /?></div>
+
+      <div class="video-responsive"><?# YouTube sVp5YlGc6aY /?></div>
 RedirectFrom:
   - whatson/simprov.htm
 ---
