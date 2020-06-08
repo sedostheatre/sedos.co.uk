@@ -5,6 +5,15 @@ authors: By Sedos' improv group Banana Hut Gang
 subtitle: A virtual improv show live from isolation!
 showtimes:
   - time: 2020-04-08 20:30
+  - time: 2020-04-15 20:30
+  - time: 2020-04-22 20:30
+  - time: 2020-04-29 20:30
+  - time: 2020-05-06 20:30
+  - time: 2020-05-13 20:30
+  - time: 2020-05-20 20:30
+  - time: 2020-05-27 20:30
+  - time: 2020-06-03 20:30
+  - time: 2020-06-10 20:30
 showtime-summary: Wednesdays at 8.30pm
 primary-color: "#ca67a8"
 header-image: /assets/banana-hut-gang-improv.jpg
@@ -34,6 +43,12 @@ sections:
       James Stone\
 
       Jonathan Scott
+  - order: 1
+    title: VIDEO
+    body: |-
+      <div class="video-responsive"><?# YouTube fucIobq4QrA&t=6s /?></div>
+
+      <div class="video-responsive"><?# YouTube qc_eUAJmD8&t=7s /?></div>
 RedirectFrom:
   - whatson/simprov.htm
 ---
