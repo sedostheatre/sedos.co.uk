@@ -23,7 +23,7 @@ sections:
 
       **CREATIVE TEAM**
 
-      **DIRECTOR** | LLoyd Smith
+      **DIRECTOR** | Lloyd Smith
     title: CAST & CREATIVE TEAM
     order: 1
 RedirectFrom:
@@ -35,4 +35,4 @@ Pass the cucumber sandwiches and pour yourself a cup of tea. Our rehearsed readi
 
 Directed by Lloyd Smith with a cast of eight, this delicious farcical comedy, in which the protagonists maintain fictitious personae to escape burdensome social obligations, was watched by 100 people when it went out during lockdown on Zoom on Friday 17 April 2020.
 
-<div class="video-responsive"><?# YouTube _-iUU4NG8 /?></div>
+<div class="video-responsive"><?# YouTube xv_-iUU4NG8&t=4s /?></div>
