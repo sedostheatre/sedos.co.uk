@@ -54,19 +54,19 @@ sections:
     title: VIDEO
     body: |-
       <div class="video-responsive"><?# YouTube ks5etn_pHjA&t=5s /?></div>
-
+      &nbsp;
       <div class="video-responsive"><?# YouTube sVp5YlGc6aY&t=2s /?></div>
-
+      &nbsp;
       <div class="video-responsive"><?# YouTube PYVIIszeKnc&t=4s /?></div>
-
+      &nbsp;
       <div class="video-responsive"><?# YouTube 03Tu2f9Sn_Y&t=2s /?></div>
-
+      &nbsp;
       <div class="video-responsive"><?# YouTube WOge1UdWgEE&t=3s /?></div>
-
+      &nbsp;
       <div class="video-responsive"><?# YouTube PqdcQ9WPOgQ&t=1s /?></div>
-
+      &nbsp;
       <div class="video-responsive"><?# YouTube fucIobq4QrA&t=6s /?></div>
-
+      &nbsp;
       <div class="video-responsive"><?# YouTube qc_eUAJmD8&t=7s /?></div>
 RedirectFrom:
   - whatson/simprov.htm
