@@ -3,21 +3,7 @@ title: Zoom... Your Own Improv!
 year: "2020"
 authors: By Sedos' improv group Banana Hut Gang
 subtitle: A virtual improv show live from isolation!
-showtimes:
-  - time: 2020-04-08 20:30
-  - time: 2020-04-15 20:30
-  - time: 2020-04-22 20:30
-  - time: 2020-04-29 20:30
-  - time: 2020-05-06 20:30
-  - time: 2020-05-13 20:30
-  - time: 2020-05-20 20:30
-  - time: 2020-05-27 20:30
-  - time: 2020-06-03 20:30
-  - time: 2020-06-10 20:30
-  - time: 2020-06-17 20:30
-  - time: 2020-06-24 20:30
-  - time: 2020-07-01 20:30
-  - time: 2020-07-08 20:30
+showtimes: []
 showtime-summary: Wednesdays at 8.30pm
 show-on-homepage: true
 order-on-homepage: 2
