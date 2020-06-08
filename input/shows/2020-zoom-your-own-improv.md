@@ -14,7 +14,12 @@ showtimes:
   - time: 2020-05-27 20:30
   - time: 2020-06-03 20:30
   - time: 2020-06-10 20:30
+  - time: 2020-06-17 20:30
+  - time: 2020-06-24 20:30
+  - time: 2020-07-01 20:30
+  - time: 2020-07-08 20:30
 showtime-summary: Wednesdays at 8.30pm
+venue: Online via Zoom
 primary-color: "#ca67a8"
 header-image: /assets/banana-hut-gang-improv.jpg
 flyer: /assets/sedos-in-lockdown-improv.jpg
@@ -46,6 +51,18 @@ sections:
   - order: 1
     title: VIDEO
     body: |-
+      <div class="video-responsive"><?# YouTube ks5etn_pHjA&t=5s /?></div>
+
+      <div class="video-responsive"><?# YouTube sVp5YlGc6aY&t=2s /?></div>
+
+      <div class="video-responsive"><?# YouTube PYVIIszeKnc&t=4s /?></div>
+
+      <div class="video-responsive"><?# YouTube 03Tu2f9Sn_Y&t=2s /?></div>
+
+      <div class="video-responsive"><?# YouTube WOge1UdWgEE&t=3s /?></div>
+
+      <div class="video-responsive"><?# YouTube PqdcQ9WPOgQ&t=1s /?></div>
+
       <div class="video-responsive"><?# YouTube fucIobq4QrA&t=6s /?></div>
 
       <div class="video-responsive"><?# YouTube qc_eUAJmD8&t=7s /?></div>
