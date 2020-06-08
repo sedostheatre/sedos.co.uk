@@ -71,11 +71,11 @@ sections:
 RedirectFrom:
   - whatson/simprov.htm
 ---
-**The Banana Hut Gang are here to cheer up your Wednesday evenings with their virtual improv show live from isolation!**
+**Sedos' improv group, The Banana Hut Gang, are here to cheer up your Wednesday evenings with their virtual improv show live from isolation.**
 
-*Zoom Your Own...Improv!* is back with a vengeance, so join all your Sedos chums in watching the show live on Zoom, all for free and all from the comfort of your own home (like everything at the moment!).
+*Zoom Your Own...Improv!* is back with a vengeance. Watch the show live on Zoom, all for free and all from the comfort of your own home - like everything at the moment!
 
-If you missed any of their previous shows you can catch up with them on the Video tab above. Alternatively, subscribe to their **[YouTube channel](https://www.youtube.com/channel/UC2gp5U6JvDumjMpCSqntSdA)** to make sure you don't miss out on any gems!
+If you missed any of the previous shows you can catch up with them on the Video tab above. Alternatively, subscribe to their **[YouTube channel](https://www.youtube.com/channel/UC2gp5U6JvDumjMpCSqntSdA)** to make sure you don't miss out on any gems.
 
 If you've never seen the Banana Hut Gang perform before, why not give it a go on Wednesdays at 8.30pm?
 
