@@ -136,4 +136,4 @@ Cinderella meets and marries her prince, but is it really 'happy ever after'? Af
 \
 Actions have consequences. Fairy tales are not just playful stories. The woods are fearful and deep and dark, but you can’t just act — you have to listen, you have to think. Will you take the right path?
 
-The production features the full 15 piece orchestration by Jonathan Tunick.
+The production features the full 15-piece orchestration by Jonathan Tunick.
