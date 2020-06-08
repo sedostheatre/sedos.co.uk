@@ -40,9 +40,7 @@ sections:
   - order: 2
     title: VIDEO
     body: |-
-      <div class="video-responsive"><?# YouTube sVp5YlGc6aY /?></div>
-
-      <div class="video-responsive"><?# YouTube PYVIIszeKnc /?></div>
+      <div class="video-responsive"><?# YouTube ks5etn_pHjA /?></div>
 
       <div class="video-responsive"><?# YouTube 03Tu2f9Sn_Y /?></div>
 
