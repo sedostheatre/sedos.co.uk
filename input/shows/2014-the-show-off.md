@@ -9,7 +9,7 @@ showtimes:
 showtime-summary: 19 July 2019
 venue: Bridewell Theatre
 primary-color: "#ff6d69"
-header-image: /assets/showoff360.jpg
+header-image: /assets/img_0714.jpg
 flyer: /assets/showoff360-upright.jpg
 box-office-open: false
 sections:
