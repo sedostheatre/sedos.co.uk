@@ -40,21 +40,21 @@ sections:
   - order: 1
     title: VIDEO
     body: |-
-      <div class="video-responsive"><?# YouTube ks5etn_pHjA&t=5s /?></div>
+      <div class="video-responsive"><?# YouTube ks5etn_pHjA&t /?></div>
       &nbsp;
-      <div class="video-responsive"><?# YouTube sVp5YlGc6aY&t=2s /?></div>
+      <div class="video-responsive"><?# YouTube sVp5YlGc6aY&t /?></div>
       &nbsp;
-      <div class="video-responsive"><?# YouTube PYVIIszeKnc&t=4s /?></div>
+      <div class="video-responsive"><?# YouTube PYVIIszeKnc&t /?></div>
       &nbsp;
-      <div class="video-responsive"><?# YouTube 03Tu2f9Sn_Y&t=2s /?></div>
+      <div class="video-responsive"><?# YouTube 03Tu2f9Sn_Y&t /?></div>
       &nbsp;
-      <div class="video-responsive"><?# YouTube WOge1UdWgEE&t=3s /?></div>
+      <div class="video-responsive"><?# YouTube WOge1UdWgEE&t /?></div>
       &nbsp;
-      <div class="video-responsive"><?# YouTube PqdcQ9WPOgQ&t=1s /?></div>
+      <div class="video-responsive"><?# YouTube PqdcQ9WPOgQ&t /?></div>
       &nbsp;
-      <div class="video-responsive"><?# YouTube fucIobq4QrA&t=6s /?></div>
+      <div class="video-responsive"><?# YouTube fucIobq4QrA&t /?></div>
       &nbsp;
-      <div class="video-responsive"><?# YouTube qc_eUAJmD8&t=7s /?></div>
+      <div class="video-responsive"><?# YouTube qc_eUAJmD8&t /?></div>
 RedirectFrom:
   - whatson/simprov.htm
 ---
