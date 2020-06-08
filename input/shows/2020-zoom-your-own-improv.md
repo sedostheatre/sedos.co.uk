@@ -7,6 +7,8 @@ showtimes:
   - time: 2020-04-08 20:30
 showtime-summary: Wednesdays at 8.30pm
 primary-color: "#ca67a8"
+header-image: /assets/banana-hut-gang-improv.jpg
+flyer: /assets/sedos-in-lockdown-improv.jpg
 box-office-open: false
 sections:
   - order: 1
