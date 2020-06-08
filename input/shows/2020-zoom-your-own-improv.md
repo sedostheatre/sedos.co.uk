@@ -40,21 +40,21 @@ sections:
   - order: 1
     title: VIDEO
     body: |-
-      <div class="video-responsive"><?# YouTube ks5etn_pHjA&t /?></div>
+      <div class="video-responsive"><?# YouTube ks5etn_pHjA /?></div>
       &nbsp;
-      <div class="video-responsive"><?# YouTube sVp5YlGc6aY&t /?></div>
+      <div class="video-responsive"><?# YouTube sVp5YlGc6aY /?></div>
       &nbsp;
-      <div class="video-responsive"><?# YouTube PYVIIszeKnc&t /?></div>
+      <div class="video-responsive"><?# YouTube PYVIIszeKnc /?></div>
       &nbsp;
-      <div class="video-responsive"><?# YouTube 03Tu2f9Sn_Y&t /?></div>
+      <div class="video-responsive"><?# YouTube 03Tu2f9Sn_Y /?></div>
       &nbsp;
-      <div class="video-responsive"><?# YouTube WOge1UdWgEE&t /?></div>
+      <div class="video-responsive"><?# YouTube WOge1UdWgEE /?></div>
       &nbsp;
-      <div class="video-responsive"><?# YouTube PqdcQ9WPOgQ&t /?></div>
+      <div class="video-responsive"><?# YouTube PqdcQ9WPOgQ /?></div>
       &nbsp;
-      <div class="video-responsive"><?# YouTube fucIobq4QrA&t /?></div>
+      <div class="video-responsive"><?# YouTube fucIobq4QrA /?></div>
       &nbsp;
-      <div class="video-responsive"><?# YouTube qc_eUAJmD8&t /?></div>
+      <div class="video-responsive"><?# YouTube qc_eUAJmD8 /?></div>
 RedirectFrom:
   - whatson/simprov.htm
 ---
