@@ -22,6 +22,7 @@ showtime-summary: Wednesdays at 8.30pm
 show-on-homepage: true
 order-on-homepage: 2
 venue: Online via Zoom
+ticket-prices: ""
 primary-color: "#ca67a8"
 header-image: /assets/banana-hut-gang-improv.jpg
 flyer: /assets/sedos-in-lockdown-improv.jpg
