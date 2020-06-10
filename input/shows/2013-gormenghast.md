@@ -45,6 +45,31 @@ sections:
 
       **DIRECTOR** | Andy Marchant\
       **PRODUCER** | Matthew Hudson
+  - order: 2
+    title: GALLERY
+    body: <a data-flickr-embed="true"
+      href="https://www.flickr.com/photos/sedos/albums/72157632645374065"
+      title="Gormenghast - 2013"><img
+      src="https://live.staticflickr.com/8089/8511045922_5fd310b009_z.jpg"
+      width="640" height="427" alt="Gormenghast - 2013"></a><script async
+      src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+  - order: 3
+    title: REVIEWS
+    body: >-
+      >These are seriously good actors, working hard to make the play work in a
+      style that is always in danger of disappearing up its own backside, as
+      plenty of similar productions have done since this style of theatre
+      appeared half a century ago (or should I say ‘reappeared’, since the
+      similarities with classical Greek tragedy are striking). The fact that it
+      didn’t fail is testament to the talent of the actors and the cojones of
+      director Andrew Marchant… I don’t think Sedos intended to give its
+      audience an easy ride, pushing theatre as far as they could. This style of
+      theatre isn’t for everyone, but, taken purely on its own terms,
+      Gormenghast was an unquestioned success.
+
+      ><footer><cite>Gormenghast, 2013, Sardines</cite></footer>
+RedirectFrom:
+  - 2013/gormenghast.htm
 ---
 **A vast field of stones.**\
 **The Tower of Flints.**\
