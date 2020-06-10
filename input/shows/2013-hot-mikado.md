@@ -1,8 +1,7 @@
 ---
 title: Hot Mikado
 year: "2013"
-authors: "Book and lyrics adapted by DAVID H BELL    Based on “The Mikado” by
-  W.S Gilbert & Arthur Sulllivan. "
+authors: Book and lyrics adapted by DAVID H BELL
 authors2: Music adapted and arranged by ROB BOWMAN
 authors3: "Based on “The Mikado” by WS GILBERT & ARTHUR SULLIVAN "
 subtitle: "A cast of loveable characters bring to life a story of disguise,
