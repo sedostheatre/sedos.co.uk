@@ -43,9 +43,9 @@ sections:
       **CREATIVE TEAM**
 
       **DIRECTOR** | Matt Gould\
-      **MUSICAL DIRECTOR** |Inga Davis-Rutter\
+      **MUSICAL DIRECTOR** | Inga Davis-Rutter\
       **CHOREOGRAPHER** |Sarah Evans\
-      **PRODUCER** |Pippa Roome
+      **PRODUCER** | Pippa Roome
   - order: 2
     title: GALLERY
     body: <a data-flickr-embed="true"
