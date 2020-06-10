@@ -103,6 +103,46 @@ sections:
       **PRODUCER** | Laura Graham-Matheson supported by Sarah Noll\
 
       **CHOREOGRAPHERS** |Angus Jacobs and Vaughan Watts
+  - order: 2
+    title: GALLERY
+    body: I<a data-flickr-embed="true"
+      href="https://www.flickr.com/photos/sedos/albums/72157637607660456"
+      title="Hot  Mikado - 2013"><img
+      src="https://live.staticflickr.com/3667/11189121485_ba4c51727e_z.jpg"
+      width="427" height="640" alt="Hot  Mikado - 2013"></a><script async
+      src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>V
+  - order: 3
+    title: VIDEO
+    body: |-
+      <div class="video-responsive"><?# YouTube l8nN2f7juP8 /?></div>
+
+      <div class="video-responsive"><?# YouTube BbGSuYqYRp0 /?></div>
+  - order: 4
+    title: REVIEWS
+    body: >-
+      >Sedos certainly takes the spirit of the piece and entertained the
+      audience with a sizzling production and a great night out. From the
+      opening number when the scantily clad ladies of Japan burst onto the stage
+      to the grand finale the company combined set, costume, staging and
+      lighting with some brilliant performances to provide an excellent night
+      out…
+
+      ><footer><cite>Hot Mikado, 2013, Sardines</cite></footer>
+
+
+      >In a time of talentless reality TV shows, spending a Saturday evening watching some genuine talent is a breath of fresh air. Observing such an obviously hard-working cast put together such an effervescent show is exciting and thrilling, making this the light-hearted fun that musical theatre often misses the mark with. You’ll have ‘Three Little Maids’ stuck in your head all week…
+
+      ><footer><cite>Hot Mikado, 2013, So So Gay</cite></footer>
+
+
+      >This production of Hot Mikado by the Sedos theatre company is a little jewel that you should not miss and that hopefully will find a bigger showcase and a re-run (a longer run!) at the Bridewell Theatre or, why not?, a bigger location! (anyone reading there???)… The run (for now) is short and you should not miss it but I am pretty sure someone will notice this show and hopefully we’ll get new dates. It really is worth it — get your tickets…
+
+      ><footer><cite>Hot Mikado, 2013, Remote Goat</cite></footer>
+
+
+      >The cast remain totally focussed throughout the show. Their tight harmonies and excellent diction combine with strong and varied dance routines to give us a thoroughly enjoyable and beautifully costumed performance. Sedos know exactly how to capture an audience, hold it firmly in the palms of their hands, and then send it on its way, humming those compulsive ear worms – the catchy tunes you just can’t get out of your head…
+
+      ><footer><cite> Hot Mikado, 2013, InfoBarrel</cite></footer>
 RedirectFrom:
   - 2013/hotmikado.htm
 ---
