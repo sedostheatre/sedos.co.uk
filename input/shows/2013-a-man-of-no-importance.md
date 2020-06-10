@@ -46,6 +46,38 @@ sections:
       **MUSICAL DIRECTOR** |Inga Davis-Rutter\
       **CHOREOGRAPHER** |Sarah Evans\
       **PRODUCER** |Pippa Roome
+  - order: 2
+    title: GALLERY
+    body: <a data-flickr-embed="true"
+      href="https://www.flickr.com/photos/sedos/albums/72157634181022629"
+      title="A Man of No Importance - 2013"><img
+      src="https://live.staticflickr.com/5502/9348964207_d000b1b455_z.jpg"
+      width="640" height="427" alt="A Man of No Importance - 2013"></a><script
+      async src="//embedr.flickr.com/assets/client-code.js"
+      charset="utf-8"></script>
+  - order: 3
+    title: VIDEOS
+    body: |-
+      <div class="video-responsive"><?# YouTube eASI1Kl9b3w /?></div>
+
+      <div class="video-responsive"><?# YouTube RwonJt5lkz4 /?></div>
+
+      <div class="video-responsive"><?# YouTube xr5jx3dgz38 /?></div>
+  - order: 4
+    title: REVIEWS
+    body: >-
+      >As an example of total theatricality, I think it is very hard to better
+      this show… the whole cast demonstrated a particularly high standard of
+      singing and the accents were accurate (I commend Sedos for seeking help
+      with this often-overlooked aspect) and consistent… in summary this was a
+      very fine production of this very fine musical.
+
+      ><footer><cite>A Man of No Importance, 2013, Sardines</cite></footer>
+
+
+      >The show is very much an ensemble piece, and it seems invidious to single out single performances, when there really isn’t a weak link in the cast… Congratulations to all involved.
+
+      ><footer><cite>A Man of No Importance, 2013, The Gay UK</cite></footer>
 RedirectFrom:
   - 2013/amanofnoimportance.htm
 ---
