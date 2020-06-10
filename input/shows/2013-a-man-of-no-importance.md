@@ -44,7 +44,7 @@ sections:
 
       **DIRECTOR** | Matt Gould\
       **MUSICAL DIRECTOR** | Inga Davis-Rutter\
-      **CHOREOGRAPHER** |Sarah Evans\
+      **CHOREOGRAPHER** | Sarah Evans\
       **PRODUCER** | Pippa Roome
   - order: 2
     title: GALLERY
