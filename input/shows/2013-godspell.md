@@ -96,9 +96,9 @@ sections:
 RedirectFrom:
   - 2013/godspell.htm
 ---
-**WE ARE THE COMMUNITY**\
-**WE ARE THE 99%**\
-**WE ARE THE CHILDREN**
+**We are the community**\
+**We are the 99%**\
+**We are the children**
 
 When two childhood friends meet through chance reunion an old plan is rekindled and a movement born. Their manifesto is simple: LOVE! On the steps of St Paul’s they gather around them a bunch of renegades from the ever-eclectic city and rediscover the magical power of stories long forgotten from childhood. By none other than creativity and song this mismatched community brings colour to the dead streets of London and, day by day, attempts to build a beautiful city.
 
