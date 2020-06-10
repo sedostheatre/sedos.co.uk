@@ -58,11 +58,11 @@ sections:
 
       **CREATIVE TEAM**
 
-      **DIRECTOR** |Robert J. Stanex\
-      **MUSICAL DIRECTOR** |David Griffiths\
+      **DIRECTOR** | Robert J. Stanex\
+      **MUSICAL DIRECTOR** | David Griffiths\
       **CHOREOGRAPHER** | Kimberly Barker\
-      **ASSISTANT DIRECTOR** and **PRODUCER** |Dawn Harrison-Wallace\
-      **PRODUCER** |Hanna Osmolska\
+      **ASSISTANT DIRECTOR** and **PRODUCER** | Dawn Harrison-Wallace\
+      **PRODUCER** | Hanna Osmolska\
       **STAGE MANAGER** and **TECHNICAL PRODUCER** | Laura Graham-Matheson
   - order: 2
     title: GALLERY
