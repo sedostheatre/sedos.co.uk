@@ -22,6 +22,25 @@ sections:
     body: |-
       **CAST**
 
+      **JEFF SKILLING** | Christopher Warren\
+      **KEN LAY** | Chris de Pury\
+      **CLAUDIA ROE** | Alyse Webster\
+      **ANDY FASTOW** | Alex Magliaro
+
+      **ENSEMBLE**
+
+      Mark Collins\
+      Layla Estasy\
+      Nick Fyson\
+      Blake Klein\
+      Karen Lister\
+      Judie Matthews\
+      Emily Porritt\
+      Benjamin Press\
+      Oliver Shermer\
+      Andy Smith\
+      Jennifer Yorke
+
       **CREATIVE TEAM**
 
       **DIRECTOR** | Matt Hudson\
