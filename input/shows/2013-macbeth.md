@@ -81,8 +81,8 @@ sections:
 RedirectFrom:
   - 2013/macbeth.htm
 ---
-> **If it were done when ‘tis done, then ‘twere well**\
-> **It were done quickly.**
+> If it were done when ‘tis done, then ‘twere well\
+> It were done quickly.
 
 **Widely held to be the most popular and most performed of his tragedies, Macbeth is Shakespeare’s nightmarish picture of a mind and soul torn between ambition and conscience, and the collateral damage caused when ambition gains the upper hand.**
 
