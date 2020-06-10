@@ -96,13 +96,13 @@ sections:
 
       **CREATIVE DIRECTOR** | Angus Jacobs\
 
-      **MUSICAL DIRECTOR** |Ed Curry supported by Pedro Hume-Rodriguez\
+      **MUSICAL DIRECTOR** | Ed Curry supported by Pedro Hume-Rodriguez\
 
-      **EXECUTIVE PRODUCER** |Angharad Davies\
+      **EXECUTIVE PRODUCER** | Angharad Davies\
 
       **PRODUCER** | Laura Graham-Matheson supported by Sarah Noll\
 
-      **CHOREOGRAPHERS** |Angus Jacobs and Vaughan Watts
+      **CHOREOGRAPHERS** | Angus Jacobs and Vaughan Watts
   - order: 2
     title: GALLERY
     body: I<a data-flickr-embed="true"
