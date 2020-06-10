@@ -86,4 +86,4 @@ Each of these seven vignettes explore the ethos of perception and relationship -
 
 The result is an unsettling montage that gradually reveals the scabrous force of words left unsaid while illuminating the delicate interplay between intention and morality. The show captures the essence of Middle America and the myriad paths which cross its surface.
 
-*Autobahn* consists of seven short plays: *Funny; Bench Seat; All Apologies; Merge; Long Division; Road Trip*and*Autobahn.*
+*Autobahn* consists of seven short plays: *Funny; Bench Seat; All Apologies; Merge; Long Division; Road Trip* and *Autobahn.*
