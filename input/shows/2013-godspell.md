@@ -72,6 +72,29 @@ sections:
       src="https://live.staticflickr.com/8378/8518826390_46d1cb2c22_z.jpg"
       width="424" height="640" alt="Godspell - 2013"></a><script async
       src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+  - order: 3
+    title: VIDEO
+    body: <div class="video-responsive"><?# YouTube owriGomk8no /?></div>
+  - order: 4
+    title: REVIEWS
+    body: >-
+      >This is quite simply the best amateur production I have ever seen… Any
+      director worth their salt would be proud of what Stanex and choreographer
+      Kimberley Barker have achieved… It goes without saying that the role of
+      Jesus is crucial and Joe Penny, a researcher at the New Economics
+      Foundation in his day job, is astounding. Many a West End performer should
+      count themselves lucky that they are not up against this immensely
+      talented young man when auditioning for professional shows… as an ensemble
+      \[the supporting cast] are faultless…
+
+      ><footer><cite>Godspell, 2013, Front Row Dress</cite></footer>
+
+
+      >Pulses with unflagging energy… The ensemble work in this show is outstanding. The cast takes ownership of the whole playing area and often the auditorium as well as the side entrances… The slickly professional movement work is a great credit to choreographer Kimberly Barker and really shows how a company of the calibre of Sedos can seriously blur the difference between professional and amateur work.
+
+      ><footer><cite>Godspell, 2013, Sardines</cite></footer>
+RedirectFrom:
+  - 2013/godspell.htm
 ---
 **WE ARE THE COMMUNITY**\
 **WE ARE THE 99%**\
