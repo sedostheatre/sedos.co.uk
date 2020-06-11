@@ -89,8 +89,8 @@ RedirectFrom:
 ---
 > Have you heard? It's in the stars \
 > Next July we collide with Mars. \
-> Well, did you evah?
-> What a swell party, a swell party
+> Well, did you evah? \
+> What a swell party, a swell party\
 > A swelligant, elegant party this is!
 
 **An elegant cabaret-style tribute to the life of Cole Porter, one of the greatest composers and lyricists of the 20th century. Through words and music, *A Swell Party* celebrates the vibrant image of sophistication and glamour that Cole represented for so long to so many people.**
