@@ -71,3 +71,5 @@ The meeting ID for the Zoom show is: 971-0453-7924
 Or the link:**<https://zoom.us/j/97104537924>**
 
 Or watch on Facebook Live via their Facebook page:**[www.facebook.com/bananahutgang](http://www.facebook.com/bananahutgang)**
+
+**Please note, there is no*Zoom Your Own...Improv! on Wednesday 17 June***
