@@ -1,6 +1,6 @@
 ---
 title: Throwback to the Minack
-date: 2020-06-11
+date: 2020-06-11T00:00:00.000Z
 image: /assets/48114427323_24b9642a60_k.jpg
 ---
 **Can you believe 12 months have passed since we were down in Cornwall?**
@@ -11,7 +11,7 @@ This incredible theatre carved out of the face of the cliff has been a must-visi
 
 The cast, band and crew experienced weather ranging from sunburn-inducing heat to freezing wind and rain, but everyone enjoyed a wonderful week and we very much hope to return to the Minack in the future.
 
-Read more about A Swell Party and see more photos [here.](https://sedos.co.uk/shows/2019-a-swell-party)
+Read more about *A Swell Party* and see more photos [here.](https://sedos.co.uk/shows/2019-a-swell-party)
 
 ^^^ ![](/assets/48114427323_24b9642a60_k.jpg)
 ^^^ A Swell Party at the Minack Theatre
