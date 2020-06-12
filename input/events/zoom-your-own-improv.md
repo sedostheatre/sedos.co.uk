@@ -6,7 +6,12 @@ times:
   - time: 2020-06-03 20:30
   - time: 2020-06-10 20:30
   - time: 2020-06-17 20:30
-  - time: 2020-06-24 20:30
+  - time: 2020-07-01 20:30
+  - time: 2020-07-08 20:30
+  - time: 2020-07-15 20:30
+  - time: 2020-07-22 20:30
+  - time: 2020-07-29 20:30
+  - time: 2020-08-05 20:30
 image: /assets/bhg-pink-background.png
 venue: Online via Zoom
 recurrence: Wednesdays at 8.30pm
@@ -16,12 +21,14 @@ ticket-prices: ""
 
 *Zoom Your Own...Improv!* is back with a vengeance, so join all your Sedos chums in watching the show live on Zoom, all for free and all from the comfort of your own home (like everything at the moment!). 
 
-If you've never seen the Banana Hut Gang perform before, why not give it a go on Wednesdays at 8.30pm?
+If you've never seen the Banana Hut Gang perform before, why not give it a go on Wednesdays at 8.30pm? 
 
 The meeting ID for the Zoom show is: 971-0453-7924 
 
 Or the link: **<https://zoom.us/j/97104537924>**
 
 Or watch on Facebook Live via their Facebook page: **[www.facebook.com/bananahutgang](http://www.facebook.com/bananahutgang)**
+
+**Please note, there is no *Zoom Your Own...Improv! on Wednesday 17 June***
 
 ![](/assets/bhg-pink-background.png)
