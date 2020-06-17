@@ -60,7 +60,8 @@ Chair of Management Committee
 9. Review where we advertise all auditions to ensure we are reaching out to as many black networks as possible.
 10. Carry out a review of our social media, especially Twitter to ensure we are following a diverse group of arts and theatre organisations.
 11. Review our participation and membership fee policy to ensure that neither are a barrier to being an active member of Sedos.
-12. Ensure that members have a proper forum / means to provide feedback on their experience of being in a Sedos show. Add the Death of George Floyd, and Our Commitment to Change on Sedos’ timeline on our website to mark this as a pivotal point in our history. 
+12. Ensure that members have a proper forum / means to provide feedback on their experience of being in a Sedos show. 
+13. Add the Death of George Floyd, and Our Commitment to Change on Sedos’ timeline on our website to mark this as a pivotal point in our history. 
 
 #### **Extract from Chair’s Statement at our AGM, 4 June 2020**
 
