@@ -15,7 +15,7 @@ Huge congrats to all involved with the winning shows. The awards were:
 
 The citation from our district 1 reps for the Flame Award given for Ragtime was also published:
 
-“We came out of the Bridewell emotionally exhausted but would happily have attended every night of the run. We are going to judge every future ‘Ragtime’ that we go to see by the number of mascara-streaked faces in the bar during the interval. You created an absolute theatrical tour-de-force, which has raised the bar of what amateur theatre can achieve aspirationally high. This was a tight-knit and well-rounded cast. Everyone showed such great characterisation, each with their own very individual personality, and energy was tirelessly unflagging throughout. This production would not have looked out of place on a professional stage.”
+“We came out of the Bridewell emotionally exhausted but would happily have attended every night of the run. We are going to judge every future *Ragtime* that we go to see by the number of mascara-streaked faces in the bar during the interval. You created an absolute theatrical tour-de-force, which has raised the bar of what amateur theatre can achieve aspirationally high. This was a tight-knit and well-rounded cast. Everyone showed such great characterisation, each with their own very individual personality, and energy was tirelessly unflagging throughout. This production would not have looked out of place on a professional stage.”
 
 ^^^ ![](/assets/regionalwinners.jpg)
 ^^^
