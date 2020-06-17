@@ -1,5 +1,5 @@
 ---
-title: Sedos wins eight NODA District Awards
+title: Sedos wins eight NODA district awards
 date: 2020-05-02T00:00:00.000Z
 image: /assets/unnamed-17-.jpg
 ---
