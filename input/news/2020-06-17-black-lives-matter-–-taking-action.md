@@ -11,7 +11,7 @@ We know a number of our members are feeling hurt and angry about Sedos’ lack o
 
 Dawn Harrison Wallace, our Chair, noted at our AGM on 4 June that a number of our members had come to us seeking support and challenging us on what we were doing on this important issue.  As Dawn stated: 
 
-*“In doing so they posed the question: ‘What is Sedos doing and what can we commit to do to play our part?’   They have challenged us perhaps in a way we’ve never been challenged before.  To those members I thank you for your honesty and frankness.”*
+*“In doing so they posed the question:  ‘What is Sedos doing and what can we commit to do to play our part?’ They have challenged us perhaps in a way we’ve never been challenged before.  To those members I thank you for your honesty and frankness.”*
 
 Dawn’s full statement at the AGM is set out below.  We accepted the challenge posed by our members and have spent significant time thinking in practical terms what we can do.   We have developed a **Commitment to Change** as well as developing initial steps that we can take.  We have also set up an Action Group to ensure continued focus on this area.   
 
