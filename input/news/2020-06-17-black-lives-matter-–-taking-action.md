@@ -79,3 +79,6 @@ I hope these words – whilst far from perfect - get across the intended sentime
 We want to get better at representing and supporting all of the black, Asian and minority ethnic community and making everyone feel welcomed and you have my commitment to this.
 
 We’ve come a long way since 1905 but I’m confident that we can continue to learn and grow.”
+
+^^^ ![](/assets/blacklivesmatter-small.jpg)
+^^^
