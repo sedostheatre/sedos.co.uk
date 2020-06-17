@@ -1,21 +1,21 @@
 ---
 title: Black Lives Matter – taking action
-date: 2020-06-17
+date: 2020-06-17T00:00:00.000Z
 image: /assets/blacklivesmatter-small.jpg
 ---
 We would firstly like to apologise for the delay in providing a written statement to, and for, our members in response to the shocking death of George Floyd, and the wider need to tackle systemic racism.  It has been a huge wake-up call that we should be doing more to support racial equality.
 
 We know a number of our members are feeling hurt and angry about Sedos’ lack of response and we are  sorry that we have not acted sooner.  We do not want to be passive on this issue and have reflected deeply on it, including consulting with members who have expressed strong views on this issue, as well as lengthy and detailed conversations both by the Trustees and the Management Committee.  We hope we can reassure you that any delay was not a result of any lack of focus and concern on this issue, but in fact the opposite.  
 
-Dawn Harrison Wallace, our Chair, noted at our AGM on 4 June that a number of our members had come to us seeking support and challenging us what we were doing on this important issue.  As Dawn stated: 
+Dawn Harrison Wallace, our Chair, noted at our AGM on 4 June that a number of our members had come to us seeking support and challenging us on what we were doing on this important issue.  As Dawn stated: 
 
-*“In doing so they they posed the question: ‘What is Sedos doing and what can we commit to do to play our part?’   They have challenged us perhaps in a way we’ve never been challenged before.  To those members I thank you for your honesty and frankness.”*
+*“In doing so they posed the question: ‘What is Sedos doing and what can we commit to do to play our part?’   They have challenged us perhaps in a way we’ve never been challenged before.  To those members I thank you for your honesty and frankness.”*
 
 Dawn’s full statement at the AGM is set out below.  We accepted the challenge posed by our members and have spent significant time thinking in practical terms what we can do.   We have developed a **Commitment to Change** as well as developing initial steps that we can take.  We have also set up an Action Group to ensure continued focus on this area.   
 
 In the words of Artists Against Racism, we accept that it is time for us to “take the note” and recognise how white privilege operates in amateur theatre.  In doing so, we take ownership of how we have got things wrong, and commit to making meaningful change in fully playing a role in the Black Lives Matter drive for equality.
 
-#### Our Commitment to Change 
+#### Our Commitment to Change
 
 We acknowledge that as an organisation that states that we value diversity and inclusivity, we need to spend time thinking hard about the system in which Sedos operates and the practical steps we can take to make Sedos truly reflective of the society within which we live. 
 
