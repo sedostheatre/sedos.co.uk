@@ -1,9 +1,9 @@
 ---
 title: Sedos wins three NODA regional awards
-date: 2020-06-17
+date: 2020-06-17T00:00:00.000Z
 image: /assets/regionalwinners.jpg
 ---
-**Sedos won three awards at the NODA London virtual regional awards on Sunday, 14 June.**
+**Sedos won three awards at the NODA London virtual regional awards on Sunday, 14 June, following our [eight wins at district level.](https://sedos.co.uk/news/2020-05-15-sedos-wins-eight-noda-district-awards)**
 
 Huge congrats to all involved with the winning shows. The awards were:
 
