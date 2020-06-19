@@ -1,5 +1,5 @@
 ---
-title: Seyoga
+title: Vinyasa Flow Seyoga
 times:
   - time: 2020-08-05 18:30
 image: /assets/seyoga.jpg
