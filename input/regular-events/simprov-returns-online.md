@@ -9,7 +9,8 @@ times:
   - time: 2020-07-27 19:30
   - time: 2020-08-03 19:30
   - time: 2020-08-10 19:30
-header-image: /assets/simprov3-360.jpg
+image: /assets/simprov3-360.jpg
+header-image: ""
 venue: Online via Zoom
 recurrence: Mondays at 7.30pm
 ---
