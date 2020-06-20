@@ -207,7 +207,7 @@ Pipelines.Add("NetlifyAdmin",
 );
 
 Pipelines.Add("Redirects",
-    Documents("AllShows", "News"),
+    Documents().FromPipelines("AllShows", "News"),
     Redirect().WithAdditionalOutput("_redirects", redirects => string.Join(Environment.NewLine, redirects.Select(r => $"/{r.Key} {r.Value}"))),
     WriteFiles()
 );
