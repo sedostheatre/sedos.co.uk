@@ -145,6 +145,11 @@ collections:
       - name: body
         label: Article content
         widget: markdown
+      - name: RedirectFrom
+        label: Redirect From
+        description: Pages on the old site to redirect from
+        widget: list
+        required: false
   - name: events
     label: Events
     description: Events
@@ -260,7 +265,7 @@ collections:
       - {label: Details, name: body, widget: markdown, required: false}
   - name: header-images
     label: Header Images
-    files: 
+    files:
       - label: "News"
         name: "News"
         file: "input/header-images/news.yml"
