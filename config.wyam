@@ -39,7 +39,7 @@ Pipelines.Add("TopLevelNav",
     Yaml()
 );
 
-Pipelines.Add("HeaderImages", 
+Pipelines.Add("HeaderImages",
     ReadFiles("header-images/*.yml"),
     Yaml(),
     Meta("image", (doc, ctx) => CopyAndResizeImageFromMeta(doc, ctx, "image-source", 1280, null, ResizeMode.Pad))
@@ -70,7 +70,7 @@ Pipelines.Add("AllShows",
     Markdown()
         .UseExtension<Markdig.Extensions.Bootstrap.BootstrapExtension>()
         .UseExtension<TargetLinkExtension>()
-        .UseExtensions(),    
+        .UseExtensions(),
     Meta("header-image", CopyAndResizeHeaderImage),
     Meta("flyer", (doc, ctx) => CopyAndResizeImageFromMeta(doc, ctx, "flyer", null, 360)),
     Meta("showtimes", (doc, ctx) => doc.Get("showtimes", Enumerable.Empty<IDocument>())),
@@ -207,7 +207,7 @@ Pipelines.Add("NetlifyAdmin",
 );
 
 Pipelines.Add("Redirects",
-    Documents("AllShows"),
+    Documents().FromPipelines("AllShows", "News"),
     Redirect().WithAdditionalOutput("_redirects", redirects => string.Join(Environment.NewLine, redirects.Select(r => $"/{r.Key} {r.Value}"))),
     WriteFiles()
 );
@@ -237,11 +237,11 @@ public IDocument CopyAndResizeImageFromMeta(IDocument doc, IExecutionContext ctx
 }
 
 public IDocument CopyAndResizeImageFromFile(
-    IDocument doc, 
-    IExecutionContext ctx, 
-    string filename, 
-    int? width, 
-    int? height, 
+    IDocument doc,
+    IExecutionContext ctx,
+    string filename,
+    int? width,
+    int? height,
     ResizeMode mode = ResizeMode.Min)
 {
     return ctx.Execute(
