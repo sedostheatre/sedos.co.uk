@@ -3,7 +3,6 @@ title: Black Lives Matter – taking action
 date: 2020-06-17T00:00:00.000Z
 image: /assets/blacklivesmatter-small.jpg
 RedirectFrom:
-  - news/2020-06-17-black-lives-matter---taking-action
   - news/2020-06-17-black-lives-matter-–-taking-action
 ---
 *Wednesday 17 June 2020*
