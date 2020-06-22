@@ -1,14 +1,7 @@
 ---
 title: Simprov returns online
 times:
-  - time: 2020-06-22 19:30
-  - time: 2020-06-29 19:30
-  - time: 2020-07-06 19:30
-  - time: 2020-07-13 19:30
-  - time: 2020-07-20 19:30
-  - time: 2020-07-27 19:30
-  - time: 2020-08-03 19:30
-  - time: 2020-08-10 19:30
+  - time: 2020-10-12 19:30
 image: /assets/simprov3-360.jpg
 venue: Online via Zoom
 recurrence: Mondays at 7.30pm
