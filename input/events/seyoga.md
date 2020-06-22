@@ -1,7 +1,7 @@
 ---
 title: Vinyasa Flow Seyoga
 times:
-  - time: 2020-08-05 18:30
+  - time: 2020-10-21 18:30
 image: /assets/seyoga.jpg
 recurrence: Wednesdays at 6.30pm
 ---
