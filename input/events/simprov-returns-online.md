@@ -1,5 +1,5 @@
 ---
-title: Simprov Returns Online
+title: Simprov returns online
 times:
   - time: 2020-06-22 19:30
   - time: 2020-06-29 19:30
