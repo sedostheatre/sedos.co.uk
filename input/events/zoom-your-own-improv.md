@@ -1,17 +1,7 @@
 ---
 title: Zoom... Your Own Improv!
 times:
-  - time: 2020-05-20 20:30
-  - time: 2020-05-27 20:30
-  - time: 2020-06-03 20:30
-  - time: 2020-06-10 20:30
-  - time: 2020-06-17 20:30
-  - time: 2020-07-01 20:30
-  - time: 2020-07-08 20:30
-  - time: 2020-07-15 20:30
-  - time: 2020-07-22 20:30
-  - time: 2020-07-29 20:30
-  - time: 2020-08-05 20:30
+  - time: 2020-10-14 20:30
 image: /assets/bhg-pink-background.png
 venue: Online via Zoom
 recurrence: Wednesdays at 8.30pm
