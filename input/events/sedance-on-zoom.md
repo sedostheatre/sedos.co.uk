@@ -1,14 +1,7 @@
 ---
 title: Sedance on Zoom
 times:
-  - time: 2020-06-08 19:15
-  - time: 2020-06-15 19:15
-  - time: 2020-06-22 19:15
-  - time: 2020-06-29 19:15
-  - time: 2020-07-06 19:15
-  - time: 2020-07-13 19:15
-  - time: 2020-07-20 19:15
-  - time: 2020-07-27 19:15
+  - time: 2020-10-05 19:15
 image: /assets/sedance-square.jpg
 recurrence: Mondays at 7.15pm
 ---
