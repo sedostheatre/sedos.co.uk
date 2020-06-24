@@ -66,6 +66,41 @@ sections:
       **MUSICAL DIRECTOR** | David Griffiths\
       **PRODUCER** | Craig Topp\
       **CHOREOGRAPHER** | Tom Leonard
+  - order: 2
+    title: GALLERY
+    body: <a data-flickr-embed="true"
+      href="https://www.flickr.com/photos/sedos/albums/72157632649743946"
+      title="Guys &amp; Dolls - 2012"><img
+      src="https://live.staticflickr.com/8510/8473635086_1f3397eaee_z.jpg"
+      width="640" height="427" alt="Guys &amp; Dolls - 2012"></a><script async
+      src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+  - order: 3
+    title: VIDEO
+    body: <div class="video-responsive"><?# YouTube z_PAD8oijXg /?></div>
+  - order: 4
+    title: REVIEWS
+    body: >-
+      >In the grand scheme of amateur, fringe and professional musicals, this
+      cast perform to the absolute max with passion and humour throughout.
+      Moreover, everyone looks like they’re having a great time doing it. London
+      audiences should take notice of Sedos, as its creatives are clearly more
+      than capable of giving their professional neighbours a run for their
+      money.
+
+      ><footer><cite>Guys & Dolls, 2012, thepublicreviews.com</cite></footer>
+
+
+      >The bar for performance level has been set so high by countless previous productions that every new interpretation of the piece has a daunting task to match expectations and standards. Sedos… rose to the challenge with a confident, sure footed, vibrant and stylish performance, and emerged with full honours.
+
+      ><footer><cite>Guys & Dolls, 2012, Sardines</cite></footer>
+
+
+      >…an inventive, energetic, comedic and enjoyable musical because of the love of the material and attention to detail. The small space is home to a big ensemble of talent, expertly choreographed by Thomas Leonard in such a way that regularly leaves the audience breathless… This is a high-quality production of a favourite musical…
+
+
+      ><footer><cite>Guys & Dolls, 2012, Remote Goat</cite></footer>
+RedirectFrom:
+  - 2012/guysanddolls.htm
 ---
 > One of these days in your travels, a guy is going to show you a brand-new deck of cards on which the seal is not yet broken. Then this guy is going to offer to bet you that he can make the jack of spades jump out of this brand-new deck of cards and squirt cider in your ear. But, son, do not accept this bet, because as sure as you stand there, you’re going to wind up with an ear full of cider.
 
