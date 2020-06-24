@@ -1,8 +1,8 @@
 ---
 title: Double bill of one-act plays
 year: "2012"
-authors: Sink the Belgrano! by Steven Berkoff and Bernard Shaw
-authors2: Man of Destiny by Bernard Shaw
+authors: Sink the Belgrano! by STEVEN BERKOFF
+authors2: Man of Destiny by BERNARD SHAW
 subtitle: Part of the Sedos Summer Festival
 showtimes:
   - time: 2012-07-17 19:30
