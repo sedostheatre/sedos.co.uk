@@ -34,6 +34,16 @@ sections:
       **CREATIVE TEAM**
 
       **DIRECTOR** | Chris De Pury
+  - order: 2
+    title: GALLERY
+    body: <a data-flickr-embed="true"
+      href="https://www.flickr.com/photos/sedos/albums/72157630051987909"
+      title="Push Up - 2012"><img
+      src="https://live.staticflickr.com/8010/7181260099_658884fb2d_z.jpg"
+      width="427" height="640" alt="Push Up - 2012"></a><script async
+      src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+RedirectFrom:
+  - 2012/pushup.htm
 ---
 > Just so you understand: the problem is not that your're fucking my husband. The problem is that you need to.
 
