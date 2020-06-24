@@ -62,7 +62,7 @@ sections:
   - order: 3
     title: VIDEO
     body: <div class="video-responsive"><?# YouTube J91uV8p4l5A /?></div>
-  - order: 2
+  - order: 4
     title: REVIEWS
     body: >-
       >There is little evidence of Sedos theatre company's amateur status in its
