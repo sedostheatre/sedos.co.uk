@@ -1,8 +1,8 @@
 ---
 title: Guys & Dolls
 year: "2012"
-authors: Music and lyrics by Frank Loesser
-authors2: Book by Jo Swerling and Abe Burrows
+authors: Music and lyrics by FRANK LOESSER
+authors2: Book by JO SWERLING and ABE BURROWS
 subtitle: A musical fable of Broadway based on a story and characters of Damon Runyon
 showtimes:
   - time: 2012-12-05 19:30
