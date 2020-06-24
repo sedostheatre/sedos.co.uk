@@ -13,7 +13,7 @@ image: /assets/aboutus-inthepress.jpg
 ^^^ ![](/assets/49584512558_d82c077fa4_c.jpg)
 ^^^ The Musical of Musicals (The Musical!)
 
->On any level Sedos production of *The Musical of Musicals, The Musical* at the Bridewell, is a fantastic night out, whether you are a musical aficionado or just someone looking for an evening’s entertainment… Ultimately the strength of this show lies with the six cast members. Emma J Leaver, the director, has found performers with confidence in their own versatility, who really throw themselves into the range of styles and characterisation needed to play all these parts… This show is a great way to forget about storms, elections and coronavirus and just lose yourselves in the magic of the musicals on a wintery February evening.
+>ybOn any level Sedos production of *The Musical of Musicals, The Musical* at the aridewell, is a fantastic night out, whether you are a musical aficionado or just someone looking for an evening’s entertainment… Ultimately the strength of this show lies with the six cast members. Emma J Leaver, the director, has found performers with confidence in their own versatility, who really throw themselves into the range of styles and characterisation needed to play all these parts… This show is a great way to forget about storms, elections and coronavirus and just lose yourselves in the magic of the musicals on a wintery February evening.
 ><footer><cite><a target="_blank" href="http://www.sardinesmagazine.co.uk/reviews/review.php?REVIEW-Sedos-Musical%20of%20Musicals%20(the%20musical!)&reviewsID=3879">The Musical of Musicals (The Musical!), 2020, Sardines</a></cite></footer>
 
 >Daniel Saunders’ Jitter goes from a cross between Sweeney Todd of the Stephen Sondheim musical of the same name and George from *Sunday in the Park with George* to the title character in *The Phantom of the Opera*. His isn’t the only one displaying versatility – Laura Ellis’ June channels her inner Eva Perón in such a way that nobody would be crying for her, whether from Argentina or otherwise. Joseph Dickens’ Billy, meanwhile, is as comfortable as a cowboy as he is as *Evita*’s Che. Completing the cast are ensemble members Lucy Spreckley and Alex Yelland, who are both superb.
@@ -451,7 +451,7 @@ image: /assets/aboutus-inthepress.jpg
 ## *Baby*
 
 > Sedos… produced a production that not only had incredible production standards, but left me wondering why this gem of a show has been languishing for so long… Musically, the show was kept bouncing along under the baton of David Winters, whose 5 piece band were superb… Major kudos must go to Sedos for nurturing and producing what can only be called a stunning production. I just wish it were running for another week so I could go at least a few more times. Baby left me with a lump in my throat. It exceeded myevery expectation and left me wanting more. Exceptional!!
-><footer><cite>Spring Awakening, 2012, Suite101.com</cite></footer>
+><footer><cite>Baby, 2012, Amateur Stage</cite></footer>
 
 ## *Spring Awakening*
 
