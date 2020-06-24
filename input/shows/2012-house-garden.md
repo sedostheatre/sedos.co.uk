@@ -49,6 +49,20 @@ sections:
       **PRODUCERS** | Alex Dorlandt and Emma Taylor\
       **ASSISTANT DIRECTOR** | Andrew Macpherson\
       **TECHNICAL SUPERVISOR** |Steven King
+  - order: 2
+    title: GALLERY
+    body: <a data-flickr-embed="true"
+      href="https://www.flickr.com/photos/sedos/albums/72157631367159520"
+      title="House / Garden - 2012"><img
+      src="https://live.staticflickr.com/8052/8119005177_97a53dacbf_z.jpg"
+      width="640" height="427" alt="House / Garden - 2012"></a><script async
+      src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+  - order: 3
+    title: VIDEO
+    body: |-
+      <div class="video-responsive"><?# YouTube doDL1ZOcf24 /?></div>
+
+      <div class="video-responsive"><?# YouTube -8QGDmWNt0s /?></div>
 RedirectFrom:
   - 2012/houseandgarden.htm
 ---
