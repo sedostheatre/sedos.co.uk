@@ -41,6 +41,26 @@ sections:
   - order: 3
     title: VIDEO
     body: <div class="video-responsive"><?# YouTube nP7onypwWqk /?></div>
+  - order: 4
+    title: REVIEWS
+    body: >-
+      >The Stock Exchange Dramatic and Operatic Society excels once again with
+      their innovative and unusual one-hour production of Shakepeare's As You
+      Like… The production has been designed and executed in a truly
+      professional manner demonstrating there is no shortage of highly talented
+      players active in amateur theatre.
+
+      ><footer><cite>As You Like It (London), 2012, Suite101.com</cite></footer>
+
+
+      >Told by those who evidently have a deep set understanding and respect for the text, the story is excellently executed so that not a line is out of place or superfluous to their storytelling cause. The overall design was incredibly creative and brilliantly executed… There are no weak performances from any member of the cast, each an integral link in a strong company… Sedos is so close to being professional it hurts. Outstandingly polished performances, brilliant direction and joy in creating theatrical masterpieces makes these young actors ones to watch.
+
+      ><footer><cite>As You Like It (Edinburgh), 2012, Broadway Baby (five stars)</cite></footer>
+
+
+      >Sedos’ version of this classic play is silly, sweet, and very witty.
+
+      ><footer><cite>As You Like It (Edinburgh), 2012, Three Weeks</cite></footer>
 RedirectFrom:
   - 2012/asyoulikeit.htm
 ---
