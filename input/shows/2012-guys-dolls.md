@@ -97,7 +97,6 @@ sections:
 
       >…an inventive, energetic, comedic and enjoyable musical because of the love of the material and attention to detail. The small space is home to a big ensemble of talent, expertly choreographed by Thomas Leonard in such a way that regularly leaves the audience breathless… This is a high-quality production of a favourite musical…
 
-
       ><footer><cite>Guys & Dolls, 2012, Remote Goat</cite></footer>
 RedirectFrom:
   - 2012/guysanddolls.htm
