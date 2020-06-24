@@ -1,7 +1,7 @@
 ---
 title: House / Garden
 year: "2012"
-authors: Two linked plays by Alan Ayckbourn
+authors: Two linked plays by ALAN AYCKBOURN
 subtitle: Two plays, two audiences, two theatres, one cast!
 showtimes:
   - time: 2012-10-24 19:30
