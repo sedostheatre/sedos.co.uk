@@ -1,7 +1,7 @@
 ---
 title: As You Like It
 year: "2012"
-authors: By William Shakespeare
+authors: By WILLIAM SHAKESPEARE
 subtitle: Sedos on tour - London and Edinburgh
 showtimes:
   - time: 2012-08-30 19:30
