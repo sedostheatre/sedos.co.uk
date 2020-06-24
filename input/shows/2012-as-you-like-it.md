@@ -28,12 +28,24 @@ sections:
     body: |-
       **CAST**
 
-      **ROSALIND** | Fran Rafferty
+      **ROSALIND** | Fran Rafferty\
+      **CELIA** | Adriana Maestranzi\
+      **ORLANDO** | Christopher Waite\
+      **OLIVER** | Oliver Shermer\
+      **TOUCHSTONE** | Jack Lowe\
+      **JACQUES** | Alexander Baker\
+      **SYLVIA** | Paula Mount\
+      **PHEBE** | Rachael Pennell\
+      **DUKE FERDINAND AND DUKE SENIOR** | Neil Duggan
 
       **CREATIVE TEAM**
 
-      **DIRECTOR** | Zoe Thomas Webb\
-      **PRODUCER** | Rebecca Smith
+      **DIRECTOR** | Zoë Thomas-Webb\
+      **ASSISTANT DIRECTOR** | Charles Golding\
+      **PRODUCER** and **MARKETING** | Kaytie M. Lee\
+      **STAGE MANAGER** and **ASSISTANT PRODUCER** | Valentine Monot\
+      **MUSIC** | David McAlinden and Daniel Marston\
+      **PHOTOGRAPHY** | Michael Smith
   - order: 2
     title: GALLERY
     body: <a data-flickr-embed="true"
