@@ -33,7 +33,7 @@ sections:
       **CREATIVE TEAM**
 
       **DIRECTOR** | Zoe Thomas Webb\
-      **PRODUCER** |Rebecca Smith
+      **PRODUCER** | Rebecca Smith
   - order: 2
     title: GALLERY
     body: <a data-flickr-embed="true"
