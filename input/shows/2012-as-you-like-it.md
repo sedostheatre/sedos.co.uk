@@ -30,6 +30,17 @@ sections:
 
       **DIRECTOR** | Zoe Thomas Webb\
       **PRODUCER** |Rebecca Smith
+  - order: 2
+    title: GALLERY
+    body: <a data-flickr-embed="true"
+      href="https://www.flickr.com/photos/sedos/albums/72157630961372566"
+      title="As You Like It - 2012"><img
+      src="https://live.staticflickr.com/8283/7787685962_edc3444f30_z.jpg"
+      width="427" height="640" alt="As You Like It - 2012"></a><script async
+      src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+  - order: 3
+    title: VIDEO
+    body: <div class="video-responsive"><?# YouTube nP7onypwWqk /?></div>
 RedirectFrom:
   - 2012/asyoulikeit.htm
 ---
