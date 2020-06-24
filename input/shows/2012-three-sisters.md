@@ -51,6 +51,30 @@ sections:
       **LIGHTING DESIGN** | Robin Snowdon \
       **MARKETING** | Adrian Johnson\
       **PHOTOGRAPHY** |Michael Smith
+  - order: 2
+    title: GALLERY
+    body: <a data-flickr-embed="true"
+      href="https://www.flickr.com/photos/sedos/albums/72157628895282597"
+      title="Three Sisters - 2012"><img
+      src="https://live.staticflickr.com/7180/6790940182_305d5e6af3_z.jpg"
+      width="640" height="427" alt="Three Sisters - 2012"></a><script async
+      src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+  - order: 3
+    title: VIDEO
+    body: <div class="video-responsive"><?# YouTube J91uV8p4l5A /?></div>
+  - order: 2
+    title: REVIEWS
+    body: >-
+      >There is little evidence of Sedos theatre company's amateur status in its
+      charming production which neatly balances the characters' loneliness and
+      frustration with a sense of hope and humour.
+
+      ><footer><cite>Three Sisters, 2012, One Stop Arts</cite></footer>
+
+
+      >As the first show of 2012 for Sedos, Three Sisters rewards before it begins, by presenting the audience with a stunning set... the scale of the thing was impressive... The use of the depth of the stage at the Bridewell was a brilliant and brave move on the director's part, giving opportunity to place the actors as a framed piece of art.
+
+      ><footer><cite>Three Sisters, 2012, Remote Goat</cite></footer>
 RedirectFrom:
   - 2012/threesisters.htm
 ---
