@@ -48,12 +48,12 @@ sections:
 
       **PRODUCTION TEAM**
 
-      **DIRECTOR** |Chris Warner\
-      **MUSICAL DIRECTOR** |Ryan Macaulay\
-      **PRODUCER** |Angharad Davies\
+      **DIRECTOR** | Chris Warner\
+      **MUSICAL DIRECTOR** | Ryan Macaulay\
+      **PRODUCER** | Angharad Davies\
       **CREATIVE DIRECTOR** | Max Wolf\
       **CHOREGRAPHER** | Tim Garrad\
-      **ASSISTANT DIRECTOR** |Chloë Faine
+      **ASSISTANT DIRECTOR** | Chloë Faine
   - order: 2
     title: GALLERY
     body: <a data-flickr-embed="true"
