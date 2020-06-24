@@ -26,6 +26,10 @@ sections:
   - order: 1
     title: CAST & CREATIVE TEAM
     body: |-
+      **CAST**
+
+      **ROSALIND** | Fran Rafferty
+
       **CREATIVE TEAM**
 
       **DIRECTOR** | Zoe Thomas Webb\
