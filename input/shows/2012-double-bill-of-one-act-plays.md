@@ -83,6 +83,19 @@ sections:
 
 
       **DIRECTOR** | Jacqui Adams
+  - order: 2
+    title: GALLERY
+    body: >-
+      <a data-flickr-embed="true"
+      href="https://www.flickr.com/photos/sedos/albums/72157630052070757"
+      title="Sink the Belgrano! - 2012"><img
+      src="https://live.staticflickr.com/8281/7589751180_ed9cbc6941_z.jpg"
+      width="427" height="640" alt="Sink the Belgrano! - 2012"></a><script async
+      src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+        
+
+      <a data-flickr-embed="true" href="https://www.flickr.com/photos/sedos/albums/72157630114205044" title="Man of Destiny - 2012"><img src="https://live.staticflickr.com/8159/7589762654_271cf798ca_z.jpg" width="427" height="640" alt="Man of Destiny - 2012"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 ---
 ## ***Sink the Belgrano!***
 
