@@ -11,5 +11,5 @@ jobs:
       - name: Compress Images
         uses: calibreapp/image-actions@master
         with:
-          ignorePaths: "input/old-site/**"
+          ignorePaths: "input/old-site/2010,input/old-site/2011.input/old-site/2012"
           githubToken: ${{ secrets.GITHUB_TOKEN }}
