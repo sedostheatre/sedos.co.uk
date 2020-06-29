@@ -12,7 +12,7 @@ jobs:
     steps:
     - uses: actions/checkout@v2.3.1
     - name: Cache tools
-      uses: actions/cache@v1
+      uses: actions/cache@v2
       env:
         cache-name: cache-tools
       with:
@@ -21,7 +21,7 @@ jobs:
         restore-keys: |
           ${{ runner.os }}-build-${{ env.cache-name }}-
     - name: Cache assets
-      uses: actions/cache@v1
+      uses: actions/cache@v2
       env:
         cache-name: cache-assets
       with:
