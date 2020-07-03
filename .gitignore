@@ -12,3 +12,5 @@ theme/assets/lib/
 
 config\.wyam\.packages\.xml
 packages/
+
+node_modules

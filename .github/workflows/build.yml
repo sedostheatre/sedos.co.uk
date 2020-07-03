@@ -31,3 +31,10 @@ jobs:
           ${{ runner.os }}-build-${{ env.cache-name }}-
     - name: Build
       run: ./build.sh
+  test:
+    - name: Cypress tests
+      needs: Build
+      uses: cypress-io/github-action@v1
+      with:
+        start: 'npx serve -p 5080 build'
+        wait-on: 'http://localhost:5080'

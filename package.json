@@ -1,0 +1,22 @@
+{
+  "name": "sedos.co.uk",
+  "version": "1.0.0",
+  "description": "The new site for https://www.sedos.co.uk, built using Wyam.",
+  "devDependencies": {
+    "cypress": "4.9.0",
+    "serve": "11.3.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/olevett/sedos.co.uk.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/olevett/sedos.co.uk/issues"
+  },
+  "homepage": "https://github.com/olevett/sedos.co.uk#readme"
+}
