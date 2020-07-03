@@ -32,6 +32,9 @@ jobs:
     - name: Build
       run: ./build.sh
   test:
+    name: Test
+    runs-on: ubuntu-latest
+    steps:
     - name: Cypress tests
       needs: Build
       uses: cypress-io/github-action@v1
