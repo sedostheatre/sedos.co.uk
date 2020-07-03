@@ -10,7 +10,13 @@
     </div>
     <div class="col-md-4 news-article-details-column pt-3">
         <h3>More news</h3>
-        @foreach(var article in Documents["News"].Where(x => Model["title"] != x["title"]).OrderByDescending(x => x["date"]).Take(4))
+        
+        @foreach(var article in Documents["News"]
+            .Where(article => Model["title"] != article["title"])
+            .OrderByDescending(article => article.Get<DateTime>("date"))
+            .ThenBy(article => article["title"])
+            .Take(4)
+        )
         {
             <a href="@Context.GetLink(article as IDocument)"><h6>@article["title"]</h6></a>
         }
