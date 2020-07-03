@@ -34,9 +34,9 @@ jobs:
   test:
     name: Test
     runs-on: ubuntu-latest
+    needs: Build
     steps:
     - name: Cypress tests
-      needs: Build
       uses: cypress-io/github-action@v1
       with:
         start: 'npx serve -p 5080 build'
