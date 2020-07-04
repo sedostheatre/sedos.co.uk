@@ -13,7 +13,7 @@ image: /assets/aboutus-inthepress.jpg
 ^^^ ![](/assets/49584512558_d82c077fa4_c.jpg)
 ^^^ The Musical of Musicals (The Musical!)
 
->ybOn any level Sedos production of *The Musical of Musicals, The Musical* at the aridewell, is a fantastic night out, whether you are a musical aficionado or just someone looking for an evening’s entertainment… Ultimately the strength of this show lies with the six cast members. Emma J Leaver, the director, has found performers with confidence in their own versatility, who really throw themselves into the range of styles and characterisation needed to play all these parts… This show is a great way to forget about storms, elections and coronavirus and just lose yourselves in the magic of the musicals on a wintery February evening.
+>On any level Sedos production of *The Musical of Musicals, The Musical* at the Bridewell, is a fantastic night out, whether you are a musical aficionado or just someone looking for an evening’s entertainment… Ultimately the strength of this show lies with the six cast members. Emma J Leaver, the director, has found performers with confidence in their own versatility, who really throw themselves into the range of styles and characterisation needed to play all these parts… This show is a great way to forget about storms, elections and coronavirus and just lose yourselves in the magic of the musicals on a wintery February evening.
 ><footer><cite><a target="_blank" href="http://www.sardinesmagazine.co.uk/reviews/review.php?REVIEW-Sedos-Musical%20of%20Musicals%20(the%20musical!)&reviewsID=3879">The Musical of Musicals (The Musical!), 2020, Sardines</a></cite></footer>
 
 >Daniel Saunders’ Jitter goes from a cross between Sweeney Todd of the Stephen Sondheim musical of the same name and George from *Sunday in the Park with George* to the title character in *The Phantom of the Opera*. His isn’t the only one displaying versatility – Laura Ellis’ June channels her inner Eva Perón in such a way that nobody would be crying for her, whether from Argentina or otherwise. Joseph Dickens’ Billy, meanwhile, is as comfortable as a cowboy as he is as *Evita*’s Che. Completing the cast are ensemble members Lucy Spreckley and Alex Yelland, who are both superb.
@@ -486,7 +486,7 @@ image: /assets/aboutus-inthepress.jpg
 ^^^ A Little Night Music
 
 >[Sedos] should be credited as one of the premier [amateur] companies in the country, as their track record for staging professional-standard shows proves… it was a genius stroke by co-directors Roger Harwood and Dawn Harrison-Wallace to stage the entire show as a flashback… the casting was difficult to fault… [the cast] all did a great job of bringing the show to life… top marks must go to the costume team for their fantastic work… [musical director] David Griffiths and his musicians gave a performance grander than many of those you'd hear in West End theatres… Congratulations again to Sedos for another great production…
-><footer><cite>Assassins, 2011, SONDHEIM the magazine - official publication of the Sondheim Society</cite></footer>
+><footer><cite>A Little Night Music, 2011, SONDHEIM the magazine - official publication of the Sondheim Society </cite></footer>
 
 > Masterful in both dramatic and auditory terms…
 ><footer><cite>A Little Night Music, 2011, Remote Goat</cite></footer>
