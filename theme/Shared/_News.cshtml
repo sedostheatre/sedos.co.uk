@@ -11,6 +11,7 @@
     @{
         var latestNews = Documents["News"]
             .OrderByDescending(article => article.Get<DateTime>("date"))
+            .ThenBy(article => article["title"])
             .Take(8);
 
         <div class="banner">
