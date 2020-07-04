@@ -20,7 +20,7 @@ showtimes:
   - time: 2011-12-03 19:30
 showtime-summary: 23 November-2 December 2011
 venue: Bridewell Theatre
-primary-color: "#030303"
+primary-color: "#4d5655"
 header-image: /assets/6898848545_d6498ab5b3_o.jpg
 flyer: /assets/sedos_a_little_night_music.jpg
 box-office-open: false
