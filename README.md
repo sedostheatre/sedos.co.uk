@@ -21,6 +21,12 @@ build.ps1 -Target Preview
 ./build.sh --target=Preview
 ```
 
+## Testing
+- there's a small suite of Cypress tests, that can be run through
+- `npm i`
+- starting a dev server, either through the preview command, or with `npx serve -p 5080 output`, assuming the site has been built already
+- `npx cypress`
+
 On any platform the site should then be available on [localhost:5080](http://localhost:5080).
 
 Changes will be rebuilt and the page should update in sync.
