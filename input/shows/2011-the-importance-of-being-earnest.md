@@ -28,7 +28,7 @@ sections:
       \
       CREATIVE TEAM
 
-      **DIRECTORS** |Emma Knott and Dan West\
+      **DIRECTORS** | Emma Knott and Dan West\
       **PRODUCER** | Jacqui Adams
   - order: 2
     title: GALLERY
