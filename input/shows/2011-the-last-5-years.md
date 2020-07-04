@@ -10,7 +10,6 @@ showtimes:
   - time: 2011-10-22 20:00
   - time: 2011-10-23 14:00
   - time: 2011-10-23 18:00
-  - time: 2020-07-04 17:18
 showtime-summary: 20-23 October 2011
 order-on-homepage: ""
 venue: The Rag Factory
