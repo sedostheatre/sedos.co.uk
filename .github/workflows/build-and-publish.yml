@@ -33,6 +33,11 @@ jobs:
           ${{ runner.os }}-build-${{ env.cache-name }}-
     - name: Build
       run: ./build.sh
+    - name: Cypress tests
+      uses: cypress-io/github-action@v1
+      with:
+        start: 'npx serve -p 5080 output'
+        wait-on: 'http://localhost:5080'
     - name: Deploy
       uses: s0/git-publish-subdir-action@master
       env:
