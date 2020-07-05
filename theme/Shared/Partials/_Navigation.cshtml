@@ -5,7 +5,7 @@
 <div class="container fixed-top bg-light">
     <nav class="navbar navbar-expand-lg main-navigation navbar-light">
         <a class="navbar-brand" href="@Context.GetLink("/")">
-            <img class="logo" src="@Context.GetLink("/assets/images/logo/logo-blue.png")"/>
+            <img class="logo" alt="sedos logo" src="@Context.GetLink("/assets/images/logo/logo-blue.png")"/>
         </a>
 
         <button class="navbar-toggler"
@@ -20,11 +20,11 @@
 
         <div class="collapse navbar-collapse" id="topLevelNav">
             <ul class="navbar-nav mr-auto">
-                @foreach(var navItem in topLevelNav.Get<IEnumerable<IDocument>>("top-level-nav")) 
+                @foreach(var navItem in topLevelNav.Get<IEnumerable<IDocument>>("top-level-nav"))
                 {
                     var active = Context.GetLink(Model).Contains(navItem["url"].ToString());
                     <li class="nav-item">
-                        <a class="nav-link @(active ? "active" : "")" 
+                        <a class="nav-link @(active ? "active" : "")"
                            href="@navItem["url"]">
                             @navItem["name"]<span class="sr-only">@(active ? "(current)" : "")</span>
                         </a>

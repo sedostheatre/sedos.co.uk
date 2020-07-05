@@ -2,14 +2,14 @@
     var footerModel = Documents["Footer"].Single();
 }
 
-<footer div class="footer-container">
+<footer class="footer-container">
     <div class="container">
         <div class="row justify-content-between">
             @foreach(var link in footerModel.Get<IEnumerable<IDocument>>("external-links"))
             {
                 <div class="col-auto">
                     <a href="@link["url"]" aria-label="@link["name"]" target="_blank">
-                        <img class="footer-image" src="@Context.GetLink(link.Get<string>("image"))"></img>
+                        <img class="footer-image" src="@Context.GetLink(link.Get<string>("image"))" alt="@link["name"]">
                     </a>
                 </div>
             }
@@ -28,7 +28,7 @@
                         {
                             <li>
                                 <a href="@social["url"]" aria-label="@social["name"]" target="_blank">
-                                    <img class="social-icon" src="@Context.GetLink(social.Get<string>("image"))"></img>
+                                    <img class="social-icon" src="@Context.GetLink(social.Get<string>("image"))" alt="@social["name"]">
                                 </a>
                             </li>
                         }
