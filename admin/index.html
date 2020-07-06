@@ -1,5 +1,5 @@
 <!doctype html>
-<html>
+<html lang="en">
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -17,7 +17,7 @@
     CMS.registerEditorComponent({
       id: "youtube",
       label: "YouTube",
-      fields: [{name: 'id', label: 'Youtube Video ID', widget: 'string'}],      
+      fields: [{name: 'id', label: 'Youtube Video ID', widget: 'string'}],
       pattern: /^<div class="video-responsive"><\?# YouTube (\S+) \/\?><\/div>$/,
       fromBlock: function(match) {
         return {
@@ -26,7 +26,7 @@
       },
       toBlock: function(obj) {
         return '<div class="video-responsive"><?# YouTube ' + obj.id + ' /?></div>';
-      },      
+      },
       toPreview: function(obj) {
         return (
           '<img src="http://img.youtube.com/vi/' + obj.id + '/maxresdefault.jpg" alt="Youtube Video"/>'
@@ -38,7 +38,7 @@
     CMS.registerEditorComponent({
       id: "quote",
       label: "Quote",
-      fields: [{name: 'quote', label: 'Quote', widget: 'text', required: true}, {name: 'url', label: 'url', widget: 'string', required: false}, {name: 'cite', label: 'Cite', widget: 'string', required: true}],      
+      fields: [{name: 'quote', label: 'Quote', widget: 'text', required: true}, {name: 'url', label: 'url', widget: 'string', required: false}, {name: 'cite', label: 'Cite', widget: 'string', required: true}],
       pattern: /^>(.*)\n><footer><cite>(?:<a target="_blank" href="(\S*)">(.*)<\/a>)?(?:(.*))?<\/cite><\/footer>/,
       fromBlock: function(match) {
         return {
@@ -53,7 +53,7 @@
          cite = '<a target="_blank" href="' + obj.url + '">' + obj.cite + '</a>';
         }
         return '>' + obj.quote + '\r\n><footer><cite>' + cite + '</cite></footer>';
-      },      
+      },
       toPreview: function(obj) {
         return (
           '<blockquote>' + obj.quote + '<footer><cite><a target="_blank" href="' + obj.url + '">' + obj.cite + '</a></cite></footer></blockquote>'
@@ -65,7 +65,7 @@
     CMS.registerEditorComponent({
       id: "figure",
       label: "Figure",
-      fields: [{name: 'asset', label: 'Image', widget: 'image', required: true}, {name: 'quote', label: 'Quote', widget: 'string', required: false}],      
+      fields: [{name: 'asset', label: 'Image', widget: 'image', required: true}, {name: 'quote', label: 'Quote', widget: 'string', required: false}],
       pattern: /^\^\^\^\s*\!\[\]\((\S*)\)\n*\^\^\^\s*(.*)$/,
       fromBlock: function(match) {
         return {
@@ -75,7 +75,7 @@
       },
       toBlock: function(obj) {
         return '^^^ ![]('+obj.asset +')\r\n^^^ '+ (obj.quote || '');
-      },      
+      },
       toPreview: function(obj) {
         return (
           '<img src="'+obj.asset + '"/>'
