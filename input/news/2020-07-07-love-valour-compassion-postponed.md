@@ -1,5 +1,5 @@
 ---
-title: Love! Valour! Compassion! Postponed
+title: Love! Valour! Compassion! Postponed!
 date: 2020-07-07
 image: /assets/lovevalourcompassion-script-600.jpg
 ---
