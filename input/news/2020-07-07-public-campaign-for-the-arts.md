@@ -12,3 +12,5 @@ Theatres, music venues and arts companies are on the brink of ruin. If you care 
 In 10 days they received 70,000 signatures and it's still growing. Please sign the petition and tell us why you would want to keep the arts. We are stronger together.
 
 **[www.campaignforthearts.org](https://www.campaignforthearts.org/)**
+
+![](/assets/publiccampaignforthearts.jpg)
