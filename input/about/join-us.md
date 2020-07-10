@@ -43,7 +43,7 @@ Membership fees are £30 a year if a recurring payment is setup, £35 otherwise.
 
 **Sedos Membership application**
 
-For more information about joining email membership@sedos.co.uk.
+For more information about joining email [membership@sedos.co.uk](mailto:membership@sedos.co.uk), or visit [membership.sedos.co.uk](https://membership.sedos.co.uk/).
 
 Please note, if you are not already a Sedos member and you are cast in a show you must become a Sedos member at or before the first rehearsal of a production. You must be a member of Sedos for the entire rehearsal period and performance dates.
 
