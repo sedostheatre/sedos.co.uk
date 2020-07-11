@@ -1,7 +1,7 @@
 ---
 title: Take our pulse survey
 date: 2020-07-10
-image: /assets/unnamed-2.jpg
+image: /assets/pulse.jpg
 ---
 *Friday 10 July 2020*
 
