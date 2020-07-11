@@ -1,7 +1,7 @@
 ---
 title: Could you be a NODA rep?
 date: 2020-07-11
-image: /assets/unnamed-2.png
+image: /assets/noda.jpg
 ---
 **Our wonderful District 1 NODA reps, Carly and Simon, are stepping down from their roles. They have seen a vast number of Sedos shows and provide us with excellent feedback on our productions.**
 
