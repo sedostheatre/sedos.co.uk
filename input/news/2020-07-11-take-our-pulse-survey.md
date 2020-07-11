@@ -1,9 +1,9 @@
 ---
 title: Take our pulse survey
-date: 2020-07-11
+date: 2020-07-10
 image: /assets/unnamed-2.jpg
 ---
-*10 July 2020*
+*Friday 10 July 2020*
 
 **We're really keen to find out what members are thinking about the current situation and the activities that Sedos is currently offering, given the lockdown restrictions that are in place.**
 
