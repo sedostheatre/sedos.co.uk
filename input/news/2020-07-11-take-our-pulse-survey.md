@@ -9,6 +9,6 @@ image: /assets/pulse.jpg
 
 To try and pull together views on this and the eventual return to normality, we've put together a very short survey which we'd really appreciate you filling in. It should only take a couple of minutes and we'll be looking at all the responses to see what we should do next.
 
-[SEDOS PULSE SURVEY](https://docs.google.com/forms/d/e/1FAIpQLSdCXa-hz11B0rjgVoBpybBbnWrZUSI-O94ZVY_pDGo-I2wzTA/viewform)
+[Sedos pulse survey](https://docs.google.com/forms/d/e/1FAIpQLSdCXa-hz11B0rjgVoBpybBbnWrZUSI-O94ZVY_pDGo-I2wzTA/viewform)
 
 Thanks in advance!
