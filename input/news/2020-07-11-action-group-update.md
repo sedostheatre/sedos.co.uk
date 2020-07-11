@@ -1,5 +1,5 @@
 ---
-title: "Action Group update: first meeting"
+title: Action Group hold first meeting
 date: 2020-07-11
 image: /assets/action-group.jpg
 ---
