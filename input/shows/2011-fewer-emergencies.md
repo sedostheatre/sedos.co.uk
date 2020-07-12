@@ -2,7 +2,7 @@
 title: Fewer Emergencies
 year: "2011"
 authors: By MARTIN CRIMP
-subtitle: "Weekend workshop with a performance on Sunday 27 November "
+subtitle: Weekend workshop with a performance at the end
 showtimes:
   - time: 2011-11-27 18:00
 showtime-summary: 27 November 2011
