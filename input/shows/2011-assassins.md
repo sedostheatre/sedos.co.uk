@@ -83,10 +83,7 @@ sections:
       ><footer><cite>Assassins, 2011, Sardines</cite></footer>
 
 
-      >Assassins is rarely staged well and you be hard pressed to find a better amateur production. Kudos to Sedos!!
-
-
-      ><footer><cite>Assassins, 2011, asmagazine.co.uk</cite></footer>
+      > Assassins is rarely staged well and you be hard pressed to find a better amateur production. Kudos to Sedos!!
 RedirectFrom:
   - 2011/assassins.htm
 ---
