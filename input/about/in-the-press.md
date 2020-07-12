@@ -494,7 +494,7 @@ image: /assets/aboutus-inthepress.jpg
 ## *The Last Days of Judas Iscariot*
 
 > Billed as an amateur production, the Sedos’ cast are anything but. The clever staging and superb costumes only amplify the wonderful work being put in by the actors… A production that does real justice to the writing and ethos of the play, this is one you will be loath to miss…
-><footer><cite>Assassins, 2011, SONDHEIM the magazine - official publication of the Sondheim Society</cite></footer>
+><footer><cite>The Last Days of Judas Iscariot, 2011, the publicreviews.com</cite></footer>
 
 ## *Assassins*
 
@@ -502,10 +502,10 @@ image: /assets/aboutus-inthepress.jpg
 ><footer><cite>Assassins, 2011, SONDHEIM the magazine - official publication of the Sondheim Society</cite></footer>
 
 > Sedos’ reputation for bringing high-quality productions to London’s off-West End theatres goes before them and if their production of Assassins is anything to go by, it is a reputation they truly deserve… the accents, excellent vocals and good characterisation were held throughout by each of the lead performers and the ensemble players too…
-><footer><cite>Arcadia, 2011, Sardines</cite></footer>
+><footer><cite>Assassins, 2011, Sardines</cite></footer>
 
 > Assassins is rarely staged well and you be hard pressed to find a better amateur production. Kudos to Sedos!!
-><footer><cite>Arcadia, 2011, Sardines</cite></footer>
+><footer><cite>Assassins, 2011, asmagazine.co.uk</cite></footer>
 
 ## *Arcadia*
 
