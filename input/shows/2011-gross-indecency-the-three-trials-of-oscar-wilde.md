@@ -2,7 +2,7 @@
 title: "  Gross Indecency: The Three Trials of Oscar Wilde"
 year: "2011"
 authors: By MOISES KAUFMAN
-subtitle: Weekend Workshop with a performance on Sunday 6 February
+subtitle: Weekend workshop with a performance at the end
 showtimes:
   - time: 2011-02-06 18:30
 showtime-summary: 6 February 2011
