@@ -77,7 +77,7 @@ sections:
       Michael Smith
 
 
-      CREATIVE TEAM
+      **CREATIVE TEAM**
 
 
       **DIRECTORS** | Roger Harwood and Dawn Harrison-Wallace\\
