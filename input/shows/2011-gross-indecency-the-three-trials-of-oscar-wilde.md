@@ -39,8 +39,8 @@ sections:
       **PRODUCTION MANAGER** | Bronia Kupczyk
   - order: 2
     title: GALLERY
-    body: <a
-      data-flickr-embed="true"href="https://www.flickr.com/photos/sedos/albums/72157625866713515"
+    body: <a data-flickr-embed="true"
+      href="https://www.flickr.com/photos/sedos/albums/72157625866713515"
       title="Gross Indecency - 2011"><img
       src="https://live.staticflickr.com/5019/5424678638_b69142dc54_z.jpg"
       width="640" height="480" alt="Gross Indecency - 2011"></a><script async
