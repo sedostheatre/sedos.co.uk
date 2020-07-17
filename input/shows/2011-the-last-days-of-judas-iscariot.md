@@ -56,8 +56,8 @@ sections:
       ><footer><cite>The Last Days of Judas Iscariot, 2011, thepublicreviews.com</cite></footer>
   - order: 2
     title: GALLERY
-    body: <a
-      data-flickr-embed="true"href="https://www.flickr.com/photos/sedos/albums/72157627629786890"
+    body: <a data-flickr-embed="true"
+      href="https://www.flickr.com/photos/sedos/albums/72157627629786890"
       title="Last Days of Judas Iscariot - 2011"><img
       src="https://live.staticflickr.com/6123/6189615389_c267d2baff_z.jpg"
       width="640" height="427" alt="Last Days of Judas Iscariot -
