@@ -51,8 +51,8 @@ sections:
       **POSTER** | Stephen Beeny
   - order: 2
     title: GALLERY
-    body: <a
-      data-flickr-embed="true"href="https://www.flickr.com/photos/sedos/albums/72157626619465805"
+    body: <a data-flickr-embed="true"
+      href="https://www.flickr.com/photos/sedos/albums/72157626619465805"
       title="Arcadia - 2011"><img
       src="https://live.staticflickr.com/6027/5953818827_a2ff29e527_z.jpg"
       width="640" height="427" alt="Arcadia - 2011"></a><script async
