@@ -64,8 +64,8 @@ sections:
       **PRODUCER** | Chloe Faine
   - order: 2
     title: GALLERY
-    body: <a
-      data-flickr-embed="true"href="https://www.flickr.com/photos/sedos/albums/72157626004303101"
+    body: <a data-flickr-embed="true"
+      href="https://www.flickr.com/photos/sedos/albums/72157626004303101"
       title="West Side Story - 2011"><img
       src="https://live.staticflickr.com/5022/5594478847_226d73cdfb_z.jpg"
       width="640" height="427" alt="West Side Story - 2011"></a><script async
