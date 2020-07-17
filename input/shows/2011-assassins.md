@@ -60,8 +60,8 @@ sections:
       **PRODUCER** | Matt Hudson
   - order: 2
     title: GALLERY
-    body: <a
-      data-flickr-embed="true"href="https://www.flickr.com/photos/sedos/albums/72157626900185191"
+    body: <a data-flickr-embed="true"
+      href="https://www.flickr.com/photos/sedos/albums/72157626900185191"
       title="Assassins - 2011"><img
       src="https://live.staticflickr.com/6088/6025866580_e8c495d4f2_z.jpg"
       width="640" height="427" alt="Assassins - 2011"></a><script async
