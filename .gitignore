@@ -14,3 +14,6 @@ config\.wyam\.packages\.xml
 packages/
 
 node_modules
+
+cypress/screenshots
+cypress/videos
