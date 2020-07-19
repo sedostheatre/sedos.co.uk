@@ -55,7 +55,7 @@ sections:
 
       **LIGHTING DESIGNER** | Olly Levett
     order: 1
-  - order: 2
+  - order: 3
     title: REVIEWS
     body: >-
       >Dogfight is a charming yet gritty show about many shades of the human
@@ -68,6 +68,14 @@ sections:
       >Sedos are to be commended for giving us the chance to see such a good production of Dogfight The Musical. Catch it if you can!
 
       ><footer><cite><a target="_blank" href="http://www.sardinesmagazine.co.uk/reviews/review.php?REVIEW-Sedos-Dogfight%20The%20Musical&reviewsID=3126">Dogfight, 2018, Sardines</a></cite></footer>
+  - order: 2
+    title: GALLERY
+    body: <a data-flickr-embed="true"
+      href="https://www.flickr.com/photos/sedos/albums/72157661689532527"
+      title="Dogfight - 2018"><img
+      src="https://live.staticflickr.com/4783/26838022698_fcb42cda79_z.jpg"
+      width="640" height="427" alt="Dogfight - 2018"></a><script async
+      src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 RedirectFrom:
   - 2018/dogfight.htm
 float-nav: true
