@@ -3,7 +3,7 @@ title: "Feedback: we want to hear from you"
 date: 2020-07-19
 image: /assets/feedback.jpg
 ---
-*17 July 2020*
+*Friday 17 July 2020*
 
 **Our [Commitment to Change](https://sedos.co.uk/news/2020-06-17-black-lives-matter---taking-action) has prompted a number of our members to get in touch with other issues and thoughts, a number of them very personal, about their experiences of being involved with shows and things that they think could perhaps have been handled better - or issues that may have been overlooked at the time.**
 
