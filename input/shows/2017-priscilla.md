@@ -82,7 +82,7 @@ sections:
       2017"></a><script async src="//embedr.flickr.com/assets/client-code.js"
       charset="utf-8"></script>
     order: 2
-  - order: 1
+  - order: 3
     title: REVIEWS
     body: >-
       >A quick exit-poll on the audience provided comments such as 'exuberant',
