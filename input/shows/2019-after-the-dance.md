@@ -62,6 +62,14 @@ sections:
 
       ><footer><cite><a target="_blank" href="http://everything-theatre.co.uk/2019/04/after-the-dance-review.html">After the Dance, 2019, Everything Theatre</a></cite></footer>
     order: 3
+  - order: 2
+    title: GALLERY
+    body: <a data-flickr-embed="true"
+      href="https://www.flickr.com/photos/sedos/albums/72157705788493225"
+      title="After the Dance - 2019"><img
+      src="https://live.staticflickr.com/7824/47609886321_4ce7e52b39_z.jpg"
+      width="640" height="427" alt="After the Dance - 2019"></a><script async
+      src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 RedirectFrom:
   - 2019/afterthedance.htm
 ---
