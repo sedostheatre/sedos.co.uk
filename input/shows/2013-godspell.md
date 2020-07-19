@@ -66,11 +66,10 @@ sections:
       **STAGE MANAGER** and **TECHNICAL PRODUCER** | Laura Graham-Matheson
   - order: 2
     title: GALLERY
-    body: <a data-flickr-embed="true"
-      href="https://www.flickr.com/photos/sedos/albums/72157632889159644"
+    body: <a data-flickr-embed="true" href="https://www.flickr.com/gp/sedos/38xWRe"
       title="Godspell - 2013"><img
-      src="https://live.staticflickr.com/8378/8518826390_46d1cb2c22_z.jpg"
-      width="424" height="640" alt="Godspell - 2013"></a><script async
+      src="https://live.staticflickr.com/8262/8630247587_0c248cedb9_z.jpg"
+      width="640" height="427" alt="Godspell - 2013"></a><script async
       src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
   - order: 3
     title: VIDEO
