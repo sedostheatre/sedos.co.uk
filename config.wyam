@@ -94,7 +94,7 @@ Pipelines.Add("News",
     Meta("category", "news"),
     Meta("background-override", "bg-turquoise"),
     Razor().WithViewStart("Layout/_NewsArticleViewStart.cshtml"),
-    WriteFiles(".html")
+    WriteFiles(".html").UseWriteMetadata(false)
 );
 
 Pipelines.Add("Events",
