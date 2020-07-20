@@ -91,11 +91,10 @@ sections:
       **COSTUME DESIGNER** | [Fiona Lockton](http://fionalockton.wix.com/costumedesign)
   - order: 2
     title: GALLERY
-    body: <a data-flickr-embed="true"
-      href="https://www.flickr.com/photos/sedos/albums/72157648487357128"
+    body: <a data-flickr-embed="true" href="https://www.flickr.com/gp/sedos/o6L2n2"
       title="Victor/Victoria - 2014"><img
-      src="https://live.staticflickr.com/7473/15858055096_58fbc01f38_z.jpg"
-      width="427" height="640" alt="Victor/Victoria - 2014"></a><script async
+      src="https://live.staticflickr.com/8671/15883852505_52508e27d1_z.jpg"
+      width="640" height="425" alt="Victor/Victoria - 2014"></a><script async
       src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 RedirectFrom:
   - 2014/victorvictoria.htm
