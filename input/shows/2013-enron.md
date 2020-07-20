@@ -53,8 +53,8 @@ sections:
     body: <a data-flickr-embed="true"
       href="https://www.flickr.com/photos/sedos/albums/72157634031309308"
       title="Enron - 2013"><img
-      src="https://live.staticflickr.com/7290/9285149673_e7d06a90bb_z.jpg"
-      width="427" height="640" alt="Enron - 2013"></a><script async
+      src="https://live.staticflickr.com/3703/9285015387_d36e9b8a52_z.jpg"
+      width="640" height="427" alt="Enron - 2013"></a><script async
       src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 RedirectFrom:
   - 2013/enron.htm
