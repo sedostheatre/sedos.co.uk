@@ -51,8 +51,8 @@ sections:
     body: <a data-flickr-embed="true"
       href="https://www.flickr.com/photos/sedos/albums/72157630961372566"
       title="As You Like It - 2012"><img
-      src="https://live.staticflickr.com/8283/7787685962_edc3444f30_z.jpg"
-      width="427" height="640" alt="As You Like It - 2012"></a><script async
+      src="https://live.staticflickr.com/7270/7787688574_74a93b8d23_z.jpg"
+      width="640" height="427" alt="As You Like It - 2012"></a><script async
       src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
   - order: 3
     title: VIDEO
