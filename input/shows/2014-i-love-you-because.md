@@ -44,8 +44,8 @@ sections:
     body: <a data-flickr-embed="true"
       href="https://www.flickr.com/photos/sedos/albums/72157646174321197"
       title="I Love You Because - 2014"><img
-      src="https://live.staticflickr.com/5587/15256498685_40a6b8c422_z.jpg"
-      width="427" height="640" alt="I Love You Because - 2014"></a><script async
+      src="https://live.staticflickr.com/3859/15256449315_014cab896a_z.jpg"
+      width="640" height="427" alt="I Love You Because - 2014"></a><script async
       src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 RedirectFrom:
   - 2014/iloveyoubecause.htm
