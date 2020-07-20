@@ -43,8 +43,8 @@ sections:
     body: <a data-flickr-embed="true"
       href="https://www.flickr.com/photos/sedos/albums/72157641164460205"
       title="Heaven Can Wait - 2014"><img
-      src="https://live.staticflickr.com/3767/12928863154_80b3a307f6_z.jpg"
-      width="427" height="640" alt="Heaven Can Wait - 2014"></a><script async
+      src="https://live.staticflickr.com/7331/12928020255_ed80dd5f91_z.jpg"
+      width="640" height="427" alt="Heaven Can Wait - 2014"></a><script async
       src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
   - order: 3
     title: REVIEWS
