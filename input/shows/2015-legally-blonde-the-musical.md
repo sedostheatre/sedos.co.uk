@@ -75,8 +75,8 @@ sections:
     body: <a data-flickr-embed="true"
       href="https://www.flickr.com/photos/sedos/albums/72157652184554729"
       title="Legally Blonde the Musical - 2015"><img
-      src="https://live.staticflickr.com/8810/17637353795_dd93a55049_z.jpg"
-      width="427" height="640" alt="Legally Blonde the Musical -
+      src="https://live.staticflickr.com/7710/17015003274_0cfc050b56_z.jpg"
+      width="640" height="427" alt="Legally Blonde the Musical -
       2015"></a><script async src="//embedr.flickr.com/assets/client-code.js"
       charset="utf-8"></script>
   - order: 3
