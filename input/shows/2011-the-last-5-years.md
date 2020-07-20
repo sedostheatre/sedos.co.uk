@@ -54,8 +54,8 @@ sections:
     body: <a data-flickr-embed="true"
       href="https://www.flickr.com/photos/sedos/albums/72157627710085919"
       title="The Last 5 Years - 2011"><img
-      src="https://live.staticflickr.com/6106/6263484245_734b9ae087_z.jpg"
-      width="427" height="640" alt="The Last 5 Years - 2011"></a><script async
+      src="https://live.staticflickr.com/6229/6263482313_881f48ffc7_z.jpg"
+      width="640" height="427" alt="The Last 5 Years - 2011"></a><script async
       src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
   - order: 3
     title: VIDEO
