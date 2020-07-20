@@ -74,12 +74,11 @@ sections:
       **PHOTOGRAPHY** | Michael Smith
     order: 1
   - title: GALLERY
-    body: |-
-      <a data-flickr-embed="true"
+    body: <a data-flickr-embed="true"
       href="https://www.flickr.com/photos/sedos/albums/72157711030014363"
       title="Dangerous  Liaison - 2019"><img
-      src="https://live.staticflickr.com/65535/48781085888_453d76b3bb_z.jpg"
-      width="470" height="640" alt="Dangerous  Liaison - 2019"></a><script async
+      src="https://live.staticflickr.com/65535/48781085963_465917196b_z.jpg"
+      width="640" height="427" alt="Dangerous  Liaison - 2019"></a><script async
       src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
     order: 2
   - title: REVIEWS
