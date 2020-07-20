@@ -48,9 +48,12 @@ sections:
     title: CAST & CREATIVE TEAM
   - order: 2
     title: GALLERY
-    body: >-
-      
-      <a data-flickr-embed="true" href="https://www.flickr.com/photos/sedos/albums/72157625909547510" title="Romeo and Juliet - 2011"><img src="https://live.staticflickr.com/5255/5508940455_b1909f9486_z.jpg" width="427" height="640" alt="Romeo and Juliet - 2011"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+    body: <a data-flickr-embed="true"
+      href="https://www.flickr.com/photos/sedos/albums/72157625909547510"
+      title="Romeo and Juliet - 2011"><img
+      src="https://live.staticflickr.com/5299/5509599096_4137cc836d_z.jpg"
+      width="640" height="427" alt="Romeo and Juliet - 2011"></a><script async
+      src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
   - order: 3
     title: VIDEO
     body: <div class="video-responsive"><?# YouTube flyB-NugfPo /?></div>
