@@ -104,12 +104,12 @@ sections:
       **CHOREOGRAPHERS** | Angus Jacobs and Vaughan Watts
   - order: 2
     title: GALLERY
-    body: I<a data-flickr-embed="true"
+    body: <a data-flickr-embed="true"
       href="https://www.flickr.com/photos/sedos/albums/72157637607660456"
       title="Hot  Mikado - 2013"><img
-      src="https://live.staticflickr.com/3667/11189121485_ba4c51727e_z.jpg"
-      width="427" height="640" alt="Hot  Mikado - 2013"></a><script async
-      src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>V
+      src="https://live.staticflickr.com/3677/11086163015_b78b9fda70_z.jpg"
+      width="640" height="315" alt="Hot  Mikado - 2013"></a><script async
+      src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
   - order: 3
     title: VIDEO
     body: |-
