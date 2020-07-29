@@ -53,6 +53,8 @@ sections:
 
       <div class="video-responsive"><?# YouTube j7H83yVTUAw /?></div>
 
+      <div class="video-responsive"><?# YouTube f0eF_C9uOpQ&t=7s /?></div>
+
       <div class="video-responsive"><?# YouTube fiJ2x390FzY /?></div>
 
       <div class="video-responsive"><?# YouTube kof2aP7m0iA /?></div>
