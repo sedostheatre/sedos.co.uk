@@ -61,11 +61,14 @@ sections:
       charset="utf-8"></script>'
   - order: 3
     title: REVIEWS
-    body: "> Sedos is generally, and I would say correctly, regarded as the best
+    body: >-
+      > >Sedos is generally, and I would say correctly, regarded as the best
       amateur theatre company in London… And so I had high expectations of the
       opening night… In short, it's fantastic… kudos to Sedos for an
       unconventional selection which has been pulled off in (their now
-      trademark) style…"
+      trademark) style…
+
+      > ><footer><cite>Kiss of the Spider Woman: the Musical, 2010, Remote Goat</cite></footer>
 RedirectFrom:
   - 2010/kissofthespiderwoman.htm
 ---
