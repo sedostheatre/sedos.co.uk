@@ -41,8 +41,8 @@ sections:
     body: <a data-flickr-embed="true"
       href="https://www.flickr.com/photos/sedos/albums/72157624960712835"
       title="Hapgood - 2010"><img
-      src="https://live.staticflickr.com/1012/5180818423_b34f8e5f12_z.jpg"
-      width="427" height="640" alt="Hapgood - 2010"></a><script async
+      src="https://live.staticflickr.com/4154/5181477666_1b3bf147aa_z.jpg"
+      width="640" height="427" alt="Hapgood - 2010"></a><script async
       src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
   - order: 3
     title: VIDEO
