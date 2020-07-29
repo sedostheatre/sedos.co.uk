@@ -15,7 +15,7 @@ showtimes:
 showtime-summary: 23-27 November 2011
 venue: Bridewell Theatre
 primary-color: "#ef2427"
-header-image: /assets/5206853004_a6cc3fbbda_o.jpg
+header-image: /assets/5206255853_3d65c31c97_o.jpg
 flyer: /assets/spider_a5_final_front_sb_600.jpg
 box-office-open: false
 sections:
@@ -61,15 +61,11 @@ sections:
       charset="utf-8"></script>'
   - order: 3
     title: REVIEWS
-    body: >-
-      >Sedos is generally, and I would say correctly, regarded as the best
+    body: "> Sedos is generally, and I would say correctly, regarded as the best
       amateur theatre company in London… And so I had high expectations of the
       opening night… In short, it's fantastic… kudos to Sedos for an
       unconventional selection which has been pulled off in (their now
-      trademark) style…
-
-
-      ><footer><cite>Kiss of the Spider Woman: the Musical, 2010, Remote Goat</cite></footer>
+      trademark) style…"
 RedirectFrom:
   - 2010/kissofthespiderwoman.htm
 ---
