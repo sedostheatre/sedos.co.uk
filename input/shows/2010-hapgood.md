@@ -20,24 +20,54 @@ sections:
   - order: 1
     title: CAST & CREATIVE TEAM
     body: |-
-      CAST
+      **CAST**
 
-      HAPGOOD | Chloe Faine\
-      KERNER | Chris de Pury\
-      BLAIR | Craig Karpel\
-      MAGGS | Charlotte Price\
-      RIDLEY | Daniel Goad\
-      WATES | Kevin Shen\
-      MERRYWEATHER | Fran Kilshaw\
-      JOE | Tom Adams \
-      THE RUSSIAN | Gareth Williams
+      **HAPGOOD** | Chloe Faine\
+      **KERNER** | Chris de Pury\
+      **BLAIR** | Craig Karpel\
+      **MAGGS** | Charlotte Price\
+      **RIDLEY** | Daniel Goad\
+      **WATES** | Kevin Shen\
+      **MERRYWEATHER** | Fran Kilshaw\
+      **JOE** | Tom Adams \
+      **THE RUSSIAN** | Gareth Williams
 
-      CREATIVE TEAM
+      **CREATIVE TEAM**
 
-      \
-      Director: Matt Gould\
-      Co-Producer: Kaytie M Lee\
-      Co-Producer: Michael Smith
+      **DIRECTOR** | Matt Gould\
+      **CO-PRODUCERS** | Kaytie M Lee and Michael Smith
+  - order: 2
+    title: GALLERY
+    body: <a data-flickr-embed="true"
+      href="https://www.flickr.com/photos/sedos/albums/72157624960712835"
+      title="Hapgood - 2010"><img
+      src="https://live.staticflickr.com/1012/5180818423_b34f8e5f12_z.jpg"
+      width="427" height="640" alt="Hapgood - 2010"></a><script async
+      src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+  - order: 3
+    title: VIDEO
+    body: |-
+      <div class="video-responsive"><?# YouTube 3gaG4ad7efg /?></div>
+
+      <div class="video-responsive"><?# YouTube 79re91mJd9c /?></div>
+
+      <div class="video-responsive"><?# YouTube j7H83yVTUAw /?></div>
+
+      <div class="video-responsive"><?# YouTube fiJ2x390FzY /?></div>
+
+      <div class="video-responsive"><?# YouTube kof2aP7m0iA /?></div>
+
+      <div class="video-responsive"><?# YouTube cQ4yK6Fmt4U /?></div>
+
+      <div class="video-responsive"><?# YouTube ieLLx2yu2Oc /?></div>
+
+      <div class="video-responsive"><?# YouTube XeNwkbxc76A /?></div>
+
+      <div class="video-responsive"><?# YouTube y3aqFs1RXKg /?></div>
+
+      <div class="video-responsive"><?# YouTube a1_uQM8KUv0 /?></div>
+RedirectFrom:
+  - 2010/Hapgood.htm
 ---
 **Someone in spymaster Hapgood’s agency is leaking secret research to Moscow. Hapgood is under pressure to expose the culprit.** 
 
