@@ -13,7 +13,7 @@ showtimes:
 showtime-summary: 16-20 November 2010
 venue: Bridewell Theatre
 primary-color: "#3c3c3c"
-header-image: /assets/hapgood-banner.jpg
+header-image: /assets/hapgood-banner-2.jpg
 flyer: /assets/hapgood-a5-front_final_600.jpg
 box-office-open: false
 sections:
