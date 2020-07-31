@@ -17,7 +17,7 @@ showtimes:
   - time: 2010-08-28 12:10
 showtime-summary: "4-7 August 2010 (London), 22-28 August 2010 (Edinburgh) "
 venue: Waterloo East Theatre in London; C (venue 34) on Chamber Street in Edinburgh
-primary-color: "#73c7a3"
+primary-color: "#006c5d"
 header-image: /assets/4865387481_937b84a917_o.jpg
 flyer: /assets/4907091609_48377717f5_o.jpg
 box-office-open: false
