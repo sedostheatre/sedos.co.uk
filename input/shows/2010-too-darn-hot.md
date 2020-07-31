@@ -2,7 +2,7 @@
 title: Too Darn Hot
 year: "2010"
 authors: Conceived by ANGUS JACOBS
-authors2: With input from PEDRO HUME-RODRIGUEZ and Anne-Marie Leight
+authors2: With input from PEDRO HUME-RODRIGUEZ and ANNE-MARIE LEIGH
 subtitle: A musical revue
 showtimes:
   - time: 2010-09-28 19:30
