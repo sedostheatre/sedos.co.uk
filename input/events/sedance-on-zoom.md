@@ -5,7 +5,11 @@ times:
 image: /assets/sedance-square.jpg
 recurrence: Mondays at 7.15pm
 ---
-**During lockdown Sedance, our weekly dance class, has moved online to Zoom, but it still takes place every Monday night, 7.15-9pm. What's more, classes are free whilst we are teaching on Zoom.**
+**Sedance is currently taking a summer break – but you can still dance in your own time! We will be back in September, either online, or in person, or possibly both.**
+
+Head over to the Sedance [Facebook group](http://r20.rs6.net/tn.jsp?f=001puMH7aVENS7rdpU_Ngz9kxuFUu7gy8CSGN23cU16fl9aRirRb1jSTZOG6iYQoU80XprP63ZuFZMO-3Ep1ZKhJ-ArXX5_nREDaunZYidXZMJNxablHD1DeJNVB0qvEvc9JeLsXVROFmniZ-lVN88_IFUmrNt0secZiwnu-RE_YYvQW6SnnVQSWlDh86y-QVRIldkHWf012OSPtU6ubxpp_g==&c=dLBcWkVs6bEUg_A4akcPen3gh1IlavylTL_nHGQxDCdrj0Q1ideq8g==&ch=5Rg1R1qWVf7_eczXm0hVAyMbJHffr__qYyMq7NieZS1MjrGxboxtyg==) page to see videos of the warm-up and the 10 routines that we have done since Sedance moved online for lockdown. We have been holding free weekly classes every Monday night from 7.15-9pm on Zoom.
+
+Sedance general info:
 
 What better way to get in shape, improve your technique or simply enjoy the buzz of dancing? (And it's a great excuse for a cheeky pop to the local hostelry on a Monday evening to catch up with what's going on in Sedos!)
 
