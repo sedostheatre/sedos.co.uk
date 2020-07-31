@@ -519,6 +519,17 @@ image: /assets/aboutus-inthepress.jpg
 > Sedos is generally, and I would say correctly, regarded as the best amateur theatre company in London… And so I had high expectations of the opening night… In short, it's fantastic… kudos to Sedos for an unconventional selection which has been pulled off in (their now trademark) style…
 ><footer><cite>Kiss of the Spider Woman: the Musical, 2010, Remote Goat</cite></footer>
 
+## *The Tragedy of the Prince of Denmark*
+
+>An intelligently adapted version of the play...and a slick use of multimedia.... Worth a watch whether you're a seasoned Shakey fan or a newbie.... manages to bring some interesting & original touches to an obviously heavily recycled show.
+><footer><cite>Josephine Timmins, BroadwayBaby.com</cite></footer>
+
+>Adam Moulder as Hamlet impresses.
+><footer><cite>Sans Taste</cite></footer>
+
+>Carolina Main as Ophelia is excellent. She lifts the language while still retaining the very modern, ‘realistic’ style of playing chosen for this production.... an interesting adaptation and likely to stimulate debate among those who know Hamlet already.
+><footer><cite>Danielle Farrow, Edinburgh Spotlight</cite></footer>
+
 # **2009**
 
 ## *Parade*
