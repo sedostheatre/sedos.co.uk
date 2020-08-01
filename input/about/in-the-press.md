@@ -530,6 +530,14 @@ image: /assets/aboutus-inthepress.jpg
 >Carolina Main as Ophelia is excellent. She lifts the language while still retaining the very modern, ‘realistic’ style of playing chosen for this production.... an interesting adaptation and likely to stimulate debate among those who know Hamlet already.
 ><footer><cite>Danielle Farrow, Edinburgh Spotlight</cite></footer>
 
+## *The Libertine*
+
+>(An) unorthodox approach to this story of a highly unorthodox man.... The use of the Grotesque Chorus in demonstrating bits of back-story is clever, and unique choreography by Leigh Tredger and Angus Jacobs allows the chorus to transition effortlessly from individual entities into one concise unit. Still, the highlight is the playful, satirical humour that courses through the first half and is at its finest when Rochester, Sebastien Blanc as George Etheredge, and Mark Macey as Charles Sackville share the stage. Rebecca Weymouth’s fine portrayal of Jane is also of note.
+><footer><cite>Fringe Review</cite></footer>
+
+>Luke Trebilcock is outstanding in the physically and emotionally demanding lead role, creating a wholly credible seventeenth-century libertine. James Hannant’s low-key witty vulgarity as Wilmot’s down-at-heel servant strikes a pleasingly ironic note, and the ...delectable Brooke Petersen is utterly convincing as the earl's mistress and inept stage-actress.
+><footer><cite>Remote Goat</cite></footer>
+
 # **2009**
 
 ## *Parade*
