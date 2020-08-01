@@ -2,7 +2,7 @@
 title: The Laramie Project
 year: "2010"
 authors: BY MOISES KAUFMAN and members of the TECTONIC THEATRE PROJECT
-subtitle: A workshop production
+subtitle: Weekend workshop culminating in a performance
 showtimes:
   - time: 2010-01-31 18:30
 showtime-summary: 31 January 2010
