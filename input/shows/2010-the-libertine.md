@@ -58,6 +58,25 @@ sections:
       src="https://live.staticflickr.com/4099/4874864637_2977dc9220_z.jpg"
       width="600" height="399" alt="The Libertine - 2010"></a><script async
       src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+  - order: 3
+    title: REVIEWS
+    body: >-
+      >(An) unorthodox approach to this story of a highly unorthodox man.... The
+      use of the Grotesque Chorus in demonstrating bits of back-story is clever,
+      and unique choreography by Leigh Tredger and Angus Jacobs allows the
+      chorus to transition effortlessly from individual entities into one
+      concise unit. Still, the highlight is the playful, satirical humour that
+      courses through the first half and is at its finest when Rochester,
+      Sebastien Blanc as George Etheredge, and Mark Macey as Charles Sackville
+      share the stage. Rebecca Weymouth’s fine portrayal of Jane is also of
+      note.
+
+      ><footer><cite>Fringe Review</cite></footer>
+
+
+      >Luke Trebilcock is outstanding in the physically and emotionally demanding lead role, creating a wholly credible seventeenth-century libertine. James Hannant’s low-key witty vulgarity as Wilmot’s down-at-heel servant strikes a pleasingly ironic note, and the ...delectable Brooke Petersen is utterly convincing as the earl's mistress and inept stage-actress.
+
+      ><footer><cite>Remote Goat</cite></footer>
 RedirectFrom:
   - 2010/libertine.htm
 ---
