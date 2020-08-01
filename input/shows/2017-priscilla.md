@@ -23,10 +23,9 @@ flyer: /assets/queen-of-the-desert-flyer-front-800.jpg
 sections:
   - title: CAST & PRODUCTION TEAM
     body: |-
-      <!--StartFragment-->
-
       **CAST**
 
+      **TICK** | Richard Upton\
       **ADAM** | Ian Thiele-Long\
       **BERNADETTE** | Alex McKinven\
       **DIVA** | Victoria Greenway\
@@ -43,7 +42,7 @@ sections:
       **PASTOR** | Chris Warner\
       **BENJI** | Matthew Cise and Evan Huntley-Robertson
 
-      **Ensemble:**
+      **ENSEMBLE**
 
       Sarah Berryman\
       Lauren Coffey\
@@ -69,8 +68,6 @@ sections:
       **STAGE MANAGER** | Andrew Laidlaw\
       **MARKETING MANAGER**  | Nick Crabb\
       **COMMITTEE LIAISON** | Stephen Beeny
-
-      <!--EndFragment-->
     order: 1
   - title: GALLERY
     body: |-
