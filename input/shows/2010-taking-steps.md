@@ -13,7 +13,7 @@ showtime-summary: 13-17 July 2010
 venue: Bridewell Theatre
 primary-color: "#3c82b6"
 header-image: /assets/4876460740_758cd2cc09_o.jpg
-flyer: /assets/takingsteps_poster_150x212_.jpg
+flyer: /assets/4907091457_1532784637_o.jpg
 box-office-open: false
 sections:
   - order: 1
