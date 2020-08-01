@@ -8,7 +8,7 @@ showtimes:
 showtime-summary: 31 January 2010
 venue: Winterflood Theatre
 header-image: /assets/4910393872_d6d4bbb1de_o.jpg
-flyer: /assets/laramieprojectworkshop_pageheader.jpg
+flyer: /assets/laramie.jpg
 box-office-open: false
 sections:
   - order: 1
