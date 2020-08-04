@@ -57,6 +57,7 @@ The management committee meets monthly.
 **Treasurer** | Henry Whittaker\
 **Marketing group** | Stephen Beeny \
 **Membership group** | Kim Barker \
+Adam Coppard\
 Peter Foster\
 Tim Garrad\
 Kate Gledhill\
