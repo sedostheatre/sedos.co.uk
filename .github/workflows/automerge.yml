@@ -22,7 +22,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: automerge
-        uses: "pascalgn/automerge-action@7ab42e888a333bf77ce865bc84fedc6a365a3548"
+        uses: "pascalgn/automerge-action@v0.9.0"
         env:
           GITHUB_TOKEN: "${{ secrets.ACTIONS_PAT }}"
           MERGE_METHOD: "squash"
