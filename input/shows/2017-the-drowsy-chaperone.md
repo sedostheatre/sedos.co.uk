@@ -25,73 +25,45 @@ flyer: /assets/drowsyfront-800.jpg
 sections:
   - title: CAST & CREATIVE TEAM
     body: |-
-      <!--StartFragment-->
-
+      
 
       **CAST**
 
-
       **MAN IN CHAIR** | Alex Baker\
-
       **THE DROWSY CHAPERONE** | Vicky Terry\
-
       **JANET VAN DE GRAAFF** | Corin Miller\
-
       **ROBERT MARTIN** | Angus Jacobs\
-
       **GEORGE** | Lewis McKenzie\
-
       **ALDOLPHO** | Kevin Murray\
-
       **MRS TOTTENDALE** | Penny Rodie\
-
       **UNDERLING** | Matt Bentley\
-
       **FELDZIEG** | Dan Saunders\
-
       **KITTY** | Heather Broderick\
-
       **GANGSTERS** | Tom Chesover and Inti Conde\
+      **TRIX** | Siobhan Aarons
 
-      **TRIX** | Siobhan Aarons\
+      **ENSEMBLE** 
 
-      \
-
-      **ENSEMBLE** | Breeana Gardiner, Natalie Harding-Moore, Eloise Horton,
-      Charlotte Raven and Vaughan-Alicia Watts
-
-
-      \
+      Breeana Gardiner\
+      Natalie Harding-Moore\
+      Eloise Horton
+      Charlotte Raven\
+      Vaughan-Alicia Watts
 
       **CREATIVE TEAM**
 
-
       **DIRECTOR** | Emma J Leaver\
-
       **MUSICAL DIRECTOR** | Michael Cannon\
-
       **CHOREOGRAPHER** | Laura de Iongh\
-
       **PRODUCERS** | Adrian Hau and Ruth Luckins\
-
       **ASSISTANT PRODUCER** | Pippa Kyle\
-
       **ASSISTANT DIRECTOR** | Matt Hudson\
-
       **CONDUCTOR** | Adrian Hau\
-
       **ASSISTANT CHOREOGRAPHER** | Hannah Shields\
-
       **STAGE MANAGER** | Lizzie Drapper\
-
       **SET DESIGN** | Stuart Massey\
-
       **COSTUMES** | Sara Simon-Vermot and Clare Harding\
-
       **LIGHTING DESIGN** | Olly Levett
-
-
-      <!--EndFragment-->
     order: 1
   - title: GALLERY
     body: |-
