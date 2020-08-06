@@ -4,7 +4,7 @@ times:
   - time: 2020-10-14 20:30
 image: /assets/bhg-pink-background.png
 venue: Online via Zoom
-recurrence: ""
+recurrence: Wednesdays at 8.30pm
 ticket-prices: ""
 ---
 **Following their stirling efforts over the past few months, the Banana Hut Gang are taking a break from performing for a little bit.**
