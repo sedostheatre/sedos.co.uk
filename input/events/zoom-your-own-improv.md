@@ -7,16 +7,8 @@ venue: Online via Zoom
 recurrence: Wednesdays at 8.30pm
 ticket-prices: ""
 ---
-**The Banana Hut Gang are here to cheer up your Wednesday evenings with their virtual improv show live from isolation!**
+**Following their stirling efforts over the past few months, the Banana Hut Gang are taking a break from performing for a little bit.**
 
-*Zoom Your Own...Improv!* is back with a vengeance, so join all your Sedos chums in watching the show live on Zoom, all for free and all from the comfort of your own home (like everything at the moment!). 
-
-If you've never seen the Banana Hut Gang perform before, why not give it a go on Wednesdays at 8.30pm? 
-
-The meeting ID for the Zoom show is: 971-0453-7924 
-
-Or the link: **<https://zoom.us/j/97104537924>**
-
-Or watch on Facebook Live via their Facebook page: **[www.facebook.com/bananahutgang](http://www.facebook.com/bananahutgang)**
+If you don't know how you'll cope without them, all their Zoom and some of their 'before-times' shows can be seen on their [YouTube channel]([https://www.youtube.com/​channel/​UC2gp5U6JvDumjMpCSqntSdA](https://www.youtube.com/channel/UC2gp5U6JvDumjMpCSqntSdA)). 
 
 ![](/assets/bhg-pink-background.png)
