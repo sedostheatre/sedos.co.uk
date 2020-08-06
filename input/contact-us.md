@@ -15,6 +15,8 @@ The best way to contact us is by email - we'll be happy to help.
 
 **Hire our set items, costumes or props:** [hires@sedos.co.uk](mailto:hires@sedos.co.uk)
 
+**Action group:** mailto:equality@sedos.co.uk
+
 **Production group:** [production@sedos.co.uk](mailto:production@sedos.co.uk)
 
 **Get involved backstage:** [backstage@sedos.co.uk](mailto:backstage@sedos.co.uk)
