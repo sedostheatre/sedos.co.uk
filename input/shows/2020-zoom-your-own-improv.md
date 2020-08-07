@@ -5,7 +5,7 @@ authors: By Sedos' improv group Banana Hut Gang
 subtitle: A virtual improv show live from isolation!
 showtimes: []
 showtime-summary: Wednesdays at 8.30pm
-show-on-homepage: true
+show-on-homepage: false
 order-on-homepage: 2
 venue: Online via Zoom
 ticket-prices: ""
@@ -62,7 +62,13 @@ sections:
 RedirectFrom:
   - whatson/simprov.htm
 ---
-**Sedos' improv group, The Banana Hut Gang, are here to cheer up your Wednesday evenings with their virtual improv show live from isolation.**
+**Following their stirling efforts over the past few months, the Banana Hut Gang are taking a break from performing for a little bit.** 
+
+If you don't know how you'll cope without them, all their Zoom and some of their 'before-times' shows can be seen on their [YouTube channel](https://sedos.co.uk/events/[https://www.youtube.com/%E2%80%8Bchannel/%E2%80%8BUC2gp5U6JvDumjMpCSqntSdA%5D(https://www.youtube.com/channel/UC2gp5U6JvDumjMpCSqntSdA)).
+
+\-------
+
+Sedos' improv group, The Banana Hut Gang, are here to cheer up your Wednesday evenings with their virtual improv show live from isolation.
 
 *Zoom Your Own...Improv!* is back with a vengeance. Watch the show live on Zoom, all for free and all from the comfort of your own home - like everything at the moment!
 
