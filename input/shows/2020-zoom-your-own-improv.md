@@ -5,7 +5,7 @@ authors: By Sedos' improv group Banana Hut Gang
 subtitle: A virtual improv show live from isolation!
 showtimes: []
 showtime-summary: Wednesdays at 8.30pm
-show-on-homepage: false
+show-on-homepage: true
 order-on-homepage: 2
 venue: Online via Zoom
 ticket-prices: ""
