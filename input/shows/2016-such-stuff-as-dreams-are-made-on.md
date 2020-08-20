@@ -4,6 +4,19 @@ year: "2016"
 authors: "Adapted from WILLIAM SHAKESPEARE'S The Tempest "
 authors2: By SARAH HEENAN
 subtitle: An immersive adventure through Shakespeare's final play
+showtimes:
+  - time: 2016-04-12 19:30
+  - time: 2016-04-13 19:30
+  - time: 2016-04-14 19:30
+  - time: 2016-04-12 19:30
+  - time: 2016-04-16 15:00
+  - time: 2016-04-16 19:30
+  - time: 2016-04-19 19:30
+  - time: 2016-04-20 19:30
+  - time: 2016-04-21 19:30
+  - time: 2016-04-22 19:30
+  - time: 2016-04-23 15:00
+  - time: 2016-04-23 19:30
 showtime-summary: 12-23 April 2016
 venue: Capstan House
 primary-color: "#79bacc"
