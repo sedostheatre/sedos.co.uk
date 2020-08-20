@@ -88,6 +88,7 @@ sections:
       <div class="video-responsive"><?# YouTube 3f-7giI1GsA /?></div>
 RedirectFrom:
   - 2016/candide.htm
+  - 2016/candide
 ---
 > The best of all possible worlds
 
