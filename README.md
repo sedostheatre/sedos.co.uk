@@ -49,7 +49,8 @@ Changes will be rebuilt and the page should update in sync.
 - Bootstrap for framework
   - Because it's easy :)
 - GitHub actions for CI
-- Netlify for hosting
+- [Netlify](https://www.netlify.com/) for hosting
+- [NetlifyCMS](https://www.netlifycms.org/) for content management 
 
 ## Local Netlify Dev
 - run `npx netlify-cms-proxy-server`
