@@ -1,7 +1,6 @@
 ﻿using Statiq.Common;
 using Statiq.Core;
 using System;
-using System.Diagnostics;
 using System.Linq;
 
 namespace Sedos.Pipelines

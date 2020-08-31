@@ -9,8 +9,9 @@
         @RenderBody()
     </div>
     <div class="col-md-4 news-article-details-column pt-3">
+        
         <h3>More news</h3>
-        @foreach(var article in Outputs["News"]
+            @foreach(var article in Outputs["AllNews"]
             .Where(article => Model["title"] != article["title"])
             .OrderByDescending(article => article.Get<DateTime>("date"))
             .ThenBy(article => article["title"])
@@ -18,6 +19,6 @@
         )
         {
             <a href="@Context.GetLink(article as IDocument)"><h6>@article["title"]</h6></a>
-        }*@
+        }
     </div>
 </div>

@@ -13,17 +13,11 @@ namespace Sedos.Pipelines
     {
         public News()
         {
-            Dependencies.AddRange(nameof(TopLevelNav), nameof(Footer), nameof(HeaderImages));
-
-            InputModules = new ModuleList
-            {
-                new ReadFiles("news/*.md"),
-            };
+            Dependencies.AddRange(nameof(TopLevelNav), nameof(Footer), nameof(HeaderImages), nameof(AllNews));
 
             ProcessModules = new ModuleList
             {
-                new ExtractFrontMatter(new ParseYaml()),
-                new SetDestination(".html"),
+                new ReplaceDocuments(nameof(AllNews)),
                 new RenderMarkdown()
                     .UseExtension<BootstrapExtension>()
                     .UseExtension<TargetLinkExtension>()
@@ -32,10 +26,10 @@ namespace Sedos.Pipelines
                 new ProcessShortcodes(),
 
                 new SetMetadata("image",  Config.FromDocument((doc, ctx) => HeaderImageExtensions.CopyAndResizeImageFromMeta(doc, ctx, "image", 300, 300))),
-            new SetMetadata("header-image", Config.FromDocument((doc, ctx) => HeaderImageExtensions.CopyAndResizeHeaderImage(doc,ctx))),
-         new SetMetadata("category", "news"),
-            new SetMetadata("background-override", "bg-turquoise"),
-            new RenderRazor().WithViewStart("Layout/_NewsArticleViewStart.cshtml"),
+                new SetMetadata("header-image", Config.FromDocument((doc, ctx) => HeaderImageExtensions.CopyAndResizeHeaderImage(doc,ctx))),
+                new SetMetadata("category", "news"),
+                new SetMetadata("background-override", "bg-turquoise"),
+                new RenderRazor().WithViewStart("Layout/_NewsArticleViewStart.cshtml"),
             };
 
             OutputModules = new ModuleList

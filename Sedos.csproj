@@ -17,6 +17,7 @@
 
   <ItemGroup>
     <Compile Remove="input\**" />
+    <Compile Remove="node_modules\**" />
      <Compile Remove="theme\**" />
     </ItemGroup>
 
@@ -27,6 +28,11 @@
     <None Include="theme\**">
         <CopyToOutputDirectory>Never</CopyToOutputDirectory>
     </None>
+    </ItemGroup>
+
+    <ItemGroup>
+      <EmbeddedResource Remove="node_modules\**" />
+      <None Remove="node_modules\**" />
     </ItemGroup>
 
     <ItemGroup>
