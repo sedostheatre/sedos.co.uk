@@ -9,6 +9,8 @@ namespace Minimal
     {
         public static async Task<int> Main(string[] args)
         {
+            System.Globalization.CultureInfo.DefaultThreadCurrentCulture = System.Globalization.CultureInfo.InvariantCulture;
+
             return await Bootstrapper
                 .Factory
                 .CreateDefaultWithout(args, DefaultFeatures.Pipelines)

@@ -19,6 +19,7 @@ namespace Sedos.Pipelines
                 nameof(Footer),
                 nameof(News),
                 nameof(UpcomingEvents),
+                nameof(AllShows),
                 nameof(RegularEvents));
 
             InputModules = new ModuleList

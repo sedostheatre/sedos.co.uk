@@ -35,8 +35,4 @@
       <None Remove="node_modules\**" />
     </ItemGroup>
 
-    <ItemGroup>
-      <Compile Remove="Pipelines\OldSite.cs" />
-    </ItemGroup>
-
 </Project>

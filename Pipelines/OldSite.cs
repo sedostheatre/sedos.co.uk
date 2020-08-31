@@ -1,16 +1,26 @@
-﻿using Statiq.Core;
+﻿using Statiq.Common;
+using Statiq.Core;
 
 namespace Sedos.Pipelines
 {
     public class OldSite : Pipeline
     {
+        public OldSite()
+        {
+            InputModules = new ModuleList
+            {
+                new ReadFiles("old-site/**/*.*")
+            };
 
-        // TODO
-        //  ReadFiles("old-site/**/*.*"),
-    //    Meta("RelativeFilePath", (doc, ctx) => {
-    //        var input = doc["RelativeFilePath"].ToString();
-    //        return input.Substring(input.IndexOf('/') + 1);
-    //    }),
-    //WriteFiles()z
+            ProcessModules = new ModuleList
+            {
+                new SetDestination(Config.FromDocument(d => new NormalizedPath("old-site").GetRelativePath(d.Destination)))               
+            };
+
+            OutputModules = new ModuleList
+            {
+                new WriteFiles()
+            };
+        }
     }
 }
