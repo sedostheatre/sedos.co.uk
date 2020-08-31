@@ -4,6 +4,8 @@ namespace Sedos.Pipelines
 {
     public class OldSite : Pipeline
     {
+
+        // TODO
         //  ReadFiles("old-site/**/*.*"),
     //    Meta("RelativeFilePath", (doc, ctx) => {
     //        var input = doc["RelativeFilePath"].ToString();

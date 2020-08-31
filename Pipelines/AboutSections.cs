@@ -1,26 +1,43 @@
-﻿using Statiq.Core;
+﻿using Markdig.Extensions.Bootstrap;
+using Sedos.Extensions;
+using Statiq.Common;
+using Statiq.Core;
+using Statiq.Markdown;
+using Statiq.Razor;
+using Statiq.Yaml;
 
 namespace Sedos.Pipelines
 {
     public class AboutSections : Pipeline
     {
-        
+        public AboutSections()
+        {
+            Dependencies.AddRange(nameof(HeaderImages), nameof(FallbackHeaders), nameof(TopLevelNav), nameof(Footer));
 
+            InputModules = new ModuleList
+            {
+                new ReadFiles("about/*.md")
+            };
 
-        //        Pipelines.Add("AboutSections",
-        //    ReadFiles("about/*.md"),
-        //    FrontMatter(Yaml()),
-        //    Markdown()
-        //        .UseExtension<Markdig.Extensions.Bootstrap.BootstrapExtension>()
-        //        .UseExtension<TargetLinkExtension>()
-        //        .UseExtensions(),
-        //    Meta("page-title", "About"),
-        //    ForEach(
-        //        Meta("image", (doc, ctx) => CopyAndResizeImageFromMeta(doc, ctx, "image", 600, 300))
-        //    ),
-        //    Razor().WithViewStart("Layout/_PageViewStart.cshtml"),
-        //    Shortcodes(),
-        //    WriteFiles(".html")
-        //);
+            ProcessModules = new ModuleList
+            {
+                new ExtractFrontMatter(new ParseYaml()),
+                new RenderMarkdown()
+                    .UseExtension<BootstrapExtension>()
+                    .UseExtension<TargetLinkExtension>()
+                    .UseExtensions(),
+                new SetMetadata("page-title", "About"),
+                new SetMetadata("image",  Config.FromDocument((doc, ctx) => HeaderImageExtensions.CopyAndResizeImageFromMeta(doc, ctx, "image", 600, 300))),
+                new RenderRazor()
+                    .WithViewStart("Layout/_PageViewStart.cshtml"),
+                new ProcessShortcodes(),
+                new SetDestination(".html"),
+            };
+
+            OutputModules = new ModuleList
+            {
+                new WriteFiles()
+            };
+        }
     }
 }

@@ -1,13 +1,21 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿using Statiq.Common;
+using Statiq.Core;
 
 namespace Sedos.Pipelines
 {
-    class ImageAssets
+    public class ImageAssets : Pipeline
     {
-//        Pipelines.Add("ImageAssets",
-//    CopyFiles("assets/**/*.*")
-//);
+        public ImageAssets()
+        {
+            InputModules = new ModuleList
+            {
+                new ReadFiles("assets/**/*.*")
+            };
+
+            OutputModules = new ModuleList
+            {
+                new WriteFiles()
+            };
+        }
     }
 }

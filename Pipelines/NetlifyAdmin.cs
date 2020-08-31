@@ -1,16 +1,21 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿using Statiq.Common;
+using Statiq.Core;
 
 namespace Sedos.Pipelines
 {
-    class NetlifyAdmin
+    public class NetlifyAdmin : Pipeline
     {
+        public NetlifyAdmin()
+        {
+            InputModules = new ModuleList
+            {
+                new ReadFiles("admin/**/*.*")
+            };
 
-
-//        Pipelines.Add("NetlifyAdmin",
-//    CopyFiles("admin/**/*.*")
-//);
-
+            OutputModules = new ModuleList
+            {
+                new WriteFiles()
+            };
+        }
     }
 }

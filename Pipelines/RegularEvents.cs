@@ -5,7 +5,6 @@ using Statiq.Core;
 using Statiq.Markdown;
 using Statiq.Razor;
 using Statiq.Yaml;
-using System.Runtime.InteropServices;
 
 namespace Sedos.Pipelines
 {

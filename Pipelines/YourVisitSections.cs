@@ -8,34 +8,27 @@ using Statiq.Yaml;
 
 namespace Sedos.Pipelines
 {
-    public class MarkdownPages : Pipeline
+    public class YourVisitSections : Pipeline
     {
-        public MarkdownPages()
+        public YourVisitSections()
         {
-            Dependencies.AddRange(
-                nameof(HeaderImages),
-                nameof(FallbackHeaders),
-                nameof(TopLevelNav),
-                nameof(Footer),
-                nameof(News),
-                nameof(UpcomingEvents),
-                nameof(RegularEvents));
+            Dependencies.AddRange(nameof(HeaderImages), nameof(FallbackHeaders), nameof(TopLevelNav), nameof(Footer));
 
             InputModules = new ModuleList
             {
-                new ReadFiles("*.md", "groups/*.md")
+                new ReadFiles("your-visit/*.md")
             };
 
             ProcessModules = new ModuleList
             {
                 new ExtractFrontMatter(new ParseYaml()),
-                new SetMetadata("header-image", Config.FromDocument((doc, ctx) => HeaderImageExtensions.CopyAndResizeHeaderImage(doc,ctx))),
                 new RenderMarkdown()
                     .UseExtension<BootstrapExtension>()
                     .UseExtension<TargetLinkExtension>()
                     .UseExtensions(),
+                new SetMetadata("image", Config.FromDocument((doc, ctx) => HeaderImageExtensions.CopyAndResizeImageFromMeta(doc, ctx, "image", 600, 300))),
                 new RenderRazor()
-                    .WithViewStart(Config.FromDocument("view-start", "Layout/_PageViewStart.cshtml")),
+                    .WithViewStart("Layout/_PageViewStart.cshtml"),
                 new SetDestination(".html"),
             };
 
