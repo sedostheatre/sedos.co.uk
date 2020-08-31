@@ -26,6 +26,7 @@ namespace Sedos.Pipelines
                     .UseExtension<BootstrapExtension>()
                     .UseExtension<TargetLinkExtension>()
                     .UseExtensions(),
+                new SetMetadata("page-title", "Your Visit"),
                 new SetMetadata("image", Config.FromDocument((doc, ctx) => HeaderImageExtensions.CopyAndResizeImageFromMeta(doc, ctx, "image", 600, 300))),
                 new RenderRazor()
                     .WithViewStart("Layout/_PageViewStart.cshtml"),
