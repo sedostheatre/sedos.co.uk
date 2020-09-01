@@ -30,7 +30,7 @@ namespace Sedos.Pipelines
                 new SetMetadata("sections", Config.FromDocument((doc, ctx) =>
                     Task.WhenAll(doc.Get("sections", Enumerable.Empty<IDocument>())
                         .OrderBy(d => d.Get("order", 1))
-                        .Select(d => MarkdownExtensions.ProcessMarkdownAsync(d, ctx))))), 
+                        .Select(d => MarkdownExtensions.ProcessMarkdownAsync(d, ctx))))),
                 new RenderMarkdown()
                     .UseExtension<BootstrapExtension>()
                     .UseExtension<TargetLinkExtension>()

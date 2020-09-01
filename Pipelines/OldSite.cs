@@ -14,7 +14,7 @@ namespace Sedos.Pipelines
 
             ProcessModules = new ModuleList
             {
-                new SetDestination(Config.FromDocument(d => new NormalizedPath("old-site").GetRelativePath(d.Destination)))               
+                new SetDestination(Config.FromDocument(d => new NormalizedPath("old-site").GetRelativePath(d.Destination)))
             };
 
             OutputModules = new ModuleList

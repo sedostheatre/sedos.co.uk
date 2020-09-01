@@ -1,7 +1,7 @@
-using System.Threading.Tasks;
 using Statiq.App;
 using Statiq.Common;
 using Statiq.Web;
+using System.Threading.Tasks;
 
 namespace Minimal
 {
