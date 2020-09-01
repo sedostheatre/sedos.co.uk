@@ -1,9 +1,7 @@
-﻿using Markdig.Extensions.Bootstrap;
-using Sedos.Extensions;
+﻿using Sedos.Extensions;
 using Statiq.Common;
 using Statiq.Core;
 using Statiq.Html;
-using Statiq.Markdown;
 using Statiq.Razor;
 using Statiq.Yaml;
 
@@ -24,10 +22,7 @@ namespace Sedos.Pipelines
             {
                 new ExtractFrontMatter(new ParseYaml()),
                 new SetDestination(".html"),
-                new RenderMarkdown()
-                    .UseExtension<BootstrapExtension>()
-                    .UseExtension<TargetLinkExtension>()
-                    .UseExtensions(),
+                MarkdownExtensions.MarkdownRenderer(),
                 new GenerateExcerpt().WithOuterHtml(false),
                 new ProcessShortcodes(),
 

@@ -1,9 +1,7 @@
-﻿using Markdig.Extensions.Bootstrap;
-using Sedos.Extensions;
+﻿using Sedos.Extensions;
 using Statiq.Common;
 using Statiq.Core;
 using Statiq.Html;
-using Statiq.Markdown;
 using Statiq.Razor;
 
 namespace Sedos.Pipelines
@@ -17,10 +15,7 @@ namespace Sedos.Pipelines
             ProcessModules = new ModuleList
             {
                 new ReplaceDocuments(nameof(AllNews)),
-                new RenderMarkdown()
-                    .UseExtension<BootstrapExtension>()
-                    .UseExtension<TargetLinkExtension>()
-                    .UseExtensions(),
+                MarkdownExtensions.MarkdownRenderer(),
                 new GenerateExcerpt().WithOuterHtml(false),
                 new ProcessShortcodes(),
 

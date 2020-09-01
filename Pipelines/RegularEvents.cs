@@ -1,8 +1,6 @@
-﻿using Markdig.Extensions.Bootstrap;
-using Sedos.Extensions;
+﻿using Sedos.Extensions;
 using Statiq.Common;
 using Statiq.Core;
-using Statiq.Markdown;
 using Statiq.Razor;
 using Statiq.Yaml;
 
@@ -22,15 +20,12 @@ namespace Sedos.Pipelines
             ProcessModules = new ModuleList
             {
                 new ExtractFrontMatter(new ParseYaml()),
-                new RenderMarkdown()
-                    .UseExtension<BootstrapExtension>()
-                    .UseExtension<TargetLinkExtension>()
-                    .UseExtensions(),
-               new SetMetadata("header-image", Config.FromDocument((doc, ctx) => HeaderImageExtensions.CopyAndResizeHeaderImage(doc,ctx))),
-               new SetMetadata("image",  Config.FromDocument((doc, ctx) => HeaderImageExtensions.CopyAndResizeImageFromMeta(doc, ctx, "image", 300, 300))),
-               new SetMetadata("page-title", "Regular Events"),
-               new SetMetadata("background-override", "bg-purple"),
-               new RenderRazor()
+                MarkdownExtensions.MarkdownRenderer(),
+                new SetMetadata("header-image", Config.FromDocument((doc, ctx) => HeaderImageExtensions.CopyAndResizeHeaderImage(doc,ctx))),
+                new SetMetadata("image",  Config.FromDocument((doc, ctx) => HeaderImageExtensions.CopyAndResizeImageFromMeta(doc, ctx, "image", 300, 300))),
+                new SetMetadata("page-title", "Regular Events"),
+                new SetMetadata("background-override", "bg-purple"),
+                new RenderRazor()
                     .WithViewStart("Layout/_EventViewStart.cshtml"),
                 new SetDestination(".html"),
             };

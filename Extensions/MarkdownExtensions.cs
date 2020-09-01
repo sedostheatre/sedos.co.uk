@@ -19,5 +19,13 @@ namespace Sedos.Extensions
                 );
             return documents.FirstOrDefault();
         }
+
+        public static IModule MarkdownRenderer()
+        {
+            return new RenderMarkdown()
+                 .UseExtension<Markdig.Extensions.Bootstrap.BootstrapExtension>()
+                 .UseExtension<TargetLinkExtension>()
+                 .UseExtensions();
+        }
     }
 }

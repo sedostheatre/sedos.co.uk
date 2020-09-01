@@ -1,8 +1,6 @@
-﻿using Markdig.Extensions.Bootstrap;
-using Sedos.Extensions;
+﻿using Sedos.Extensions;
 using Statiq.Common;
 using Statiq.Core;
-using Statiq.Markdown;
 using Statiq.Razor;
 using Statiq.Yaml;
 using System.Linq;
@@ -31,10 +29,7 @@ namespace Sedos.Pipelines
                     Task.WhenAll(doc.Get("sections", Enumerable.Empty<IDocument>())
                         .OrderBy(d => d.Get("order", 1))
                         .Select(d => MarkdownExtensions.ProcessMarkdownAsync(d, ctx))))),
-                new RenderMarkdown()
-                    .UseExtension<BootstrapExtension>()
-                    .UseExtension<TargetLinkExtension>()
-                    .UseExtensions(),
+                MarkdownExtensions.MarkdownRenderer(),
                 new RenderRazor()
                     .WithViewStart("Layout/_ShowViewStart.cshtml"),
                 new ProcessShortcodes(),
