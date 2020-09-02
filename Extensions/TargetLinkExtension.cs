@@ -1,4 +1,4 @@
-﻿using Markdig;
+using Markdig;
 using Markdig.Renderers;
 using Markdig.Renderers.Html;
 using Markdig.Renderers.Html.Inlines;
@@ -35,9 +35,8 @@ namespace Sedos.Extensions
                 return false;
             }
 
-            Uri uri;
             // Only process absolute Uri
-            if (!Uri.TryCreate(linkInline.Url, UriKind.RelativeOrAbsolute, out uri) || !uri.IsAbsoluteUri)
+            if (!Uri.TryCreate(linkInline.Url, UriKind.RelativeOrAbsolute, out Uri uri) || !uri.IsAbsoluteUri)
             {
                 return false;
             }
