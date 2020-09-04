@@ -42,7 +42,7 @@ Changes will be rebuilt and the page should update in sync.
 
 - Statiq as a static site generator
   - Very flexible, allows a lot of configuration and supports nice templating languages (e.g. razor)
-  - Statiq is the evolution of Wyam, and splits out the build chain into seperate files
+  - Statiq is the evolution of Wyam, and splits out the build chain into separate files
 - Cake as a build tool
   - Makes it easy to get up and running, doesn't need any special tools and handles bootstrapping itself
 - Sass for styling
