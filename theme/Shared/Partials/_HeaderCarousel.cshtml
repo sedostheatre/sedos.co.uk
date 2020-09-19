@@ -1,16 +1,15 @@
-@using Statiq.Common;
-
 @model IDocument
 
 @{
 
     var headerImage = Model.Get<IDocument>("header-image", null)
-        ?? Outputs["HeaderImages"]
+        ?? Documents["HeaderImages"]
             .Where(d => d.Get("key", "") == Model.Get<string>("category", null))
             .Select(d => d.Get<IDocument>("image", null))
             .FirstOrDefault()
-        ?? Outputs["FallbackHeaders"].ToList().First();
+        ?? Documents["FallbackHeaders"].ToList().First();
 }
+
 <!--  TODO QQ this shouldn't be a carousel anymore -->
 <div class="header-carousel-narrow">
     <div class="carousel slide" data-ride="carousel">

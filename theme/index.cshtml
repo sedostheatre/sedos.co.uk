@@ -1,17 +1,16 @@
 ---
 float-nav: true
-title: Sedos
 ---
 
 <div class="header-carousel">
     <div class="carousel slide" data-ride="carousel" id="hero-carousel">
         @{
-            var upcomingShows = Outputs["AllShows"]
+            var upcomingShows = Documents["AllShows"]
                     .Where(doc =>  doc.Get<IEnumerable<IDocument>>("showtimes").Any(time => time.Get<DateTime>("time") > DateTime.Now))
                     .OrderBy(doc => doc.Get<IEnumerable<IDocument>>("showtimes").Select(time => time.Get<DateTime>("time")).First())
                     .Take(3);
 
-            var showOnHomePageShows = Outputs["AllShows"]
+            var showOnHomePageShows = Documents["AllShows"]
                     .Where(doc => !doc.Get<IEnumerable<IDocument>>("showtimes").Any(time => time.Get<DateTime>("time") > DateTime.Now))
                     .Where(doc => doc.Get("show-on-homepage", false))
                     .OrderBy(doc => doc.Get("order-on-homepage", 1))
@@ -66,7 +65,7 @@ title: Sedos
         <div class="row">
             <div class="event-card-container d-none d-md-block col-md-3">
                 @{
-                    foreach(var eventItem in Outputs["RegularEvents"].OrderBy(i => i["title"]).Take(3))
+                    foreach(var eventItem in Documents["RegularEvents"].OrderBy(i => i["title"]).Take(3))
                     {
                         <div class="card mb-3 border-0 regular-event-card">
                             <a href="@Context.GetLink(eventItem)">
@@ -80,7 +79,7 @@ title: Sedos
                 }
             </div>
             @{
-                foreach(var eventItem in Outputs["UpcomingEvents"].Take(3))
+                foreach(var eventItem in Documents["UpcomingEvents"].Take(3))
                 {
                     Html.RenderPartial("Partials/_EventCard", @eventItem);
                 }
@@ -88,7 +87,7 @@ title: Sedos
 
             <div class="event-card-container d-block d-md-none col-md-3">
                 @{
-                    foreach(var eventItem in Outputs["RegularEvents"].OrderBy(i => i["title"]).Take(3))
+                    foreach(var eventItem in Documents["RegularEvents"].OrderBy(i => i["title"]).Take(3))
                     {
                         <div class="card mb-3 border-0 regular-event-card">
                             <a href="@Context.GetLink(eventItem)">
@@ -114,11 +113,11 @@ title: Sedos
     <div class="container">
         <div class="row">
         @{
-            var latestNews = Outputs["News"]
+            var latestNews = Documents["News"]
                 .OrderByDescending(newsArticle => newsArticle.Get<DateTime>("date"))
                 .ThenBy(newsArticle => newsArticle.Get<String>("title"))
                 .Take(4);
-            foreach (var article in latestNews)
+            foreach(var article in latestNews)
             {
                 Html.RenderPartial("Partials/_NewsCard", @article);
             }

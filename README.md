@@ -1,6 +1,6 @@
 # Sedos
 
-The new site for [Sedos](https://www.sedos.co.uk), built using Statiq.
+The new site for [Sedos](https://www.sedos.co.uk), built using Wyam.
 
 ## Developing
 
@@ -14,7 +14,7 @@ build.ps1 -Target Preview
 ### Mac / Linux
 
 #### Pre-requisites
-.NET Core 2.1 is required - installers and binaries are available on the [official download page](https://dotnet.microsoft.com/download/dotnet-core/2.1)
+.NET Core 2.1 is required - installers and binaries are available on the [official download page](https://dotnet.microsoft.com/download/dotnet-core/2.1) 
 
 #### Run
 ```shell
@@ -40,18 +40,17 @@ Changes will be rebuilt and the page should update in sync.
 
 ## Tech stack/design choices
 
-- Statiq as a static site generator
+- Wyam as a static site generator
   - Very flexible, allows a lot of configuration and supports nice templating languages (e.g. razor)
-  - Statiq is the evolution of Wyam, and splits out the build chain into separate files
 - Cake as a build tool
   - Makes it easy to get up and running, doesn't need any special tools and handles bootstrapping itself
 - Sass for styling
-  - Supported by Statiq, nice syntax to work with
+  - Supported by wyam, nice syntax to work with
 - Bootstrap for framework
   - Because it's easy :)
 - GitHub actions for CI
 - [Netlify](https://www.netlify.com/) for hosting
-- [NetlifyCMS](https://www.netlifycms.org/) for content management
+- [NetlifyCMS](https://www.netlifycms.org/) for content management 
 
 ## Local Netlify Dev
 - run `npx netlify-cms-proxy-server`

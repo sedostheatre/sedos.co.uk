@@ -14,11 +14,11 @@
     <div class="upcoming-shows-section">
         <div>
             @{
-                var upcomingShows = Outputs["AllShows"]
+                var upcomingShows = Documents["AllShows"]
                     .Where(doc =>  doc.Get<IEnumerable<IDocument>>("showtimes").Any(time => time.Get<DateTime>("time") > DateTime.Now))
                     .OrderBy(doc => doc.Get<IEnumerable<IDocument>>("showtimes").Select(time => time.Get<DateTime>("time")).First());
 
-                var showOnHomePageShows = Outputs["AllShows"]
+                var showOnHomePageShows = Documents["AllShows"]
                         .Where(doc => !doc.Get<IEnumerable<IDocument>>("showtimes").Any(time => time.Get<DateTime>("time") > DateTime.Now))
                         .Where(doc => doc.Get("show-on-homepage", false))
                         .OrderBy(doc => doc.Get("order-on-homepage", 1));

@@ -1,9 +1,8 @@
-@using Statiq.Common;
-@model IDocument
-
 @{
     Layout = "_Default";
 }
+
+@model IDocument
 
 <div class="show-page-header">
     @Html.Partial("Partials/_ShowHeader", Model)
@@ -18,7 +17,7 @@
                         <a class="nav-link active show-details-nav-header" id="details-tab" data-toggle="tab" href="#details" role="tab" aria-controls="details" aria-expanded="false">Details</a>
                     </li>
                     @{
-                        foreach (var document in Model.Get("sections", Enumerable.Empty<IDocument>()))
+                        foreach(var document in Model.Get("sections", Enumerable.Empty<IDocument>()))
                         {
                             <li class="nav-item">
                                 <a class="nav-link show-details-nav-header" id="@document["title"]-tab" data-toggle="tab" href="#@document["title"]" role="tab" aria-controls="@document["title"]" aria-expanded="false">@document["title"]</a>
@@ -33,7 +32,7 @@
                         </p>
                     </div>
                     @{
-                        foreach (var document in Model.Get("sections", Enumerable.Empty<IDocument>()))
+                        foreach(var document in Model.Get("sections", Enumerable.Empty<IDocument>()))
                         {
                             <div class="tab-pane fade" id="@document["title"]" role="tabpanel" aria-labelledby="@document["title"]-tab" aria-expanded="true">
                                 <div class="pt-3">
@@ -46,10 +45,10 @@
             </div>
             <div class="col-md-4 pt-3 show-timings-column">
                 @{
-                    if (Model.ContainsKey("venue"))
+                    if(Model.ContainsKey("venue"))
                     {
-                        var venue = Outputs["Venues"].FirstOrDefault(x => x["key"].ToString().Equals(Model["venue"].ToString()));
-                        if (venue != null)
+                        var venue = Documents["Venues"].FirstOrDefault(x => x["key"].ToString().Equals(Model["venue"].ToString()));
+                        if(venue != null)
                         {
                             <h4><a href="@Context.GetLink(venue)">@venue["name"]</a></h4>
                         }
@@ -62,16 +61,16 @@
                 <h4>@Model.Get("ticket-prices")</h4>
                 @{
                     var showDates = Model.Get("showtimes", Enumerable.Empty<IDocument>()).Select(x => x.Get<DateTime>("time")).OrderBy(x => x);
-                    if (showDates.Any())
+                    if(showDates.Any())
                     {
                         <ul>
-                            @foreach (var showDate in showDates.Select(x => x.ToString("dddd d MMMM yyyy h.mm") + x.ToString("tt").ToLower()))
+                            @foreach(var showDate in showDates.Select(x => x.ToString("dddd d MMMM yyyy h.mm") + x.ToString("tt").ToLower()))
                             {
                                 <li>@showDate</li>
                             }
                         </ul>
 
-                        if (showDates.Any(x => x > DateTime.Now) && Model.Get("box-office-open", false))
+                        if(showDates.Any(x => x > DateTime.Now) && Model.Get("box-office-open", false))
                         {
                             <button class="btn btn-sedos-blue">Book tickets</button>
                         }

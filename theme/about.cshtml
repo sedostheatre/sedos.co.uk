@@ -7,7 +7,7 @@ header-image: assets/images/headers/macbeth.jpg
     @{
         Html.RenderPartial("Partials/_HeaderCarousel");
 
-        var sectionRows = Outputs["AboutSections"]
+        var sectionRows = Documents["AboutSections"]
             .GroupBy(section => section.Get<int>("row"))
             .OrderBy(grouping => grouping.Key);
     }
