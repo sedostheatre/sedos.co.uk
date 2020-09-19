@@ -11,17 +11,17 @@ namespace Sedos.Extensions
     {
         public static async Task<IDocument> CopyAndResizeHeaderImage(IDocument doc, IExecutionContext ctx)
         {
-            return await CopyAndResizeImageFromMeta(doc, ctx, "header-image", 1280, null);
+            return await CopyAndResizeImageFromMeta(doc, ctx, "header-image", 1280, null, ResizeMode.Pad);
         }
 
-        public static async Task<IDocument> CopyAndResizeImageFromMeta(IDocument doc, IExecutionContext ctx, string fieldName, int? width, int? height, ResizeMode resizeMode = ResizeMode.BoxPad)
+        public static async Task<IDocument> CopyAndResizeImageFromMeta(IDocument doc, IExecutionContext ctx, string fieldName, int? width, int? height, ResizeMode resizeMode = ResizeMode.Min)
         {
             var fileName = doc.Get<string>(fieldName).TrimIfStartsWith("/");
             return string.IsNullOrWhiteSpace(fileName) ? null :
                 await CopyAndResizeImageFromFile(doc, ctx, fileName, width, height);
         }
 
-        public static async Task<IDocument> CopyAndResizeImageFromFile(IDocument doc, IExecutionContext ctx, string filename, int? width, int? height, ResizeMode resizeMode = ResizeMode.BoxPad)
+        public static async Task<IDocument> CopyAndResizeImageFromFile(IDocument doc, IExecutionContext ctx, string filename, int? width, int? height, ResizeMode resizeMode = ResizeMode.Min)
         {
             var documents = await ctx.ExecuteModulesAsync(
                 new ModuleList
