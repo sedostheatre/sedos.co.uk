@@ -1,6 +1,3 @@
-#tool nuget:?package=Wyam&version=2.2.9
-#addin nuget:?package=Cake.Wyam&version=2.2.9
-
 var target = Argument("target", "Default");
 var releaseDir = Directory("./release");
 
@@ -17,23 +14,14 @@ Task("Build")
     .IsDependentOn("InstallBootstrap")
     .Does(() =>
     {
-        Wyam(new WyamSettings
-        {
-            UpdatePackages = true,
-            UseLocalPackages = true
-        });
+        DotNetCoreRun("./Sedos.csproj");
     });
 
 Task("Preview")
     .IsDependentOn("InstallBootstrap")
     .Does(() =>
     {
-        Wyam(new WyamSettings
-        {
-            UpdatePackages = false,
-            Preview = true,
-            Watch = true
-        });
+        DotNetCoreRun("./Sedos.csproj", "preview");
     });
 
 Task("Default")

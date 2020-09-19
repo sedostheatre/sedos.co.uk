@@ -9,7 +9,7 @@
     @{Html.RenderPartial("Partials/_HeaderCarousel");}
 
     @{
-        var news = Documents["News"]
+        var news = Outputs["News"]
             .OrderByDescending(article => article.Get<DateTime>("date"))
             .ThenBy(article => article.Get<String>("title"))
             .GroupBy(article => article.Get<DateTime>("date").Year)

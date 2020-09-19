@@ -1,7 +1,7 @@
 {
   "name": "sedos.co.uk",
   "version": "1.0.0",
-  "description": "The new site for https://www.sedos.co.uk, built using Wyam.",
+  "description": "The new site for https://www.sedos.co.uk, built using Statiq.",
   "devDependencies": {
     "cypress": "4.9.0",
     "serve": "11.3.2"
