@@ -18,7 +18,7 @@ namespace Sedos.Extensions
         {
             var fileName = doc.Get<string>(fieldName).TrimIfStartsWith("/");
             return string.IsNullOrWhiteSpace(fileName) ? null :
-                await CopyAndResizeImageFromFile(doc, ctx, fileName, width, height);
+                await CopyAndResizeImageFromFile(doc, ctx, fileName, width, height, resizeMode);
         }
 
         public static async Task<IDocument> CopyAndResizeImageFromFile(IDocument doc, IExecutionContext ctx, string filename, int? width, int? height, ResizeMode resizeMode = ResizeMode.Min)
