@@ -9,7 +9,14 @@ namespace Sedos.Pipelines
         {
             InputModules = new ModuleList
             {
-                new ReadFiles("assets/**/*.*")
+                new ReadFiles(
+                    "assets/**/*.jpg",
+                    "assets/**/*.gif",
+                    "assets/**/*.png",
+                    "assets/**/*.pdf",
+                    "assets/**/*.svg",
+                    "assets/**/*.jpeg"
+                )
             };
 
             OutputModules = new ModuleList
