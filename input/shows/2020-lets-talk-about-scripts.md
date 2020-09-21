@@ -17,7 +17,7 @@ showtimes:
   - time: 2020-11-26 20:30
   - time: 2020-12-03 20:30
 showtime-summary: Thursdays at 8.30pm via Zoom
-show-on-homepage: false
+show-on-homepage: true
 order-on-homepage: 1
 venue: Online via Zoom
 ticket-prices: Free
