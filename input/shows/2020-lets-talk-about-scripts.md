@@ -18,7 +18,7 @@ showtimes:
   - time: 2020-12-03 20:30
 showtime-summary: Thursdays at 8.30pm via Zoom
 show-on-homepage: false
-order-on-homepage: ""
+order-on-homepage: 1
 venue: Online via Zoom
 ticket-prices: Free
 header-image: /assets/play-reading-landscape.jpg
