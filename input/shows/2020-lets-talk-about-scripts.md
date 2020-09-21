@@ -17,8 +17,8 @@ showtimes:
   - time: 2020-11-26 20:30
   - time: 2020-12-03 20:30
 showtime-summary: ""
-show-on-homepage: false
-order-on-homepage: ""
+show-on-homepage: true
+order-on-homepage: 1
 venue: Online via Zoom
 ticket-prices: Free
 header-image: /assets/play-reading-landscape.jpg
