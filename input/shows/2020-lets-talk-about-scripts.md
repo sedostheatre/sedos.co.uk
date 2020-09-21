@@ -4,7 +4,7 @@ year: "2020"
 authors: A series of weekly online play readings
 authors2: Show announced in Friday's newsletter
 authors3: Sign up by Sunday afternoon
-subtitle: Performance Thursday at 8.30pm
+subtitle: Performance following Thursday at 8.30pm
 showtimes:
   - time: 2020-10-01 20:30
   - time: 2020-10-08 20:30
