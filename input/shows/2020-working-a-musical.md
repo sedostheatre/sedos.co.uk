@@ -8,7 +8,7 @@ subtitle: ""
 showtimes: []
 showtime-summary: THIS SHOW HAS BEEN POSTPONED
 show-on-homepage: true
-order-on-homepage: 4
+order-on-homepage: 3
 venue: Bridewell Theatre
 primary-color: "#000000"
 header-image: /assets/working-skyline.jpg
