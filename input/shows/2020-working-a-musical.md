@@ -5,7 +5,8 @@ authors: Adapted by NINA FASO and STEPHEN SCHWARTZ
 authors2: With additional contributions by GORDON GREENBERG
 authors3: From the book by STUDS TURKEL
 subtitle: ""
-showtimes: []
+showtimes:
+  - time: 2021-05-12 19:30
 showtime-summary: THIS SHOW HAS BEEN POSTPONED
 show-on-homepage: true
 order-on-homepage: 3
