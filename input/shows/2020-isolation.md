@@ -7,7 +7,7 @@ showtimes:
   - time: 2020-03-20 14:30
 showtime-summary: Online during lockdown
 show-on-homepage: false
-order-on-homepage: 2
+order-on-homepage: ""
 venue: ""
 ticket-prices: Isolation videos will be released throughout lockdown.
 primary-color: "#19346b"
