@@ -7,7 +7,7 @@ authors3: ""
 subtitle: A riotous reworking of Hamlet
 showtimes: []
 showtime-summary: THIS SHOW HAS BEEN POSTPONED
-show-on-homepage: false
+show-on-homepage: true
 order-on-homepage: ""
 venue: Bridewell Theatre
 primary-color: "#b21b60"
