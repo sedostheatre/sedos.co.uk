@@ -2,7 +2,7 @@
 title: Let's Talk About Scripts
 year: "2020"
 authors: A series of weekly online play readings
-authors2: Show announced in Friday newsletter
+authors2: Show announced in Friday's newsletter
 authors3: Sign up by Sunday afternoon
 subtitle: Performance Thursday at 8.30pm
 showtimes:
