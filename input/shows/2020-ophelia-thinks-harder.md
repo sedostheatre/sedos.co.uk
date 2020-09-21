@@ -8,7 +8,7 @@ subtitle: A riotous reworking of Hamlet
 showtimes: []
 showtime-summary: THIS SHOW HAS BEEN POSTPONED
 show-on-homepage: true
-order-on-homepage: 3
+order-on-homepage: 2
 venue: Bridewell Theatre
 primary-color: "#b21b60"
 header-image: /assets/ophelia-thinks-harder-landscape.jpg
