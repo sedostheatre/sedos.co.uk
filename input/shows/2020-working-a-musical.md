@@ -7,8 +7,8 @@ authors3: From the book by STUDS TURKEL
 subtitle: ""
 showtimes: []
 showtime-summary: THIS SHOW HAS BEEN POSTPONED
-show-on-homepage: true
-order-on-homepage: 3
+show-on-homepage: false
+order-on-homepage: ""
 venue: Bridewell Theatre
 primary-color: "#000000"
 header-image: /assets/working-skyline.jpg
