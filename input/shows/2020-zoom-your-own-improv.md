@@ -3,10 +3,11 @@ title: Zoom... Your Own Improv!
 year: "2020"
 authors: By Sedos' improv group Banana Hut Gang
 subtitle: A virtual improv show live from isolation!
-showtimes: []
+showtimes:
+  - time: 2020-08-04 20:30
 showtime-summary: Wednesdays at 8.30pm
-show-on-homepage: true
-order-on-homepage: 2
+show-on-homepage: false
+order-on-homepage: -2
 venue: Online via Zoom
 ticket-prices: ""
 primary-color: "#ca67a8"
@@ -62,7 +63,7 @@ sections:
 RedirectFrom:
   - whatson/simprov.htm
 ---
-**Following their stirling efforts over the past few months, the Banana Hut Gang are taking a break from performing for a little bit.** 
+**Following their stirling efforts during lockdown, the Banana Hut Gang are taking a break from performing for a little bit.** 
 
 If you don't know how you'll cope without them, all their Zoom and some of their 'before-times' shows can be seen on their [YouTube channel](https://sedos.co.uk/events/[https://www.youtube.com/%E2%80%8Bchannel/%E2%80%8BUC2gp5U6JvDumjMpCSqntSdA%5D(https://www.youtube.com/channel/UC2gp5U6JvDumjMpCSqntSdA)).
 
