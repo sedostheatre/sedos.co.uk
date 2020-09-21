@@ -42,7 +42,7 @@ While we can't guarantee a role to everyone who applies, we will aim to be fair 
 
 The first reading will take place on 1 October, and the play will be announced next week. For those who are super-keen, though, applications are already open. Here's what you need to do:
 
-* Fill in the application form at <https://forms.gle/​qFLiK1M1Gb7ZZByr9> (note that you will need to edit your responses each week so we know you are keen and available).
+* Fill in the application form at [](https://forms.gle/​qFLiK1M1Gb7ZZByr9)<https://forms.gle/qFLiK1M1Gb7ZZByr9> (note that you will need to edit your responses each week so we know you are keen and available).
 * Send a short, filmed reading of a monologue (maximum of 2 minutes) to [readings@sedos.co.uk](http://r20.rs6.net/tn.jsp?f=001o3_SP7cheDBeX4G67bw5hStGYdO5HvXB0ptJeSKsbxaq5E55SoDoQ-rS2p0ZTbHyTW5G3dWcbdYQs9CRJ7bWSKaADV1Az8MQxK7e3mN8JcgXAAkYtD7lWac5czQ2aAU_5Z_5aADKW2FwgLcsfQUyWZW2ni6Qo8-pRuagxYZ8MCFhVv_L845pQw==&c=u5ghrGBx3MSJeIZDXOYVy5dH45VZCqqHHeHRNrVbUD3GhFp17VMnMg==&ch=KlhiVUVN7kiiGS2tXNwAXhSAgzx3UfswgOg6BljoMg-o9AhuTX91Ig==) via WeTransfer (you only need to do this the first time you apply).
 
 Simple! If you have any questions, please email Matt Bentley at [readings@sedos.co.uk](http://r20.rs6.net/tn.jsp?f=001o3_SP7cheDBeX4G67bw5hStGYdO5HvXB0ptJeSKsbxaq5E55SoDoQ-rS2p0ZTbHyTW5G3dWcbdYQs9CRJ7bWSKaADV1Az8MQxK7e3mN8JcgXAAkYtD7lWac5czQ2aAU_5Z_5aADKW2FwgLcsfQUyWZW2ni6Qo8-pRuagxYZ8MCFhVv_L845pQw==&c=u5ghrGBx3MSJeIZDXOYVy5dH45VZCqqHHeHRNrVbUD3GhFp17VMnMg==&ch=KlhiVUVN7kiiGS2tXNwAXhSAgzx3UfswgOg6BljoMg-o9AhuTX91Ig==). We look forward to seeing you online soon.
