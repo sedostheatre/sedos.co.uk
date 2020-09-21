@@ -7,7 +7,7 @@ showtimes:
   - time: 2020-08-04 20:30
 showtime-summary: Wednesdays at 8.30pm
 show-on-homepage: false
-order-on-homepage: -2
+order-on-homepage: ""
 venue: Online via Zoom
 ticket-prices: ""
 primary-color: "#ca67a8"
