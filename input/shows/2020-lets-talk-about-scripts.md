@@ -2,9 +2,9 @@
 title: Let's Talk About Scripts
 year: "2020"
 authors: A series of weekly online play readings
-authors2: Shows announced in the Friday newsletter
-authors3: Sign up by Sunday afternoon
-subtitle: Shows rehearsed and performed Thursdays at 8.30pm
+authors2: ""
+authors3: Show announced in Fri newsletter; sign up by Sund afternoon
+subtitle: Shows performed Thu at 8.30pm
 showtimes:
   - time: 2020-10-01 20:30
   - time: 2020-10-08 20:30
