@@ -1,7 +1,7 @@
 ---
 title: Let's Talk About Scripts
 year: "2020"
-authors: A series of weekly online play readings, starting this October
+authors: A series of weekly online play readings
 authors2: Shows announced in the Friday newsletter
 authors3: Sign up by Sunday afternoon
 subtitle: Shows rehearsed and performed Thursdays at 8.30pm
