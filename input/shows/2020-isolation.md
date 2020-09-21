@@ -5,7 +5,6 @@ authors2: By Sedos members
 subtitle: The show must go on!
 showtimes:
   - time: 2020-03-20 14:30
-  - time: 2020-06-05 14:30
 showtime-summary: Online during lockdown
 show-on-homepage: false
 order-on-homepage: 2
