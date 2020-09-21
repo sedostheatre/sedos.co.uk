@@ -2,9 +2,9 @@
 title: Let's Talk About Scripts
 year: "2020"
 authors: A series of weekly online play readings
-authors2: ""
-authors3: Show announced in Fri newsletter; sign up by Sund afternoon
-subtitle: Shows performed Thu at 8.30pm
+authors2: Show announced in Friday newsletter
+authors3: Sign up by Sunday afternoon
+subtitle: Performance Thursday at 8.30pm
 showtimes:
   - time: 2020-10-01 20:30
   - time: 2020-10-08 20:30
@@ -16,7 +16,7 @@ showtimes:
   - time: 2020-11-19 20:30
   - time: 2020-11-26 20:30
   - time: 2020-12-03 20:30
-showtime-summary: Thursdays at 8.30pm via Zoom
+showtime-summary: ""
 show-on-homepage: true
 order-on-homepage: 1
 venue: Online via Zoom
