@@ -1,11 +1,11 @@
 @{
-    var footerModel = Outputs["Footer"].Single();
+    var footerModel = Outputs.FromPipeline("Footer").Single();
 }
 
 <footer class="footer-container">
     <div class="container">
         <div class="row justify-content-between">
-            @foreach(var link in footerModel.Get<IEnumerable<IDocument>>("external-links"))
+            @foreach (var link in footerModel.Get<IEnumerable<IDocument>>("external-links"))
             {
                 <div class="col-auto">
                     <a href="@link["url"]" aria-label="@link["name"]" target="_blank">
@@ -14,7 +14,7 @@
                 </div>
             }
             <div class="col-auto">
-                @foreach(var link in footerModel.Get<IEnumerable<IDocument>>("internal-links"))
+                @foreach (var link in footerModel.Get<IEnumerable<IDocument>>("internal-links"))
                 {
                     <div>
                         <a href="@link["url"]" class="text-sedos-blue navigation-link">@link["name"]</a>
@@ -24,7 +24,7 @@
             <div class="col-auto">
                 <div class="pull-right">
                     <ul class="social-icons">
-                        @foreach(var social in footerModel.Get<IEnumerable<IDocument>>("social-links"))
+                        @foreach (var social in footerModel.Get<IEnumerable<IDocument>>("social-links"))
                         {
                             <li>
                                 <a href="@social["url"]" aria-label="@social["name"]" target="_blank">
@@ -37,12 +37,12 @@
             </div>
         </div>
         <div class="row pt-3 justify-content-center">
-            @foreach(var link in footerModel.Get<IEnumerable<IDocument>>("second-row"))
+            @foreach (var link in footerModel.Get<IEnumerable<IDocument>>("second-row"))
             {
                 <div class="col-auto">
-                    @if(link.ContainsKey("url"))
+                    @if (link.ContainsKey("url"))
                     {
-                       <small>
+                        <small>
                             <a class="text-dark" href="@link["url"]">@link["name"]</a>
                         </small>
                     }
@@ -64,9 +64,9 @@
         window.netlifyIdentity.on("init", user => {
             if (!user) {
                 window.netlifyIdentity.on("login", () => {
-                document.location.href = "/admin/";
-            });
-        }
+                    document.location.href = "/admin/";
+                });
+            }
         });
     }
 </script>

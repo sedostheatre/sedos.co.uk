@@ -7,7 +7,7 @@ header-image: assets/images/headers/SedosWebsite-Banner-1.jpg
     @{
         Html.RenderPartial("Partials/_HeaderCarousel");
 
-        var sectionRows = Outputs["YourVisitSections"]
+        var sectionRows = Outputs.FromPipeline("YourVisitSections")
             .GroupBy(section => section.Get<int>("row"))
             .OrderBy(grouping => grouping.Key);
     }
