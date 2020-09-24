@@ -7,6 +7,8 @@ namespace Sedos.Pipelines
     {
         public OldSite()
         {
+            Isolated = true;
+
             InputModules = new ModuleList
             {
                 new ReadFiles("old-site/**/*.*")
