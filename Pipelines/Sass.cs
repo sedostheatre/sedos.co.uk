@@ -8,6 +8,8 @@ namespace Sedos.Pipelines
     {
         public Sass()
         {
+            Isolated = true;
+
             InputModules = new ModuleList
             {
                 new ReadFiles("assets/css/main.scss")
