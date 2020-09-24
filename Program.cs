@@ -17,7 +17,8 @@ namespace Minimal
                 .AddHostingCommands()
                 .ConfigureEngine(engine => engine.FileSystem.InputPaths.Add("theme"))
                 .AddSetting("title", "Sedos")
-                .AddSetting(Keys.Host, "https://sedos.co.uk")
+                .AddSetting(Keys.Host, "sedos.co.uk")
+                .AddSetting(Keys.LinksUseHttps, true)
                 .AddPipelines(typeof(Program).Assembly)
                 .RunAsync();
         }
