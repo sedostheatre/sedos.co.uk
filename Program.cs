@@ -1,6 +1,7 @@
 using Statiq.App;
 using Statiq.Common;
 using Statiq.Web;
+using System.Globalization;
 using System.Threading.Tasks;
 
 namespace Minimal
@@ -9,7 +10,7 @@ namespace Minimal
     {
         public static async Task<int> Main(string[] args)
         {
-            System.Globalization.CultureInfo.DefaultThreadCurrentCulture = System.Globalization.CultureInfo.InvariantCulture;
+            CultureInfo.DefaultThreadCurrentCulture = CultureInfo.InvariantCulture;
 
             return await Bootstrapper
                 .Factory
@@ -18,6 +19,7 @@ namespace Minimal
                 .ConfigureEngine(engine => engine.FileSystem.InputPaths.Add("theme"))
                 .AddSetting("title", "Sedos")
                 .AddSetting(Keys.Host, "sedos.co.uk")
+                .AddSetting(Keys.DateTimeDisplayCulture, CultureInfo.InvariantCulture)
                 .AddSetting(Keys.LinksUseHttps, true)
                 .AddPipelines(typeof(Program).Assembly)
                 .RunAsync();
