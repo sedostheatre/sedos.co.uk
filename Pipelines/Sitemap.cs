@@ -8,21 +8,26 @@ namespace Sedos.Pipelines
     {
         public Sitemap()
         {
-            Dependencies.Add(nameof(AboutSections));
-            Dependencies.Add(nameof(AllShows));
-            Dependencies.Add(nameof(News));            
-            Dependencies.Add(nameof(Events));
-            Dependencies.Add(nameof(Index));
-            Dependencies.Add(nameof(MarkdownPages));
-            Dependencies.Add(nameof(RegularEvents));
-            Dependencies.Add(nameof(TopLevelPages));
-            Dependencies.Add(nameof(Venues));
-            Dependencies.Add(nameof(YourVisitSections));            
+            var pipelinesToInclude = new[]
+            {
+                nameof(AboutSections),
+                nameof(AllShows),
+                nameof(News),
+                nameof(Events),
+                nameof(Index),
+                nameof(MarkdownPages),
+                nameof(RegularEvents),
+                nameof(TopLevelPages),
+                nameof(Venues),
+                nameof(YourVisitSections)
+            };
+
+            Dependencies.AddRange(pipelinesToInclude);
 
             ProcessModules = new ModuleList
             {
-                new ConcatDocuments(nameof(AllShows)),
-                new GenerateSitemap(Config.FromDocument((doc) => 
+                new ConcatDocuments(pipelinesToInclude),
+            new GenerateSitemap(Config.FromDocument((doc) =>
                     new SitemapItem(doc.GetLink(true))
                     {
                         LastModUtc = doc.GetPublishedDate()
