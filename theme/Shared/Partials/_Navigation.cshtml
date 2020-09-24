@@ -1,5 +1,5 @@
 @{
-    var topLevelNav = Outputs["TopLevelNav"].Single();
+    var topLevelNav = Outputs.FromPipeline("TopLevelNav").Single();
 }
 
 <div class="container fixed-top bg-light">

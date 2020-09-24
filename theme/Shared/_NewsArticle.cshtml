@@ -2,15 +2,13 @@
     Layout = "_Page";
 }
 
-@model IDocument
-
 <div class="row">
     <div class="col-md-8 pt-3">
         @RenderBody()
     </div>
     <div class="col-md-4 news-article-details-column pt-3">
         <h3>More news</h3>
-            @foreach(var article in Outputs["AllNews"]
+            @foreach(var article in Outputs.FromPipeline("AllNews")
             .Where(article => Model["title"] != article["title"])
             .OrderByDescending(article => article.Get<DateTime>("date"))
             .ThenBy(article => article["title"])
