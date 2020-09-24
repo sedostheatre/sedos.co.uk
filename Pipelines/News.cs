@@ -3,6 +3,7 @@ using Statiq.Common;
 using Statiq.Core;
 using Statiq.Html;
 using Statiq.Razor;
+using Statiq.Yaml;
 
 namespace Sedos.Pipelines
 {
@@ -10,11 +11,16 @@ namespace Sedos.Pipelines
     {
         public News()
         {
-            Dependencies.AddRange(nameof(TopLevelNav), nameof(Footer), nameof(HeaderImages), nameof(AllNews));
+            Dependencies.AddRange(nameof(TopLevelNav), nameof(Footer), nameof(HeaderImages));
+
+            InputModules = new ModuleList
+            {
+                new ReadFiles("news/*.md"),
+            };                        
 
             ProcessModules = new ModuleList
             {
-                new ReplaceDocuments(nameof(AllNews)),
+                new ExtractFrontMatter(new ParseYaml()),
                 MarkdownExtensions.MarkdownRenderer(),
                 new GenerateExcerpt().WithOuterHtml(false),
                 new ProcessShortcodes(),
@@ -23,7 +29,12 @@ namespace Sedos.Pipelines
                 new SetMetadata("header-image", Config.FromDocument((doc, ctx) => HeaderImageExtensions.CopyAndResizeHeaderImage(doc,ctx))),
                 new SetMetadata("category", "news"),
                 new SetMetadata("background-override", "bg-turquoise"),
-                new RenderRazor().WithViewStart("Layout/_NewsArticleViewStart.cshtml"),
+                new SetDestination(".html"),
+            };
+
+            PostProcessModules = new ModuleList
+            {
+                new RenderRazor().WithViewStart("Layout/_NewsArticleViewStart.cshtml")
             };
 
             OutputModules = new ModuleList
