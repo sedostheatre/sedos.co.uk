@@ -17,7 +17,7 @@ namespace Sedos.Pipelines
 
             ProcessModules = new ModuleList
             {
-                new CompileSass().WithCompactOutputStyle()
+                new CompileSass().WithCompressedOutputStyle()
             };
 
             OutputModules = new ModuleList
