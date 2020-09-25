@@ -21,9 +21,13 @@ sections:
 
       Dickon Farmer\
       Simona Hughes \
-      Patricia Jones\
+      Patricia Jones \
+      Benjamin Kynaston\
       Adam Moulder\
+      James Newall\
       Izzi Richardson\
+      Alec Taylor\
+      Ralph Warman\
       Graham White
 
       **WRITERS** 
@@ -34,6 +38,10 @@ sections:
       Issy Flower\
       Pippa Kyle\
       Emma J Leaver
+
+      **FILM EDITORS**
+
+      Ralph Warman
 
       \
       **CREATIVE TEAM**\
@@ -64,6 +72,8 @@ sections:
       &nbsp;
 
       <div class="video-responsive"><?# YouTube QlI6oCcqRGQ /?></div>
+
+      <div class="video-responsive"><?# YouTube QUlD9tKu3ns /?></div>
 RedirectFrom:
   - 2020/isolation.htm
 ---
