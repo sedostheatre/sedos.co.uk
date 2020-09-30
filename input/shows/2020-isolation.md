@@ -22,7 +22,8 @@ sections:
       Dickon Farmer\
       Simona Hughes \
       Patricia Jones \
-      Benjamin Kynaston\
+      Benjamin Kynaston \
+      Emma J Leaver \
       Adam Moulder\
       James Newall\
       Izzi Richardson\
@@ -37,7 +38,8 @@ sections:
       Dickon Farmer\
       Issy Flower\
       Pippa Kyle\
-      Emma J Leaver
+      Emma J Leaver \
+      Natalie Woodward
 
       **FILM EDITORS**
 
