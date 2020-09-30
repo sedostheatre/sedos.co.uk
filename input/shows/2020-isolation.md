@@ -73,7 +73,13 @@ sections:
 
       <div class="video-responsive"><?# YouTube QlI6oCcqRGQ /?></div>
 
+      &nbsp;
+
       <div class="video-responsive"><?# YouTube QUlD9tKu3ns /?></div>
+
+      &nbsp;
+
+      <div class="video-responsive"><?# YouTube J7YeMqJ7mhY /?></div>
 RedirectFrom:
   - 2020/isolation.htm
 ---
