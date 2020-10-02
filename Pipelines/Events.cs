@@ -4,6 +4,9 @@ using Statiq.Core;
 using Statiq.Html;
 using Statiq.Razor;
 using Statiq.Yaml;
+using Schema.NET;
+using System;
+
 
 namespace Sedos.Pipelines
 {
@@ -30,6 +33,13 @@ namespace Sedos.Pipelines
                 new SetMetadata("header-image", Config.FromDocument((doc, ctx) => HeaderImageExtensions.CopyAndResizeHeaderImage(doc,ctx))),
                 new SetMetadata("category", "events"),
                 new SetMetadata("background-override", "bg-purple"),
+                new SetMetadata("jsonLd",
+                  new WebSite()
+                  {
+                    AlternateName = "An Alternative Name",
+                    Name = "Your Site Name",
+                    Url = new Uri("https://example.com")
+                  }.ToHtmlEscapedString()),
                 new RenderRazor().WithViewStart("Layout/_EventViewStart.cshtml"),
             };
 
