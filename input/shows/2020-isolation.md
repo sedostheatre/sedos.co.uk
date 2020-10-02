@@ -19,17 +19,22 @@ sections:
     body: |-
       **PERFORMERS**
 
+      Ioana Andrei\
+      Alicia Clarke\
       Dickon Farmer\
       Simona Hughes \
       Patricia Jones \
       Benjamin Kynaston \
       Emma J Leaver \
+      Emily McLean \
       Adam Moulder\
-      James Newall\
+      James Newall \
+      Melissa Parker \
       Izzi Richardson\
       Alec Taylor\
       Ralph Warman\
-      Graham White
+      Graham White \
+      Samantha Wright
 
       **WRITERS** 
 
@@ -41,11 +46,6 @@ sections:
       Emma J Leaver \
       Natalie Woodward
 
-      **FILM EDITORS**
-
-      Ralph Warman
-
-      \
       **CREATIVE TEAM**\
       \
       **PRODUCER** | Robert J. Stanex
@@ -82,6 +82,10 @@ sections:
       &nbsp;
 
       <div class="video-responsive"><?# YouTube J7YeMqJ7mhY /?></div>
+
+      &nbsp;
+
+      <div class="video-responsive"><?# YouTube GsTFUT8_Qb4 /?></div>
 RedirectFrom:
   - 2020/isolation.htm
 ---
