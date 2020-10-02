@@ -34,10 +34,10 @@ namespace Sedos.Pipelines
                 new SetMetadata("category", "events"),
                 new SetMetadata("background-override", "bg-purple"),
                 new SetMetadata("jsonLd",
-                  new WebSite()
+                  new PlayAction() // https://schema.org/PlayAction
                   {
                     AlternateName = "An Alternative Name",
-                    Name = "Your Site Name",
+                    Name = "foo",  // ### TO DO  - how do I get this from the metadata?
                     Url = new Uri("https://example.com")
                   }.ToHtmlEscapedString()),
                 new RenderRazor().WithViewStart("Layout/_EventViewStart.cshtml"),
