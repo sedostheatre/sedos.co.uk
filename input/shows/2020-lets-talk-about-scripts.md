@@ -25,9 +25,11 @@ flyer: /assets/play-readings.jpg
 box-office-open: false
 sections: []
 ---
+### [VIEW OUR EVENTS PAGE TO DISCOVER THE WEEKL SHOW!](https://sedos.co.uk/get-involved)
+
 **Remember the feeling of getting a new script and devouring it to find out what it has in store? It's time to bring that back.**
 
-Yes, Sedos is excited to announce a series of online play readings, starting this October. While we can't quite start rehearsals in person yet, there's no reason why we can't have a bit of a read and a performance from our living rooms.
+Yes, Sedos is excited to announce a series of online play readings, starting on 8 October 2021. While we can't quite start rehearsals in person yet, there's no reason why we can't have a bit of a read and a performance from our living rooms.
 
 For this series of casual weekly readings, we've learned from our colleagues in other societies (some of whom have been running readings since lockdown began) and have taken note of what works particularly well. We intend to present short, fun plays with as many opportunities to get involved via Zoom as possible, and we would love for you to take part as a reader or as an audience member. Costumes and backgrounds are optional but encouraged. Here's how it will work:
 
@@ -47,3 +49,5 @@ The first reading will take place on 8 October, and the play will be announced i
 Simple! If you have any questions, please email Matt Bentley at [readings@sedos.co.uk](mailto:readings@sedos.co.uk)[](http://r20.rs6.net/tn.jsp?f=001o3_SP7cheDBeX4G67bw5hStGYdO5HvXB0ptJeSKsbxaq5E55SoDoQ-rS2p0ZTbHyTW5G3dWcbdYQs9CRJ7bWSKaADV1Az8MQxK7e3mN8JcgXAAkYtD7lWac5czQ2aAU_5Z_5aADKW2FwgLcsfQUyWZW2ni6Qo8-pRuagxYZ8MCFhVv_L845pQw==&c=u5ghrGBx3MSJeIZDXOYVy5dH45VZCqqHHeHRNrVbUD3GhFp17VMnMg==&ch=KlhiVUVN7kiiGS2tXNwAXhSAgzx3UfswgOg6BljoMg-o9AhuTX91Ig==) 
 
 We look forward to seeing you online soon.
+
+### [VIEW OUR EVENTS PAGE TO DISCOVER THE WEEKL SHOW!](https://sedos.co.uk/get-involved)
