@@ -25,7 +25,7 @@ flyer: /assets/play-readings.jpg
 box-office-open: false
 sections: []
 ---
-[VISIT OUR EVENTS PAGE TO DISCOVER THIS WEEK'S SHOW!](https://sedos.co.uk/get-involved)
+### [VISIT OUR EVENTS PAGE TO DISCOVER THIS WEEK'S SHOW!](https://sedos.co.uk/get-involved)
 
 **Remember the feeling of getting a new script and devouring it to find out what it has in store? It's time to bring that back.**
 
@@ -50,4 +50,4 @@ Simple! If you have any questions, please email Matt Bentley at [readings@sedos.
 
 We look forward to seeing you online soon.
 
-[VISIT OUR EVENTS PAGE TO DISCOVER THIS WEEK'S SHOW!](https://sedos.co.uk/get-involved)
+### [VISIT OUR EVENTS PAGE TO DISCOVER THIS WEEK'S SHOW!](https://sedos.co.uk/get-involved)
