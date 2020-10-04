@@ -45,7 +45,7 @@ sections:
       **ANXIOUS** | David O'Reilly\
       **ANITA** | Rachel Barry\
       **ROSALIA** | Skyla Loureda\
-      **CONSUELA** -| Kate England\
+      **CONSUELA** | Kate England\
       **FRANSISCA** | Emma Butler\
       **TERESITA** | Joanna Barrett Constantinou\
       **GRAZIELLA** | Jen Wiper\
