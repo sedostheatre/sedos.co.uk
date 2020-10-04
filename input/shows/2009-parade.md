@@ -92,6 +92,8 @@ sections:
       >A riveting production... Musical Director Matthew Gould has obviously worked a great deal with an already very gifted cast, and it has paid off. From Richard Ash’s opening lines to the last note of the piece, Parade is beautifully and emotionally sung... The second act’s ‘All the Wasted Time’ is breathtakingly good, and if there was no other merit to this production, it would be worth seeing for these few brilliant minutes alone.
 
       ><footer><cite>Parade, 2009, Fringe Review</cite></footer>
+RedirectFrom:
+  - /2009/Parade.htm
 ---
 ***Parade* is a poignant and influential piece of contemporary theatre. Written by Jason Robert Brown, one of Broadway’s most respected young composers, and acclaimed playwright Alfred Uhry *(Driving Miss Daisy*), *Parade* re-tells the true story of the trial of a man accused of the murder of a young girl.**
 
