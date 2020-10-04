@@ -25,7 +25,7 @@ sections:
       **PUCK** | Rebecca Linton\
       **LYSANDER** | Matt Matravers\
       **QUINCE** | Eleena Misra\
-      **HELENA** |Paula Mount \
+      **HELENA** | Paula Mount \
       **SNUG** | Clare O'Shea\
       **HERMIA** | Catherine Rodgers \
       **DEMETRIUS** | Chris Sims\
