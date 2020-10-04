@@ -96,6 +96,90 @@ The Cat’s Whiskers\
 Ask Beccles\
 The Lady Of The Rose
 
+**1928**
+
+Loyalties\
+Her Ladyship\
+The Best People\
+Monsieur Beaucaire
+
+**1929**
+
+Spring Cleaning\
+Sybil\
+The Constant Nymph\
+The Vagabond King
+
+**1930**
+
+The High Road\
+Madam Pompadour\
+Murder On The Second Floor\
+The New Moon
+
+**1931**
+
+The Merry Wives of Windsor\
+The Whites Camelia\
+The Middle Watch\
+The Mikado
+
+**1932**
+
+Interference\
+The Desert Song\
+The Calendar\
+Rose Maraie
+
+**1933**
+
+The Green Goddess\
+Bitter Sweet\
+The Nelson Touch\
+Blue Eyes
+
+**1934**
+
+Eight Bells\
+No! No! Nanette\
+Road House\
+The Maid of the Mountains
+
+**1935**
+
+Libel\
+Mr. Cinders\
+The Late Christopher Bean\
+Chin Chin Chow
+
+**1936**
+
+Theatre Royal\
+Good Night Vienna\
+Ten Minute Alibi\
+Rainbow Inn
+
+**1937**
+
+Bird in Hand\
+The Silver Patrol\
+Richard Of Bordeaux
+
+**1938**
+
+Veronique\
+The Queen’s Husband\
+Judgement Day
+
+**1939**
+
+The Student Prince\
+Tovarich
+
+**1946**
+
+This Happy Breed
+
 
 
 Please bear with us - we are still working on populating this page. [See our full list of shows on our old website here.](https://archive.sedos.co.uk/archive/100years.htm)
