@@ -25,11 +25,11 @@ sections:
       **CAST**
 
       **BALLADEER / LEE HARVEY OSWALD** | Andrew Newton\
-      **JOHN WILKES BOOTH** | PHILIP DOYLE\
-      **CHARLES GUITEAU** | CHRIS WALTERS\
-      **LEON CZOLGOSZ** | BEN FUIAVA\
-      **PROPRIETOR** | ANDREW OVERIN\
-      **GIUSEPPE ZANGARA** | PAUL ERBS\
+      **JOHN WILKES BOOTH** | Philip Doyle \
+      **CHARLES GUITEAU** | Chris Walters \
+      **LEON CZOLGOSZ** | Ben Fuiava \
+      **PROPRIETOR** | Andrew Overin \
+      **GIUSEPPE ZANGARA** | Paul Erbs \
       **SAMUEL BYCK** | Peta Barker\
       **JOHN HINCKLEY** | Joe Penny\
       **LYNETTE 'SQUEAKY' FROMME** | Suzanna Kempner\
