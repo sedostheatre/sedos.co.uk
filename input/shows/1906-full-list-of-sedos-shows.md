@@ -76,4 +76,26 @@ The Rebel Maid
 The Right Hand of the Prince\
 Gipsy Love
 
+**1925**
+
+Within the Law\
+The Geisha\
+The Belle of New York
+
+**1926**
+
+Ambrose Applejohn’s Adventure\
+The Marriage Market\
+The Man From Toronto\
+Tonight’s The Night
+
+**1927**
+
+Dear Brutus\
+The Cat’s Whiskers\
+Ask Beccles\
+The Lady Of The Rose
+
+
+
 Please bear with us - we are still working on populating this page. [See our full list of shows on our old website here.](https://archive.sedos.co.uk/archive/100years.htm)
