@@ -3,7 +3,7 @@ title: Much Ado About Nothing
 times:
   - time: 2020-10-08 20:00
 image: /assets/mask.jpg
-recurrence: Thusday 8 Oct at 8pm
+recurrence: Thursday 8 Oct at 8pm
 ---
 **Sedos is excited to present an abridged reading of Shakespeare's classic comedy. *Much Ado About Nothing*, via Zoom on Thursday 8 October.**
 
