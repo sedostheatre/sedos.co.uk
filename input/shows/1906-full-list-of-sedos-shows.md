@@ -180,6 +180,122 @@ Tovarich
 
 This Happy Breed
 
+**1947**
+
+1066 And All That\
+Robert’s Wife
+
+**1948**
+
+For Capital Appreciation\
+Lilac Domino\
+Arsenic And Old Lace
+
+**1949**
+
+The Beggar’s Opera\
+The Kingmaker\
+Three Men on a Horse
+
+**1950**
+
+The Girl Friend\
+The Blind Goddess
+
+**1951**
+
+The Gondoliers\
+Present Laughter
+
+**1952**
+
+A Country Girl\
+Mirander\
+Rebecca
+
+**1953**
+
+Saloon Bar\
+Princess Charming\
+Marie Antoinette
+
+**1954**
+
+Trial by Jury\
+H.M.S Pinafore\
+The Breadwinner\
+Penny for a Song
+
+**1955**
+
+Lady be Good\
+Home at Seven\
+For Better or for Worse
+
+**1956**
+
+Bless The Bride\
+Grand National Night\
+Witness for the Prosecution
+
+**1957**
+
+Oklahoma\
+Book of the Month\
+Anastasia
+
+**1958**
+
+Dancing Years\
+Simon and Laura\
+Dear Charles
+
+**1959**
+
+Kiss Me Kate\
+Any Other Business
+
+**1960**
+
+Grab Me a Gondola\
+Someone Waiting\
+Not in the Book
+
+**1961**
+
+Carousel\
+Breath of Spring\
+My Three Angels
+
+**1962**
+
+Guys and Dolls\
+The Winslow Boy\
+School For Scandal
+
+**1963**
+
+Pink Champagne\
+The Amorous Prawn\
+Guilty Party
+
+**1964**
+
+King And I\
+The Bride and the Bachelor\
+The Relapse or Virtue in Danger
+
+**1965**
+
+South Pacific\
+Out Of Bounds\
+Sailor Beware
+
+**1966**
+
+Showboat\
+Separate Tables
+
 
 
 Please bear with us - we are still working on populating this page. [See our full list of shows on our old website here.](https://archive.sedos.co.uk/archive/100years.htm)
