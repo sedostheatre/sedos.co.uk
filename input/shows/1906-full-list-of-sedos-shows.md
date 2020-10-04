@@ -623,7 +623,10 @@ Man of La Macha
 
 Pornography\
 I Love You, You’re Perfect,Now Change\
-Such Stuff As Dreams Are Made OnReefer MadnessWhose Life Is it Anyway?London Road\
+Such Stuff As Dreams Are Made On\
+Reefer Madness\
+Whose Life Is it Anyway?\
+London Road\
 Sedos on Tour: Frenemies\
 The Ritual Slaughter of Gorge Mastromas\
 One Man, Two Guvnors\
