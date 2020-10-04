@@ -44,6 +44,14 @@ sections:
       **ASSISTANT DIRECTOR** | Anne-Marie Leigh\
       **PRODUCER** *\* Becks Weymouth\
       **STAGE MANAGER** | Amy Daw
+  - order: 2
+    title: GALLERY
+    body: <a data-flickr-embed="true"
+      href="https://www.flickr.com/photos/sedos/albums/72157624739876470"
+      title="Don Carlos - 2008"><img
+      src="https://live.staticflickr.com/4120/4898528477_36821546e4_z.jpg"
+      width="640" height="480" alt="Don Carlos - 2008"></a><script async
+      src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 RedirectFrom:
   - 2008/doncarlos.htm
 ---
