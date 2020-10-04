@@ -618,3 +618,46 @@ Comic Potential
 [tick, tick... BOOM!](https://archive.sedos.co.uk/2015/ticktickboom.htm)\
 [Noises Off](https://archive.sedos.co.uk/2015/noisesoff.htm)\
 [Man of La Macha](https://sedos.co.uk/2015/manoflamancha.htm)
+
+**2016**
+
+[Pornography](https://archive.sedos.co.uk/2016/pornography.htm)\
+[I Love You, You’re Perfect,Now Change](https://archive.sedos.co.uk/2016/ILoveYouYourePerfectNowChange.htm)\
+[Such Stuff As Dreams Are Made On](https://archive.sedos.co.uk/2016/suchstuff.htm)[Reefer Madness](https://archive.sedos.co.uk/2016/reefermadness.htm)[Whose Life Is it Anyway?](https://archive.sedos.co.uk/2016/whoselifeisitanyway.htm)[London Road](https://archive.sedos.co.uk/2016/londonroad.htm)\
+[Sedos on Tour: Frenemies](https://sedos.co.uk/2016/frenemies.htm)\
+[The Ritual Slaughter of Gorge Mastromas](https://sedos.co.uk/2016/ritualslaughterofgorgemastromas.htm)\
+[One Man, Two Guvnors](https://sedos.co.uk/2016/onemantwoguvnors.htm)\
+[Candide](https://sedos.co.uk/2016/candide.htm)
+
+**2017**
+
+[The Accrington Pals](https://sedos.co.uk/2017/theaccringtonpals.htm)\
+[The Drowsy Chaperone](https://sedos.co.uk/2017/drowsychaperone.htm)\
+[Little Women the musical](https://sedos.co.uk/2017/littlewomen.htm)\
+[The Rivals](https://sedos.co.uk/2017/therivals.htm)\
+[The Nether](https://archive.sedos.co.uk/2017/nether.htm)\
+[Ordinary Days](https://sedos.co.uk/2017/ordinarydays.htm)\
+[Frankenstein](https://sedos.co.uk/2017/frankenstein.htm)\
+[Priscilla Queen of the Desert](https://sedos.co.uk/2017/priscilla.htm)
+
+**2018**
+
+[A Doll’s House](https://sedos.co.uk/2018/adollshouse.htm)\
+[Dogfight](https://sedos.co.uk/2018/dogfight.htm)\
+[You Can’t Take It With You](https://sedos.co.uk/2018/youcanttakeitwithyou.htm)\
+[Pippin](https://sedos.co.uk/2018/pippin.htm)\
+[Earthquakes In London](https://sedos.co.uk/2018/earthquakesinlondon.htm)\
+[Lucky Stiff](https://sedos.co.uk/2018/luckystiff.htm)\
+[Our Country's Good](https://sedos.co.uk/2018/ourcountrysgood.htm)\
+[Urinetown](https://sedos.co.uk/2018/urinetown.htm)
+
+**2019**
+
+[Baal](https://sedos.co.uk/2019/Baal.htm)[Next Thing You Know](https://sedos.co.uk/2019/nextthingyouknow.htm)[After the Dance](https://sedos.co.uk/2019/afterthedance.htm)[How to Succeed in Business without Really Trying](https://sedos.co.uk/2019/howtosucceed.htm)[Minack Theatre | A Swell Party](https://sedos.co.uk/2019/aswellparty.htm)[Soho Cinders](https://sedos.co.uk/2019/sohocinders.htm)[Edinburgh Fringe | Choose Your Own... Improv!](https://sedos.co.uk/2019/chooseyourownimprov.htm)[Arms and the Man](https://sedos.co.uk/2019/armsandtheman.htm)[Dangerous Liaisons](https://sedos.co.uk/2019/dangerousliaisons.htm)[Ragtime](https://sedos.co.uk/2019/ragtime.htm)
+
+**2020**
+
+[The Musical of Musicals (The Musical)](https://sedos.co.uk/shows/2020-the-musical-of-musicals-the-musical)\
+[Isolation: A Lockdown Experiment](https://sedos.co.uk/shows/2020-isolation)\
+[The Importance of Being Earnest: a rehearsed Zoom reading](https://sedos.co.uk/shows/2020-the-importance-of-being-earnest)\
+[Zoom… Your Own Improv!](https://sedos.co.uk/shows/2020-zoom-your-own-improv)
