@@ -530,130 +530,130 @@ Comic Potential
 
 **2008**
 
-**[Rent](https://archive.sedos.co.uk/2008/wildparty.htm)**\
-[Stepping Out](https://archive.sedos.co.uk/2008/steppingout.htm)\
-[A Midsummer Night’s Dream](https://archive.sedos.co.uk/2008/shakespeareinthecity.htm)\
-[Don Carlos](https://archive.sedos.co.uk/2008/doncarlos.htm)\
-[Rosencrantz & Guildenstern Are Dead](https://archive.sedos.co.uk/2008/rosencrantzguildenstern.htm)\
-[Road](https://archive.sedos.co.uk/2008/road.htm)\
-[Red Hot & Black](https://archive.sedos.co.uk/2008/redhotandblack.htm)\
-[My Favorite Year](https://archive.sedos.co.uk/2008/myfavoriteyear.htm)
+Rent\
+Stepping Out\
+A Midsummer Night’s Dream\
+Don Carlos\
+Rosencrantz & Guildenstern Are Dead\
+Road\
+Red Hot & Black\
+My Favorite Year
 
 **2009**
 
-[Parade](https://archive.sedos.co.uk/2009/Parade.htm)\
-[Complete Works Of William Shakespeare (Abridged)](https://archive.sedos.co.uk/2009/shakespeare.htm)\
-[One Flew Over the Cuckoo's Nest](https://archive.sedos.co.uk/2009/cuckoo.htm)[Antigone](https://archive.sedos.co.uk/2009/Antigone.htm)\
-[The Wild Party](https://archive.sedos.co.uk/2009/wildparty.htm)\
-[Festen](https://archive.sedos.co.uk/2009/Festen.htm)
+Parade\
+Complete Works Of William Shakespeare (Abridged)\
+One Flew Over the Cuckoo's NestAntigone\
+The Wild Party\
+Festen
 
 **2010**
 
-[The Laramie Project](https://archive.sedos.co.uk/2010/laramie.htm)\
-[The Libertin](https://archive.sedos.co.uk/2010/libertine.htm)\
-[The Taming of the Shrew](https://archive.sedos.co.uk/2010/taming.htm)\
-[Hair](https://archive.sedos.co.uk/2010/hair.htm)\
-[Taking Steps](https://archive.sedos.co.uk/2010/takingsteps.htm)\
-[Putting It Together](https://archive.sedos.co.uk/2010/putting.htm)\
-[Tragedy of the Prince of Denmark](https://archive.sedos.co.uk/2010/hamlet.htm)\
-[Too Darn Hot](https://archive.sedos.co.uk/2010/toodarnhot.htm)\
-[Hapgood](https://archive.sedos.co.uk/2010/Hapgood.htm)\
-[Kiss of the Spider Woman](https://archive.sedos.co.uk/2010/kissofthespiderwoman.htm)
+The Laramie Project\
+The Libertin\
+The Taming of the Shrew\
+Hair\
+Taking Steps\
+Putting It Together\
+Tragedy of the Prince of Denmark\
+Too Darn Hot\
+Hapgood\
+Kiss of the Spider Woman
 
 **2011**
 
-[Gross Indecency: Three Trials of Oscar Wilde](https://archive.sedos.co.uk/2011/grossindecency.htm)[Romeo and Juliet](https://archive.sedos.co.uk/2011/romeoandjuliet.htm)\
-[West Side Story](https://archive.sedos.co.uk/2011/westsidestory.htm)\
-[Arcadia](https://archive.sedos.co.uk/2011/arcadia.htm)\
-[Assassins](https://archive.sedos.co.uk/2011/assassins.htm)\
-[The Last Days of Judas Iscariot](https://archive.sedos.co.uk/2011/lastdaysofjudasiscariot.htm)\
-[The Last Five Years](https://archive.sedos.co.uk/2011/TheLastFiveYears.htm)\
-[Wilde in the City: The Importance of Being Earnest](https://archive.sedos.co.uk/2011/WildeInTheCity.htm)\
-[Fewer Emergencies](https://archive.sedos.co.uk/2011/feweremergencies.htm)\
-[A Little Night Music](https://archive.sedos.co.uk/2011/littlenightmusic.htm) 
+Gross Indecency: Three Trials of Oscar WildeRomeo and Juliet\
+West Side Story\
+Arcadia\
+Assassins\
+The Last Days of Judas Iscariot\
+The Last Five Years\
+Wilde in the City: The Importance of Being Earnest\
+Fewer Emergencies\
+A Little Night Music 
 
 **2012**
 
-[Three Sisters](https://archive.sedos.co.uk/2012/threesisters.htm)\
-[Spring Awakening](https://archive.sedos.co.uk/2012/springawakening.htm)\
-[Sedos Summer Festival](https://archive.sedos.co.uk/2012/summerfestival.htm)\
-[\- Push Up](https://archive.sedos.co.uk/2012/pushup.htm)\
-[\- Baby](https://archive.sedos.co.uk/2012/baby.htm)\
-[\- Sink the Belgrano! / Man of Destiny](https://archive.sedos.co.uk/2012/doublebill.htm)\
-[As You Like It](https://archive.sedos.co.uk/2012/asyoulikeit.htm)\
-[House / Garden](https://archive.sedos.co.uk/2012/houseandgarden.htm)\
-[Guys & Dolls](https://archive.sedos.co.uk/2012/guysanddolls.htm)
+Three Sisters\
+Spring Awakening\
+Sedos Summer Festival\
+- Push Up\
+- Baby\
+- Sink the Belgrano! / Man of Destiny\
+As You Like It\
+House / Garden\
+Guys & Dolls
 
 **2013**
 
-[Gormenghast](https://archive.sedos.co.uk/2013/gormenghast.htm)\
-[Godspell](https://archive.sedos.co.uk/2013/godspell.htm)\
-[Sedos Summer Festival](https://archive.sedos.co.uk/2013/summerfestival.htm)\
-- [Enron](https://archive.sedos.co.uk/2013/enron.htm)\
-- [Autobahn](https://archive.sedos.co.uk/2013/autobahn.htm)\
-- [A Man of No Importance](https://archive.sedos.co.uk/2013/amanofnoimportance.htm)\
-[Not Just Another Love Story](https://archive.sedos.co.uk/2013/notjustanotherlovestory.htm)\
-[Macbeth](https://archive.sedos.co.uk/2013/macbeth.htm)\
-[Hot Mikado](https://archive.sedos.co.uk/2013/hotmikado.htm)
+Gormenghast\
+Godspell\
+Sedos Summer Festival\
+- Enron\
+- Autobahn\
+- A Man of No Importance\
+Not Just Another Love Story\
+Macbeth\
+Hot Mikado
 
 **2014**
 
-[Heaven Can Wait](https://archive.sedos.co.uk/2014/heavencanwait.htm)\
-[Into the Woods](https://archive.sedos.co.uk/2014/intothewoods.htm)\
-[Sedos Summer Festival](https://archive.sedos.co.uk/2014/summerfestival.htm)\
-- [The Eurosedos Song Contest](https://archive.sedos.co.uk/2014/eurosedos.htm)\
-- [In Cahoots](https://archive.sedos.co.uk/2014/incahoots.htm)\
-- [Government Inspector](https://archive.sedos.co.uk/2014/governmentinspector.htm)\
-- [The Show Off](https://archive.sedos.co.uk/2014/showoff.htm)\
-[I Love You Because](https://archive.sedos.co.uk/2014/iloveyoubecause.htm)\
-[Boeing Boeing](https://archive.sedos.co.uk/2014/boeingboeing.htm)\
-[Victor/Victoria](https://archive.sedos.co.uk/2014/victorvictoria.htm)
+Heaven Can Wait\
+Into the Woods\
+Sedos Summer Festival\
+- The Eurosedos Song Contest\
+- In Cahoots\
+- Government Inspector\
+- The Show Off\
+I Love You Because\
+Boeing Boeing\
+Victor/Victoria
 
 **2015**
 
-[The Devils](https://archive.sedos.co.uk/2015/thedevils.htm)\
-[Legally Blonde - The Musical](https://archive.sedos.co.uk/2015/legallyblonde.htm)\
-[Serial Killers](https://archive.sedos.co.uk/2015/serialkillers.htm)\
-[Summer Season](https://archive.sedos.co.uk/2015/summerseason.htm)\
-[tick, tick... BOOM!](https://archive.sedos.co.uk/2015/ticktickboom.htm)\
-[Noises Off](https://archive.sedos.co.uk/2015/noisesoff.htm)\
-[Man of La Macha](https://sedos.co.uk/2015/manoflamancha.htm)
+The Devils\
+Legally Blonde - The Musical\
+Serial Killers\
+Summer Season\
+tick, tick... BOOM!\
+Noises Off\
+Man of La Macha
 
 **2016**
 
-[Pornography](https://archive.sedos.co.uk/2016/pornography.htm)\
-[I Love You, You’re Perfect,Now Change](https://archive.sedos.co.uk/2016/ILoveYouYourePerfectNowChange.htm)\
-[Such Stuff As Dreams Are Made On](https://archive.sedos.co.uk/2016/suchstuff.htm)[Reefer Madness](https://archive.sedos.co.uk/2016/reefermadness.htm)[Whose Life Is it Anyway?](https://archive.sedos.co.uk/2016/whoselifeisitanyway.htm)[London Road](https://archive.sedos.co.uk/2016/londonroad.htm)\
-[Sedos on Tour: Frenemies](https://sedos.co.uk/2016/frenemies.htm)\
-[The Ritual Slaughter of Gorge Mastromas](https://sedos.co.uk/2016/ritualslaughterofgorgemastromas.htm)\
-[One Man, Two Guvnors](https://sedos.co.uk/2016/onemantwoguvnors.htm)\
-[Candide](https://sedos.co.uk/2016/candide.htm)
+Pornography\
+I Love You, You’re Perfect,Now Change\
+Such Stuff As Dreams Are Made OnReefer MadnessWhose Life Is it Anyway?London Road\
+Sedos on Tour: Frenemies\
+The Ritual Slaughter of Gorge Mastromas\
+One Man, Two Guvnors\
+Candide
 
 **2017**
 
-[The Accrington Pals](https://sedos.co.uk/2017/theaccringtonpals.htm)\
-[The Drowsy Chaperone](https://sedos.co.uk/2017/drowsychaperone.htm)\
-[Little Women the musical](https://sedos.co.uk/2017/littlewomen.htm)\
-[The Rivals](https://sedos.co.uk/2017/therivals.htm)\
-[The Nether](https://archive.sedos.co.uk/2017/nether.htm)\
-[Ordinary Days](https://sedos.co.uk/2017/ordinarydays.htm)\
-[Frankenstein](https://sedos.co.uk/2017/frankenstein.htm)\
-[Priscilla Queen of the Desert](https://sedos.co.uk/2017/priscilla.htm)
+The Accrington Pals\
+The Drowsy Chaperone\
+Little Women the musical\
+The Rivals\
+The Nether\
+Ordinary Days\
+Frankenstein\
+Priscilla Queen of the Desert
 
 **2018**
 
-[A Doll’s House](https://sedos.co.uk/2018/adollshouse.htm)\
-[Dogfight](https://sedos.co.uk/2018/dogfight.htm)\
-[You Can’t Take It With You](https://sedos.co.uk/2018/youcanttakeitwithyou.htm)\
-[Pippin](https://sedos.co.uk/2018/pippin.htm)\
-[Earthquakes In London](https://sedos.co.uk/2018/earthquakesinlondon.htm)\
-[Lucky Stiff](https://sedos.co.uk/2018/luckystiff.htm)\
-[Our Country's Good](https://sedos.co.uk/2018/ourcountrysgood.htm)\
-[Urinetown](https://sedos.co.uk/2018/urinetown.htm)
+A Doll’s House\
+Dogfight\
+You Can’t Take It With You\
+Pippin\
+Earthquakes In London\
+Lucky Stiff\
+Our Country's Good\
+Urinetown
 
 **2019**
 
-[Baal](https://sedos.co.uk/2019/Baal.htm)[Next Thing You Know](https://sedos.co.uk/2019/nextthingyouknow.htm)[After the Dance](https://sedos.co.uk/2019/afterthedance.htm)[How to Succeed in Business without Really Trying](https://sedos.co.uk/2019/howtosucceed.htm)[Minack Theatre | A Swell Party](https://sedos.co.uk/2019/aswellparty.htm)[Soho Cinders](https://sedos.co.uk/2019/sohocinders.htm)[Edinburgh Fringe | Choose Your Own... Improv!](https://sedos.co.uk/2019/chooseyourownimprov.htm)[Arms and the Man](https://sedos.co.uk/2019/armsandtheman.htm)[Dangerous Liaisons](https://sedos.co.uk/2019/dangerousliaisons.htm)[Ragtime](https://sedos.co.uk/2019/ragtime.htm)
+BaalNext Thing You KnowAfter the DanceHow to Succeed in Business without Really TryingMinack Theatre | A Swell PartySoho CindersEdinburgh Fringe | Choose Your Own... Improv!Arms and the ManDangerous LiaisonsRagtime
 
 **2020**
 
