@@ -1,6 +1,6 @@
 ---
 title: Full list of Sedos shows
-year: 1906-present
+year: "1906"
 flyer: /assets/listofshows.jpg
 box-office-open: false
 sections:
