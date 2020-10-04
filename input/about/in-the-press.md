@@ -551,12 +551,12 @@ image: /assets/aboutus-inthepress.jpg
 > A riveting production... Musical Director Matthew Gould has obviously worked a great deal with an already very gifted cast, and it has paid off. From Richard Ash’s opening lines to the last note of the piece, Parade is beautifully and emotionally sung... The second act’s ‘All the Wasted Time’ is breathtakingly good, and if there was no other merit to this production, it would be worth seeing for these few brilliant minutes alone.
 ><footer><cite>Parade, 2009, Fringe Review</cite></footer>
 
-> Talent and scrupulous attention to detail.
-><footer><cite>Rent, 2008, reader view in the London Evening Standard</cite></footer>
-
 # **2008**
 
 ## *Rent*
+
+> Talent and scrupulous attention to detail.
+><footer><cite>Rent, 2008, reader view in the London Evening Standard</cite></footer>
 
 > It was fantastic – every bit as good as the West End version, and much more enjoyable than Rent: Remixed!
 ><footer><cite>Rent, 2008, reader view in the London Evening Standard</cite></footer>
