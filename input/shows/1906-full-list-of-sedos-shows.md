@@ -576,41 +576,38 @@ A Little Night Music
 
 Three Sisters\
 Spring Awakening\
-Sedos Summer Festival\
-
-* Push Up\
-* Baby\
-* Sink the Belgrano! / Man of Destiny\
-  As You Like It\
-  House / Garden\
-  Guys & Dolls
+Sedos Summer Festival:\
+  Push Up\
+  Baby\
+  Sink the Belgrano! / Man of Destiny\
+As You Like It\
+House / Garden\
+Guys & Dolls
 
 **2013**
 
 Gormenghast\
 Godspell\
 Sedos Summer Festival\
-
-* Enron\
-* Autobahn\
-* A Man of No Importance\
-  Not Just Another Love Story\
-  Macbeth\
-  Hot Mikado
+  Enron\
+  Autobahn\
+  A Man of No Importance\
+Not Just Another Love Story\
+Macbeth\
+Hot Mikado
 
 **2014**
 
 Heaven Can Wait\
 Into the Woods\
 Sedos Summer Festival\
-
-* The Eurosedos Song Contest\
-* In Cahoots\
-* Government Inspector\
-* The Show Off\
-  I Love You Because\
-  Boeing Boeing\
-  Victor/Victoria
+  The Eurosedos Song Contest\
+  In Cahoots\
+  Government Inspector\
+  The Show Off\
+I Love You Because\
+Boeing Boeing\
+Victor/Victoria
 
 **2015**
 
