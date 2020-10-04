@@ -20,7 +20,7 @@ showtimes:
 showtime-summary: 27 May-6 June 2009
 venue: Bridewell Theatre
 primary-color: "#010101"
-header-image: /assets/4865687613_556afe4619_o.jpg
+header-image: /assets/4866305416_aaae8b417a_o.jpg
 flyer: /assets/4907093573_76bfb55e1d_o.jpg
 box-office-open: false
 sections:
