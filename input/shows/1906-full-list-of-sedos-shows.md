@@ -16,4 +16,26 @@ sections:
 RedirectFrom:
   - archive/100years.htm
 ---
-Full list of shows to come here
+**1906**
+
+His Excellency the Governor\
+Ghost of Jerry Bundler\
+Les Cloches de Cornerville\
+My Friend The Prince and Quayle’s Revolt
+
+**1907**
+
+Rip Van Winkle\
+The Magistrate
+
+**1908**
+
+Mirette\
+The Duchchess of Dantzic
+
+**1909**
+
+The Middlemen\
+A Greek Slave
+
+Please bear with us - we are still working on getting this page fully updated. [See our full list of shows on our old website here.](https://archive.sedos.co.uk/archive/100years.htm)
