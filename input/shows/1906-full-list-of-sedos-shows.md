@@ -1,6 +1,6 @@
 ---
 title: Full list of Sedos shows
-year: "1906"
+year: 1906-present
 subtitle: 1906-present
 showtimes:
   - time: 1906-01-01 19:30
