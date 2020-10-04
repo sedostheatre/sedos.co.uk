@@ -32,11 +32,11 @@ The Magistrate
 **1908**
 
 Mirette\
-The Duchchess of Dantzic
+The Duchess of Dantzic
 
 **1909**
 
 The Middlemen\
 A Greek Slave
 
-Please bear with us - we are still working on getting this page fully updated. [See our full list of shows on our old website here.](https://archive.sedos.co.uk/archive/100years.htm)
+Please bear with us - we are still working on populating this page. [See our full list of shows on our old website here.](https://archive.sedos.co.uk/archive/100years.htm)
