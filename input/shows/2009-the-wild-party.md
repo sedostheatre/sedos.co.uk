@@ -27,22 +27,25 @@ sections:
   - order: 1
     title: CAST & CREATIVE TEAM
     body: |-
-      QUEENIE - Liz Flint\
-      BURRS - Andy Blacksell\
-      KATE - Bridget Cross\
-      MADELINE - Anne-Marie Leigh\
-      SALLY - Rachel Hickson\
-      MAE - Francesca Casey\
-      NADINE - Alexandria Oliver\
-      DELORES - Paula Mount\
-      BLACK - Matt Morden\
-      OSCAR - Paul Wooller\
-      PHIL - Richard Ash\
-      JACKIE - Max Wilson\
-      GOLD - Chris Warner\
-      GOLDBERG - Stephen Beeny
+      CAST
 
-      ENSEMBLE\
+      **QUEENIE** | Liz Flint\
+      **BURRS** | Andy Blacksell\
+      **KATE** |  Bridget Cross\
+      **MADELINE** | Anne-Marie Leigh\
+      **SALLY** | Rachel Hickson\
+      **MAE** | Francesca Casey\
+      **NADINE** | Alexandria Oliver\
+      **DELORES** | Paula Mount\
+      **BLACK** | Matt Morden\
+      **OSCAR** | Paul Wooller\
+      **PHIL** | Richard Ash\
+      **JACKIE** | Max Wilson\
+      **GOLD** | Chris Warner\
+      **GOLDBERG** | Stephen Beeny
+
+      **ENSEMBLE**
+
       Karen Lister\
       Bethan Kelly Jones\
       Kate McHenry\
@@ -50,9 +53,12 @@ sections:
       Holly Jones\
       Paul Watson
 
-      Director: Chloe Faine\
-      Musical Director: Paul Couzens\
-      Choreographer: Gayle Rogers
+      **CREATIVE TEAM**
+
+      **DIRECTOR** | Chloe Faine\
+      **MUSICAL DIRECTOR** | Paul Couzens\
+      **CHOREOGRAPHER** | Gayle Rogers\
+      **PRODUCER** | Angharad Davies
   - order: 2
     body: <a data-flickr-embed="true"
       href="https://www.flickr.com/photos/sedos/albums/72157624485093969"
