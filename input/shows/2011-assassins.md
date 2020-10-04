@@ -21,42 +21,72 @@ box-office-open: false
 sections:
   - order: 1
     title: CAST & CREATIVE TEAM
-    body: |-
+    body: >-
       **CAST**
 
+
       **BALLADEER / LEE HARVEY OSWALD** | Andrew Newton\
+
       **JOHN WILKES BOOTH** | Philip Doyle \
+
       **CHARLES GUITEAU** | Chris Walters \
+
       **LEON CZOLGOSZ** | Ben Fuiava \
+
       **PROPRIETOR** | Andrew Overin \
+
       **GIUSEPPE ZANGARA** | Paul Erbs \
+
       **SAMUEL BYCK** | Peta Barker\
+
       **JOHN HINCKLEY** | Joe Penny\
+
       **LYNETTE 'SQUEAKY' FROMME** | Suzanna Kempner\
+
       **SARA JANE MOORE** | Victoria Waddington\
+
       **EMMA GOLDMAN** | Simona Hughes\
-      **BOY** | Tom Rodgers, Tom Adams and Archie Lyndhurst
+
+      **BOY** | Tom Rodgers, Tom Adams and [Archie Lyndhurst](https://sedos.co.uk/news/2020-10-02-tribute-to-archie-lyndhurst)
+
 
       **ENSEMBLE**
 
+
       Richard Ash\
+
       Susan Booth\
+
       Kate England\
+
       James Franey\
+
       Anthony Hagan\
+
       Sarah Lalin\
+
       Skyla Loureda\
+
       Andy Macpherson\
+
       Kara McLean\
+
       Jon Wade\
+
       Chris Warner\
+
       Jillian Wood
+
 
       **CREATIVE TEAM**
 
+
       **DIRECTOR** | Maria Waters\
+
       **MUSICAL DIRECTOR** | Ryan Macaulay\
+
       **CHOREOGRAPHER** | Ruth Sullivan\
+
       **PRODUCER** | Matt Hudson
   - order: 2
     title: GALLERY
