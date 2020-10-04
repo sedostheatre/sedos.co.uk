@@ -26,6 +26,8 @@ sections:
       \
       **DIRECTOR** | Dan Chasemore\
       **PRODUCER** | Bridget Cross
+RedirectFrom:
+  - 2009/shakespeare.htm
 ---
 > All the world's a stage,\
 > And all the men and women merely players\
