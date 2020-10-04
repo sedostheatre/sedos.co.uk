@@ -577,37 +577,40 @@ A Little Night Music
 Three Sisters\
 Spring Awakening\
 Sedos Summer Festival\
-- Push Up\
-- Baby\
-- Sink the Belgrano! / Man of Destiny\
-As You Like It\
-House / Garden\
-Guys & Dolls
+
+* Push Up\
+* Baby\
+* Sink the Belgrano! / Man of Destiny\
+  As You Like It\
+  House / Garden\
+  Guys & Dolls
 
 **2013**
 
 Gormenghast\
 Godspell\
 Sedos Summer Festival\
-- Enron\
-- Autobahn\
-- A Man of No Importance\
-Not Just Another Love Story\
-Macbeth\
-Hot Mikado
+
+* Enron\
+* Autobahn\
+* A Man of No Importance\
+  Not Just Another Love Story\
+  Macbeth\
+  Hot Mikado
 
 **2014**
 
 Heaven Can Wait\
 Into the Woods\
 Sedos Summer Festival\
-- The Eurosedos Song Contest\
-- In Cahoots\
-- Government Inspector\
-- The Show Off\
-I Love You Because\
-Boeing Boeing\
-Victor/Victoria
+
+* The Eurosedos Song Contest\
+* In Cahoots\
+* Government Inspector\
+* The Show Off\
+  I Love You Because\
+  Boeing Boeing\
+  Victor/Victoria
 
 **2015**
 
@@ -653,7 +656,16 @@ Urinetown
 
 **2019**
 
-BaalNext Thing You KnowAfter the DanceHow to Succeed in Business without Really TryingMinack Theatre | A Swell PartySoho CindersEdinburgh Fringe | Choose Your Own... Improv!Arms and the ManDangerous LiaisonsRagtime
+Baal\
+Next Thing You Know\
+After the Dance\
+How to Succeed in Business without Really Trying\
+Minack Theatre | A Swell Party\
+Soho Cinders\
+Edinburgh Fringe | Choose Your Own... Improv!\
+Arms and the Man\
+Dangerous Liaisons\
+Ragtime
 
 **2020**
 
