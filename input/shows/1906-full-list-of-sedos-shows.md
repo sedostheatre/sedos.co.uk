@@ -296,6 +296,245 @@ Sailor Beware
 Showboat\
 Separate Tables
 
+**1967**
 
+Love from Judy\
+A Letter from the General\
+An Inspector Calls
 
-Please bear with us - we are still working on populating this page. [See our full list of shows on our old website here.](https://archive.sedos.co.uk/archive/100years.htm)
+**1968**
+
+Brigadoon\
+The Rose Without a Thorn
+
+**1969**
+
+La Belle Helene
+
+**1970**
+
+Oliver!
+
+**1971**
+
+Lord Arthur Savile’s Crime\
+Lock up your Daughters
+
+**1972**
+
+A Man for All Seasons\
+Half a Sixpence
+
+**1973**
+
+Orpheus in the Underworld\
+Collect all Your Hand Baggage\
+Black Comedy
+
+**1974**
+
+The Beaus Stratagem\
+The Boy Friend
+
+**1975**
+
+The Shop at Sky Corner\
+Old Time Music Hall
+
+**1976**
+
+A Flea in her Ear\
+The Card
+
+**1977**
+
+The Pajama Game\
+The Browning Version\
+Harlequinade
+
+**1978**
+
+Old Time Music Hall\
+(2nd Edition)\
+The Crucible
+
+**1979**
+
+Habeas Corpus\
+My Fair Lady
+
+**1980**
+
+The Importance of Being Earnest\
+Kiss Me Kate\
+Table Manners
+
+**1981**
+
+Move Over Mrs Markham\
+South Pacific\
+Confusions
+
+**1982**
+
+Annie Get your Gun
+
+**1983**
+
+When We Are Married\
+Cabaret
+
+**1984**
+
+Arsenic & Old Lace\
+No! No! Nanette!
+
+**1985**
+
+Outside Edge\
+Oklahoma!
+
+**1986**
+
+An Ideal Husband\
+Half A Sixpence
+
+**1987**
+
+See How They Run\
+West Side Story\
+Bedroom Farce
+
+**1988**
+
+Grease\
+The Rivals
+
+**1989**
+
+Pirates of Penzance\
+A Chorus Of Disapproval
+
+**1990**
+
+Seven Brides For Seven Brothers\
+Present Laughter
+
+**1991**
+
+Lock Up Your Daughters\
+Daisy Pulls It Off
+
+**1992**
+
+South Pacific\
+On The Razzle
+
+**1993**
+
+The Pajama Game\
+Season’s Greetings
+
+**1994**
+
+Guys and Dolls\
+Flare Path
+
+**1995**
+
+Lady Be Good
+
+**1996**
+
+Breezeblock Park\
+West Side Story
+
+**1997**
+
+On the Town
+
+**1998**
+
+Seven Deadly Sins\
+Cabaret
+
+**1999**
+
+Around the World\
+A Slice of Saturday Night\
+Hot Mikado
+
+**2000**
+
+Around the World\
+A Slice of Saturday Night\
+Hot Mikado
+
+**2001**
+
+Swell Party\
+Christmas Cabaret
+
+**2002**
+
+Accrington Pals / Journeys End\
+Sugar\
+Christmas Cabaret\
+Little Shop of Horrors
+
+**2003**
+
+And The World Goes Round\
+Witness for the Prosecution\
+Return to the Forbidden Planet
+
+**2004**
+
+Take 5\
+Les Liaisons Dangereuses\
+Sweet Charity
+
+**2005 - Our Centenary Year**
+
+Jekyll & Hyde\
+Sexual Perversity in Chicago\
+Six Degrees of Separation\
+Eurosedos: The Live Final\
+Shakespeare in the City: Merchant of Venice\
+Company\
+The Voysey Inheritance
+
+[Read a review of 2005](https://archive.sedos.co.uk/archive/2005.htm)
+
+**2006**
+
+City of Angels\
+Shakespeare in the City: Much Ado About Nothing\
+The Shape of Things / Bash\
+Merrily We Roll Along\
+Big Love
+
+[Read a review of 2006](https://archive.sedos.co.uk/archive/2006.htm)
+
+**2007**
+
+Sweeney Todd\
+Shakespeare in the City: Julius Caesar\
+Mary Stuart\
+The Odd Couple (Female)\
+Eurosedos 2007 - The Battle\
+Grand Hotel\
+Comic Potential
+
+[Read a review of 2007](https://archive.sedos.co.uk/archive/2007.htm)
+
+**2008**
+
+**[Rent](https://archive.sedos.co.uk/2008/wildparty.htm)**\
+[Stepping Out](https://archive.sedos.co.uk/2008/steppingout.htm)\
+[A Midsummer Night’s Dream](https://archive.sedos.co.uk/2008/shakespeareinthecity.htm)\
+[Don Carlos](https://archive.sedos.co.uk/2008/doncarlos.htm)\
+[Rosencrantz & Guildenstern Are Dead](https://archive.sedos.co.uk/2008/rosencrantzguildenstern.htm)\
+[Road](https://archive.sedos.co.uk/2008/road.htm)\
+[Red Hot & Black](https://archive.sedos.co.uk/2008/redhotandblack.htm)\
+[My Favorite Year](https://archive.sedos.co.uk/2008/myfavoriteyear.htm)
