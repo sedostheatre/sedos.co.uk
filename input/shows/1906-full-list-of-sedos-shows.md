@@ -39,4 +39,41 @@ The Duchess of Dantzic
 The Middlemen\
 A Greek Slave
 
+**1910**
+
+Held by The Enemy\
+An Artist’s Model
+
+**1911**
+
+Trilby\
+The Pity of It\
+Veronique
+
+**1912**
+
+The Admirable Crichton\
+The Dollar Princess
+
+**1913**
+
+A Message from Mars\
+Miss Hook of Holland\
+The Three Musketeers
+
+**1922**
+
+A Runaway Girl\
+If I Were King
+
+**1923**
+
+Merrie England\
+The Rebel Maid
+
+**1924**
+
+The Right Hand of the Prince\
+Gipsy Love
+
 Please bear with us - we are still working on populating this page. [See our full list of shows on our old website here.](https://archive.sedos.co.uk/archive/100years.htm)
