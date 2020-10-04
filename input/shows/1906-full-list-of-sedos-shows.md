@@ -570,4 +570,51 @@ Comic Potential
 [The Last Five Years](https://archive.sedos.co.uk/2011/TheLastFiveYears.htm)\
 [Wilde in the City: The Importance of Being Earnest](https://archive.sedos.co.uk/2011/WildeInTheCity.htm)\
 [Fewer Emergencies](https://archive.sedos.co.uk/2011/feweremergencies.htm)\
-[A Little Night Music](https://archive.sedos.co.uk/2011/littlenightmusic.htm)
+[A Little Night Music](https://archive.sedos.co.uk/2011/littlenightmusic.htm) 
+
+**2012**
+
+[Three Sisters](https://archive.sedos.co.uk/2012/threesisters.htm)\
+[Spring Awakening](https://archive.sedos.co.uk/2012/springawakening.htm)\
+[Sedos Summer Festival](https://archive.sedos.co.uk/2012/summerfestival.htm)\
+[\- Push Up](https://archive.sedos.co.uk/2012/pushup.htm)\
+[\- Baby](https://archive.sedos.co.uk/2012/baby.htm)\
+[\- Sink the Belgrano! / Man of Destiny](https://archive.sedos.co.uk/2012/doublebill.htm)\
+[As You Like It](https://archive.sedos.co.uk/2012/asyoulikeit.htm)\
+[House / Garden](https://archive.sedos.co.uk/2012/houseandgarden.htm)\
+[Guys & Dolls](https://archive.sedos.co.uk/2012/guysanddolls.htm)
+
+**2013**
+
+[Gormenghast](https://archive.sedos.co.uk/2013/gormenghast.htm)\
+[Godspell](https://archive.sedos.co.uk/2013/godspell.htm)\
+[Sedos Summer Festival](https://archive.sedos.co.uk/2013/summerfestival.htm)\
+- [Enron](https://archive.sedos.co.uk/2013/enron.htm)\
+- [Autobahn](https://archive.sedos.co.uk/2013/autobahn.htm)\
+- [A Man of No Importance](https://archive.sedos.co.uk/2013/amanofnoimportance.htm)\
+[Not Just Another Love Story](https://archive.sedos.co.uk/2013/notjustanotherlovestory.htm)\
+[Macbeth](https://archive.sedos.co.uk/2013/macbeth.htm)\
+[Hot Mikado](https://archive.sedos.co.uk/2013/hotmikado.htm)
+
+**2014**
+
+[Heaven Can Wait](https://archive.sedos.co.uk/2014/heavencanwait.htm)\
+[Into the Woods](https://archive.sedos.co.uk/2014/intothewoods.htm)\
+[Sedos Summer Festival](https://archive.sedos.co.uk/2014/summerfestival.htm)\
+- [The Eurosedos Song Contest](https://archive.sedos.co.uk/2014/eurosedos.htm)\
+- [In Cahoots](https://archive.sedos.co.uk/2014/incahoots.htm)\
+- [Government Inspector](https://archive.sedos.co.uk/2014/governmentinspector.htm)\
+- [The Show Off](https://archive.sedos.co.uk/2014/showoff.htm)\
+[I Love You Because](https://archive.sedos.co.uk/2014/iloveyoubecause.htm)\
+[Boeing Boeing](https://archive.sedos.co.uk/2014/boeingboeing.htm)\
+[Victor/Victoria](https://archive.sedos.co.uk/2014/victorvictoria.htm)
+
+**2015**
+
+[The Devils](https://archive.sedos.co.uk/2015/thedevils.htm)\
+[Legally Blonde - The Musical](https://archive.sedos.co.uk/2015/legallyblonde.htm)\
+[Serial Killers](https://archive.sedos.co.uk/2015/serialkillers.htm)\
+[Summer Season](https://archive.sedos.co.uk/2015/summerseason.htm)\
+[tick, tick... BOOM!](https://archive.sedos.co.uk/2015/ticktickboom.htm)\
+[Noises Off](https://archive.sedos.co.uk/2015/noisesoff.htm)\
+[Man of La Macha](https://sedos.co.uk/2015/manoflamancha.htm)
