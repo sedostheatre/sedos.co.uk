@@ -41,3 +41,14 @@ Well luckily, Shakespeare in the City have answered one of those questions for y
 The show holds the record for the longest running comedy in the West End and was devised and performed by a world famous Shakespeare Company. Based on a script, but largely improvised, the show has become one of the world's most popular shows, being performed in a variety of languages.
 
 With only two performances at the Stock Exchange, there are only 200 tickets going on sale so we expect to sell out fast - so book now! The price of your ticket also includes a free glass of wine or beer. Yes, that's right. FREE BEER.
+
+>The funniest show you are likely to see in your entire lifetime.
+><footer><cite>Montreal Gazette</cite></footer>
+
+
+
+>If you like Shakespeare, you'll like this show. If you hate Shakespeare, you'll love this show!
+><footer><cite>The Today Show</cite></footer>
+
+>A madcap condensation that features non-stop laughs. Done at a whirlwind pace and with great delight, they are sure to win over even the most skeptical. And there is no doubt that William Shakespeare himself... would approve.
+><footer><cite>Daily Variety</cite></footer>
