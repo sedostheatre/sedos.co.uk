@@ -2,8 +2,7 @@
 title: Full list of Sedos shows
 year: 1906-present
 subtitle: 1906-present
-showtimes:
-  - time: 1906-01-01 19:30
+showtimes: []
 header-image: /assets/49121780936_3fd11fc8f6_o.jpg
 flyer: /assets/listofshows.jpg
 box-office-open: false
