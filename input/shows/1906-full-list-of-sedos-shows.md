@@ -538,3 +538,36 @@ Comic Potential
 [Road](https://archive.sedos.co.uk/2008/road.htm)\
 [Red Hot & Black](https://archive.sedos.co.uk/2008/redhotandblack.htm)\
 [My Favorite Year](https://archive.sedos.co.uk/2008/myfavoriteyear.htm)
+
+**2009**
+
+[Parade](https://archive.sedos.co.uk/2009/Parade.htm)\
+[Complete Works Of William Shakespeare (Abridged)](https://archive.sedos.co.uk/2009/shakespeare.htm)\
+[One Flew Over the Cuckoo's Nest](https://archive.sedos.co.uk/2009/cuckoo.htm)[Antigone](https://archive.sedos.co.uk/2009/Antigone.htm)\
+[The Wild Party](https://archive.sedos.co.uk/2009/wildparty.htm)\
+[Festen](https://archive.sedos.co.uk/2009/Festen.htm)
+
+**2010**
+
+[The Laramie Project](https://archive.sedos.co.uk/2010/laramie.htm)\
+[The Libertin](https://archive.sedos.co.uk/2010/libertine.htm)\
+[The Taming of the Shrew](https://archive.sedos.co.uk/2010/taming.htm)\
+[Hair](https://archive.sedos.co.uk/2010/hair.htm)\
+[Taking Steps](https://archive.sedos.co.uk/2010/takingsteps.htm)\
+[Putting It Together](https://archive.sedos.co.uk/2010/putting.htm)\
+[Tragedy of the Prince of Denmark](https://archive.sedos.co.uk/2010/hamlet.htm)\
+[Too Darn Hot](https://archive.sedos.co.uk/2010/toodarnhot.htm)\
+[Hapgood](https://archive.sedos.co.uk/2010/Hapgood.htm)\
+[Kiss of the Spider Woman](https://archive.sedos.co.uk/2010/kissofthespiderwoman.htm)
+
+**2011**
+
+[Gross Indecency: Three Trials of Oscar Wilde](https://archive.sedos.co.uk/2011/grossindecency.htm)[Romeo and Juliet](https://archive.sedos.co.uk/2011/romeoandjuliet.htm)\
+[West Side Story](https://archive.sedos.co.uk/2011/westsidestory.htm)\
+[Arcadia](https://archive.sedos.co.uk/2011/arcadia.htm)\
+[Assassins](https://archive.sedos.co.uk/2011/assassins.htm)\
+[The Last Days of Judas Iscariot](https://archive.sedos.co.uk/2011/lastdaysofjudasiscariot.htm)\
+[The Last Five Years](https://archive.sedos.co.uk/2011/TheLastFiveYears.htm)\
+[Wilde in the City: The Importance of Being Earnest](https://archive.sedos.co.uk/2011/WildeInTheCity.htm)\
+[Fewer Emergencies](https://archive.sedos.co.uk/2011/feweremergencies.htm)\
+[A Little Night Music](https://archive.sedos.co.uk/2011/littlenightmusic.htm)
