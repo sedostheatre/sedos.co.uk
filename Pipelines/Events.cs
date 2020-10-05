@@ -30,7 +30,7 @@ namespace Sedos.Pipelines
                 new SetMetadata("header-image", Config.FromDocument((doc, ctx) => HeaderImageExtensions.CopyAndResizeHeaderImage(doc,ctx))),
                 new SetMetadata("category", "events"),
                 new SetMetadata("background-override", "bg-purple"),
-                new SetMetadata("jsonLd", Config.FromDocument(doc => JsonLD.EventJsonLDFromDocument(doc))),
+                new SetMetadata("jsonLd", Config.FromDocument(doc => JsonLD.Event(doc))),
                 new RenderRazor().WithViewStart("Layout/_EventViewStart.cshtml"),
             };
 
