@@ -4,9 +4,6 @@ using Statiq.Core;
 using Statiq.Html;
 using Statiq.Razor;
 using Statiq.Yaml;
-using Schema.NET;
-using System;
-
 
 namespace Sedos.Pipelines
 {
@@ -33,13 +30,7 @@ namespace Sedos.Pipelines
                 new SetMetadata("header-image", Config.FromDocument((doc, ctx) => HeaderImageExtensions.CopyAndResizeHeaderImage(doc,ctx))),
                 new SetMetadata("category", "events"),
                 new SetMetadata("background-override", "bg-purple"),
-                new SetMetadata("jsonLd",
-                  new PlayAction() // https://schema.org/PlayAction
-                  {
-                    AlternateName = "An Alternative Name",
-                    Name = "foo",  // ### TO DO  - how do I get this from the metadata?
-                    Url = new Uri("https://example.com")
-                  }.ToHtmlEscapedString()),
+                new SetMetadata("jsonLd", Config.FromDocument(doc => JsonLD.EventJsonLDFromDocument(doc))),
                 new RenderRazor().WithViewStart("Layout/_EventViewStart.cshtml"),
             };
 
