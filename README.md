@@ -53,6 +53,23 @@ Changes will be rebuilt and the page should update in sync.
 - [Netlify](https://www.netlify.com/) for hosting
 - [NetlifyCMS](https://www.netlifycms.org/) for content management
 
+### Sub-pages architecture
+Basic process: cs file pipelines process md files.
+Metadata in md files is used as variables in text, headers, navigation, etc.
+Variables include things like title, times, venue.
+
+#### Events:
+- md files from input/events/*.md processed by Pipelines/Events.cs
+- Metadata key, description : ordinality
+  - title : 1
+  - times : 0..1
+    - time, the individual start times : 1..n
+  - image, the image in the page : 1
+  - header-image, the image for the header, if different than the main image : 0..1
+  - recurrence, when the event regularly recurs : 1
+  - venue : 0..1
+  - ticket-prices: 0..1
+
 ## Local Netlify Dev
 - run `npx netlify-cms-proxy-server`
 - add `local_backend: true` to `config.yml`
