@@ -24,7 +24,6 @@ The trustees are elected by the members for three-year terms or co-opted in acco
 ### The trustees are:
 
 **Chair** | Dawn Harrison-Wallace\
-**Vice-Chair** | Mel Johnson\
 **Secretary** | Alex Baker\
 **Trustee with financial responsibility** | Craig Topp\
 **ex officio, Chair of the management committee** | Matt Gould\
