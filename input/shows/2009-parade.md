@@ -93,7 +93,7 @@ sections:
 
       ><footer><cite>Parade, 2009, Fringe Review</cite></footer>
 RedirectFrom:
-  - /2009/Parade.htm
+  - 2009/Parade.htm
 ---
 ***Parade* is a poignant and influential piece of contemporary theatre. Written by Jason Robert Brown, one of Broadway’s most respected young composers, and acclaimed playwright Alfred Uhry *(Driving Miss Daisy*), *Parade* re-tells the true story of the trial of a man accused of the murder of a young girl.**
 
