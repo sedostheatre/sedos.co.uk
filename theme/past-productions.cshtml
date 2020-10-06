@@ -11,7 +11,6 @@ header-image: assets/images/headers/SedosWebsite-Banner-redcurtain.jpg
         @{
             var pastShows = Outputs.FromPipeline("AllShows")
                 .Where(show => show.Get("showtimes", Enumerable.Empty<IDocument>()).All(x => x.Get<DateTime>("time") < DateTime.Now))
-                .Where(show => show.Get("showtimes", Enumerable.Empty<IDocument>()).Any())
                 .OrderBy(show => show.Get("showtimes", Enumerable.Empty<IDocument>()).Select(x => x.Get<DateTime>("time")).OrderBy(x => x).FirstOrDefault())
                 .GroupBy(show => show.Get("year"))
                 .OrderByDescending(grouping => grouping.Key);
