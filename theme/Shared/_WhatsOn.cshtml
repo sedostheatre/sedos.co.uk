@@ -15,16 +15,16 @@
         <div>
             @{
                 var upcomingShows = Outputs.FromPipeline("AllShows")
-                    .Where(doc =>  doc.Get<IEnumerable<IDocument>>("showtimes").Any(time => time.Get<DateTime>("time") > DateTime.Now))
+                    .Where(doc =>  doc.Get("showtimes", Enumerable.Empty<IDocument>()).Any(time => time.Get<DateTime>("time") > DateTime.Now))
                     .OrderBy(doc => doc.Get<IEnumerable<IDocument>>("showtimes").Select(time => time.Get<DateTime>("time")).First());
 
                 var showOnHomePageShows = Outputs.FromPipeline("AllShows")
-                        .Where(doc => !doc.Get<IEnumerable<IDocument>>("showtimes").Any(time => time.Get<DateTime>("time") > DateTime.Now))
+                        .Where(doc => !doc.Get("showtimes", Enumerable.Empty<IDocument>()).Any(time => time.Get<DateTime>("time") > DateTime.Now))
                         .Where(doc => doc.Get("show-on-homepage", false))
                         .OrderBy(doc => doc.Get("order-on-homepage", 1));
 
                 var showsToDisplay = showOnHomePageShows.Concat(upcomingShows);
-            
+
                 <div class="container">
                     <div class="row">
                         @foreach(var show in showsToDisplay)
