@@ -10,7 +10,7 @@ namespace Sedos.Pipelines
     {
         public TopLevelPages()
         {
-            Dependencies.AddRange(nameof(AboutSections), nameof(AllShows), nameof(YourVisitSections));
+            Dependencies.AddRange(nameof(AboutSections), nameof(AllShows), nameof(YourVisitSections), nameof(MarkdownPages));
 
             InputModules = new ModuleList
             {

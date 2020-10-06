@@ -336,3 +336,24 @@ collections:
         fields:
           - {label: title, name: title, widget: string}
           - {label: Details, name: body, widget: markdown, required: false}
+      - label: "2005 review"
+        name: "2005-review"
+        file: "input/2005-review.md"
+        fields:
+          - {label: title, name: title, widget: string}
+          - {label: "Review of year", name: review-of-year, widget: string}
+          - {label: Details, name: body, widget: markdown, required: false}
+      - label: "2006 review"
+        name: "2006-review"
+        file: "input/2006-review.md"
+        fields:
+          - {label: title, name: title, widget: string}
+          - {label: "Review of year", name: review-of-year, widget: string}
+          - {label: Details, name: body, widget: markdown, required: false}
+      - label: "2007 review"
+        name: "2007-review"
+        file: "input/2007-review.md"
+        fields:
+          - {label: title, name: title, widget: string}
+          - {label: "Review of year", name: review-of-year, widget: string}
+          - {label: Details, name: body, widget: markdown, required: false}
