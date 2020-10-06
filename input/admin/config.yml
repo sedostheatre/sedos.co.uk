@@ -98,6 +98,7 @@ collections:
         label: Show Details
         description: Details about shows
         widget: list
+        required: false
         fields:
           - name: title
             label: Title
