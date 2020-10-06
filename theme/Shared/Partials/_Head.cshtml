@@ -13,8 +13,13 @@
     })(window,document,'script','dataLayer','GTM-PG6KHFD');</script>
     <!-- End Google Tag Manager -->
 
-    <!-- JSON-LD SEO tags -->
-    <script type="application/ld+json">
-    @Html.Raw(Model.Get("jsonLd",""));
-    </script>
+    @{
+      if(Model.ContainsKey("jsonLD"))
+      {
+        <!-- JSON-LD SEO tags -->
+        <script type="application/ld+json">
+        @Html.Raw(Model.Get("jsonLd",""));
+        </script>
+      }
+    }
 </head>
