@@ -6,17 +6,30 @@
         var flyer = Model.Get("flyer") as IDocument;
         var flyerImagelink = flyer == null ? "" : Context.GetLink(flyer);
         var showLink = Context.GetLink(Model);
+        var showTitle = Model.Get<string>("title");
     }
-    @if(Model.Get<bool>("has-body-content"))
+
+    @if(flyerImagelink != "")
     {
-        <a href="@showLink" class="show-card-link">
+        if(Model.Get<bool>("has-body-content"))
+        {
+            <a href="@showLink" class="show-card-link">
+                <div class="show-card" style="background-image: url(@flyerImagelink)">
+                </div>
+            </a>
+        }
+        else
+        {
             <div class="show-card" style="background-image: url(@flyerImagelink)">
             </div>
-        </a>
+        }
     }
     else
     {
-        <div class="show-card" style="background-image: url(@flyerImagelink)">
+        <div class="card bg-sedos-blue text-white border-0">
+            <div class="card-header">
+                <h4 class="card-title text-white">@showTitle</h4>
+            </div>
         </div>
     }
 </div>
