@@ -14,7 +14,7 @@ namespace Sedos.Pipelines
 
             InputModules = new ModuleList
             {
-                new ReadFiles("past-productions.cshtml", "about.cshtml", "your-visit.cshtml"),
+                new ReadFiles("past-productions.cshtml", "about.cshtml", "your-visit.cshtml", "all-shows.cshtml"),
             };
 
             ProcessModules = new ModuleList
