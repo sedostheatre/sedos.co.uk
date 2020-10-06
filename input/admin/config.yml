@@ -119,6 +119,12 @@ collections:
         description: Pages on the old site to redirect from
         widget: list
         required: false
+      - name: archive-show
+        label: Archive Show
+        description: An old show we don't have much detail of
+        widget: boolean
+        required: false
+        default: false
   - name: news
     label: News
     description: News articles

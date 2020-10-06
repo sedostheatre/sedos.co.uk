@@ -1,0 +1,40 @@
+---
+title: All Shows
+header-image: assets/images/headers/SedosWebsite-Banner-redcurtain.jpg
+---
+
+@{
+    Layout = "_Page";
+}
+
+<div class="row">
+    @{
+        var pastShows = Outputs.FromPipeline("AllShows")
+            .OrderBy(show => show.Get("showtimes", Enumerable.Empty<IDocument>()).Select(x => x.Get<DateTime>("time")).OrderBy(x => x).FirstOrDefault())
+            .GroupBy(show => show.Get("year"))
+            .OrderByDescending(grouping => grouping.Key);
+
+        @foreach(var grouping in pastShows)
+        {
+            <div>
+                <h4>@grouping.Key</h4>
+            </div>
+            <div>
+                <ul>
+                    @foreach(var show in grouping)
+                    {
+                        if(show.Get<bool>("has-body-content"))
+                        {
+                            <li><a href="@Context.GetLink(show)">@show.Get("title")</a></li>
+                        }
+                        else
+                        {
+                            <li>@show.Get("title")</li>
+                        }
+                    }
+                </ul>
+            </div>
+        }
+    }
+</div>
+
