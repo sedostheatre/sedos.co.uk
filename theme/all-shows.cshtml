@@ -31,6 +31,20 @@ header-image: assets/images/headers/SedosWebsite-Banner-redcurtain.jpg
                         }
                     }
                 </ul>
+
+                var reviewOfYear = Outputs
+                    .FromPipeline("MarkdownPages")
+                    .Where(page => page.Get("review-of-year", "") == grouping.Key.ToString())
+                    .FirstOrDefault();
+
+                if(reviewOfYear != null)
+                {
+                    <p>
+                        <a href="@Context.GetLink(reviewOfYear)">
+                            Read a review of @grouping.Key
+                        </a>
+                    </p>
+                }
             }
         }
     </div>
