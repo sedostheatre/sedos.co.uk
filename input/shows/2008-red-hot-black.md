@@ -18,7 +18,7 @@ header-image: /assets/5506160443_8c815d34fe_o.jpg
 flyer: /assets/4907683376_027fe266d2_o.jpg
 box-office-open: false
 sections:
-  - order: 1
+  - order: 2
     title: GALLERY
     body: <a data-flickr-embed="true"
       href="https://www.flickr.com/photos/sedos/albums/72157626216894584"
@@ -27,6 +27,42 @@ sections:
       width="640" height="480" alt="Red Hot &amp; Black - 2008"></a><script
       async src="//embedr.flickr.com/assets/client-code.js"
       charset="utf-8"></script>
+  - order: 1
+    title: CAST & CREATIVE TEAM
+    body: |-
+      **CAST**
+
+      Kimberly Barker\
+      Michelle Brown\
+      Amber McAlpine\
+      Sarah Boyes\
+      Bridget Cross\
+      Liz Flint\
+      Ruth Huntman\
+      Bethan Kelly Jones\
+      Anne-Marie Leigh\
+      Sarah Lalin\
+      Bec Linten\
+      Karen Lister\
+      Annemarie Littlewood\
+      Gayle Rogers\
+      Jude Perkins\
+      Annalisa Checchi\
+      Lauren Mole\
+      Katie Waller\
+      Susan Williams\
+      Denise Thomas\
+      Haidee Elise\
+      Loretta Freeman\
+      Dan Chasemore\
+      Phillip Deppeller\
+      James Franey\
+      Mark Emmett\
+      Tim Garrad\
+      Joel Hutchings\
+      Geoff Chang\
+      Pedro Rodriguez\
+      Angus Jacobs
 RedirectFrom:
   - 2008/redhotandblack.htm
 ---
