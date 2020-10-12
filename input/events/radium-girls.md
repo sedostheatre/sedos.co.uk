@@ -3,6 +3,7 @@ title: Radium Girls
 times:
   - time: 2020-10-15 20:30
 image: /assets/radium-girls.jpg
+recurrence: Thursday 15 Oct at 8pm
 ---
 **For next Thursday's reading, we have secured the rights to the one act version of D W Gregory's play, *Radium Girls*.**
 
