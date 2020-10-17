@@ -61,7 +61,9 @@ sections:
       **DIRECTOR** | Robert J. Stanex\
       **MUSICAL DIRECTOR** | David Griffiths\
       **CHOREOGRAPHER** | Kimberly Barker\
-      **ASSISTANT DIRECTOR** and **PRODUCER** | Dawn Harrison-Wallace\
+      **SET DESIGNER |** Darren Goad \
+      **ASSISTANT DIRECTOR** and \
+      **PRODUCER** | Dawn Harrison-Wallace\
       **PRODUCER** | Hanna Osmolska\
       **STAGE MANAGER** and **TECHNICAL PRODUCER** | Laura Graham-Matheson
   - order: 2
