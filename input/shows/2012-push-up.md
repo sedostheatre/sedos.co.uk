@@ -33,7 +33,8 @@ sections:
 
       **CREATIVE TEAM**
 
-      **DIRECTOR** | Chris De Pury
+      **DIRECTOR** | Chris De Pury \
+      **SET DESIGNER |** Darren Goad
   - order: 2
     title: GALLERY
     body: <a data-flickr-embed="true"
