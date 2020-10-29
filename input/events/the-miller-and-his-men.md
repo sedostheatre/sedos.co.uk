@@ -11,7 +11,8 @@ From first performances in 1813, it was still running in London in 1835, and in 
 \
 Director, Peter Foster, writes: "I have a personal link to this play as it starred my four times great grandmother, Sarah Egerton, for its original London run at Covent Garden. In addition to that, I love the fact that it contains a host of three-dimensional characters, with heroes, lovers, villains, and acts of revenge and rescue, culminating in a final scene worthy of a Hollywood blockbuster".\
 \
-Successful melodramas are still very popular today as musicals, soap operas and movies. Loved by actors and audiences alike, a good melodrama contains dynamic characters in a fast-moving plot. They may not be great literature, but they certainly make great theatre. \
+Successful melodramas are still very popular today as musicals, soap operas and movies. Loved by actors and audiences alike, a good melodrama contains dynamic characters in a fast-moving plot. They may not be great literature, but they certainly make great theatre. 
+
 To take part in this specially adapted and rehearsed reading, and you haven't read with us before, please complete the form at [https://forms.gle/​6Cvme3kCGerAU9w36](https://forms.gle/6Cvme3kCGerAU9w36) and send us a short filmed monologue (maximum of 2 minutes) via WeTransfer to [readings@sedos.co.uk](mailto:readings@sedos.co.uk). The monologue isn't compulsory, but really does help us when it comes to casting if we haven't seen you act before.
 
 If you have read with us before and would like to take part in this reading, please email us to let us know and we will add you to the mix.\
