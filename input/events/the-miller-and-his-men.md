@@ -19,4 +19,6 @@ If you have read with us before and would like to take part in this reading, ple
 \
 Please ensure that all applications reach us by 6pm on Saturday 31 October. Although we can't cast everyone in every reading, we will try to ensure everyone gets a fair turn.\
 \
-If you are cast, you will be emailed a copy of the script, together with the cast list, on Sunday 1 November. There will be rehearsals on Thursday 5 and Tuesday 10 November with the performance on Thursday 12 November, all at 7.30pm.
+If you are cast, you will be emailed a copy of the script, together with the cast list, on Sunday 1 November. There will be rehearsals on Thursday 5 and Tuesday 10 November.
+
+**We welcome an audience, so do feel free to join us on Thursday 12 November, all at 7.30pm.. Please email readings@sedos.co.uk for the link. We look forward to seeing you there!**
