@@ -4,6 +4,7 @@ times:
   - time: 2020-11-12 19:30
 image: /assets/unnamed-3-.jpg
 venue: Online via Zoom
+recurrence: Thursday 12 November at 7.30pm
 ---
 **First performed in the year *Pride and Prejudice* was published, Regency melodrama *The Miller and his Men* entertained audiences in Britain and the USA before going on to engage generations of Toy Theatre owners as the most popular play.**
 
