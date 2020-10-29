@@ -1,10 +1,10 @@
 ---
 title: Let's Talk About Scripts
 year: "2020"
-authors: A series of weekly online play readings
+authors: A series of fortnightly online play readings
 authors2: Show announced in Friday's newsletter
 authors3: Sign up by Sunday afternoon
-subtitle: Performance following Thursday at 8.30pm
+subtitle: Performance every other Thursday at 8.30pm
 showtimes:
   - time: 2020-10-08 20:30
   - time: 2020-10-15 20:30
@@ -31,9 +31,9 @@ sections: []
 
 Yes, Sedos is excited to announce a series of online play readings, starting on 8 October 2021. While we can't quite start rehearsals in person yet, there's no reason why we can't have a bit of a read and a performance from our living rooms.
 
-For this series of casual weekly readings, we've learned from our colleagues in other societies (some of whom have been running readings since lockdown began) and have taken note of what works particularly well. We intend to present short, fun plays with as many opportunities to get involved via Zoom as possible, and we would love for you to take part as a reader or as an audience member. Costumes and backgrounds are optional but encouraged. Here's how it will work:
+For this series of casual fortnightly readings, we've learned from our colleagues in other societies (some of whom have been running readings since lockdown began) and have taken note of what works particularly well. We intend to present short, fun plays with as many opportunities to get involved via Zoom as possible, and we would love for you to take part as a reader or as an audience member. Costumes and backgrounds are optional but encouraged. Here's how it will work:
 
-* Plays will be announced every Thursday after the weekly reading, as well as in this newsletter.
+* Plays will be announced on Thursday after the weekly reading, as well as in the newsletter.
 * You will have until the following Sunday afternoon to express your interest in that reading via an online form.
 * Casting will be announced on the Monday evening or Tuesday morning via social media (and the cast will be emailed with the script).
 * A brief technical rehearsal for the cast will take place via Zoom on Thursdays at 7pm.
