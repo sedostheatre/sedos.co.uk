@@ -1,7 +1,7 @@
 ---
 title: The Miller and his Men cast announced
 date: 2020-11-05
-image: /assets/millerandhismen-cast.jpg
+image: /assets/millerandhismen.jpg
 ---
 ![The cast of The Miller and his Men](/assets/millerandhismen-cast.jpg "The Miller and his Men")
 
