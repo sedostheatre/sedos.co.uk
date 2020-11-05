@@ -1,5 +1,5 @@
 ---
-title: Sedos launches revamped newsletter
+title: New design for Sedos newsletter
 date: 2020-11-05
 image: /assets/newsletter.jpg
 ---
