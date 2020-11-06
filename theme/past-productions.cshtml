@@ -10,13 +10,15 @@ header-image: assets/images/headers/SedosWebsite-Banner-redcurtain.jpg
     <div>
         @{
             var pastShows = Outputs.FromPipeline("AllShows")
-                .Where(show => show.Get("showtimes", Enumerable.Empty<IDocument>()).All(x => x.Get<DateTime>("time") < DateTime.Now))
-                .Where(show => show.Get("showtimes", Enumerable.Empty<IDocument>()).Any())
-                .OrderBy(show => show.Get("showtimes", Enumerable.Empty<IDocument>()).Select(x => x.Get<DateTime>("time")).OrderBy(x => x).FirstOrDefault())
-                .GroupBy(show => show.Get("year"))
-                .OrderByDescending(grouping => grouping.Key);
+                .Where(show => show.Get("showtimes", Enumerable.Empty<IDocument>()).All(x => x.Get<DateTime>("time") <
+            DateTime.Now))
+            .Where(show => show.Get("showtimes", Enumerable.Empty<IDocument>()).Any())
+            .OrderBy(show => show.Get("showtimes", Enumerable.Empty<IDocument>()).Select(x =>
+            x.Get<DateTime>("time")).OrderBy(x => x).FirstOrDefault())
+            .GroupBy(show => show.Get("year"))
+            .OrderByDescending(grouping => grouping.Key);
 
-            foreach(var grouping in pastShows)
+            foreach (var grouping in pastShows)
             {
                 <div class="banner">
                     <div class="container">
@@ -26,7 +28,7 @@ header-image: assets/images/headers/SedosWebsite-Banner-redcurtain.jpg
                 <div class="past-shows-section">
                     <div class="container">
                         <div class="row">
-                            @foreach(var show in grouping)
+                            @foreach (var show in grouping)
                             {
                                 Html.RenderPartial("Partials/_ShowArchiveCard", show);
                             }
@@ -34,6 +36,24 @@ header-image: assets/images/headers/SedosWebsite-Banner-redcurtain.jpg
                     </div>
                 </div>
             }
-       }
+
+            <div class="banner">
+                <div class="container">
+                    <h1 id="all-shows">All Shows</h1>
+                </div>
+            </div>
+            <div class="past-shows-section">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-md-3 col-sm-6 show-card-wrapper">
+                            <a href="/all-shows" class="show-card-link">
+                                <div class="show-card" style="background-image: url(/assets/listofshows.jpg)">
+                                </div>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        }
     </div>
 </div>
