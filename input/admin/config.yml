@@ -14,6 +14,7 @@ collections:
     slug: "{{fields.year}}-{{title}}"
     create: true
     summary: "{{fields.year}} {{title}}"
+    sortable_fields: ['title', 'year']
     fields:
       - label: Title
         name: title
