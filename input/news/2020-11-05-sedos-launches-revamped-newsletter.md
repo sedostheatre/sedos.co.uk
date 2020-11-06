@@ -5,7 +5,7 @@ image: /assets/newsletter.jpg
 ---
 *6 November 2020*
 
-**This week we unveil a revamped design for our newsletter, which lands in your inbox every Friday.**
+**This week we unveil [a revamped design](https://mailchi.mp/sedos.co.uk/20-11-05) for our newsletter, which lands in your inbox every Friday.**
 
 The fresh look ties in with [our relaunched website](https://sedos.co.uk/news/2020-06-02-sedos-launches-new-website) and there will also be improved behind-the-scenes integration with our box office once we re-start ticketed shows. 
 
