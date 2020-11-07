@@ -599,6 +599,30 @@ image: /assets/aboutus-inthepress.jpg
 >Dark, shocking and compelling - I loved this play! The performances were outstanding - which helped create the desired audience involvement in an almost voyeuristic way! Very clever, and thoroughly enjoyable!
 ><footer><cite>Bash, 2006, Tammy Capaldi - whatsonstage.com</cite></footer>
 
+## *The Shape of Things*
+
+>Ohmigod - I can't believe this isn't in the West End. It's completely compelling! Don't go to some rubbish musical in some huge barn of a theatre - go and see this instead and see what theatre can be like when people really put their hearts into it!
+><footer><cite>The Shape of Things, 2006, Andrew - whatsonstage.com</cite></footer>
+
+>It was a scorching hot and stuffy Tuesday evening in The City; it was going to take something pretty spectacular to make me sit still for 3 hours in a sparse, humid basement theatre. Needless to say, it was and it did! Thoroughly entertaining; a super performance by all concerned. Thought provoking and entertaining.
+><footer><cite>The Shape of Things, 2006, David Ketley - whatsonstage.com</cite></footer>
+
+>Superb show! One of the best things I have seen in London for some time. Pitched perfectly, and cleverly reworked for a British audience. Great performances all round, with special mentions for Jenny, played with a bubby sexiness, and a phenomenal Adam, who was played with a subtlety and likability that made the final scene absolutely heart wrenching. I was riveted throughout - and I only found out afterwards, that this was an amateur company! The west end better pull its socks up!
+><footer><cite>The Shape of Things, 2006, Stephanie - whatsonstage.com</cite></footer>
+
+## *Much Ado About Nothing*
+
+>Clever and funny
+><footer><cite>Much Ado About Nothing, 2006, whatsonstage.com</cite></footer>
+
+## *City of Angels*
+
+>Bobbi/Gabby is phenomenal and both the stones/stines are gorgeous
+><footer><cite>City of Angels, 2006, Elizabeth – whatsonstage.com</cite></footer>
+
+>Absolutely Fantastic - only found out in the interval it was an amateur production! I'd have never realised otherwise! All performances were excellent, but especially impressed with Bobbi and Buddy. Brilliant!
+><footer><cite>City of Angels, 2006, James – whatsonstage.com</cite></footer>
+
 # **2005**
 
 ## *Company*
