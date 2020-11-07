@@ -55,12 +55,16 @@ In July Sedos brought a powerful and mesmerising evening of plays written by one
 ^^^ ![](/assets/bash1.jpg)
 ^^^ Bash
 
+## *The Shape of Things*
 
+>Ohmigod - I can't believe this isn't in the West End. It's completely compelling! Don't go to some rubbish musical in some huge barn of a theatre - go and see this instead and see what theatre can be like when people really put their hearts into it!
+><footer><cite>Andrew - whatsonstage.com on The Shape of Things</cite></footer>
 
-## The Shape of Things
+>It was a scorching hot and stuffy Tuesday evening in The City; it was going to take something pretty spectacular to make me sit still for 3 hours in a sparse, humid basement theatre. Needless to say, it was and it did! Thoroughly entertaining; a super performance by all concerned. Thought provoking and entertaining.
+><footer><cite>David Ketley - whatsonstage.com on The Shape of Things</cite></footer>
 
-Ohmigod - I can't believe this isn't in the west end. It's completely compelling! Don't go to some rubbish musical in some huge barn of a theatre - go and see this instead and see what theatre can be like when people really put their hearts into it! Andrew whatsonstage.com
+>Superb show! One of the best things I have seen in London for some time. Pitched perfectly, and cleverly reworked for a British audience. Great performances all round, with special mentions for Jenny, played with a bubby sexiness, and a phenomenal Adam, who was played with a subtlety and likability that made the final scene absolutely heart wrenching. I was riveted throughout - and I only found out afterwards, that this was an amateur company! The west end better pull its socks up!
+><footer><cite>Stephanie - whatsonstage.com on The Shape of Things</cite></footer>
 
-*It was a scorching hot and stuffy Tuesday evening in The City; it was going to take something pretty spectacular to make me sit still for 3 hours in a sparse, humid basement theatre. Needless to say, it was and it did! Thoroughly entertaining; a super performance by all concerned. Thought provoking and entertaining. David Ketley whatsonstage.com*
-
-*Superb show! One of the best things I have seen in London for some time. Pitched perfectly, and cleverly reworked for a British audience. Great performances all round, with special mentions for Jenny, played with a bubby sexiness, and a phenomenal Adam, who was played with a subtlety and likability that made the final scene absolutely heart wrenching. I was riveted throughout - and I only found out afterwards, that this was an amateur company! The west end better pull its socks up! Stephanie. whatsonstage.com*
+^^^ ![](/assets/shapeofthings1.jpg)
+^^^ The Shape of Things
