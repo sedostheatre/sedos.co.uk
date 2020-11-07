@@ -15,6 +15,9 @@ Director Mickey Killaney’s version of Charles Mee's (re)making of this classic
 
 This was no everyday love story - this was Big Love. 
 
+^^^ ![](/assets/biglove3.jpg)
+^^^ Big Love
+
 ## *Merrily We Roll Along* 
 
 By Stephen Sondheim\
@@ -22,8 +25,11 @@ By Stephen Sondheim\
 
 After the huge success of Sondheim’s return to the Bridewell with *Company* in 2005, Roger Harwood returned with another Sondheim classic. Regarded as one of Sondheim's most eloquent and accessible scores, Merrily had been hugely successful around the world, despite initially lasting just two weeks on Broadway in 1981. Two decades on, after various revisions to the script and the score, it made a triumphant return to the Bridewell to sell out houses for two weeks.
 
->As compelling as the Donmar's \[production]a few years ago
+>As compelling as the Donmar's [production] a few years ago
 ><footer><cite>Sondheim.org on Merrily We Roll Along</cite></footer>
 
 >Mickey Killianey was a convincingly likeable and human Franklin Shepherd - oxymora, if ever two were more apparent! This was no mean feat and also overcame one of the difficulties of the piece: that we meet the main characters at their worst and so do not find it easy to empathise with them as, or until, they become nicer/younger in the second act… For me the hero(ine) of the piece is Mary. Mary is the glue that makes sense of the relationships and really breaks your heart with Not a Day Goes By, even though you think Beth (Bridget Cross) had already done that on the steps of the divorce court. And here Chloë Faine got my vote from the opening; here was a woman who had been on a journey and I wanted to witness it. Right on cue my heart was duly broken - again.
 ><footer><cite>Sondheim Magazine on Merrily We Roll Along</cite></footer>
+
+^^^ ![](/assets/merrily2.jpg)
+^^^ Merrily We Roll Along
