@@ -43,7 +43,7 @@ In July Sedos brought a powerful and mesmerising evening of plays written by one
 
 ## *Bash*
 
->Fantastic play - really absorbing. I thought it was one of the very best plays I have ever seen. Will Harrison-Wallace gave an outstanding performance,
+>Fantastic play - really absorbing. I thought it was one of the very best plays I have ever seen. Will Harrison-Wallace gave an outstanding performance
 ><footer><cite>Vicky - whatsonstage.com on Bash</cite></footer>
 
 >Completely riveting and gobsmackingly good acting - pulls no punches, a dark glimpse into the sides of people we'd rather not see. Still get the heebie-jeebies just thinking about it! NOT TO BE MISSED!
