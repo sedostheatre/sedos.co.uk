@@ -45,6 +45,9 @@ For the final show of the year Sedos were delighted to secure the rights to the 
 >The cast give enthusiastic performances ... David Griffiths' musical direction produces strong chorus pieces and solo performances. Direction, from Dan Chasemore and Chloe Faine, results in all cast members maintaining their characters within and between scenes.
 ><footer><cite>Fringe Report on Jekyll & Hyde</cite></footer>
 
+^^^ ![](/assets/4838694391_05b416f617_o.jpg)
+^^^ Jekyll & Hyde
+
 A grand finale to the year’s productions, *Jekyll & Hyde* also featured William Harrison-Wallace, Dan Waters, Tom Brennan, Doug Smith, James Franey, Brad Green, Jo Webber, Charlotte Price, Pedro Rodriguez, Gayle Rogers, Amy Royle, Pam O’Brien, Vanessa Giadom, Dee Gibson, Alison Grace, Paul Emmott, Glynn Newcombe, Kate Lindsay, Liz Flint, Jim Taylor and Andrew Macpherson. 
 
 To celebrate not only the achievements of the last 100 years but also of the 2005 season the Sedos Moulin Rouge Ball was held in December. Over 150 society members and friends, dressed to the nines, gathered at a totally transformed Bridewell Theatre and enjoyed a champagne reception, a three-course meal, a cabaret and a disco until the early hours! A fabulous and glamorous end to the year!
