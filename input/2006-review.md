@@ -7,7 +7,7 @@ review-of-year: "2006"
 ## *Big Love*
 
 By Charles Mee\
-12th - 18th March 2006
+12-18 March 2006
 
 *Big Love* was a modern retelling of Aeschylus' *Suppliant Women*, with all the moral richness of the original, but only half the calories. When Lydia and her 49 sisters decide to flee their arranged marriage to Nikos and his 49 brothers, they land on the shores of Italy, where Piero and his extended family welcome them with open arms - until the men arrive to claim contractual rights to the (mostly) unwilling brides. 
 
@@ -21,7 +21,7 @@ This was no everyday love story - this was Big Love. 
 ## *Merrily We Roll Along* 
 
 By Stephen Sondheim\
-31st May - 10th June 2006 
+31 May-10 June 2006 
 
 After the huge success of Sondheim’s return to the Bridewell with *Company* in 2005, Roger Harwood returned with another Sondheim classic. Regarded as one of Sondheim's most eloquent and accessible scores, Merrily had been hugely successful around the world, despite initially lasting just two weeks on Broadway in 1981. Two decades on, after various revisions to the script and the score, it made a triumphant return to the Bridewell to sell out houses for two weeks.
 
@@ -36,7 +36,7 @@ After the huge success of Sondheim’s return to the Bridewell with *Company* in
 
 ## *The Shape of Things* and *Bash*
 
-18th - 22nd July 2006\
+18-22 July 2006\
 **A Neil LaBute Double Bill : 2 one act plays**
 
 In July Sedos brought a powerful and mesmerising evening of plays written by one of America's greatest modern writers to the Bridewell. Exploring themes of art, death, love, relationships, anger and beauty, both plays worked together to explore the modern western psyche.
@@ -68,3 +68,33 @@ In July Sedos brought a powerful and mesmerising evening of plays written by one
 
 ^^^ ![](/assets/shapeofthings1.jpg)
 ^^^ The Shape of Things
+
+## *Much Ado About Nothing*
+
+11-21 September 2006\
+Shakespeare in the City 
+
+Once again Sedos toured the city of London with a modern version of a Shakespeare classic. A re-imagining of the Bard’s classic comedy as a Thursday evening sitcom, brought audiences across several of the City’s best know institutions into their boardroom for a quick fix of Shakespeare and a glass or two of champagne. Directed by Rebecca Smith, and starring Tom Brennan and Juliette Chrisman, this Shakespearian sitcom impressed audiences across the city.
+
+>Clever and funny
+><footer><cite>Whatsonstage.com on Much Ado About Nothing</cite></footer>
+
+^^^ ![](/assets/muchado.jpg)
+^^^ Much Ado About Nothing
+
+## *City of Angels*
+
+8-18 November 2006
+
+A hugely ambitious project, Sedos took on the challenge of bringing Cy Coleman and Larry Gelbart’s time traveling, film noir detective musical to the Bridewell Theatre. Directed by Dan Chasemore, with musical direction from David Griffths and Choreography by Angus Jacobs, Tom Brennan and Andrew Overin starred as Stone and Stine, two sides of a Hollywood screenwriters personality as we see the two stories of our protagonists play out simultaneously.
+
+City of Angels played a sell-out two week run at the Bridewell theatre, and received excellent reviews.
+
+>Bobbi/Gabby is phenomenal and both the stones/stines are gorgeous
+><footer><cite>Elizabeth – whatsonstage.com on City of Angels</cite></footer>
+
+>Absolutely Fantastic - only found out in the interval it was an amateur production! I'd have never realised otherwise! All performances were excellent, but especially impressed with Bobbi and Buddy. Brilliant!
+><footer><cite>James – whatsonstage.com on City of Angels, 5 stars</cite></footer>
+
+^^^ ![](/assets/cityofangels3.jpg)
+^^^ City of Angels
