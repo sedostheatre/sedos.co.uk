@@ -33,3 +33,34 @@ After the huge success of Sondheim’s return to the Bridewell with *Company* in
 
 ^^^ ![](/assets/merrily2.jpg)
 ^^^ Merrily We Roll Along
+
+## *The Shape of Things* and *Bash*
+
+18th - 22nd July 2006\
+**A Neil LaBute Double Bill : 2 one act plays**
+
+In July Sedos brought a powerful and mesmerising evening of plays written by one of America's greatest modern writers to the Bridewell. Exploring themes of art, death, love, relationships, anger and beauty, both plays worked together to explore the modern western psyche.
+
+## *Bash*
+
+>Fantastic play - really absorbing. I thought it was one of the very best plays I have ever seen. Will Harrison-Wallace gave an outstanding performance,
+><footer><cite>Vicky - whatsonstage.com on Bash</cite></footer>
+
+>Completely riveting and gobsmackingly good acting - pulls no punches, a dark glimpse into the sides of people we'd rather not see. Still get the heebie-jeebies just thinking about it! NOT TO BE MISSED!
+><footer><cite>whatsonstage.com on Bash</cite></footer>
+
+>Dark, shocking and compelling - I loved this play! The performances were outstanding - which helped create the desired audience involvement in an almost voyeuristic way! Very clever, and thoroughly enjoyable!
+><footer><cite>Tammy Capaldi for whatsonstage.com on Bash</cite></footer>
+
+^^^ ![](/assets/bash1.jpg)
+^^^ Bash
+
+
+
+## The Shape of Things
+
+Ohmigod - I can't believe this isn't in the west end. It's completely compelling! Don't go to some rubbish musical in some huge barn of a theatre - go and see this instead and see what theatre can be like when people really put their hearts into it! Andrew whatsonstage.com
+
+*It was a scorching hot and stuffy Tuesday evening in The City; it was going to take something pretty spectacular to make me sit still for 3 hours in a sparse, humid basement theatre. Needless to say, it was and it did! Thoroughly entertaining; a super performance by all concerned. Thought provoking and entertaining. David Ketley whatsonstage.com*
+
+*Superb show! One of the best things I have seen in London for some time. Pitched perfectly, and cleverly reworked for a British audience. Great performances all round, with special mentions for Jenny, played with a bubby sexiness, and a phenomenal Adam, who was played with a subtlety and likability that made the final scene absolutely heart wrenching. I was riveted throughout - and I only found out afterwards, that this was an amateur company! The west end better pull its socks up! Stephanie. whatsonstage.com*
