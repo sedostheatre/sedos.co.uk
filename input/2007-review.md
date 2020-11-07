@@ -22,3 +22,19 @@ As we entered the summer months it was time for the return of our hugely success
 
 ^^^ ![](/assets/4907801028_31c118d06e_o.jpg)
 ^^^ Eurosedos 2007 - The Battle
+
+## *The Odd Couple (Female)* and *Mary Stuart*
+
+After the success of Sedos' 2005 Edinburgh tour, Sedos decided again to venture North of the border with two very different shows. James Franey and Laura Capaldi directed the Neil Simon classic *The Odd Couple*, with a female twist. Anne Marie Leigh was superb as the super slobby Olive who welcomes the uptight Florence (Sarah Beebe) into her New York home. Perfect for the Edinburgh fringe scene, it received excellent reviews. Along similar lines Dan Chasemore directed the rather less hilarious *Mary Stuart*.
+
+Still buzzing from the recent Donmar revival, Bridget Cross played the titular Mary Stuart, the queen of Scots imprisoned by her regal cousin, Queen Elizabeth I (Chloe Faine). Playing directly after the odd couple, Mary Stuart was a moving and intense production with several standout performances from some Sedos regulars and newcomers alike.
+
+^^^ ![](/assets/marystuart2.jpg)
+^^^ Mary Stuart
+
+## *Julius Caesar*
+
+Shakespeare took to the city again with Juliette Chrisman’s production of *Julius Caesar*. Moving the action from ancient Rome to contemporary Westminster, the classic tale of ambition, succession and betrayal was timely and poignant. Playing at a variety of locations across the city of London, including the Stock Exchange itself, Sedos was again able to bring the bard bang up to date.
+
+^^^ ![](/assets/juliuscaeser3.jpg)
+^^^ Julius Caesar
