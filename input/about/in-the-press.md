@@ -554,7 +554,7 @@ image: /assets/aboutus-inthepress.jpg
 ## *Festen*
 
 >The brilliance of Festen is that it completely undercuts and exposes our dependency on social niceties.... The success of Anne-Marie Leigh’s production of Festen at the Bridewell owes much to the simple elegance of Bronia Kupczyk’s set design. As Christian, Panny Skrivanos is a tall, brooding figure, though not an unkind one. He is...well-matched by Craig Karpel as Helge, a small, wiry man with a big smile and enormous charisma. The scene in which he calmly lists his son’s childhood crimes and history of mental instability is chilling both in its blitheness and the utter sincerity of Karpel’s delivery.
-><footer><cite>Extra Extra</cite></footer>
+><footer><cite>Festen, 2009, Extra Extra</cite></footer>
 
 # **2008**
 
@@ -577,3 +577,25 @@ image: /assets/aboutus-inthepress.jpg
 
 > A good performance which can stand comparison with the best the professional stage has to offer
 ><footer><cite>Sweeney Todd, 2007, Sweeney Todd Forum online</cite></footer>
+
+# **2005**
+
+## *Company*
+
+>Sedos's production was cleverly directed by Roger Harwood, making great use of the space and artfully supported by a tight, nine-piece orchestra and superb Musical Director. Ensemble work was superb – the cast were all working together and most importantly, listening to each other which is a must for any of Sondheim’s musically challenging pieces...it was an entertaining, admirable effort for which Sedos is to be congratulated.
+><footer><cite>Company, 2005, Amateur Stage</cite></footer>
+
+## *Six Degrees of Separation*
+
+>In Luke Simond’s production John Guare’s highly polished exploration gets some added emotional charge from strong performances by Katey D’Ancona and Joespeh Coelho
+><footer><cite>Six Degrees of Separation, 2005, Time Out</cite></footer>
+
+## *Sexual Perversity in Chicago*
+
+> It’s ferocious rude stuff, smartly delivered in Matt Harrison’s production
+><footer><cite>Sexual Perversity in Chicago, 2005, Time Out</cite></footer>
+
+## *Jekyll & Hyde*
+
+>The cast give enthusiastic performances ... David Griffiths' musical direction produces strong chorus pieces and solo performances. Direction, from Dan Chasemore and Chloe Faine, results in all cast members maintaining their characters within and between scenes.
+><footer><cite>Jekyll & Hyde, 2005, Fringe Report</cite></footer>
