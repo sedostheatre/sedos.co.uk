@@ -83,7 +83,7 @@ sections:
 
       **SOUND DESIGN** | Adam Coppard\
 
-      **COSTUME DESIGN**| Angus Jacobs and Becs Crighton\
+      **COSTUME DESIGN** | Angus Jacobs and Becs Crighton\
 
       **MARKETING** | Pippa Kyle\
 
