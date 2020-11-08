@@ -48,7 +48,7 @@ sections:
       **DIRECTOR** | Matt Gould\
       **PRODUCERS** | Alex Dorlandt and Emma Taylor\
       **ASSISTANT DIRECTOR** | Andrew Macpherson\
-      **TECHNICAL SUPERVISOR** |Steven King
+      **TECHNICAL SUPERVISOR** | Steven King
   - order: 2
     title: GALLERY
     body: <a data-flickr-embed="true"
