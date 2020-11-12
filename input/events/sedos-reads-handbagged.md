@@ -3,15 +3,15 @@ title: "Sedos Reads: Handbagged"
 times:
   - time: 2020-11-26 19:30
 image: /assets/chess-handbagged.jpg
+recurrence: Thursday 26 November at 7.30pm
 ---
-*We are excited to have secured the rights to the one act version of Moira Buffini's comedy, to be performed via Zoom at 7:30 on Thursday 26 November.*
+![](/assets/chess-handbagged.jpg)
 
-Handbags, hairspray and sensible shoes.
+**We are excited to have secured the rights to the one act version of Moira Buffini's comedy *Handbagged*, to be performed via Zoom at 7:30 on Thursday 26 November 2020.**
 
-The monarch - Liz.
-
-Her most powerful subject - Maggie.
-
+Handbags, hairspray and sensible shoes.\
+The monarch - Liz.\
+Her most powerful subject - Maggie.\
 One believed there was no such thing as society. The other had vowed to serve it.
 
 For over a decade, Margaret Thatcher met the Queen for a weekly audience. With all her previous Prime Ministers the Queen enjoyed a fairly informal relationship, but with Mrs Thatcher, things were different.
@@ -22,8 +22,10 @@ If you would like to take part in this reading and you haven't read with us befo
 \
 If you have read with us before and would like to take part in this reading, please email us to let us know and we will add you to the mix.\
 \
-Please ensure that all applications reach us by 6pm on Wednesday 18 November. There will be one rehearsal at 7:30pm on Monday 23 November.
+Please ensure that all applications reach us by 6pm on Wednesday 18 November. 
+
+There will be one rehearsal at 7:30pm on Monday 23 November.
 
 Note that this play is for 6 actors, so it is unlikely we will be able to cast all applicants. We are not planning to cast according to the ages of the characters.
 
-We welcome an audience, so do feel free to join us on Thursday 26 November at 7:30pm. Please email [readings@sedos.co.uk](mailto:readings@sedos.co.uk) for the link. We look forward to seeing you there!
+**We welcome an audience, so do feel free to join us on Thursday 26 November at 7:30pm. Please email [readings@sedos.co.uk](mailto:readings@sedos.co.uk) for the link. We look forward to seeing you there!**
