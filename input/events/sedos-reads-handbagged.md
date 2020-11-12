@@ -3,6 +3,7 @@ title: "Sedos Reads: Handbagged"
 times:
   - time: 2020-11-26 19:30
 image: /assets/chess-handbagged.jpg
+venue: Online via Zoom
 recurrence: Thursday 26 November at 7.30pm
 ---
 ![](/assets/chess-handbagged.jpg)
