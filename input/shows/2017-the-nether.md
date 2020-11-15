@@ -12,7 +12,7 @@ showtimes:
 showtime-summary: 26-30 September 2017
 venue: Bridewell Theatre
 primary-color: "#079e8d"
-header-image: /assets/nether-cast-650.jpg
+header-image: /assets/37303376032_2940499ece_k.jpg
 flyer: /assets/thenether-poster.jpg
 sections:
   - title: CAST & CREATIVE TEAM
