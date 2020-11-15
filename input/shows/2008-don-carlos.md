@@ -18,7 +18,7 @@ showtime-summary: 5-6 AUGUST 2008 AT THE COCKPIT THEATRE, LONDON; 17-23 AUGUST
   2008 At C CUBED, VENUE 5, EDINBURGH
 venue: The Cockpit Theatre, London, and C Cubed, Venue 5, Edinburgh Fringe Festival
 primary-color: "#710f0c"
-header-image: /assets/4898528989_5738db5d57_o.jpg
+header-image: /assets/4899495536_c92b64bbea_o.jpg
 flyer: /assets/doncarlos.jpg
 box-office-open: false
 sections:
