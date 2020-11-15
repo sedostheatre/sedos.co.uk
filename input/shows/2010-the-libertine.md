@@ -14,7 +14,7 @@ showtimes:
 showtime-summary: 2-6 March 2010
 venue: Bridewell Theatre
 primary-color: "#9e5020"
-header-image: /assets/4875471668_da114c2e3e_o.jpg
+header-image: /assets/libertine.jpg
 flyer: /assets/4907682456_065f925eb6_o.jpg
 box-office-open: false
 sections:
