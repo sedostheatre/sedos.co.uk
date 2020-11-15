@@ -15,7 +15,7 @@ showtimes:
 showtime-summary: 23-27 November 2011
 venue: Bridewell Theatre
 primary-color: "#ef2427"
-header-image: /assets/kiss-banner.jpg
+header-image: /assets/5206853270_8b2d1416cd_o.jpg
 flyer: /assets/spider_a5_final_front_sb_600.jpg
 box-office-open: false
 sections:
