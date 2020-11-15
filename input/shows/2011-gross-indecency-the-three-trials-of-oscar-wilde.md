@@ -9,7 +9,7 @@ showtime-summary: 6 February 2011
 venue: The Winterflood Theatre
 primary-color: "#a7a7a7"
 header-image: /assets/5424677652_7c6ce863b3_k.jpg
-flyer: /assets/399px-oscar_wilde_portrait.jpg
+flyer: /assets/grossindecency.jpg
 box-office-open: false
 sections:
   - order: 1
