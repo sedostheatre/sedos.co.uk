@@ -12,7 +12,7 @@ showtimes:
   - time: 2014-03-08 19:30
 showtime-summary: 4-8 March 2014
 primary-color: "#544e4e"
-header-image: /assets/12928173393_beeb7c3827_k.jpg
+header-image: /assets/12928020255_ddbaef21a7_k.jpg
 flyer: /assets/hcwflyerfront_600.jpg
 box-office-open: false
 sections:
