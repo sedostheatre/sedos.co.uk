@@ -7,7 +7,7 @@ image: /assets/tdh.jpg
 
 **We have now completed the upload of our back catalogue of past shows to [this new website](https://sedos.co.uk/news/2020-06-02-sedos-launches-new-website).**
 
-It has been a huge manual process to transfer all our previous shows from the old Sedos website to the new one and we're delighted this is now finished and people can look through our old productions on the new site. [Check out the back catalogue here.](https://sedos.co.uk/past-productions) 
+It has been a huge manual process to transfer all our previous shows from the old Sedos website to the new one and we're delighted this is now finished and people can look through our past productions on the new site. [Check out the back catalogue here.](https://sedos.co.uk/past-productions) 
 
 Thank you to Pippa Kyle and Stephen Beeny for moving the shows across and to website designer Olly Levett for lots of tidying up of bits and bobs!
 
