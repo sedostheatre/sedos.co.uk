@@ -14,7 +14,7 @@ showtimes:
 showtime-summary: 28 October-1 November 2014
 venue: Bridewell Theatre
 primary-color: "#36afcc"
-header-image: /assets/15629937896_3155b21364_k.jpg
+header-image: /assets/15468123740_98d1236b32_k.jpg
 flyer: /assets/bb_a5_front_3-final-600_000.jpg
 box-office-open: false
 sections:
