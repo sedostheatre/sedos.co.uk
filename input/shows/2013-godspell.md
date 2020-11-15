@@ -1,8 +1,7 @@
 ---
 title: Godspell
 year: "2013"
-authors: Music and lyrics by STEPHEN SCHWARTZ  Conceived and Originally Directed
-  by John Michael Tebelak
+authors: Music and lyrics by STEPHEN SCHWARTZ
 authors2: Book by JOHN MICHAEL TEBELAK
 authors3: Conceived and originally directed by JOHN MICHAEL TEBELAK
 subtitle: "A radical new production "
