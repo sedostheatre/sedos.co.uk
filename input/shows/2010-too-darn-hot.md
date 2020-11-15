@@ -15,7 +15,7 @@ showtimes:
 showtime-summary: 28 September-2 October 2010
 venue: Bridewell Theatre
 primary-color: "#73c7a3"
-header-image: /assets/5042316595_cb2bbc87bd_o.jpg
+header-image: /assets/5042316595_cb2bbc87bd_o-2.jpg
 flyer: /assets/5017966927_e1e1416f28_o.jpg
 box-office-open: false
 sections:
