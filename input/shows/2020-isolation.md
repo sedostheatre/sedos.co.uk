@@ -21,7 +21,8 @@ sections:
 
       Ioana Andrei\
       Alicia Clarke\
-      Dickon Farmer\
+      Dickon Farmer \
+      Will Harrison-Wallace \
       Simona Hughes \
       Patricia Jones \
       Benjamin Kynaston \
@@ -44,6 +45,7 @@ sections:
       Issy Flower\
       Pippa Kyle\
       Emma J Leaver \
+      Michael Reffold\
       Natalie Woodward
 
       **CREATIVE TEAM**\
@@ -86,6 +88,10 @@ sections:
       &nbsp;
 
       <div class="video-responsive"><?# YouTube GsTFUT8_Qb4 /?></div>
+
+      <div class="video-responsive"><?# YouTube RNbN9_KpllI /?></div>
+
+      <div class="video-responsive"><?# YouTube RO38Q_XWgkU /?></div>
 RedirectFrom:
   - 2020/isolation.htm
 ---
