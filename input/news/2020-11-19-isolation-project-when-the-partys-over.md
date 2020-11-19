@@ -4,7 +4,7 @@ date: 2020-11-19
 image: /assets/will-whentheparty-sover.jpg
 ---
 ^^^ ![](/assets/will-whentheparty-sover.jpg)
-^^^ 
+^^^
 
 *19 November 2020*
 
@@ -18,6 +18,6 @@ Michael has been an audience member for a number of Sedos shows, but this is the
 
 If you participated in our Isolation project but your video hasn't appeared yet, please contact [marketing@sedos.co.uk](mailto:marketing@sedos.co.uk) so we can make sure everything is shared!   
 
-<div class="video-responsive"><?# YouTube https://youtu.be/RNbN9_KpllI /?></div>
+<div class="video-responsive"><?# YouTube RNbN9_KpllI /?></div>
 
-<div class="video-responsive"><?# YouTube https://youtu.be/RO38Q_XWgkU /?></div>
+<div class="video-responsive"><?# YouTube RO38Q_XWgkU /?></div>
