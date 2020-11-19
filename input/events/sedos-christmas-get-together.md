@@ -7,10 +7,16 @@ venue: Online via Zoom
 ---
 ![](/assets/christmastree-landscape.jpg)
 
-**LET'S GET CHRISTMAS STARTED**
+**Let's get Christmas started**
 
 Celebrate the end of lockdown 2.0 with quiz master extraordinaire James Franey, who returns to our small screens on Tuesday 1 December with a festive night of fun and games. 
 
 Christmas sparkles, jumpers, hats and general festive attire encouraged and yes, there might be a mini-sing along! Plus, who knows, we might get set free at midnight. 
 
-More info coming soon, but start gathering your teams of six.
+**What do you need to do to join in with the festivities?**
+
+Gather your team of six (virtually, of course). The team leader needs to submit the team name to mailto:events@sedos.co.uk by 5pm on Saturday 28 November.  
+
+The team leader will then receive the zoom link and joining instructions for their team on Sunday 29 November.  
+
+Don’t have a team lined up? If you would like to join in the fun and are happy to be put in a team with other Sedos quizzers, please email [](mailto:events@sedos.co.uk)mailto:events@sedos.co.uk and we’ll bring you together with some other fun people.
