@@ -4,6 +4,7 @@ times:
   - time: 2020-12-01 19:00
 image: /assets/christmastree.jpg
 venue: Online via Zoom
+recurrence: Tuesday 1 December
 ---
 ![](/assets/christmastree-landscape.jpg)
 
