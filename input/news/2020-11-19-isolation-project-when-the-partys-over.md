@@ -8,7 +8,7 @@ image: /assets/will-whentheparty-sover.jpg
 
 *19 November 2020*
 
-**Our Isolation video project continues with two versions of *When the Party's Over,* by Michael Reffold. Having read the script a few times, Will Harrison-Wallace realised he had had some different ideas on how to deliver the script, so recorded two very different versions. Which do you prefer?**
+**Our [Isolation video project](https://sedos.co.uk/shows/2020-isolation) continues with two versions of *When the Party's Over,* by Michael Reffold. Having read the script a few times, Will Harrison-Wallace realised he had had some different ideas on how to deliver the script, so recorded two very different versions. Which do you prefer?**
 
  We asked Michael which version came closest to his vision of the monologue and he told us: "I loved both performances and actually I think my intention was to have the mood pitched somewhere between the two, but I was really pleased to see he’d picked up on the darker subtext I had threaded through (or tried to at least!)."
 
