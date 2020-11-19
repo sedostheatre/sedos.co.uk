@@ -9,17 +9,12 @@ image: /assets/chess-handbagged.jpg
 
 Thanks to everyone who applied for this reading. Unfortunately we couldn't cast everyone, but we are excited to see this great cast take on this very entertaining play:
 
-Q | Pamela Major
-
-T | Maria Waters
-
-LIZ | Naomi Bowman
-
-MAGS | Kathryn Felton
-
-RON | David Pearson
-
-SHEA | Rhydian Harris
+**Q** | Pamela Major\
+**T** | Maria Waters\
+**LIZ** | Naomi Bowman\
+**MAGS** | Kathryn Felton\
+**RON** | David Pearson\
+**SHEA** | Rhydian Harris
 
 Over the course of a decade, two of Britain’s most iconic women meet regularly. In private. Sharing their views on what it means to be British and navigating their opposing opinions, do their smiles tell a true story? What actually happened behind those closed doors?
 
