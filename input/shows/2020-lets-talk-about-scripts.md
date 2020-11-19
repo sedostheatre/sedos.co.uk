@@ -4,17 +4,17 @@ year: "2020"
 authors: A series of fortnightly online play readings
 authors2: Show announced in Friday's newsletter
 authors3: Sign up by Sunday afternoon
-subtitle: Performance every other Thursday at 8.30pm
+subtitle: Performance every other Thursday at 7.30pm
 showtimes:
-  - time: 2020-10-08 20:30
-  - time: 2020-10-15 20:30
-  - time: 2020-10-22 20:30
-  - time: 2020-10-29 20:30
-  - time: 2020-11-05 20:30
-  - time: 2020-11-12 20:30
-  - time: 2020-11-19 20:30
-  - time: 2020-11-26 20:30
-  - time: 2020-12-03 20:30
+  - time: 2020-10-08 19:30
+  - time: 2020-10-15 19:30
+  - time: 2020-10-22 19:30
+  - time: 2020-10-29 19:30
+  - time: 2020-11-05 19:30
+  - time: 2020-11-12 19:30
+  - time: 2020-11-19 19:30
+  - time: 2020-11-26 19:30
+  - time: 2020-12-10 19:30
 showtime-summary: ""
 show-on-homepage: true
 order-on-homepage: 1
@@ -37,7 +37,7 @@ For this series of casual fortnightly readings, we've learned from our colleague
 * You will have until the following Sunday afternoon to express your interest in that reading via an online form.
 * Casting will be announced on the Monday evening or Tuesday morning via social media (and the cast will be emailed with the script).
 * A brief technical rehearsal for the cast will take place via Zoom on Thursdays at 7pm.
-* The performance will take place via Zoom on Thursdays at 8.30pm (after which we will announce the next week's play).
+* The performance will take place via Zoom on Thursdays at 7.30pm (after which we will announce the next week's play).
 
 While we can't guarantee a role to everyone who applies, we will aim to be fair and ensure no one misses out over the course of the season. Of course, anyone who isn't cast is encouraged to dial in for the performance. Note that you must be a current Sedos member to read, but anyone is able to watch.
 
