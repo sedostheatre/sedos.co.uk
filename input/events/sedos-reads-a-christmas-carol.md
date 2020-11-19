@@ -14,3 +14,6 @@ If you have read with us before and would like to take part in this reading, ple
 Please ensure that all applications reach us by 6pm on Saturday 28 November. Although we can't cast everyone in every reading, we will try to ensure everyone gets a fair turn. \
 \
 If you are cast, you will be emailed a copy of the script, together with the cast list, on Sunday 29 November. There will be rehearsals on Thursday 3 and Tuesday 8 December with the performance on Thursday 10 December, all at 7.30pm.
+
+^^^ ![](/assets/20201118_231141.jpg)
+^^^
