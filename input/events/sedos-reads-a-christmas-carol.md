@@ -2,7 +2,7 @@
 title: "Sedos Reads: A Christmas Carol"
 times:
   - time: 2020-12-10 19:30
-image: /assets/20201118_231141.jpg
+image: /assets/20201118_231141landscape.jpg
 venue: Online via Zoom
 ---
 Arguably Charles Dickens most famous novel, and certainly one of the best known Christmas stories, this lively theatrical adaptation is by director Peter Foster following the success of *[The Miller and his Men](https://sedos.co.uk/news/2020-11-05-the-miller-and-his-men-cast-announced)*. \
