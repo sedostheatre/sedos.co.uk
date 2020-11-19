@@ -7,7 +7,7 @@ venue: Online via Zoom
 ---
 Arguably Charles Dickens most famous novel, and certainly one of the best known Christmas stories, this lively theatrical adaptation is by director Peter Foster following the success of *[The Miller and his Men](https://sedos.co.uk/news/2020-11-05-the-miller-and-his-men-cast-announced)*. \
 \
-To take part in this specially adapted and rehearsed reading, if you haven't read with us before, please complete the form at [https://forms.gle/​6Cvme3kCGerAU9w36]([https://forms.gle/​6Cvme3kCGerAU9w36](https://forms.gle/6Cvme3kCGerAU9w36)) and send us a short filmed monologue (maximum of 2 minutes) via WeTransfer to mailto:readings@sedos.co.uk. The monologue isn't compulsory, but really does help us when it comes to casting if we haven't seen you act before.
+To take part in this specially adapted and rehearsed reading of *A Christmas Carol*, if you haven't read with us before, please complete the form at [https://forms.gle/​6Cvme3kCGerAU9w36]([https://forms.gle/​6Cvme3kCGerAU9w36](https://forms.gle/6Cvme3kCGerAU9w36)) and send us a short filmed monologue (maximum of 2 minutes) via WeTransfer to mailto:readings@sedos.co.uk. The monologue isn't compulsory, but really does help us when it comes to casting if we haven't seen you act before.
 
 If you have read with us before and would like to take part in this reading, please email us to let us know and we will add you to the mix. 
 
