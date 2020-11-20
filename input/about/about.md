@@ -21,7 +21,7 @@ With the exception of brief intermissions during the two World Wars, since then 
 
 Some of the better-known names who performed for the society in the early stage of their careers include [Dame Anna Neagle](http://en.wikipedia.org/wiki/Anna_Neagle) (who danced in the chorus as Marjorie Robertson), [Franklin Engelmann](http://en.wikipedia.org/wiki/Franklin_Engelmann) of post war BBC fame, [Patricia Roc](http://en.wikipedia.org/wiki/Patricia_Roc), [Guy Middleton](http://en.wikipedia.org/wiki/Guy_Middleton) and [Rosalie Crutchley](http://en.wikipedia.org/wiki/Rosalie_Crutchley).
 
-More recently television luminaries such as [Nicholas Parsons](https://en.wikipedia.org/wiki/Nicholas_Parsons) and [Faye Barker](http://en.wikipedia.org/wiki/Faye_Barker) have made guest appearances. 
+More recently television luminaries such as [Nicholas Parsons](https://en.wikipedia.org/wiki/Nicholas_Parsons) and [Faye Barker](http://en.wikipedia.org/wiki/Faye_Barker) have made guest appearances.
 
 **If you want to find out more about Sedos, please email** [membership@sedos.co.uk](mailto:membership@sedos.co.uk) **for more details, and our membership secretary will be happy to get back to you!**
 

@@ -9,11 +9,11 @@ namespace Sedos.Pipelines
     {
         public Redirects()
         {
-            Dependencies.AddRange(nameof(AllShows), nameof(News));
+            Dependencies.AddRange(nameof(AllShows), nameof(News), nameof(TopLevelPages));
 
             ProcessModules = new ModuleList
             {
-                new ReplaceDocuments(nameof(AllShows), nameof(News)),
+                new ReplaceDocuments(nameof(AllShows), nameof(News), nameof(TopLevelPages)),
                 new GenerateRedirects().WithAdditionalOutput("_redirects", redirects => string.Join(Environment.NewLine, redirects.OrderBy(r => r.Key).Select(r => $"/{r.Key} {r.Value} 301!"))),
             };
 
