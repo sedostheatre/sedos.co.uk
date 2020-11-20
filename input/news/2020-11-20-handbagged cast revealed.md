@@ -20,4 +20,4 @@ Over the course of a decade, two of Britain’s most iconic women meet regularly
 
 The meetings between Queen Elizabeth II, and Margaret Thatcher became infamous in the ’80s. In this theatrical comedy, Moira Buffini imagines their relationship, and looks at what might have happened when two of the most powerful characters of our time came face-to-face.
 
-We would love to have a large audience for this one, so please email [readings@sedos.co.uk](mailto:readings@sedos.co.uk) for the Zoom link if you would like to join us. The reading will take place at 7:30 on Thursday 26 November.
+We would love to have a large audience for this one, so please email [readings@sedos.co.uk](mailto:readings@sedos.co.uk) for the Zoom link if you would like to join us. The reading will take place at 7.30pm on Thursday 26 November.
