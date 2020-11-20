@@ -9,4 +9,4 @@ NODA are therefore currently (July 2020) looking for new reps for our district. 
 
 "Briefly, there would be the need to set aside time to visit shows and to write reports (although district 1 is one of the smaller districts by number of societies) and, of course, hands on experience of amateur theatre is important. The role is fun and it is a great chance to give something back to amateur theatre in London."
 
-He would be very happy to speak to anyone that is interested in the role so please feel free to contact him on mailto:andrew.rogers@noda.org.uk
+He would be very happy to speak to anyone that is interested in the role so please feel free to contact him on [andrew.rogers@noda.org.uk](mailto:andrew.rogers@noda.org.uk)
