@@ -1,10 +1,10 @@
 ---
 title: Sedos Christmas Get Together
 times:
-  - time: 2020-12-01 19:00
+  - time: 2020-12-01 19:45
 image: /assets/christmastree.jpg
 venue: Online via Zoom
-recurrence: Tuesday 1 December
+recurrence: Tuesday 1 December at 7.45pm
 ---
 ![](/assets/christmastree-landscape.jpg)
 
@@ -13,6 +13,8 @@ recurrence: Tuesday 1 December
 Celebrate the end of lockdown 2.0 with quiz master extraordinaire James Franey, who returns to our small screens on Tuesday 1 December with a festive night of fun and games. 
 
 Christmas sparkles, jumpers, hats and general festive attire encouraged and yes, there might be a mini-sing along! Plus, who knows, we might get set free at midnight. 
+
+The virtual doors will open at 7.45pm, for an 8pm start. 
 
 **What do you need to do to join in with the festivities?**
 
