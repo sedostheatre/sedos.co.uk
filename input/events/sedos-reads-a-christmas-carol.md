@@ -16,5 +16,7 @@ Please ensure that all applications reach us by 6pm on Saturday 28 November. Alt
 \
 If you are cast, you will be emailed a copy of the script, together with the cast list, on Sunday 29 November. There will be rehearsals on Thursday 3 and Tuesday 8 December with the performance on Thursday 10 December, all at 7.30pm.
 
+If you would like to be part of our audience for *A Christmas Carol*, we have up to 85 slots, available on a first come, first served basis. Book early to avoid disappointment! Email [christmas_carol@sedos.co.uk](mailto:christmas_carol@sedos.co.uk) to request a spot. 
+
 ^^^ ![](/assets/20201118_231141.jpg)
 ^^^
