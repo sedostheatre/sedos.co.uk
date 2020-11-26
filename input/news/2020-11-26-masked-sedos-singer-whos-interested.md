@@ -3,6 +3,8 @@ title: "Masked Sedos Singer: who's interested?"
 date: 2020-11-26
 image: /assets/maskedsedossinger.png
 ---
+*26 November 2020*
+
 **We are looking into running a Masked Sedos Singer competition in the New Year.**
 
 The concept is that disguised singers send in pre-recorded videos, which are then turned into an online package for viewers, with audience interaction and judges who banter wittily on the quality of the singing and/or who might be behind the mask. This could run over several weeks with heats building to a final or simply be one programme, depending on the interest.
