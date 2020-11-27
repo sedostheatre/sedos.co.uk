@@ -23,7 +23,13 @@ ticket-prices: Free
 header-image: /assets/play-reading-landscape.jpg
 flyer: /assets/play-readings.jpg
 box-office-open: false
-sections: []
+sections:
+  - order: 2
+    title: VIDEO
+    body: |-
+      <div class="video-responsive"><?# YouTube -nuCG6O-s48 /?></div>
+
+      <div class="video-responsive"><?# YouTube ulAgpkSYu0g&t=3s /?></div>
 ---
 ### [VISIT OUR EVENTS PAGE TO DISCOVER THIS WEEK'S SHOW!](https://sedos.co.uk/get-involved)
 
