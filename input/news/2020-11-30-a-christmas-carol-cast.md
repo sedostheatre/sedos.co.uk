@@ -1,5 +1,5 @@
 ---
-title: A Christmas Carol cast
+title: A Christmas Carol cast announced
 date: 2020-11-30
 image: /assets/20201118_231141.jpg
 ---
