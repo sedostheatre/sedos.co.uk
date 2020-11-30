@@ -18,5 +18,5 @@ If you are cast, you will be emailed a copy of the script, together with the cas
 
 If you would like to be part of our audience for *A Christmas Carol*, we have up to 85 slots, available on a first come, first served basis. Book early to avoid disappointment! Email [christmas_carol@sedos.co.uk](mailto:christmas_carol@sedos.co.uk) to request a spot. 
 
-^^^ ![](/assets/20201118_231141.jpg)
+^^^ ![](/assets/20201118_231141-2full.jpg)
 ^^^
