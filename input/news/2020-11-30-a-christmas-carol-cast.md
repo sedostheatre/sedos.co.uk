@@ -5,7 +5,7 @@ image: /assets/20201118_231141.jpg
 ---
 *30 November 2020*
 
-**Sedos announces the cast of its final online performance of 2020, Charles Dickens’ iconic ghost story celebrating the spirit of Christmas, and hope for the future, *A Christmas Carol*, adapted and directed by Peter Foster.** 
+**Sedos announces the cast of its final online performance of 2020, Charles Dickens’ iconic ghost story celebrating the spirit of Christmas and hope for the future. *A Christmas Carol* is adapted and directed by Peter Foster.** 
 
 The performance is at 7.30pm on Thursday 10 December. To reserve your e-tickets, email [christmas_carol@sedos.co.uk](<mailto: christmas_carol@sedos.co.uk>)
 
