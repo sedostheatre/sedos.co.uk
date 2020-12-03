@@ -9,7 +9,7 @@ image: /assets/quizlandscape.jpg
 
 After much fun, facts and frivolity everyone applauded the talents of the Se Don'ts, who with an amazing score of 58 just stole the coveted prize from The Quarantinis…
 
-However,in a shocking exclusive the following morning Se Don'ts' spokesperson Deborah Lean confessed to typing the wrong score in the chat box!
+However, in a shocking exclusive the following morning Se Don'ts' spokesperson Deborah Lean confessed to typing the wrong score in the chat box!
 
 So our congratulations now go to The Quarantinis, whose equally impressive score of 56 now makes then the Sedos Christmas Quiz 2020 winners!
 
