@@ -3,7 +3,7 @@ title: Se Don’ts DON’T Win!
 date: 2020-12-03
 image: /assets/quizlandscape.jpg
 ---
-3 December 2020
+*3 December 2020*
 
 **We welcomed 15 teams all festively dressed to our Christmas Quiz this week, skilfully crafted and presented by Father Quizmas AKA James Franey, supported by Santa’s Little Helper AKA Dawn Harrison-Wallace.**
 
@@ -23,3 +23,6 @@ The new winners' board looks like this:
 Other notable moments in the evening included Support Bauble and Tiers the Season to be Melancholy earning bonus points for the best team names, We’re LockDown Luvvies winning the best nativity with a live performance and real baby, and Percy and His Thai Follies earning bonus points on two occasions for best random Santa and the biggest bauble.
 
 And while we would have all loved to have been upstairs in a pub in the centre of London, our lockdown virtual evening meant we had more cats, dogs and babies join a Sedos event than ever before!
+
+^^^ ![](/assets/quizlandscape.jpg)
+^^^ One clerical criminal… and the winning team, The Quarantinis
