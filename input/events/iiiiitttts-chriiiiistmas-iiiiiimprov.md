@@ -1,5 +1,5 @@
 ---
-title: Iiiiitttt's Chriiiiistmas Iiiiiimprov!
+title: Iiiiitttt's Chriiiiistmas improv!
 times:
   - time: 2020-12-15 20:00
 image: /assets/christmas.jpg
