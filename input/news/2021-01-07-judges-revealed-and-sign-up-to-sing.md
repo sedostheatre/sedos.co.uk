@@ -38,7 +38,7 @@ Sara wants to tell you a secret: she’s never actually watched *The Masked Sing
 
 Sara is a Sedos Trustee and has performed with Sedos in *Gormenghast* (playing a wall), *Legally Blonde* (sat on a toilet), *Reefer Madness* (where she was eaten alive) and *Ragtime* (winning the award for most time spent on stage lying down). 
 
-Sara considered entering Sedos’ Masked Singer as a contestant but quite frankly, with two little girls, she already spends a lot of the day wearing dress-up consumes and singing Disney. She’s looking forward to watching others do it instead!
+Sara considered entering Sedos’ Masked Singer as a contestant but quite frankly, with two little girls, she already spends a lot of the day wearing dress-up costumes and singing Disney. She’s looking forward to watching others do it instead!
 
 **Meet the host…**
 
