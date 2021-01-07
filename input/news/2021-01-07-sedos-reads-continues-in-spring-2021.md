@@ -12,3 +12,5 @@ Following our successful autumn 2020 season of six plays, Sedos Reads – starte
 We were delighted with a broad involvement from members and friends alike, and our audiences (both local and international) continued to grow across the six plays. Links to future performances will be available nearer to the dates.
 
 Performances will be on Thursdays at 7.30pm, 18 February, 18 March and 15 April. Our first performance will be Sheridan’s still resonant and satirical comedy *The Critic*.
+
+Details of rehearsals and how to be involved will be released next week.
