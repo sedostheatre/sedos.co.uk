@@ -1,7 +1,7 @@
 ---
-title: Sedance on Zoom
+title: JSONSedance on Zoom
 times:
-  - time: 2021-02-01 19:15
+  - time: 2020-10-06 19:15
 image: /assets/sedance-square.jpg
 recurrence: Mondays at 7.15pm
 ---
