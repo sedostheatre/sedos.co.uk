@@ -7,7 +7,7 @@ image: /assets/maskedsedossinger-glitter.png
 
 **Drum roll! We’re thrilled to announce the fabulous line-up of judges and host for our forthcoming Masked Sedos Singer competition.**
 
-^^^ ![](/assets/judgeshost.jpg)
+^^^ ![](/assets/judgeshost2.jpg)
 ^^^ 
 
 The judging panel will consist of Liz Flint, Sara Rajeswaran and Angus Jacobs, while the host chair will be taken by John Kyle. Find out more about them below…
@@ -32,6 +32,10 @@ Angus is super excited to be a judge on Sedos’ version of *The Masked Singer*.
 Since then he’s sung, danced, (fallen flat on his face), roller skated blind folded, eaten multiple bananas (still can’t face them), climbed down the Bridewell balcony, played a dead body in a wheelchair on stage and directed, choreographed and designed various productions over the years. What other skills do you need to possess to be a judge?  
 
 As a judge, Angus intends to channel his inner Bruno Tonioli ... though it’s more likely to come out as Dame Craig Revel-Horwood dear! Fab-u-Lus darling ... let’s see how many times he can get that in?
+
+*Sara Rajeswaran*
+
+Info coming very soon! Please check back later.
 
 **Meet the host…**
 
