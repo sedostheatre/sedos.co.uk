@@ -1,28 +1,26 @@
 using Statiq.Common;
 using Schema.NET;
-using System; // for Uri
+using System;
+using System.Linq;
 
 namespace Sedos.Extensions
 {
-  public class JsonLD
-  {
-    public static string Event(Statiq.Common.IDocument doc)
+    public class JsonLD
     {
-      return new PlayAction()
+        public static string Show(IDocument doc)
         {
-            AlternateName = "An Alternative Name",
-            Name = doc.Get<string>("title"), // doc.Get("title", ""),  // Get the Name prop from the docment
-            Url = new Uri("https://example.com")
-        }.ToHtmlEscapedString();
+            return new TheaterEvent()
+            {
+                Name = doc.Get("title", ""),
+                StartDate = doc.Get("showtimes", Enumerable.Empty<IDocument>()).Select(x => x.Get<DateTimeOffset>("time")).OrderBy(x => x).FirstOrDefault(),
+                Location = new Place() { Address = doc.Get("venue", ""), Name = doc.Get("venue", "") },
+                SubEvent = new OneOrMany<IEvent>(doc.Get("showtimes", Enumerable.Empty<IDocument>()).Select(x => x.Get<DateTimeOffset>("time")).Select(x => new TheaterEvent()
+                {
+                    Name = doc.Get("title", ""),
+                    StartDate = x,
+                    Location = new Place() { Address = doc.Get("venue", ""), Name = doc.Get("venue", "") }
+                }))
+            }.ToHtmlEscapedString();
+        }
     }
-    public static string Show(Statiq.Common.IDocument doc)
-    {
-      return new PerformAction()
-        {
-            AlternateName = "An Alternative Name",
-            Name = doc.Get<string>("title"), // doc.Get("title", ""),  // Get the Name prop from the docment
-            Url = new Uri("https://example.com")
-        }.ToHtmlEscapedString();
-    }
-  }
 }
