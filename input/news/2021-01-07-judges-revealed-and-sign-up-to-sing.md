@@ -34,7 +34,11 @@ As a judge, Angus intends to channel his inner Bruno Tonioli ... though it’s m
 
 *Sara Rajeswaran*
 
-Info coming very soon! Please check back later.
+Sara wants to tell you a secret: she’s never actually watched *The Masked Singer* on ITV. But she thinks she understands the premise. Or hopes so. What better qualification to be a judge? (Just think of her as the Amanda Holden of our line up). 
+
+Sara is a Sedos Trustee and has performed with Sedos in *Gormenghast* (playing a wall), *Legally Blonde* (sat on a toilet), *Reefer Madness* (where she was eaten alive) and *Ragtime* (winning the award for most time spent on stage lying down). 
+
+Sara considered entering Sedos’ Masked Singer as a contestant but quite frankly, with two little girls, she already spends a lot of the day wearing dress-up consumes and singing Disney. She’s looking forward to watching others do it instead!
 
 **Meet the host…**
 
