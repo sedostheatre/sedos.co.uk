@@ -48,4 +48,4 @@ When Sedos announced they were doing their own Masked Singer, John immediately b
 
 John was the breakout star of Sedos' concert performance of Hairspray, but is normally traveling the world talking about ponies, so has been unavailable for many of the leading roles for which he would have been ideally suited, leading to them inevitably being given to James Franey. 
 
-When not living in a lockdown-induced fantasy state John is a commentator on equestrian sport to Olympic level and a professional voiceover.
+When not living in a lockdown-induced fantasy state, John is a commentator on equestrian sport to Olympic level and a professional voiceover.
