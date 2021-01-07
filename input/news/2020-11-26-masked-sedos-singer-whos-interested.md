@@ -1,7 +1,7 @@
 ---
 title: "Masked Sedos Singer: who's interested?"
 date: 2020-11-26
-image: /assets/maskedsedossinger.png
+image: /assets/maskedsedossinger-glitter.png
 ---
 *26 November 2020*
 
