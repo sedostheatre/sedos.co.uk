@@ -22,5 +22,5 @@ jobs:
         with:
           title: 'chore: compressed images nightly'
           branch-suffix: timestamp
-          commit-message: Compressed Images
+          commit-message: 'chore: compressed images nightly'
           body: ${{ steps.calibre.outputs.markdown }}
