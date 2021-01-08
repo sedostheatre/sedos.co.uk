@@ -101,6 +101,7 @@ sections:
       ><footer><cite><a target="_blank" href="https://www.remotegoat.com/uk/review/13608/intense-production-of-horror-classic/">Frankenstein, 2017, Remote Goat</a></cite></footer>
 RedirectFrom:
   - 2017/frankenstein.htm
+  - 2017/frankenstein
 ---
 > Slowly I learnt the ways of humans: how to ruin, how to hate, how to debase, how to humiliate. And at the feet of my master I learnt the highest of human skills, the skill no other creature owns: I finally learnt how to lie.
 
