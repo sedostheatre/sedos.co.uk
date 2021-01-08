@@ -7,7 +7,7 @@ image: /assets/maskedsedossinger-glitter.png
 
 **Drum roll! We’re thrilled to announce the fabulous line-up of judges and host for our forthcoming Masked Sedos Singer competition.**
 
-^^^ ![](/assets/judgeshost2.jpg)
+^^^ ![](/assets/judgeshost3.jpg)
 ^^^ 
 
 The judging panel will consist of Liz Flint, Sara Rajeswaran and Angus Jacobs, while the host chair will be taken by John Kyle. Find out more about them below…
