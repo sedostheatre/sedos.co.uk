@@ -30,6 +30,8 @@ sections:
       <div class="video-responsive"><?# YouTube -nuCG6O-s48 /?></div>
 
       <div class="video-responsive"><?# YouTube ulAgpkSYu0g&t=3s /?></div>
+
+      <div class="video-responsive"><?# YouTube HAh24fsYUo8 /?></div>
 ---
 ### [VISIT OUR EVENTS PAGE TO DISCOVER THIS WEEK'S SHOW!](https://sedos.co.uk/get-involved)
 
