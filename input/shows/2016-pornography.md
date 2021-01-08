@@ -50,6 +50,7 @@ sections:
       src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 RedirectFrom:
   - 2016/pornography.htm
+  - 2016/simonstephens
 ---
 **One week in July 2005. London feels like the centre of the world.**
 

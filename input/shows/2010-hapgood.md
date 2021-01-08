@@ -70,8 +70,9 @@ sections:
       <div class="video-responsive"><?# YouTube a1_uQM8KUv0 /?></div>
 RedirectFrom:
   - 2010/Hapgood.htm
+  - 2010/hapgood
 ---
-**Someone in spymaster Hapgood’s agency is leaking secret research to Moscow. Hapgood is under pressure to expose the culprit.** 
+**Someone in spymaster Hapgood’s agency is leaking secret research to Moscow. Hapgood is under pressure to expose the culprit.**
 
 She suspects there is a mole in her agency. CIA Agent Wates suspects Hapgood herself. Hapgood’s boss suspects Kerner (a brilliant Russian scientist who has defected to the West and is also a double agent - but is he a triple?). Will Hapgood’s elaborate scheme to expose the traitor be a success or is there more to it than meets the eye?
 
