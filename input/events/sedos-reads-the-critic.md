@@ -11,7 +11,7 @@ Sheridan wrote his first play, *The Rivals*, in 1775, to huge success. In 1777 h
 
 If you are interested in being involved and have acted with Sedos Reads before, please email [readings@sedos.co.uk](mailto:readings@sedos.co.uk) to confirm your participation. 
 
-If you would like to act with us for the first time, please complete the form: <https://docs.google.com/forms/d/e/1FAIpQLScpZ7u5c_RsSldIY1MZNTH_pX7E_TPM06B9B9V4BkhIDFI_sQ/viewform?usp=sf_link>
+If you would like to act with us for the first time, please complete the form [here](https://docs.google.com/forms/d/e/1FAIpQLScpZ7u5c_RsSldIY1MZNTH_pX7E_TPM06B9B9V4BkhIDFI_sQ/viewform?usp=sf_link).
 
 The deadline for applications is 6pm on Saturday 30 January. Rehearsals on a zoom link will take place on Tuesday 9, Thursday 11 and Tuesday 16 February, all from 7-9pm. The performance of *The Critic* (lasting approximately an hour) is on Thursday 18 February at 7.30pm.
 
