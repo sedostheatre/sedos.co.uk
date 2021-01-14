@@ -4,7 +4,7 @@ year: "2020"
 authors: A series of fortnightly online play readings
 authors2: Show announced in Friday's newsletter
 authors3: Sign up by Sunday afternoon
-subtitle: Performance every other Thursday at 7.30pm
+subtitle: Performances on Thursday at 7.30pm
 showtimes:
   - time: 2020-10-08 19:30
   - time: 2020-10-15 19:30
@@ -34,19 +34,18 @@ sections:
 
       <div class="video-responsive"><?# YouTube HAh24fsYUo8 /?></div>
 ---
-### [VISIT OUR EVENTS PAGE TO DISCOVER THIS WEEK'S SHOW!](https://sedos.co.uk/get-involved)
+### [VISIT OUR EVENTS PAGE TO DISCOVER OUR NEXT SHOW!](https://sedos.co.uk/get-involved)
 
 **Remember the feeling of getting a new script and devouring it to find out what it has in store? It's time to bring that back.**
 
 Yes, Sedos is excited to announce a series of online play readings, starting on 8 October 2021. While we can't quite start rehearsals in person yet, there's no reason why we can't have a bit of a read and a performance from our living rooms.
 
-For this series of casual fortnightly readings, we've learned from our colleagues in other societies (some of whom have been running readings since lockdown began) and have taken note of what works particularly well. We intend to present short, fun plays with as many opportunities to get involved via Zoom as possible, and we would love for you to take part as a reader or as an audience member. Costumes and backgrounds are optional but encouraged. Here's how it will work:
+For this series of casual readings, we've learned from our colleagues in other societies (some of whom have been running readings since lockdown began) and have taken note of what works particularly well. We intend to present short, fun plays with as many opportunities to get involved via Zoom as possible, and we would love for you to take part as a reader or as an audience member. Costumes and backgrounds are optional but encouraged. Here's how it will work:
 
-* Plays will be announced on Thursday after the weekly reading, as well as in the newsletter.
-* You will have until the following Sunday afternoon to express your interest in that reading via an online form.
-* Casting will be announced on the Monday evening or Tuesday morning via social media (and the cast will be emailed with the script).
-* A brief technical rehearsal for the cast will take place via Zoom on Thursdays at 7pm.
-* The performance will take place via Zoom on Thursdays at 7.30pm (after which we will announce the next week's play).
+* Plays will be announced in the Sedos newsletter and website, with the deadline for expressing interest in that reading via an online form.
+* Casting will be announced online and in the newsletter. The cast will be emailed with the script.
+* Rehearsals will take place via Zoom.
+* The performance will take place via Zoom on Thursdays at 7.30pm.
 
 While we can't guarantee a role to everyone who applies, we will aim to be fair and ensure no one misses out over the course of the season. Of course, anyone who isn't cast is encouraged to dial in for the performance. Note that you must be a current Sedos member to read, but anyone is able to watch.
 
@@ -59,4 +58,4 @@ Simple! If you have any questions, please email Matt Bentley at [readings@sedos.
 
 We look forward to seeing you online soon.
 
-### [VISIT OUR EVENTS PAGE TO DISCOVER THIS WEEK'S SHOW!](https://sedos.co.uk/get-involved)
+### [VISIT OUR EVENTS PAGE TO DISCOVER OUR NEXT SHOW!](https://sedos.co.uk/get-involved)
