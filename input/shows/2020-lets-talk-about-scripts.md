@@ -1,9 +1,9 @@
 ---
 title: Let's Talk About Scripts
 year: "2020"
-authors: A series of fortnightly online play readings
-authors2: Show announced in Friday's newsletter
-authors3: Sign up by Sunday afternoon
+authors: A series of online play readings
+authors2: Show announced in the Sedos newsletter and on the website
+authors3: Apply to read via an online form
 subtitle: Performances on Thursday at 7.30pm
 showtimes:
   - time: 2020-10-08 19:30
