@@ -7,7 +7,7 @@ authors3: From the book by STUDS TURKEL
 subtitle: ""
 showtimes: []
 showtime-summary: THIS SHOW HAS BEEN POSTPONED
-show-on-homepage: true
+show-on-homepage: false
 order-on-homepage: 3
 venue: Bridewell Theatre
 primary-color: "#000000"
