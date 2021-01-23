@@ -55,4 +55,6 @@ sections:
 
 Our judges will plunder their Sedos knowledge to try to work out the identity of our performers and you can get involved too. 
 
-There will be two heats leading up to a grand final. Ultimately, it's the audience's decision who makes it through to the final – and who is crowned the winner – so get ready to vote for your favourite.
+There will be two heats on Tuesday 16 and Wednesday 17 February leading up to a grand final on Tuesday 9 March. 
+
+Ultimately, it's the audience's decision who makes it through to the final – and who is crowned the winner – so get ready to vote for your favourite.
