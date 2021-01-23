@@ -49,7 +49,7 @@ sections:
 
       **MAKES GRAPHICS MOVE** | Joseph Henshaw\
 
-      **MORE TECHNICAL MAGIC** | Olly Levett
+      **TECHNICAL MAGIC ASSISTANCE** | Olly Levett
 ---
 **Eleven Sedos members go head to head in the Masked Sedos Singer – can you guess who is in the costume?**
 
