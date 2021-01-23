@@ -51,7 +51,7 @@ sections:
 
       **TECHNICAL MAGIC ASSISTANCE** | Olly Levett
 ---
-**Eleven Sedos members go head to head in the Masked Sedos Singer – can you guess who is in the costume?**
+**Disguised Sedos members go head to head in the Masked Sedos Singer – can you guess who is in the costume?**
 
 Our judges will plunder their Sedos knowledge to try to work out the identity of our performers and you can get involved too. 
 
