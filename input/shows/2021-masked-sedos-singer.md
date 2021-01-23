@@ -10,8 +10,8 @@ showtime-summary: "Heats: 16 and 17 February; final 9 March"
 venue: Online at Facebook Live
 ticket-prices: Free
 primary-color: "#9a2256"
-header-image: /assets/maskedsedossinger-glitter-quare.png
-flyer: /assets/maskedsedossinger-glitter-quare.png
+header-image: /assets/maskedsedossingerflyerweb.jpg
+flyer: /assets/maskedsedossingerflyer.jpg
 box-office-open: false
 sections:
   - order: 1
