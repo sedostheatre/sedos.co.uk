@@ -55,4 +55,4 @@ sections:
 
 Our judges will plunder their Sedos knowledge to try to work out the identity of our performers and you can get involved too. 
 
-Ultimately, it's the audience's decision who makes it through to the final, so get ready to vote for your favourite.
+There will be two heats leading up to a grand final. Ultimately, it's the audience's decision who makes it through to the final – and who is crowned the winner – so get ready to vote for your favourite.
