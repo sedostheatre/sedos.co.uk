@@ -50,12 +50,7 @@ For this series of casual readings, we've learned from our colleagues in other s
 
 While we can't guarantee a role to everyone who applies, we will aim to be fair and ensure no one misses out over the course of the season. Of course, anyone who isn't cast is encouraged to dial in for the performance. Note that you must be a current Sedos member to read, but anyone is able to watch.
 
-The first reading will take place on 8 October, and the play will be announced in next week's newsletter. In the meantime, here's how you can apply to take part:
-
-* Fill in the application form at [](https://forms.gle/​qFLiK1M1Gb7ZZByr9)<https://forms.gle/qFLiK1M1Gb7ZZByr9> (note that you will need to edit your responses each week so we know you are keen and available).
-* Send a short, filmed reading of a monologue (maximum of 2 minutes) to [readings@sedos.co.uk](mailto:readings@sedos.co.uk)[](http://r20.rs6.net/tn.jsp?f=001o3_SP7cheDBeX4G67bw5hStGYdO5HvXB0ptJeSKsbxaq5E55SoDoQ-rS2p0ZTbHyTW5G3dWcbdYQs9CRJ7bWSKaADV1Az8MQxK7e3mN8JcgXAAkYtD7lWac5czQ2aAU_5Z_5aADKW2FwgLcsfQUyWZW2ni6Qo8-pRuagxYZ8MCFhVv_L845pQw==&c=u5ghrGBx3MSJeIZDXOYVy5dH45VZCqqHHeHRNrVbUD3GhFp17VMnMg==&ch=KlhiVUVN7kiiGS2tXNwAXhSAgzx3UfswgOg6BljoMg-o9AhuTX91Ig==) via WeTransfer (you only need to do this the first time you apply).
-
-Simple! If you have any questions, please email Peter Foster at [readings@sedos.co.uk](mailto:readings@sedos.co.uk)[](http://r20.rs6.net/tn.jsp?f=001o3_SP7cheDBeX4G67bw5hStGYdO5HvXB0ptJeSKsbxaq5E55SoDoQ-rS2p0ZTbHyTW5G3dWcbdYQs9CRJ7bWSKaADV1Az8MQxK7e3mN8JcgXAAkYtD7lWac5czQ2aAU_5Z_5aADKW2FwgLcsfQUyWZW2ni6Qo8-pRuagxYZ8MCFhVv_L845pQw==&c=u5ghrGBx3MSJeIZDXOYVy5dH45VZCqqHHeHRNrVbUD3GhFp17VMnMg==&ch=KlhiVUVN7kiiGS2tXNwAXhSAgzx3UfswgOg6BljoMg-o9AhuTX91Ig==) 
+ If you have any questions, please email Peter Foster at [readings@sedos.co.uk](mailto:readings@sedos.co.uk)[](http://r20.rs6.net/tn.jsp?f=001o3_SP7cheDBeX4G67bw5hStGYdO5HvXB0ptJeSKsbxaq5E55SoDoQ-rS2p0ZTbHyTW5G3dWcbdYQs9CRJ7bWSKaADV1Az8MQxK7e3mN8JcgXAAkYtD7lWac5czQ2aAU_5Z_5aADKW2FwgLcsfQUyWZW2ni6Qo8-pRuagxYZ8MCFhVv_L845pQw==&c=u5ghrGBx3MSJeIZDXOYVy5dH45VZCqqHHeHRNrVbUD3GhFp17VMnMg==&ch=KlhiVUVN7kiiGS2tXNwAXhSAgzx3UfswgOg6BljoMg-o9AhuTX91Ig==) 
 
 We look forward to seeing you online soon.
 
