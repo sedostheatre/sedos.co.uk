@@ -1,7 +1,6 @@
 ---
 title: Vinyasa Flow Seyoga
-times:
-  - time: 2021-03-20 18:30
+times: []
 image: /assets/seyoga.jpg
 recurrence: Wednesdays at 6.30pm
 ---
