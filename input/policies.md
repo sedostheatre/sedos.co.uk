@@ -1,7 +1,6 @@
 ---
 title: Policies
 ---
-## Policies
 
 - [Investment Policy](#investment-policy-statement)
 - [Conflict of Interest Policy](#conflict-of-interest-policy)
