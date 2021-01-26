@@ -1,10 +1,10 @@
 ---
 title: Sedos Reads
 year: "2021"
-authors: A series of online play readings
-authors2: Show announced in the Sedos newsletter and on the website
-authors3: Apply to read via an online form
-subtitle: Performances on Thursday at 7.30pm
+authors: A series of rehearsed online play readings
+authors2: ""
+authors3: ""
+subtitle: Performances on Thursdays at 7.30pm
 showtimes:
   - time: 2020-10-08 19:30
   - time: 2020-10-15 19:30
