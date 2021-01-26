@@ -5,9 +5,6 @@ times:
 image: /assets/20210125_174639.jpg
 venue: Online via Zoom
 ---
-^^^ ![](/assets/20210125_174639.jpg)
-^^^ 
-
 **Although melodramas had been staged for the majority of the nineteenth century, *The Lights o' London* by George R Sims went beyond much of the shallow characterisation and stock situations with its life-like characters and fast-moving plot.** 
 
 The humour which runs through the play also stops it falling into sentimentality. As one of the travelling players says of his wife, "If you see her play Lady Macbeth, she's that natural ... the audience sometimes go out and fetch the police." 
