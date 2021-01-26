@@ -23,7 +23,7 @@ order-on-homepage: 1
 venue: Online via Zoom
 ticket-prices: Free
 header-image: /assets/play-reading-landscape.jpg
-flyer: /assets/sedos-reads.jpg
+flyer: /assets/sedos-reads-v2.jpg
 box-office-open: false
 sections:
   - order: 2
