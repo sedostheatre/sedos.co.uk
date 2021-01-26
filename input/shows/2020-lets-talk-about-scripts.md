@@ -4,7 +4,7 @@ year: "2021"
 authors: A series of rehearsed online play readings
 authors2: ""
 authors3: ""
-subtitle: Performances on Thursdays at 7.30pm
+subtitle: Thursday 18 February, 18 March and 15 April at 7.30pm
 showtimes:
   - time: 2020-10-08 19:30
   - time: 2020-10-15 19:30
@@ -17,9 +17,10 @@ showtimes:
   - time: 2020-12-10 19:30
   - time: 2021-02-18 19:30
   - time: 2021-03-18 19:30
+  - time: 2021-04-15 22:48
 showtime-summary: ""
 show-on-homepage: true
-order-on-homepage: 1
+order-on-homepage: ""
 venue: Online via Zoom
 ticket-prices: Free
 header-image: /assets/play-reading-landscape.jpg
