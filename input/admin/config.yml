@@ -358,3 +358,9 @@ collections:
           - {label: title, name: title, widget: string}
           - {label: "Review of year", name: review-of-year, widget: string}
           - {label: Details, name: body, widget: markdown, required: false}
+      - label: "Policies"
+        name: "policies"
+        file: "input/policies.md"
+        fields:
+          - {label: title, name: title, widget: string}
+          - {label: Details, name: body, widget: markdown, required: false}
