@@ -1,6 +1,6 @@
 ---
-title: Let's Talk About Scripts
-year: "2020"
+title: Sedos Reads
+year: "2021"
 authors: A series of online play readings
 authors2: Show announced in the Sedos newsletter and on the website
 authors3: Apply to read via an online form
@@ -23,7 +23,7 @@ order-on-homepage: 1
 venue: Online via Zoom
 ticket-prices: Free
 header-image: /assets/play-reading-landscape.jpg
-flyer: /assets/play-readings.jpg
+flyer: /assets/sedos-reads.jpg
 box-office-open: false
 sections:
   - order: 2
