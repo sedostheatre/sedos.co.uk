@@ -39,7 +39,7 @@ sections:
 
 **Remember the feeling of getting a new script and devouring it to find out what it has in store? It's time to bring that back.**
 
-Yes, Sedos is excited to announce a series of online play readings, starting on 8 October 2021. While we can't quite start rehearsals in person yet, there's no reason why we can't have a bit of a read and a performance from our living rooms.
+Yes, Sedos is excited to announce a series of online play readings, starting on 8 October 2020. While we can't quite start rehearsals in person yet, there's no reason why we can't have a bit of a read and a performance from our living rooms.
 
 For this series of casual readings, we've learned from our colleagues in other societies (some of whom have been running readings since lockdown began) and have taken note of what works particularly well. We intend to present short, fun plays with as many opportunities to get involved via Zoom as possible, and we would love for you to take part as a reader or as an audience member. Costumes and backgrounds are optional but encouraged. Here's how it will work:
 
