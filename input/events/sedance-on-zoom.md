@@ -1,7 +1,6 @@
 ---
 title: Sedance on Zoom
-times:
-  - time: 2021-03-22 19:15
+times: []
 image: /assets/sedance-square.jpg
 recurrence: Mondays at 7.15pm
 ---
