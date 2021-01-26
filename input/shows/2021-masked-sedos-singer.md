@@ -11,7 +11,7 @@ venue: Online at Facebook Live
 ticket-prices: Free
 primary-color: "#9a2256"
 header-image: /assets/maskedsedossingerflyerweb.jpg
-flyer: /assets/masked-sedos-singer-poster.jpg
+flyer: /assets/masked-sedos-singer-poster-v2.jpg
 box-office-open: false
 sections:
   - order: 1
