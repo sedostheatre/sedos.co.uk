@@ -1,7 +1,6 @@
 ---
 title: Zoom... Your Own Improv!
-times:
-  - time: 2021-02-10 20:30
+times: []
 image: /assets/bhg-pink-background.jpg
 venue: Online via Zoom
 recurrence: Wednesdays at 8.30pm
