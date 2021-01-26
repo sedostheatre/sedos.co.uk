@@ -1,7 +1,7 @@
 ---
 title: Simprov returns online
 times:
-  - time: 2021-02-08 19:30
+  - time: 2021-03-19 19:30
 image: /assets/simprov3-360.jpg
 venue: Online via Zoom
 recurrence: Mondays at 7.30pm
