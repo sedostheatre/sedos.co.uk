@@ -5,6 +5,8 @@ title: Policies
 * [Conflict of Interest Policy](#conflict-of-interest-policy)
 * [COVID-19 Policy](#covid-19-health-and-safety-policy)
 
+***
+
 ## INVESTMENT POLICY STATEMENT
 
 1. Introduction
@@ -56,6 +58,8 @@ title: Policies
    This Investment Policy Statement was prepared by the Board of Sedos to provide a framework for the management of its investments. It will be reviewed on an annual basis to ensure continuing appropriateness.
 
 Approved: 24 February 2020
+
+***
 
 ## CONFLICT OF INTEREST POLICY
 
@@ -208,6 +212,8 @@ Approved: 24 February 2020
     Any Sedos Trustee who becomes aware of a breach of this policy must report it to the Secretary to the Sedos Trustees or the Chair as soon as possible. This policy shall be enforced by the Sedos Trustees as a body. This policy shall be made available to members of Sedos via the Sedos website. This policy will be reviewed annually in line with industry best practice standards and all relevant legislation and regulations.
 
 Approved: 14 July 2020
+
+***
 
 ## COVID-19 HEALTH AND SAFETY POLICY
 
