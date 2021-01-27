@@ -2,7 +2,7 @@
 title: "Sedos Reads: The Critic"
 times:
   - time: 2021-02-18 19:30
-image: /assets/the-critic.png
+image: /assets/20210126_233702.jpg
 venue: Online via Zoom
 ---
 ***The Critic* was first staged at Drury Lane Theatre in 1779. Sheridan’s comedy is a burlesque on acting, play production, and a parody of tragic drama conventions. Misadventures arise when the playwright, Puff, invites theatre critics Dangle and Sneer to a rehearsal of his play The Spanish Armada.**
