@@ -4,7 +4,7 @@ year: "2021"
 authors: A series of rehearsed online play readings
 authors2: ""
 authors3: ""
-subtitle: Thursday 18 February, 18 March and 15 April at 7.30pm
+subtitle: ""
 showtimes:
   - time: 2020-10-08 19:30
   - time: 2020-10-15 19:30
