@@ -266,7 +266,6 @@ For so long as there is no proven effective vaccine for COVID-19 and transmissio
 * 10 people for Space 2;
 * 4 people for the build space (assuming face masks are always used);
 * 1 person for kitchen;
-* 1 person for space each toilet;
 * 2 people for sewing room (assuming face masks are used when there are two);
 * Props and costume sections only to be used by the production team member(s) responsible for props/costume.
 
