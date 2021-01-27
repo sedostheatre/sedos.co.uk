@@ -21,13 +21,13 @@ namespace Sedos.Extensions
                 await CopyAndResizeImageFromFile(doc, ctx, fileName, width, height, resizeMode);
         }
 
-        public static async Task<IDocument> CopyAndResizeImageFromFile(IDocument doc, IExecutionContext ctx, string filename, int? width, int? height, ResizeMode resizeMode = ResizeMode.Min)
+        private static async Task<IDocument> CopyAndResizeImageFromFile(IDocument doc, IExecutionContext ctx, string filename, int? width, int? height, ResizeMode resizeMode = ResizeMode.Min)
         {
             var documents = await ctx.ExecuteModulesAsync(
                 new ModuleList
                 {
                     new ReadFiles(filename),
-                    new MutateImage().Resize(width: width, height: height, mode: resizeMode),
+                    new MutateImage().Resize(width: width, height: height, mode: resizeMode).SetSuffix(doc.GetTitle()),
                     new WriteFiles()
                 },
                 new IDocument[] { doc }
