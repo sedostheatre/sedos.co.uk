@@ -3,6 +3,7 @@ title: Policies
 ---
 * [Investment Policy](#investment-policy-statement)
 * [Conflict of Interest Policy](#conflict-of-interest-policy)
+* [COVID-19 Policy](#covid-19-health-and-safety-policy)
 
 ## INVESTMENT POLICY STATEMENT
 
