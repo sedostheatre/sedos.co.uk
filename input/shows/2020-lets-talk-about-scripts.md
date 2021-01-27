@@ -19,7 +19,7 @@ showtimes:
   - time: 2021-03-18 19:30
   - time: 2021-04-15 22:48
 showtime-summary: ""
-show-on-homepage: true
+show-on-homepage: false
 order-on-homepage: ""
 venue: Online via Zoom
 ticket-prices: Free
