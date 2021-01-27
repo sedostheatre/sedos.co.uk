@@ -1,5 +1,5 @@
 ﻿using Sedos.Extensions;
-using SixLabors.ImageSharp.Processing.Transforms;
+using SixLabors.ImageSharp.Processing;
 using Statiq.Common;
 using Statiq.Core;
 using Statiq.Yaml;
