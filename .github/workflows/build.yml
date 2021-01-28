@@ -11,6 +11,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2.3.4
+    - name: Checkout file dates
+      run: ./checkout-file-dates.sh
     - name: Cache tools
       uses: actions/cache@v2
       env:
