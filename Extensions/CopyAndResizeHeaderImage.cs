@@ -1,4 +1,4 @@
-﻿using SixLabors.ImageSharp.Processing.Transforms;
+﻿using SixLabors.ImageSharp.Processing;
 using Statiq.Common;
 using Statiq.Core;
 using Statiq.Images;
@@ -27,7 +27,7 @@ namespace Sedos.Extensions
                 new ModuleList
                 {
                     new ReadFiles(filename),
-                    new MutateImage().Resize(width: width, height: height, mode: resizeMode).SetSuffix(doc.GetTitle()),
+                    new MutateImage().Resize(width: width, height: height, mode: resizeMode).SetSuffix(doc.Id.ToString()),
                     new WriteFiles()
                 },
                 new IDocument[] { doc }
