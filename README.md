@@ -12,11 +12,8 @@ build.ps1 -Target Preview
 ```
 
 ### Mac / Linux
+To run locally: 
 
-#### Pre-requisites
-.NET Core 2.1 is required - installers and binaries are available on the [official download page](https://dotnet.microsoft.com/download/dotnet-core/2.1)
-
-#### Run
 ```shell
 ./build.sh --target=Preview
 ```
