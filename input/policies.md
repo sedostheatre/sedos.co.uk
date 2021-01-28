@@ -5,7 +5,9 @@ title: Policies
 * [Conflict of Interest Policy](#conflict-of-interest-policy)
 * [COVID-19 Policy](#covid-19-health-and-safety-policy)
 
-***
+
+
+- - -
 
 ## INVESTMENT POLICY STATEMENT
 
@@ -59,7 +61,7 @@ title: Policies
 
 Approved: 24 February 2020
 
-***
+- - -
 
 ## CONFLICT OF INTEREST POLICY
 
@@ -213,7 +215,7 @@ Approved: 24 February 2020
 
 Approved: 14 July 2020
 
-***
+- - -
 
 ## COVID-19 HEALTH AND SAFETY POLICY
 
