@@ -11,11 +11,15 @@
 }
 
 .navbar-brand {
-    .logo {
+    #sedos-logo {
         height: 4em;
 
         @include media-breakpoint-down(lg) {
             height: 3em;
+        }
+
+        path {
+            fill: $sedos-blue;
         }
     }
 
