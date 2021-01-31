@@ -1,10 +1,12 @@
 .home-page-show-carousel-item {
-    height: 70vh;
     border-radius: 0;
+    height: 70vh;
 
     .show-title {
-        a, a:focus, a:hover {
-            color: white;
+        a,
+        a:focus,
+        a:hover {
+            color: $white;
             text-decoration: none;
         }
     }
@@ -20,24 +22,22 @@
     }
 
     .carousel-indicators {
+        bottom: -130px;
         overflow-x: initial;
-        bottom:-130px;
 
         li {
-            width: auto;
             height: auto;
             text-indent: initial;
+            width: auto;
 
             .hero-indicator-image {
-                width: 100px;
-                height: 100px;
-
                 background-position-x: center;
                 background-position-y: center;
-                background-size: cover;
                 background-repeat: no-repeat;
-
+                background-size: cover;
+                height: 100px;
                 opacity: 0.3;
+                width: 100px;
             }
 
             &.active {

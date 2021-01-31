@@ -1,12 +1,12 @@
 .about-section {
     @extend %page-section;
+
     background: $lighter-blue;
     padding-bottom: 15px;
     padding-top: 15px;
 }
 
 .about-card {
-
     .card-body {
         overflow: hidden;
         padding-bottom: 20px;
@@ -14,11 +14,12 @@
 
     .card-footer {
         a {
-            color: white;
+            color: $white;
         }
     }
 
-    .card-footer, .card-header {
+    .card-footer,
+    .card-header {
         background: $sedos-blue;
     }
 

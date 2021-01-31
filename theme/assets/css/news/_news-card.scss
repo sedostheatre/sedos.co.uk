@@ -1,8 +1,8 @@
-@import "../_card-mixins";
+@import '../card-mixins';
 
 .news-card-container {
     @include card-container;
-    
+
     .news-card {
         @include card($light-blue);
     }

@@ -1,9 +1,9 @@
 .social-icons {
-    list-style: none;
-    flex-direction: row;
     display: flex;
-    padding: 0;
+    flex-direction: row;
     float: right;
+    list-style: none;
+    padding: 0;
 
     .social-icon {
         height: 2rem;
@@ -17,8 +17,8 @@
 
 .footer-container {
     border-top: $sedos-blue 3px solid;
-    padding-top: 10px;
     padding-bottom: 10px;
+    padding-top: 10px;
 
     .navigation-link {
         font-size: 18px;

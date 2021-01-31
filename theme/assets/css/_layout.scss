@@ -1,9 +1,9 @@
 .banner {
-    width: 100%;
     background: $sedos-blue;
     color: $white;
-    padding: 0.4em 0;
     margin-top: 3px;
+    padding: 0.4em 0;
+    width: 100%;
 
     &.empty-divider {
         height: 3px;
@@ -15,8 +15,8 @@
 }
 
 %page-section {
-    padding-top: 30px;
     padding-bottom: 30px;
+    padding-top: 30px;
 }
 
 .mt-3px {
@@ -31,6 +31,7 @@
 
 .page-section {
     @extend %page-section;
+
     background: $lighter-blue;
 }
 
@@ -45,55 +46,63 @@
         margin-right: auto;
     }
 
-    figcaption.figure-caption {
-        text-align: center;
-        font-style: italic;
+    .figure-caption {
         color: #212529;
+        font-style: italic;
+        text-align: center;
     }
 }
 
 .video-responsive {
+    height: 0;
+    margin-bottom: 1em;
     overflow: hidden;
     padding-bottom: 56.25%;
     position: relative;
-    height: 0;
-    margin-bottom: 1em;
-     iframe {
-        left: 0;
-        top: 0;
+
+    iframe {
         height: 100%;
-        width: 100%;
+        left: 0;
         position: absolute;
-     }
+        top: 0;
+        width: 100%;
+    }
 }
 
 .blockquote-footer-no-dash {
     text-align: center;
+
     &::before {
-      content: ""; // override bootstrap default
+        content: ''; // override bootstrap default
     }
 }
 
-blockquote.blockquote {
+.blockquote {
+
+    font-size: 1.1rem;
+
     p {
-        text-align: center;
-        &::before {
-            content: "“";
-        }
-        &::after {
-            content: "”";
-        }
-        margin-bottom: 0;
         font-weight: bold;
-    }
-    footer {
+
+        margin-bottom: 0;
         text-align: center;
+
         &::before {
-            content: "";
+            content: '“';
+        }
+
+        &::after {
+            content: '”';
         }
     }
 
-    font-size: 1.1rem;
+    footer {
+        text-align: center;
+
+        &::before {
+            content: '';
+        }
+    }
 }
 
 .main-wrapper {

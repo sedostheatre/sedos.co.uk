@@ -1,6 +1,6 @@
 .show-card-wrapper {
-    padding-top: 15px;
     padding-bottom: 15px;
+    padding-top: 15px;
 
     .show-card-link {
         &:hover {
@@ -9,38 +9,36 @@
     }
 
     .show-card {
+        align-items: flex-end;
+        background-position-x: center;
+        background-position-y: center;
+        background-repeat: no-repeat;
+        background-size: contain;
+        display: flex;
+        flex-flow: row nowrap;
+        height: 360px;
+
+        width: 100%;
         @include media-breakpoint-up(sm) {
             background-color: $sedos-blue;
         }
-        
-        width: 100%;
-        height: 360px;
-
-        display: flex;
-        flex-flow: row nowrap;
-        align-items: flex-end;
-
-        background-position-x: center;
-        background-position-y: center;
-        background-size: contain;
-        background-repeat: no-repeat;
 
         .show-details {
-            width: 100%;
             background: transparentize($sedos-blue, 0.3);
+            width: 100%;
         }
 
         .show-title {
+            color: $white;
             text-align: center;
             width: 100%;
-            color: $white;
         }
     }
 }
 
 .upcoming-show-card-container {
-    padding-top: 15px;
     padding-bottom: 15px;
+    padding-top: 15px;
 
     .show-card {
         @include media-breakpoint-down(sm) {
@@ -52,31 +50,32 @@
         }
 
         .card-body {
+            background: $sedos-blue;
             overflow: hidden;
             padding-bottom: 20px;
-            background: $sedos-blue;
         }
 
         .card-footer {
             a {
-                color: white;
+                color: $white;
             }
         }
 
         .card-img-top {
-            height: 300px;
             background-position-x: center;
             background-position-y: center;
-            background-size: cover;
             background-repeat: no-repeat;
+            background-size: cover;
+            height: 300px;
         }
 
-        .card-footer, .card-header {
+        .card-footer,
+        .card-header {
             background: darken($sedos-blue, 10);
         }
 
         .card-header {
-            border-bottom: 3px solid white;
+            border-bottom: 3px solid $white;
         }
     }
 }

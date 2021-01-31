@@ -21,8 +21,8 @@ To run locally:
 ## Testing
 
 #### Pre-requisites
-- `npm` is installed an executable
-- `npx` is installed (`npm install -g npx`)
+- `npm` is installed and executable
+- `npx` is installed and executable (`npm install -g npx`)
 - `cypress` is executable (`npx cypress verify`)
 
 #### Run
@@ -86,3 +86,10 @@ TO DO
 - run `npx netlify-cms-proxy-server`
 - add `local_backend: true` to `config.yml`
 - visit [](http://localhost:5080/admin/#/)
+
+## Linting
+
+### SCSS
+`stylelint` is used to lint the `**/*.scss` files on build. 
+
+This can be run locally (and automatically fix errors) with `npx stylelint --fix **/*.scss`
