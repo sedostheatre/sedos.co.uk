@@ -1,14 +1,12 @@
-@import "bootstrap-overrides";
-
-@import "../lib/bootstrap.sass.4.0.0/content/Content/bootstrap/bootstrap";
-
-@import "navigation";
-@import "layout";
-@import "header-carousel/header-carousel";
-@import "home-page/home-page";
-@import "footer";
-@import "news/news";
-@import "events/events";
-@import "shows/shows";
-@import "about/about";
-@import "your-visit/your-visit";
+@import 'bootstrap-overrides';
+@import '../lib/bootstrap.sass.4.0.0/content/Content/bootstrap/bootstrap';
+@import 'navigation';
+@import 'layout';
+@import 'header-carousel/header-carousel';
+@import 'home-page/home-page';
+@import 'footer';
+@import 'news/news';
+@import 'events/events';
+@import 'shows/shows';
+@import 'about/about';
+@import 'your-visit/your-visit';

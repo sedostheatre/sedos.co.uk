@@ -1,82 +1,4 @@
 .show-header {
-    .show-details {
-        display: flex;
-        flex-direction: column;
-        align-items: stretch;
-        align-content: stretch;
-        padding-top: 8em;
-    }
-
-    .show-details-bottom {
-        padding-bottom: 1em;
-
-        .showtime-summary {
-            font-size: 2em;
-            @media (max-height: 60rem) {
-                font-size: 1.5em;
-            }
-            @media (max-height: 40rem) {
-                font-size: 1.2em;
-            }
-            font-weight: 300;
-            color: white;
-            padding-bottom: 0.5em;
-            text-transform: uppercase;
-        }
-    }
-
-    .show-header-image {
-        background-position-x: center;
-        background-position-y: center;
-        background-size: cover;
-        background-repeat: no-repeat;
-
-        min-height: 70vh;
-    }
-
-    .show-title {
-        font-size: 4.5em;
-        @media (max-height: 60rem) {
-            font-size: 3em;
-        }
-        @media (max-height: 40rem) {
-            font-size: 2em;
-        }
-        margin-bottom: 0;
-        font-weight: 900;
-        margin-bottom: 0;
-        color: white;
-        flex-grow: 1;
-    }
-
-    .show-authors,
-    .show-authors-2,
-    .show-authors-3  {
-        font-size: 2em;
-        @media (max-height: 60rem) {
-            font-size: 1.7em;
-        }
-        @media (max-height: 40rem) {
-            font-size: 1.5em;
-        }
-        font-weight: 700;
-        color: white;
-        flex-grow: 1;
-    }
-
-    .show-subtitle {
-        font-size: 2em;
-        @media (max-height: 60rem) {
-            font-size: 1.7em;
-        }
-        @media (max-height: 40rem) {
-            font-size: 1.5em;
-        }
-        font-weight: 300;
-        color: white;
-        max-width: 80%;
-        flex-grow: 2;
-    }
 
     @include media-breakpoint-down(md) {
         .show-title {
@@ -87,7 +9,7 @@
 
         .show-authors,
         .show-authors-2,
-        .show-authors-3  {
+        .show-authors-3 {
             font-size: 1.5em;
         }
 
@@ -114,7 +36,7 @@
 
         .show-authors,
         .show-authors-2,
-        .show-authors-3  {
+        .show-authors-3 {
             font-size: 1.2em;
         }
 
@@ -139,6 +61,96 @@
 
         .show-header-image {
             min-height: 30vh;
+        }
+    }
+
+    .show-details {
+        align-content: stretch;
+        align-items: stretch;
+        display: flex;
+        flex-direction: column;
+        padding-top: 8em;
+    }
+
+    .show-details-bottom {
+        padding-bottom: 1em;
+
+        .showtime-summary {
+            color: $white;
+            font-size: 2em;
+
+            font-weight: 300;
+            padding-bottom: 0.5em;
+            text-transform: uppercase;
+
+            @media (max-height: 60rem) {
+                font-size: 1.5em;
+            }
+
+            @media (max-height: 40rem) {
+                font-size: 1.2em;
+            }
+        }
+    }
+
+    .show-header-image {
+        background-position-x: center;
+        background-position-y: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        min-height: 70vh;
+    }
+
+    .show-title {
+        color: $white;
+        flex-grow: 1;
+        font-size: 4.5em;
+        font-weight: 900;
+
+        margin-bottom: 0;
+        margin-bottom: 0;
+
+        @media (max-height: 60rem) {
+            font-size: 3em;
+        }
+
+        @media (max-height: 40rem) {
+            font-size: 2em;
+        }
+    }
+
+    .show-authors,
+    .show-authors-2,
+    .show-authors-3 {
+        color: $white;
+        flex-grow: 1;
+        font-size: 2em;
+
+        font-weight: 700;
+
+        @media (max-height: 60rem) {
+            font-size: 1.7em;
+        }
+
+        @media (max-height: 40rem) {
+            font-size: 1.5em;
+        }
+    }
+
+    .show-subtitle {
+        color: $white;
+        flex-grow: 2;
+        font-size: 2em;
+
+        font-weight: 300;
+        max-width: 80%;
+
+        @media (max-height: 60rem) {
+            font-size: 1.7em;
+        }
+
+        @media (max-height: 40rem) {
+            font-size: 1.5em;
         }
     }
 }

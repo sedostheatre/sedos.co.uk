@@ -1,4 +1,4 @@
-@import "show-header";
+@import 'show-header';
 
 .show-page-header {
     border-radius: 0;
@@ -16,8 +16,10 @@
     @extend %blue-border-left;
 }
 
-.upcoming-shows-section, .past-shows-section {
+.upcoming-shows-section,
+.past-shows-section {
     @extend %page-section;
+
     background: $lighter-blue;
     padding-bottom: 15px;
     padding-top: 15px;
@@ -28,17 +30,17 @@
 }
 
 .sidebar-flyer {
-    padding: 1em 0;
-    height: 24em;
+    align-items: center;
     display: flex;
     flex-direction: column;
-    align-items: center;
+    height: 24em;
+    padding: 1em 0;
 
     img {
         height: 100%;
     }
 }
 
-iframe.flickr-embed-frame {
+.flickr-embed-frame {
     height: 427px !important;
 }
