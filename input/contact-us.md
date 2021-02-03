@@ -1,5 +1,7 @@
 ---
 title: Contact Us
+RedirectFrom:
+ - general/contact.htm
 ---
 The best way to contact us is by email - we'll be happy to help. 
 

@@ -3,6 +3,8 @@ title: How we operate
 row: 2
 column: 3
 image: /assets/aboutus-trustees-19-20.jpg
+RedirectFrom:
+ - aboutus/howweoperate.htm
 ---
 Sedos is a Charitable Incorporated Association.
 
