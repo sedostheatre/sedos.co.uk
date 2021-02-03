@@ -48,7 +48,7 @@ sections:
 
       **LOGO AND GENERAL GOOD EGG** | Stephen Beeny\
 
-      **MAKES GRAPHICS MOVE** | Joseph Henshaw\
+      **GRAPHICS GENIUS** | Joseph Henshaw\
 
       **TECHNICAL MAGIC ASSISTANCE** | Olly Levett
 ---
