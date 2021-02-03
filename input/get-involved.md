@@ -14,5 +14,6 @@ groups:
   - name: Membership group
     url: /groups/membership
 RedirectFrom:
-  - /audition
+  - audition/
+  - audition/index.htm
 ---
