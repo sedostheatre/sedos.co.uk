@@ -13,4 +13,6 @@ groups:
     url: /groups/production
   - name: Membership group
     url: /groups/membership
+RedirectFrom:
+  - /audition
 ---
