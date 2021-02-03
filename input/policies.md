@@ -1,5 +1,7 @@
 ---
 title: Policies
+RedirectFrom:
+ - privacy-policy
 ---
 * [Investment Policy](#investment-policy-statement)
 * [Conflict of Interest Policy](#conflict-of-interest-policy)

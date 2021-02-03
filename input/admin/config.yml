@@ -289,48 +289,88 @@ collections:
         fields:
           - {label: title, name: title, widget: string}
           - {label: Details, name: body, widget: markdown, required: false}
+          - name: RedirectFrom
+            label: Redirect From
+            description: Pages on the old site to redirect from
+            widget: list
+            required: false
       - label: "Membership group"
         name: "membership"
         file: "input/groups/membership.md"
         fields:
           - {label: title, name: title, widget: string}
           - {label: Details, name: body, widget: markdown, required: false}
+          - name: RedirectFrom
+            label: Redirect From
+            description: Pages on the old site to redirect from
+            widget: list
+            required: false
       - label: "Production group"
         name: "production"
         file: "input/groups/production.md"
         fields:
           - {label: title, name: title, widget: string}
           - {label: Details, name: body, widget: markdown, required: false}
+          - name: RedirectFrom
+            label: Redirect From
+            description: Pages on the old site to redirect from
+            widget: list
+            required: false
       - label: "Backstage"
         name: "backstage"
         file: "input/backstage.md"
         fields:
           - {label: title, name: title, widget: string}
           - {label: Details, name: body, widget: markdown, required: false}
+          - name: RedirectFrom
+            label: Redirect From
+            description: Pages on the old site to redirect from
+            widget: list
+            required: false
       - label: "Hires"
         name: "hires"
         file: "input/hires.md"
         fields:
           - {label: title, name: title, widget: string}
           - {label: Details, name: body, widget: markdown, required: false}
+          - name: RedirectFrom
+            label: Redirect From
+            description: Pages on the old site to redirect from
+            widget: list
+            required: false
       - label: "Thanks"
         name: "thanks"
         file: "input/thanks.md"
         fields:
           - {label: title, name: title, widget: string}
           - {label: Details, name: body, widget: markdown, required: false}
+          - name: RedirectFrom
+            label: Redirect From
+            description: Pages on the old site to redirect from
+            widget: list
+            required: false
       - label: "Terms and conditions"
         name: "terms"
         file: "input/terms-and-conditions.md"
         fields:
           - {label: title, name: title, widget: string}
           - {label: Details, name: body, widget: markdown, required: false}
+          - name: RedirectFrom
+            label: Redirect From
+            description: Pages on the old site to redirect from
+            widget: list
+            required: false
       - label: "Contact Us"
         name: "contact-us"
         file: "input/contact-us.md"
         fields:
           - {label: title, name: title, widget: string}
           - {label: Details, name: body, widget: markdown, required: false}
+          - name: RedirectFrom
+            label: Redirect From
+            description: Pages on the old site to redirect from
+            widget: list
+            required: false
       - label: "2005 review"
         name: "2005-review"
         file: "input/2005-review.md"
@@ -338,6 +378,11 @@ collections:
           - {label: title, name: title, widget: string}
           - {label: "Review of year", name: review-of-year, widget: string}
           - {label: Details, name: body, widget: markdown, required: false}
+          - name: RedirectFrom
+            label: Redirect From
+            description: Pages on the old site to redirect from
+            widget: list
+            required: false
       - label: "2006 review"
         name: "2006-review"
         file: "input/2006-review.md"
@@ -345,6 +390,11 @@ collections:
           - {label: title, name: title, widget: string}
           - {label: "Review of year", name: review-of-year, widget: string}
           - {label: Details, name: body, widget: markdown, required: false}
+          - name: RedirectFrom
+            label: Redirect From
+            description: Pages on the old site to redirect from
+            widget: list
+            required: false
       - label: "2007 review"
         name: "2007-review"
         file: "input/2007-review.md"
@@ -352,9 +402,19 @@ collections:
           - {label: title, name: title, widget: string}
           - {label: "Review of year", name: review-of-year, widget: string}
           - {label: Details, name: body, widget: markdown, required: false}
+          - name: RedirectFrom
+            label: Redirect From
+            description: Pages on the old site to redirect from
+            widget: list
+            required: false
       - label: "Policies"
         name: "policies"
         file: "input/policies.md"
         fields:
           - {label: title, name: title, widget: string}
           - {label: Details, name: body, widget: markdown, required: false}
+          - name: RedirectFrom
+            label: Redirect From
+            description: Pages on the old site to redirect from
+            widget: list
+            required: false
