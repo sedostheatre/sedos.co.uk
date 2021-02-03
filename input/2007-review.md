@@ -1,6 +1,8 @@
 ---
 title: Review of 2007
 review-of-year: "2007"
+RedirectFrom:
+ - archive/2007.htm
 ---
 ## *Comic Potential*
 

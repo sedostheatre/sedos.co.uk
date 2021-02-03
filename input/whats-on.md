@@ -5,4 +5,5 @@ header-image: assets/images/headers/SedosWebsite-Banner-redcurtain.jpg
 RedirectFrom:
   - whatson/
   - whatson/index.htm
+  - whatson/diary
 ---

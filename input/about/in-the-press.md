@@ -3,6 +3,8 @@ title: In the press
 row: 3
 column: 1
 image: /assets/aboutus-inthepress.jpg
+RedirectFrom:
+ - aboutus/reviews.htm
 ---
 ## Sedos in the press
 

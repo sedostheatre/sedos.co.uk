@@ -4,6 +4,8 @@ image: assets/images/events/sedance-banner.jpg
 header-image: assets/images/headers/SedosWebsite-Banner-sedance.jpg
 venue: 1 Brewers' Hall Garden, London EC2V 5DX
 recurrence: Mondays at 7.10pm
+RedirectFrom:
+ - sedance.htm
 ---
 #### **DURING LOCKDOWN, SEDANCE HAS MOVED ONLINE TO ZOOM. [FIND OUT MORE](https://www.facebook.com/groups/328763023951811/)**
 

@@ -2,6 +2,7 @@
 title: Policies
 RedirectFrom:
  - privacy-policy
+ - general/privacy.htm
 ---
 * [Investment Policy](#investment-policy-statement)
 * [Conflict of Interest Policy](#conflict-of-interest-policy)

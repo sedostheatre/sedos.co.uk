@@ -16,4 +16,5 @@ groups:
 RedirectFrom:
   - audition/
   - audition/index.htm
+  - whatson/memberevents.htm
 ---
