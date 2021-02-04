@@ -33,3 +33,6 @@ The show is on Thursday 18 February at 7.30pm. To be part of the audience, conta
 **SON** | Graham White\
 **CONSTABLE** | James Newall\
 **NIECES OF RALEIGH AND HATTON** | Anie Hu and Lydia Waller
+
+^^^ ![](/assets/the-critic-cast.jpg)
+^^^
