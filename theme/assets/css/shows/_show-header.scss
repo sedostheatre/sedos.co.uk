@@ -24,52 +24,17 @@
         }
     }
 
-    @include media-breakpoint-down(sm) {
-        .show-details {
-            padding-top: 0;
-        }
-
-        .show-title {
-            font-size: 2em;
-            padding-bottom: 0.25em;
-        }
-
-        .show-authors,
-        .show-authors-2,
-        .show-authors-3 {
-            font-size: 1.2em;
-        }
-
-        .show-subtitle {
-            font-size: 1.2em;
-            max-width: 100%;
-        }
-
-        .show-details-bottom {
-            .showtime-summary {
-                font-size: 1.2em;
-            }
-        }
-
-        .show-details {
-            text-align: center;
-        }
-
-        .show-details {
-            padding-top: 1em;
-        }
-
-        .show-header-image {
-            min-height: 30vh;
-        }
-    }
-
     .show-details {
         align-content: stretch;
         align-items: stretch;
         display: flex;
         flex-direction: column;
         padding-top: 8em;
+        @include media-breakpoint-down(sm) {
+            padding-top: 1em;
+            padding-top: 0;
+            text-align: center;
+        }
     }
 
     .show-details-bottom {
@@ -90,6 +55,10 @@
             @media (max-height: 40rem) {
                 font-size: 1.2em;
             }
+
+            @include media-breakpoint-down(sm) {
+                font-size: 1.2em;
+            }
         }
     }
 
@@ -99,6 +68,9 @@
         background-repeat: no-repeat;
         background-size: cover;
         min-height: 70vh;
+        @include media-breakpoint-down(sm) {
+            min-height: 30vh;
+        }
     }
 
     .show-title {
@@ -116,6 +88,12 @@
 
         @media (max-height: 40rem) {
             font-size: 2em;
+        }
+
+        @include media-breakpoint-down(sm) {
+
+            font-size: 2em;
+            padding-bottom: 0.25em;
         }
     }
 
@@ -135,6 +113,10 @@
         @media (max-height: 40rem) {
             font-size: 1.5em;
         }
+
+        @include media-breakpoint-down(sm) {
+            font-size: 1.2em;
+        }
     }
 
     .show-subtitle {
@@ -151,6 +133,11 @@
 
         @media (max-height: 40rem) {
             font-size: 1.5em;
+        }
+
+        @include media-breakpoint-down(sm) {
+            font-size: 1.2em;
+            max-width: 100%;
         }
     }
 }
