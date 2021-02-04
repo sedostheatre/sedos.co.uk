@@ -51,6 +51,24 @@ sections:
       **GRAPHICS GENIUS** | Joseph Henshaw\
 
       **TECHNICAL MAGIC ASSISTANCE** | Olly Levett
+  - order: 2
+    title: THE CHARACTERS
+    body: |-
+      **PERFORMING ON TUESDAY 16 FEBRUARY**
+
+      Horse\
+      Lady Poodle\
+      Crocodile\
+      Christmas Tree\
+      Triceratops
+
+      **PERFORMING ON WEDNESDAY 17 FEBRUARY**
+
+      Shakespeare\
+      BananaDrama\
+      Cloud\
+      T-Rex\
+      Owl
 ---
 **Disguised Sedos members go head to head in the Masked Sedos Singer – can you guess who is in the costume?**
 
