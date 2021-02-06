@@ -5,6 +5,7 @@ column: 2
 image: /assets/aboutus-howtosucceed.jpg
 RedirectFrom:
  - aboutus/faq.htm
+ - pitchprocess.htm
 ---
 ## FAQs
 
