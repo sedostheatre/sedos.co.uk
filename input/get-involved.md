@@ -15,6 +15,8 @@ groups:
     url: /groups/membership
 RedirectFrom:
   - audition/
+  - audition/AuditionTips.htm
   - audition/index.htm
   - whatson/memberevents.htm
+  - whatson/sechoir.htm
 ---
