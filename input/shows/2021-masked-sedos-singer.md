@@ -50,6 +50,8 @@ sections:
 
       **GRAPHICS GENIUS** | Joseph Henshaw\
 
+      **JINGLE WHIZZ** |Nick Stucke\
+
       **TECHNICAL MAGIC ASSISTANCE** | Olly Levett
   - order: 2
     title: THE CHARACTERS
