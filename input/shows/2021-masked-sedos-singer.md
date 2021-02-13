@@ -54,7 +54,7 @@ sections:
 
       **TECHNICAL MAGIC ASSISTANCE** | Olly Levett
   - order: 2
-    title: THE CHARACTERS
+    title: THE CONTESTANTS
     body: |-
       **PERFORMING ON TUESDAY 16 FEBRUARY**
 
@@ -71,6 +71,11 @@ sections:
       Cloud\
       T-Rex\
       Owl
+
+
+
+      ^^^ ![](/assets/maskedsedossingercharacters.jpg)
+      ^^^
 ---
 **Disguised Sedos members go head to head in the Masked Sedos Singer – can you guess who is in the costume?**
 
