@@ -58,11 +58,11 @@ sections:
     body: |-
       **PERFORMING ON TUESDAY 16 FEBRUARY**
 
-      Horse\
-      Lady Poodle\
-      Crocodile\
-      Christmas Tree\
-      Triceratops
+      Horse – through to final on public vote\
+      Lady Poodle – through to final on public vote\
+      Crocodile – revealed as Mark Siddall\
+      Christmas Tree – revealed as Stephen Beeny\
+      Triceratops – through to final as judges’ wildcard
 
       **PERFORMING ON WEDNESDAY 17 FEBRUARY**
 
@@ -71,8 +71,6 @@ sections:
       Cloud\
       T-Rex\
       Owl
-
-
 
       ^^^ ![](/assets/maskedsedossingercharacters.jpg)
       ^^^
