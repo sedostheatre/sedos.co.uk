@@ -56,7 +56,12 @@ sections:
   - order: 2
     title: THE CONTESTANTS
     body: |-
-      **PERFORMING ON TUESDAY 16 FEBRUARY**
+      **OUR FINALISTS**
+
+      ^^^ ![](/assets/newsletter19feb.jpg)
+      ^^^ 
+
+      **PERFORMED ON TUESDAY 16 FEBRUARY**
 
       Horse – through to final on public vote\
       Lady Poodle – through to final on public vote\
@@ -64,13 +69,13 @@ sections:
       Christmas Tree – revealed as Stephen Beeny\
       Triceratops – through to final as judges’ wildcard
 
-      **PERFORMING ON WEDNESDAY 17 FEBRUARY**
+      **PERFORMED ON WEDNESDAY 17 FEBRUARY**
 
-      Shakespeare\
-      BananaDrama\
-      Cloud\
-      T-Rex\
-      Owl
+      Shakespeare – revealed as Adam Moulder\
+      BananaDrama – through to final as judges’ wildcard\
+      Cloud – through to final on public vote\
+      T-Rex – revealed as Matt Gould\
+      Owl – through to final on public vote
 
       ^^^ ![](/assets/maskedsedossingercharacters.jpg)
       ^^^
