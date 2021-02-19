@@ -79,6 +79,15 @@ sections:
 
       ^^^ ![](/assets/maskedsedossingercharacters.jpg)
       ^^^
+  - order: 3
+    title: VIDEO
+    body: >-
+      Visit our [Facebook live
+      replays](https://www.facebook.com/sedostheatre/live_videos/) to see both
+      heats in full or watch a quick recap below. 
+
+
+      <div class="video-responsive"><?# YouTube POuxfiTMK6w&feature=youtu.be /?></div>
 ---
 **Disguised Sedos members go head to head in the Masked Sedos Singer – can you guess who is in the costume?**
 
