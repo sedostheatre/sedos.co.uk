@@ -3,7 +3,7 @@ title: Cast list for The Critic
 date: 2021-02-04
 image: /assets/20210126_233702.jpg
 RedirectFrom:
-  - sedos.co.uk/criticcast
+  - /criticcast
 ---
 *4 February 2021*
 
