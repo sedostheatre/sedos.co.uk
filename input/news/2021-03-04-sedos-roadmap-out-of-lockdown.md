@@ -1,5 +1,5 @@
 ---
-title: Sedos' roadmap out of lockdown
+title: Sedos’ roadmap out of lockdown
 date: 2021-03-04
 image: /assets/bridewelltheatre-800.jpg
 ---
