@@ -13,7 +13,7 @@ The humour which runs through the play also stops it falling into sentimentality
 \
 To be part of the audience, email [audience@sedos.co.uk](mailto:audience@sedos.co.uk) to secure your ticket
 
-See the full cast list for the show.
+See [the full cast list](https://sedos.co.uk/news/2021-03-04-the-lights-o-london-cast-revealed) for the show.
 
 ^^^ ![](/assets/20210125_153857.jpg)
 ^^^ The Royal Princess' Theatre
