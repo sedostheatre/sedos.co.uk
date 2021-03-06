@@ -1,5 +1,5 @@
 ---
-title: Masked Season Singer Season 2 – your thoughts, please
+title: Masked Season Singer Season 2 - your thoughts, please
 date: 2021-03-06
 image: /assets/maskedsedossinger-glitter.png
 RedirectFrom:
