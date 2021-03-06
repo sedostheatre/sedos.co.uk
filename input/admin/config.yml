@@ -6,6 +6,10 @@ backend:
   branch: main
   repo: sedostheatre/sedos.co.uk
 
+slug:
+  encoding: ascii
+  clean_accents: true
+
 collections:
   - name: "shows"
     label: "Show"
