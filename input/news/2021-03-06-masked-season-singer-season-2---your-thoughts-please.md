@@ -1,5 +1,5 @@
 ---
-title: Masked Season Singer Season 2 - your thoughts
+title: Masked Sedos Singer Season 2 - your thoughts
 date: 2021-03-06
 image: /assets/sedosmaskedsinger-season2-landscape.jpg
 RedirectFrom:
