@@ -56,11 +56,6 @@ sections:
   - order: 2
     title: THE CONTESTANTS
     body: |-
-      **OUR FINALISTS**
-
-      ^^^ ![](/assets/newsletter19feb.jpg)
-      ^^^ 
-
       **THE WINNER**
 
       Cloud – revealed as Andrew Overin
