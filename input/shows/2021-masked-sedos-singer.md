@@ -61,21 +61,24 @@ sections:
       ^^^ ![](/assets/newsletter19feb.jpg)
       ^^^ 
 
-      **PERFORMED ON TUESDAY 16 FEBRUARY**
+      **THE WINNER**
 
-      Horse – through to final on public vote\
-      Lady Poodle – through to final on public vote\
-      Crocodile – revealed as Mark Siddall\
+      Cloud – revealed as Andrew Overin
+
+      **THE FINALISTS**
+
+      Lady Poodle (runner-up) – revealed as Romana Moss\
+      BananaDrama – revealed as Richard Upton\
+      Horse – revealed as Michael Cannon\
+      Owl – revealed as Susan Booth\
+      Triceratops – revealed as James Franey
+
+      **KNOCKED OUT IN HEATS**
+
       Christmas Tree – revealed as Stephen Beeny\
-      Triceratops – through to final as judges’ wildcard
-
-      **PERFORMED ON WEDNESDAY 17 FEBRUARY**
-
+      Crocodile – revealed as Mark Siddall\
       Shakespeare – revealed as Adam Moulder\
-      BananaDrama – through to final as judges’ wildcard\
-      Cloud – through to final on public vote\
-      T-Rex – revealed as Matt Gould\
-      Owl – through to final on public vote
+      T-Rex – revealed as Matt Gould
 
       ^^^ ![](/assets/maskedsedossingercharacters.jpg)
       ^^^
