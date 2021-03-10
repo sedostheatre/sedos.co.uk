@@ -16,3 +16,6 @@ Andrew then joined host John Kyle and judges Liz Flint, Angus Jacobs and Sara Ra
 Thank you and congratulations to everyone who took part in the Masked Sedos Singer.
 
 The team are looking at the possibllity of a second season and would love to hear from potential singers and are also keen to canvass audience views. Please do fill in the [singer expression of interest form](https://docs.google.com/forms/d/1ss4IFCQbuj0Zh_Q3HldjQrpIR6JYwCR-MxJNBAhuX8g/viewform?ts=603bcbb9&gxids=7628&edit_requested=true) and/or [audience survey](https://docs.google.com/forms/d/1WRyUZNt8QMfNYPjjYhVe1K4nnGXp2EjleV9UMB35G-k/viewform?edit_requested=true&gxids=7628) before the end of Monday 15 March.
+
+^^^ ![](/assets/cloud-2.jpg)
+^^^ Cloud, revealed as Andrew Overin
