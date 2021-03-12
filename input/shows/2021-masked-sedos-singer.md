@@ -83,7 +83,7 @@ sections:
       Visit our [Facebook live
       replays](https://www.facebook.com/sedostheatre/live_videos/) to see both
       heats and the final in full or watch a quick recap of all the contestants'
-      first round performances below. 
+      first round and final performances below. 
 
 
       <div class="video-responsive"><?# YouTube SXIGKO70LjI /?></div>
