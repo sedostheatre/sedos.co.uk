@@ -86,6 +86,9 @@ sections:
       first round performances below. 
 
 
+      <div class="video-responsive"><?# YouTube SXIGKO70LjI /?></div>
+
+
       <div class="video-responsive"><?# YouTube POuxfiTMK6w&feature=youtu.be /?></div>
 ---
 **Disguised Sedos members go head to head in the Masked Sedos Singer – can you guess who is in the costume?**
