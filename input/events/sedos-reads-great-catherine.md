@@ -1,7 +1,7 @@
 ---
 title: "Sedos Reads: Great Catherine"
 times:
-  - time: 2021-04-01 19:30
+  - time: 2021-04-15 19:30
 image: /assets/great-catherine.jpg
 venue: Online via Zoom
 ---
