@@ -62,7 +62,7 @@ collections:
         label: Summary of show times, shown at the footer of the home page/show details header
         widget: string
         required: false
-      - label: Show on home page?
+      - label: Show on home page (only applicable when show is in the past)?
         name: show-on-homepage
         widget: boolean
         required: false
