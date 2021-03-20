@@ -7,6 +7,7 @@ showtimes:
   - time: 2021-04-13 20:00
   - time: 2021-05-04 20:00
 showtime-summary: Heats 7 and 13 April 2021; final 4 May 2021
+show-on-homepage: false
 venue: Online at Facebook Live
 ticket-prices: Free
 primary-color: "#9a2256"
