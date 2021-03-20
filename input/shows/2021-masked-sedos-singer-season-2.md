@@ -27,6 +27,9 @@ sections:
       Sara Rajeswaran
 
 
+      Plus special guest judge for the final!
+
+
       **HOST**
 
 
