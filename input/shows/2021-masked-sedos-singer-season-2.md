@@ -11,7 +11,7 @@ show-on-homepage: false
 venue: Online at Facebook Live
 ticket-prices: Free
 primary-color: "#9a2256"
-header-image: /assets/mssseason2v3.jpg
+header-image: /assets/mssseason2v4.jpg
 flyer: /assets/maskedsedossinger-season2-v2.jpg
 box-office-open: false
 sections:
