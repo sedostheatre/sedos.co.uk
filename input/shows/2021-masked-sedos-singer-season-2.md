@@ -10,7 +10,7 @@ showtime-summary: Heats 7 and 13 April 2021; final 4 May 2021
 venue: Online at Facebook Live
 ticket-prices: Free
 primary-color: "#9a2256"
-header-image: /assets/mssseason2v2.jpg
+header-image: /assets/mssseason2v3.jpg
 flyer: /assets/maskedsedossinger-season2-v2.jpg
 box-office-open: false
 sections:
