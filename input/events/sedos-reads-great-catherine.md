@@ -11,4 +11,4 @@ George Bernard Shaw wrote his one-act comedy or light-hearted appreciation of th
 
 Rehearsals will be on Tuesday 6, Thursday 8 and Tuesday 13 April all from 7-9pm. The performance is on Thursday 15 April at 7.30pm. \
 \
-If you would like to be part of the cast for *Great Catherine* please [complete this form](https://docs.google.com/forms/d/1md_rrg0hXjMRlhQfQlW03T6xRekOzDiEgHdRZ7NqaPk/viewform?gxids=7628&edit_requested=true). And if you have not performed with Sedos Reads before, please send a two-minute monologue to [sedosreads@sedos.co.uk](mailto:sedosreads.co.uk)
+If you would like to be part of the cast for *Great Catherine* please [complete this form](https://docs.google.com/forms/d/1md_rrg0hXjMRlhQfQlW03T6xRekOzDiEgHdRZ7NqaPk/viewform?gxids=7628&edit_requested=true). And if you have not performed with Sedos Reads before, please send a two-minute monologue to [readings@sedos.co.uk](mailto:readings@sedos.co.uk)
