@@ -69,7 +69,7 @@ sections:
       Liberty\
       Neighlificent\
       Sheep\
-      Wacky waving inflatable arm flailing tube man
+      Wacky Waving Inflatable Arm Flailing Tube Man
 ---
 **After the success of [Season 1](https://sedos.co.uk/shows/2021-masked-sedos-singer), Masked Sedos Singer is back for Season 2.**
 
