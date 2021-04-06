@@ -59,17 +59,26 @@ sections:
   - order: 3
     title: THE CONTESTANTS
     body: |-
-      **MASKED SEDOS SINGER SEASON 2 CONTESTANTS**
+      **HEAT 1 - WEDNESDAY 7 APRIL**
 
-      Dog\
       Dragon\
+      Dog\
       Ethel the Shark\
-      Hairy Styles\
+      Sheep\
+      Neighlificent
+
+      ^^^ ![](/assets/heat-1-copy.jpg)
+      ^^^ 
+
+      **HEAT 2 - TUESDAY 13 APRIL**
+
       Lego Guy\
       Liberty\
-      Neighlificent\
-      Sheep\
-      Wacky Waving Inflatable Arm Flailing Tube Man
+      Wacky waving inflatable arm flailing tube man\
+      Hairy Styles
+
+      ^^^ ![](/assets/heat-2-copy.jpg)
+      ^^^
 ---
 **After the success of [Season 1](https://sedos.co.uk/shows/2021-masked-sedos-singer), Masked Sedos Singer is back for Season 2.**
 
