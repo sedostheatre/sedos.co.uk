@@ -34,6 +34,7 @@ sections:
 
       Kimberly Barker\
       Michelle Brown\
+      Emma Butler\
       Amber McAlpine\
       Sarah Boyes\
       Bridget Cross\
