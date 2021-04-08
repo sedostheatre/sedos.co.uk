@@ -61,11 +61,11 @@ sections:
     body: |-
       **HEAT 1 - WEDNESDAY 7 APRIL**
 
-      Dragon\
-      Dog\
-      Ethel the Shark\
-      Sheep\
-      Neighlificent
+      Dragon - revealed as Emma Fyson\
+      Dog - through to the final on public vote\
+      Ethel the Shark - revealed as Emma J Leaver\
+      Sheep - through to the final on public vote\
+      Neighlificent - through to the final on public vote
 
       ^^^ ![](/assets/heat-1-copy.jpg)
       ^^^ 
