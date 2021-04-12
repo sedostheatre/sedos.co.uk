@@ -9,7 +9,7 @@ on:
 
 jobs:
   build:
-    name: Build
+    name: Build and publush
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2.3.4
@@ -39,6 +39,9 @@ jobs:
       run: 'npm ci'
     - name: Lint Styles
       run: 'npx stylelint **/*.scss'
+    - name: Lint HTML
+      run: 'npx html-validate output/'
+      continue-on-error: true
     - name: Cypress tests
       uses: cypress-io/github-action@v2
       with:
