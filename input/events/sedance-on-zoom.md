@@ -1,10 +1,17 @@
 ---
 title: Sedance on Zoom
-times: []
+times:
+  - time: 2021-04-19 16:03
+  - time: 2021-04-26 16:04
+  - time: 2021-05-03 16:04
+  - time: 2021-05-10 16:04
+  - time: 2021-05-17 16:04
+  - time: 2021-05-24 16:04
+  - time: 2021-05-31 16:04
 image: /assets/sedance-square.jpg
 recurrence: Mondays at 7.15pm
 ---
-**Sedance is returning online via Zoom from 5 October!**
+**Sedance is returning online via Zoom from 5 October 2020!**
 
 Head over to the Sedance [Facebook group](http://r20.rs6.net/tn.jsp?f=001puMH7aVENS7rdpU_Ngz9kxuFUu7gy8CSGN23cU16fl9aRirRb1jSTZOG6iYQoU80XprP63ZuFZMO-3Ep1ZKhJ-ArXX5_nREDaunZYidXZMJNxablHD1DeJNVB0qvEvc9JeLsXVROFmniZ-lVN88_IFUmrNt0secZiwnu-RE_YYvQW6SnnVQSWlDh86y-QVRIldkHWf012OSPtU6ubxpp_g==&c=dLBcWkVs6bEUg_A4akcPen3gh1IlavylTL_nHGQxDCdrj0Q1ideq8g==&ch=5Rg1R1qWVf7_eczXm0hVAyMbJHffr__qYyMq7NieZS1MjrGxboxtyg==) page to see videos of the warm-up and the 10 routines that we have done since Sedance moved online for lockdown. We have been holding free weekly classes every Monday night from 7.15-9pm on Zoom.
 
