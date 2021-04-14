@@ -1,6 +1,12 @@
 ---
 title: Vinyasa Flow Seyoga
-times: []
+times:
+  - time: 2021-04-21 16:02
+  - time: 2021-04-28 16:02
+  - time: 2021-05-05 16:02
+  - time: 2021-05-12 16:02
+  - time: 2021-05-19 16:02
+  - time: 2021-05-26 16:03
 image: /assets/seyoga.jpg
 recurrence: Wednesdays at 6.30pm
 ---
@@ -14,4 +20,4 @@ It's a 1-hour Vinyasa Flow class, followed by time to catch up with pals new and
 
 Classes are free but please sign up in advance for each class through the link below.
 
-**[BOOK HERE](https://mattmoves.as.me/schedule.php?appointmentType=13797270)**
+**BOOK HERE**
