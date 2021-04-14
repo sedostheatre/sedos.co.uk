@@ -58,26 +58,40 @@ sections:
       **TECHNICAL MAGIC ASSISTANCE** | Olly Levett
   - order: 3
     title: THE CONTESTANTS
-    body: |-
+    body: >-
       **HEAT 1 - WEDNESDAY 7 APRIL**
 
+
       Dragon - revealed as Emma Fyson\
+
       Dog - through to the final on public vote\
+
       Ethel the Shark - revealed as Emma J Leaver\
+
       Sheep - through to the final on public vote\
+
       Neighlificent - through to the final on public vote
 
+
       ^^^ ![](/assets/heat-1-copy.jpg)
+
       ^^^ 
+
 
       **HEAT 2 - TUESDAY 13 APRIL**
 
-      Lego Guy\
-      Liberty\
-      Wacky waving inflatable arm flailing tube man\
-      Hairy Styles
+
+      Lego Guy - revealed as Andrew Laidlaw\
+
+      Liberty - revealed as Chloë Faine\
+
+      Wacky waving inflatable arm flailing tube man - through to the final on judges' wildcard\
+
+      Hairy Styles - through to the final on public vote
+
 
       ^^^ ![](/assets/heat-2-copy.jpg)
+
       ^^^
   - order: 1
     title: VIDEO
