@@ -16,7 +16,7 @@ showtimes:
   - time: 2021-03-18 19:30
   - time: 2021-04-15 19:30
 showtime-summary: Thursday 18 February, 18 March and 15 April at 7.30pm
-show-on-homepage: true
+show-on-homepage: false
 order-on-homepage: ""
 venue: Online via Zoom
 ticket-prices: Free
