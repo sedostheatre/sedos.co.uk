@@ -3,6 +3,7 @@ title: Sedos' roadmap out of lockdown
 year: "2021"
 subtitle: Find out more about our plans for the rest of 2021
 showtimes: []
+showtime-summary: A note from the chair of the management committee
 show-on-homepage: true
 primary-color: "#ac9a9a"
 header-image: /assets/roadmap2.jpg
