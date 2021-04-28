@@ -6,7 +6,7 @@ showtimes: []
 showtime-summary: A note from the chair of the management committee
 show-on-homepage: true
 primary-color: "#ac9a9a"
-header-image: /assets/roadmap3.jpg
+header-image: /assets/roadmap4.jpg
 flyer: /assets/roadmapflyer.jpg
 box-office-open: false
 sections: []
