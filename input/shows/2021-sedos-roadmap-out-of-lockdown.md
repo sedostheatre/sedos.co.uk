@@ -5,7 +5,7 @@ subtitle: Find out more about our plans for the rest of 2021
 showtimes: []
 showtime-summary: A note from the chair of the management committee
 show-on-homepage: true
-primary-color: "#ac9a9a"
+primary-color: "#ba7b0e"
 header-image: /assets/auto-5584827_1920.jpg
 flyer: /assets/roadmapflyer.jpg
 box-office-open: false
