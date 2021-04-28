@@ -26,7 +26,7 @@ We are also working on setting up a new show or shows to fill a two-week slot at
 
 Finally, we have started to think about other in-person activities prior to the autumn season. We have lots of thoughts and will be reaching out for more in due course, again once we've got more certainty. 
 
-Stay safe
+Stay safe,
 
 Matt Gould\
 Chairman of the management committee
