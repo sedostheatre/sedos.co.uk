@@ -15,7 +15,7 @@ sections: []
 
 Dear Sedos members and friends,
 
-As London starts to come out of lockdown, we are starting to discuss what Sedos' activities might look like during the rest of 2021.  \
+As London starts to come out of lockdown, we are discussing what Sedos' activities might look like during the rest of 2021.  \
 \
 Our hope is that we can start in-person (non-socially distanced) activities from the end of June. Assuming so, this would allow us to start preparing for and rehearsing an autumn season. 
 
