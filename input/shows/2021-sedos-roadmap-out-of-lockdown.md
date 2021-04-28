@@ -5,7 +5,7 @@ subtitle: Find out more about our plans for the rest of 2021
 showtimes: []
 show-on-homepage: true
 primary-color: "#ac9a9a"
-header-image: /assets/roadmap.jpg
+header-image: /assets/roadmap2.jpg
 flyer: /assets/roadmapflyer.jpg
 box-office-open: false
 sections: []
