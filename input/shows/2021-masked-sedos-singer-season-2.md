@@ -28,7 +28,7 @@ sections:
       Sara Rajeswaran
 
 
-      Plus special guest judge for the final!
+      Plus guest judge Andrew Overin, [winner of Season 1,](https://sedos.co.uk/shows/2021-masked-sedos-singer) for the final.
 
 
       **HOST**
@@ -58,40 +58,29 @@ sections:
       **TECHNICAL MAGIC ASSISTANCE** | Olly Levett
   - order: 3
     title: THE CONTESTANTS
-    body: >-
-      **HEAT 1 - WEDNESDAY 7 APRIL**
+    body: |-
+      **THE WINNER**
 
+      Wacky waving inflatable arm flailing tube man - revealed as Joey Henshaw
+
+      **THE FINALISTS**
+
+      Sheep (runner-up) - revealed as Robert J Stanex\
+      Dog (runner-up) - revealed as Rob Archibald\
+      Hairy Styles - revealed as Kim Barker\
+      Neighlificent - revealed as Susan Wilcock
+
+      **KNOCKED OUT IN HEATS**
 
       Dragon - revealed as Emma Fyson\
-
-      Dog - through to the final on public vote\
-
       Ethel the Shark - revealed as Emma J Leaver\
-
-      Sheep - through to the final on public vote\
-
-      Neighlificent - through to the final on public vote
-
+      Lego Guy - revealed as Andrew Laidlaw\
+      Liberty - revealed as Chloë Faine
 
       ^^^ ![](/assets/heat-1-copy.jpg)
-
       ^^^ 
 
-
-      **HEAT 2 - TUESDAY 13 APRIL**
-
-
-      Lego Guy - revealed as Andrew Laidlaw\
-
-      Liberty - revealed as Chloë Faine\
-
-      Wacky waving inflatable arm flailing tube man - through to the final on judges' wildcard\
-
-      Hairy Styles - through to the final on public vote
-
-
       ^^^ ![](/assets/heat-2-copy.jpg)
-
       ^^^
   - order: 1
     title: VIDEO
