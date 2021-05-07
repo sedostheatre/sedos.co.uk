@@ -4,7 +4,7 @@ row: 2
 column: 3
 image: /assets/aboutus-trustees-19-20.jpg
 RedirectFrom:
- - aboutus/howweoperate.htm
+  - aboutus/howweoperate.htm
 ---
 Sedos is a Charitable Incorporated Association.
 
@@ -43,7 +43,7 @@ The management committee is responsible for the day to day management of Sedos. 
 
 The management committee is set up by the trustees to run the society and the members of the management committee are voted on by the society’s membership.
 
-The management committee’s terms of reference is here.
+The management committee’s terms of reference is [here](https://sedos.co.uk/assets/management-committee-terms-of-reference-2019.pdf).
 
 To contact the management committee, please email [committee@sedos.co.uk](mailto:committee@sedos.co.uk)
 
