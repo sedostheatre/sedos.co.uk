@@ -86,17 +86,18 @@ sections:
     title: VIDEO
     body: >-
       Visit our [Facebook live
-      replays](https://www.facebook.com/sedostheatre/live_videos/) to see heat 1
-      in full or watch a quick recap below.
+      replays](https://www.facebook.com/sedostheatre/live_videos/) to see both
+      heats and the final in full or watch a quick recap of all the contestants'
+      first round and final performances below.
+
+
+      <div class="video-responsive"><?# YouTube SWKzWLGW0kM&t=2s /?></div>
 
 
       <div class="video-responsive"><?# YouTube ZsN97eTYs4Y /?></div>
 
 
       <div class="video-responsive"><?# YouTube jpQjhIGcjJA&t=7s /?></div>
-
-
-      <div class="video-responsive"><?# YouTube SWKzWLGW0kM&t=2s /?></div>
 ---
 **After the success of [Season 1](https://sedos.co.uk/shows/2021-masked-sedos-singer), Masked Sedos Singer is back for Season 2.**
 
