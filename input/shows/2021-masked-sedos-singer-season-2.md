@@ -15,7 +15,7 @@ header-image: /assets/mssseason2v2.jpg
 flyer: /assets/maskedsedossinger-season2-v2.jpg
 box-office-open: false
 sections:
-  - order: 2
+  - order: 1
     title: JUDGES, HOST & TEAM
     body: >-
       **JUDGES**
@@ -56,7 +56,7 @@ sections:
       **JINGLE WHIZZ** | Nick Stucke\
 
       **TECHNICAL MAGIC ASSISTANCE** | Olly Levett
-  - order: 3
+  - order: 2
     title: THE CONTESTANTS
     body: |-
       **THE WINNER**
@@ -82,7 +82,7 @@ sections:
 
       ^^^ ![](/assets/heat-2-copy.jpg)
       ^^^
-  - order: 1
+  - order: 3
     title: VIDEO
     body: >-
       Visit our [Facebook live
@@ -91,6 +91,12 @@ sections:
 
 
       <div class="video-responsive"><?# YouTube ZsN97eTYs4Y /?></div>
+
+
+      <div class="video-responsive"><?# YouTube jpQjhIGcjJA&t=7s /?></div>
+
+
+      <div class="video-responsive"><?# YouTube SWKzWLGW0kM&t=2s /?></div>
 ---
 **After the success of [Season 1](https://sedos.co.uk/shows/2021-masked-sedos-singer), Masked Sedos Singer is back for Season 2.**
 
