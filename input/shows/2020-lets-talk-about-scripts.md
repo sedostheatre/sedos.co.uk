@@ -29,7 +29,7 @@ sections:
     body: |-
       <div class="video-responsive"><?# YouTube -nuCG6O-s48 /?></div>
 
-      <div class="video-responsive"><?# YouTube ulAgpkSYu0g&t=3s /?></div>
+      <div class="video-responsive"><?# YouTube ulAgpkSYu0g /?></div>
 
       <div class="video-responsive"><?# YouTube HAh24fsYUo8 /?></div>
 ---
@@ -46,9 +46,9 @@ For this series of casual readings, we've learned from our colleagues in other s
 * Rehearsals will take place via Zoom.
 * The performance will take place via Zoom on Thursdays at 7.30pm.
 
-While we can't guarantee a role to everyone who applies, we will aim to be fair and ensure no one misses out over the course of the season. Of course, anyone who isn't cast is encouraged to dial in for the performance. 
+While we can't guarantee a role to everyone who applies, we will aim to be fair and ensure no one misses out over the course of the season. Of course, anyone who isn't cast is encouraged to dial in for the performance.
 
- If you have any questions, please email Peter Foster at [readings@sedos.co.uk](mailto:readings@sedos.co.uk)[](http://r20.rs6.net/tn.jsp?f=001o3_SP7cheDBeX4G67bw5hStGYdO5HvXB0ptJeSKsbxaq5E55SoDoQ-rS2p0ZTbHyTW5G3dWcbdYQs9CRJ7bWSKaADV1Az8MQxK7e3mN8JcgXAAkYtD7lWac5czQ2aAU_5Z_5aADKW2FwgLcsfQUyWZW2ni6Qo8-pRuagxYZ8MCFhVv_L845pQw==&c=u5ghrGBx3MSJeIZDXOYVy5dH45VZCqqHHeHRNrVbUD3GhFp17VMnMg==&ch=KlhiVUVN7kiiGS2tXNwAXhSAgzx3UfswgOg6BljoMg-o9AhuTX91Ig==) 
+ If you have any questions, please email Peter Foster at [readings@sedos.co.uk](mailto:readings@sedos.co.uk)[](http://r20.rs6.net/tn.jsp?f=001o3_SP7cheDBeX4G67bw5hStGYdO5HvXB0ptJeSKsbxaq5E55SoDoQ-rS2p0ZTbHyTW5G3dWcbdYQs9CRJ7bWSKaADV1Az8MQxK7e3mN8JcgXAAkYtD7lWac5czQ2aAU_5Z_5aADKW2FwgLcsfQUyWZW2ni6Qo8-pRuagxYZ8MCFhVv_L845pQw==&c=u5ghrGBx3MSJeIZDXOYVy5dH45VZCqqHHeHRNrVbUD3GhFp17VMnMg==&ch=KlhiVUVN7kiiGS2tXNwAXhSAgzx3UfswgOg6BljoMg-o9AhuTX91Ig==)
 
 We look forward to seeing you online soon.
 

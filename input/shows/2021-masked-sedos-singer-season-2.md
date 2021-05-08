@@ -78,7 +78,7 @@ sections:
       Liberty - revealed as Chloë Faine
 
       ^^^ ![](/assets/heat-1-copy.jpg)
-      ^^^ 
+      ^^^
 
       ^^^ ![](/assets/heat-2-copy.jpg)
       ^^^
@@ -91,13 +91,13 @@ sections:
       first round and final performances below.
 
 
-      <div class="video-responsive"><?# YouTube SWKzWLGW0kM&t=2s /?></div>
+      <div class="video-responsive"><?# YouTube SWKzWLGW0kM /?></div>
 
 
       <div class="video-responsive"><?# YouTube ZsN97eTYs4Y /?></div>
 
 
-      <div class="video-responsive"><?# YouTube jpQjhIGcjJA&t=7s /?></div>
+      <div class="video-responsive"><?# YouTube jpQjhIGcjJA /?></div>
 ---
 **After the success of [Season 1](https://sedos.co.uk/shows/2021-masked-sedos-singer), Masked Sedos Singer is back for Season 2.**
 
