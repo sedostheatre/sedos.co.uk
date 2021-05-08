@@ -95,6 +95,10 @@ collections:
         widget: boolean
         default: false
         required: false
+      - label: TicketSolve Show ID
+        name: ticketsolve-show-id
+        widget: string
+        required: false
       - label: Show details
         name: body
         widget: markdown

@@ -1,3 +1,4 @@
+@using Sedos;
 @model IDocument
 
 @{
@@ -40,7 +41,8 @@
             <div class="show-action-bar">
                 @if(Model.Get("box-office-open", false)) 
                 {
-                    <a href="#" class="btn btn-light">Book tickets</a>
+                    var bookingLink = BoxOfficeUri.FromShowId(Model.GetString("ticketsolve-show-id"));
+                    <a href="@bookingLink" class="btn btn-light">Book tickets</a>
                 }
             </div>
         </div>

@@ -1,4 +1,5 @@
 @using Statiq.Common;
+@using Sedos;
 @model IDocument
 
 @{
@@ -73,7 +74,8 @@
 
                         if (showDates.Any(x => x > DateTime.Now) && Model.Get("box-office-open", false))
                         {
-                            <button class="btn btn-sedos-blue">Book tickets</button>
+                            var bookingLink = BoxOfficeUri.FromShowId(Model.GetString("ticketsolve-show-id"));
+                            <a class="btn btn-sedos-blue" href="@bookingLink">Book tickets</a>
                         }
                     }
                 }
