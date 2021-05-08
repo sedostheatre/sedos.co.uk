@@ -70,17 +70,17 @@ sections:
   - order: 3
     title: VIDEO
     body: |-
-      <div class="video-responsive"><?# YouTube gbapd8JZ0fM&t=13s /?></div>
+      <div class="video-responsive"><?# YouTube gbapd8JZ0fM /?></div>
 
-        
+
 
       <div class="video-responsive"><?# YouTube MlUNpnKljxs /?></div>
 
-        
+
 
       <div class="video-responsive"><?# YouTube oGAn4utSwfA /?></div>
 
-        
+
 
       <div class="video-responsive"><?# YouTube _m5Xa970adw /?></div>
   - order: 4
