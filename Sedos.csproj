@@ -14,7 +14,7 @@
     <PackageReference Include="Statiq.App" Version="1.0.0-beta.41" />
     <PackageReference Include="Statiq.Images" Version="1.0.0-beta.41" />
     <PackageReference Include="Statiq.Web" Version="1.0.0-beta.27" />
-    <PackageReference Include="Schema.NET" Version="7.2.0" />
+    <PackageReference Include="Schema.NET" Version="9.0.0" />
   </ItemGroup>
 
   <ItemGroup>
