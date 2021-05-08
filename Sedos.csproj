@@ -11,30 +11,30 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Statiq.App" Version="1.0.0-beta.33" />
-    <PackageReference Include="Statiq.Images" Version="1.0.0-beta.33" />
-    <PackageReference Include="Statiq.Web" Version="1.0.0-beta.19" />
+    <PackageReference Include="Statiq.App" Version="1.0.0-beta.41" />
+    <PackageReference Include="Statiq.Images" Version="1.0.0-beta.41" />
+    <PackageReference Include="Statiq.Web" Version="1.0.0-beta.27" />
     <PackageReference Include="Schema.NET" Version="7.2.0" />
   </ItemGroup>
 
   <ItemGroup>
     <Compile Remove="input\**" />
     <Compile Remove="node_modules\**" />
-     <Compile Remove="theme\**" />
-    </ItemGroup>
+    <Compile Remove="theme\**" />
+  </ItemGroup>
 
-    <ItemGroup>
+  <ItemGroup>
     <None Include="input\**">
-        <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
     </None>
     <None Include="theme\**">
-        <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
     </None>
-    </ItemGroup>
+  </ItemGroup>
 
-    <ItemGroup>
-      <EmbeddedResource Remove="node_modules\**" />
-      <None Remove="node_modules\**" />
-    </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Remove="node_modules\**" />
+    <None Remove="node_modules\**" />
+  </ItemGroup>
 
 </Project>
