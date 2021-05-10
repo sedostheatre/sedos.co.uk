@@ -7,7 +7,6 @@
     <DefaultItemExcludes>$(DefaultItemExcludes);output\**</DefaultItemExcludes>
     <AssemblyName>Sedos</AssemblyName>
     <RootNamespace>Sedos</RootNamespace>
-    <Nullable>enable</Nullable>
   </PropertyGroup>
 
   <ItemGroup>
