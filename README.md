@@ -10,6 +10,8 @@ To run locally:
 dotnet run preview
 ```
 
+You'll need to have dotnet 5, and a recent version of nodejs installed.
+
 ## Testing
 
 #### Pre-requisites
