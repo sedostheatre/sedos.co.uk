@@ -36,4 +36,21 @@
     <None Remove="node_modules\**" />
   </ItemGroup>
 
+  <PropertyGroup>
+    <NpmInstallStampFile>node_modules/.install-stamp</NpmInstallStampFile>
+  </PropertyGroup>
+
+  <Target Name="NpmInstall"
+          Inputs="package.json"
+          Outputs="$(NpmInstallStampFile)"
+          BeforeTargets="BeforeBuild">
+
+    <Exec Command="npm ci"
+          Condition="$(RestorePackagesWithLockFile) == 'true'" />
+
+    <Exec Command="npm install"
+          Condition="$(RestorePackagesWithLockFile) != 'true'" />
+
+    <Touch Files="$(NpmInstallStampFile)" AlwaysCreate="true" />
+  </Target>
 </Project>
