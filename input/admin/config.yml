@@ -1,5 +1,6 @@
 media_folder: input/assets
 public_folder: /assets
+publish_mode: editorial_workflow
 
 backend:
   name: git-gateway
