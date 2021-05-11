@@ -4,10 +4,12 @@ row: 1
 column: 1
 image: /assets/aboutus-armandtheman.jpg
 RedirectFrom:
- - aboutus/index.htm
- - charity/index.htm
+  - aboutus/index.htm
+  - charity/index.htm
 ---
-**Sedos stands for the Stock Exchange Dramatic and Operatic Society. The society was founded in 1905 by senior members of the stock exchange and, although the membership now includes an eclectic mix from all over London, we maintain firm links with the City.**\
+**Sedos stands for the Stock Exchange Dramatic and Operatic Society. The society was founded in 1905 by senior members of the stock exchange and, although the membership now includes an eclectic mix from all over London, we maintain firm links with the City.**
+
+\
 \
 Sedos is a registered charity (no. 1173896) with 340 members and stages eight to ten shows a year. We have been the resident theatre company at the Bridewell Theatre since 2012 and most of our season takes place there, although we also perform in other venues.\
 \
