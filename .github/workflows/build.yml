@@ -22,15 +22,6 @@ jobs:
         key: ${{ runner.os }}-build-${{ env.cache-name }}-${{ hashFiles('tools/packages.config') }}-${{ hashFiles('Sedos.csproj') }}-${{ hashFiles('build.cake') }}
         restore-keys: |
           ${{ runner.os }}-build-${{ env.cache-name }}-
-    - name: Cache assets
-      uses: actions/cache@v2.1.5
-      env:
-        cache-name: cache-assets
-      with:
-        path: theme/assets/lib
-        key: ${{ runner.os }}-build-${{ env.cache-name }}-${{ hashFiles('build.cake') }}
-        restore-keys: |
-          ${{ runner.os }}-build-${{ env.cache-name }}-
     - name: Build
       run: ./build.sh
     - name: Node Install
