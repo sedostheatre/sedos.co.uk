@@ -25,7 +25,7 @@ RedirectFrom:
             {
                 <ul class="carousel-indicators list-inline">
                     @{
-                        foreach (var show in showsToDisplay.Select((value, i) => new { Image = Context.GetLink(value.Get<IDocument>("header-image")), Index = i }))
+                        foreach (var show in showsToDisplay.Select((value, i) => new { Image = Context.GetLink(value.Get<string>("header-image")), Index = i }))
                         {
                             <li data-target="#hero-carousel" data-slide-to="@show.Index" class="@(show.Index==0?"active":"") list-inline-item">
                                 <div class="hero-indicator-image" style="background-image: url(@show.Image)"></div>
