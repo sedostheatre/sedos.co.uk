@@ -80,7 +80,7 @@
                     }
                 }
                 @{
-                    var flyerDocument = (IDocument)Model["flyer"];
+                    var flyerDocument = Model.Get<string>("flyer");
                     var link = flyerDocument == null ? "" : Context.GetLink(flyerDocument);
                     <div class="sidebar-flyer">
                         <img src="@link" alt='@Model["title"] flyer image'></img>
