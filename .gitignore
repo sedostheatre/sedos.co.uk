@@ -1,17 +1,4 @@
-tools/
-!tools/packages.config
-
 output/
-packages\.xml
-
-config\.wyam\.hash
-
-config\.wyam\.dll
-
-theme/assets/lib/
-
-config\.wyam\.packages\.xml
-packages/
 
 node_modules
 

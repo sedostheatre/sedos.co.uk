@@ -4,19 +4,13 @@ The new site for [Sedos](https://www.sedos.co.uk), built using Statiq.
 
 ## Developing
 
-### Windows
 To run locally:
 
-```powershell
-build.ps1 -Target Preview
-```
-
-### Mac / Linux
-To run locally: 
-
 ```shell
-./build.sh --target=Preview
+dotnet run preview
 ```
+
+You'll need to have dotnet 5, and a recent version of nodejs installed.
 
 ## Testing
 
@@ -40,8 +34,6 @@ Changes will be rebuilt and the page should update in sync.
 - Statiq as a static site generator
   - Very flexible, allows a lot of configuration and supports nice templating languages (e.g. razor)
   - Statiq is the evolution of Wyam, and splits out the build chain into separate files
-- Cake as a build tool
-  - Makes it easy to get up and running, doesn't need any special tools and handles bootstrapping itself
 - Sass for styling
   - Supported by Statiq, nice syntax to work with
 - Bootstrap for framework
@@ -90,6 +82,6 @@ TO DO
 ## Linting
 
 ### SCSS
-`stylelint` is used to lint the `**/*.scss` files on build. 
+`stylelint` is used to lint the `**/*.scss` files on build.
 
 This can be run locally (and automatically fix errors) with `npx stylelint --fix **/*.scss`
