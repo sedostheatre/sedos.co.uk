@@ -1,13 +1,13 @@
 @model IDocument
 
 @{
-    var flyer = Model.Get("flyer") as IDocument;
+    var flyer = Model.Get<string>("flyer");
     var hasFlyer = flyer != null;
-    var flyerImagelink =hasFlyer ? Context.GetLink(flyer) : Context.GetLink((IDocument)Model["header-image"]);            
+    var flyerImagelink = hasFlyer ? Context.GetLink(flyer) : Context.GetLink(Model.Get<string>("header-image"));
     var showLink = Context.GetLink(Model);
 }
 
-@if(hasFlyer) 
+@if(hasFlyer)
 {
     <div class="col-md-3 col-sm-6 show-card-wrapper">
         <a href="@showLink" class="show-card-link">
