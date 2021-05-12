@@ -16,7 +16,7 @@ showtime-summary: 23-27 January 2018
 venue: Bridewell Theatre
 primary-color: "#B1D1FC"
 header-image: /assets/dolls-house-header.jpg
-flyer: /assets/ADollsHouse-A5-FlyerFront - FINAL2 - 800.jpg
+flyer: /assets/dolls-house-flyer-front.jpg
 sections:
   - title: CAST & CREATIVE TEAM
     body: |-
