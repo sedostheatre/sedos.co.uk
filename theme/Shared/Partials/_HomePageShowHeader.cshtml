@@ -2,7 +2,7 @@
 @model IDocument
 
 @{
-    var homePageImageDocument = (IDocument)Model["header-image"];
+    var homePageImageDocument = Model.Get<string>("header-image");
     var link = homePageImageDocument == null ? "" : Context.GetLink(homePageImageDocument);
 }
 
@@ -21,7 +21,6 @@
             {
                 <h2 class="show-authors">@Model["authors2"]</h2>
             }
-
 
             if(!string.IsNullOrWhiteSpace(Model.Get("Subtitle", "")))
             {
