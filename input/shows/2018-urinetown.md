@@ -21,7 +21,7 @@ venue: Bridewell Theatre
 ticket-prices: ""
 primary-color: "#e4c97a"
 header-image: /assets/urinetown-small-header-2.jpg
-flyer: /assets/urinetown poster-360.png
+flyer: /assets/urinetown-flyer.png
 sections:
   - title: CAST & CREATIVE TEAM
     body: |-
