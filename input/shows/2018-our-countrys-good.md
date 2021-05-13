@@ -15,7 +15,7 @@ venue: ""
 ticket-prices: ""
 primary-color: "#fca62b"
 header-image: /assets/our-countrys-good.jpg
-flyer: /assets/Our countrys good A5_front-800.jpg
+flyer: /assets/our-countrys-good-flyer.jpg
 sections:
   - title: CAST & CREATIVE TEAM
     body: |-

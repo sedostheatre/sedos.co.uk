@@ -15,7 +15,7 @@ venue: Bridewell Theatre
 ticket-prices: ""
 primary-color: "#a42c2b"
 header-image: /assets/you-can-t-take-it-with-you.jpg
-flyer: /assets/YCTIWY POSTER FRONT-800.jpg
+flyer: /assets/images/flyers/2018-you-cant-flyer.jpg
 sections:
   - title: CAST & CREATIVE TEAM
     body: |-
