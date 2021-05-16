@@ -5,10 +5,18 @@ authors: By JEAN BETTS
 authors2: and WILLIAM SHAKESPEARE
 authors3: ""
 subtitle: A riotous reworking of Hamlet
-showtimes: []
-showtime-summary: THIS SHOW HAS BEEN POSTPONED
+showtimes:
+  - time: 2021-09-28 19:30
+  - time: 2021-09-29 19:30
+  - time: 2021-09-30 19:30
+  - time: 2021-10-01 19:30
+  - time: 2021-10-02 14:30
+  - time: 2021-10-02 19:30
+showtime-summary: 28th September - 2nd October
 show-on-homepage: false
 order-on-homepage: 2
+box-office-open: true
+ticketsolve-show-id: 1173600323
 venue: Bridewell Theatre
 primary-color: "#b21b60"
 header-image: /assets/ophelia-thinks-harder-landscape.jpg

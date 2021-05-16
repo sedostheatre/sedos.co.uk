@@ -5,10 +5,18 @@ authors: Adapted by NINA FASO and STEPHEN SCHWARTZ
 authors2: With additional contributions by GORDON GREENBERG
 authors3: From the book by STUDS TURKEL
 subtitle: ""
-showtimes: []
-showtime-summary: THIS SHOW HAS BEEN POSTPONED
+showtimes:
+  - time: 2021-10-26 19:30
+  - time: 2021-10-27 19:30
+  - time: 2021-10-28 19:30
+  - time: 2021-10-29 19:30
+  - time: 2021-10-30 14:30
+  - time: 2021-10-30 19:30
+showtime-summary: 26th - 30th October
 show-on-homepage: false
 order-on-homepage: 3
+box-office-open: true
+ticketsolve-show-id: 1173600327
 venue: Bridewell Theatre
 primary-color: "#000000"
 header-image: /assets/working-skyline.jpg
