@@ -1,0 +1,13 @@
+@{
+
+    var headerImage = Model.Get<IDocument>("header-image", null)
+        ?? Outputs.FromPipeline("HeaderImages")
+            .Where(d => d.Get("key", "") == Model.Get<string>("category", null))
+            .Select(d => d.Get<IDocument>("image", null))
+            .FirstOrDefault()
+        ?? Outputs.FromPipeline("FallbackHeaders").ToList().First();
+}
+
+<div class="static-header-image"
+     style="background-image: url(@Context.GetLink(headerImage))">
+</div>
