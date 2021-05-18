@@ -5,7 +5,7 @@ header-image: assets/images/headers/SedosWebsite-Banner-1.jpg
 
 <div class="page-wrapper bg-light">
     @{
-        Html.RenderPartial("Partials/_HeaderCarousel");
+        Html.RenderPartial("Partials/_HeaderImage");
 
         var sectionRows = Outputs.FromPipeline("YourVisitSections")
             .GroupBy(section => section.Get<int>("row"))
