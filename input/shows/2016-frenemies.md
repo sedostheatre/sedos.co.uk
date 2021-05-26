@@ -51,6 +51,9 @@ sections:
       src="https://live.staticflickr.com/7739/27562439173_efb68f1933_z.jpg"
       width="640" height="427" alt="Frenemies - 2016"></a><script async
       src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+  - order: 1
+    title: VIDEO
+    body: <div class="video-responsive"><?# YouTube 1sieXLEoHsc /?></div>
 RedirectFrom:
   - 2016/frenemies.htm
 ---
