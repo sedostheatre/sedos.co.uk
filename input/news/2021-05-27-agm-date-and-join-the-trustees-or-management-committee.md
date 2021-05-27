@@ -1,5 +1,5 @@
 ---
-title: AGM date and join the trustees or management committee
+title: AGM date, plus join the trustees or management committee
 date: 2021-05-27
 image: /assets/voting-hands-banner.jpg
 ---
