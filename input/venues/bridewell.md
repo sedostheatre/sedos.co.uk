@@ -36,11 +36,9 @@ New Bridge Street, 45, 63, 172
 
 Thameslink, two-minute walk
 
-**Collecting tickets and entering the theatre**
+**Tickets and entering the theatre**
 
-You will need to collect your tickets from the box office when you arrive at the theatre, giving the name the tickets were booked in. The box office opens approximately 45 minutes before curtain up.
-
-The theatre is usually open for audience members to take their seats 10-15 minutes before curtain up. Our seat is unreserved, so audience members claim seats on a first-come, first-served basis. Some shows offer the best seats in the house as premium seating, at a higher price. In this case, there are two blocks of seating — standard and premium. Seats are unreserved within these blocks.
+Your tickets will be sent by email if you book online. You do not need to print your tickets – it's fine to show them on a mobile phone at the door. The theatre is usually open for audience members to take their seats 10-15 minutes before curtain up. 
 
 **Bar**
 
