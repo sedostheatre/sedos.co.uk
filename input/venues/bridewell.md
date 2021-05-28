@@ -38,7 +38,11 @@ Thameslink, two-minute walk
 
 **Tickets and entering the theatre**
 
-Your tickets will be sent by email if you book online. You do not need to print your tickets – it's fine to show them on a mobile phone at the door. The theatre is usually open for audience members to take their seats 10-15 minutes before curtain up. 
+Your tickets will be sent by email if you book online. You do not need to print your tickets – it's fine to show them on a mobile phone at the door. 
+
+The theatre is usually open for audience members to take their seats 10-15 minutes before curtain up. 
+
+If the performance is not sold out, tickets can be bought at the box office at the theatre from around 30 minutes before curtain up. 
 
 **Bar**
 
