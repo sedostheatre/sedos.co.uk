@@ -4,7 +4,7 @@ row: 1
 column: 2
 image: /assets/aboutus-ragtime-2.jpg
 RedirectFrom:
- - aboutus/joinus.htm
+  - aboutus/joinus.htm
 ---
 ## **Join Sedos**
 
@@ -57,5 +57,4 @@ Plus, don’t forget to follow us on social media:
 * [twitter.com/sedos](https://twitter.com/sedos)
 * [instagram.com/sedoslondon](https://www.instagram.com/sedoslondon/)
 
-^^^ ![](/assets/24985108603_0ab28b6786_c.jpg) 
-^^^ Sedos' 2016 production of I Love You, You're Perfect, Now Change
+![](/assets/aboutus-ragtime-2.jpg "Sedos' 2019 production of Ragtime")
