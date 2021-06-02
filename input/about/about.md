@@ -2,7 +2,7 @@
 title: About Sedos
 row: 1
 column: 1
-image: /assets/aboutus-armandtheman.jpg
+image: /assets/judas-mother.jpg
 RedirectFrom:
   - aboutus/index.htm
   - charity/index.htm
