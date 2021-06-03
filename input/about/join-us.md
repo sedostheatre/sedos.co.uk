@@ -32,9 +32,11 @@ To make sure our members stay at the top of their game, we regularly offer profe
 
 **Our commitment to diversity**
 
-Sedos is a founder member of London Drama Societies, which commits each member society to the following statement:
+Sedos is a founder member of [London Drama Societies](https://www.londondramasocieties.co.uk), which commits each member society to the following statement:
 
-“Collectively, we commit to take constant steps to be more inclusive and attract members and audiences reflecting London’s diversity.“We will identify and remove barriers to create a safe and inclusive environment. We want everyone to feel empowered to participate, on stage or off. We want stories to be told authentically.”
+“Collectively, we commit to take constant steps to be more inclusive and attract members and audiences reflecting London’s diversity.
+
+“We will identify and remove barriers to create a safe and inclusive environment. We want everyone to feel empowered to participate, on stage or off. We want stories to be told authentically.”
 
 **Member benefits**
 
