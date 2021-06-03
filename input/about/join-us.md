@@ -57,4 +57,5 @@ Plus, don’t forget to follow us on social media:
 * [twitter.com/sedos](https://twitter.com/sedos)
 * [instagram.com/sedoslondon](https://www.instagram.com/sedoslondon/)
 
-![](/assets/aboutus-ragtime-2.jpg "Sedos' 2019 production of Ragtime")
+^^^ ![](/assets/49121272153_64e8315ba0_k.jpg)
+^^^
