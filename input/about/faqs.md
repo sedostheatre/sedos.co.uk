@@ -4,14 +4,14 @@ row: 2
 column: 2
 image: /assets/aboutus-howtosucceed.jpg
 RedirectFrom:
- - aboutus/faq.htm
- - pitchprocess.htm
+  - aboutus/faq.htm
+  - pitchprocess.htm
 ---
 ## FAQs
 
 **Are auditions open to everyone?**
 
-Absolutely! We welcome people of all levels, ages and experience.
+Absolutely! We welcome people of all levels, backgrounds, ages and experience.
 
 **How do I find out about auditions?**
 
@@ -37,15 +37,13 @@ See below for benefits of membership.
 
 **How much does it cost to audition for a Sedos show?**
 
-Sedos members are entitled to audition for all Sedos shows for free. If you are not a member you will be required to pay a non-refundable fee of £5 to audition. 
+It is free for members and non-members to audition for Sedos shows.
 
 **How much does it cost to be in a Sedos show?**
 
 You must be a member of Sedos to perform in a show. Membership fees are £30 a year if paid by direct debit, £35 otherwise. You must be a member of Sedos for the entire rehearsal period and performance dates.
 
-For more information or to join email membership@sedos.co.uk.
-
-You must also pay a participation fee. Participation fees are £30 for a play or one-week musical; £40 for a two week-musical.
+Since 2020, there has been no participation fee to take part in a Sedos show. 
 
 **What ability / experience is needed?**
 
@@ -67,7 +65,6 @@ We will send you all the information you need when you register to audition. The
 
 * Reduced ticket prices on all Sedos shows
 * Reduced rate for Sedance
-* No fees to audition for shows
 * Members' events
 
 In addition, members have the right to stand for election to the trustees and management committee and to vote at General Meetings.
@@ -111,6 +108,12 @@ All the friends, family and colleagues that you have sold tickets to! Yes, we do
 All cast, production teams and crew are required to help with the get-out. The cast are sometimes asked to help with the get-in, but not always. Production teams and crew are required to help with the get-in. 
 
 If you want to find out more about Sedos, please email membership@sedos.co.uk for more details, and our membership secretary will be happy to get back to you.
+
+**Is Sedos committed to diversity?**
+
+Yes! Sedos is a founder member of [London Drama Societies](https://www.londondramasocieties.co.uk), which commits each member society to the following mission statement:
+
+“Collectively, we commit to take constant steps to be more inclusive and attract members and audiences reflecting London’s diversity.“We will identify and remove barriers to create a safe and inclusive environment. We want everyone to feel empowered to participate, on stage or off. We want stories to be told authentically.”
 
 ^^^ ![](/assets/39596528731_3d13b47b95_c.jpg)
 ^^^ Sedos' 2017 production of Priscilla Queen of the Desert: The Musical
