@@ -5,7 +5,10 @@
             .Where(d => d.Get("key", "") == Model.Get<string>("category", null))
             .Select(d => d.Get<IDocument>("image", null))
             .FirstOrDefault()
-        ?? Outputs.FromPipeline("FallbackHeaders").ToList().First();
+        ?? Outputs.FromPipeline("HeaderImages")
+            .Where(d => d.Get("key", "") == "fallback")
+            .Select(d => d.Get<IDocument>("image", null))
+            .First();
 }
 
 <div class="static-header-image"

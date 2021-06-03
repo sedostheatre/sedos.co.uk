@@ -11,7 +11,6 @@ namespace Sedos.Pipelines
         public Venues()
         {
             Dependencies.AddRange(
-                nameof(FallbackHeaders),
                 nameof(TopLevelNav),
                 nameof(Footer),
                 nameof(HeaderImages));

@@ -1,7 +1,7 @@
 ---
 title: Get involved
 view-start: Layout/_GetInvolvedViewStart.cshtml
-header-image: assets/images/headers/molm.jpg
+category: get-involved
 groups:
   - name: Join Sedos
     url: /about/join-us
