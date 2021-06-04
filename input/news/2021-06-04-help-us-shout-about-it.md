@@ -9,6 +9,8 @@ The Sedos marketing group is re-starting as we move closer to in-person activiti
 
 The group offers marketing support and advice to the production team of every Sedos show and also oversees general marketing of the society and our events. There are opportunities to get involved in lots of different areas, including both ongoing responsibilities and one-off projects, with varying levels of commitment.
 
+The marketing group is a great way to get to know people in Sedos, be creative, learn new skills and have fun!
+
 We'll having our first post-Covid meeting on 29 June – in-person if restrictions allow but with the opportunity for some people to be remote if they'd prefer.
 
 If you're interested in joining the marketing group, please do email Pippa on [pippa@sedos.co.uk](mailto:pippa@sedos.co.uk) to find out more. 
