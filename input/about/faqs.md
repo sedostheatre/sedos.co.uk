@@ -111,9 +111,11 @@ If you want to find out more about Sedos, please email membership@sedos.co.uk fo
 
 **Is Sedos committed to diversity?**
 
-Yes! Sedos is a founder member of [London Drama Societies](https://www.londondramasocieties.co.uk), which commits each member society to the following mission statement:
+Yes! Sedos is a founder member of [London Drama Societies](https://www.londondramasocieties.co.uk), which commits each member society to the following statement:
 
-“Collectively, we commit to take constant steps to be more inclusive and attract members and audiences reflecting London’s diversity.“We will identify and remove barriers to create a safe and inclusive environment. We want everyone to feel empowered to participate, on stage or off. We want stories to be told authentically.”
+“Collectively, we commit to take constant steps to be more inclusive and attract members and audiences reflecting London’s diversity.
+
+“We will identify and remove barriers to create a safe and inclusive environment. We want everyone to feel empowered to participate, on stage or off. We want stories to be told authentically.”
 
 ^^^ ![](/assets/39596528731_3d13b47b95_c.jpg)
 ^^^ Sedos' 2017 production of Priscilla Queen of the Desert: The Musical
