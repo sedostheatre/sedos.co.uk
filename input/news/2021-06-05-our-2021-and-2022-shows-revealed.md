@@ -9,7 +9,7 @@ image: /assets/seasonreveal.jpg
 
 We will be kicking off with a jam-packed Members’ Week at the Bridewell from 4-10 July. It will include performances from Banana Hut Gang as well as a workshop with the Acting Group and a chance for you to rehearse and perform Dennis Kelly’s DNA in a single day, auditions for which will be held on 26 and 27 June. Full details of the week can be found online. 
 
-*[Ophelia Thinks Harder](https://sedos.co.uk/shows/2021-ophelia-thinks-harder)* will perform at the Bridewell from 28 September-2 October and *Working* will take to the stage from 26-30 October. Both teams are looking to fill a couple of gaps in their casts and will be holding auditions shortly. There are also opportunities to join their production teams. See the Ophelia or Working webpages for more details.
+*[Ophelia Thinks Harder](https://sedos.co.uk/shows/2021-ophelia-thinks-harder)* will perform at the Bridewell from 28 September-2 October and *[Working](https://sedos.co.uk/shows/2021-working)* will take to the stage from 26-30 October. Both teams are looking to fill a couple of gaps in their casts and will be holding auditions shortly. There are also opportunities to join their production teams. See the Ophelia or Working webpages for more details.
 
 Our final show of 2021, performing 24 November-4 December, will be *Dirty Rotten Scoundrels*, directed by Zoe Thomas-Webb. Auditions will be on XX and she is also looking for additional team members, particularly a musical director. See the show page for more details. 
 
@@ -49,7 +49,7 @@ Sedos management committee
 **4-10 July 2021:** Members’ Week\
 **21-27 September 2021:** Members’ Week\
 **28 September-2 October 2021:** *[Ophelia Thinks Harder](https://sedos.co.uk/shows/2021-ophelia-thinks-harder)*\
-**26-30 October 2021:** *Working*\
+**26-30 October 2021:** *[Working](https://sedos.co.uk/shows/2021-working)*\
 **24 November-4 December 2021:** *Dirty Rotten Scoundrels*\
 **22-26 February 2022:** Play TBC\
 **22-26 March 2022:** *The Mystery of Edwin Drood*\
