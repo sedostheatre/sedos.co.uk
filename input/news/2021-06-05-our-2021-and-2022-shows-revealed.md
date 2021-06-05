@@ -17,9 +17,9 @@ Tickets for all our 2021 shows are all now on sale and with our swanky new box o
 
 We have then confirmed new dates for our remaining 2020 shows in 2022: 
 
-**22-26 March 2022:** *[The Mystery of Edwin Drood](https://sedos.co.uk/shows/2021-the-mystery-of-edwin-drood)*\
-**5-9 July 2022:** *Love! Valour! Compassion!*\
-**14-24 September 2022:** *A Midsummer Night's Dream* \
+**22-26 March 2022:** *[The Mystery of Edwin Drood](https://sedos.co.uk/shows/2022-the-mystery-of-edwin-drood)*\
+**5-9 July 2022:** *[Love! Valour! Compassion!](https://sedos.co.uk/shows/2022-love-valour-compassion)*\
+**14-24 September 2022:** *[A Midsummer Night's Dream](https://sedos.co.uk/shows/2022-a-midsummer-nights-dream)* \
 **23 November-3 December 2022:** *Amadeus*
 
 We are lucky to have secured the rights for two further musicals
@@ -52,9 +52,9 @@ Sedos management committee
 **26-30 October 2021:** *[Working](https://sedos.co.uk/shows/2021-working)*\
 **24 November-4 December 2021:** *[Dirty Rotten Scoundrels](https://sedos.co.uk/shows/2021-dirty-rotten-scoundrels)*\
 **22-26 February 2022:** Play TBC\
-**22-26 March 2022:** *[The Mystery of Edwin Drood](https://sedos.co.uk/shows/2021-the-mystery-of-edwin-drood)*\
+**22-26 March 2022:** *[The Mystery of Edwin Drood](https://sedos.co.uk/shows/2022-the-mystery-of-edwin-drood)*\
 **10-14 May 2022:** *American Idiot*\
-**5-9 July 2022:** *Love! Valour! Compassion!*\
-**14-24 September 2022:** *A Midsummer Night's Dream* \
+**5-9 July 2022:** *[Love! Valour! Compassion!](https://sedos.co.uk/shows/2022-love-valour-compassion)*\
+**14-24 September 2022:** *[A Midsummer Night's Dream](https://sedos.co.uk/shows/2022-a-midsummer-nights-dream)* \
 **25-29 October 2022:** *Carrie: The Musical*\
 **23 November-3 December 2022:** *Amadeus*
