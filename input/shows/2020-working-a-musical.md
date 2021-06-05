@@ -63,7 +63,7 @@ sections:
 
       **STAGE MANAGER** | Shiri Stern\
 
-      **MARKETING** | Pippa Roome\
+      **MARKETING** | Pippa Kyle\
 
       **PHOTOGRAPHER** | Stephen Russell\
 
