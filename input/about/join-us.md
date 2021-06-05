@@ -42,8 +42,7 @@ Sedos is a founder member of [London Drama Societies](https://www.londondramasoc
 
 * Reduced ticket prices on all Sedos shows
 * Reduced rate for Sedance
-* No fees to audition for shows
-* Members' events
+* Members’ events
 
 In addition, members have the right to stand for election to the trustees and management committee and to vote at General Meetings.
 
