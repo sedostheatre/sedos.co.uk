@@ -2,6 +2,18 @@
 title: Amadeus
 year: "2022"
 authors: By PETER SHAFFER
+showtimes:
+  - time: 2022-11-23 19:30
+  - time: 2022-11-24 19:30
+  - time: 2022-11-25 19:30
+  - time: 2022-11-26 19:30
+  - time: 2022-11-26 14:30
+  - time: 2022-11-29 19:30
+  - time: 2022-11-30 19:30
+  - time: 2022-12-01 19:30
+  - time: 2022-12-02 19:30
+  - time: 2022-12-03 14:30
+  - time: 2022-12-03 19:30
 showtime-summary: 23 NOVEMBER-3 DECEMBER 2022
 venue: Bridewell Theatre
 primary-color: "#d6cdae"
