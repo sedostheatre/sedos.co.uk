@@ -5,7 +5,7 @@ times:
 image: /assets/sedos-agm.jpg
 venue: Venue and time to be confirmed
 ---
-**This year's Sedos AGM will be held on 24 June.**\
+**This year’s Sedos AGM will be held on 24 June.**\
 \
 The intention is to hold the AGM in-person, with a live stream for anyone who would prefer to watch from home. \
 \
