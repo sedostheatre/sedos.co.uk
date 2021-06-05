@@ -1,6 +1,6 @@
 ---
 title: Love! Valour! Compassion!
-year: "2021"
+year: "2022"
 authors: By TERRENCE MCNALLY
 showtimes:
   - time: 2022-07-05 19:30
