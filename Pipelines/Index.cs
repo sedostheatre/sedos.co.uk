@@ -11,7 +11,6 @@ namespace Sedos.Pipelines
         {
             Dependencies.AddRange(
                 nameof(AllShows),
-                nameof(FallbackHeaders),
                 nameof(RegularEvents),
                 nameof(UpcomingEvents),
                 nameof(TopLevelNav),

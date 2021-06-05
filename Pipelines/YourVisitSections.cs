@@ -10,7 +10,7 @@ namespace Sedos.Pipelines
     {
         public YourVisitSections()
         {
-            Dependencies.AddRange(nameof(HeaderImages), nameof(FallbackHeaders), nameof(TopLevelNav), nameof(Footer));
+            Dependencies.AddRange(nameof(HeaderImages), nameof(TopLevelNav), nameof(Footer));
 
             InputModules = new ModuleList
             {

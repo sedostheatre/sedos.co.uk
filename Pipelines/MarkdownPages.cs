@@ -12,7 +12,6 @@ namespace Sedos.Pipelines
         {
             Dependencies.AddRange(
                 nameof(HeaderImages),
-                nameof(FallbackHeaders),
                 nameof(TopLevelNav),
                 nameof(Footer),
                 nameof(News),

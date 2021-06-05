@@ -12,7 +12,7 @@ namespace Sedos.Pipelines
         {
             InputModules = new ModuleList
             {
-                new     ReadFiles("header-images/*.yml"),
+                new ReadFiles("header-images/*.yml"),
             };
 
             ProcessModules = new ModuleList
