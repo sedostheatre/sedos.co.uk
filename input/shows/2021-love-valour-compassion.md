@@ -2,8 +2,17 @@
 title: Love! Valour! Compassion!
 year: "2021"
 authors: By TERRENCE MCNALLY
+showtimes:
+  - time: 2022-07-05 19:30
+  - time: 2022-07-06 19:30
+  - time: 2022-07-07 19:30
+  - time: 2022-07-08 19:30
+  - time: 2022-07-09 14:30
+  - time: 2022-07-09 19:30
 showtime-summary: 5-9 JULY 2022
 venue: Bridewell Theatre
+primary-color: "#fd8392"
+header-image: /assets/lovevalourc0mpassion.jpg
 box-office-open: false
 sections:
   - order: 1
