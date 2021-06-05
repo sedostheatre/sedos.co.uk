@@ -1,54 +1,83 @@
 ---
 title: Ophelia Thinks Harder
-year: "2020"
+year: "2021"
 authors: By JEAN BETTS
 authors2: and WILLIAM SHAKESPEARE
 authors3: ""
 subtitle: A riotous reworking of Hamlet
-showtimes: []
-showtime-summary: THIS SHOW HAS BEEN POSTPONED
+showtimes:
+  - time: 2021-09-28 19:30
+  - time: 2021-09-29 19:30
+  - time: 2021-09-30 19:30
+  - time: 2021-10-01 19:30
+  - time: 2021-10-02 14:30
+  - time: 2021-10-02 19:30
+showtime-summary: 28 SEPTEMBER-2 OCTOBER 2021
 show-on-homepage: false
-order-on-homepage: 2
+order-on-homepage: 1
 venue: Bridewell Theatre
 primary-color: "#b21b60"
 header-image: /assets/ophelia-thinks-harder-landscape.jpg
 flyer: /assets/2020-02-16-ophelia-flyer-front-800.png
+box-office-open: true
+ticketsolve-show-id: "1173600323"
 sections:
   - title: CAST & CREATIVE TEAM
-    body: |-
+    body: >-
       **CAST**
 
+
       **OPHELIA** | Natalie Harding-Moore\
-      **MAID** | Miranda Evans\
+
+      **MAID** | TBC\
+
       **QUEEN** | Danielle Capretti\
-      **ROSENCRANTZ** | Sarah Berryman\
-      **GUILDENSTERN** | Jamila Jennings-Grant\
-      **ST JOAN/WOMAN 3** | Connie Cha\
+
+      **ROSENCRANTZ** | TBC\
+
+      **GUILDENSTERN** | TBC\
+
+      **ST JOAN/WOMAN 3** | TBC\
+
       **OPHELIA’S MOTHER / QUEEN’S MAID** | Aileen Ryan\
-      **WOMAN 2 / QUEEN’S MAID** | Marnie Gore\
+
+      **WOMAN 2 / QUEEN’S MAID** | TBC\
+
       **HAMLET** | Josh Beckman\
+
       **HORATIO** |  Rhydian Harris\
+
       **POLONIUS** | David Pearson\
-      **LAERTES** | Lewis McKenzie\
-      **PLAYER 1** |  Emily Bates\
-      **PLAYER 2** |  Roz Brierley\
+
+      **LAERTES** | TBC\
+
+      **PLAYER 1** |  TBC\
+
+      **PLAYER 2** |  TBC\
+
       **PLAYER 3 / WOMAN 1** | Mackenzie Sumner\
+
       **PLAYER 4** | Stephen Cole
 
+
+      Ophelia will be holding auditions for the roles marked as TBC – visit the audition page for more information. \
+
       \
+
       **CREATIVE TEAM**
 
+
       **DIRECTOR** | Matt Bentley\
-      **ASSISTANT DIRECTOR** | Maria Jones\
+
       **PRODUCER** | Olly Levett\
+
       **DESIGNER** | Yvette Henderson\
+
       **LIGHTING DESIGN** | Adam Coppard
     order: 1
 RedirectFrom:
   - 2020/opheliathinksharder.htm
 ---
-#### **THIS SHOW HAS BEEN POSTPONED. [FIND OUT MORE](/news/2020-03-26-a-message-to-our-members-and-friends).**
-
 > Artists, scholars, poets and princes will travel the world to see me... I shall pass into myth!
 
 **A riotous reworking of Shakespeare's *Hamlet* - with serious themes, nevertheless. Featuring Ophelia, her maid, St Joan and a couple of locals - Rosencrantz and Guildenstern.**
