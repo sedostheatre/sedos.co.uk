@@ -51,7 +51,5 @@ As they try their different approaches to get the dough, they find that Christin
 
 Nominated for 11 Tony Awards in 2005 with original Broadway cast including John Lithgow, Norbert Leo Butz and Sherie Rene Scott, this show has it all, from glitzy dance numbers to hilarious songs and stupid jokes. 
 
-Dirty Rotten ScoundrelsIs is presented through special arrangement with Music Theatre International (MTI). All authorized performance materials are also supplied by MTI. www.mtishows.com
-
 ^^^ ![](/assets/dirty-rotten-scoundrels-front-page.png)
 ^^^
