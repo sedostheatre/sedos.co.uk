@@ -32,7 +32,7 @@ We do not currently have a team to put on *American Idiot* so if that show excit
 
 We are also looking for a play to fill our February slot. We're looking for something to complement our 2022 season and start the year off in style.
 
-If you'd like to pitch a play or to put on American Idiot, all the information is in our pitch guidance document and you need to submit by midnight on Sunday 25 July. 
+If you'd like to pitch a play or to put on American Idiot, [all the information is in our pitch guidance document](https://docs.google.com/document/d/1bbhThOKhturIFEobrTp9vBK1r2TMBs0MuZErDPAcObo/edit) and you need to submit by midnight on Sunday 25 July. 
 
 We are unbelievably excited to be getting back to live theatre and hope that there will be something for everyone over the coming months. 
 
