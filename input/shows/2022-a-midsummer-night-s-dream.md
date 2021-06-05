@@ -2,7 +2,19 @@
 title: A Midsummer Night’s Dream
 year: "2022"
 authors: By WILLIAM SHAKESPEARE
-showtime-summary: 14-22 SEPTEMBER 2022
+showtimes:
+  - time: 2022-09-14 19:30
+  - time: 2022-09-15 19:30
+  - time: 2022-09-16 19:30
+  - time: 2022-09-17 14:30
+  - time: 2022-09-17 19:30
+  - time: 2022-09-20 19:30
+  - time: 2022-09-21 19:30
+  - time: 2022-09-22 19:30
+  - time: 2022-09-23 19:30
+  - time: 2022-09-24 14:30
+  - time: 2022-09-24 19:30
+showtime-summary: 14-24 SEPTEMBER 2022
 primary-color: "#8cbea1"
 header-image: /assets/dance-1566852_1920.jpeg
 box-office-open: false
