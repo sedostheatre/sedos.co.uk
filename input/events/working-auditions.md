@@ -10,7 +10,7 @@ venue: Brewers' Hall Garden, off Basinghall Street, London EC2V 5DX
 
 **About the show**
 
-In 1974 Chicago radio broadcaster Studs Terkel published a best selling compilation of interviews with a cross section of Americans talking about their jobs. In 2007-2008 additional interviews were conducted. Terkel described it as ‘the extraordinary dreams of ordinary people. Working is the musical adaptation of Terkel’s book, and the words of the people he interviewed. It was first conceived by Stephen Schwartz (Godspell, Pippin, Wicked) and staged on Broadway in 1978. 
+In 1974 Chicago radio broadcaster Studs Terkel published a best selling compilation of interviews with a cross section of Americans talking about their jobs. In 2007-2008 additional interviews were conducted. Terkel described it as the extraordinary dreams of ordinary people. Working is the musical adaptation of Terkel’s book, and the words of the people he interviewed. It was first conceived by Stephen Schwartz (Godspell, Pippin, Wicked) and staged on Broadway in 1978. 
 
 Working is a delightfully funny and thoroughly touching musical which explores what goes through the minds of everyday people - from construction workers and waitresses to firemen, secretaries and cleaning women. It showcases the individuals’ occupations and also laments their lost hopes and dreams - taking the average worker’s viewpoint and showing that he or she is anything but average.
 
@@ -24,7 +24,7 @@ The flexible nature of the show means we can work around the auditionees we see 
 
 Find out more in the audition notice. ADD LINK HERE
 
-**When are the auditions?**
+**When and where are the auditions?**
 
 The auditions are on Sunday 11 and Monday 12 July, at 1 Brewers’ Hall Garden, off Basinghall Street, London EC2V 5DX. Recalls may take place on Sunday 18 July. 
 
@@ -36,7 +36,7 @@ Full information about the show, the actors we are seeking and what will be requ
 
 Once you have read the notice, you can sign up to audition at <https://membership.sedos.co.uk/signup>
 
-You will then be sent a link by emai lto confirm the booking – your slot is not booked until you have confirmed via this link. Please check your junk mail if it does not arrive. If you have any problems, please email [working@sedos.co.uk](mailto:working@sedos.co.uk)
+You will then be sent a link by email to confirm the booking – your slot is not booked until you have confirmed via this link. Please check your junk mail if it does not arrive. If you have any problems, please email [working@sedos.co.uk](mailto:working@sedos.co.uk)
 
 **Any questions?**
 
