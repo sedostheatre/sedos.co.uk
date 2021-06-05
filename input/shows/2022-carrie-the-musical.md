@@ -4,6 +4,13 @@ year: "2022"
 authors: Music by MICHAEL GORE | Lyrics by DEAN PITCHFORD
 authors2: Book by LAWRENCE D. COHEN | Based on the novel by STEPHEN KING
 authors3: ""
+showtimes:
+  - time: 2022-10-25 19:30
+  - time: 2022-10-26 19:30
+  - time: 2022-10-27 19:30
+  - time: 2022-10-28 19:30
+  - time: 2022-10-29 14:30
+  - time: 2022-10-29 19:30
 showtime-summary: 25-29 OCTOBER 2022
 venue: Bridewell Theatre
 primary-color: "#6a6e8b"
