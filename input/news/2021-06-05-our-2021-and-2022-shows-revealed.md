@@ -20,11 +20,11 @@ We have then confirmed new dates for our remaining 2020 shows in 2022: 
 **22-26 March 2022:** *[The Mystery of Edwin Drood](https://sedos.co.uk/shows/2022-the-mystery-of-edwin-drood)*\
 **5-9 July 2022:** *[Love! Valour! Compassion!](https://sedos.co.uk/shows/2022-love-valour-compassion)*\
 **14-24 September 2022:** *[A Midsummer Night's Dream](https://sedos.co.uk/shows/2022-a-midsummer-nights-dream)* \
-**23 November-3 December 2022:** *Amadeus*
+**23 November-3 December 2022:** *[Amadeus](https://sedos.co.uk/shows/2022-amadeus)*
 
 We are lucky to have secured the rights for two further musicals
 
-*American Idiot* will be our May show (10-14 May 2022) and *Carrie: The Musical* will be in our October slot (25-29 October 2022) directed by Chris Adams. There are various opportunities to get involved with Carrie, see the show page for more details. 
+*American Idiot* will be our May show (10-14 May 2022) and *[Carrie: The Musical](https://sedos.co.uk/shows/2022-carrie-the-musical)* will be in our October slot (25-29 October 2022) directed by Chris Adams. There are various opportunities to get involved with Carrie, see the show page for more details. 
 
 And then we need you!
 
@@ -56,5 +56,5 @@ Sedos management committee
 **10-14 May 2022:** *American Idiot*\
 **5-9 July 2022:** *[Love! Valour! Compassion!](https://sedos.co.uk/shows/2022-love-valour-compassion)*\
 **14-24 September 2022:** *[A Midsummer Night's Dream](https://sedos.co.uk/shows/2022-a-midsummer-nights-dream)* \
-**25-29 October 2022:** *Carrie: The Musical*\
-**23 November-3 December 2022:** *Amadeus*
+**25-29 October 2022:** *[Carrie: The Musical](https://sedos.co.uk/shows/2022-carrie-the-musical)*\
+**23 November-3 December 2022:** *[Amadeus](https://sedos.co.uk/shows/2022-amadeus)*
