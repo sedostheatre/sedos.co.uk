@@ -30,6 +30,7 @@ sections:
       **LIGHTING DESIGNER** | Olly Levett\
       **SET DESIGNER AND BUILDER** | Steven King\
       **COSTUMES, HAIR AND MAKE-UP** | Gill Daniell\
+      **PROPS** | Shiri Stern\
       **MARKETING** | Stephen Beeny\
       **PHOTOGRAPHER** | David Ovenden
 ---
@@ -37,4 +38,6 @@ sections:
 
 A fictionalized account of the relationship between these two real life composers, Peter Shaffer’s *Amadeus* takes us on a wild ride through the trials and tribulations of genius, jealousy and revenge.
 
-> “Peter Shaffer's greatest play”The Stage
+> “Peter Shaffer's greatest play”
+>
+> The Stage
