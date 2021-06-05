@@ -22,4 +22,4 @@ Sedos members, seniors and OAPs, children, students over 16 with valid identific
 
 **Venue**
 
-Most of our 2020 season will be performed at the [Bridewell Theatre,](https://sedos.l3v5y.co.uk/venues/bridewell) Bride Lane, London EC4Y 8EQ. Seats at the Bridewell Theatre are unreserved.
+Most of our 2021 and 2022 season will be performed at the [Bridewell Theatre,](https://sedos.l3v5y.co.uk/venues/bridewell) Bride Lane, London EC4Y 8EQ.
