@@ -1,5 +1,5 @@
 ---
-title: Pitch a play or a team to put on American Idiot
+title: Pitch a play or be on the American Idiot team
 date: 2021-06-05
 image: /assets/bridewelltheatre-800.jpg
 ---
@@ -13,9 +13,7 @@ Secondly, we want to hear from teams who would like to bring to life *American I
 
 Full details about both pitch processes and the form to fill in can be found [here](https://docs.google.com/document/d/1bbhThOKhturIFEobrTp9vBK1r2TMBs0MuZErDPAcObo/edit#). 
 
-We’d love to receive pitches from anyone who wants to apply, no matter their background. We are proud of our reputation for high quality productions and therefore do take into consideration experience, but that doesn’t have to be with Sedos and we have regularly given shows to those new to the society. 
-
-As a society, we are committed to being as inclusive as possible and therefore are looking for a truly diverse range of people to come forward to be involved both on stage and off. 
+We’d love to receive pitches from anyone who wants to apply, no matter their background. As a society, we are committed to being as inclusive as possible and therefore are looking for a truly diverse range of people to come forward to be involved both on stage and off. 
 
 The deadline for pitches is midnight on Sunday 25 July. 
 
