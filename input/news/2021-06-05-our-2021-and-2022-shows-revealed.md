@@ -3,7 +3,7 @@ title: Our 2021 and 2022 shows revealed
 date: 2021-06-05
 image: /assets/seasonreveal.jpg
 ---
-*DATE HERE IN ITALICS PLEASE*
+*XX MONTH 2021 - DATE OF GOING LIVE HERE IN ITALICS PLEASE*
 
 **We are absolutely delighted to be able to share our plans for the next year and a half with you. Not only are we thrilled to have rescheduled the shows from 2020, we are excited to announce three new titles and we also want your pitches for our remaining slots.** 
 
@@ -44,7 +44,7 @@ We look forward to seeing you all soon!
 
 Sedos management committee
 
-**SEDOS’ 2021 AND 2022 SEASONS**
+### **SEDOS’ 2021 AND 2022 SEASONS**
 
 **4-10 July 2021:** Members’ Week\
 **21-27 September 2021:** Members’ Week\
