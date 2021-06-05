@@ -13,7 +13,7 @@ showtimes:
   - time: 2021-10-02 14:30
   - time: 2021-10-02 19:30
 showtime-summary: 28 SEPTEMBER-2 OCTOBER 2021
-show-on-homepage: false
+show-on-homepage: true
 order-on-homepage: 1
 venue: Bridewell Theatre
 primary-color: "#b21b60"
