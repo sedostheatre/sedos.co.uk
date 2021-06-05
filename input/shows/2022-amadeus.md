@@ -1,0 +1,28 @@
+---
+title: Amadeus
+year: "2022"
+authors: By PETER SHAFFER
+showtime-summary: 23 NOVEMBER-3 DECEMBER 2022
+venue: Bridewell Theatre
+primary-color: "#d6cdae"
+header-image: /assets/wigs-4168599.jpg
+box-office-open: false
+sections:
+  - order: 1
+    title: CREATIVE TEAM
+    body: |-
+      **CREATIVE TEAM**
+
+      **DIRECTOR** | Matt Gould\
+      **PRODUCER** | Pippa Kyle\
+      **LIGHTING DESIGNER** | Olly Levett\
+      **SET DESIGNER AND BUILDER** | Steven King\
+      **COSTUMES, HAIR AND MAKE-UP** | Gill Daniell\
+      **MARKETING** | Stephen Beeny\
+      **PHOTOGRAPHER** | David Ovenden
+---
+**In the court of the Austrian Emperor Joseph II, Antonio Salieri is the established composer. Enter the greatest musical genius of all time: Wolfgang Amadeus Mozart. Salieri has given himself to God so that he might realise his sole ambition, to be a great composer. Mozart is a foul-mouthed, graceless oaf who has that which is beyond Salieri’s envious grasp: genius.**
+
+A fictionalized account of the relationship between these two real life composers, Peter Shaffer’s *Amadeus* takes us on a wild ride through the trials and tribulations of genius, jealousy and revenge.
+
+> “Peter Shaffer's greatest play”The Stage
