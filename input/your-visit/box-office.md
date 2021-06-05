@@ -6,9 +6,17 @@ image: /assets/your-visit-bridewell-theatre.jpg
 ---
 **In light of the announcement by the Government on 16 March 2020, with much sadness, we have taken the difficult but responsible decision to suspend our operations for the time being and postpone all upcoming events.**
 
-**Ticket Collection**
+**Box office**
 
-Tickets will be available for you to collect from the Box Office on the night of the performance. They will not be posted out to you.
+[You will find our online box office here.](https://sedos-tickets.sedos.co.uk/shows)
+
+**Tickets**
+
+Your tickets will be sent by email if you book online. You do not need to print your tickets – it's fine to show them on a mobile phone at the door.
+
+The theatre is usually open for audience members to take their seats 10-15 minutes before curtain up.
+
+If the performance is not sold out, tickets can be bought at the box office at the theatre from around 30 minutes before curtain up.
 
 **Latecomers**
 
