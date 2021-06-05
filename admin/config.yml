@@ -299,6 +299,18 @@ collections:
         fields:
           - {label: key, name: key, widget: hidden}
           - {label: Image, name: image-source, widget: image}
+      - label: "Get Involved"
+        name: "get-involved"
+        file: "input/header-images/get-involved.yml"
+        fields:
+          - {label: key, name: key, widget: hidden}
+          - {label: Image, name: image-source, widget: image}
+      - label: "Fallback"
+        name: "fallback"
+        file: "input/header-images/fallback.yml"
+        fields:
+          - {label: key, name: key, widget: hidden}
+          - {label: Image, name: image-source, widget: image}
   - label: "Pages"
     name: "pages"
     files:
