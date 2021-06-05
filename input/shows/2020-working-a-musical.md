@@ -41,7 +41,7 @@ sections:
       Sanchez Simpson
 
 
-      Due to the Covid-19 postponement, we are seeking two new cast members to play WOMAN 2 and WOMAN 3. We’d love to see as many people at auditions as possible, please visit our auditions page for more details, and contact [working@sedos.co.uk](<>) if you have any questions.\
+      Due to the Covid-19 postponement, we are seeking two or three new cast members to play female-identifying roles. We’d love to see as many people at auditions as possible, please visit [our auditions page for more details](https://sedos.co.uk/events/working-auditions), and contact [working@sedos.co.uk](<>) if you have any questions.\
 
       \
 
