@@ -11,7 +11,7 @@ We will be kicking off with a jam-packed Members’ Week at the Bridewell from 4
 
 *[Ophelia Thinks Harder](https://sedos.co.uk/shows/2021-ophelia-thinks-harder)* will perform at the Bridewell from 28 September-2 October and *[Working](https://sedos.co.uk/shows/2021-working)* will take to the stage from 26-30 October. Both teams are looking to fill a couple of gaps in their casts and will be holding auditions shortly. There are also opportunities to join their production teams. See the Ophelia or Working webpages for more details.
 
-Our final show of 2021, performing 24 November-4 December, will be *Dirty Rotten Scoundrels*, directed by Zoe Thomas-Webb. Auditions will be on XX and she is also looking for additional team members, particularly a musical director. See the show page for more details. 
+Our final show of 2021, performing 24 November-4 December, will be *[Dirty Rotten Scoundrels](https://sedos.co.uk/shows/2021-dirty-rotten-scoundrels)*, directed by Zoë Thomas-Webb. Audition dates will be announced soon and Zoë is also looking for additional team members, particularly a musical director. See the [show page](https://sedos.co.uk/shows/2021-dirty-rotten-scoundrels) for more details. 
 
 Tickets for all our 2021 shows are all now on sale and with our swanky new box office, we're introducing allocated seating so book now for the best seats!
 
@@ -50,7 +50,7 @@ Sedos management committee
 **21-27 September 2021:** Members’ Week\
 **28 September-2 October 2021:** *[Ophelia Thinks Harder](https://sedos.co.uk/shows/2021-ophelia-thinks-harder)*\
 **26-30 October 2021:** *[Working](https://sedos.co.uk/shows/2021-working)*\
-**24 November-4 December 2021:** *Dirty Rotten Scoundrels*\
+**24 November-4 December 2021:** *[Dirty Rotten Scoundrels](https://sedos.co.uk/shows/2021-dirty-rotten-scoundrels)*\
 **22-26 February 2022:** Play TBC\
 **22-26 March 2022:** *The Mystery of Edwin Drood*\
 **10-14 May 2022:** *American Idiot*\
