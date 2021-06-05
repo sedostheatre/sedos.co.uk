@@ -9,7 +9,7 @@ image: /assets/seasonreveal.jpg
 
 We will be kicking off with a jam-packed Members’ Week at the Bridewell from 4-10 July. It will include performances from Banana Hut Gang as well as a workshop with the Acting Group and a chance for you to rehearse and perform Dennis Kelly’s DNA in a single day, auditions for which will be held on 26 and 27 June. Full details of the week can be found online. 
 
-*[Ophelia Thinks Harder](https://sedos.co.uk/shows/2021-ophelia-thinks-harder)* will perform at the Bridewell from 28 September-2 October and *[Working](https://sedos.co.uk/shows/2021-working)* will take to the stage from 26-30 October. Both teams are looking to fill a couple of gaps in their casts and will be holding auditions shortly. There are also opportunities to join their production teams. See the Ophelia or Working webpages for more details.
+*[Ophelia Thinks Harder](https://sedos.co.uk/shows/2021-ophelia-thinks-harder)* will perform at the Bridewell from 28 September-2 October and *[Working](https://sedos.co.uk/shows/2021-working)* will take to the stage from 26-30 October. Both teams are looking to fill a couple of gaps in their casts and [will be holding auditions shortly](https://sedos.co.uk/get-involved). There are also opportunities to join their production teams. See the Ophelia or Working webpages for more details.
 
 Our final show of 2021, performing 24 November-4 December, will be *[Dirty Rotten Scoundrels](https://sedos.co.uk/shows/2021-dirty-rotten-scoundrels)*, directed by Zoë Thomas-Webb. Audition dates will be announced soon and Zoë is also looking for additional team members, particularly a musical director. See the [show page](https://sedos.co.uk/shows/2021-dirty-rotten-scoundrels) for more details. 
 
