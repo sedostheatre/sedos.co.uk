@@ -1,5 +1,5 @@
 ---
-title: Sedos AGM
+title: 2021 Sedos AGM
 times:
   - time: 2021-06-24 19:00
 image: /assets/sedos-agm.jpg
