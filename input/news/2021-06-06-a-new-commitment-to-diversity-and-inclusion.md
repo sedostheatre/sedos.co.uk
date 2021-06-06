@@ -15,7 +15,7 @@ Three of the largest central London amateur drama societies have been regularly 
 \
 Membership of London Drama Societies commits each member society to the following mission statement:\
 \
-*“Collectively, we commit to take constant steps to be more inclusive and attract members and audiences reflecting London’s diversity.**\
+*“Collectively, we commit to take constant steps to be more inclusive and attract members and audiences reflecting London’s diversity.\*\*\
 “We will identify and remove barriers to create a safe and inclusive environment. We want everyone to feel empowered to participate, on stage or off. We want stories to be told authentically.”*\
 \
 The [London Drama Societies website](https://www.londondramasocieties.co.uk) hosts the draft policies the group has worked on during the performance hiatus caused by the pandemic. Currently this includes policies on Casting and Authentic Storytelling, and Marketing and Outreach. Further policies and resources will be available in due course, including an Off Stage Roles policy. The policies will also be available for any other society which could find this work useful. \
@@ -24,7 +24,7 @@ In addition, London Drama Societies has also created a template diversity monito
 \
 Commenting for London Drama Societies, Sara Rajeswaran said: “Each of our societies is committed to becoming more reflective of London’s diversity. However, we all know there are some significant steps to be taken if we are to get there. It will take time to fully deliver on our ambition but today we demonstrate our commitment to change and set ourselves on a course to improve.\
 \
-“One of the most important initial steps we can take is to understand the diversity in our societies today, so we can measure our progress and be held to account. We hope our members will fill in the diversity monitoring form, and we look forward to working with our members on further steps to create the diversity in our societies that we all want to see."\
+“One of the most important initial steps we can take is to understand the diversity in our societies today, so we can measure our progress and be held to account. We hope our members will fill in the diversity monitoring form \[find the Sedos diversity monitoring form here], and we look forward to working with our members on further steps to create the diversity in our societies that we all want to see."\
 \
 For more information, contact Sara Rajeswaran on xxx\
 \
