@@ -28,7 +28,7 @@ We are lucky to have secured the rights for two further musicals
 
 And then we need you!
 
-We do not currently have a team to put on *American Idiot* so if that show excites you and you'd like to take it on, we'd love to hear your pitch. 
+We do not currently have a team to put on *American Idiot* so if that show excites you and you'd like to take it on, [we'd love to hear your pitch.](https://docs.google.com/document/d/1bbhThOKhturIFEobrTp9vBK1r2TMBs0MuZErDPAcObo/edit) 
 
 We are also looking for a play to fill our February slot. We're looking for something to complement our 2022 season and start the year off in style.
 
