@@ -1,5 +1,5 @@
 ---
-title: Pitch a play or be on the American Idiot team
+title: "Wanted: play pitches and a team for American Idiot"
 date: 2021-06-05
 image: /assets/bridewelltheatre-800.jpg
 ---
