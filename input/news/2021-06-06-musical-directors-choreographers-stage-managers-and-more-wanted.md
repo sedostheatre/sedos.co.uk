@@ -1,6 +1,7 @@
 ---
 title: Musical directors, choreographers, stage managers and more wanted
 date: 2021-06-06
+image: /assets/sedos-needs-you.jpg
 ---
 *XX MONTH 2021 - DATE OF GOING LIVE HERE IN ITALICS PLEASE*
 
