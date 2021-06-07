@@ -31,6 +31,7 @@ sections:
       **LIGHTING DESIGNER** | Olly Levett\
       **SET DESIGNER AND BUILDER** | Steven King\
       **COSTUMES, HAIR AND MAKE-UP** | Gill Daniell\
+      **STAGE MANAGER** | Andrew Laidlaw\
       **PROPS** | Shiri Stern\
       **MARKETING** | Stephen Beeny\
       **PHOTOGRAPHER** | David Ovenden
