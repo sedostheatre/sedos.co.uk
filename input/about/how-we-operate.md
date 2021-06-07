@@ -6,7 +6,7 @@ image: /assets/aboutus-trustees-19-20.jpg
 RedirectFrom:
   - aboutus/howweoperate.htm
 ---
-Sedos is a Charitable Incorporated Association.
+Sedos is a Charitable Incorporated Organisation.
 
 **[Click here to read the constitution](/assets/SedosConstitution.pdf)**.
 
