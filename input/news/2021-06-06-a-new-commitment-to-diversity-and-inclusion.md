@@ -26,7 +26,7 @@ Commenting for London Drama Societies, Sara Rajeswaran said: “Each of our soc
 \
 “One of the most important initial steps we can take is to understand the diversity in our societies today, so we can measure our progress and be held to account. We hope our members will fill in the diversity monitoring form \[find the Sedos diversity monitoring form here], and we look forward to working with our members on further steps to create the diversity in our societies that we all want to see."\
 \
-For more information, contact Sara Rajeswaran on xxx\
+For more information, contact Sara Rajeswaran on [info@londondramasocieties.co.​uk](mailto:info@londondramasocieties.co.uk)\
 \
 ENDS\
 \
