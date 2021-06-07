@@ -17,6 +17,7 @@ showtimes:
 showtime-summary: 14-24 SEPTEMBER 2022
 primary-color: "#8cbea1"
 header-image: /assets/dance-1566852_1920.jpeg
+flyer: /assets/midsummer-flyerholders.png
 box-office-open: false
 sections:
   - order: 1
