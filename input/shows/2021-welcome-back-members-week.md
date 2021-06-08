@@ -40,8 +40,7 @@ sections:
 
       **IN-PERSON AUDITIONS** | Saturday 19 June 2021, 9am-5pm\
 
-      **SELF-TAPE AUDITIONS** | Deadline Saturday 19 June 2021
-
+      **SELF-TAPE AUDITIONS** | Deadline Saturday 19 June 2021\
 
       **REHEARSAL** | Saturday 10 July 2021, 9am-7:30pm \
 
