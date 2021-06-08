@@ -1,7 +1,7 @@
 ---
 title: Sedos gets personal (finally)
 date: 2021-06-08
-image: /assets/sedoscommittee-understudyjune21.jpg
+image: /assets/sedoscommittee-june21.jpg
 ---
 **8 June 2021**
 
@@ -13,5 +13,3 @@ The get-together was an important first step towards Sedos opening up and there 
 
 ^^^ ![](/assets/sedoscommittee-june21.jpg)
 ^^^ Some of the Sedos management committee at their first in-person meeting in 14 months
-
-*\*Did you guess where we were? We sat on one of the long tables at the appropriately named Understudy bar, outside the National Theatre on the Southbank.*
