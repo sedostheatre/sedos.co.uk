@@ -65,9 +65,7 @@ sections:
       **PHOTO CREDIT** | Damien Walmsey
 
 
-      This amateur production by arrangement with Concord Theatricals
-
-      on behalf of Samuel French Ltd.
+      This amateur production by arrangement with Concord Theatricals on behalf of Samuel French Ltd.
 ---
 **It’s been a long 16 months since our last ‘live’ show at the Bridewell Theatre (The Musical of Musicals the Musical), and we’re hugely excited to launch our 2021 in-person activity with a jam-packed Members’ Week at the Bridewell Theatre from 4-10 July.** 
 
