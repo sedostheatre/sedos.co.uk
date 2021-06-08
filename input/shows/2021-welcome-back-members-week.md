@@ -40,12 +40,15 @@ sections:
 
       **IN-PERSON AUDITIONS** | Saturday 19 June 2021, 9am-5pm\
 
-      **SELF-TAPE AUDITIONS** | Send to playinaday@sedos.co.uk, deadline Saturday 19 June 2021
+      **SELF-TAPE AUDITIONS** | Deadline Saturday 19 June 2021
 
 
       **REHEARSAL** | Saturday 10 July 2021, 9am-7:30pm \
 
       **PERFORMANCE** | 7:30pm-8:30pm, Bridewell Theatre 
+
+
+      **READ THE FULL AUDITION NOTICE**
 
 
       For more information contact [playinaday@sedos.co.uk](mailto:playinaday@sedos.co.uk)
@@ -54,11 +57,11 @@ sections:
       **CREATIVE TEAM**
 
 
-      **DIRECTOR** | Lloyd Smith
+      **DIRECTOR** | Lloyd Smith\
 
-      **ASSISTANT DIRECTOR** | Michelle Calvert
+      **ASSISTANT DIRECTOR** | Michelle Calvert\
 
-      **STAGE MANAGER** | Frederica Byron
+      **STAGE MANAGER** | Frederica Byron\
 
       **PHOTO CREDIT** | Damien Walmsey
 
