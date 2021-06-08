@@ -14,4 +14,4 @@ The get-together was an important first step towards Sedos opening up and there 
 ^^^ ![](/assets/sedoscommittee-june21.jpg)
 ^^^ Some of the Sedos management committee at their first in-person meeting in 14 months
 
-*\*Did you guess where they were? We sat on one of the long tables at the appropriately named Understudy bar, outside the National Theatre on the South Bank.*
+*\*Did you guess where they were? They sat on one of the long tables at the appropriately named Understudy bar, outside the National Theatre on the South Bank.*
