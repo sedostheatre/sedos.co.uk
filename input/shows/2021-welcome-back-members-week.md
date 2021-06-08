@@ -67,7 +67,9 @@ sections:
 
       on behalf of Samuel French Ltd.
 ---
-It’s been a long 16 months since our last ‘live’ show at the Bridewell Theatre (The Musical of Musicals the Musical), and we’re hugely excited to launch our 2021 in-person activity with a jam-packed Members’ Week at the Bridewell Theatre from 4-10 July. It’s a wonderful celebration of all our activities and we hope they’ll be something for everyone to get involved with, whether taking part or watching from the stalls.
+**It’s been a long 16 months since our last ‘live’ show at the Bridewell Theatre (The Musical of Musicals the Musical), and we’re hugely excited to launch our 2021 in-person activity with a jam-packed Members’ Week at the Bridewell Theatre from 4-10 July.** 
+
+It’s going to be a wonderful celebration of all our theatrical activities and we hope they’ll be something for everyone to get involved with, whether taking part or watching from the stalls.
 
 You’ll find more information on the tabs above, but here’s a summary of what to expect.
 
