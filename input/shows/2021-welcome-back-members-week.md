@@ -20,7 +20,7 @@ sections:
     title: IMPROV WITH BANANA HUT GANG
     body: Blah blah blah
   - order: 3
-    title: PIANO Night
+    title: PIANO NIGHT
     body: Blah blah blah
   - order: 4
     title: "PLAY IN A DAY: DNA"
