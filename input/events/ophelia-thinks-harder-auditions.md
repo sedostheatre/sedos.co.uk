@@ -1,6 +1,10 @@
 ---
 title: Ophelia Thinks Harder auditions
 image: /assets/ophelia-thinks-harder-no-title-cropped.jpg
+times:
+  - time: 2021-07-13 19:00
+  - time: 2021-07-17 14:00
+venue: Brewers' Hall Garden, off Basinghall Street, London EC2V 5DX
 ---
 
 Ophelia Thinks Harder was due to be performed in March 2020, one week after the first lockdown was announced. Due to the way the world and individual circumstances have changed, we are now seeking auditionees for several roles. For further details, please download the audition pack [here](https://drive.google.com/file/d/1APmiQW7EonwjPLfH0BxgQuz1EC5-s0PS/view?usp=sharing)
