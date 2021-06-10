@@ -698,7 +698,7 @@ This is the privacy policy of the Stock Exchange Drama and Operatic Society CIO,
 5. The law requires us to tell you about your rights and our obligations to you in regards to the processing and control of your personal data. We do this now, by requesting that you read the information provided at [www.knowyourprivacyrights.org](http://www.knowyourprivacyrights.org)
 6. Except as set out in this privacy policy, we do not share, or sell, or disclose to a third party, any personal information collected by us otherwise provided to us.
 
-### **The bases on which we process information about you**
+### The bases on which we process information about you
 
 The law requires us to determine under which of six defined bases we process different categories of your personal information, and to notify you of the basis for each category.
 
@@ -706,7 +706,7 @@ If a basis on which we process your personal information is no longer relevant t
 
 If the basis changes then if required by law we shall notify you of the change and of any new basis under which we have determined that we can continue to process your information.
 
-1. #### **Information we process because we have a contractual obligation with you**
+1. #### Information we process because we have a contractual obligation with you
 
    When you create an account on our website, buy a product or service from us (including purchasing tickets, signing up for an audition or joining us as a member), a contract is formed between you and us.
    In order to carry out our obligations under that contract we must process the information you give us. Some of this information may be personal information.
@@ -728,7 +728,7 @@ If the basis changes then if required by law we shall notify you of the change a
    We shall continue to process this information until the contract between us ends or is terminated by either party under the terms of the contract.
 
    Note:  if you are a member of the Sedos, we will send you information about the operation of the society – for example information about our Annual General Meetings and the societies activities.  This information is sent to you to keep you informed of the Charity’s activities and to enable you to benefit from your Membership and as part of the contractual relationship between you and the Charity.
-2. #### **Information we process with your consent**
+2. #### Information we process with your consent
 
    Through certain actions when otherwise there is no contractual relationship between us, such as when you browse our website or ask us to provide you more information about us, including our shows, products and services, you provide your consent to us to process information that may be personal information.
 
@@ -743,7 +743,7 @@ If the basis changes then if required by law we shall notify you of the change a
    If you have acquired tickets or services from us before, we are entitled to assume that you may wish to acquire tickets from us in the future and on that basis, will continue to process your information on this basis until you withdraw your consent or it can be reasonably assumed that your consent no longer exists.  This may include sending you information about the show or event you have booked for and general information about the society and also events that the society is putting on.
 
    You may withdraw your consent at any time by instructing us at [dataprotection@sedos.co.uk](mailto:dataprotection@sedos.co.uk). However, if you do so, you may not be able to continue to use our services.
-3. #### **Information we process because we have a legal obligation**
+3. #### Information we process because we have a legal obligation
 
    We are subject to the law like everyone else. Sometimes, we must process your information in order to comply with a statutory obligation.
 
@@ -751,7 +751,7 @@ If the basis changes then if required by law we shall notify you of the change a
 
    This may include your personal information.
 
-   ### **Specific uses of information you provide to us**
+   ### Specific uses of information you provide to us
 4. #### Information relating to payments
 
    If you make a payment to us we retain certain personal information, including your name, address, phone number, email address, IP address and details of the transaction.   This information is stored on our servers or servers that we have access to operated by our third party provider, Ticketsolve, the provider of our ticketing system.  We provide this information and the credit card information for processing by our bank, Lloyds Bank plc and the payments processing agents Realex and Global Payments.  We do not retain copies of your credit card information which is handled and is protected solely by Lloyds Bank plc, Realex and Global Payments.
