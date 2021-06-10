@@ -7,7 +7,7 @@ RedirectFrom:
 * [Investment Policy](#investment-policy-statement)
 * [Conflict of Interest Policy](#conflict-of-interest-policy)
 * [COVID-19 Policy](#covid-19-health-and-safety-policy)
-* [Privacy and Data Protection Policy ](#privacy-policy)
+* [Privacy and Data Protection Policy](#privacy-and-data-protection-policy)
 
 - - -
 
@@ -54,7 +54,7 @@ RedirectFrom:
 
    1. Sedos has appointed a professional investment management firm, Rathbones, to manage the assets on a discretionary basis, in line with this investment policy. The Board of Sedos has nominated a list of authorised signatories, two of which are required to sign instructions to Rathbones.
    2. Rathbones will provide the following information on a quarterly basis: valuation of investments and transaction report. Rathbones will also provide an annual report.
-   3. The Board of Sedos has responsibility for agreeing strategy and monitoring the investment assets. The Investment Committee will review the information provided by Rathbones at their meetings. Rathbones will be required to present in person to the Investment Committee on an annual basis. The Investment Committee will report the value of the portfolio to the Board of Sedos at each Board meeting. 
+   3. The Board of Sedos has responsibility for agreeing strategy and monitoring the investment assets. The Investment Committee will review the information provided by Rathbones at their meetings. Rathbones will be required to present in person to the Investment Committee on an annual basis. The Investment Committee will report the value of the portfolio to the Board of Sedos at each Board meeting.
    4. Performance of the investments will be measured against inflation +3% after fees over any rolling five year period.
 8. **Approval and Review**
 
@@ -442,7 +442,7 @@ If a participant becomes aware they are an Excluded Participant they should:
 
 If a Session Leader becomes or is made aware of a participant becoming an Excluded Participant they shall immediately:
 
-* inform the \*COVID Compliance Officer\** by email or phone (details in Section A);
+* inform the *COVID Compliance Officer** by email or phone (details in Section A);
 * inform all other participants in the Sedos Activity that a participant has become an Excluded Participant; and
 * suspend any in-person elements of the relevant Sedos Activity until the circumstances leading to that person becoming an Excluded Participant can be investigated by the COVID Compliance Officer.
 
@@ -685,17 +685,17 @@ The full SEDOS COVID-19 Policy and Risk Assessment can be found on the Sedos web
 
 - - -
 
-## Privacy and Data Protection Policy Policy
+## Privacy and Data Protection Policy
 
-This is the privacy policy of the Stock Exchange Drama and Operatic Society CIO, which operates under the name of Sedos.  Our Charity Number is 1173896. 
+This is the privacy policy of the Stock Exchange Drama and Operatic Society CIO, which operates under the name of Sedos. Our Charity Number is 1173896.
 
-### **Introduction**
+### Introduction
 
 1. This policy is designed to let you know about the information that we record about you. It sets out the conditions under which we may process information that we collect from you or that you provide to us. It covers information that could identify you (“personal information”) and information that could not. “Process” means collecting, storing, transferring, using or otherwise acting on information.
 2. We take seriously the protection of your privacy and confidentiality. We understand that anyone who provides personal data to us is entitled to know that their personal data will not be used for any purpose unintended by them, and will not accidentally fall into the hands of a third party.
 3. We undertake to preserve the confidentiality of all personal information you provide to us.
 4. Our policy and the processes relating our policy are designed to comply with UK law, including the EU General Data Protection Regulation (GDPR).
-5. The law requires us to tell you about your rights and our obligations to you in regards to the processing and control of your personal data. We do this now, by requesting that you read the information provided at [www.knowyourprivacyrights.org](hrrp://www.knowyourprivacyrights.org)
+5. The law requires us to tell you about your rights and our obligations to you in regards to the processing and control of your personal data. We do this now, by requesting that you read the information provided at [www.knowyourprivacyrights.org](http://www.knowyourprivacyrights.org)
 6. Except as set out in this privacy policy, we do not share, or sell, or disclose to a third party, any personal information collected by us otherwise provided to us.
 
 ### **The bases on which we process information about you**
@@ -709,17 +709,17 @@ If the basis changes then if required by law we shall notify you of the change a
 1. #### **Information we process because we have a contractual obligation with you**
 
    When you create an account on our website, buy a product or service from us (including purchasing tickets, signing up for an audition or joining us as a member), a contract is formed between you and us.
-   In order to carry out our obligations under that contract we must process the information you give us. Some of this information may be personal information.\
+   In order to carry out our obligations under that contract we must process the information you give us. Some of this information may be personal information.
 
-   We may use it in order to:\
-   \
+   We may use it in order to:
+
    1.1.	verify your identity for security purposes;
 
    1.2.	sell tickets or other products to you;
 
    1.3.	provide you with our services; and/or
 
-   1.4.	provide you with suggestions and advice on our shows, products, services, how to obtain the most from using our website and otherwise obtain information about our shows, products and services.\
+   1.4.	provide you with suggestions and advice on our shows, products, services, how to obtain the most from using our website and otherwise obtain information about our shows, products and services.
 
    We process this information on the basis there is a contract between us, or that you have requested we use the information before we enter into a legal contract.
 
@@ -727,10 +727,10 @@ If the basis changes then if required by law we shall notify you of the change a
 
    We shall continue to process this information until the contract between us ends or is terminated by either party under the terms of the contract.
 
-   Note:  if you are a member of the Sedos, we will send you information about the operation of the society – for example information about our Annual General Meetings and the societies activities.  This information is sent to you to keep you informed of the Charity’s activities and to enable you to benefit from your Membership and as part of the contractual relationship between you and the Charity.     
+   Note:  if you are a member of the Sedos, we will send you information about the operation of the society – for example information about our Annual General Meetings and the societies activities.  This information is sent to you to keep you informed of the Charity’s activities and to enable you to benefit from your Membership and as part of the contractual relationship between you and the Charity.
 2. #### **Information we process with your consent**
 
-   Through certain actions when otherwise there is no contractual relationship between us, such as when you browse our website or ask us to provide you more information about us, including our shows, products and services, you provide your consent to us to process information that may be personal information.\
+   Through certain actions when otherwise there is no contractual relationship between us, such as when you browse our website or ask us to provide you more information about us, including our shows, products and services, you provide your consent to us to process information that may be personal information.
 
    Wherever possible, we aim to obtain your explicit consent to process this information, for example, by asking you to agree to our use of cookies.
 
@@ -754,7 +754,7 @@ If the basis changes then if required by law we shall notify you of the change a
    ### **Specific uses of information you provide to us**
 4. #### Information relating to payments
 
-   If you make a payment to us we retain certain personal information, including your name, address, phone number, email address, IP address and details of the transaction.   This information is stored on our servers or servers that we have access to operated by our third party provider, Ticketsolve, the provider of our ticketing system.  We provide this information and the credit card information for processing by our bank, Lloyds Bank plc and the payments processing agents Realex and Global Payments.  We do not retain copies of your credit card information which is handled and is protected solely by Lloyds Bank plc, Realex and Global Payments.   
+   If you make a payment to us we retain certain personal information, including your name, address, phone number, email address, IP address and details of the transaction.   This information is stored on our servers or servers that we have access to operated by our third party provider, Ticketsolve, the provider of our ticketing system.  We provide this information and the credit card information for processing by our bank, Lloyds Bank plc and the payments processing agents Realex and Global Payments.  We do not retain copies of your credit card information which is handled and is protected solely by Lloyds Bank plc, Realex and Global Payments.
 5. #### Information about direct debits
 
    When you agree to set up a direct debit arrangement, the information you give to us is passed to our own bank and payments processing agents for processing according to our instructions. We do not keep a copy of your banking details, but we do keep a copy of your name, address, phone number and email address.
@@ -768,10 +768,10 @@ If the basis changes then if required by law we shall notify you of the change a
 
    We issue newsletters and other marketing information to people who have attended our performances or otherwise expressed an interest in the activities of Sedos.  You will always have the opportunity to unsubscribe from these emails.  Your information is held in our Mailchimp account.
 
-   These are separate from the communications that we send specifically to Members relating to the formal activities of Sedos, such as our Annual General Meeting. 
+   These are separate from the communications that we send specifically to Members relating to the formal activities of Sedos, such as our Annual General Meeting.
 8. #### Other information you provide
 
-   If you are involved in an audition, a production or as a volunteer, then we will keep certain personal information about you.  If you audition for a production, then we will need to keep your contact details in relation to that project; we will not share details other than as necessary with the production teams for the smooth running of the production or the general business of Sedos in connection with your participation in the activities of Sedos. 
+   If you are involved in an audition, a production or as a volunteer, then we will keep certain personal information about you.  If you audition for a production, then we will need to keep your contact details in relation to that project; we will not share details other than as necessary with the production teams for the smooth running of the production or the general business of Sedos in connection with your participation in the activities of Sedos.
 
    ### Use of information we collect through automated systems when you visit our website
 9. #### Cookies
@@ -790,7 +790,7 @@ If the basis changes then if required by law we shall notify you of the change a
 
    9.1.	to track how you use our website
 
-   9.2.	to record whether you have seen specific messages we display on our website\
+   9.2.	to record whether you have seen specific messages we display on our website
 
    9.3.	to keep you signed in our site
 
@@ -803,7 +803,7 @@ If the basis changes then if required by law we shall notify you of the change a
 
     We use this information in aggregate to assess the popularity of the webpages on our website and how we perform in providing content to you.
 
-    If combined with other information we know about you from previous visits, the data possibly could be used to identify you personally, even if you are not signed in to our website.	
+    If combined with other information we know about you from previous visits, the data possibly could be used to identify you personally, even if you are not signed in to our website.
 
     ### Disclosure and sharing of your information
 11. #### Information we obtain from third parties
@@ -832,7 +832,7 @@ If the basis changes then if required by law we shall notify you of the change a
 
     15.1.	If you are not happy with our privacy policy or if have any complaint then you should tell us by email. Please email us at [dataprotection@sedos.co.uk](mailto:dataprotection@sedos.co.uk).
 
-    15.2.	If a dispute is not settled then we hope you will agree to attempt to resolve it by engaging in good faith with us in a process of mediation or arbitration. 
+    15.2.	If a dispute is not settled then we hope you will agree to attempt to resolve it by engaging in good faith with us in a process of mediation or arbitration.
 
     15.3.	If you are in any way dissatisfied about how we process your personal information, you have a right to lodge a complaint with the Information Commissioner's Office. This can be done at <https://ico.org.uk/concerns/>
 16. #### Retention period for personal data
@@ -842,7 +842,7 @@ If the basis changes then if required by law we shall notify you of the change a
     16.1.	to provide you with the services you have requested;
 
     16.2.	to comply with other law, including for the period demanded by our tax authorities;
-    16.3.	to support a claim or defence in court.	
+    16.3.	to support a claim or defence in court.
 
     We shall, from time to time, review any personal data held by us and where the above factors do not apply or there is no other legitimate reason for us to retain such personal data will delete and destroy such personal data insofar as we are able to do so. This will not prejudice your ability to ask us to remove personally identifiable information from our records in accordance with section 14 of this policy.
 17. ### Compliance with the law
@@ -852,8 +852,8 @@ If the basis changes then if required by law we shall notify you of the change a
     However, ultimately it is your choice as to whether you wish to use our website or provide any personal data to us.
 18. ### Review of this privacy policy
 
-    We may update this privacy policy from time to time as necessary. The terms that apply to you are those posted here on our website on the day you provide us with your personal information.  We advise you to print a copy for your records. 
+    We may update this privacy policy from time to time as necessary. The terms that apply to you are those posted here on our website on the day you provide us with your personal information.  We advise you to print a copy for your records.
 
-    If you have any question regarding our privacy policy, please contact us at [dataprotection@sedos.co.uk](mailto:dataprotection@sedos.co.uk)\
-    \
-    *Adopted 11 June 2021*
+    If you have any question regarding our privacy policy, please contact us at [dataprotection@sedos.co.uk](mailto:dataprotection@sedos.co.uk)
+
+*Adopted 11 June 2021*
