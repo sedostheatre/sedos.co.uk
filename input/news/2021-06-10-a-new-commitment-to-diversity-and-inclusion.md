@@ -9,11 +9,11 @@ image: /assets/equalityhands.jpg
 
 We are excited to launch today the programme of work we have underway, under the banner of London Drama Societies, and the first three sets of template policies/guidelines the group has worked on - on Diverse Casting and Authentic Storytelling, on Equality Monitoring, and on Marketing and Outreach. There is much more to be done but we're thankful to our members and the other societies for putting in the work on this so far.
 
-If you would like to get involved with our equality, diversity and inclusion work, or if you have any other comments you would like to send us, please email [equality@sedos.co.uk](mailto:equality@sedos.co.uk)
+If you would like to get involved with our equality, diversity and inclusion work, or if you have any other comments you would like to send us, please email **[equality@sedos.co.uk](mailto:equality@sedos.co.uk).**
 
 **Building Accountability**
 
-We know that, if we want to be accountable for the steps we are taking to improve our diversity, we need to be able to demonstrate if these steps deliver progress. So today we are also launching Sedos' first equality monitoring form, which has been created with London Drama Societies. With your help, we will be able to understand our diversity today, and measure the steps we take to improve this. We will also commit to publishing data on our diversity at future AGMs so you, our members, can hold us to account. We hope you will fill out this form which can be [found here](https://forms.gle/SZwBmuVLcN8CiqgB6). 
+We know that, if we want to be accountable for the steps we are taking to improve our diversity, we need to be able to demonstrate if these steps deliver progress. So today we are also launching Sedos' first equality monitoring form, which has been created with London Drama Societies. With your help, we will be able to understand our diversity today, and measure the steps we take to improve this. We will also commit to publishing data on our diversity at future AGMs so you, our members, can hold us to account. We hope you will fill out this form which can be **[found here](https://forms.gle/SZwBmuVLcN8CiqgB6)**. 
 
 **Further changes**
 
