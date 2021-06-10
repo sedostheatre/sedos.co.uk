@@ -1,5 +1,5 @@
 ---
-title: A new commitment to diversity and inclusion
+title: London Drama Societies commit to diversity and inclusion
 date: 2021-06-06
 image: /assets/londondramasocieties.png
 ---
