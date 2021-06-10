@@ -18,3 +18,6 @@ We know that, if we want to be accountable for the steps we are taking to improv
 **Further changes**
 
 Following feedback, we are also making changes to our Producers' Handbook to include specific policies on photography. We are very grateful to those of you who have shared your concerns with us, and we hope all these changes properly take these into account and make the photography element of productions enjoyable for all.
+
+^^^ ![](/assets/equalityhands.jpg)
+^^^
