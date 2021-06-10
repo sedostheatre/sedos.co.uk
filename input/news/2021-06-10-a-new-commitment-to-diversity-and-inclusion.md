@@ -11,10 +11,13 @@ We are excited to launch today the programme of work we have underway, under the
 
 If you would like to get involved with our equality, diversity and inclusion work, or if you have any other comments you would like to send us, please email [equality@sedos.co.uk](mailto:equality@sedos.co.uk)
 
-### **Building Accountability**
+**Building Accountability**
 
 We know that, if we want to be accountable for the steps we are taking to improve our diversity, we need to be able to demonstrate if these steps deliver progress. So today we are also launching Sedos' first equality monitoring form, which has been created with London Drama Societies. With your help, we will be able to understand our diversity today, and measure the steps we take to improve this. We will also commit to publishing data on our diversity at future AGMs so you, our members, can hold us to account. We hope you will fill out this form which can be [found here](https://forms.gle/SZwBmuVLcN8CiqgB6). 
 
-### Further changes 
+**Further changes**
 
 Following feedback, we are also making changes to our Producers' Handbook to include specific policies on photography. We are very grateful to those of you who have shared your concerns with us, and we hope all these changes properly take these into account and make the photography element of productions enjoyable for all.
+
+^^^ ![](/assets/equalityhands.jpg)
+^^^
