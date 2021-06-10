@@ -1,13 +1,13 @@
 ---
 title: London Drama Societies commit to diversity and inclusion
-date: 2021-06-06
+date: 2021-06-11
 image: /assets/londondramasocieties.png
 ---
 *11 June 2021*
 
 **Sedos is one of the founder members of London Drama Societies, which today sent out this press release.** 
 
-Press release
+### Press release
 
 **Central London drama societies to emerge from Covid with a new commitment to diversity and inclusion**
 
