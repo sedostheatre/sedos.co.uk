@@ -21,7 +21,7 @@ Membership of London Drama Societies commits each member society to the followin
 \
 The [London Drama Societies website](https://www.londondramasocieties.co.uk) hosts the draft policies the group has worked on during the performance hiatus caused by the pandemic. Currently this includes policies on Casting and Authentic Storytelling, and Marketing and Outreach. Further policies and resources will be available in due course, including an Off Stage Roles policy. The policies will also be available for any other society which could find this work useful. \
 \
-In addition, London Drama Societies has also created a template diversity monitoring form, which each society is launching to its members today, Friday 11 June \[find the Sedos diversity monitoring form here].\
+In addition, London Drama Societies has also created a template diversity monitoring form, which each society is launching to its members today, Friday 11 June [find the Sedos [diversity monitoring form](https://forms.gle/SZwBmuVLcN8CiqgB6) here].\
 \
 Commenting for London Drama Societies, Sara Rajeswaran said: “Each of our societies is committed to becoming more reflective of London’s diversity. However, we all know there are some significant steps to be taken if we are to get there. It will take time to fully deliver on our ambition but today we demonstrate our commitment to change and set ourselves on a course to improve.\
 \
