@@ -3,7 +3,7 @@ title: Notice of AGM
 date: 2021-06-10
 image: /assets/sedos-agm.jpg
 ---
-*6 June 2021*\
+*10 June 2021*\
 \
 **As a reminder, the Sedos AGM will take place from 7.30pm on Thursday 24 June 2021.** \
 \
