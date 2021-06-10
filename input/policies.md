@@ -7,7 +7,7 @@ RedirectFrom:
 * [Investment Policy](#investment-policy-statement)
 * [Conflict of Interest Policy](#conflict-of-interest-policy)
 * [COVID-19 Policy](#covid-19-health-and-safety-policy)
-* [Privacy Policy](#privacy-policy)
+* [Privacy and Data Protection Policy ](#privacy-policy)
 
 - - -
 
