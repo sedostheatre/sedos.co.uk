@@ -700,9 +700,9 @@ This is the privacy policy of the Stock Exchange Drama and Operatic Society CIO,
 
 ### **The bases on which we process information about you**
 
-The law requires us to determine under which of six defined bases we process different categories of your personal information, and to notify you of the basis for each category.\
+The law requires us to determine under which of six defined bases we process different categories of your personal information, and to notify you of the basis for each category.
 
-If a basis on which we process your personal information is no longer relevant then we shall immediately stop processing your data.\
+If a basis on which we process your personal information is no longer relevant then we shall immediately stop processing your data.
 
 If the basis changes then if required by law we shall notify you of the change and of any new basis under which we have determined that we can continue to process your information.
 
@@ -713,41 +713,41 @@ If the basis changes then if required by law we shall notify you of the change a
 
    We may use it in order to:\
    \
-   1.1.	verify your identity for security purposes;\
+   1.1.	verify your identity for security purposes;
 
-   1.2.	sell tickets or other products to you;\
+   1.2.	sell tickets or other products to you;
 
-   1.3.	provide you with our services; and/or\
+   1.3.	provide you with our services; and/or
 
    1.4.	provide you with suggestions and advice on our shows, products, services, how to obtain the most from using our website and otherwise obtain information about our shows, products and services.\
 
-   We process this information on the basis there is a contract between us, or that you have requested we use the information before we enter into a legal contract.\
+   We process this information on the basis there is a contract between us, or that you have requested we use the information before we enter into a legal contract.
 
-   Additionally, we may aggregate this information in a general way and use it to provide class information. If we use it for this purpose, you as an individual will not be personally identifiable.\
+   Additionally, we may aggregate this information in a general way and use it to provide class information. If we use it for this purpose, you as an individual will not be personally identifiable.
 
-   We shall continue to process this information until the contract between us ends or is terminated by either party under the terms of the contract.\
+   We shall continue to process this information until the contract between us ends or is terminated by either party under the terms of the contract.
 
    Note:  if you are a member of the Sedos, we will send you information about the operation of the society – for example information about our Annual General Meetings and the societies activities.  This information is sent to you to keep you informed of the Charity’s activities and to enable you to benefit from your Membership and as part of the contractual relationship between you and the Charity.     
 2. #### **Information we process with your consent**
 
    Through certain actions when otherwise there is no contractual relationship between us, such as when you browse our website or ask us to provide you more information about us, including our shows, products and services, you provide your consent to us to process information that may be personal information.\
 
-   Wherever possible, we aim to obtain your explicit consent to process this information, for example, by asking you to agree to our use of cookies.\
+   Wherever possible, we aim to obtain your explicit consent to process this information, for example, by asking you to agree to our use of cookies.
 
-   We may also ask you, from time to time, to provide us with personal information that is special category data such as racial or ethnic origin, age, gender or genetic data. Where you consent to provide this data, we shall use this information solely to monitor and report on our compliance with our commitment to create a diverse society and community. Compliance with any request for such information is always voluntary and you will never be asked to provide special category data as a requirement to participate in any activity of the society or to be a member of the society, including the purchasing of tickets as an audience member.\
+   We may also ask you, from time to time, to provide us with personal information that is special category data such as racial or ethnic origin, age, gender or genetic data. Where you consent to provide this data, we shall use this information solely to monitor and report on our compliance with our commitment to create a diverse society and community. Compliance with any request for such information is always voluntary and you will never be asked to provide special category data as a requirement to participate in any activity of the society or to be a member of the society, including the purchasing of tickets as an audience member.
 
-   All raw special category data shall be stored separately from and with a greater level of protection to general data with appropriate levels of security (which shall include being protected behind strong authentication) to reflect the additional levels of sensitivity of such data. Access to such raw data shall be limited to certain members of the Board of Trustees and Management Committee of the society with responsibility for diversity and inclusion and data protection and storage.\
+   All raw special category data shall be stored separately from and with a greater level of protection to general data with appropriate levels of security (which shall include being protected behind strong authentication) to reflect the additional levels of sensitivity of such data. Access to such raw data shall be limited to certain members of the Board of Trustees and Management Committee of the society with responsibility for diversity and inclusion and data protection and storage.
 
-   Except where you have consented to our use of your information for a specific purpose, we do not use your information in any way that would identify you personally. Where personal information is special category data, we will never report or publicise any such data in a way which would identify you personally. Although efforts will be taken to anonymise special category data collected and stored in its raw form, it is possible that you may be identifiable from such raw data to which access is limited to members of the Board of Trustees as outlined above. We may aggregate personal information in a general way and use it to provide class information, for example to monitor the performance of a particular page on our website or compliance with our general diversity and inclusion commitments.\
+   Except where you have consented to our use of your information for a specific purpose, we do not use your information in any way that would identify you personally. Where personal information is special category data, we will never report or publicise any such data in a way which would identify you personally. Although efforts will be taken to anonymise special category data collected and stored in its raw form, it is possible that you may be identifiable from such raw data to which access is limited to members of the Board of Trustees as outlined above. We may aggregate personal information in a general way and use it to provide class information, for example to monitor the performance of a particular page on our website or compliance with our general diversity and inclusion commitments.
 
-   If you have acquired tickets or services from us before, we are entitled to assume that you may wish to acquire tickets from us in the future and on that basis, will continue to process your information on this basis until you withdraw your consent or it can be reasonably assumed that your consent no longer exists.  This may include sending you information about the show or event you have booked for and general information about the society and also events that the society is putting on.\
+   If you have acquired tickets or services from us before, we are entitled to assume that you may wish to acquire tickets from us in the future and on that basis, will continue to process your information on this basis until you withdraw your consent or it can be reasonably assumed that your consent no longer exists.  This may include sending you information about the show or event you have booked for and general information about the society and also events that the society is putting on.
 
    You may withdraw your consent at any time by instructing us at [dataprotection@sedos.co.uk](mailto:dataprotection@sedos.co.uk). However, if you do so, you may not be able to continue to use our services.
 3. #### **Information we process because we have a legal obligation**
 
-   We are subject to the law like everyone else. Sometimes, we must process your information in order to comply with a statutory obligation.\
+   We are subject to the law like everyone else. Sometimes, we must process your information in order to comply with a statutory obligation.
 
-   For example, we may be required to give information to legal authorities if they so request or if they have the proper authorisation such as a search warrant or court order.\
+   For example, we may be required to give information to legal authorities if they so request or if they have the proper authorisation such as a search warrant or court order.
 
    This may include your personal information.
 
@@ -764,7 +764,7 @@ If the basis changes then if required by law we shall notify you of the change a
    When you contact us via one of the contact emails on our website, we collect the data you have given to us in order to reply with the information you need.
 
    We keep personally identifiable information associated with your message, such as your name and email address so as to be able to track our communications with you on an ongoing manner.
-7. #### Marketing 
+7. #### Marketing
 
    We issue newsletters and other marketing information to people who have attended our performances or otherwise expressed an interest in the activities of Sedos.  You will always have the opportunity to unsubscribe from these emails.  Your information is held in our Mailchimp account.
 
@@ -786,29 +786,29 @@ If the basis changes then if required by law we shall notify you of the change a
 
    When you first visit our website, we ask you whether you wish us to use cookies. If you choose not to accept them, we shall not use them for your visit except to record that you have not consented to their use for any other purpose.
 
-   We use cookies in the following ways:\
+   We use cookies in the following ways:
 
-   9.1.	to track how you use our website\
+   9.1.	to track how you use our website
 
    9.2.	to record whether you have seen specific messages we display on our website\
 
-   9.3.	to keep you signed in our site\
+   9.3.	to keep you signed in our site
 
    9.4.	to record your answers to surveys and questionnaires on our site while you complete them
 10. #### Personal identifiers from your browsing activity
 
-    Requests by your web browser to our servers for web pages and other content on our website are recorded.\
+    Requests by your web browser to our servers for web pages and other content on our website are recorded.
 
-    We record information such as your geographical location, your Internet service provider and your IP address. We also record information about the software you are using to browse our website, such as the type of computer or device and the screen resolution.\
+    We record information such as your geographical location, your Internet service provider and your IP address. We also record information about the software you are using to browse our website, such as the type of computer or device and the screen resolution.
 
-    We use this information in aggregate to assess the popularity of the webpages on our website and how we perform in providing content to you.\
+    We use this information in aggregate to assess the popularity of the webpages on our website and how we perform in providing content to you.
 
     If combined with other information we know about you from previous visits, the data possibly could be used to identify you personally, even if you are not signed in to our website.	
 
     ### Disclosure and sharing of your information
 11. #### Information we obtain from third parties
 
-    Although we do not disclose your personal information to any third party (except as set out in this policy), we sometimes receive data that is indirectly made up from your personal information from third parties whose services we use.\
+    Although we do not disclose your personal information to any third party (except as set out in this policy), we sometimes receive data that is indirectly made up from your personal information from third parties whose services we use.
 
     No such information is personally identifiable to you.
 12. #### Where is data processed?
@@ -818,7 +818,7 @@ If the basis changes then if required by law we shall notify you of the change a
     ### Access to your own information
 13. #### Access to your personal information
 
-    13.1.	To obtain a copy of any information that is not provided on our website you may send us a request at [dataprotection@sedos.co.uk](mailto:dataprotection@sedos.co.uk).\
+    13.1.	To obtain a copy of any information that is not provided on our website you may send us a request at [dataprotection@sedos.co.uk](mailto:dataprotection@sedos.co.uk).
 
     13.2.	After receiving the request, we will tell you when we expect to provide you with the information, and whether we require any fee for providing it to you.
 14. ### Removal of your information
@@ -830,29 +830,29 @@ If the basis changes then if required by law we shall notify you of the change a
     ### Other matters
 15. #### How you can complain
 
-    15.1.	If you are not happy with our privacy policy or if have any complaint then you should tell us by email. Please email us at [dataprotection@sedos.co.uk](mailto:dataprotection@sedos.co.uk).\
+    15.1.	If you are not happy with our privacy policy or if have any complaint then you should tell us by email. Please email us at [dataprotection@sedos.co.uk](mailto:dataprotection@sedos.co.uk).
 
-    15.2.	If a dispute is not settled then we hope you will agree to attempt to resolve it by engaging in good faith with us in a process of mediation or arbitration. \
+    15.2.	If a dispute is not settled then we hope you will agree to attempt to resolve it by engaging in good faith with us in a process of mediation or arbitration. 
 
     15.3.	If you are in any way dissatisfied about how we process your personal information, you have a right to lodge a complaint with the Information Commissioner's Office. This can be done at <https://ico.org.uk/concerns/>
 16. #### Retention period for personal data
 
     Except as otherwise mentioned in this privacy notice, we keep your personal information only for as long as required by us:
 
-    16.1.	to provide you with the services you have requested;\
+    16.1.	to provide you with the services you have requested;
 
     16.2.	to comply with other law, including for the period demanded by our tax authorities;
-    16.3.	to support a claim or defence in court.	\
+    16.3.	to support a claim or defence in court.	
 
     We shall, from time to time, review any personal data held by us and where the above factors do not apply or there is no other legitimate reason for us to retain such personal data will delete and destroy such personal data insofar as we are able to do so. This will not prejudice your ability to ask us to remove personally identifiable information from our records in accordance with section 14 of this policy.
 17. ### Compliance with the law
 
-    Our privacy policy has been compiled so as to comply with the law of every country or legal jurisdiction in which we aim to do business. If you think it fails to satisfy the law of your jurisdiction, we should like to hear from you.\
+    Our privacy policy has been compiled so as to comply with the law of every country or legal jurisdiction in which we aim to do business. If you think it fails to satisfy the law of your jurisdiction, we should like to hear from you.
 
     However, ultimately it is your choice as to whether you wish to use our website or provide any personal data to us.
 18. ### Review of this privacy policy
 
-    We may update this privacy policy from time to time as necessary. The terms that apply to you are those posted here on our website on the day you provide us with your personal information.  We advise you to print a copy for your records. \
+    We may update this privacy policy from time to time as necessary. The terms that apply to you are those posted here on our website on the day you provide us with your personal information.  We advise you to print a copy for your records. 
 
     If you have any question regarding our privacy policy, please contact us at [dataprotection@sedos.co.uk](mailto:dataprotection@sedos.co.uk)\
     \
