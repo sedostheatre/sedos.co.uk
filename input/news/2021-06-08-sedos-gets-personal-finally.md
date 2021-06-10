@@ -5,7 +5,7 @@ image: /assets/sedoscommittee-june21.jpg
 ---
 *8 June 2021*
 
-**After 14 long months the Sedos management committee finally got together for an in-person meeting this week – do you recognise the location*?** 
+**After 14 long months the Sedos management committee finally got together for an in-person meeting this week – do you recognise the location*?**
 
 To add to the occasion, it was the first time that Mark and Peter, who both joined the management committee during lockdown, had attended a ‘live’ meeting. 
 
