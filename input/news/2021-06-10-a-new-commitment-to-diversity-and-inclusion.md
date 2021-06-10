@@ -3,7 +3,7 @@ title: "A new commitment to diversity and inclusion "
 date: 2021-06-10
 image: /assets/equalityhands.jpg
 ---
-10 June 2021
+11 June 2021
 
 **Following the publication of our Commitment to Change last year, Sedos joined with representatives from the leadership of Centre Stage and Geoids Musical Theatre to discuss ways we could make conscious and concrete steps to improve diversity and inclusion in our societies.** 
 
