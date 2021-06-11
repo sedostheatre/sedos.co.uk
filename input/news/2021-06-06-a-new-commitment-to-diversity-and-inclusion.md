@@ -19,7 +19,7 @@ Membership of London Drama Societies commits each member society to the followin
 
 *“We will identify and remove barriers to create a safe and inclusive environment. We want everyone to feel empowered to participate, on stage or off. We want stories to be told authentically.”*\
 \
-The [London Drama Societies website](https://www.londondramasocieties.co.uk) hosts the draft policies the group has worked on during the performance hiatus caused by the pandemic. Currently this includes policies on Casting and Authentic Storytelling, and Marketing and Outreach. Further policies and resources will be available in due course, including an Off Stage Roles policy. The policies will also be available for any other society which could find this work useful. \
+The **[London Drama Societies website](https://www.londondramasocieties.co.uk)** hosts the draft policies the group has worked on during the performance hiatus caused by the pandemic. Currently this includes policies on **[Casting and Authentic Storytelling, and Marketing and Outreach](https://www.londondramasocieties.co.uk/home/resources)**. Further policies and resources will be available in due course, including an Off Stage Roles policy. The policies will also be available for any other society which could find this work useful. \
 \
 In addition, London Drama Societies has also created a template diversity monitoring form, which each society is launching to its members today, Friday 11 June [find the Sedos **[diversity monitoring form](https://forms.gle/SZwBmuVLcN8CiqgB6)** here].\
 \
