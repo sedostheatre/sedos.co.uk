@@ -1,5 +1,5 @@
 ---
-title: London Drama Societies issue diversity and inclusion statement
+title: London Drama Societies release diversity and inclusion statement
 date: 2021-06-11
 image: /assets/londondramasocieties.png
 ---
