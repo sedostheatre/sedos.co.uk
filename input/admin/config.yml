@@ -305,6 +305,24 @@ collections:
         fields:
           - {label: key, name: key, widget: hidden}
           - {label: Image, name: image-source, widget: image}
+      - label: "About"
+        name: "about"
+        file: "input/header-images/about.yml"
+        fields:
+          - {label: key, name: key, widget: hidden}
+          - {label: Image, name: image-source, widget: image}
+      - label: "Your Visit"
+        name: "your-visit"
+        file: "input/header-images/your-visit.yml"
+        fields:
+          - {label: key, name: key, widget: hidden}
+          - {label: Image, name: image-source, widget: image}
+      - label: "Whats On"
+        name: "whats-on"
+        file: "input/header-images/whats-on.yml"
+        fields:
+          - {label: key, name: key, widget: hidden}
+          - {label: Image, name: image-source, widget: image}
       - label: "Fallback"
         name: "fallback"
         file: "input/header-images/fallback.yml"
