@@ -1,7 +1,7 @@
 ---
 title: A new commitment to diversity and inclusion
 year: "2021"
-subtitle: Following the publication of our Commitment to Change Sedos joins
+subtitle: Following the publication of our Commitment to Change, Sedos joins
   other London Drama Societies to improve diversity and inclusion
 showtime-summary: ""
 show-on-homepage: true
