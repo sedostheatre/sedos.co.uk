@@ -5,6 +5,7 @@ subtitle: Following the publication of our Commitment to Change Sedos joins
   other London Drama Societies to improve diversity and inclusion
 showtime-summary: ""
 show-on-homepage: true
+primary-color: "#022cbc"
 header-image: /assets/equalityhands-hi-res.jpg
 flyer: /assets/commitment-to-change.jpg
 box-office-open: false
