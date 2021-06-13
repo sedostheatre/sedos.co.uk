@@ -46,7 +46,22 @@ sections:
     body: Blah blah blah
   - order: 3
     title: PIANO NIGHT
-    body: Blah blah blah
+    body: >-
+      **WEDNESDAY 7 JULY | From 7pm**
+
+
+      **Whether you want to get up and sing or just relax and enjoy a drink with friends, our Piano Night is the perfect event to bring you back to the Bridewell Theatre, which will be transformed into a relaxed, intimate cabaret venue for an evening of song and Sedos reunion!**
+
+
+      Join our musical maestros Michael Cannon and Wil Gaines and entertain us with a torch song, modern belter or classic showstopper. The choice is yours! We’ll have some musical scores and collections to browse through, but if you’re looking for something specific, please feel free to bring along your own music.
+
+
+      Alternatively, grab a drink and catch-up with friends while listening to some great music. It’s going to be a friendly, relaxed event and the perfect opportunity to get us back together again.
+
+
+      ^^^ ![](/assets/SedosWebsite-Banner-sechoir.jpg)
+
+      ^^^
   - order: 4
     title: "PLAY IN A DAY: DNA"
     body: >-
