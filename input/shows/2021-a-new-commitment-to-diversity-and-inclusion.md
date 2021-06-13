@@ -11,6 +11,8 @@ flyer: /assets/commitment-to-change.jpg
 box-office-open: false
 sections: []
 ---
+*11 June 2021*
+
 **Following the publication of our Commitment to Change last year, Sedos joined with representatives from the leadership of Centre Stage and Geoids Musical Theatre to discuss ways we could make conscious and concrete steps to improve diversity and inclusion in our societies.**
 
 We are excited to launch today the programme of work we have underway, under the banner of London Drama Societies, and the first three sets of template policies/guidelines the group has worked on - on Diverse Casting and Authentic Storytelling, on Equality Monitoring, and on Marketing and Outreach. There is much more to be done but we're thankful to our members and the other societies for putting in the work on this so far.
