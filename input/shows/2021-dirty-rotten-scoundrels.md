@@ -23,6 +23,7 @@ order-on-homepage: 3
 venue: Bridewell Theatre
 primary-color: "#ee111a"
 header-image: /assets/nice-2209823_1920.jpg
+flyer: /assets/dirty.jpg
 box-office-open: true
 ticketsolve-show-id: "1173611193"
 sections:
