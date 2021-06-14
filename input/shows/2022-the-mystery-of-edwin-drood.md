@@ -15,6 +15,7 @@ showtime-summary: 22-26 MARCH 2022
 venue: Bridewell Theatre
 primary-color: "#d06b00"
 header-image: /assets/feather-quill-1920-1280-.jpg
+flyer: /assets/edwindrood.jpg
 box-office-open: false
 sections:
   - order: 1
