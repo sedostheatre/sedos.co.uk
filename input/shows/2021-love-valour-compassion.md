@@ -13,7 +13,7 @@ showtime-summary: 5-9 JULY 2022
 venue: Bridewell Theatre
 primary-color: "#fd8392"
 header-image: /assets/lovevalourc0mpassion.jpg
-flyer: /assets/love-flyerholders.png
+flyer: /assets/love.jpg
 box-office-open: false
 sections:
   - order: 1
