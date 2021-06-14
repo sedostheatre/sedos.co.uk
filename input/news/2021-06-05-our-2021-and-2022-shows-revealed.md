@@ -7,7 +7,7 @@ image: /assets/seasonreveal.jpg
 
 **We are absolutely delighted to be able to share our plans for the next year and a half with you. Not only are we thrilled to have rescheduled the shows from 2020, we are excited to announce three new titles and we also want your pitches for our remaining slots.** 
 
-We will be kicking off with a jam-packed Members’ Week at the Bridewell from 4-10 July. It will include performances from Banana Hut Gang, a workshop with the Acting Group as well as a Piano Night and a chance for you to rehearse and perform Dennis Kelly’s *DNA* in a single day, auditions for which will be held on 26 and 27 June. Full details of the week can be found online. 
+We will be kicking off with a jam-packed *[Members’ Week](https://sedos.co.uk/shows/2021-welcome-back-members-week)* at the Bridewell from 4-10 July. It will include performances from Banana Hut Gang, a workshop with the Acting Group as well as a Piano Night and a chance for you to rehearse and perform Dennis Kelly’s *DNA* in a single day, auditions for which will be held on 26 and 27 June. Full details of the week can be found online. 
 
 *[Ophelia Thinks Harder](https://sedos.co.uk/shows/2021-ophelia-thinks-harder)* will perform at the Bridewell from 28 September-2 October and *Working* will take to the stage from 26-30 October. Both teams are looking to fill gaps in their casts and [will be holding auditions shortly](https://sedos.co.uk/get-involved). Working will now be directed by Jacob Hajjar with Laura Ellis as producer and they are looking for additional people to join their team – see the [*Working* show page](https://sedos.co.uk/shows/2021-working) for more details.
 
@@ -48,7 +48,7 @@ Sedos management committee
 
 ### **SEDOS’ 2021 AND 2022 SEASONS**
 
-**4-10 July 2021:** Members’ Week\
+**4-10 July 2021:** *[Members’ Week](https://sedos.co.uk/shows/2021-welcome-back-members-week)*\
 **19-25 September 2021:** Members’ Week\
 **28 September-2 October 2021:** *[Ophelia Thinks Harder](https://sedos.co.uk/shows/2021-ophelia-thinks-harder)*\
 **26-30 October 2021:** *[Working](https://sedos.co.uk/shows/2021-working)*\
