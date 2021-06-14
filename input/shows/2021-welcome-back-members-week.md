@@ -15,6 +15,7 @@ ticket-prices: "The Acting Group is Free. Tickets to laugh-a-long with the
   free to watch. "
 primary-color: "#fd7d0f"
 header-image: /assets/jigsaw-puzzles-821171_1280.jpg
+flyer: /assets/welcomebackmembersweek.jpg
 box-office-open: false
 sections:
   - order: 1
