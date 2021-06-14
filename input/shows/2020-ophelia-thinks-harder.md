@@ -18,7 +18,7 @@ order-on-homepage: 1
 venue: Bridewell Theatre
 primary-color: "#b21b60"
 header-image: /assets/ophelia-thinks-harder-landscape.jpg
-flyer: /assets/2020-02-16-ophelia-flyer-front-800.png
+flyer: /assets/ophelia-updated-poster-sb-lores-.jpg
 box-office-open: true
 ticketsolve-show-id: "1173600323"
 sections:
