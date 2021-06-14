@@ -20,9 +20,9 @@ We have then confirmed new dates for our remaining 2020 shows in 2022: 
 **22-26 March 2022:** *[The Mystery of Edwin Drood](https://sedos.co.uk/shows/2022-the-mystery-of-edwin-drood)*\
 **5-9 July 2022:** *[Love! Valour! Compassion!](https://sedos.co.uk/shows/2022-love-valour-compassion)*\
 **14-24 September 2022:** *[A Midsummer Night's Dream](https://sedos.co.uk/shows/2022-a-midsummer-nights-dream)* \
-**23 November-3 December 2022:** *[Amadeus](https://sedos.co.uk/shows/2022-amadeus)*
+**23 November-3 December 2022:** *[Amadeus](https://sedos.co.uk/shows/2022-amadeus)* (pending rights)
 
-Lots of next year’s shows are looking for additional team members so if you're interested in getting involved please get in touch with the production teams via their show pages.
+Lots of next year’s shows are looking for additional team members so if you're interested in getting involved please get in touch with the production teams via their show pages. 
 
 We are lucky to have secured the rights for two further musicals
 
