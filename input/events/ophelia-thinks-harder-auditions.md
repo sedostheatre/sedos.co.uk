@@ -1,13 +1,12 @@
 ---
 title: Ophelia Thinks Harder auditions
-image: /assets/ophelia-thinks-harder-no-title-cropped.jpg
 times:
   - time: 2021-07-13 19:00
   - time: 2021-07-17 14:00
+image: /assets/ophelia-thinks-harder-no-title-cropped.jpg
 venue: Brewers' Hall Garden, off Basinghall Street, London EC2V 5DX
 ---
-
-Ophelia Thinks Harder was due to be performed in March 2020, one week after the first lockdown was announced. Due to the way the world and individual circumstances have changed, we are now seeking auditionees for several roles. For further details, please download the audition pack [here](https://drive.google.com/file/d/1APmiQW7EonwjPLfH0BxgQuz1EC5-s0PS/view?usp=sharing)
+Ophelia Thinks Harder was due to be performed in March 2020, one week after the first lockdown was announced. Due to the way the world and individual circumstances have changed, we are now seeking auditionees for several roles. For further details, please download the audition pack here
 
 **Synopsis**
 
@@ -35,13 +34,12 @@ The roles to be auditioned for are listed below. As this play deals substantiall
 
 **When and where are the auditions?**
 
-Tuesday 13 (7pm-10pm) and Saturday 17 July 2021 (2pm-6pm) - 1 Brewers Hall Gardens, Moorgate, EC2V 5BX.
+Tuesday 13 (7-10pm) and Saturday 17 July 2021 (2-6pm) - 1 Brewers Hall Gardens, Moorgate, EC2V 5BX.
 
-
-Recall – invitation only, Tuesday 20 July 2021 (7pm-10p,) - 1 Brewers Hall Gardens, Moorgate, EC2V 5BX
+Recall – invitation only, Tuesday 20 July 2021 (7-10pm) - 1 Brewers Hall Gardens, Moorgate, EC2V 5BX
 
 **How to sign up**
 
-Once you have read the notice, you can sign up to audition at [https://membership.sedos.​co.uk/signup](https://membership.sedos.co.uk/signup)
+Once you have read the audition [audition notice](https://drive.google.com/file/d/1APmiQW7EonwjPLfH0BxgQuz1EC5-s0PS/view?usp=sharing), you can sign up to audition at [https://membership.sedos.​co.uk/signup](https://membership.sedos.co.uk/signup)
 
-You will then be sent a link by email to confirm the booking – your slot is not booked until you have confirmed via this link. Please check your junk mail if it does not arrive. If you have any problems, please email ophelia@sedos.co.uk.
+You will then be sent a link by email to confirm the booking – your slot is not booked until you have confirmed via this link. Please check your junk mail if it does not arrive. If you have any problems, please email [ophelia@sedos.co.uk](mailto:ophelia@sedos.co.uk)
