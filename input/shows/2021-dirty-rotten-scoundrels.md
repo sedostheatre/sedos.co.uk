@@ -42,7 +42,7 @@ sections:
       **COSTUME DESIGNER** | Edith Webb
 
 
-      The *Dirty Rotten Scoundrels* team are looking for two key members of the production team, a musical director and a stage manager. Please email [zoe.thomaswebb@gmail.com](<>) if you would like to put yourself forward and have a chat about the show.
+      The *Dirty Rotten Scoundrels* team are looking for two key members of the production team, a musical director and a stage manager. Please email [scoundrels@sedos.co.uk](mailto:scoundrels@sedos.co.uk) [](<>)if you would like to put yourself forward and have a chat about the show.
 ---
 **Based on the film of the same name, *Dirty Rotten Scoundrels* tells the story of two very different con men, the debonair Laurence Jameson and the vulgar Freddie Benson. The chalk and cheese con men know they can’t both work the same resort so they decide to make a bet.** 
 
