@@ -13,6 +13,9 @@ showtimes:
   - time: 2022-05-14 19:30
 showtime-summary: 10-14 MAY 2022
 venue: Bridewell Theatre
+primary-color: "#de0e42"
+header-image: /assets/americanidiot2.jpg
+flyer: /assets/americanidiot.jpg
 box-office-open: false
 sections:
   - order: 1
