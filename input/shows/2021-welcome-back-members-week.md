@@ -9,6 +9,10 @@ showtimes:
   - time: 2021-07-07 19:30
   - time: 2021-07-10 19:30
 venue: Bridewell Theatre
+ticket-prices: "The Acting Group is Free. Tickets to laugh-a-long with the
+  Banana Hut Gang and sing-a-long at the Piano Night are £8 full price and £6
+  for Sedos members and concessions. *Play In A Day: DNA*, by Dennis Kelly is
+  free to watch. "
 primary-color: "#fd7d0f"
 header-image: /assets/jigsaw-puzzles-821171_1280.jpg
 box-office-open: false
@@ -42,8 +46,27 @@ sections:
 
       Please note: numbers will be restricted to make sure we get through all the extracts in time, so please register ASAP.
   - order: 2
-    title: IMPROV WITH BANANA HUT GANG
-    body: Blah blah blah
+    title: CHOOSE YOUR OWN... IMPROV!
+    body: >-
+      **TUESDAY 6, THURSDAY 8 and FRIDAY 9 July at 7.30pm | Improv with Banana
+      Hut Gang**
+
+
+      After keeping us entertained online over lockdown the indefatigable Banana Hut Gang, Sedos' in- house improv team, are delighted to be back in-person with their ever changing improvised comedy play, *Choose Your Own... Improv!*, guaranteed to lift your spirits!
+
+
+      What do you want to see? A marriage or a funeral? An abandoned spaceship or a creepy dungeon? A murder or a resurrection?
+
+
+      In *Choose Your Own... Improv!*, you decide. Join the Banana Hut Gang as they create a brave new improvised world where you get to call the shots.
+
+
+      Keep the story on track, derail it completely, or start again... the choice is yours!
+
+
+      ^^^ ![](/assets/banana-hut-gang-improv.jpg)
+
+      ^^^
   - order: 3
     title: PIANO NIGHT
     body: >-
@@ -119,10 +142,10 @@ It’s going to be a wonderful celebration of all our theatrical activities and 
 You’ll find more information on the tabs above, but here’s a summary of what to expect.
 
 **MONDAY 5 JULY** | Actors Group Returns\
-**TUESDAY 6 JULY** | Improv with Banana Hut Gang\
+**TUESDAY 6 JULY** | Choose Your Own... Improv with Banana Hut Gang\
 **WEDNESDAY 7 JULY** | Sedos Piano Night\
-**THURSDAY 8 JULY** | Improv with Banana Hut Gang\
-**FRIDAY 9 July** | Improv with Banana Hut Gang\
+**THURSDAY 8 JULY** | Choose Your Own... Improv with Banana Hut Gang\
+**FRIDAY 9 July** | Choose Your Own... Improv with Banana Hut Gang\
 **SATURDAY 10 JULY** | *Play In A Day: DNA*, by Dennis Kelly (auditions Sunday 27 June)
 
 Tickets to laugh-a-long with the Banana Hut Gang and sing-a-long at the Piano Night are £8 full price and £6 for Sedos members and concessions. *Play In A Day: DNA*, by Dennis Kelly is free to watch. The box office is open now.
