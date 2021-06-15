@@ -6,7 +6,7 @@ times:
 image: /assets/ophelia-thinks-harder-no-title-cropped.jpg
 venue: Brewers' Hall Garden, off Basinghall Street, London EC2V 5DX
 ---
-Ophelia Thinks Harder was due to be performed in March 2020, one week after the first lockdown was announced. Due to the way the world and individual circumstances have changed, we are now seeking auditionees for several roles. For further details, please download the audition pack here
+Ophelia Thinks Harder was due to be performed in March 2020, one week after the first lockdown was announced. Due to the way the world and individual circumstances have changed, we are now seeking auditionees for several roles. For further details, please download the audition pack [here](https://sedos.co.uk/assets/ophelia-2021-audition-pack.pdf).
 
 **Synopsis**
 
@@ -40,6 +40,6 @@ Recall – invitation only, Tuesday 20 July 2021 (7-10pm) - 1 Brewers Hall Garde
 
 **How to sign up**
 
-Once you have read the audition [audition notice](https://drive.google.com/file/d/1APmiQW7EonwjPLfH0BxgQuz1EC5-s0PS/view?usp=sharing), you can sign up to audition at [https://membership.sedos.​co.uk/signup](https://membership.sedos.co.uk/signup)
+Once you have read the audition [audition notice](https://sedos.co.uk/assets/ophelia-2021-audition-pack.pdf), you can sign up to audition at [https://membership.sedos.​co.uk/signup](https://membership.sedos.co.uk/signup)
 
 You will then be sent a link by email to confirm the booking – your slot is not booked until you have confirmed via this link. Please check your junk mail if it does not arrive. If you have any problems, please email [ophelia@sedos.co.uk](mailto:ophelia@sedos.co.uk)
