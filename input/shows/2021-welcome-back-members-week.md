@@ -92,11 +92,11 @@ It’s going to be a wonderful celebration of all our theatrical activities and 
 
 You’ll find more information on the tabs above, but here’s a summary of what to expect.
 
-**MONDAY 26 JULY** | Acting Group Returns\
-**TUESDAY 27 JULY** | *Choose Your Own... Improv* with Banana Hut Gang\
-**WEDNESDAY 28 JULY** | Piano Night Social\
-**THURSDAY 29 JULY** | *Choose Your Own... Improv* with Banana Hut Gang\
-**FRIDAY 30 JULY** | *Choose Your Own... Improv* with Banana Hut Gang\
+**MONDAY 26 JULY** | Acting Group Returns, 7pm-9pm\
+**TUESDAY 27 JULY** | *Choose Your Own... Improv* with Banana Hut Gang, 7.30pm\
+**WEDNESDAY 28 JULY** | Piano Night Social, from 7.30pm\
+**THURSDAY 29 JULY** | *Choose Your Own... Improv* with Banana Hut Gang, 7.30pm\
+**FRIDAY 30 JULY** | *Choose Your Own... Improv* with Banana Hut Gang, 7.30pm\
 **SATURDAY 31 JULY** | TBA
 
 Tickets to laugh-a-long with the Banana Hut Gang are £8 full price and £6 for Sedos members and concessions. The Acting Group and *Choose Your Own... Improv* with Banana Hut Gang are free to watch, but you do need to register or book a ticket. The box office is open now.
