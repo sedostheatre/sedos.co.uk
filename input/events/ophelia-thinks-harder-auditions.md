@@ -14,7 +14,7 @@ Ophelia is struggling with the constraints place on her by her social status –
 
 **What are we looking for**
 
-The roles to be auditioned for are listed below. As this play deals substantially with gender and gender roles, the list below shows the gender each character needs to present as. The exceptions to this are the Players, which are written as male but don’t need to be believable as men if women are cast in those roles.
+The roles to be auditioned for are listed below. As this play deals substantially with gender and gender roles, the list below shows the gender each character needs to present as. The exceptions to this are the Players, which are written as male but don’t need to be believable as men if women are cast in those roles. There are no specific ethnicity requirements for any of the roles; we are open to non-traditional casting and would like to see performers of all ethnicities audition for any roles. There are also no age requirements for any of the roles and we're excited to see what you can bring to the roles.
 
 *Maid (f)* – a much put-upon servant. Frequently the subject of harassment and abuse. The counterpoint to Ophelia, and a representative of the serving classes who don’t have an opportunity to improve their situation. Very superstitious, to the detriment of her sanity.
 
@@ -34,9 +34,9 @@ The roles to be auditioned for are listed below. As this play deals substantiall
 
 **When and where are the auditions?**
 
-Tuesday 13 (7-10pm) and Saturday 17 July 2021 (2-6pm) - 1 Brewers Hall Gardens, Moorgate, EC2V 5BX.
+Tuesday 13 (7-10pm) and Saturday 17 July 2021 (2-6pm) - 1 Brewers' Hall Gardens, Moorgate, EC2V 5BX.
 
-Recall – invitation only, Tuesday 20 July 2021 (7-10pm) - 1 Brewers Hall Gardens, Moorgate, EC2V 5BX
+Recall – invitation only, Tuesday 20 July 2021 (7-10pm) - 1 Brewers' Hall Gardens, Moorgate, EC2V 5BX
 
 **How to sign up**
 
