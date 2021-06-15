@@ -55,7 +55,7 @@ Sedos management committee
 **24 November-4 December 2021:** *[Dirty Rotten Scoundrels](https://sedos.co.uk/shows/2021-dirty-rotten-scoundrels)*\
 **22-26 February 2022:** Play TBC\
 **22-26 March 2022:** *[The Mystery of Edwin Drood](https://sedos.co.uk/shows/2022-the-mystery-of-edwin-drood)*\
-**10-14 May 2022:** *American Idiot*\
+**10-14 May 2022:** *[American Idiot](https://sedos.co.uk/shows/e2022-american-idiot)*\
 **5-9 July 2022:** *[Love! Valour! Compassion!](https://sedos.co.uk/shows/2022-love-valour-compassion)*\
 **14-24 September 2022:** *[A Midsummer Night's Dream](https://sedos.co.uk/shows/2022-a-midsummer-nights-dream)* \
 **25-29 October 2022:** *[Carrie: The Musical](https://sedos.co.uk/shows/2022-carrie-the-musical)*\
