@@ -1,7 +1,7 @@
 ---
 title: Our 2021 and 2022 shows revealed
 date: 2021-06-05
-image: /assets/2021-22-seasonmontage-v2-copy-2-800.jpg
+image: /assets/2021-22-seasonmontage-v2.jpg
 ---
 *XX MONTH 2021 - DATE OF GOING LIVE HERE IN ITALICS PLEASE*
 
@@ -64,5 +64,5 @@ We look forward to seeing you all soon!
 **25-29 October 2022:** *[Carrie: The Musical](https://sedos.co.uk/shows/2022-carrie-the-musical)*\
 **23 November-3 December 2022:** *[Amadeus](https://sedos.co.uk/shows/2022-amadeus)*
 
-^^^ ![](/assets/2021-22-seasonmontage-v2-copy-2-800.jpg)
+^^^ ![](/assets/2021-22-seasonmontage-v2.jpg)
 ^^^
