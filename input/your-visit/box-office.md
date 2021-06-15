@@ -6,10 +6,6 @@ image: /assets/your-visit-bridewell-theatre.jpg
 ---
 **In light of the announcement by the Government on 16 March 2020, with much sadness, we have taken the difficult but responsible decision to suspend our operations for the time being and postpone all upcoming events.**
 
-**Box office**
-
-[You will find our online box office here.](https://sedos-tickets.sedos.co.uk/shows)
-
 **Tickets**
 
 Your tickets will be sent by email if you book online. You do not need to print your tickets – it's fine to show them on a mobile phone at the door.
