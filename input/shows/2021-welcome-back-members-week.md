@@ -52,7 +52,7 @@ sections:
       Banana Hut Gang**
 
 
-      After keeping us entertained online over lockdown the indefatigable Banana Hut Gang, Sedos' in- house improv team, are delighted to be back in-person with their ever changing improvised comedy play, *Choose Your Own... Improv!*, guaranteed to lift your spirits!
+      After keeping us entertained online over lockdown, the indefatigable Banana Hut Gang, Sedos' in- house improv team, are delighted to be back in-person with their ever changing improvised comedy play, *Choose Your Own... Improv!*, guaranteed to lift your spirits!
 
 
       What do you want to see? A marriage or a funeral? An abandoned spaceship or a creepy dungeon? A murder or a resurrection?
