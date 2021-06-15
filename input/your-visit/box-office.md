@@ -6,7 +6,11 @@ image: /assets/your-visit-bridewell-theatre.jpg
 ---
 **In light of the announcement by the Government on 16 March 2020, with much sadness, we have taken the difficult but responsible decision to suspend our operations for the time being and postpone all upcoming events.**
 
-**Tickets**
+**Box office**
+
+[You will find our online box office here.](https://tickets.sedos.co.uk)
+
+**Ticket Collection**
 
 Your tickets will be sent by email if you book online. You do not need to print your tickets – it's fine to show them on a mobile phone at the door.
 
@@ -26,4 +30,4 @@ Sedos members, seniors and OAPs, children, students over 16 with valid identific
 
 **Venue**
 
-Most of our 2021 and 2022 season will be performed at the [Bridewell Theatre,](https://sedos.l3v5y.co.uk/venues/bridewell) Bride Lane, London EC4Y 8EQ.
+Most of our 2021 and 2022 season will be performed at the [Bridewell Theatre,](https://sedos.co.uk/venues/bridewell) Bride Lane, London EC4Y 8EQ.
