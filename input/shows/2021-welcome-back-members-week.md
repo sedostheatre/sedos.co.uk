@@ -15,7 +15,7 @@ ticket-prices: The Acting Group and Piano Night Social is FREE, but please
 primary-color: "#fd7d0f"
 header-image: /assets/jigsaw-puzzles-821171_1280.jpg
 flyer: /assets/welcomebackmembersweek.jpg
-box-office-open: false
+box-office-open: true
 sections:
   - order: 1
     title: ACTING GROUP
