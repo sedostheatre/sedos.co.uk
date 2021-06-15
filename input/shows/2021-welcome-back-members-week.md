@@ -64,7 +64,7 @@ sections:
       Keep the story on track, derail it completely, or start again... the choice is yours!
 
 
-      ^^^ ![](/assets/banana-hut-gang-improv.jpg)
+      ^^^ ![](/assets/bananahutgang.jpg)
 
       ^^^
   - order: 3
