@@ -1,9 +1,12 @@
 ---
 title: Our 2021 and 2022 shows revealed
 date: 2021-06-05
-image: /assets/seasonreveal.jpg
+image: /assets/2021-22-seasonmontage-v2-copy-2-800.jpg
 ---
 *XX MONTH 2021 - DATE OF GOING LIVE HERE IN ITALICS PLEASE*
+
+^^^ ![](/assets/2021-22-seasonmontage.jpg)
+^^^ 
 
 **We are absolutely delighted to be able to share our plans for the next year and a half with you. Not only are we thrilled to have rescheduled the shows from 2020, we are excited to announce three new titles and we also want your pitches for our remaining slots.** 
 
@@ -60,3 +63,6 @@ Sedos management committee
 **14-24 September 2022:** *[A Midsummer Night's Dream](https://sedos.co.uk/shows/2022-a-midsummer-nights-dream)* \
 **25-29 October 2022:** *[Carrie: The Musical](https://sedos.co.uk/shows/2022-carrie-the-musical)*\
 **23 November-3 December 2022:** *[Amadeus](https://sedos.co.uk/shows/2022-amadeus)*
+
+^^^ ![](/assets/2021-22-seasonmontage-v2-copy-2-800.jpg)
+^^^
