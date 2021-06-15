@@ -47,7 +47,7 @@ We are committed to diverse casting throughout our season, this will be made exp
 
 We look forward to seeing you all soon!
 
-Sedos management committee
+*Sedos management committee*
 
 ### **SEDOS’ 2021 AND 2022 SEASONS**
 
