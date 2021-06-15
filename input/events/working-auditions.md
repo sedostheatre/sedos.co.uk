@@ -6,7 +6,7 @@ times:
 image: /assets/working-skyline.jpg
 venue: Brewers' Hall Garden, off Basinghall Street, London EC2V 5DX
 ---
-***[Working](https://sedos.co.uk/shows/2021-working)*** **was cast in January 2020 for a run later that year. Unfortunately when the show was rescheduled after the Covid-19 postponement, two of the actors were unable to join the cast, so we are now holding auditions – more details below or check out the full audition notice here. ADD LINK**
+***[Working](https://sedos.co.uk/shows/2021-working)*** **was cast in January 2020 for a run later that year. Unfortunately when the show was rescheduled after the Covid-19 postponement, two of the actors were unable to join the cast, so we are now holding auditions – more details below or check out the [full audition notice here](https://docs.google.com/document/d/1pi_772eXt9joeRPk92OnFONF0QxetCdZrHZgR8E12kg/edit).**
 
 **About the show**
 
@@ -22,7 +22,7 @@ We are looking to cast at least two actors, one of whom will need to realistical
 
 The flexible nature of the show means we can work around the auditionees we see and therefore they encourage anyone to audition – above all, we are looking for great singers and actors. 
 
-Find out more in the audition notice. ADD LINK HERE
+Find out more in the [audition notice.](https://docs.google.com/document/d/1pi_772eXt9joeRPk92OnFONF0QxetCdZrHZgR8E12kg/edit) 
 
 **When and where are the auditions?**
 
@@ -30,7 +30,7 @@ The auditions are on Sunday 11 and Monday 12 July, at 1 Brewers’ Hall Garden, 
 
 **Find out more** 
 
-Full information about the show, the actors we are seeking and what will be required at auditions is available in the audition notice. ADD LINK HERE
+Full information about the show, the actors we are seeking and what will be required at auditions is available in the [audition notice](https://docs.google.com/document/d/1pi_772eXt9joeRPk92OnFONF0QxetCdZrHZgR8E12kg/edit). 
 
 **How to sign up**
 
