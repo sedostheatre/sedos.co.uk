@@ -5,9 +5,9 @@ image: /assets/sedos-agm.jpg
 ---
 *10 June 2021*\
 \
-**As a reminder, this year the Sedos AGM will take place online from 7.30pm on Thursday 24 June 2021. A link to the Zoom will be sent to members nearer the time.** 
+**As a reminder, this year the Sedos AGM will take place online from 7.30pm on Thursday 24 June 2021. A link to the Zoom meeting will be sent to members nearer the time.** 
 
-We were hoping to be able to hold the AGM in person this year at the St Brides Foundation with a live stream for people watching at home, however due to the latest announcement by the Government, this will now take place virtually, by Zoom. \
+We were hoping to be able to hold the AGM in person this year at the St Brides Foundation, with a live stream for people watching at home, however due to the latest announcement by the Government, this will now take place virtually by Zoom.\
 \
 The AGM is your chance to hear about how the society is performing, and also to probe the Management Committee and the Trustees on the way that the society is run!\
 \
