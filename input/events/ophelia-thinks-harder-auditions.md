@@ -43,3 +43,7 @@ Recall – invitation only, Tuesday 20 July 2021 (7-10pm) - 1 Brewers' Hall Gard
 Once you have read the audition [audition notice](https://sedos.co.uk/assets/ophelia-2021-audition-pack.pdf), you can sign up to audition at [https://membership.sedos.​co.uk/signup](https://membership.sedos.co.uk/signup)
 
 You will then be sent a link by email to confirm the booking – your slot is not booked until you have confirmed via this link. Please check your junk mail if it does not arrive. If you have any problems, please email [ophelia@sedos.co.uk](mailto:ophelia@sedos.co.uk)
+
+**Diversity and inclusion**
+
+Sedos seeks to build and sustain a membership that is reflective of the diverse communities within London. We actively encourage performers to audition for the roles which best suit their skills. In the instance where any roles require specific characteristics, we will be clear about this in audition notices. For all others, we are open to diverse casting and we are excited to see what you can bring to the role.
