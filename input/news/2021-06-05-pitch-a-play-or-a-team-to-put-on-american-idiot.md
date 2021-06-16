@@ -5,7 +5,7 @@ image: /assets/bridewelltheatre-800.jpg
 ---
 *16 June 2021*
 
-**In order to complete our 2022 season, [the management committee are seeking pitches](https://docs.google.com/document/d/1bbhThOKhturIFEobrTp9vBK1r2TMBs0MuZErDPAcObo/edit#) in two different areas.** 
+**In order to complete [our 2022 season](https://sedos.co.uk/news/2021-06-05-our-2021-and-2022-shows-revealed), [the management committee are seeking pitches](https://docs.google.com/document/d/1bbhThOKhturIFEobrTp9vBK1r2TMBs0MuZErDPAcObo/edit#) in two different areas.** 
 
 Firstly, we would like to hear pitches for a play to be performed at the Bridewell Theatre from 22-26 February 2022.
 
