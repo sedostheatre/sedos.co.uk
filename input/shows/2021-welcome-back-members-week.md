@@ -1,6 +1,8 @@
 ---
 title: Welcome Back Members’ Week
 year: "2021"
+subtitle: We’re hugely excited to launch our 2021 in-person activity with a
+  jam-packed Members’ Week
 showtimes:
   - time: 2021-07-26 19:00
   - time: 2021-07-27 19:30
@@ -88,7 +90,7 @@ sections:
 ---
 **It’s been a long 16 months since our last ‘live’ show at the Bridewell Theatre (The Musical of Musicals the Musical), and we’re hugely excited to launch our 2021 in-person activity with a jam-packed Members’ Week at the Bridewell Theatre from 26-31 July.** 
 
-It’s going to be a wonderful celebration of all our theatrical activities and we hope they’ll be something for everyone to get involved with, whether taking part or watching from the stalls.
+It’s going to be a wonderful celebration of all our theatrical activities and we hope they’ll be something for everyone to get involved in, whether taking part or watching from the stalls.
 
 You’ll find more information on the tabs above, but here’s a summary of what to expect.
 
