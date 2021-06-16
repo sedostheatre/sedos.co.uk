@@ -12,17 +12,17 @@ image: /assets/2021-22-seasonmontage-v2.jpg
 
 We will be kicking off with a jam-packed *[Members’ Week](https://sedos.co.uk/shows/2021-welcome-back-members-week)* at the Bridewell from 25-31 July. It will include performances from Banana Hut Gang, a workshop with the Acting Group as well as a Piano Night. Full details of the week can be found online. 
 
-*[Ophelia Thinks Harder](https://sedos.co.uk/shows/2021-ophelia-thinks-harder)* will perform at the Bridewell from 28 September-2 October and *Working* will take to the stage from 26-30 October. Both teams are looking to fill gaps in their casts and [will be holding auditions shortly](https://sedos.co.uk/get-involved). Working will now be directed by Jacob Hajjar with Laura Ellis as producer.
+*[Ophelia Thinks Harder](https://sedos.co.uk/shows/2020-ophelia-thinks-harder)* will perform at the Bridewell from 28 September-2 October and *[Working](https://sedos.co.uk)* will take to the stage from 26-30 October. Both teams are looking to fill gaps in their casts and [will be holding auditions shortly](https://sedos.co.uk/get-involved). Working will now be directed by Jacob Hajjar with Laura Ellis as producer.
 
 Our final show of 2021, performing 24 November-4 December, will be *[Dirty Rotten Scoundrels](https://sedos.co.uk/shows/2021-dirty-rotten-scoundrels)*, directed by Zoë Thomas-Webb and choreographed by Jonathon Grant. They are looking for additional people, particularly a musical director to join their team. Audition dates will be announced shortly, see the [show page](https://sedos.co.uk/shows/2021-dirty-rotten-scoundrels) for more details. 
 
-Tickets for all our 2021 shows are all now on sale and with our swanky new box office, we're introducing allocated seating so book now for the best seats!
+Tickets for all our 2021 shows are [all now on sale](https://sedos.ticketsolve.com/shows) and with our swanky new box office, we're introducing allocated seating so book now for the best seats!
 
 We have then confirmed new dates for our remaining 2020 shows in 2022: 
 
 **22-26 March 2022:** *[The Mystery of Edwin Drood](https://sedos.co.uk/shows/2022-the-mystery-of-edwin-drood)*\
-**5-9 July 2022:** *[Love! Valour! Compassion!](https://sedos.co.uk/shows/2022-love-valour-compassion)*\
-**14-24 September 2022:** *[A Midsummer Night's Dream](https://sedos.co.uk/shows/2022-a-midsummer-nights-dream)* \
+**5-9 July 2022:** *[Love! Valour! Compassion!](https://sedos.co.uk/shows/2021-love-valour-compassion)*\
+**14-24 September 2022:** *[A Midsummer Night's Dream](https://sedos.co.uk/shows/2022-a-midsummer-night-s-dream)* \
 **23 November-3 December 2022:** *[Amadeus](https://sedos.co.uk/shows/2022-amadeus)* (pending rights)
 
 Lots of next year’s shows are looking for additional team members so if you're interested in getting involved please get in touch with the production teams via their show pages. 
@@ -53,14 +53,14 @@ We look forward to seeing you all soon!
 
 **25-31 July 2021:** *[Members’ Week](https://sedos.co.uk/shows/2021-welcome-back-members-week)*\
 **19-25 September 2021:** Members’ Week\
-**28 September-2 October 2021:** *[Ophelia Thinks Harder](https://sedos.co.uk/shows/2021-ophelia-thinks-harder)*\
-**26-30 October 2021:** *[Working](https://sedos.co.uk/shows/2021-working)*\
+**28 September-2 October 2021:** *[Ophelia Thinks Harder](https://sedos.co.uk/shows/2020-ophelia-thinks-harder)*\
+**26-30 October 2021:** *[Working](https://sedos.co.uk/shows/2020-working-a-musical)*\
 **24 November-4 December 2021:** *[Dirty Rotten Scoundrels](https://sedos.co.uk/shows/2021-dirty-rotten-scoundrels)*\
 **22-26 February 2022:** Play TBC\
 **22-26 March 2022:** *[The Mystery of Edwin Drood](https://sedos.co.uk/shows/2022-the-mystery-of-edwin-drood)*\
-**10-14 May 2022:** *[American Idiot](https://sedos.co.uk/shows/e2022-american-idiot)*\
-**5-9 July 2022:** *[Love! Valour! Compassion!](https://sedos.co.uk/shows/2022-love-valour-compassion)*\
-**14-24 September 2022:** *[A Midsummer Night's Dream](https://sedos.co.uk/shows/2022-a-midsummer-nights-dream)* \
+**10-14 May 2022:** *[American Idiot](https://sedos.co.uk/shows/2022-american-idiot)*\
+**5-9 July 2022:** *[Love! Valour! Compassion!](https://sedos.co.uk/shows/2021-love-valour-compassion)*\
+**14-24 September 2022:** *[A Midsummer Night's Dream](https://sedos.co.uk/shows/2022-a-midsummer-night-s-dream)* \
 **25-29 October 2022:** *[Carrie: The Musical](https://sedos.co.uk/shows/2022-carrie-the-musical)*\
 **23 November-3 December 2022:** *[Amadeus](https://sedos.co.uk/shows/2022-amadeus)* (pending rights approval)
 
