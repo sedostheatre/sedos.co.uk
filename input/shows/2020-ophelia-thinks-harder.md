@@ -87,3 +87,5 @@ The Prince is a hazard and the new King’s a puppet. Who the hell is running De
 With guerilla feminists invading the castle, failed spells from a frustrated maid, endless direction from a wily Queen and various ignored ghosts, this is not the Hamlet you know.
 
 *Ophelia Thinks Harder* is a heightened, confused and darkly-funny world, where Shakespeare meets feminism. And this time Ophelia gets all the best lines.
+
+Due to the Covid-19 postponement, we are holding auditions for the various roles in the play and we’d love to see as many people at auditions as possible,. Please visit [the audition page for more information](https://sedos.co.uk/events/ophelia-thinks-harder-auditions).
