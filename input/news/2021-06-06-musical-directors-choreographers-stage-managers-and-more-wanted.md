@@ -9,11 +9,11 @@ image: /assets/sedos-needs-you.jpg
 
 *[Dirty Rotten Scoundrels](https://sedos.co.uk/shows/2021-dirty-rotten-scoundrels)*: seeking a **musical director** and a **stage manager** – if you’re interested, please email [scoundrels@sedos.co.uk](mailto:scoundrels@sedos.co.uk)
 
-*[The Mystery of Edwin Drood](https://sedos.co.uk/shows/2012-the-mystery-of-edwin-drood)*: seeking a **musical director** – if you’re interested, please email [edwin.drood@sedos.co.uk](mailto:edwin.drood@sedos.co.uk)
+*[The Mystery of Edwin Drood](https://sedos.co.uk/shows/2022-the-mystery-of-edwin-drood)*: seeking a **musical director** – if you’re interested, please email [edwin.drood@sedos.co.uk](mailto:edwin.drood@sedos.co.uk)
 
-*[American Idiot](https://sedos.co.uk/shows/2012-american-idiot)*: we are seeking a full creative team for this show – [read more here](https://docs.google.com/document/d/1bbhThOKhturIFEobrTp9vBK1r2TMBs0MuZErDPAcObo/edit)
+*[American Idiot](https://sedos.co.uk/shows/2022-american-idiot)*: we are seeking a full creative team for this show – [read more here](https://docs.google.com/document/d/1bbhThOKhturIFEobrTp9vBK1r2TMBs0MuZErDPAcObo/edit)
 
-*[A Midsummer Night’s Dream](https://sedos.co.uk/shows/2022-a-midsummer-nights-dream)*: interested to hear from **choreographers who have experience in commercial pop, and maybe voguing,** **assistant directors from the LGBT+ community** (no experience necessary). We are also building out the **technical creative team** (lighting, sound and staging). If you’re interested, please email [midsummer@sedos.co.uk](midsummer@sedos.co.uk)
+*[A Midsummer Night’s Dream](https://sedos.co.uk/shows/2022-a-midsummer-night-s-dream)*: interested to hear from **choreographers who have experience in commercial pop, and maybe voguing,** **assistant directors from the LGBT+ community** (no experience necessary). We are also building out the **technical creative team** (lighting, sound and staging). If you’re interested, please email [midsummer@sedos.co.uk](midsummer@sedos.co.uk)
 
 *[Carrie: The Musical](https://sedos.co.uk/shows/2022-carrie-the-musical)*: seeking a **musical director** – if you’re interested, please email [carrie@sedos.co.uk](mailto:carrie@sedos.co.uk)
 
