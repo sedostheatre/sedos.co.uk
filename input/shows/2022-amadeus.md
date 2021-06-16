@@ -3,6 +3,7 @@ title: Amadeus
 year: "2022"
 authors: By PETER SHAFFER
 authors2: "Our production of this play is to be confirmed pending rights. "
+subtitle: Genius, jealousy and revenge
 showtimes:
   - time: 2022-11-23 19:30
   - time: 2022-11-24 19:30
