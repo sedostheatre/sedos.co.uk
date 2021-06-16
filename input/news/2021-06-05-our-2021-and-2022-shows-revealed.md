@@ -1,6 +1,6 @@
 ---
 title: Our 2021 and 2022 shows revealed
-date: 2021-06-05
+date: 2021-06-16
 image: /assets/2021-22-seasonmontage-v2.jpg
 ---
 *16 June 2021*
