@@ -4,7 +4,7 @@ year: "2021"
 authors: Adapted by NINA FASO and STEPHEN SCHWARTZ
 authors2: With additional contributions by GORDON GREENBERG
 authors3: From the book by STUDS TURKEL
-subtitle: ""
+subtitle: A delightfully funny and thoroughly touching musical
 showtimes:
   - time: 2021-10-26 19:30
   - time: 2021-10-27 19:30
