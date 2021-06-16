@@ -5,6 +5,7 @@ authors: Book by JEFFREY LANE
 authors2: Music and Lyrics by DAVID YAZBEK
 authors3: Based on the film, Dirty Rotten Scoundrels, written by DALE LAUNER and
   STANLEY SHAPIRO & PAUL HENNING
+subtitle: A sexy and irreverent musical farce
 showtimes:
   - time: 2021-11-24 19:30
   - time: 2021-11-25 19:30
