@@ -68,7 +68,7 @@ sections:
 
       ^^^
   - order: 3
-    title: PIANO NIGHT SOCAIL
+    title: PIANO NIGHT SOCIAL
     body: >-
       **WEDNESDAY 28 JULY | From 7.30pm**
 
