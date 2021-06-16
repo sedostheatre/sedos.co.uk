@@ -3,7 +3,7 @@ title: Musical directors, choreographers, stage managers and more wanted
 date: 2021-06-06
 image: /assets/sedos-needs-you.jpg
 ---
-*XX MONTH 2021 - DATE OF GOING LIVE HERE IN ITALICS PLEASE*
+*16 June 2021*
 
 **Following the release of our 2021 and 2022 season plans, a number of shows are looking for people to join their core creative and production teams:**
 
