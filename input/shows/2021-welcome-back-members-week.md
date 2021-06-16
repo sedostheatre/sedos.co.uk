@@ -46,7 +46,7 @@ sections:
       That's it! We won't reply unless you ask us a specific question.
 
 
-      Please note: numbers will be restricted to make sure we get through all the extracts in time, so please register ASAP.
+      Please note: numbers will be restricted to make sure we get through all the extracts in time, so please register ASAP. Participants will be allocated on a first come first serve basis.
   - order: 2
     title: CHOOSE YOUR OWN... IMPROV!
     body: >-
