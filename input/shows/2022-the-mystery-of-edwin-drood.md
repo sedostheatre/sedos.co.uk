@@ -29,7 +29,7 @@ sections:
       **CHOREOGRAPHER / ASSISTANT DIRECTOR** | Tim Garrad
 
 
-      The Edwin Drood team are looking for a musical director to join the production. If you're interested, please email edwin.drood@sedos.co.uk
+      The Edwin Drood team are looking for a musical director to join the production. If you're interested, please email [edwin.drood@sedos.co.uk](mailto:edwin.drood@sedos.co.uk)
 ---
 **A hilarious musical whodunit loosely based on Charles Dickens’ famous unfinished novel.**
 
