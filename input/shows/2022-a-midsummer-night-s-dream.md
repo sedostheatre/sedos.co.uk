@@ -2,6 +2,7 @@
 title: A Midsummer Night’s Dream
 year: "2022"
 authors: By WILLIAM SHAKESPEARE
+subtitle: A queer look at a classic
 showtimes:
   - time: 2022-09-14 19:30
   - time: 2022-09-15 19:30
