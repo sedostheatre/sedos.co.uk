@@ -4,6 +4,7 @@ year: "2022"
 authors: A Musical by RUPERT HOLMES
 authors2: Original Broadway production produced by the New York Shakespeare
   Festival, JOSEPH PAPP, Producer
+subtitle: A hilarious musical whodunit
 showtimes:
   - time: 2022-03-22 19:30
   - time: 2022-03-23 19:30
