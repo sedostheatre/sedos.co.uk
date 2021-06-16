@@ -4,6 +4,7 @@ year: "2022"
 authors: A Musical by RUPERT HOLMES
 authors2: Original Broadway production produced by the New York Shakespeare
   Festival, JOSEPH PAPP, Producer
+subtitle: A hilarious musical whodunit
 showtimes:
   - time: 2022-03-22 19:30
   - time: 2022-03-23 19:30
@@ -29,7 +30,7 @@ sections:
       **CHOREOGRAPHER / ASSISTANT DIRECTOR** | Tim Garrad
 
 
-      The Edwin Drood team are looking for a musical director to join the production. If you're interested, please email edwin.drood@sedos.co.uk
+      The Edwin Drood team are looking for a musical director to join the production. If you're interested, please email [edwin.drood@sedos.co.uk](mailto:edwin.drood@sedos.co.uk)
 ---
 **A hilarious musical whodunit loosely based on Charles Dickens’ famous unfinished novel.**
 
