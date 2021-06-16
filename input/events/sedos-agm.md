@@ -1,9 +1,9 @@
 ---
 title: 2021 Sedos AGM
 times:
-  - time: 2021-06-24 19:00
+  - time: 2021-06-24 19:30
 image: /assets/sedos-agm.jpg
-venue: On Zoom
+venue: Via Zoom
 ---
 **This year the Sedos AGM will take place online from 7.30pm on Thursday 24 June 2021. A link to the Zoom meeting will be sent to members nearer the time.** 
 
