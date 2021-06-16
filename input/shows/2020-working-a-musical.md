@@ -79,6 +79,8 @@ In 2007-2008 additional interviews were conducted. Terkel described it as ‘the
 
 *Working* is a delightfully funny and thoroughly touching musical which explores what goes through the minds of everyday people - from construction workers and waitresses to firemen, secretaries and cleaning women. It showcases the individuals' occupations and also laments their lost hopes and dreams - taking the average worker's viewpoint and showing that he or she is anything but average.
 
+Due to the Covid-19 postponement, we are seeking two or three new cast members to play female-identifying roles. We’d love to see as many people at auditions as possible, please visit [our auditions page for more details](https://sedos.co.uk/events/working-auditions), and contact [working@sedos.co.uk](<>) if you have any questions.
+
 **WORKING: A MUSICAL**\
 Adapted by **NINA FASO** and **STEPHEN SCHWARTZ**\
 With additional contributions by **GORDON GREENBERG**
