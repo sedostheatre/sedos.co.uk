@@ -4,7 +4,7 @@ year: "2021"
 authors: By JEAN BETTS
 authors2: and WILLIAM SHAKESPEARE
 authors3: ""
-subtitle: A riotous reworking of Hamlet
+subtitle: A riotous reworking of Hamlet, where Ophelia gets all the best lines
 showtimes:
   - time: 2021-09-28 19:30
   - time: 2021-09-29 19:30
