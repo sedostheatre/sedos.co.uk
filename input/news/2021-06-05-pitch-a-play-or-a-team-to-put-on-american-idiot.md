@@ -1,9 +1,9 @@
 ---
 title: "Wanted: play pitches and a team for American Idiot"
-date: 2021-06-05
+date: 2021-06-16
 image: /assets/bridewelltheatre-800.jpg
 ---
-*XX MONTH 2021 - DATE OF GOING LIVE HERE IN ITALICS PLEASE*
+*16 June 2021*
 
 **In order to complete our 2022 season, [the management committee are seeking pitches](https://docs.google.com/document/d/1bbhThOKhturIFEobrTp9vBK1r2TMBs0MuZErDPAcObo/edit#) in two different areas.** 
 
