@@ -11,7 +11,7 @@ RedirectFrom:
             var upcomingShows = Outputs.FromPipeline("AllShows")
                     .Where(doc => doc.Get("showtimes", Enumerable.Empty<IDocument>()).Any(time => time.Get<DateTime>("time") > DateTime.Now))
                     .OrderBy(doc => doc.Get<IEnumerable<IDocument>>("showtimes").Select(time => time.Get<DateTime>("time")).First(time => time > DateTime.Now))
-                    .Take(3);
+                    .Take(4);
 
             var showOnHomePageShows = Outputs.FromPipeline("AllShows")
                     .Where(doc => !doc.Get("showtimes", Enumerable.Empty<IDocument>()).Any(time => time.Get<DateTime>("time") > DateTime.Now))
