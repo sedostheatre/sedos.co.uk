@@ -46,7 +46,7 @@ sections:
       That's it! We won't reply unless you ask us a specific question.
 
 
-      Please note: numbers will be restricted to make sure we get through all the extracts in time, so please register ASAP.
+      Please note: numbers will be restricted to make sure we get through all the extracts in time, so please register ASAP. Participants will be allocated on a first come first serve basis.
   - order: 2
     title: CHOOSE YOUR OWN... IMPROV!
     body: >-
@@ -101,4 +101,4 @@ You’ll find more information on the tabs above, but here’s a summary of what
 **FRIDAY 30 JULY** | *Choose Your Own... Improv* with Banana Hut Gang, 7.30pm\
 **SATURDAY 31 JULY** | TBA
 
-Tickets to laugh-a-long with the Banana Hut Gang are £8 full price and £6 for Sedos members and concessions. The Acting Group and *Choose Your Own... Improv* with Banana Hut Gang are free to watch, but you do need to register or book a ticket. The box office is open now.
+Tickets to laugh-a-long with *Choose Your Own... Improv* with Banana Hut Gang are £8 full price and £6 for Sedos members and concessions. The Acting Group and Piano Night Social are FREE, but please register or book a ticket.
