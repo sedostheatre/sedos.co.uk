@@ -60,7 +60,7 @@ sections:
       **PLAYER 4** | Stephen Cole
 
 
-      Ophelia will be holding auditions for the roles marked as TBC – visit [the audition page for more information](https://sedos.co.uk/events-ophelia-thinks-harder-auditions). \
+      Ophelia will be holding auditions for the roles marked as TBC – visit [the audition page for more information](https://sedos.co.uk/events/ophelia-thinks-harder-auditions). \
 
       \
 
