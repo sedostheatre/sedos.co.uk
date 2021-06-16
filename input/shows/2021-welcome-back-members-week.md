@@ -10,6 +10,7 @@ showtimes:
   - time: 2021-07-29 19:30
   - time: 2021-07-30 19:30
   - time: 2021-07-31 19:30
+showtime-summary: 26-31 JULY 2021
 venue: Bridewell Theatre
 ticket-prices: The Acting Group and Piano Night Social is FREE, but please
   register or book a ticket. Tickets to laugh-a-long with the Banana Hut Gang
