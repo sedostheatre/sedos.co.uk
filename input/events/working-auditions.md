@@ -3,7 +3,7 @@ title: Working auditions
 times:
   - time: 2021-07-11 12:00
   - time: 2021-07-12 19:00
-image: /assets/working-skyline.jpg
+image: /assets/workinglandscape.jpg
 venue: Brewers' Hall Garden, off Basinghall Street, London EC2V 5DX
 ---
 ***[Working](https://sedos.co.uk/shows/2020-working-a-musical)*** **was cast in January 2020 for a run later that year. Unfortunately when the show was rescheduled after the Covid-19 postponement, two of the actors were unable to join the cast, so we are now holding auditions – more details below or check out the [full audition notice here](https://docs.google.com/document/d/1pi_772eXt9joeRPk92OnFONF0QxetCdZrHZgR8E12kg/edit).**
