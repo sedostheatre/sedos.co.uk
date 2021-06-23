@@ -15,6 +15,6 @@ image: /assets/sedos-needs-you.jpg
 
 *[A Midsummer Night’s Dream](https://sedos.co.uk/shows/2022-a-midsummer-night-s-dream)*: interested to hear from **choreographers who have experience in commercial pop, and maybe voguing,** **assistant directors from the LGBT+ community** (no experience necessary). We are also building out the **technical creative team** (lighting, sound and staging). If you’re interested, please email [midsummer@sedos.co.uk](midsummer@sedos.co.uk)
 
-*[Carrie: The Musical](https://sedos.co.uk/shows/2022-carrie-the-musical)*: seeking a **musical director** – if you’re interested, please email [carrie@sedos.co.uk](mailto:carrie@sedos.co.uk)
+*[Carrie: The Musical](https://sedos.co.uk/shows/2022-carrie-the-musical)*: seeking a **musical director** – if you’re interested, please email [carrie@sedos.co.uk](mailto:carrie@sedos.co.uk) (update 23 June – the position of musical director on Carrie has now been filled)
 
 These shows and others in the 2021 and 2022 seasons will also need other helpers in due course. [Find out more about helping backstage with Sedos.](https://sedos.co.uk/backstage)
