@@ -10,7 +10,7 @@
     "stylelint-config-sass-guidelines": "8.0.0"
   },
   "dependencies": {
-    "bootstrap": "4.6.0",
+    "bootstrap": "5.0.2",
     "jquery": "3.6.0",
     "popper.js": "1.16.1"
   },
