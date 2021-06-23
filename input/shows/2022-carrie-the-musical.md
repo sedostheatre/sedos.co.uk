@@ -20,16 +20,12 @@ box-office-open: false
 sections:
   - order: 1
     title: CREATIVE TEAM
-    body: >-
+    body: |-
       **CREATIVE TEAM**
 
-
       **DIRECTOR** | Chris Adams\
-
+      **MUSICAL DIRECTOR** | Rob Archibald\
       **MOVEMENT DIRECTOR** | Paul Brookland Williams
-
-
-      The Carrie team is seeking a musical director! If you’d like to get involved, please email [carrie@sedos.co.uk](mailto:carrie@sedos.co.uk)
 ---
 > “If I could, I’d bring them all down to their knees!\
 > I’d make them sorry forever for teasing Carrie!”
