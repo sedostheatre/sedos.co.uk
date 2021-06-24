@@ -52,10 +52,13 @@ We look forward to seeing you online soon.
 
 ### [](https://sedos.co.uk/get-involved)Sedos Reads Shows
 
-[Handbagged: 26 November 2020](https://sedos.co.uk/events/sedos-reads-handbagged)\
-[A Christmas Carol: 10 December 2020](https://sedos.co.uk/events/sedos-reads-a-christmas-carol)\
-[The Critic: 18 February 2021 ](https://sedos.co.uk/events/sedos-reads-the-critic)\
-[The Lights o' London: 18 March 2021](https://sedos.co.uk/events/sedos-reads-the-lights-o-london)\
-[Great Catherine: 15 April 2021](https://sedos.co.uk/events/sedos-reads-great-catherine)
+*Much Ado About Nothing*: 8 October 2020
+[*Radium Girls*: 11 October 2020](https://sedos.co.uk/events/radium-girls)\
+[*The Miller and His Men*: 12 November 2020 ](https://sedos.co.uk/news/2020-11-05-the-miller-and-his-men-cast-announced)\
+[*Handbagged*: 26 November 2020](https://sedos.co.uk/events/sedos-reads-handbagged)\
+[*A Christmas Carol*: 10 December 2020](https://sedos.co.uk/events/sedos-reads-a-christmas-carol)\
+[*The Critic*: 18 February 2021 ](https://sedos.co.uk/events/sedos-reads-the-critic)\
+[*The Lights o' London*: 18 March 2021](https://sedos.co.uk/events/sedos-reads-the-lights-o-london)\
+[*Great Catherine*: 15 April 2021](https://sedos.co.uk/events/sedos-reads-great-catherine)
 
 Click the video tab at the top of the page and watch some of the shows again.
