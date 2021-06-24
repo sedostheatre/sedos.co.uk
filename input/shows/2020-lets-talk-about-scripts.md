@@ -33,8 +33,6 @@ sections:
 
       <div class="video-responsive"><?# YouTube HAh24fsYUo8 /?></div>
 ---
-### [VISIT OUR EVENTS PAGE TO DISCOVER OUR NEXT SHOW!](https://sedos.co.uk/get-involved)
-
 **Remember the feeling of getting a new script and devouring it to find out what it has in store? It's time to bring that back.**
 
 Yes, Sedos is excited to announce a series of online play readings, starting on 8 October 2020. While we can't quite start rehearsals in person yet, there's no reason why we can't have a bit of a read and a performance from our living rooms.
@@ -52,4 +50,15 @@ While we can't guarantee a role to everyone who applies, we will aim to be fair 
 
 We look forward to seeing you online soon.
 
-### [VISIT OUR EVENTS PAGE TO DISCOVER OUR NEXT SHOW!](https://sedos.co.uk/get-involved)
+### [](https://sedos.co.uk/get-involved)Sedos Reads Shows
+
+*Much Ado About Nothing*: 8 October 2020
+[*Radium Girls*: 11 October 2020](https://sedos.co.uk/events/radium-girls)\
+[*The Miller and His Men*: 12 November 2020 ](https://sedos.co.uk/news/2020-11-05-the-miller-and-his-men-cast-announced)\
+[*Handbagged*: 26 November 2020](https://sedos.co.uk/events/sedos-reads-handbagged)\
+[*A Christmas Carol*: 10 December 2020](https://sedos.co.uk/events/sedos-reads-a-christmas-carol)\
+[*The Critic*: 18 February 2021 ](https://sedos.co.uk/events/sedos-reads-the-critic)\
+[*The Lights o' London*: 18 March 2021](https://sedos.co.uk/events/sedos-reads-the-lights-o-london)\
+[*Great Catherine*: 15 April 2021](https://sedos.co.uk/events/sedos-reads-great-catherine)
+
+Click the video tab at the top of the page and watch some of the shows again.
