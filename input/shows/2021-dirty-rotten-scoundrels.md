@@ -46,11 +46,6 @@ sections:
 
 
       The *Dirty Rotten Scoundrels* team are looking for a stage manager. Please email [scoundrels@sedos.co.uk](mailto:scoundrels@sedos.co.uk) [](<>)if you would like to put yourself forward and have a chat about the show.
-  - order: 2
-    title: AUDITIONS
-    body: "*Dirty Rotten Scoudrels* is currently holding auditions. Find [how to
-      audition](https://docs.google.com/document/d/1V6QmXfkfOrVPqRh9ZqOy1c2zngU\
-      -diBXbV9FrQOZGUU/edit) here."
 ---
 **Based on the film of the same name, *Dirty Rotten Scoundrels* tells the story of two very different con men, the debonair Laurence Jameson and the vulgar Freddie Benson. The chalk and cheese con men know they can’t both work the same resort so they decide to make a bet.** 
 
