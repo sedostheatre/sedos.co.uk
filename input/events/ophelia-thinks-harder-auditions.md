@@ -46,4 +46,4 @@ You will then be sent a link by email to confirm the booking – your slot is no
 
 **Diversity and inclusion**
 
-Sedos seeks to build and sustain a membership that is reflective of the diverse communities within London. We actively encourage performers to audition for the roles which best suit their skills. In the instance where any roles require specific characteristics, we will be clear about this in audition notices. For all others, we are open to diverse casting and we are excited to see what you can bring to the role.
+Sedos seeks to build and sustain a membership that is reflective of the diverse communities within London. We actively encourage performers to audition for the roles which best suit their skills. Where any roles require specific characteristics, this is set out in the audition notice. For all other roles, we are open to and encourage diverse casting and we are excited to see what you can bring to the role.
