@@ -27,13 +27,17 @@ The trustees are elected by the members for three-year terms or co-opted in acco
 
 **Chair** | Dawn Harrison-Wallace\
 **Secretary** | Alex Baker\
-**Trustee with financial responsibility** | Craig Topp\
+**Trustee with financial responsibility** | Michael Smith\
 **ex officio, Chair of the management committee** | Matt Gould\
-Roger Harwood\
+Ella Benson Roberts\
+Jack Brown\
+Jessie Davidson\
 Sara Rajeswaran\
 Dan Saunders \
 Michael Smith\
-Robert J Stanex\
+Robert J Stanex
+
+
 \
 [Minutes of trustees’ meetings can be found here](https://www.dropbox.com/sh/pz59ex3iwl1dvtu/AABG_C87fxRnti2LwMAJe_gga?dl=0)
 
@@ -51,20 +55,20 @@ The management committee meets monthly.
 
 [Minutes of the management committee’s meetings can be found here.](https://www.dropbox.com/sh/4k5xzud0xtt4nkv/AABLzsgMFefnoHVIol9sXx74a?dl=0)
 
-### Members of the management committee (2020/2021) are:
+### Members of the management committee (2021/2022) are:
 
 **Chair** | Matt Gould \
 **Secretary** | Lizzie Levett \
 **Treasurer** | Henry Whittaker\
 **Marketing group** | Stephen Beeny \
-**Membership group** | Kim Barker \
-Adam Coppard\
+**Production group** | Adam Coppard\
 Peter Foster\
 Tim Garrad\
 Kate Gledhill\
 Steven King\
 Olly Levett \
-Mark Siddall
+Mark Siddall\
+Kish Soni
 
 ## Groups
 
