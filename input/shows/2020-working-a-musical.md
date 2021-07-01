@@ -4,7 +4,7 @@ year: "2021"
 authors: Adapted by NINA FASO and STEPHEN SCHWARTZ
 authors2: With additional contributions by GORDON GREENBERG
 authors3: From the book by STUDS TURKEL
-subtitle: A delightfully funny and thoroughly touching musical
+subtitle: A delightfully funny and touching musical
 showtimes:
   - time: 2021-10-26 19:30
   - time: 2021-10-27 19:30
@@ -16,7 +16,7 @@ showtime-summary: 26-30 OCTOBER 2021
 show-on-homepage: true
 order-on-homepage: 2
 venue: Bridewell Theatre
-ticket-prices: "£13.50-24 | Gala night: Friday 29 October - tickets include a
+ticket-prices: "From £13.50 | Gala night: Friday 29 October - tickets include a
   drink and programme"
 primary-color: "#fc8d00"
 header-image: /assets/workingsquare.jpg
