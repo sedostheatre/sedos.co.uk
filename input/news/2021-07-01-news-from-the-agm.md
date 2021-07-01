@@ -41,7 +41,7 @@ Trustees and members of the Management Committee have staggered terms so everyon
 
 Many thanks to those who stepped down from the Board of Trustees (Craig Topp, Roger Harwood and Melanie Johnson) and Management Committee (Kim Barker) at the AGM or earlier this year - your hard work is very much appreciated!
 
-Slides from the AGM can be found here {LINK TO SLIDES}, and you can find out [more information about how Sedos is run here](https://sedos.co.uk/about/how-we-operate).
+Slides from the AGM [can be found here](https://drive.google.com/file/d/1rIUzosugaYjIY3rSV59TNhXoRsysm1S8/view?usp=sharing) and you can find out [more information about how Sedos is run here](https://sedos.co.uk/about/how-we-operate).
 
 ^^^ ![](/assets/sedos-new-trustees-2021.jpg)
 ^^^ New trustees Ella Benson-Roberts, Jessie Davidson and Jack Brown
