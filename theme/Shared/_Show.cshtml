@@ -59,9 +59,17 @@
                             <h4>@Model["venue"]</h4>
                         }
                     }
-                }
-                <h4>@Model.Get("ticket-prices")</h4>
-                @{
+
+                    if (Model.ContainsKey("ticket-prices"))
+                    {
+                        <h4>@Model["ticket-prices"]</h4>
+                    }
+
+                    if (Model.ContainsKey("additional-ticket-info"))
+                    {
+                        <p>@Model["additional-ticket-info"]</p>
+                    }
+
                     var showDates = Model.Get("showtimes", Enumerable.Empty<IDocument>()).Select(x => x.Get<DateTime>("time")).OrderBy(x => x);
                     if (showDates.Any())
                     {

@@ -79,6 +79,10 @@ collections:
         name: ticket-prices
         widget: text
         required: false
+      - label: Additional Ticket Information
+        name: additional-ticket-info
+        widget: text
+        required: false
       - label: Primary colour (this gets used along side the header image)
         name: primary-color
         widget: string
