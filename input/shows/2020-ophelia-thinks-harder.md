@@ -16,6 +16,8 @@ showtime-summary: 28 SEPTEMBER-2 OCTOBER 2021
 show-on-homepage: true
 order-on-homepage: 1
 venue: Bridewell Theatre
+ticket-prices: From £10.50
+additional-ticket-info: "Gala night: Friday 1 October - tickets include a drink and programme"
 primary-color: "#b21b60"
 header-image: /assets/ophelia-thinks-harder-landscape.jpg
 flyer: /assets/ophelia-updated-poster-sb-lores-.jpg
