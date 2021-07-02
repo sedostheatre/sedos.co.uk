@@ -16,8 +16,8 @@ showtime-summary: 26-30 OCTOBER 2021
 show-on-homepage: true
 order-on-homepage: 2
 venue: Bridewell Theatre
-ticket-prices: "From £13.50 | Gala night: Friday 29 October - tickets include a
-  drink and programme"
+ticket-prices: "From £13.50"
+additional-ticket-info: "Gala night: Friday 29 October - tickets include a drink and programme"
 primary-color: "#fc8d00"
 header-image: /assets/workingsquare.jpg
 flyer: /assets/working-2021-flyer.jpg
