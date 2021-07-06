@@ -2,7 +2,8 @@
 title: Welcome Back Members’ Week
 year: "2021"
 subtitle: We’re hugely excited to launch our 2021 in-person activity with a
-  jam-packed Members’ Week
+  jam-packed Members’ Week featuring our Acting Group, Choose Your Own...Improv
+  and a Piano Night Social
 showtimes:
   - time: 2021-07-26 19:00
   - time: 2021-07-27 19:30
@@ -16,7 +17,7 @@ ticket-prices: The Acting Group and Piano Night Social is FREE, but please
   register or book a ticket. Tickets to laugh-a-long with the Banana Hut Gang
   are £8 full price and £6 for Sedos members and concessions.
 primary-color: "#fd7d0f"
-header-image: /assets/jigsaw-puzzles-821171_1280.jpg
+header-image: /assets/bananahutgang.jpg
 flyer: /assets/welcomebackmembersweek.jpg
 box-office-open: true
 sections:
