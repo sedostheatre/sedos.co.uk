@@ -1,6 +1,9 @@
 ---
 title: Welcome Back Members’ Week
 year: "2021"
+authors: "Acting Group: 26 July"
+authors2: "Choose Your Own... Improv: 27, 29 & 30 July"
+authors3: "Piano Night Social: 28 July"
 subtitle: We’re hugely excited to launch our 2021 in-person activity with a
   jam-packed Members’ Week featuring our Acting Group, Choose Your Own...Improv
   and a Piano Night Social
