@@ -89,6 +89,9 @@ sections:
       Alternatively, grab a drink and catch-up with friends while listening to some great music. It’s going to be a friendly, relaxed event and the perfect opportunity to get us back together again.
 
 
+      The *Piano Night Social* is free to attend, but please register on our box office so we know how many people to expect! 
+
+
       ^^^ ![](/assets/SedosWebsite-Banner-sechoir.jpg)
 
       ^^^
@@ -106,4 +109,6 @@ You’ll find more information on the tabs above, but here’s a summary of what
 **FRIDAY 30 JULY** | *Choose Your Own... Improv* with Banana Hut Gang, 7.30pm\
 **SATURDAY 31 JULY** | TBA
 
-Tickets to laugh-a-long with *Choose Your Own... Improv* with Banana Hut Gang are £8 full price and £6 for Sedos members and concessions. The Acting Group and Piano Night Social are FREE, but please register or book a ticket.
+**Tickets to laugh-a-long with *Choose Your Own... Improv* with Banana Hut Gang are £8 full price and £6 for Sedos members and concessions.** 
+
+**The Acting Group and Piano Night Social are FREE, but please register or book a ticket.**
