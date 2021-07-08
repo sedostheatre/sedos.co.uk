@@ -62,7 +62,7 @@ We look forward to seeing you all soon!
 **5-9 July 2022:** *[Love! Valour! Compassion!](https://sedos.co.uk/shows/2021-love-valour-compassion)*\
 **14-24 September 2022:** *[A Midsummer Night's Dream](https://sedos.co.uk/shows/2022-a-midsummer-night-s-dream)* \
 **25-29 October 2022:** *[Carrie: The Musical](https://sedos.co.uk/shows/2022-carrie-the-musical)*\
-**23 November-3 December 2022:** *[Amadeus](https://sedos.co.uk/shows/2022-amadeus)* (pending rights approval)
+**23 November-3 December 2022:** *[Amadeus](https://sedos.co.uk/shows/2022-amadeus)* (pending rights approval; update 8 July – rights approved)
 
 ^^^ ![](/assets/2021-22-seasonmontage-v2.jpg)
 ^^^
