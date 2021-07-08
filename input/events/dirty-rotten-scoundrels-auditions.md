@@ -21,9 +21,9 @@ Full details are in [the audition notice](https://docs.google.com/document/d/1V6
 
 **When and where are the auditions?**
 
-The first round auditions are remote, with auditionees sending in a self tape video of a comic musical theatre song of your choice (maximum two minutes). The deadline for these is 12 July at midday. Find out more about what to include in your video and how to submit it [here](https://docs.google.com/document/d/1V6QmXfkfOrVPqRh9ZqOy1c2zngU-diBXbV9FrQOZGUU/edit). 
+The first round auditions are remote, with auditionees sending in a self tape video of a comic musical theatre song of your choice (maximum two minutes). The deadline for these is 16 July at midday. Find out more about what to include in your video and how to submit it [here](https://docs.google.com/document/d/1V6QmXfkfOrVPqRh9ZqOy1c2zngU-diBXbV9FrQOZGUU/edit). 
 
-Recalls for named roles will be on 13 or 15 July and for the ensemble on 17 July. The recalls are at 1 Brewers' Hall Garden, EC2V 5BX
+Recalls will be on 25 July. The recalls are at 1 Brewers' Hall Garden, EC2V 5BX
 
 **Find out more**
 
