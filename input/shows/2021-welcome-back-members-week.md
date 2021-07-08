@@ -127,7 +127,7 @@ You’ll find more information on the tabs above, but here’s a summary of what
 **WEDNESDAY 28 JULY** | Piano Night Social, from 7.30pm\
 **THURSDAY 29 JULY** | *Choose Your Own... Improv* with Banana Hut Gang, 7.30pm\
 **FRIDAY 30 JULY** | *Choose Your Own... Improv* with Banana Hut Gang, 7.30pm\
-**SATURDAY 31 JULY** | TBA
+**SATURDAY 31 JULY** | Play in a Day: *The Corsican Brothers*
 
 **Tickets to laugh-a-long with *Choose Your Own... Improv* with Banana Hut Gang are £8 full price and £6 for Sedos members and concessions.** 
 
