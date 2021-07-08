@@ -31,6 +31,7 @@ sections:
       **DIRECTOR** | Matt Gould\
       **PRODUCER** | Pippa Kyle\
       **LIGHTING DESIGNER** | Olly Levett\
+      **SOUND DESIGNER** | Adrian Jeakins\
       **SET DESIGNER AND BUILDER** | Steven King\
       **COSTUMES, HAIR AND MAKE-UP** | Gill Daniell\
       **STAGE MANAGER** | Andrew Laidlaw\
