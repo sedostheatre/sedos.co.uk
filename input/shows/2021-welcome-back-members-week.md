@@ -107,7 +107,7 @@ sections:
       Audience watch this exciting and highly theatrical piece free at 7.30pm on Saturday 31st July for one night only at the Bridewell Theatre.
 
 
-      To be part of the cast of *The Corsican Brothers*, please contact director Peter Foster [via this form]([https://docs.google.com/forms/​d/e/1FAIpQLSdx7BSYbOqC-​nv7ICvOWiVMBo50mo1cR8xMOZc5Yd0​xQpSk_A/viewform](https://docs.google.com/forms/d/e/1FAIpQLSdx7BSYbOqC-nv7ICvOWiVMBo50mo1cR8xMOZc5Yd0xQpSk_A/viewform)) by 6.30pm next Saturday 17 July. You must be fully available at the Bridewell Theatre all day on Saturday 31 July. \
+      To be part of the cast of *The Corsican Brothers*, please contact director Peter Foster via [peter@sedos.co.uk](mailto:peter@sedos.co.uk) by 6.30pm next Saturday 17 July. You must be fully available at the Bridewell Theatre all day on Saturday 31 July. \
 
       \
 
