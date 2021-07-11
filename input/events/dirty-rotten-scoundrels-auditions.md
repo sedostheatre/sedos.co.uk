@@ -1,7 +1,7 @@
 ---
 title: Dirty Rotten Scoundrels auditions
 times:
-  - time: 2021-07-12 12:00
+  - time: 2021-07-16 12:00
 image: /assets/nice-2209823_1920.jpg
 venue: "First round: remote"
 ---
