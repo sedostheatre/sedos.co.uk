@@ -96,7 +96,7 @@ sections:
       ^^^ ![](/assets/SedosWebsite-Banner-sechoir.jpg)
 
       ^^^
-  - order: 2
+  - order: 4
     title: PLAY IN A DAY
     body: >-
       **SATURDAY 31 JULY | From 7.30pm**
