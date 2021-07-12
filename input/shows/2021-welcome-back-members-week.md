@@ -6,7 +6,8 @@ authors2: ""
 authors3: ""
 subtitle: We’re hugely excited to launch our 2021 in-person activity with a
   jam-packed Members’ Week featuring our Acting Group (26 July), Choose Your
-  Own...Improv (27, 29 & 30 July) and a Piano Night Social ( 28 July)
+  Own...Improv (27, 29 & 30 July) , a Piano Night Social ( 28 July) and Play in
+  a Day (31 July)
 showtimes:
   - time: 2021-07-26 19:00
   - time: 2021-07-27 19:30
@@ -16,9 +17,9 @@ showtimes:
   - time: 2021-07-31 19:30
 showtime-summary: 26-31 JULY 2021
 venue: Bridewell Theatre
-ticket-prices: The Acting Group and Piano Night Social is FREE, but please
-  register or book a ticket. Tickets to laugh-a-long with the Banana Hut Gang
-  are £8 full price and £6 for Sedos members and concessions.
+ticket-prices: The Acting Group, Play in a Day and Piano Night Social is FREE,
+  but please register or book a ticket. Tickets to laugh-a-long with the Banana
+  Hut Gang are £8 full price and £6 for Sedos members and concessions.
 primary-color: "#fd7d0f"
 header-image: /assets/bananahutgang.jpg
 flyer: /assets/welcomebackmembersweek.jpg
@@ -115,6 +116,11 @@ sections:
 
 
       The range of roles encompasses age and sex, and as with [Sedos Reads](https://sedos.co.uk/shows/2020-lets-talk-about-scripts), our online performance season during lockdown, casting is completely open to all. We are looking for a cast of up to 16. Casting is not by audition but you do need to apply!
+
+
+      ^^^ ![](/assets/corsican-brothers.jpg)
+
+      ^^^
 ---
 **It’s been a long 16 months since our last ‘live’ show at the Bridewell Theatre (The Musical of Musicals the Musical), and we’re hugely excited to launch our 2021 in-person activity with a jam-packed Members’ Week at the Bridewell Theatre from 26-31 July.** 
 
@@ -131,4 +137,4 @@ You’ll find more information on the tabs above, but here’s a summary of what
 
 **Tickets to laugh-a-long with *Choose Your Own... Improv* with Banana Hut Gang are £8 full price and £6 for Sedos members and concessions.** 
 
-**The Acting Group and Piano Night Social are FREE, but please register or book a ticket.**
+**The Acting Group, Play in a Day and Piano Night Social are FREE, but please register or book a ticket.**
