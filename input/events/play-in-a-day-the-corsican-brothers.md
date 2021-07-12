@@ -4,8 +4,10 @@ times:
   - time: 2021-07-31 19:30
 image: /assets/corsican-brothers.jpg
 venue: Bridewell Theatre
+recurrence: Saturday 31 July
 ---
-**SATURDAY 31 JULY | From 7.30pm**
+**SATURDAY 31 JULY | Rehearsals all day; performance 7.30pm**\
+**Part of the [Sedos Members' Week](https://sedos.co.uk/shows/2021-welcome-back-members-week)**
 
 **Join the fun this Members' Week as part of the cast in Dion Bouccicault's *The Corsican Brothers.* One of Queen Victoria's favourite plays, this action-packed ghost melodrama by the nineteenth century international star actor and playwright is based on the novel by Alexandre Dumas.** 
 
