@@ -16,6 +16,7 @@ showtimes:
   - time: 2021-07-30 19:30
   - time: 2021-07-31 19:30
 showtime-summary: 26-31 JULY 2021
+order-on-homepage: 1
 venue: Bridewell Theatre
 ticket-prices: The Acting Group, Piano Night Social and Play in a Day are FREE
   events, but please register or book a ticket. Tickets to laugh-a-long with the
