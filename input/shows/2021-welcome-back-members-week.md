@@ -17,7 +17,7 @@ showtimes:
   - time: 2021-07-31 19:30
 showtime-summary: 26-31 JULY 2021
 venue: Bridewell Theatre
-ticket-prices: The Acting Group, Play in a Day and Piano Night Social are FREE
+ticket-prices: The Acting Group, Piano Night Social and Play in a Day are FREE
   events, but please register or book a ticket. Tickets to laugh-a-long with the
   Banana Hut Gang are £8 full price and £6 for Sedos members and concessions.
 primary-color: "#fd7d0f"
@@ -157,4 +157,4 @@ You’ll find more information on the tabs above, but here’s a summary of what
 
 **Tickets to laugh-a-long with *Choose Your Own... Improv* with Banana Hut Gang are £8 full price and £6 for Sedos members and concessions. [Book now](https://sedos.ticketsolve.com/shows).** 
 
-**The Acting Group, Play in a Day and Piano Night Social are FREE, but please register or book a ticket via our [box office](https://sedos.ticketsolve.com/shows).**
+**The Acting Group, Piano Night Social and Play in a Day are FREE events, but please register or book a ticket via our [box office](https://sedos.ticketsolve.com/shows).**
