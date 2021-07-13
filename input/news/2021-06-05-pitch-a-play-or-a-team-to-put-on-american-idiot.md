@@ -1,7 +1,7 @@
 ---
 title: "Wanted: play pitches and a team for American Idiot"
 date: 2021-06-16
-image: /assets/bridewelltheatre-800.jpg
+image: /assets/pitch_question_curtain.jpg
 ---
 *16 June 2021*
 
@@ -20,3 +20,6 @@ The deadline for pitches is midnight on Sunday 25 July.
 If you have any questions, contact [pitches@sedos.co.uk](mailto:pitches@sedos.co.uk)
 
 [Full details on the 2022 pitch process](https://docs.google.com/document/d/1bbhThOKhturIFEobrTp9vBK1r2TMBs0MuZErDPAcObo/edit#)
+
+^^^ ![](/assets/pitch_question_curtain.jpg)
+^^^
