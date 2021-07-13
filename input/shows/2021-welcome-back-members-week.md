@@ -17,9 +17,9 @@ showtimes:
   - time: 2021-07-31 19:30
 showtime-summary: 26-31 JULY 2021
 venue: Bridewell Theatre
-ticket-prices: The Acting Group, Play in a Day and Piano Night Social is FREE,
-  but please register or book a ticket. Tickets to laugh-a-long with the Banana
-  Hut Gang are £8 full price and £6 for Sedos members and concessions.
+ticket-prices: The Acting Group, Play in a Day and Piano Night Social are FREE
+  events, but please register or book a ticket. Tickets to laugh-a-long with the
+  Banana Hut Gang are £8 full price and £6 for Sedos members and concessions.
 primary-color: "#fd7d0f"
 header-image: /assets/bananahutgang.jpg
 flyer: /assets/welcomebackmembersweek.jpg
