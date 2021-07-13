@@ -17,9 +17,9 @@ showtimes:
   - time: 2021-07-31 19:30
 showtime-summary: 26-31 JULY 2021
 venue: Bridewell Theatre
-ticket-prices: The Acting Group, Play in a Day and Piano Night Social is FREE,
-  but please register or book a ticket. Tickets to laugh-a-long with the Banana
-  Hut Gang are £8 full price and £6 for Sedos members and concessions.
+ticket-prices: The Acting Group, Piano Night Social and Play in a Day are FREE
+  events, but please register or book a ticket. Tickets to laugh-a-long with the
+  Banana Hut Gang are £8 full price and £6 for Sedos members and concessions.
 primary-color: "#fd7d0f"
 header-image: /assets/bananahutgang.jpg
 flyer: /assets/welcomebackmembersweek.jpg
@@ -142,7 +142,7 @@ sections:
 
       ^^^
 ---
-**It’s been a long 16 months since our last ‘live’ show at the Bridewell Theatre (The Musical of Musicals the Musical), and we’re hugely excited to launch our 2021 in-person activity with a jam-packed Members’ Week at the Bridewell Theatre from 26-31 July.** 
+**It’s been a long 16 months since our last ‘live’ show at the Bridewell Theatre (The Musical of Musicals the Musical), and we’re hugely excited to launch our 2021 in-person activity with a jam-packed Members’ Week at the Bridewell Theatre from 26-31 July.**
 
 It’s going to be a wonderful celebration of all our theatrical activities and we hope they’ll be something for everyone to get involved in, whether taking part or watching from the stalls.
 
@@ -157,4 +157,4 @@ You’ll find more information on the tabs above, but here’s a summary of what
 
 **Tickets to laugh-a-long with *Choose Your Own... Improv* with Banana Hut Gang are £8 full price and £6 for Sedos members and concessions. [Book now](https://sedos.ticketsolve.com/shows).** 
 
-**The Acting Group, Play in a Day and Piano Night Social are FREE, but please register or book a ticket via our [box office](https://sedos.ticketsolve.com/shows).**
+**The Acting Group, Piano Night Social and Play in a Day are FREE events, but please register or book a ticket via our [box office](https://sedos.ticketsolve.com/shows).**
