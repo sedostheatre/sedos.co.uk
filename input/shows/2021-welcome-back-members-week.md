@@ -142,7 +142,7 @@ sections:
 
       ^^^
 ---
-**It’s been a long 16 months since our last ‘live’ show at the Bridewell Theatre (The Musical of Musicals the Musical), and we’re hugely excited to launch our 2021 in-person activity with a jam-packed Members’ Week at the Bridewell Theatre from 26-31 July.** f
+**It’s been a long 16 months since our last ‘live’ show at the Bridewell Theatre (The Musical of Musicals the Musical), and we’re hugely excited to launch our 2021 in-person activity with a jam-packed Members’ Week at the Bridewell Theatre from 26-31 July.**
 
 It’s going to be a wonderful celebration of all our theatrical activities and we hope they’ll be something for everyone to get involved in, whether taking part or watching from the stalls.
 
