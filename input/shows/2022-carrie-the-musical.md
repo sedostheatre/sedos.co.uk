@@ -4,6 +4,8 @@ year: "2022"
 authors: Music by MICHAEL GORE | Lyrics by DEAN PITCHFORD
 authors2: Book by LAWRENCE D. COHEN | Based on the novel by STEPHEN KING
 authors3: ""
+subtitle: A cult musical based on Stephen King's bestselling novel and the
+  acclaimed movie
 showtimes:
   - time: 2022-10-25 19:30
   - time: 2022-10-26 19:30
