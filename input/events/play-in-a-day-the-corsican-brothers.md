@@ -25,6 +25,7 @@ The range of roles encompasses age and sex, and as with [Sedos Reads](https://se
 
 **KEY DATES:**
 
+**Deadline to sign-up:** Saturday 17 July\
 **Scripts given out**: Sunday 18 July\
 **Online readthrough:** One evening before the live reading\
 **Rehearsal:** Saturday 31 July (all day)\
