@@ -105,17 +105,37 @@ sections:
       **Join the fun this Members' Week as part of the cast in Dion Bouccicault's *The Corsican Brothers.* One of Queen Victoria's favourite plays, this action-packed ghost melodrama by the nineteenth century international star actor and playwright is based on the novel by Alexandre Dumas.** 
 
 
-      Audience watch this exciting and highly theatrical piece free at 7.30pm on Saturday 31st July for one night only at the Bridewell Theatre.
+      Audience watch this exciting and highly theatrical piece free at 7.30pm on Saturday 31st July for one night only at the Bridewell Theatre. It’s free for friends and family to attend, though audiences do need to register (coming soon).
 
 
-      To be part of the cast of *The Corsican Brothers*, please contact director Peter Foster via [peter@sedos.co.uk](mailto:peter@sedos.co.uk) by 6.30pm next Saturday 17 July. You must be fully available at the Bridewell Theatre all day on Saturday 31 July. \
+      **TAKE PART – NO AUDITION NECESSARY**
+
+
+      To be part of the cast of *The Corsican Brothers*, please contact director Peter Foster via [peter@sedos.co.uk](mailto:peter@sedos.co.uk) by **6.30pm on Saturday 17 July**. You must be fully available at the Bridewell Theatre all day on Saturday 31 July. \
 
       \
 
       Scripts (which you do not need to learn!) will be issued online to cast members on Sunday 18 July, and there will be an online meeting and read through prior to the live rehearsal and performance day. The play runs approximately one hour. 
 
 
-      The range of roles encompasses age and sex, and as with [Sedos Reads](https://sedos.co.uk/shows/2020-lets-talk-about-scripts), our online performance season during lockdown, casting is completely open to all. We are looking for a cast of up to 16. Casting is not by audition but you do need to apply!
+      The range of roles encompasses age and sex, and as with [Sedos Reads](https://sedos.co.uk/shows/2020-lets-talk-about-scripts), our online performance season during lockdown, casting is completely open to all.  *The Corsican Brothers* has a large cast - we are looking for a cast of up to 16 - and everyone who expresses an interest to take part will be cast. No audition is needed to take part and roles will be allocated after the deadline to sign-up has passed.
+
+
+      **[FIND OUT MORE IN OUR CASTING BREAKDOWN](https://docs.google.com/document/d/1_LKY7DB6vXslY6nIIAqYh_jakwoM6urFXhwFqmG9m2c/edit?usp=sharing)**
+
+
+      **KEY DATES:**
+
+
+      **Scripts given out**: Sunday 18 July\
+
+      **Online readthrough:** One evening before the live reading\
+
+      **Rehearsal:** Saturday 31 July (all day)\
+
+      **Performance:** Saturday 31 July at 7.30pm (show lasts 60 minutes). \
+
+      **Audience:** It’s free for friends to attend, though audiences do need to register (coming soon)
 
 
       ^^^ ![](/assets/corsican-brothers.jpg)
@@ -133,8 +153,8 @@ You’ll find more information on the tabs above, but here’s a summary of what
 **WEDNESDAY 28 JULY** | Piano Night Social, from 7.30pm\
 **THURSDAY 29 JULY** | *Choose Your Own... Improv* with Banana Hut Gang, 7.30pm\
 **FRIDAY 30 JULY** | *Choose Your Own... Improv* with Banana Hut Gang, 7.30pm\
-**SATURDAY 31 JULY** | Play in a Day: *The Corsican Brothers*
+**SATURDAY 31 JULY** | Play in a Day: *The Corsican Brothers,* rehearsals all day, public performance 7.30pm
 
-**Tickets to laugh-a-long with *Choose Your Own... Improv* with Banana Hut Gang are £8 full price and £6 for Sedos members and concessions.** 
+**Tickets to laugh-a-long with *Choose Your Own... Improv* with Banana Hut Gang are £8 full price and £6 for Sedos members and concessions. [Book now](https://sedos.ticketsolve.com/shows).** 
 
-**The Acting Group, Play in a Day and Piano Night Social are FREE, but please register or book a ticket.**
+**The Acting Group, Play in a Day and Piano Night Social are FREE, but please register or book a ticket via our [box office](https://sedos.ticketsolve.com/shows).**
