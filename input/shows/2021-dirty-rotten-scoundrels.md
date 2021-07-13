@@ -20,7 +20,7 @@ showtimes:
   - time: 2021-12-04 19:30
 showtime-summary: 24 NOVEMBER-4 DECEMBER 2021
 show-on-homepage: true
-order-on-homepage: 3
+order-on-homepage: 4
 venue: Bridewell Theatre
 ticket-prices: From £13.50
 additional-ticket-info: "Gala nights: Friday 26 November and Friday 3 December -
