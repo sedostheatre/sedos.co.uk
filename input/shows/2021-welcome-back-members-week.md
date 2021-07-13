@@ -128,7 +128,7 @@ sections:
       **KEY DATES:**
 
 
-      **Deadline to sign-up:** Saturday 17 18 July\
+      **Deadline to sign-up:** Saturday 17 July\
 
       **Scripts given out**: Sunday 18 July\
 
