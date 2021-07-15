@@ -26,51 +26,28 @@ ticketsolve-show-id: "1173600327"
 sections:
   - order: 1
     title: CAST & CREATIVE TEAM
-    body: >-
+    body: |-
       **CAST**
 
-
       Adrian Hau\
-
       Jack Brown\
-
       Kate Gledhill\
-
       Olga-Marie Platt\
-
       Sam Sugarman\
-
       Sanchez Simpson
 
-
-      Due to the Covid-19 postponement, we are seeking two or three new cast members to play female-identifying roles. We’d love to see as many people at auditions as possible, please visit [our auditions page for more details](https://sedos.co.uk/events/working-auditions), and contact [working@sedos.co.uk](<>) if you have any questions.\
-
-      \
-
       **CREATIVE TEAM**\
-
       \
-
       **DIRECTOR** | Jacob Hajjar\
-
       **ASSOCIATE DIRECTOR** | Dan Saunders\
-
       **MUSICAL DIRECTOR** | Will Gaines\
-
       **MOVEMENT DIRECTOR** | Tess Robinson\
-
       **PRODUCER** | Laura Ellis\
-
       **TECHNICAL PRODUCER** | Andrew Laidlaw\
-
       **STAGE MANAGER** | Shiri Stern\
-
       **MARKETING** | Pippa Kyle\
-
       **PHOTOGRAPHER** | Stephen Russell\
-
       **COMMITTEE LIAISON** | Stephen Beeny\
-
       **PITCH & ORIGINAL DIRECTOR** | Peter Shimmin
 RedirectFrom:
   - 2020/working.htm
