@@ -20,15 +20,15 @@ sections:
     body: |-
       **CAST**\
       **BERTHA** | Kimberly Barker\
-      **CSM RIVERS |** James Franey**\
-      EVA** |Lydia Johnson**\
-      MAY** | Deborah Lean**\
-      RALPH** | Adam Moulder**\
-      ANNIE** | Paula Mount**\
-      REGGIE** | Rosalia Myttas-Perris**\
-      SARAH** | Leila Ruban**\
-      TOM** | Robert J. Stanex**\
-      ARTHUR** | Mark Watson
+      **CSM RIVERS** | James Franey\
+      **EVA** |Lydia Johnson\
+      **MAY** | Deborah Lean\
+      **RALPH** | Adam Moulder\
+      **ANNIE** | Paula Mount\
+      **REGGIE** | Rosalia Myttas-Perris\
+      **SARAH** | Leila Ruban\
+      **TOM** | Robert J. Stanex\
+      **ARTHUR** | Mark Watson
 
       **CREATIVE TEAM**
 
