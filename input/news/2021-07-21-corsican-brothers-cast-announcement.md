@@ -1,5 +1,5 @@
 ---
-title: Corsican Brothers cast announcement!
+title: Corsican Brothers cast announced
 date: 2021-07-21
 image: /assets/corsican-brothers-poster.jpg
 ---
