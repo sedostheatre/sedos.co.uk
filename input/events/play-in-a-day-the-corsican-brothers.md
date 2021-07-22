@@ -17,7 +17,6 @@ It’s free for friends and family to attend, though audiences do need to regist
 
 **CAST LIST**
 
-**CLAIRE, EDSTASTON'S FIANCÉE** | Naomi Bowman\
 **FABIEN and LOUIS DEI FRANCHI** | Paul Matania\
 **M. DE CHATEAU RENAUD** | Peter Cabrera\
 **MME. EMILE DE L'ESPARRE** | Emma McAllister\
