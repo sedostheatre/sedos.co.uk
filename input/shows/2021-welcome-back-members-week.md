@@ -115,8 +115,6 @@ sections:
       **CAST LIST**
 
 
-      **CLAIRE, EDSTASTON'S FIANCÉE** | Naomi Bowman\
-
       **FABIEN and LOUIS DEI FRANCHI** | Paul Matania\
 
       **M. DE CHATEAU RENAUD** | Peter Cabrera\
