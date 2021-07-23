@@ -19,7 +19,7 @@ RedirectFrom:
                     .OrderBy(doc => doc.Get("order-on-homepage", 1))
                     .Take(3);
 
-            var showsToDisplay = showOnHomePageShows.Concat(upcomingShows);
+            var showsToDisplay = upcomingShows.Concat(showOnHomePageShows);
 
             if (showsToDisplay.Count() > 1)
             {
