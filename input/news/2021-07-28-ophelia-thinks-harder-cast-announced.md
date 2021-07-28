@@ -5,7 +5,7 @@ image: /assets/ophelia-thinks-harder-landscape.jpg
 ---
 *28 July 2021*
 
-**We’ve thrilled to announce the cast of *Ophelia Thinks Harder*, our first full production at the Bridewell Theatre for 18 months!** 
+**We’ve thrilled to announce the new cast of *Ophelia Thinks Harder*, our first full production at the Bridewell Theatre for 18 months!** 
 
 The show, a riotous reworking of Shakespeare's *Hamlet* from a feminist perspective, was supposed to be performed back in April 2020, but world events got in the way and the show was postponed, until now. 
 
