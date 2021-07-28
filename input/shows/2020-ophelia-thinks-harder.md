@@ -25,56 +25,31 @@ box-office-open: true
 ticketsolve-show-id: "1173600323"
 sections:
   - title: CAST & CREATIVE TEAM
-    body: >-
+    body: |-
       **CAST**
 
-
       **OPHELIA** | Natalie Harding-Moore\
-
-      **MAID** | TBC\
-
+      **MAID** | Heather Daniel\
       **QUEEN** | Danielle Capretti\
-
-      **ROSENCRANTZ** | TBC\
-
-      **GUILDENSTERN** | TBC\
-
-      **ST JOAN/WOMAN 3** | TBC\
-
+      **ROSENCRANTZ** | Emily Bates\
+      **GUILDENSTERN** | Josie Teale\
+      **ST JOAN/WOMAN 3** | Freya Thomas\
       **OPHELIA’S MOTHER / QUEEN’S MAID** | Aileen Ryan\
-
-      **WOMAN 2 / QUEEN’S MAID** | TBC\
-
+      **WOMAN 2 / QUEEN’S MAID** | Emily Tidey\
       **HAMLET** | Josh Beckman\
-
-      **HORATIO** |  Rhydian Harris\
-
+      **HORATIO** | Rhydian Harris\
       **POLONIUS** | David Pearson\
-
-      **LAERTES** | TBC\
-
-      **PLAYER 1** |  TBC\
-
-      **PLAYER 2** |  TBC\
-
+      **LAERTES** | Lewis McKenzie\
+      **PLAYER 1** | Paul Winterford\
+      **PLAYER 2** | Rhian Lewis\
       **PLAYER 3 / WOMAN 1** | Mackenzie Sumner\
-
-      **PLAYER 4** | Stephen Cole
-
-
-      Ophelia will be holding auditions for the roles marked as TBC – visit [the audition page for more information](https://sedos.co.uk/events/ophelia-thinks-harder-auditions). \
-
+      **PLAYER 4** | Stephen Cole\
       \
-
       **CREATIVE TEAM**
 
-
       **DIRECTOR** | Matt Bentley\
-
       **PRODUCER** | Olly Levett\
-
       **DESIGNER** | Yvette Henderson\
-
       **LIGHTING DESIGN** | Adam Coppard
     order: 1
 RedirectFrom:
@@ -89,5 +64,3 @@ The Prince is a hazard and the new King’s a puppet. Who the hell is running De
 With guerilla feminists invading the castle, failed spells from a frustrated maid, endless direction from a wily Queen and various ignored ghosts, this is not the Hamlet you know.
 
 *Ophelia Thinks Harder* is a heightened, confused and darkly-funny world, where Shakespeare meets feminism. And this time Ophelia gets all the best lines.
-
-Due to the Covid-19 postponement, we are holding auditions for the various roles in the play and we’d love to see as many people at auditions as possible,. Please visit [the audition page for more information](https://sedos.co.uk/events/ophelia-thinks-harder-auditions).
