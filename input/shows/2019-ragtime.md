@@ -122,7 +122,7 @@ sections:
       Victoria Louise-Currie and Rachel Elfassy-Bitoun is nicely differentiated
       for the various groups and makes good use of the multi-layered set.
 
-      ><footer><cite><a target="_blank" href="http://www.sardinesmagazine.co.uk/reviews/review.php?REVIEW-Sedos-Ragtime&reviewsID=3775">Ragtime, 2019, Sardines</a></cite></footer>
+      ><footer><cite><a target="_blank" href="https://www.sardinesmagazine.co.uk/review/ragtime/">Ragtime, 2019, Sardines</a></cite></footer>
 
 
       >This is a truly outstanding production, lively, slick and colourful. Although Sedos describes itself as “amateur” there’s little doubt that their attitude to every production is totally professional. 

@@ -109,7 +109,7 @@ sections:
 
       >For my money the show is good enough to transfer West, half a mile up the road. Certainly, many of the cast could have a second string to their bows in the commercial theatre any time they wanted.
 
-      ><footer><cite><a target="_blank" href='http://www.sardinesmagazine.co.uk/reviews/review.php?REVIEW-Sedos-Pippin-&reviewsID=3204'>Pippin, 2018, Sardines (*****)</a></cite></footer>
+      ><footer><cite><a target="_blank" href='https://www.sardinesmagazine.co.uk/review/pippin/'>Pippin, 2018, Sardines (*****)</a></cite></footer>
 
 
       >Pippin is a triumph… highly recommended.

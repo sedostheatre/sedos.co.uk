@@ -74,7 +74,7 @@ sections:
       jolly good evening’s entertainment, then. All credit to this production
       and all who sail in her.
 
-      ><footer><cite><a target="_blank" href="http://www.sardinesmagazine.co.uk/reviews/review.php?REVIEW-Sedos-Candide&reviewsID=2644">Candide, 2016, Sardines</a></cite></footer>
+      ><footer><cite><a target="_blank" href="https://www.sardinesmagazine.co.uk/review/candide/">Candide, 2016, Sardines</a></cite></footer>
 
 
       >Sedos delivered the production in a classy manner with an incredibly strong cast in everything from their characterisation to music and a strong visual feast for the eyes.

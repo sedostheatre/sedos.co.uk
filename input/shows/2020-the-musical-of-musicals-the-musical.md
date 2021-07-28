@@ -64,7 +64,7 @@ sections:
       to forget about storms, elections and coronavirus and just lose yourselves
       in the magic of the musicals on a wintery February evening.
 
-      ><footer><cite><a target="_blank" href="http://www.sardinesmagazine.co.uk/reviews/review.php?REVIEW-Sedos-Musical%20of%20Musicals%20(the%20musical!)&reviewsID=3879">The Musical of Musicals (The Musical!), 2019, Sardines</a></cite></footer>
+      ><footer><cite><a target="_blank" href="https://www.sardinesmagazine.co.uk/review/musical-of-musicals-the-musical/">The Musical of Musicals (The Musical!), 2019, Sardines</a></cite></footer>
 
 
       >Daniel Saunders’ Jitter goes from a cross between Sweeney Todd of the Stephen Sondheim musical of the same name and George from Sunday in the Park with George to the title character in The Phantom of the Opera. His isn’t the only one displaying versatility – Laura Ellis’ June channels her inner Eva Perón in such a way that nobody would be crying for her, whether from Argentina or otherwise. Joseph Dickens’ Billy, meanwhile, is as comfortable as a cowboy as he is as Evita’s Che. Completing the cast are ensemble members Lucy Spreckley and Alex Yelland, who are both superb.

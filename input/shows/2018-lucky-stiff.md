@@ -68,7 +68,7 @@ sections:
 
       >This show was directed with “big show values” – it had colour, glamour, a powerful orchestra, very clever set design and beautifully contrasting performances.
 
-      ><footer><cite><a target="_blank" href='http://www.sardinesmagazine.co.uk/reviews/review.php?REVIEW-Sedos-Lucky%20Stiff%20-%20%E2%98%85%E2%98%85%E2%98%85%E2%98%85&reviewsID=3327'>Lucky Stiff, 2018, Sardines (****)</a></cite></footer>
+      ><footer><cite><a target="_blank" href='https://www.sardinesmagazine.co.uk/review/lucky-stiff/'>Lucky Stiff, 2018, Sardines (****)</a></cite></footer>
     order: 1
 RedirectFrom:
   - 2018/luckystiff.htm

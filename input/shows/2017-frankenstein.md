@@ -88,7 +88,7 @@ sections:
       >Watching [Jonathon] Cooper’s character progression and journey throughout
       the whole show was, I felt, a master class in acting.
 
-      ><footer><cite><a target="_blank" href="http://www.sardinesmagazine.co.uk/reviews/review.php?REVIEW-Sedos-Frankenstein&reviewsID=3004">Frankenstein, 2017, Sardines</a></cite></footer>
+      ><footer><cite><a target="_blank" href="https://www.sardinesmagazine.co.uk/review/frankenstein-2/">Frankenstein, 2017, Sardines</a></cite></footer>
 
 
       >What is immediately apparent is that the ‘stars’ of this show are the designers.

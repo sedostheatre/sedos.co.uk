@@ -55,7 +55,7 @@ sections:
       >Overall, this is an entertaining and thought-provoking revival that does
       justice to Rattigan’s neglected work.
 
-      ><footer><cite><a target="_blank" href="http://www.sardinesmagazine.co.uk/reviews/review.php?REVIEW-Sedos-After%20the%20Dance&reviewsID=3542">After the Dance, 2019, Sardines</a></cite></footer>
+      ><footer><cite><a target="_blank" href="https://www.sardinesmagazine.co.uk/review/after-the-dance/">After the Dance, 2019, Sardines</a></cite></footer>
 
 
       >The production, typical of Sedos, is more professional than their amateur dramatics moniker might imply, and is certainly one to consider if you’re a nearby City worker keen to take in some fringe theatre that certainly punches above its weight.
