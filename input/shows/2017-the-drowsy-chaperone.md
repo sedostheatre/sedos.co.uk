@@ -80,7 +80,7 @@ sections:
       >This is a brilliant, brilliant show that has always deserved to be seen.
       In the case of this production, more so than ever.
 
-      ><footer><cite><a target="_blank" href='http://www.sardinesmagazine.co.uk/reviews/review.php?REVIEW-Sedos-The%20Drowsy%20Chaperone&reviewsID=2838'>The Drowsy Chaperone, 2017, Sardines</a></cite></footer>
+      ><footer><cite><a target="_blank" href='https://www.sardinesmagazine.co.uk/review/the-drowsy-chaperone-3/'>The Drowsy Chaperone, 2017, Sardines</a></cite></footer>
 
 
       >The Drowsy Chaperone may be categorised as an amateur level production, but it didn’t show. The quality of this production was fantastic and truly entertaining.

@@ -76,7 +76,7 @@ sections:
 
       >I think this production of Our Country’s Good is the best non-professional 'straight' play (musicals are a different animal) I have ever seen. Of course that’s partly down to the strength of Wertenbaker’s timeless, topical, funny, poignant, horrifying text. But it’s also a huge credit to the talented Sedos cast and their director, Chloe Robertson.
 
-      ><footer><cite><a target="_blank" href='http://www.sardinesmagazine.co.uk/reviews/review.php?REVIEW-Sedos-Our+Countrys+Good&reviewsID=3362'>Our Country’s Good, 2018, Sardines</a></cite></footer>
+      ><footer><cite><a target="_blank" href='https://www.sardinesmagazine.co.uk/review/our-countrys-good-2/'>Our Country’s Good, 2018, Sardines</a></cite></footer>
 
 
       >It’s easy to forget that Sedos are an amateur company – their production values and talented casts are always of such a high standard. Sedos’s production of Our Country’s Good, 30 years on from it’s Royal Court premiere, is another stunning success.

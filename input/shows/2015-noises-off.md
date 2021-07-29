@@ -77,7 +77,7 @@ sections:
       London this coming week for one of the funniest evenings in theatre you’re
       ever likely to experience.
 
-      ><footer><cite><a target="_blank" href="http://www.sardinesmagazine.co.uk/reviews/review.php?REVIEW-Sedos-Noises%20Off&reviewsID=1590">Noises Off, 2015, Sardines</a></cite></footer>
+      ><footer><cite><a target="_blank" href="https://www.sardinesmagazine.co.uk/review/noises-off-3/">Noises Off, 2015, Sardines</a></cite></footer>
 RedirectFrom:
   - 2015/noisesoff.htm
 ---

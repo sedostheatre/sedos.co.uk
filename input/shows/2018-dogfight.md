@@ -67,7 +67,7 @@ sections:
 
       >Sedos are to be commended for giving us the chance to see such a good production of Dogfight The Musical. Catch it if you can!
 
-      ><footer><cite><a target="_blank" href="http://www.sardinesmagazine.co.uk/reviews/review.php?REVIEW-Sedos-Dogfight%20The%20Musical&reviewsID=3126">Dogfight, 2018, Sardines</a></cite></footer>
+      ><footer><cite><a target="_blank" href="https://www.sardinesmagazine.co.uk/review/dogfight-the-musical/">Dogfight, 2018, Sardines</a></cite></footer>
   - order: 2
     title: GALLERY
     body: <a data-flickr-embed="true"

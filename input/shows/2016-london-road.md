@@ -81,7 +81,7 @@ sections:
 
       >I’m fast running out of superlatives when discussing the ongoing virtuosity of Sedos.... A sublime piece of theatre.
 
-      ><footer><cite><a target="_blank" href="http://www.sardinesmagazine.co.uk/reviews/review.php?REVIEW-Sedos-London%20Road&reviewsID=2510">London Road, 2016, Sardines Magazine</a></cite></footer>
+      ><footer><cite><a target="_blank" href="https://www.sardinesmagazine.co.uk/review/london-road/">London Road, 2016, Sardines Magazine</a></cite></footer>
 
 
       >A very stylish and smart production of an intriguing gem of a musical... [Sedos] creates something that is touching, funny, uncomfortable and thought-provoking.

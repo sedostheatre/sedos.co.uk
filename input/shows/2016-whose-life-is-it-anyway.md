@@ -48,7 +48,7 @@ sections:
       entertaining piece of theatre about a highly sensitive and controversial
       subject.
 
-      ><footer><cite><a target="_blank" href="http://www.sardinesmagazine.co.uk/reviews/review.php?REVIEW-Sedos-Whose%20Life%20is%20it%20Anyway?&reviewsID=2450">Whose Life Is It Anyway?, 2016, Sardines</a></cite></footer>
+      ><footer><cite><a target="_blank" href="https://www.sardinesmagazine.co.uk/review/whose-life-is-it-anyway/">Whose Life Is It Anyway?, 2016, Sardines</a></cite></footer>
   - order: 3
     title: GALLERY
     body: <a data-flickr-embed="true"

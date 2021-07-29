@@ -108,7 +108,7 @@ sections:
       fitting return to London and is probably as close to earning a
       ‘professional’ tag as you can get.
 
-      ><footer><cite><a target="_blank" href="http://www.sardinesmagazine.co.uk/reviews/review.php?REVIEW-Sedos-How%20To%20Succeed%20In%20Business%20Without%20Really%20Trying&reviewsID=3578">How to Succeed in Business Without Really Trying, 2019, Sardines</a></cite></footer>
+      ><footer><cite><a target="_blank" href="https://www.sardinesmagazine.co.uk/review/how-to-succeed-in-business-without-really-trying/">How to Succeed in Business Without Really Trying, 2019, Sardines</a></cite></footer>
 
 
       >A magnificent cast make nonsense of their amateur status performing with charm and humour. A basic but still adequate set is the only sign of Sedos’ amdram status. Even so, I’ve never seen such rapid set changes with props moved into place so quickly you wouldn’t have noticed them. This is a production that could easily be dropped into the West End without any noticeable difference; a thoroughly professional production that ticked all the right boxes.

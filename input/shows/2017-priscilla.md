@@ -90,7 +90,7 @@ sections:
       glittery or explosive as a big-budget West End version but it's just as
       fabulous.
 
-      ><footer><cite><a target="_blank" href="http://www.sardinesmagazine.co.uk/reviews/review.php?REVIEW-SEDOS-Priscilla%20Queen%20of%20the%20Desert%20-%20the%20Musical&reviewsID=3051t">Priscilla Queen of the Desert, 2017, Sardines</a></cite></footer>
+      ><footer><cite><a target="_blank" href="https://www.sardinesmagazine.co.uk/review/priscilla-queen-of-the-desert-the-musical/">Priscilla Queen of the Desert, 2017, Sardines</a></cite></footer>
 
 
       >Overall, then I guess it’s pretty obvious I enjoyed Priscilla Queen of the Desert. Sedos have put together and delivered a first-rate show that is fun with a capital ‘F’ and entertaining with a capital ‘E’ from start to finish.

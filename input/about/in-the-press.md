@@ -16,7 +16,7 @@ RedirectFrom:
 ^^^ The Musical of Musicals (The Musical!)
 
 >On any level Sedos production of *The Musical of Musicals, The Musical* at the Bridewell, is a fantastic night out, whether you are a musical aficionado or just someone looking for an evening’s entertainment… Ultimately the strength of this show lies with the six cast members. Emma J Leaver, the director, has found performers with confidence in their own versatility, who really throw themselves into the range of styles and characterisation needed to play all these parts… This show is a great way to forget about storms, elections and coronavirus and just lose yourselves in the magic of the musicals on a wintery February evening.
-><footer><cite><a target="_blank" href="http://www.sardinesmagazine.co.uk/reviews/review.php?REVIEW-Sedos-Musical%20of%20Musicals%20(the%20musical!)&reviewsID=3879">The Musical of Musicals (The Musical!), 2020, Sardines</a></cite></footer>
+><footer><cite><a target="_blank" href="https://www.sardinesmagazine.co.uk/review/musical-of-musicals-the-musical/">The Musical of Musicals (The Musical!), 2020, Sardines</a></cite></footer>
 
 >Daniel Saunders’ Jitter goes from a cross between Sweeney Todd of the Stephen Sondheim musical of the same name and George from *Sunday in the Park with George* to the title character in *The Phantom of the Opera*. His isn’t the only one displaying versatility – Laura Ellis’ June channels her inner Eva Perón in such a way that nobody would be crying for her, whether from Argentina or otherwise. Joseph Dickens’ Billy, meanwhile, is as comfortable as a cowboy as he is as *Evita*’s Che. Completing the cast are ensemble members Lucy Spreckley and Alex Yelland, who are both superb.
 ><footer><cite><a target="_blank" href="https://www.londontheatre1.com/reviews/musical/the-musical-of-musicals-the-musical-at-the-bridewell-theatre-review/">The Musical of Musicals (The Musical!), 2020, London Theatre 1 (****)</a></cite></footer>
@@ -35,7 +35,7 @@ RedirectFrom:
 ^^^ Ragtime
 
 >Many groups would not be able to cast this show, let alone put it on stage, but Sedos can do so and with verve and invention in Matt Gould’s pacy and intelligent production, managing his cast of 32 well and ensuring that the complex storyline is at all times as clear as possible. MD Ryan Macaulay conducts an 18-piece orchestra and it is a delight to hear this score played so well and in these orchestrations. Choreography from Victoria Louise-Currie and Rachel Elfassy-Bitoun is nicely differentiated for the various groups and makes good use of the multi-layered set.
-><footer><cite><a target="_blank" href="http://www.sardinesmagazine.co.uk/reviews/review.php?REVIEW-Sedos-Ragtime&reviewsID=3775">Ragtime, 2019, Sardines</a></cite></footer>
+><footer><cite><a target="_blank" href="https://www.sardinesmagazine.co.uk/review/ragtime/">Ragtime, 2019, Sardines</a></cite></footer>
 
 >This is a truly outstanding production, lively, slick and colourful. Although Sedos describes itself as “amateur” there’s little doubt that their attitude to every production is totally professional.
 ><footer><cite><a target="_blank" href="https://hubpages.com/entertainment/Ragtime-a-Sedos-Production-at-the-Bridewell-Theatre-London">Ragtime, 2019, Hub Pages</a></cite></footer>
@@ -90,7 +90,7 @@ RedirectFrom:
 ## *How to Succeed in Business Without Really Trying*
 
 >Quite simply, the show is wonderful and should serve as a shining beacon throughout across the entire non-professional sector. Whether you see the same show produced at at the Union Theatre, Young Vic, Charing Cross Theatre, Jermyn Street Theatre or any other professional off-West End/Fringe venue, it will not get any better than this. Amateur groups around the capital pay attention; this is how to put on a musical! This fifty-eight-year-old show (which also played the West End in 1963) makes a fitting return to London and is probably as close to earning a ‘professional’ tag as you can get.
-><footer><cite><a target="_blank" href="http://www.sardinesmagazine.co.uk/reviews/review.php?REVIEW-Sedos-How%20To%20Succeed%20In%20Business%20Without%20Really%20Trying&reviewsID=3578">How to Succeed in Business Without Really Trying, 2019, Sardines (*****)</a></cite></footer>
+><footer><cite><a target="_blank" href="https://www.sardinesmagazine.co.uk/review/how-to-succeed-in-business-without-really-trying/">How to Succeed in Business Without Really Trying, 2019, Sardines (*****)</a></cite></footer>
 
 >A magnificent cast make nonsense of their amateur status performing with charm and humour. A basic but still adequate set is the only sign of Sedos’ amdram status. Even so, I’ve never seen such rapid set changes with props moved into place so quickly you wouldn’t have noticed them. This is a production that could easily be dropped into the West End without any noticeable difference; a thoroughly professional production that ticked all the right boxes.
 ><footer><cite><a target="_blank" href="http://everything-theatre.co.uk/2019/05/how-to-succeed-in-business-without-really-trying-bridewell-theatre-review.html">How to Succeed in Business Without Really Trying, 2019, Everything Theatre (****)</a></cite></footer>
@@ -104,7 +104,7 @@ RedirectFrom:
 ## *After the Dance*
 
 >Overall, this is an entertaining and thought-provoking revival that does justice to Rattigan’s neglected work.
-><footer><cite><a target="_blank" href="http://www.sardinesmagazine.co.uk/reviews/review.php?REVIEW-Sedos-After%20the%20Dance&reviewsID=3542">After the Dance, 2019, Sardines</a></cite></footer>
+><footer><cite><a target="_blank" href="https://www.sardinesmagazine.co.uk/review/after-the-dance/">After the Dance, 2019, Sardines</a></cite></footer>
 
 >The production, typical of Sedos, is more professional than their amateur dramatics moniker might imply, and is certainly one to consider if you’re a nearby City worker keen to take in some fringe theatre that certainly punches above its weight.
 ><footer><cite><a target="_blank" href="http://everything-theatre.co.uk/2019/04/after-the-dance-review.html">After the Dance, 2019, Everything Theatre</a></cite></footer>
@@ -126,7 +126,7 @@ RedirectFrom:
 ## *Baal*
 
 >I can think of few amateur companies who would, or could, take on the challenge of Brecht’s first play but ever-versatile, adventurous Sedos have staged it with confidence, verve and a lot of talent.
-><footer><cite><a target="_blank" href="http://www.sardinesmagazine.co.uk/reviews/review.php?REVIEW-Sedos-Baal-&reviewsID=3458">Baal, 2019, Sardines</a></cite></footer>
+><footer><cite><a target="_blank" href="https://www.sardinesmagazine.co.uk/review/baal/">Baal, 2019, Sardines</a></cite></footer>
 
 # **2018**
 
@@ -147,7 +147,7 @@ RedirectFrom:
 ><footer><cite><a target="_blank" href="https://www.londontheatre1.com/reviews/review-of-dogfight-the-musical-at-the-bridewell-theatre/">Dogfight, 2018, London Theatre1</a></cite></footer>
 
 >Sedos are to be commended for giving us the chance to see such a good production of Dogfight The Musical. Catch it if you can!
-><footer><cite><a target="_blank" href="http://www.sardinesmagazine.co.uk/reviews/review.php?REVIEW-Sedos-Dogfight%20The%20Musical&reviewsID=3126">Dogfight, 2018, Sardines</a></cite></footer>
+><footer><cite><a target="_blank" href="https://www.sardinesmagazine.co.uk/review/dogfight-the-musical/">Dogfight, 2018, Sardines</a></cite></footer>
 
 ## *Pippin*
 
@@ -161,7 +161,7 @@ RedirectFrom:
 ><footer><cite><a target="_blank" href="https://www.londontheatre1.com/reviews/review-pippin-returns-the-bridewell-theatre-london/">Pippin, 2018, London Theatre 1 (*****)</a></cite></footer>
 
 >For my money the show is good enough to transfer West, half a mile up the road. Certainly, many of the cast could have a second string to their bows in the commercial theatre any time they wanted.
-><footer><cite><a target="_blank" href="http://www.sardinesmagazine.co.uk/reviews/review.php?REVIEW-Sedos-Pippin-&reviewsID=3204">Pippin, 2018, Sardines (*****)</a></cite></footer>
+><footer><cite><a target="_blank" href="https://www.sardinesmagazine.co.uk/review/pippin/">Pippin, 2018, Sardines (*****)</a></cite></footer>
 
 >Pippin is a triumph… highly recommended.
 ><footer><cite><a target="_blank" href="https://www.the730review.co.uk/2018/05/11/pippin-sedos-review/">Pippin, 2018, The 730 Review (****)</a></cite></footer>
@@ -200,7 +200,7 @@ RedirectFrom:
 ><footer><cite><a target="_blank" href="http://musicaltheatremusings.co.uk/lucky-stiff">Lucky Stiff, 2018, Musical Theatre Musings</a></cite></footer>
 
 >This show was directed with “big show values” – it had colour, glamour, a powerful orchestra, very clever set design and beautifully contrasting performances.
-><footer><cite><a target="_blank" href="http://www.sardinesmagazine.co.uk/reviews/review.php?REVIEW-Sedos-Lucky%20Stiff%20-%20★★★★&reviewsID=3327">Lucky Stiff, 2018, Sardines (****)</a></cite></footer>
+><footer><cite><a target="_blank" href="https://www.sardinesmagazine.co.uk/review/lucky-stiff/">Lucky Stiff, 2018, Sardines (****)</a></cite></footer>
 
 ## *Our Country's Good*
 
@@ -208,7 +208,7 @@ RedirectFrom:
 ><footer><cite><a target="_blank" href="https://www.remotegoat.com/uk/review/14089/strong-production-of-modern-classic/">Our Country’s Good, 2018, Remote Goat</a></cite></footer>
 
 >I think this production of Our Country’s Good is the best non-professional 'straight' play (musicals are a different animal) I have ever seen. Of course that’s partly down to the strength of Wertenbaker’s timeless, topical, funny, poignant, horrifying text. But it’s also a huge credit to the talented Sedos cast and their director, Chloe Robertson.
-><footer><cite><a target="_blank" href="http://www.sardinesmagazine.co.uk/reviews/review.php?REVIEW-Sedos-Our+Countrys+Good&reviewsID=3362">Our Country’s Good, 2018, Sardines</a></cite></footer>
+><footer><cite><a target="_blank" href="https://www.sardinesmagazine.co.uk/review/our-countrys-good-2/">Our Country’s Good, 2018, Sardines</a></cite></footer>
 
 >It’s easy to forget that Sedos are an amateur company – their production values and talented casts are always of such a high standard. Sedos’s production of Our Country’s Good, 30 years on from it’s Royal Court premiere, is another stunning success.
 ><footer><cite><a target="_blank" href="http://fairypoweredproductions.com/our-countrys-good-review-3/?fbclid=IwAR21VRGOfvlcyQ5Aq7qHEEFm3KIJyrBUDoIn7rcO6NHpvFJVbR127yyA6jw">Our Country’s Good, 2018, Fairy Powered Productions</a></cite></footer>
@@ -218,7 +218,7 @@ RedirectFrom:
 ## *The Drowsy Chaperone*
 
 >This is a brilliant, brilliant show that has always deserved to be seen. In the case of this production, more so than ever.
-><footer><cite><a target="_blank" href="http://www.sardinesmagazine.co.uk/reviews/review.php?REVIEW-Sedos-The%20Drowsy%20Chaperone&reviewsID=2838">The Drowsy Chaperone, 2017, Sardines</a></cite></footer>
+><footer><cite><a target="_blank" href="https://www.sardinesmagazine.co.uk/review/the-drowsy-chaperone-3/">The Drowsy Chaperone, 2017, Sardines</a></cite></footer>
 
 >The Drowsy Chaperone may be categorised as an amateur level production, but it didn’t show. The quality of this production was fantastic and truly entertaining.
 ><footer><cite><a target="_blank" href="https://www.londontheatre1.com/reviews/review-the-drowsy-chaperone-bridewell-theatre/">The Drowsy Chaperone, 2017, London Theatre 1</a></cite></footer>
@@ -240,7 +240,7 @@ RedirectFrom:
 ^^^ Frankenstein
 
 >Watching [Jonathon] Cooper’s character progression and journey throughout the whole show was, I felt, a master class in acting.
-><footer><cite><a target="_blank" href="http://www.sardinesmagazine.co.uk/reviews/review.php?REVIEW-Sedos-Frankenstein&reviewsID=3004">Frankenstein, 2017, Sardines</a></cite></footer>
+><footer><cite><a target="_blank" href="https://www.sardinesmagazine.co.uk/review/frankenstein-2/">Frankenstein, 2017, Sardines</a></cite></footer>
 
 >What is immediately apparent is that the ‘stars’ of this show are the designers.
 ><footer><cite><a target="_blank" href="https://www.londontheatre1.com/reviews/review-frankenstein-bridewell-theatre/">Frankenstein, 2017, London Theatre 1</a></cite></footer>
@@ -251,7 +251,7 @@ RedirectFrom:
 ## *Priscilla Queen of the Desert*
 
 >A quick exit-poll on the audience provided comments such as 'exuberant', 'brilliant', 'didn't want it to end' and 'you'll regret not seeing it.' My favourite has to be 'very pink and gay, but the best kind of gay.' Congratulations to Director / Costume Designer Angus Jacobs, Musical Director Ryan Macaulay and the whole creative team. It might not be as glittery or explosive as a big-budget West End version but it's just as fabulous.
-><footer><cite><a target="_blank" href="http://www.sardinesmagazine.co.uk/reviews/review.php?REVIEW-SEDOS-Priscilla%20Queen%20of%20the%20Desert%20-%20the%20Musical&reviewsID=3051t">Priscilla Queen of the Desert, 2017, Sardines</a></cite></footer>
+><footer><cite><a target="_blank" href="https://www.sardinesmagazine.co.uk/review/priscilla-queen-of-the-desert-the-musical/">Priscilla Queen of the Desert, 2017, Sardines</a></cite></footer>
 
 >Overall, then I guess it’s pretty obvious I enjoyed Priscilla Queen of the Desert. Sedos have put together and delivered a first-rate show that is fun with a capital ‘F’ and entertaining with a capital ‘E’ from start to finish.
 ><footer><cite><a target="_blank" href="https://www.londontheatre1.com/reviews/priscilla-queen-of-the-desert-review-bridewell-theatre-london/">Priscilla Queen of the Desert, 2017, London Theatre 1</a></cite></footer>
@@ -282,7 +282,7 @@ RedirectFrom:
 ## *Whose Life Is It Anyway?*
 
 >A riveting couple of hours… this is a thought-provoking and thoroughly entertaining piece of theatre about a highly sensitive and controversial subject.
-><footer><cite><a target="_blank" href="http://www.sardinesmagazine.co.uk/reviews/review.php?REVIEW-Sedos-Whose%20Life%20is%20it%20Anyway?&reviewsID=2450">Whose Life Is It Anyway?, 2016, Sardines</a></cite></footer>
+><footer><cite><a target="_blank" href="https://www.sardinesmagazine.co.uk/review/whose-life-is-it-anyway/">Whose Life Is It Anyway?, 2016, Sardines</a></cite></footer>
 
 ## *London Road*
 
@@ -293,7 +293,7 @@ RedirectFrom:
 ><footer><cite><a target="_blank" href="http://www.infobarrel.com/Sedos_Presents_London_Road_at_Bridewell_Theatre_London">London Road, 2016, InfoBarrel</a></cite></footer>
 
 >I’m fast running out of superlatives when discussing the ongoing virtuosity of Sedos.... A sublime piece of theatre.
-><footer><cite><a target="_blank" href="http://www.sardinesmagazine.co.uk/reviews/review.php?REVIEW-Sedos-London%20Road&reviewsID=2510">London Road, 2016, Sardines Magazine</a></cite></footer>
+><footer><cite><a target="_blank" href="https://www.sardinesmagazine.co.uk/review/london-road/">London Road, 2016, Sardines Magazine</a></cite></footer>
 
 >A very stylish and smart production of an intriguing gem of a musical... [Sedos] creates something that is touching, funny, uncomfortable and thought-provoking.
 ><footer><cite><a target="_blank" href="https://www.myentertainmentworld.ca/2016/08/london-road-sedos/">London Road, 2016, My Entertainment World</a></cite></footer>
@@ -301,7 +301,7 @@ RedirectFrom:
 ## *One Man, Two Guvnors*
 
 >I have seen quite a lot of Sedos productions over the last few years, and their shows are of a consistent excellent quality. They are undoubtedly a collection of extremely talented directors, actors and performers. One Man, Two Guv’nors upheld that high expectation and did not disappoint; the show was of professional standard with even the smallest parts giving consistent high quality performances.
-><footer><cite><a target="_blank" href="http://www.sardinesmagazine.co.uk/reviews/review.php?REVIEW-Sedos-One%20Man,%20Two%20Guvnors&reviewsID=2581">One Man, Two Guvnors, 2016, Sardines</a></cite></footer>
+><footer><cite><a target="_blank" href="https://www.sardinesmagazine.co.uk/review/one-man-two-guvnors-3/">One Man, Two Guvnors, 2016, Sardines</a></cite></footer>
 
 >Sedos is an amateur dramatic company, but the acting is easily on par with the professional show I saw previously. In fact, having seen Sedos in action before, it seems they are once again blurring the lines between professional and amateur theatre. In particular, they prove that the quality of a show is determined by those involved – and not whether anyone is getting paid.
 ><footer><cite><a target="_blank" href="https://www.westendwilma.com/review-one-man-two-guvnors-bridewell/">One Man, Two Guvnors, 2016, West End Wilma</a></cite></footer>
@@ -309,7 +309,7 @@ RedirectFrom:
 ## *Candide*
 
 >The result is an irreverent, apt, ever topical musical… it’s in excellent hands with Sedos which, as usual, achieves a near professional standard… A jolly good evening’s entertainment, then. All credit to this production and all who sail in her.
-><footer><cite><a target="_blank" href="http://www.sardinesmagazine.co.uk/reviews/review.php?REVIEW-Sedos-Candide&reviewsID=2644">Candide, 2016, Sardines</a></cite></footer>
+><footer><cite><a target="_blank" href="https://www.sardinesmagazine.co.uk/review/candide/">Candide, 2016, Sardines</a></cite></footer>
 
 >Sedos delivered the production in a classy manner with an incredibly strong cast in everything from their characterisation to music and a strong visual feast for the eyes.
 ><footer><cite><a target="_blank" href="http://musicaltheatremusings.co.uk/candide">Candide, 2016, Musical Theatre Musings</a></cite></footer>
@@ -324,7 +324,7 @@ RedirectFrom:
 ## *Noises Off*
 
 >And with a whole week still to go I cannot urge you, no… plead with you, no… beg you enough to clear your diaries and get down to the City of London this coming week for one of the funniest evenings in theatre you’re ever likely to experience.
-><footer><cite><a target="_blank" href="http://www.sardinesmagazine.co.uk/reviews/review.php?REVIEW-Sedos-Noises%20Off&reviewsID=1590">Noises Off, 2015, Sardines</a></cite></footer>
+><footer><cite><a target="_blank" href="https://www.sardinesmagazine.co.uk/review/noises-off-3/">Noises Off, 2015, Sardines</a></cite></footer>
 
 ## *Legally Blonde*
 
@@ -332,7 +332,7 @@ RedirectFrom:
 ^^^ Legally Blonde
 
 >Sedos represents everything an amateur society should be and we can unanimously say this is the best amateur musical we have seen. Ever. (And we’ve seen rather a lot...).
-><footer><cite><a target="_blank" href="http://www.sardinesmagazine.co.uk/reviews/review.php?REVIEW-Sedos-Legally%20Blonde&reviewsID=1441">Legally Blonde, 2015, Sardines</a></cite></footer>
+><footer><cite><a target="_blank" href="https://www.sardinesmagazine.co.uk/review/legally-blonde-3/">Legally Blonde, 2015, Sardines</a></cite></footer>
 
 # **2014**
 
@@ -342,7 +342,7 @@ RedirectFrom:
 ><footer><cite><a target="_blank" href="https://www.thepublicreviews.com/into-the-woods-bridewell-theatre-london/">Into the Woods, 2014, Public Reviews</a></cite></footer>
 
 >The whole production was visually stunning… Director Matt Gould gave us a production that had a good pace, plenty of humour, some original touches and a brooding sense of menace…Each actor gives an outstanding individual performance but the sense of the cast working as a team is never lost… truly impressive performances all round… Sedos certainly lived up to their premier status with a production that leads you on a fabulous journey down a twisted path to a breathtaking conclusion.
-><footer><cite><a target="_blank" href="http://www.sardinesmagazine.co.uk/reviews/review.php?reviewsID=1097">Into the Woods, 2014, Sardines Magazine</a></cite></footer>
+><footer><cite><a target="_blank" href="https://www.sardinesmagazine.co.uk/review/into-the-woods-2/">Into the Woods, 2014, Sardines Magazine</a></cite></footer>
 
 ^^^ ![](/assets/13601504703_f940777794_c.jpg)
 ^^^ Into the Woods
