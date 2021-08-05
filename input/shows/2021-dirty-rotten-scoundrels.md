@@ -32,8 +32,56 @@ box-office-open: true
 ticketsolve-show-id: "1173611193"
 sections:
   - order: 1
-    title: CREATIVE TEAM
+    title: CAST & CREATIVE TEAM
     body: >-
+      **CAST**
+
+
+      Lawrence| Rob Archibald\
+
+      Freddy | Joey Henshaw\
+
+      Christine | Imogen Johnson\
+
+      Muriel | Louise Roberts\
+
+      Andre | Dan Saunders\
+
+      Jolene | Jen Bullock\
+
+      Lenore | Zo Pisera\
+
+      Sophia | Nicolle Dominique\
+
+      Renee | Paula Mount
+
+
+      **ENSEMBLE**
+
+
+      Alex Dehn\
+
+      Nick Dore\
+
+      Robbie Fulford\
+
+      Ruth Granton\
+
+      Leon Grozdanovic\
+
+      Alex Johnston\
+
+      Ellie Jones\
+
+      Eilish Mulvihill\
+
+      Natalie Parada	\
+
+      Rachel Savage\
+
+      James Taverner
+
+
       **CREATIVE TEAM**
 
 
