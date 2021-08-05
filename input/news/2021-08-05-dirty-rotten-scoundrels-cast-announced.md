@@ -38,3 +38,6 @@ Rachel Savage	\
 James Taverner
 
 Dirty Rotten Scoundrels runs from 24 November to 4 Decrember 2021 at the Bridewell Theatre and tickets are on sale now via the [Sedos box office](https://sedos.ticketsolve.com/shows).
+
+^^^ ![](/assets/nice-2209823_1920.jpg)
+^^^
