@@ -1,5 +1,5 @@
 ---
-title: Ophelia Thinks Harder Cast Announced
+title: Ophelia Thinks Harder new cast announced
 date: 2021-07-28
 image: /assets/ophelia-thinks-harder-landscape.jpg
 ---
