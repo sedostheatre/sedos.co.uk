@@ -1,6 +1,7 @@
 ---
 title: " Dirty Rotten Scoundrels cast announced"
 date: 2021-08-05
+image: /assets/nice-2209823_1920.jpg
 ---
 *5 August 2021*
 
