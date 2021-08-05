@@ -37,23 +37,23 @@ sections:
       **CAST**
 
 
-      Lawrence| Rob Archibald\
+      **LAWRENCE** | Rob Archibald\
 
-      Freddy | Joey Henshaw\
+      **FREDDY** | Joey Henshaw\
 
-      Christine | Imogen Johnson\
+      **CHRISTINE** | Imogen Johnson\
 
-      Muriel | Louise Roberts\
+      **MURIEL** | Louise Roberts\
 
-      Andre | Dan Saunders\
+      **ANDRE** | Dan Saunders\
 
-      Jolene | Jen Bullock\
+      **JOLENE** | Jen Bullock\
 
-      Lenore | Zo Pisera\
+      **LENORE** | Zo Pisera\
 
-      Sophia | Nicolle Dominique\
+      **SOPHIA** | Nicolle Dominique\
 
-      Renee | Paula Mount
+      **RENEE** | Paula Mount
 
 
       **ENSEMBLE**
