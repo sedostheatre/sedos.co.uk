@@ -38,7 +38,7 @@ You will then be sent a link by email to confirm the booking – your slot is no
 
 You don't have to sign up to submit a video audition - just send your recording to [playinaday@sedos.co.uk](mailto:playinaday@sedos.co.uk)
 
-[READ THE FULL AUDITION NOTICE](https://docs.google.com/document/d/1Qc86KqAGieiXwQAugZq85PihFZadjh2Izp92Smc3YvU/edit?usp=sharing)
+### [READ THE FULL AUDITION NOTICE](https://docs.google.com/document/d/1Qc86KqAGieiXwQAugZq85PihFZadjh2Izp92Smc3YvU/edit?usp=sharing)
 
 #### **Diversity and inclusion**
 
