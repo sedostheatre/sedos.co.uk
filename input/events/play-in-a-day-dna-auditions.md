@@ -38,8 +38,12 @@ You will then be sent a link by email to confirm the booking – your slot is no
 
 You don't have to sign up to submit a video audition - just send your recording to [playinaday@sedos.co.uk](mailto:playinaday@sedos.co.uk)
 
+
+
 ### [READ THE FULL AUDITION NOTICE](https://docs.google.com/document/d/1Qc86KqAGieiXwQAugZq85PihFZadjh2Izp92Smc3YvU/edit?usp=sharing)
 
-#### **Diversity and inclusion**
+
+
+#### Casting, Equality, Inclusion and Diversity
 
 Sedos seeks to build and sustain a membership that is reflective of the diverse communities within London. We actively encourage all performers of all ethnicity and genders to participate and audition for the roles which best suit their skills. Where any roles require specific characteristics, this is set out in the audition notice. For all other roles, we are open to and encourage diverse casting and we are excited to see what you can bring to the role.
