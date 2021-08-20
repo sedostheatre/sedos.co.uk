@@ -1,5 +1,5 @@
 ---
-title: All Together Now!
+title: All Together Now! Creative team wanted
 date: 2021-08-20
 image: /assets/gold_onbackground_horizontal_1500px.jpg
 ---
