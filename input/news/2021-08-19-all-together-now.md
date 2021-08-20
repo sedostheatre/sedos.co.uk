@@ -16,3 +16,6 @@ More details about the revue can be found on the [MTI website](https://www.mtish
 If you would like to get involved in the creative team, please use [this form](https://docs.google.com/forms/d/e/1FAIpQLSdJ5isSoc358ohI5PQ4SGIeMWW79GXFf4RrRpwZqRsFo9irgw/viewform) to express your interest by the end of August.\
 \
 If you’re a performer, watch this space over the coming weeks for more information about how you can audition.
+
+^^^ ![](/assets/gold_onbackground_horizontal_1500px.jpg)
+^^^
