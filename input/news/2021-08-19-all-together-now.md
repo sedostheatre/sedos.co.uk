@@ -3,7 +3,7 @@ title: All Together Now! Creative team wanted
 date: 2021-08-20
 image: /assets/gold_onbackground_horizontal_1500px.jpg
 ---
-*Friday 20 August 2021*
+*20 August 2021*
 
 ***Frozen*, *Come From Away*, *Les Misérables* all in one evening… Does this sound like your cup of tea?** 
 
