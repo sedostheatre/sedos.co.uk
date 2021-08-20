@@ -1,6 +1,7 @@
 ---
 title: All Together Now!
 date: 2021-08-20
+image: /assets/gold_onbackground_horizontal_1500px.jpg
 ---
 *Friday 20 August 2021*
 
@@ -12,6 +13,6 @@ This will be performed as part of a global celebration of musical theatre on 12-
 
 More details about the revue can be found on the [MTI website](https://www.mtishows.co.uk/mtis-all-together-now).
 
-If you would like to get involved in the creative team, please use this form to express your interest. 
-
+If you would like to get involved in the creative team, please use [this form](https://docs.google.com/forms/d/e/1FAIpQLSdJ5isSoc358ohI5PQ4SGIeMWW79GXFf4RrRpwZqRsFo9irgw/viewform) to express your interest by the end of August.\
+\
 If you’re a performer, watch this space over the coming weeks for more information about how you can audition.
