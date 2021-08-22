@@ -23,7 +23,7 @@ Plus, don’t forget to follow us on social media:
 * [twitter.com/sedos](https://twitter.com/sedos)
 * [instagram.com/sedoslondon](https://www.instagram.com/sedoslondon/)
 
-You can also check out the latest audition news online.
+You can also check out the latest audition news online  – auditions are posted on our ‘[Get involved](https://sedos.co.uk/get-involved)’ page.
 
 **Do I need to be a Sedos member to be involved in a show?**
 
@@ -47,7 +47,7 @@ Since 2020, there has been no participation fee to take part in a Sedos show.
 
 **What ability / experience is needed?**
 
-This depends on the role. For the chorus / ensemble, you must be able to sing in tune and move well, as a minimum. There is high competition for most roles, and the best performer in the role at the audition is picked (regardless of Sedos membership). Just to stress this once more – the best auditionee for each part will be cast. You don’t have to ‘do your time’ in order to be cast in a Sedos show. We believe in quality.
+This depends on the role. For the chorus / ensemble of a musical, you must be able to sing in tune and move well, as a minimum. There is high competition for most roles, and the best performer in the role at the audition is picked (regardless of Sedos membership). Just to stress this once more – the best auditionee for each part will be cast. You don’t have to ‘do your time’ in order to be cast in a Sedos show. We believe in quality.
 
 **What will be in the audition?**
 
