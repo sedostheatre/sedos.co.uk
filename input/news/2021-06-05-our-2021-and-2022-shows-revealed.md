@@ -12,7 +12,7 @@ image: /assets/2021-22-seasonmontage-v2.jpg
 
 We will be kicking off with a jam-packed *[Members’ Week](https://sedos.co.uk/shows/2021-welcome-back-members-week)* at the Bridewell from 25-31 July. It will include performances from Banana Hut Gang, a workshop with the Acting Group as well as a Piano Night. Full details of the week can be found online. 
 
-*[Ophelia Thinks Harder](https://sedos.co.uk/shows/2020-ophelia-thinks-harder)* will perform at the Bridewell from 28 September-2 October and *[Working](https://sedos.co.uk/shows/2020-working-a-musical)* will take to the stage from 26-30 October. Both teams are looking to fill gaps in their casts and [will be holding auditions shortly](https://sedos.co.uk/get-involved). Working will now be directed by Jacob Hajjar with Laura Ellis as producer.
+*[Ophelia Thinks Harder](https://sedos.co.uk/shows/2020-ophelia-thinks-harder)* will perform at the Bridewell from 28 September-2 October and *[Working](https://sedos.co.uk/shows/2020-working-a-musical)* will take to the stage from 26-30 October. Both teams are looking to fill gaps in their casts and [will be holding auditions shortly](https://sedos.co.uk/get-involved). *Working* will now be directed by Jacob Hajjar with Laura Ellis as producer.
 
 Our final show of 2021, performing 24 November-4 December, will be *[Dirty Rotten Scoundrels](https://sedos.co.uk/shows/2021-dirty-rotten-scoundrels)*, directed by Zoë Thomas-Webb and choreographed by Jonathon Grant. They are looking for additional people, particularly a musical director to join their team. Audition dates will be announced shortly, see the [show page](https://sedos.co.uk/shows/2021-dirty-rotten-scoundrels) for more details. 
 
