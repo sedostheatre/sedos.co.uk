@@ -28,9 +28,9 @@ The named roles will be auditioned on the Friday night whilst the ensemble rehea
 
 Sedos seeks to build and sustain a membership that is reflective of the diverse communities within London. We actively encourage all performers of all ethnicity and genders to participate and audition for the roles which best suit their skills.  
 
-We will be delighted to audition and cast actors of any ethnicity, gender and age for all roles in this production. For example, Ruth could portrayed by a man as a panto dame; Frederic and the Pirate King by women; the Major General’s daughters by men.  We welcome non-binary portrayals.  
+We will be delighted to audition and cast actors of any ethnicity, gender and age for all roles in this production. For example, Ruth could portrayed by a man as a panto dame; Frederic and the Pirate King by women; the Major General’s daughters by men. We welcome non-binary portrayals.  
 
- All members of the Ensemble will have the opportunity to perform in daughters / pirates / police songs regardless of gender, whether it be singing or other performance opportunities.
+All members of the ensemble will have the opportunity to perform in daughters / pirates / police songs regardless of gender, whether it be singing or other performance opportunities.
 
  **More info and how to sign up**
 
