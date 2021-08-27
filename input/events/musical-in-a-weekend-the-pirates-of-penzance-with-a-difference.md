@@ -8,7 +8,7 @@ ticket-prices: "Free to participate or watch, but places and tickets must be boo
 ---
 **About Musical in a Weekend**
 
-The main aim of this weekend is to have fun! It’s a chance to pack all the highs of doing a show into a 48-hour period and to give an opportunity to perform to people who might not usually be able to commit to a rehearsal period due to other commitments. After  acouple of days of rehearsal, there will be a relaxed performance, in the style of a rehearsed reading. 
+The main aim of this weekend is to have fun! It’s a chance to pack all the highs of doing a show into a 48-hour period and to give an opportunity to perform to people who might not usually be able to commit to a rehearsal period due to other commitments. After  a couple of days of rehearsal, there will be a relaxed performance, in the style of a rehearsed reading. 
 
 The show will be Esgee Production’s *The Pirates of Penzance*. This updated version of a Gilbert and Sullivan classic puts a modern twist on a much-loved classic - it even includes a megamix!
 
@@ -28,7 +28,7 @@ The named roles will be auditioned on the Friday night whilst the ensemble rehea
 
 Sedos seeks to build and sustain a membership that is reflective of the diverse communities within London. We actively encourage all performers of all ethnicity and genders to participate and audition for the roles which best suit their skills.  
 
- We will be delighted to audition and cast actors of any ethnicity, gender and age for all roles in this production. For example, Ruth could portrayed by a man as a panto dame; Frederic and the Pirate King by women; the Major General’s daughters by men.  We welcome non-binary portrayals.  
+We will be delighted to audition and cast actors of any ethnicity, gender and age for all roles in this production. For example, Ruth could portrayed by a man as a panto dame; Frederic and the Pirate King by women; the Major General’s daughters by men.  We welcome non-binary portrayals.  
 
  All members of the Ensemble will have the opportunity to perform in daughters / pirates / police songs regardless of gender, whether it be singing or other performance opportunities.
 
