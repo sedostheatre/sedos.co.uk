@@ -40,17 +40,21 @@ sections:
 
       **CREATIVE TEAM**\
       \
-      **DIRECTOR** | Jacob Hajjar\
-      **ASSOCIATE DIRECTOR** | Dan Saunders\
-      **MUSICAL DIRECTOR** | Will Gaines\
-      **MOVEMENT DIRECTOR** | Tess Robinson\
-      **PRODUCER** | Laura Ellis\
-      **TECHNICAL PRODUCER** | Andrew Laidlaw\
-      **STAGE MANAGER** | Shiri Stern\
-      **MARKETING** | Pippa Kyle\
-      **PHOTOGRAPHER** | Stephen Russell\
-      **COMMITTEE LIAISON** | Stephen Beeny\
-      **PITCH & ORIGINAL DIRECTOR** | Peter Shimmin
+      **DIRECTOR** | Jacob Hajjar\
+      **MOVEMENT DIRECTOR / COSTUME / ARTWORK** | Tess Robinson\
+      **MUSICAL DIRECTOR** | Will Gaines\
+      **PRODUCER** | Laura Ellis\
+      **TECHNICAL PRODUCER / STAGE MANAGER** | Andrew Laidlaw\
+      **SET DESIGNERS** | Dan Saunders and Gill Daniell\
+      **SET BUILDER** | Adam Lockett\
+      **LIGHTING DESIGNER** | Shiri Stern\
+      **SOUND DESIGNER** | Adam Coppard\
+      **LIGHTING OPERATOR** | Alex Papadopoulos\
+      **MARKETING** | Pippa Kyle\
+      **PHOTOGRAPHER** | Stephen Russell\
+      **COMMITTEE LIAISON** | Stephen Beeny\
+      **ORIGINAL PRODUCER** | Michelle Calvert\
+      **ORIGINAL DIRECTION AND PITCH** | Peter Shimmin
 RedirectFrom:
   - 2020/working.htm
 ---
