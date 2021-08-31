@@ -4,7 +4,7 @@ times:
   - time: 2021-09-25 19:30
 image: /assets/dna_poster_landscape.jpg
 venue: Bridewell Theatre
-ticket-prices: FREE
+ticket-prices: Tickets are FREE, places reserve your place via the box office
 ---
 **Sedos are proud to announce the second *Play in a Day* event for 2021, *DNA* by Dennis Kelly, which forms part of our September Festival (19-25 September 2021). We'll be rehearsing and performing Kelly’s moral tug of war between actions and their consequences in a single day on Saturday 25 September 2021.**
 
