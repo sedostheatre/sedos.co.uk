@@ -1,9 +1,9 @@
-# List the start up tasks. Learn more https://www.gitpod.io/docs/config-start-tasks/
+image: gitpod/workspace-dotnet
+
 tasks:
-  - init: dotnet restore # runs during prebuild
+  - init: dotnet restore
     command: dotnet run
 
-# List the ports to expose. Learn more https://www.gitpod.io/docs/config-ports/
 ports:
   - port: 5080
     onOpen: open-preview
