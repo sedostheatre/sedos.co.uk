@@ -16,7 +16,7 @@ The show will be Esgee Production’s *The Pirates of Penzance*. This updated v
 
 The weekend commences with a welcome from 6.30pm on Friday 17 September before rehearsal (and auditions for named roles) at 7pm until 9.30pm (approx). 
 
-We will then run from 9am-6.30pm on Saturday 19 September and from 9am-3pm on Sunday 20 September (prompt start at 9am both days, with the building open for arriving from 8.30am). 
+We will then run from 9am-6.30pm on Saturday 18 September and from 9am-3pm on Sunday 19 September (prompt start at 9am both days, with the building open for arriving from 8.30am). The performance will be at 4pm on Sunday 19 September. 
 
 We are aware that some people won’t be able to commit to the full weekend, so we will be expanding the ensemble with an “On The Day Choir”.
 
