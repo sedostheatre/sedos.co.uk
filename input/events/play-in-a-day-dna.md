@@ -12,6 +12,23 @@ A group of teenagers commit a murder in the woods. As they panic, they begin to 
 
 Audience can watch this fast-paced ensemble show FREE at 7.30pm on Saturday 25 September for one night only at the Bridewell Theatre.
 
+**CAST and CREATIVE TEAM**
+
+**ADAM** | Wing-Ho Lin\
+**BRIAN** | Billy Knowles\
+**CATHY** | Limor Avichezer \
+**DANNY** | Calvin Crawley\
+**JAN** | Sarah Assaf\
+**JOHN TAT**E | Gabriella Guymer-Davies\
+**LEAH** | Nicolle Dominique\
+**LOU** | Shani Gray\
+**MARK** | Sarah Berryman\
+**PHIL** | Andre Frey\
+**RICHARD** | Lisa Maeda
+
+**DIRECTOR** | Lloyd Smith \
+**STAGE MANAGER** | Frederica Byron
+
 It’s free for friends and family to attend, though audiences do need to register via our box office, <https://sedos.co.uk/tickets> (opening soon). The running time is approximately 45 minutes with no interval.
 
 ^^^ ![](/assets/dna_poster_landscape.jpg)
