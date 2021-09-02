@@ -202,11 +202,11 @@ Sedos are proud to announce the Sedos Festival, a nine day celebration of theatr
 
 You’ll find more information on the tabs above, but here’s a summary of what to expect.
 
-**FRIDAY 17 & SATURDAY 18 SEPTEMBER** | Rehearsals: *The Pirates of Penzance* 
-**SUNDAY 19 SEPTEMBER** | Performance: *The Pirates of Penzance*, 4pm
-**MONDAY 20 SEPTEMBER** | *Improv Double Bill: Simprov and The Banana Hut Gang Together*, 7.30pm
-**WEDNESDAY 22 SEPTEMBER** | *Choose Your Own... Improv* with Banana Hut Gang, 7.30pm
-**THURSDAY 23 SEPTEMBER** | *Everyone Welcome Sedos Social with Open Mic,* from 7.30pm (free welcome drink!)
+**FRIDAY 17 & SATURDAY 18 SEPTEMBER** | Rehearsals: *The Pirates of Penzance* \
+**SUNDAY 19 SEPTEMBER** | Performance: *The Pirates of Penzance*, 4pm\
+**MONDAY 20 SEPTEMBER** | *Improv Double Bill: Simprov and The Banana Hut Gang Together*, 7.30pm\
+**WEDNESDAY 22 SEPTEMBER** | *Choose Your Own... Improv* with Banana Hut Gang, 7.30pm\
+**THURSDAY 23 SEPTEMBER** | *Everyone Welcome Sedos Social with Open Mic,* from 7.30pm (free welcome drink!)\
 **SATURDAY 25 SEPTEMBER** | *Play in a Day: DNA,* 7.30pm
 
 Tickets to laugh-a-long with Simprov and The Banana Hut Gang are £8 full price and £6 for Sedos members and concessions. Book via the box office. 
