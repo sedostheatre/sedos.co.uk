@@ -16,6 +16,7 @@ additional-ticket-info: Tickets to laugh-a-long with Simprov and The Banana Hut
   attend, but please reserve your place via our box office so we know how many
   people to expect.
 header-image: /assets/popcorn-1433327_1280.jpg
+flyer: /assets/sedosfestival.jpg
 box-office-open: false
 sections:
   - order: 1
