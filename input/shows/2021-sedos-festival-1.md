@@ -11,14 +11,13 @@ box-office-open: false
 sections:
   - order: 1
     body: >-
-      **MUSICAL IN A WEEKEND: THE PIRATES OF PENZANCE** 
+      #### **MUSICAL IN A WEEKEND: THE PIRATES OF PENZANCE** 
 
 
-      **Rehearsals** | Friday 17 September 6.30pm-9pm; Saturday 18 September 9am-6.30pm; Sunday 19 September 9am-3pm
-
-      **Performance** | Sunday 19 September 4pm
+      #### **Rehearsals** | Friday 17 September 6.30pm-9pm; Saturday 18 September 9am-6.30pm; Sunday 19 September 9am-3pm
 
 
+      #### **Performance** | Sunday 19 September 4pm
 
 
       **About Musical in a Weekend**
@@ -66,12 +65,58 @@ sections:
       [Find out more in the audition notice](https://docs.google.com/document/d/1GW2j1YMh7Je020u5-C2mPTpjO33t_12LFcErs0ZVQ3o/edit?usp=sharing), including how to sign up to take part.
 
 
-
-
       ^^^ ![](/assets/pirates.jpg)
 
       ^^^
     title: MUSICAL IN A WEEKEND
+  - order: 1
+    body: >-
+      #### **TUESDAY 21 SEPTEMBER at 7.30pm**
+
+
+      #### **Improv Double Bill: Simprov and The Banana Hut Gang Together**
+
+
+      We’ve a double bill of comedy on Tuesday 21 September as Sedos’ two improvisation groups, Simprov and The Banana Hut Gang come together for a evening of laughter and spontaneous fun. 
+
+
+      Simprov is the Sedos group that lets members and non-members explore their impulsive side and learn about the art of improvisation. During their show they’ll be taking inspiration from the audience as well as showing some of the comic set-ups and games they play to come up with comedy gold .
+
+
+      We also have our very own in-house improv group, The Banana Hut Gang, which was formed from a collection of the most die-hard Simprov attendees. The gang will be performing part of their Edinburgh award-winning show, *Choose Your Own... Improv*, which is guaranteed to lift your spirits!
+
+
+      What do you want to see? A marriage or a funeral? An abandoned spaceship or a creepy dungeon? A murder or a resurrection? In Choose Your Own... Improv!, you decide. Join the Banana Hut Gang as they create a brave new improvised world where you get to call the shots. Keep the story on track, derail it completely, or start again... the choice is yours!
+
+
+      Tickets to laugh-a-long with Simprov and The Banana Hut Gang are £8 full price and £6 for Sedos members and concessions. Book via the box office. 
+
+
+      ^^^ ![](/assets/simprov3-360.jpg)
+
+      ^^^
+    title: IMPROV DOUBLE BILL
+  - order: 1
+    body: >-
+      #### WEDNESDAY 22 SEPTEMBER at 7.30pm | Improv with Banana Hut Gang
+
+
+      After keeping us entertained online over lockdown, the indefatigable Banana Hut Gang, Sedos' in-house improv team, are delighted to be back in-person with their ever changing improvised comedy play, *Choose Your Own... Improv*, guaranteed to lift your spirits!
+
+
+      What do you want to see? A marriage or a funeral? An abandoned spaceship or a creepy dungeon? A murder or a resurrection? In Choose Your Own... Improv!, you decide. Join the Banana Hut Gang as they create a brave new improvised world where you get to call the shots. 
+
+
+      Keep the story on track, derail it completely, or start again... the choice is yours!
+
+
+      Tickets to laugh-a-long with the Banana Hut Gang are £8 full price and £6 for Sedos members and concessions. Book via the box office. 
+
+
+      ^^^ ![](/assets/banana-hut-gang-improv.jpg)
+
+      ^^^
+    title: CHOOSE YOUR OWN... IMPROV
 ---
 Sedos are proud to announce the Sedos Festival, a nine day celebration of theatre with an exciting variety of events and activities for everyone to get involved with, whether as participant or audience member. 
 
