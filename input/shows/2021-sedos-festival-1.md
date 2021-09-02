@@ -1,9 +1,8 @@
 ---
 title: Sedos Festival
 year: "2021"
-authors: "A nine day celebration of theatre "
-authors2: with an exciting variety of events and activities for everyone to get
-  involved with
+authors: "A nine-day celebration of theatre "
+authors2: An exciting variety of events and activities – everyone can get involved
 showtimes:
   - time: 2021-09-19 16:00
   - time: 2021-09-20 19:30
@@ -138,7 +137,7 @@ sections:
       If the mood takes you, musical maestros Ryan Macaulay and  Matt Gould will be on hand to twinkle the ivories while you entertain us with a torch song, modern belter or classic showstopper. It’s an Open Mic, so the choice is yours! We’ll have some musical scores and collections to browse through, but if you’re looking for something specific, please feel free to bring along your own music.
 
 
-      Alternatively, grab a drink - uou'll get a FREE Welcome drink - and catch-up with friends while listening to some great music. It’s going to be a friendly, relaxed event and the perfect opportunity to get us back together again.
+      Alternatively, grab a drink - you'll get a FREE Welcome drink - and catch-up with friends while listening to some great music. It’s going to be a friendly, relaxed event and the perfect opportunity to get us back together again.
 
 
       The *Everyone Welcome Sedos Social* is free to attend, but please register on our box office so we know how many people to expect!
