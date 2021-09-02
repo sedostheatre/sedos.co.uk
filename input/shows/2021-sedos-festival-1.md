@@ -10,6 +10,11 @@ showtimes:
   - time: 2021-09-22 19:30
   - time: 2021-09-23 19:30
   - time: 2021-09-25 19:30
+additional-ticket-info: Tickets to laugh-a-long with Simprov and The Banana Hut
+  Gang are £8 full price and £6 for Sedos members and concessions. Performances
+  of The Pirates of Penzance and DNA, plus the Social Event, are all free to
+  attend, but please reserve your place via our box office so we know how many
+  people to expect.
 header-image: /assets/popcorn-1433327_1280.jpg
 box-office-open: false
 sections:
