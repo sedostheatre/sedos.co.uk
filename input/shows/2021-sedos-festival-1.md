@@ -10,6 +10,7 @@ showtimes:
   - time: 2021-09-22 19:30
   - time: 2021-09-23 19:30
   - time: 2021-09-25 19:30
+header-image: /assets/popcorn-1433327_1280.jpg
 box-office-open: false
 sections:
   - order: 1
