@@ -134,7 +134,7 @@ sections:
       Whether you want to get up and sing or just relax and enjoy a drink with friends, our Everyone Welcome Sedos Social is the perfect event to bring you back to the Bridewell Theatre, which will be transformed into a relaxed, intimate venue for an evening of chat, reunion and perhaps a bit of song!
 
 
-      If the mood takes you, musical maestros Ryan Macaulay and  Matt Gould will be on hand to twinkle the ivories while you entertain us with a torch song, modern belter or classic showstopper. It’s an Open Mic, so the choice is yours! We’ll have some musical scores and collections to browse through, but if you’re looking for something specific, please feel free to bring along your own music.
+      If the mood takes you, musical maestros Ryan Macaulay and  Matt Gould will be on hand to tinkle the ivories while you entertain us with a torch song, modern belter or classic showstopper. It’s an Open Mic, so the choice is yours! We’ll have some musical scores and collections to browse through, but if you’re looking for something specific, please feel free to bring along your own music.
 
 
       Alternatively, grab a drink - you'll get a FREE Welcome drink - and catch-up with friends while listening to some great music. It’s going to be a friendly, relaxed event and the perfect opportunity to get us back together again.
