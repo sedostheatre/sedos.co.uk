@@ -140,7 +140,7 @@ sections:
       Alternatively, grab a drink - you'll get a FREE Welcome drink - and catch-up with friends while listening to some great music. It’s going to be a friendly, relaxed event and the perfect opportunity to get us back together again.
 
 
-      The *Everyone Welcome Sedos Social* is free to attend, but please register on our box office so we know how many people to expect!
+      The *Everyone Welcome Sedos Social* is free to attend, but please register [on our box office](https://sedos.ticketsolve.com/shows) so we know how many people to expect!
     title: EVERYONE WELCOME SEDOS SOCIAL
   - order: 1
     body: >-
