@@ -2,7 +2,8 @@
 title: Sedos Festival
 year: "2021"
 authors: "A nine-day celebration of theatre "
-authors2: An exciting variety of events and activities – everyone can get involved
+authors2: Something for everyone to get involved in, with an exciting variety of
+  events and activities
 showtimes:
   - time: 2021-09-19 16:00
   - time: 2021-09-20 19:30
