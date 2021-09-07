@@ -34,7 +34,7 @@ sections:
       Sabrina Edwards\
       Kate Gledhill\
       Adrian Hau\
-      Olga-Marie Platt\
+      Olga-Marie Pratt\
       Sam Sugarman\
       Sanchez Simpson
 
