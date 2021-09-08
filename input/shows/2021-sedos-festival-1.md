@@ -140,7 +140,8 @@ sections:
 ---
 Sedos are proud to announce the Sedos Festival, a six day celebration of theatre with an exciting variety of events and activities for everyone to get involved with, whether as participant or audience member. 
 
-You’ll find more information on the tabs above, but here’s a summary of what to expect.\
+You’ll find more information on the tabs above, but here’s a summary of what to expect.
+
 **MONDAY 20 SEPTEMBER** | *Improv Double Bill: Simprov and The Banana Hut Gang Together*, 7.30pm\
 **WEDNESDAY 22 SEPTEMBER** | *Choose Your Own... Improv* with Banana Hut Gang, 7.30pm\
 **THURSDAY 23 SEPTEMBER** | *Everyone Welcome Sedos Social with Open Mic,* from 7.30pm (free welcome drink!)\
