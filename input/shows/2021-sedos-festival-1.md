@@ -16,7 +16,7 @@ additional-ticket-info: >-
 
   The performance of DNA, plus the Social Event, are free to attend, but please reserve your place via our box office so we know how many people to expect.
 header-image: /assets/popcorn-1433327_1280.jpg
-flyer: /assets/sedosfestival.jpg
+flyer: /assets/welcomebackmembersweek-v2.jpg
 box-office-open: false
 sections:
   - order: 1
