@@ -6,6 +6,9 @@ image: /assets/pirates.jpg
 venue: Rehearsal venue TBC, performance at the Bridewell Theatre
 ticket-prices: "Free to participate or watch, but places and tickets must be booked. "
 ---
+**Unfortunately, due to availability issues, we have had to postpone our Musical in a Weekend: The Pirates of Penzance. Thank you to everyone who signed up. We intend to reschedule the event for some time in 2022 and look forward to a full singalong then. All the other Sedos Festival events are taking place as planned and we look forward to seeing you at the Bridewell soon.**
+
+\
 **About Musical in a Weekend**
 
 The main aim of this weekend is to have fun! It’s a chance to pack all the highs of doing a show into a 48-hour period and to give an opportunity to perform to people who might not usually be able to commit to a rehearsal period due to other commitments. After  a couple of days of rehearsal, there will be a relaxed performance, in the style of a rehearsed reading. 
