@@ -16,7 +16,7 @@ additional-ticket-info: >-
 
   The performance of DNA, plus the Social Event, are free to attend, but please reserve your place via our box office so we know how many people to expect.
 header-image: /assets/popcorn-1433327_1280.jpg
-flyer: /assets/sedosfestival.jpg
+flyer: /assets/welcomebackmembersweek-v2.jpg
 box-office-open: false
 sections:
   - order: 1
@@ -140,7 +140,8 @@ sections:
 ---
 Sedos are proud to announce the Sedos Festival, a six day celebration of theatre with an exciting variety of events and activities for everyone to get involved with, whether as participant or audience member. 
 
-You’ll find more information on the tabs above, but here’s a summary of what to expect.\
+You’ll find more information on the tabs above, but here’s a summary of what to expect.
+
 **MONDAY 20 SEPTEMBER** | *Improv Double Bill: Simprov and The Banana Hut Gang Together*, 7.30pm\
 **WEDNESDAY 22 SEPTEMBER** | *Choose Your Own... Improv* with Banana Hut Gang, 7.30pm\
 **THURSDAY 23 SEPTEMBER** | *Everyone Welcome Sedos Social with Open Mic,* from 7.30pm (free welcome drink!)\
