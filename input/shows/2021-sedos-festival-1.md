@@ -150,3 +150,5 @@ You’ll find more information on the tabs above, but here’s a summary of what
 Tickets to laugh-a-long with Simprov and The Banana Hut Gang are £8 full price and £6 for Sedos members and concessions. Book via the box office. 
 
 The *Everyone Welcome Sedos Social* and the *Play in a Day: DNA* show are both free to attend, but please reserve your place via our box office so we know how many people to expect.
+
+Unfortunately, due to availability issues, we have had to postpone our *Musical in a Weekend: The Pirates of Penzance.* Thank you to everyone who signed up. We intend to reschedule the event for some time in 2022 and look forward to a full singalong then.
