@@ -1,0 +1,13 @@
+image: gitpod/workspace-dotnet
+
+tasks:
+  - init: dotnet restore
+    command: dotnet run
+
+ports:
+  - port: 5080
+    onOpen: open-preview
+
+vscode:
+  extensions:
+    - muhammad-sammy.csharp
