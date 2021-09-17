@@ -51,7 +51,7 @@ sections:
       #### **Improv Double Bill: Simprov and The Banana Hut Gang Together**
 
 
-      We’ve a double bill of comedy on Tuesday 21 September as Sedos’ two improvisation groups, Simprov and The Banana Hut Gang come together for a evening of laughter and spontaneous fun. 
+      We’ve a double bill of comedy on Wednesday 22 September as Sedos’ two improvisation groups, Simprov and The Banana Hut Gang come together for a evening of laughter and spontaneous fun. 
 
 
       Simprov is the Sedos group that lets members and non-members explore their impulsive side and learn about the art of improvisation. During their show they’ll be taking inspiration from the audience as well as showing some of the comic set-ups and games they play to come up with comedy gold .
