@@ -21,6 +21,14 @@ box-office-open: false
 sections:
   - order: 1
     body: >-
+      >Unfortunately we have had to cancel the performance of Choose Your
+      Own…Improv. Apologies to anyone who wanted to attend. The improv double
+      bill on Wednesday is still due to take place. We hope to see you at the
+      bridewell soon.
+
+      ><footer><cite></cite></footer>
+
+
       #### MONDAY 20 SEPTEMBER at 7.30pm | Improv with Banana Hut Gang
 
 
@@ -148,7 +156,7 @@ Sedos are proud to announce the Sedos Festival, a six day celebration of theatre
 
 You’ll find more information on the tabs above, but here’s a summary of what to expect.
 
-**MONDAY 20 SEPTEMBER** | *Choose Your Own... Improv* with Banana Hut Gang, 7.30pm \
+**MONDAY 20 SEPTEMBER** | *Choose Your Own... Improv* with Banana Hut Gang, 7.30pm (**Cancelled - see the tab above for more information**)\
 **WEDNESDAY 22 SEPTEMBER** | *Improv Double Bill: Simprov and The Banana Hut Gang Together*, 7.30pm\
 **THURSDAY 23 SEPTEMBER** | *Everyone Welcome Sedos Social with Open Mic,* from 7.30pm (free welcome drink!)\
 **SATURDAY 25 SEPTEMBER** | *Play in a Day: DNA,* 7.30pm
