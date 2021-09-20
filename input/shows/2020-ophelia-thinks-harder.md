@@ -34,13 +34,13 @@ sections:
       **ROSENCRANTZ** | Emily Bates\
       **GUILDENSTERN** | Josie Teale\
       **ST JOAN/WOMAN 3** | Freya Thomas\
-      **OPHELIA’S MOTHER / QUEEN’S MAID / PLAYER 2** | Aileen Ryan\
+      **OPHELIA’S MOTHER / QUEEN'S MAID / PLAYER 2** | Aileen Shadbolt\
       **HAMLET** | Josh Beckman\
       **HORATIO** | Rhydian Harris\
       **POLONIUS** | David Pearson\
       **LAERTES** | Lewis McKenzie\
-      **PLAYER 1** | Paul Winterford\
-      **PLAYER 3 / WOMAN 1** | Mackenzie Sumner\
+      **PLAYER 1 / WOMAN2** | Paul Winterford\
+      **PLAYER 3 / WOMAN 1 / QUEEN'S MAID** | Mackenzie Sumner\
       **PLAYER 4** | Stephen Cole\
       \
       **CREATIVE TEAM**
