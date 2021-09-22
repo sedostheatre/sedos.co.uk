@@ -16,7 +16,7 @@ venue: Bridewell Theatre
 ticket-prices: From £10.50
 additional-ticket-info: "Gala night: Friday 25 February - tickets include a drink and programme"
 header-image: /assets/when-the-rain-stops-falling-1-.jpg
-flyer: /assets/when-the-rain-stops-falling-1-.jpg
+flyer: ""
 box-office-open: false
 sections:
   - order: 1
