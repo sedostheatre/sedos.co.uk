@@ -15,11 +15,14 @@ venue: Theatre Deli, 2 Finsbury Ave, London EC2M 2PF
 
 The play is directed by Helena Bumpus, with Assistant Direction from Lloyd Smith, Movement by Kim Barker, Costumes by Wing-Ho Lin and Lighting by Olly Levett. It will be performed at the Bridewell Theatre in February 2022.
 
-In-person auditions will be held on Saturday 23 and Monday 25 October (video auditions also accepted), and slots can be booked online at membership.sedos.co.uk with more information on our website.
+In-person auditions will be held on Saturday 23 and Monday 25 October (video auditions also accepted), and slots can be booked online at [membership.sedos.co.uk](https://membership.sedos.co.uk/) with more information on the full audition notice below.
+
+For more information contact: [rain@sedos.co.uk ](mailto:rain@sedos.co.uk)
 
 ## [VIEW THE FULL AUDITION NOTICE](https://docs.google.com/document/d/1yojh6TaR8lNuwBGkfoBzYNN3v8dYQearRDChD3Uh7ec/edit?usp=sharing)
 
-### **KEY DATES**
+### \
+**KEY DATES**
 
 **Open auditions** | Sat 23 Oct (11am-4pm) and Mon 25 Oct (7-10pm)\
 **Recalls** | Sat 30 Oct (10am-6pm)\
@@ -29,8 +32,6 @@ In-person auditions will be held on Saturday 23 and Monday 25 October (video aud
 **Show dates** | Tue 22-Sat 26 Feb 2022 (6 performances including Saturday matinee)
 
 Performances at the Bridewell Theatre, Bride Lane, EC4Y 8EQ
-
-For more information contact: [rain@sedos.co.uk ](mailto:rain@sedos.co.uk)
 
 ### **ROLES**
 
@@ -61,7 +62,7 @@ Sedos seeks to build and sustain a membership that is reflective of the diverse 
 ### **HOW TO SIGN UP**
 
 **Open auditions:** 
-Visit membership.sedos.co.uk and sign up for an audition slot, you will be sent a confirmation email from there with a form to fill in ahead of auditions. 
+Visit [membership.sedos.co.uk](https://membership.sedos.co.uk/) and sign up for an audition slot, you will be sent a confirmation email from there with a form to fill in ahead of auditions. 
 
 **Video auditions:**
 Email your recording to rain@sedos.co.uk by 4pm on Saturday 23 October 2021, and complete the online audition form which you can fill in at this link: <https://forms.gle/iegdxob6meVXWZod6>
