@@ -6,13 +6,18 @@ authors2: Book by MICHAEL MAYER
 authors3: Music and Lyrics by GREEN DAY
 subtitle: An energy-fuelled rock opera based on the Grammy Award-winning album
 showtimes:
+  - time: 2022-05-04 19:30
+  - time: 2022-05-05 19:30
+  - time: 2022-05-06 19:30
+  - time: 2022-05-07 14:30
+  - time: 2022-05-07 19:30
   - time: 2022-05-10 19:30
   - time: 2022-05-11 19:30
   - time: 2022-05-12 19:30
   - time: 2022-05-13 19:30
   - time: 2022-05-14 14:30
-  - time: 2022-05-14 19:30
-showtime-summary: 10-14 MAY 2022
+  - time: 2022-05-10 19:30
+showtime-summary: 4-14 MAY 2022
 venue: Bridewell Theatre
 primary-color: "#de0e42"
 header-image: /assets/americanidiot2.jpg
