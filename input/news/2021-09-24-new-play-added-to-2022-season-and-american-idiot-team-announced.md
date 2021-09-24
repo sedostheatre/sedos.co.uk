@@ -3,6 +3,8 @@ title: New play added to 2022 season and American Idiot team announced
 date: 2021-09-24
 image: /assets/americanidiot2.jpg
 ---
+*24 September 2021*
+
 **NEW PLAY ADDED TO 2022 SEASON**
 
 We’re thrilled to announce a new play for our 2022 season. *[When the Rain Stops Falling](https://sedos.co.uk/shows/2022-when-the-rain-stops-falling)*, by Andrew Bovell, is a beautiful and expansive drama spanning four generations and two continents, from a claustrophobic London flat in 1959 to the windswept southern coast of Australia in 2039. All throughout 80 years of torrential rain.  It sees a series of interwoven stories come together, as seven people confront the mysteries of their past, revealing how patterns of betrayal, love and abandonment are passed on.
@@ -14,8 +16,6 @@ In-person auditions will be held on Saturday 23 Oct and Monday 25 October (video
 [Find out more about the show](https://sedos.co.uk/shows/2022-when-the-rain-stops-falling).
 
 [VIEW THE FULL AUDITION NOTICE](https://docs.google.com/document/d/1yojh6TaR8lNuwBGkfoBzYNN3v8dYQearRDChD3Uh7ec/edit?usp=sharing)
-
-
 
 **AMERICAN IDIOT PRODUCTION TEAM**
 
