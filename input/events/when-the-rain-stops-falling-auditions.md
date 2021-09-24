@@ -44,7 +44,7 @@ Whilst we are casting a family and people as the same person (younger / older), 
 
 Where it says *Australian accent – please don’t be put off! We are not looking for perfection, and can support you learning one. You may be asked to do one in the recall, if you state that you can do it / are willing to give it a go on the audition form.
 
-## [VIEW THE FULL AUDITION NOTICE FOR A FULL CHARACTER BREAKDOWN](https://docs.google.com/document/d/1yojh6TaR8lNuwBGkfoBzYNN3v8dYQearRDChD3Uh7ec/edit?usp=sharing)
+## [VIEW THE FULL AUDITION NOTICE FOR A CHARACTER BREAKDOWN](https://docs.google.com/document/d/1yojh6TaR8lNuwBGkfoBzYNN3v8dYQearRDChD3Uh7ec/edit?usp=sharing)
 
 ### **AUDITIONS**
 
