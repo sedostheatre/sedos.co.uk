@@ -19,9 +19,9 @@ In-person auditions will be held on Saturday 23 and Monday 25 October (video aud
 
 For more information contact: [rain@sedos.co.uk ](mailto:rain@sedos.co.uk)
 
-## [VIEW THE FULL AUDITION NOTICE](https://docs.google.com/document/d/1yojh6TaR8lNuwBGkfoBzYNN3v8dYQearRDChD3Uh7ec/edit?usp=sharing)
+### [VIEW THE FULL AUDITION NOTICE](https://docs.google.com/document/d/1yojh6TaR8lNuwBGkfoBzYNN3v8dYQearRDChD3Uh7ec/edit?usp=sharing)
 
-**KEY DATES**
+#### **KEY DATES**
 
 **Open auditions** | Sat 23 Oct (11am-4pm) and Mon 25 Oct (7-10pm)\
 **Recalls** | Sat 30 Oct (10am-6pm)\
@@ -32,7 +32,7 @@ For more information contact: [rain@sedos.co.uk ](mailto:rain@sedos.co.uk)
 
 Performances at the Bridewell Theatre, Bride Lane, EC4Y 8EQ
 
-### **ROLES**
+#### **ROLES**
 
 There are 9 roles. 
 
@@ -44,9 +44,9 @@ Whilst we are casting a family and people as the same person (younger / older), 
 
 Where it says *Australian accent – please don’t be put off! We are not looking for perfection, and can support you learning one. You may be asked to do one in the recall, if you state that you can do it / are willing to give it a go on the audition form.
 
-## [VIEW THE FULL AUDITION NOTICE FOR A CHARACTER BREAKDOWN](https://docs.google.com/document/d/1yojh6TaR8lNuwBGkfoBzYNN3v8dYQearRDChD3Uh7ec/edit?usp=sharing)
+### [VIEW THE FULL AUDITION NOTICE FOR A CHARACTER BREAKDOWN](https://docs.google.com/document/d/1yojh6TaR8lNuwBGkfoBzYNN3v8dYQearRDChD3Uh7ec/edit?usp=sharing)
 
-### **AUDITIONS**
+#### **AUDITIONS**
 
 Open auditions will be 1 hour slots. They will be a mixture of games and scripted work. You will then be asked to perform one of the short monologues at the bottom of this page – you can select which one. You don’t need to learn it in advance, and copies will be provided on the day.
 
@@ -54,11 +54,11 @@ We also encourage video auditions for those who cannot make the open auditions. 
 
 Recalls will be based on script work. You may be provided with a script in advance, but you will not be expected to learn it fully. You may be asked to read new scripts on the day, for which you will have preparation time. Please be prepared to potentially read for multiple characters.
 
-### **EQUALITY, INCLUSION & DIVERSITY**
+#### **EQUALITY, INCLUSION & DIVERSITY**
 
 Sedos seeks to build and sustain a membership that is reflective of the diverse communities within London. We actively encourage performers to audition for the roles which they feel best suit their skills. For this production, we have no real fixed ideas – and really are open to casting as diversely as we are able. 
 
-### **HOW TO SIGN UP**
+#### **HOW TO SIGN UP**
 
 **Open auditions:** 
 Visit [membership.sedos.co.uk](https://membership.sedos.co.uk/) and sign up for an audition slot, you will be sent a confirmation email from there with a form to fill in ahead of auditions. 
@@ -66,4 +66,4 @@ Visit [membership.sedos.co.uk](https://membership.sedos.co.uk/) and sign up for 
 **Video auditions:**
 Email your recording to rain@sedos.co.uk by 4pm on Saturday 23 October 2021, and complete the online audition form which you can fill in at this link: <https://forms.gle/iegdxob6meVXWZod6>
 
-## [VIEW THE FULL AUDITION NOTICE](https://docs.google.com/document/d/1yojh6TaR8lNuwBGkfoBzYNN3v8dYQearRDChD3Uh7ec/edit?usp=sharing)
+### [VIEW THE FULL AUDITION NOTICE](https://docs.google.com/document/d/1yojh6TaR8lNuwBGkfoBzYNN3v8dYQearRDChD3Uh7ec/edit?usp=sharing)
