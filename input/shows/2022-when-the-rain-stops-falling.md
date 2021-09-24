@@ -1,7 +1,7 @@
 ---
 title: When The Rain Stops Falling
 year: "2022"
-authors: Andrew Bovell
+authors: by Andrew Bovell
 subtitle: A beautiful and expansive play spanning four generations and two
   continents, all throughout 80 years of torrential rain
 showtimes:
