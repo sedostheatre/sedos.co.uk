@@ -5,6 +5,9 @@ image: /assets/americanidiot2.jpg
 ---
 *24 September 2021*
 
+^^^ ![](/assets/when-the-rain-stops-falling-1-.jpg)
+^^^ 
+
 **NEW PLAY ADDED TO 2022 SEASON**
 
 We’re thrilled to announce a new play for our 2022 season. *[When the Rain Stops Falling](https://sedos.co.uk/shows/2022-when-the-rain-stops-falling)*, by Andrew Bovell, is a beautiful and expansive drama spanning four generations and two continents, from a claustrophobic London flat in 1959 to the windswept southern coast of Australia in 2039. All throughout 80 years of torrential rain.  It sees a series of interwoven stories come together, as seven people confront the mysteries of their past, revealing how patterns of betrayal, love and abandonment are passed on.
@@ -17,7 +20,9 @@ In-person auditions will be held on Saturday 23 Oct and Monday 25 October (video
 
 [VIEW THE FULL AUDITION NOTICE](https://docs.google.com/document/d/1yojh6TaR8lNuwBGkfoBzYNN3v8dYQearRDChD3Uh7ec/edit?usp=sharing)
 
-**AMERICAN IDIOT PRODUCTION TEAM**
+![](/assets/americanidiot2.jpg)
+
+**AMERICAN IDIOT PRODUCTION TEAM ANNOUNCED**
 
 We’re delighted to announce the creative team for Green Day's *[American Idiot](https://sedos.co.uk/shows/2022-american-idiot)*, which we’re performing in May 2022. The energy-fuelled rock opera will be directed by Matt Bentley with Musical Direction by Oscar Denihan. 
 
