@@ -27,7 +27,7 @@ additional-ticket-info: "Gala nights: Friday 26 November and Friday 3 December -
   tickets include a drink and programme"
 primary-color: "#fe5f49"
 header-image: /assets/generic-drs-image.png
-flyer: /assets/dirty.jpg
+flyer: /assets/dirty-rotten-scoundrels-poster.jpg
 box-office-open: true
 ticketsolve-show-id: "1173611193"
 sections:
