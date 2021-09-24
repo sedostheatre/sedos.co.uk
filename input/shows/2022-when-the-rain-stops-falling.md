@@ -1,7 +1,7 @@
 ---
 title: When The Rain Stops Falling
 year: "2022"
-authors: Andrew Bovell
+authors: By Andrew Bovell
 subtitle: A beautiful and expansive play spanning four generations and two
   continents, all throughout 80 years of torrential rain
 showtimes:
@@ -16,7 +16,7 @@ venue: Bridewell Theatre
 ticket-prices: From £10.50
 additional-ticket-info: "Gala night: Friday 25 February - tickets include a drink and programme"
 header-image: /assets/when-the-rain-stops-falling-1-.jpg
-flyer: /assets/when-the-rain-stops-falling-1-.jpg
+flyer: /assets/whentherainstopsfalling-holderposter.jpg
 box-office-open: false
 sections:
   - order: 1
