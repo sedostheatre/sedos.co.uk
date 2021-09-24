@@ -15,8 +15,9 @@ showtime-summary: 22-26 FEBRUARY 2022
 venue: Bridewell Theatre
 ticket-prices: From £10.50
 additional-ticket-info: "Gala night: Friday 25 February - tickets include a drink and programme"
+primary-color: "#735943"
 header-image: /assets/when-the-rain-stops-falling-1-.jpg
-flyer: /assets/whentherainstopsfalling-holderposter.jpg
+flyer: /assets/whentherainstopsfalling-holderposter-v2.jpg
 box-office-open: false
 sections:
   - order: 1
