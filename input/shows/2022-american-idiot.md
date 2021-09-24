@@ -20,18 +20,16 @@ flyer: /assets/americanidiot.jpg
 box-office-open: false
 sections:
   - order: 1
-    title: "APPLY TO BE ON THE CREATIVE TEAM "
+    title: CAST & CREATIVE TEAM
     body: >-
-      While we are generally a pitch-led society, the opportunity came up to
-      secure the rights for the musical *American Idiot* and be the first
-      amateur group to perform it in London. The committee felt that this was a
-      show our members would enjoy putting on and performing and therefore [we
-      are now looking for a team
-      ](https://docs.google.com/document/d/1bbhThOKhturIFEobrTp9vBK1r2TMBs0MuZErDPAcObo/edit)to
-      make that happen.
+      **DIRECTOR** | Matt Bentley\
+
+      **MUSICAL DIRECTOR** | Oscar Denihan\
+
+      **CREATIVVE PRODUCERS** | Adam Coppard and Oliver Levett
 
 
-      Applications to be on the creative team are open until midnight on 25 July – [find out how to pitch here](https://docs.google.com/document/d/1bbhThOKhturIFEobrTp9vBK1r2TMBs0MuZErDPAcObo/edit).
+      The production team are looking for a Choreographer to join them. Interested? Email **[idiot@sedos.co.uk](mailto:idiot@sedos.co.uk)**
 ---
 **The two-time Tony Award-winning hit musical *Green Day's American Idiot*, based on the Grammy Award-winning multi-platinum album, boldly takes the American musical where it's never gone before. This high-octane show includes every song from Green Day's album *American Idiot*, as well as several songs from follow-up release, *21st Century Breakdown*.**
 
