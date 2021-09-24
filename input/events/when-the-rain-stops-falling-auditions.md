@@ -21,7 +21,6 @@ For more information contact: [rain@sedos.co.uk ](mailto:rain@sedos.co.uk)
 
 ## [VIEW THE FULL AUDITION NOTICE](https://docs.google.com/document/d/1yojh6TaR8lNuwBGkfoBzYNN3v8dYQearRDChD3Uh7ec/edit?usp=sharing)
 
-### \
 **KEY DATES**
 
 **Open auditions** | Sat 23 Oct (11am-4pm) and Mon 25 Oct (7-10pm)\
