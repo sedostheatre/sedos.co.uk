@@ -36,7 +36,7 @@ sections:
       Adrian Hau\
       Olga-Marie Pratt\
       Sam Sugarman\
-      Sanchez Simpson
+      Sanchez Collingwood-Simpson
 
       **CREATIVE TEAM**\
       \
