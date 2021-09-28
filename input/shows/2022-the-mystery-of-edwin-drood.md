@@ -21,16 +21,13 @@ box-office-open: false
 sections:
   - order: 1
     title: CREATIVE TEAM
-    body: >-
+    body: |-
       **CREATIVE TEAM**
 
-
       **DIRECTOR** | Mark Siddall\
-
-      **CHOREOGRAPHER / ASSISTANT DIRECTOR** | Tim Garrad
-
-
-      The Edwin Drood team are looking for a musical director to join the production. If you're interested, please email [edwin.drood@sedos.co.uk](mailto:edwin.drood@sedos.co.uk)
+      **MUSICAL DIRECTOR** | Issie Osborne\
+      **CHOREOGRAPHER / ASSISTANT DIRECTOR** | Tim Garrad\
+      **PRODUCER** | Ben Hussey
 ---
 **A hilarious musical whodunit loosely based on Charles Dickens’ famous unfinished novel.**
 
