@@ -31,12 +31,12 @@ sections:
 
       Georgia Blessitt\
       Jack Brown\
+      Sanchez Collingwood-Simpson\
       Sabrina Edwards\
       Kate Gledhill\
       Adrian Hau\
       Olga-Marie Pratt\
-      Sam Sugarman\
-      Sanchez Collingwood-Simpson
+      Sam Sugarman
 
       **CREATIVE TEAM**\
       \
