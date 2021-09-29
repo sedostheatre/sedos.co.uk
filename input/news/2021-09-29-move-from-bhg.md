@@ -3,7 +3,6 @@ title: Move from BHG
 date: 2021-09-29
 image: /assets/12617544784_a4aeb73e67_o.jpg
 ---
-\
 *29 September 2021*
 
 **Last Saturday, we sadly finally moved out of our rehearsal, storage and build space at 1 Brewers' Hall Garden (BHG).** 
