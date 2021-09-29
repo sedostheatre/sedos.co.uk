@@ -14,7 +14,7 @@ A straw poll of those present who had been at both the move into BHG back in 201
 
 It is incredible to think of what having BHG (and its predecessor, Ocean House) has done to transform Sedos. But we also have to remember that prior to 2009, Sedos didn’t have any permanent space, so we are in fact going back to where we were – but hopefully only temporarily.  
 
-Having BHG has allowed us to improve our production values, to have a single home, to have somewhere to access our gear - and to produce shows such as *Into the Woods*, *Legally Blonde*, *Noises Off*, *The Drowsy Chaperone*, *Priscilla Queen of the Desert*, *Pippin* and *Ragtime*.It has also enabled us to provide a regular home to Sedance and Simprov.  
+Having BHG has allowed us to improve our production values, to have a single home, to have somewhere to access our gear - and to produce shows such as *Into the Woods*, *Legally Blonde*, *Noises Off*, *The Drowsy Chaperone*, *Priscilla Queen of the Desert*, *Pippin* and *Ragtime*. It has also enabled us to provide a regular home to Sedance and Simprov.  
 
 We have contingency plans in place to support all the shows for the rest of this calendar year, and are working on extending those arrangements as necessary to support our 2022 shows - but in the meantime we are also working very hard to identify more permanent space. We have a number of irons in the fire, but do reach out to any of the trustees or management committee members personally or via [committee@sedos.co.uk](mailto:committee@sedos.co.uk) if you have any suggestions or know someone who has access to an unused office basement.
 
