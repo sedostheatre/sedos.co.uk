@@ -51,6 +51,15 @@ sections:
       **LIGHTING DESIGN** | Adam Coppard
     order: 1
   - order: 1
+    title: GALLERY
+    body: <a data-flickr-embed="true"
+      href="https://www.flickr.com/photos/sedos/albums/72157719936231731"
+      title="Ophelia Thinks Harder - 2021"><img
+      src="https://live.staticflickr.com/65535/51535620734_926147417b_z.jpg"
+      width="640" height="480" alt="Ophelia Thinks Harder - 2021"></a><script
+      async src="//embedr.flickr.com/assets/client-code.js"
+      charset="utf-8"></script>
+  - order: 1
     title: REVIEWS
     body: >-
       >"Ophelia Thinks Harder is the most grown up, clever – and very thoughtful
