@@ -66,7 +66,7 @@ sections:
       – play I’ve seen in a long time. Full marks to Sedos for staging it with
       such aplomb – and under such difficult circumstances."
 
-      ><footer><cite><a target="_blank" href="https://www.sardinesmagazine.co.uk/review/ophelia-thinks-harder"></a></cite></footer>
+      ><footer><cite><a target="_blank" href="https://www.sardinesmagazine.co.uk/review/ophelia-thinks-harder">Ophelia Things Harder, 2021, Sardines</a></cite></footer>
 
 
       >"The script is as good as anything by Stoppard.... A challengingly ambitious play for a non-professional company but this is Sedos...and it comes off very successfully.... Definitely one to catch if you can."
