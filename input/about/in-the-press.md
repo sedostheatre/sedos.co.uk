@@ -18,7 +18,7 @@ RedirectFrom:
 >Ophelia Thinks Harder is the most grown up, clever – and very thoughtful – play I’ve seen in a long time. Full marks to Sedos for staging it with such aplomb – and under such difficult circumstances… The script is as good as anything by Stoppard.... A challengingly ambitious play for a non-professional company but this is Sedos...and it comes off very successfully.... Harding-Moore is a fine actor in a huge role who really makes you think about the plight of women at all points in history. And I’ve left Josh Beckman as Hamlet until last because he is outstanding… Definitely one to catch if you can.
 ><footer><cite><a target="_blank" href="https://www.sardinesmagazine.co.uk/review/ophelia-thinks-harder">Ophelia Things Harder, 2021, Sardines</a></cite></footer>
 
->Making a welcome return to the Bridewell Theatre after 18 months of postponement due to lockdown, Sedos demonstrated that there has been no loss of talent, professionalism or production value in the intervening period with Ophelia Thinks Harder
+>Making a welcome return to the Bridewell Theatre after 18 months of postponement due to lockdown, Sedos demonstrated that there has been no loss of talent, professionalism or production value in the intervening period with Ophelia Thinks Harder.
 ><footer><cite><a target="_blank" href="http://musicaltheatremusings.co.uk/ophelia-thinks-harder">Ophelia Things Harder, 2021, Musical Theatre Musings</a></cite></footer>
 
 >This highly entertaining production is a fine example of the extraordinarily hard work that goes into every Sedos event. A great night out!
