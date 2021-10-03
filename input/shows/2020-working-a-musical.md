@@ -55,6 +55,14 @@ sections:
       **COMMITTEE LIAISON** | Stephen Beeny\
       **ORIGINAL PRODUCER** | Michelle Calvert\
       **ORIGINAL DIRECTION AND PITCH** | Peter Shimmin
+  - order: 2
+    title: GALLERY
+    body: '<a data-flickr-embed="true"
+      href="https://www.flickr.com/photos/sedos/albums/72157713320103323"
+      title="Working: A Musical - 2021"><img
+      src="https://live.staticflickr.com/65535/51546195098_71d553751d_z.jpg"
+      width="640" height="480" alt="Working: A Musical - 2021"></a><script async
+      src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>'
 RedirectFrom:
   - 2020/working.htm
 ---
