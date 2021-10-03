@@ -12,7 +12,7 @@ RedirectFrom:
 
 ## *Ophelia Thinks Harder*
 
-^^^ ![](/assets/51534883511_4e43b31104_o.jpg)
+^^^ ![](/assets/51534883511_1022fe22eb_k.jpg)
 ^^^ Ophelia Thinks Harder
 
 >Ophelia Thinks Harder is the most grown up, clever – and very thoughtful – play I’ve seen in a long time. Full marks to Sedos for staging it with such aplomb – and under such difficult circumstances… The script is as good as anything by Stoppard.... A challengingly ambitious play for a non-professional company but this is Sedos...and it comes off very successfully.... Harding-Moore is a fine actor in a huge role who really makes you think about the plight of women at all points in history. And I’ve left Josh Beckman as Hamlet until last because he is outstanding… Definitely one to catch if you can.
