@@ -21,7 +21,7 @@ showtime-summary: 4-14 MAY 2022
 venue: Bridewell Theatre
 primary-color: "#de0e42"
 header-image: /assets/americanidiot2.jpg
-flyer: /assets/americanidiot.jpg
+flyer: /assets/american-idiot-holderposter-v2.jpg
 box-office-open: false
 sections:
   - order: 1
