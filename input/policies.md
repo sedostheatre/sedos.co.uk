@@ -225,13 +225,12 @@ Approved: 14 July 2020
 This policy sets out:
 
 * Sedos’ commitment to ensuring all of its shows and other activities are conducted in a COVID-19 secure manner;
-* The COVID-19 related requirements that must be complied with in respect of any rehearsals, shows, classes, meetings or other activities conducted by Sedos members in the furtherance of Sedos’ aims (“Sedos Activities”);
-* The requirements of the Sedos ‘Track and Trace’ record; and
+* The COVID-19 related requirements that must be complied with in respect of any rehearsals, shows, classes, meetings or other activities conducted by Sedos members in the furtherance of Sedos’ aims (“Sedos Activities”); and
 * The specific plan for people that need to self-isolate and/or are identified as symptomatic.
 
 This policy should be read in conjunction with the prevailing government guidance on COVID-19 for professional and non-professional performing arts organizations as it is updated from time to time (the “Guidance”). The links to the Guidance can be found at the end of this policy.
 
-Responsibility for compliance with this policy shall rest with the Management Committee (led by the COVID Compliance Officer) under the supervision and guidance of the Board of Trustees. The Management Committee and COVID Compliance Officer may delegate day-to-day responsibility for compliance with this policy in respect of a specific Sedos Activity to a Session Leader in accordance with section E of this policy but shall regularly monitor that Sedos Activity to ensure compliance is being met and if it is not shall either take steps to ensure compliance or stop the Sedos Activity from proceeding. 
+Responsibility for compliance with this policy shall rest with the Management Committee (led by the COVID Compliance Officer) under the supervision and guidance of the Board of Trustees. The Management Committee and COVID Compliance Officer may delegate day-to-day responsibility for compliance with this policy in respect of a specific Sedos Activity to a Session Leader in accordance with section E of this policy but shall regularly monitor that Sedos Activity to ensure compliance is being met and if it is not shall either take steps to ensure compliance or stop the Sedos Activity from proceeding. 
 
 The COVID Compliance Officer shall be nominated by the Management Committee and at the date of this policy is:
 
@@ -246,37 +245,20 @@ Sedos is committed to:
 * maintaining and protecting the health, safety and welfare of its members and the audiences of the shows that it performs;
 * ensuring that any Sedos Activities are conducted in a COVID-19 secure manner and, at a minimum, in accordance with this policy and the Guidance;
 * ensuring that any venues or locations at which Sedos Activities are undertaken are COVID-19 Secure Venues and, at a minimum, comply with this policy, the Guidance and any other government guidance relevant to that venue; and
-* ensuring that its members, volunteers and non-professionals are afforded the same level of protection to their health and safety as employees and the self-employed. 
+* ensuring that its members, volunteers and non-professionals are afforded the same level of protection to their health and safety as employees and the self-employed. 
 
 ### C. RISK ASSESSMENT
 
-The COVID-19 risk assessment (attached at Annex 1) shall be reviewed and, if necessary, updated on a regular basis and the risk mitigating actions set out therein shall be put into practice by the Management Committee. A copy of the risk assessment and this policy shall be accessible on the Sedos website. 
+The COVID-19 risk assessment (attached at Annex 1) shall be reviewed and, if necessary, updated on a regular basis and the risk mitigating actions set out therein shall be put into practice by the Management Committee. A copy of the risk assessment and this policy shall be accessible on the Sedos website. 
 
 ### D. VENUES
 
 Sedos Activities are conducted at a number of venues. The two venues where Sedos Activities are most often conducted and over which Sedos has the most control with respect to COVID-19 security are Brewers Hall Gardens (“BHG”) and the Bridewell Theatre. The Management Committee, under the supervision of the Board of Trustees shall ensure that:
 
 * BHG is maintained as a COVID-19 Secure Venue;
-* the Bridewell Theatre and any other space where Sedos Activities take place are COVID-19 Secure Venues for so long as they are being used by Sedos; 
-* this policy and a signed version of this [notice](https://assets.publishing.service.gov.uk/media/5f0810563a6f4004158f18bd/staying-covid-19-secure-accessible.pdf) are posted on notice boards in BHG and on the Sedos website; and
+* the Bridewell Theatre and any other space where Sedos Activities take place are COVID-19 Secure Venues for so long as they are being used by Sedos; 
+* this policy is posted on the Sedos website; and
 * clear guidance on social distancing and hygiene is provided to audiences before arrival at any performance, for example by email when purchasing tickets, and on any digital marketing and websites.
-
-#### BHG
-
-For so long as there is no proven effective vaccine for COVID-19 and transmission of COVID-19 remains a risk, no Sedos Activities of any kind shall occur in BHG unless such Sedos Activities comply with the terms of this policy and the prevailing Guidance (other than any activities by suitable authorised persons that are required to make BHG a COVID-19 Secure Venue or otherwise to bring BHG in compliance with this policy or any other HSE policy or law). The maximum number of participants allowed in each space in BHG shall be set by the COVID Compliance Officer from time to time taking into account the prevailing Guidance. On the basis of maintaining social distancing of 2m at all times this shall be a maximum of:
-
-* 14 people for Space 1;
-* 10 people for Space 2;
-* 4 people for the build space (assuming face masks are always used);
-* 1 person for kitchen;
-* 2 people for sewing room (assuming face masks are used when there are two);
-* Props and costume sections only to be used by the production team member(s) responsible for props/costume.
-
-#### Bridewell Theatre
-
-For so long as there is no proven effective vaccine for COVID-19 and transmission of COVID-19 remains a risk, no Sedos Activities of any kind shall occur in the Bridewell Theatre unless such Sedos Activities comply with the terms of this policy, any policy of the Bridewell Theatre and the prevailing Guidance. 
-
-#### Other Venues and Locations
 
 Before any Sedos Activities are conducted at venues other than BHG or the Bridewell Theatre, due diligence shall be done to ensure that such venue is a Covid-19 Secure Venue. Any Sedos Activities at such venue shall comply with the terms of this policy, any policy of that venue and the prevailing Guidance.
 
@@ -284,7 +266,7 @@ Before any Sedos Activities are conducted at venues other than BHG or the Bridew
 
 #### Session Leaders
 
-Whenever SEDOS undertakes a Sedos Activity, a separate COVID risk assessment shall be conducted for that Sedos Activity. Whilst the Management Committee will retain overall responsibility for ensuring that all Sedos Activities comply with this policy and the Guidance, a “Session Leader” shall be designated for each Sedos Activity who is delegated responsibility for ensuring the Sedos Activity complies with this policy and the Guidance. The Session Leader shall be a person (or persons) who is responsible for planning and conducting the Sedos Activity and is intended to be present at all or a majority of the in-person meetings for the Sedos Activity. For example, the director or producer of the relevant show or the person running the particular Sedos class.  
+Whenever SEDOS undertakes a Sedos Activity, a separate COVID risk assessment shall be conducted for that Sedos Activity. Whilst the Management Committee will retain overall responsibility for ensuring that all Sedos Activities comply with this policy and the Guidance, a “Session Leader” shall be designated for each Sedos Activity who is delegated responsibility for ensuring the Sedos Activity complies with this policy and the Guidance. The Session Leader shall be a person (or persons) who is responsible for planning and conducting the Sedos Activity and is intended to be present at all or a majority of the in-person meetings for the Sedos Activity. For example, the director or producer of the relevant show or the person running the particular Sedos class.
 
 #### Activity Plan
 
@@ -293,16 +275,13 @@ Before commencement of the Sedos Activity, the Session Leader shall meet with th
 * demonstrate they have read and understood this policy and the Guidance; and
 * set out and agree a plan for ensuring their particular activity will comply with this policy and the Guidance (an “Activity Plan”).
 
-If the Management Committee is satisfied that the Activity Plan properly mitigates any general and specific risks and that the Session Leader can reasonably ensure compliance with this policy and the Activity Plan by participants, the Sedos Activity may proceed in accordance with this policy and the Activity Plan. 
+If the Management Committee is satisfied that the Activity Plan properly mitigates any general and specific risks and that the Session Leader can reasonably ensure compliance with this policy and the Activity Plan by participants, the Sedos Activity may proceed in accordance with this policy and the Activity Plan. 
 
 In considering any Activity Plan where the Guidelines and this policy cannot be followed in full, the Management Committee shall consider whether that Sedos Activity needs to continue, and if so, take any additional actions possible to reduce the risk of transmission between participants and audiences.
 
 The Session Leader, with the support of the Management Committee shall be responsible for ensuring that all participants comply with this policy and the Activity Plan. If the relevant Sedos Activity is a show, there may be separate Activity Plans for the rehearsal period and the performance period and the rehearsal period may proceed before the Activity Plan for the performances has been discussed and agreed.
 
-The Session Leader shall also ensure that ahead of commencement of the Sedos Activity, each participant receives the short form “Do’s and Don’ts” list set out in Annex 2. Copies of this list shall also be posted separately and prominently in BHG. 
-
-#### Specific Considerations to take into account for an Activity Plan
-
+Specific Considerations to take into account for an Activity Plan
 In developing and implementing an Activity Plan the Management Committee and the Session Leader should consider the following (on a non-exclusive basis):
 
 * Maintaining social distancing wherever possible and reducing as far as possible any time that individuals are not able to maintain social distancing;
@@ -323,9 +302,9 @@ In developing and implementing an Activity Plan the Management Committee and the
 * If performers are likely to spit during their performance, Session Leaders should consider additional mitigations such the use of face coverings or screens;
 * Performers attending rehearsals and performances only when required for their part and changing the call schedules so that only those required are on-site;
 * Considering contingency plans if a key performer or other participant becomes unable to participate in-person due to becoming symptomatic;
-* Where an individual is operating on a peripatetic basis, such as a teacher, director or choreographer, and operating across multiple groups or individuals: 
+* Where an individual is operating on a peripatetic basis, such as a teacher, director or choreographer, and operating across multiple groups or individuals:
 
-  * Maintaining distancing requirements with each group; 
+  * Maintaining distancing requirements with each group;
   * Avoiding situations where distancing requirement is broken, for example demonstrating partnering work in dancing; and
   * Making efforts to reduce the number of groups interacted with and locations worked in, to reduce the number of contacts made;
 * Take steps to minimise the risk of transmission playing in music groups including:
@@ -355,13 +334,11 @@ The following are Activity Plan considerations specific to show performances:
 
 * Considering contingency plans if a key performer or other participant becomes unable to participate in-person due to becoming symptomatic;
 * Taking steps to minimise transmission and maintain social distancing before, during and after live performances including:
-
-  * Conducting a specific risk assessment for each premises or venue and the proposed activities to identify: 
-
-    * The number of people that can reasonably follow social distancing within the venue or premises, taking into account total space,   equipment as well as likely constraints (toilets and washrooms) and pinch points; 
-    * The ventilation rates that can be applied to the premises or venue and whether this can be adjusted sufficiently to deliver a safe environment for all those due to attend at any time (performers, producers, support teams and audience combined); 
+  * Conducting a specific risk assessment for each premises or venue and the proposed activities to identify:
+    * The number of people that can reasonably follow social distancing within the venue or premises, taking into account total space, equipment as well as likely constraints (toilets and washrooms) and pinch points;
+    * The ventilation rates that can be applied to the premises or venue and whether this can be adjusted sufficiently to deliver a safe environment for all those due to attend at any time (performers, producers, support teams and audience combined);
     * Which activities can be undertaken and which spaces can be used with specific measures to ensure social distancing and maintain cleaning;
-  * Limiting ticket sales to a volume which ensures social distancing can be maintained; 
+  * Limiting ticket sales to a volume which ensures social distancing can be maintained; 
   * For performances or events where there is no ticketing, considering using other communications approaches, coupled with stewarding, to manage the numbers attending;
   * Setting appropriate limits for the number of people in the venue or on the premises, overall and in any particular congestion areas, for example doorways between outside and inside spaces;
   * Enabling a booking/seating system or other approaches to manage demand of spaces, and to record those attending, including their seating position which can be provided for contact tracing purposes in the event of a case of Covid-19 in a participant;
@@ -414,7 +391,7 @@ The following are Activity Plan considerations specific to show performances:
 * Considering steps to reduce transmission and maintain social distancing where possible whilst managing hair and make-up including:
 
   * asking performers to do their own hair and make-up where appropriate;
-  * Where it is not possible for someone to do their own hair or makeup, following the [government guidance on working in close contact settings](https://www.gov.uk/guidance/working-safely-during-coronavirus-covid-19/close-contact-services) where relevant; 
+  * Where it is not possible for someone to do their own hair or makeup, following the government guidance on working in close contact settings where relevant; 
   * Limiting the time spent in a hair and make-up chair whenever possible;
   * Not sharing makeup equipment; Allocating own makeup kit, brushes, hair products and equipment to each cast member, to be sterilized each day and only used on them;
   * Increasing equipment and surface hygiene.
@@ -426,13 +403,12 @@ In the event of emergency or accident, safety shall take precedence over COVID-1
 ### F. PROCESS AFTER COVID OUTBREAK
 
 Individuals who:
-
 * have tested positive for COVID-19;
 * have symptoms of COVID-19 (a high temperature, new and persistent cough or anosmia, however mild);
-* live in a household or are in a support bubble with someone who has symptoms; or
-* are advised to self-isolate as part of the government’s [track and trace](https://www.nhs.uk/conditions/coronavirus-covid-19/testing-and-tracing/) service,
-
+* are required to self-isolate as part of the government’s prevailing guidance,
 shall not be permitted to take part in Sedos Activities until they have complied with this Section F (each an “Excluded Participant”).
+
+In the event that an individual has been advised to self-isolate as part of the government’s track and trace or app system but is not mandatorily required to self-isolate pursuant to the prevailing government guidance, the following steps shall also be followed unless the COVID Compliance Officer is satisfied that following such steps is not required to: (a) meet Sedos’ legal obligations; and (b) meet Sedos’ commitments in Section B of this policy.  
 
 If a participant becomes aware they are an Excluded Participant they should:
 
@@ -441,11 +417,9 @@ If a participant becomes aware they are an Excluded Participant they should:
 * if deemed necessary by the Management Committee, obtain the opinion of a doctor that it is safe to return to in-person activities before doing so.
 
 If a Session Leader becomes or is made aware of a participant becoming an Excluded Participant they shall immediately:
-
-* inform the *COVID Compliance Officer** by email or phone (details in Section A);
+* inform the COVID Compliance Officer by email or phone (details in Section A);
 * inform all other participants in the Sedos Activity that a participant has become an Excluded Participant; and
-* suspend any in-person elements of the relevant Sedos Activity until the circumstances leading to that person becoming an Excluded Participant can be investigated by the COVID Compliance Officer.
-
+* comply with any instructions given by the COVID Compliance Officer.
 Promptly thereafter the Session Leader shall meet with the COVID Compliance Officer and other relevant members of the Management Committee to discuss:
 
 * whether the Sedos Activity can continue; and
@@ -453,20 +427,14 @@ Promptly thereafter the Session Leader shall meet with the COVID Compliance Offi
 
 The Management Committee shall reserve the right to suspend any Sedos Activity either temporarily or indefinitely if any participant in that Sedos Activity becomes an Excluded Participant.
 
-### G. TRACK AND TRACE
+### H. RELEVANT LINKS
 
-Sedos shall keep a temporary record of participants and audiences for any Sedos Activities for 21 days after the activity occurs, in a way that is manageable and accessible. Sedos shall assist NHS Test and Trace with requests for that data if needed. 
+https://www.gov.uk/guidance/working-safely-during-coronavirus-covid-19/performing-arts
 
-### H. FACE COVERINGS
+https://www.gov.uk/government/publications/coronavirus-covid-19-meeting-with-others-safely-social-distancing/coronavirus-covid-19-meeting-with-others-safely-social-distancing
 
-Face coverings should be used wherever possible in all Sedos Activities, including during breaks, downtimes and “off stage” times and especially in enclosed public spaces where social distancing may be difficult and where participants come into contact with people they do not normally meet. Consideration should always be given to whether the wearing of a face covering may inhibit communication with people who rely on lip reading, facial expressions and clear sound.
-
-### I.  RELEVANT LINKS
-
-* Guidance for people who work in performing arts, including arts organisations, venue operators and participants: <https://www.gov.uk/guidance/working-safely-during-coronavirus-covid-19/performing-arts>
-* Guidance on meeting with others safely (social distancing): <https://www.gov.uk/government/publications/coronavirus-covid-19-meeting-with-others-safely-social-distancing/coronavirus-covid-19-meeting-with-others-safely-social-distancing>
-
-Approved: 21 November 2020
+Approved: 4 October 2021
+ 
 
 ### ANNEX 1 - COVID-19 Risk Assessment Register
 
@@ -474,7 +442,9 @@ Company name: Stock Exchange Dramatic and Operatic Society (“SEDOS”)
 
 Completed by: Dan Saunders (Trustee) /Adam Coppard (Management Committee) (“Reviewers”)
 
-Date of next review: January 2021 Date assessment was carried out: 12 September 2020
+Date of next review: January 2022
+
+Date assessment was carried out: January 2021
 
 How was the risk assessment done? 
 
