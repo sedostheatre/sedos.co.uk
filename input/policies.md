@@ -261,7 +261,7 @@ Sedos Activities are conducted at a number of venues. The two venues where Sedos
 * clear guidance on social distancing and hygiene is provided to audiences before arrival at any performance, for example by email when purchasing tickets, and on any digital marketing and websites.
 
 Before any Sedos Activities are conducted at venues other than BHG or the Bridewell Theatre, due diligence shall be done to ensure that such venue is a Covid-19 Secure Venue. Any Sedos Activities at such venue shall comply with the terms of this policy, any policy of that venue and the prevailing Guidance.
- 
+
 ### E. ACTIVITY BY ACTIVITY RISK ASSESSMENT AND COMPLIANCE
 
 #### Session Leaders
@@ -395,13 +395,16 @@ The following are Activity Plan considerations specific to show performances:
   * Limiting the time spent in a hair and make-up chair whenever possible;
   * Not sharing makeup equipment; Allocating own makeup kit, brushes, hair products and equipment to each cast member, to be sterilized each day and only used on them;
   * Increasing equipment and surface hygiene.
-Accidents and other incidents
+
+#### Accidents and other incidents
+
 In the event of emergency or accident, safety shall take precedence over COVID-19 security. In an emergency people do not have to social distance if it would be unsafe.
-F.	PROCESS AFTER COVID OUTBREAK
+
+### F. PROCESS AFTER COVID OUTBREAK
+
 Individuals who:
 * have tested positive for COVID-19;
 * have symptoms of COVID-19 (a high temperature, new and persistent cough or anosmia, however mild);
-* 
 * are required to self-isolate as part of the government’s prevailing guidance,
 shall not be permitted to take part in Sedos Activities until they have complied with this Section F (each an “Excluded Participant”).
 
