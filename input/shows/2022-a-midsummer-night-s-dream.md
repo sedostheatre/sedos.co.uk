@@ -18,7 +18,7 @@ showtimes:
 showtime-summary: 14-24 SEPTEMBER 2022
 primary-color: "#8cbea1"
 header-image: /assets/dance-1566852_1920.jpeg
-flyer: /assets/dream2.jpg
+flyer: /assets/dream-holderposter-v2.jpg
 box-office-open: false
 sections:
   - order: 1
