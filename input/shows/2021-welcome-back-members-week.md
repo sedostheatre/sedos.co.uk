@@ -23,7 +23,7 @@ ticket-prices: The Acting Group, Piano Night Social and Play in a Day are FREE
   Banana Hut Gang are £8 full price and £6 for Sedos members and concessions.
 primary-color: "#fd7d0f"
 header-image: /assets/bananahutgang.jpg
-flyer: /assets/welcomebackmembersweek.jpg
+flyer: /assets/welcomeback.jpg
 box-office-open: true
 sections:
   - order: 1
