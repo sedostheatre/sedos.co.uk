@@ -47,14 +47,15 @@ sections:
       **TECHNICAL PRODUCER / STAGE MANAGER** | Andrew Laidlaw\
       **SET DESIGNERS** | Dan Saunders and Gill Daniell\
       **SET BUILDER** | Adam Lockett\
+      **SET PAINTER** | Amaia Eguiluz\
       **LIGHTING DESIGNER** | Shiri Stern\
       **SOUND DESIGNER** | Adam Coppard\
       **LIGHTING OPERATOR** | Alex Papadopoulos\
       **MARKETING** | Pippa Kyle\
       **PHOTOGRAPHER** | Stephen Russell\
       **COMMITTEE LIAISON** | Stephen Beeny\
-      **ORIGINAL PRODUCER** | Michelle Calvert\
-      **ORIGINAL DIRECTION AND PITCH** | Peter Shimmin
+      **ORIGINAL DIRECTION AND PITCH** | Peter Shimmin\
+      **ORIGINAL PRODUCER** | Michelle Calvert
   - order: 2
     title: GALLERY
     body: '<a data-flickr-embed="true"
