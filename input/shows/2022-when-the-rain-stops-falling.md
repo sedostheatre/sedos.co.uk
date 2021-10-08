@@ -10,7 +10,7 @@ showtimes:
   - time: 2022-02-24 19:30
   - time: 2022-02-25 19:30
   - time: 2022-02-26 14:30
-  - time: 2022-02-22 19:30
+  - time: 2022-02-26 19:30
 showtime-summary: 22-26 FEBRUARY 2022
 venue: Bridewell Theatre
 ticket-prices: From £10.50
