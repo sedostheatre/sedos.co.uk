@@ -14,8 +14,6 @@ We also have our very own in-house improv group, The Banana Hut Gang, which was 
 
 ## **The Simprov Drop in**
 
-Ends 6 March until further notice to concentrate on the [eight-week beginners' course.](/events/improv-for-beginners-8-week-course-with-performance)
-
 Our open-to-all session! Join us every Friday night for an evening of games, learning and a whole heap of fun.
 
 Perfect for the complete beginner as well as the hardened improv veteran, sessions will explore the fundamental principles of improv such as making bold choices, character development and finding your ‘game’.
