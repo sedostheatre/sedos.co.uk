@@ -16,7 +16,7 @@ showtimes:
   - time: 2022-05-12 19:30
   - time: 2022-05-13 19:30
   - time: 2022-05-14 14:30
-  - time: 2022-05-10 19:30
+  - time: 2022-05-14 19:30
 showtime-summary: 4-14 MAY 2022
 venue: Bridewell Theatre
 primary-color: "#de0e42"
