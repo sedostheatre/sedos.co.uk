@@ -6,8 +6,6 @@ header-image: assets/images/headers/SedosWebsite-Banner-Simprov.jpg
 venue: ""
 recurrence: Fridays at 7pm
 ---
-#### **DUE TO CORONAVIRUS, SIMPROV HAS BEEN TEMPORARILY SUSPENDED**
-
 **Simprov is the Sedos group that lets members and non-members explore their spontaneous side!**
 
 If you want to learn improvisation skills and practise them in a fun and supportive way, then the Simprov Drop In is the place for you. We also run regular workshops and courses that lead to public performances.
@@ -15,8 +13,6 @@ If you want to learn improvisation skills and practise them in a fun and support
 We also have our very own in-house improv group, The Banana Hut Gang, which was formed from a collection of the most die-hard Simprov attendees. The Gang design new shows and spread the improv love across London.
 
 ## **The Simprov Drop in**
-
-Ends 6 March until further notice to concentrate on the [eight-week beginners' course.](/events/improv-for-beginners-8-week-course-with-performance)
 
 Our open-to-all session! Join us every Friday night for an evening of games, learning and a whole heap of fun.
 
