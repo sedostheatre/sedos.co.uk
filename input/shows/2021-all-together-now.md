@@ -11,7 +11,7 @@ showtime-summary: 12-13 NOVEMBER 2021
 venue: Bishopsgate Institute
 ticket-prices: From £13
 primary-color: "#ffc20f"
-header-image: /assets/gold_onbackground_horizontal_1500px.jpg
+header-image: /assets/gold_onbackground_square.jpg
 flyer: ""
 box-office-open: false
 sections:
