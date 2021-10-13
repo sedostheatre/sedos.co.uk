@@ -10,9 +10,10 @@ showtimes:
 showtime-summary: 12-13 NOVEMBER 2021
 venue: Bishopsgate Institute
 ticket-prices: From £13
+additional-ticket-info: 2930be
 primary-color: "#ffc20f"
 header-image: /assets/gold_onbackground_square.jpg
-flyer: ""
+flyer: /assets/all-together-now.jpg
 box-office-open: false
 sections:
   - order: 1
