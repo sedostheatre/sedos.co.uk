@@ -22,7 +22,7 @@ primary-color: "#fc8d00"
 header-image: /assets/workingsquare.jpg
 flyer: /assets/working-2021-flyer-front-no-bleed.jpg
 box-office-open: true
-ticketsolve-show-id: "1173600327"
+box-office-link: "https://sedos.ticketsolve.com/shows/1173600327"
 sections:
   - order: 1
     title: CAST & CREATIVE TEAM

@@ -29,7 +29,7 @@ primary-color: "#fe5f49"
 header-image: /assets/generic-drs-image.png
 flyer: /assets/dirty-rotten-scoundrels-poster.jpg
 box-office-open: true
-ticketsolve-show-id: "1173611193"
+box-office-link: "https://sedos.ticketsolve.com/shows/1173611193"
 sections:
   - order: 1
     title: CAST & CREATIVE TEAM
