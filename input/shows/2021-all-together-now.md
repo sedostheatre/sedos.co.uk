@@ -13,7 +13,7 @@ venue: Bishopsgate Institute
 ticket-prices: From £13
 additional-ticket-info: ""
 primary-color: "#ffc20f"
-header-image: /assets/atn.jpg
+header-image: /assets/atn2.jpg
 flyer: /assets/all-together-now.jpg
 box-office-open: false
 sections:
