@@ -82,7 +82,7 @@
 
                         if (showDates.Any(x => x > DateTime.Now) && Model.Get("box-office-open", false))
                         {
-                            var bookingLink = BoxOfficeUri.FromShowId(Model.GetString("ticketsolve-show-id"));
+                            var bookingLink = BoxOfficeUri.FromBoxOfficeLink(Model.GetString("box-office-link", "https://tickets.sedos.co.uk/shows"));
                             <a class="btn btn-sedos-blue" href="@bookingLink">Book tickets</a>
                         }
                     }

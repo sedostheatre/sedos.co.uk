@@ -22,7 +22,7 @@ primary-color: "#b21b60"
 header-image: /assets/ophelia-thinks-harder-landscape.jpg
 flyer: /assets/ophelia-updated-poster-sb-lores-.jpg
 box-office-open: true
-ticketsolve-show-id: "1173600323"
+box-office-link: "https://sedos.ticketsolve.com/shows/1173600323"
 sections:
   - title: CAST & CREATIVE TEAM
     body: |-

@@ -15,7 +15,8 @@ additional-ticket-info: ""
 primary-color: "#ffc20f"
 header-image: /assets/atn2.jpg
 flyer: /assets/all-together-now.jpg
-box-office-open: false
+box-office-open: true
+box-office-link: "https://www.bishopsgate.org.uk/whats-on/activity/all-together-now"
 sections:
   - order: 1
     title: CAST & CREATIVE TEAM
@@ -68,8 +69,6 @@ sections:
 **To celebrate the return of live theatre, we are joining forces with our friends at Centre Stage, Geoids and Bishopsgate Institute to stage the unique new revue, *All Together Now!*** 
 
 The show is a global celebration of musical theatre put together by Music Theatre International (MTI) packed full of numbers from their beloved shows. Amateur groups and schools across the world will all be performing this show on the same weekend and we are excited to be part of it.
-
-**[BOOK TICKETS](https://www.bishopsgate.org.uk/whats-on/activity/all-together-now#dates-and-times)**
 
 All Together Now! is presented through special arrangement with Music Theatre International (MTI). All authorized performance materials are also supplied by MTI.\
 www.mtishows.co.uk • www.mtishows.com • www.mtishows.com.au
