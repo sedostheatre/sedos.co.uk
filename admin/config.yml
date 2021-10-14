@@ -100,8 +100,8 @@ collections:
         widget: boolean
         default: false
         required: false
-      - label: TicketSolve Show ID
-        name: ticketsolve-show-id
+      - label: Box Office Link
+        name: box-office-link
         widget: string
         required: false
       - label: Show details
