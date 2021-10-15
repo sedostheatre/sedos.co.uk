@@ -14,9 +14,9 @@ ticket-prices: From £13
 additional-ticket-info: ""
 primary-color: "#ffc20f"
 header-image: /assets/atn2.jpg
-flyer: /assets/all-together-now.jpg
+flyer: /assets/atnflyer.jpg
 box-office-open: true
-box-office-link: "https://www.bishopsgate.org.uk/whats-on/activity/all-together-now"
+box-office-link: https://www.bishopsgate.org.uk/whats-on/activity/all-together-now
 sections:
   - order: 1
     title: CAST & CREATIVE TEAM
