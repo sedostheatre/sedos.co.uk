@@ -29,7 +29,7 @@ primary-color: "#fe5f49"
 header-image: /assets/generic-drs-image.png
 flyer: /assets/dirty-rotten-scoundrels-poster.jpg
 box-office-open: true
-box-office-link: "https://sedos.ticketsolve.com/shows/1173611193"
+box-office-link: https://sedos.ticketsolve.com/shows/1173611193
 sections:
   - order: 1
     title: CAST & CREATIVE TEAM
@@ -98,9 +98,9 @@ sections:
 
       The *Dirty Rotten Scoundrels* team are looking for a stage manager. Please email [scoundrels@sedos.co.uk](mailto:scoundrels@sedos.co.uk) [](<>)if you would like to put yourself forward and have a chat about the show.
 ---
-**Based on the film of the same name, *Dirty Rotten Scoundrels* tells the story of two very different con men, the debonair Laurence Jameson and the vulgar Freddie Benson. The chalk and cheese con men know they can’t both work the same resort so they decide to make a bet.** 
+**Based on the film of the same name, *Dirty Rotten Scoundrels* tells the story of two very different con men, the debonair Lawrence Jameson and the vulgar Freddy Benson. The chalk and cheese con men know they can't both work the same resort so they decide to make a bet.** 
 
-The first to make €50,000 from one of the many wealthy ladies of the French Riviera town of Beaumont Sur Mare, will get to stay, the loser has to leave town. All they have to decide is who is the mark – and no mark is more loaded and less aware than the American Soap Queen herself, Christine Colegate. 
+The first to make $50,000 from one of the many wealthy ladies of the French Riviera town of Beaumont-sur-Mer will get to stay, the loser has to leave town. All they have to decide is who is the mark - and no mark is more loaded and less aware than the American Soap Queen herself, Christine Colgate. 
 
 As they try their different approaches to get the dough, they find that Christine isn’t as easy as they first thought and that this con is going to be harder and more painful than expected, but the most fun they’ve ever had.
 
