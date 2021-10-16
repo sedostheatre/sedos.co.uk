@@ -93,8 +93,6 @@ sections:
       
       **PRODUCER** | Adam Coppard\
 
-      **SET DESIGNER** | Kate Halstead\
-
       **COSTUME DESIGNER** | Edith Webb\
       
       **LIGHTING DESIGNER** | Olly Levett \
