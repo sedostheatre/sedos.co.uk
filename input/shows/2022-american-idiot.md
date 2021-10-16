@@ -30,11 +30,11 @@ sections:
       **DIRECTOR** | Matt Bentley\
 
       **MUSICAL DIRECTOR** | Oscar Denihan\
+      
+      **CHOREOGRAPHER** | Jen Bullock\
 
-      **CREATIVVE PRODUCERS** | Adam Coppard and Oliver Levett
+      **CREATIVE PRODUCERS** | Adam Coppard and Oliver Levett
 
-
-      The production team are looking for a Choreographer to join them. Interested? Email **[idiot@sedos.co.uk](mailto:idiot@sedos.co.uk)**
 ---
 **The two-time Tony Award-winning hit musical *Green Day's American Idiot*, based on the Grammy Award-winning multi-platinum album, boldly takes the American musical where it's never gone before. This high-octane show includes every song from Green Day's album *American Idiot*, as well as several songs from follow-up release, *21st Century Breakdown*.**
 
