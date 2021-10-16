@@ -69,13 +69,13 @@ sections:
 
       Leon Grozdanovic\
 
-      Alex Johnston\
-
       Ellie Jones\
+      
+      Adam Moulder\
 
       Eilish Mulvihill\
 
-      Natalie Parada	\
+      Natalie Parada\
 
       Rachel Savage\
 
@@ -89,14 +89,22 @@ sections:
 
       **MUSICAL DIRECTOR** | Chris Nelson\
 
-      **CHOREOGRAPHER** | Jonathon Grant & Fiona McConachie\
+      **CHOREOGRAPHERS** | Jonathon Grant & Fiona McConachie\
+      
+      **PRODUCER** | Adam Coppard\
 
       **SET DESIGNER** | Kate Halstead\
 
-      **COSTUME DESIGNER** | Edith Webb
+      **COSTUME DESIGNER** | Edith Webb\
+      
+      **LIGHTING DESIGNER** | Olly Levett \
+      
+      **MARKETING** | David Ovenden\
+      
+      **STAGE MANAGER** | Shiri Stern\
+      
+      **COMMITTEE LIAISON** | Mark Siddall
 
-
-      The *Dirty Rotten Scoundrels* team are looking for a stage manager. Please email [scoundrels@sedos.co.uk](mailto:scoundrels@sedos.co.uk) [](<>)if you would like to put yourself forward and have a chat about the show.
 ---
 **Based on the film of the same name, *Dirty Rotten Scoundrels* tells the story of two very different con men, the debonair Lawrence Jameson and the vulgar Freddy Benson. The chalk and cheese con men know they can't both work the same resort so they decide to make a bet.** 
 
@@ -105,6 +113,3 @@ The first to make $50,000 from one of the many wealthy ladies of the French Rivi
 As they try their different approaches to get the dough, they find that Christine isn’t as easy as they first thought and that this con is going to be harder and more painful than expected, but the most fun they’ve ever had.
 
 Nominated for 11 Tony Awards in 2005 with original Broadway cast including John Lithgow, Norbert Leo Butz and Sherie Rene Scott, this show has it all, from glitzy dance numbers to hilarious songs and stupid jokes. 
-
-^^^ ![](/assets/dirty-rotten-scoundrels-front-page.png)
-^^^
