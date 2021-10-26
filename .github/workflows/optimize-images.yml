@@ -21,6 +21,5 @@ jobs:
         uses: peter-evans/create-pull-request@v3.10.1
         with:
           title: 'chore: compressed images nightly'
-          branch-suffix: timestamp
-          commit-message: 'chore: compressed images nightly'
+          commit-message: 'chore: nightly image compression'
           body: ${{ steps.calibre.outputs.markdown }}
