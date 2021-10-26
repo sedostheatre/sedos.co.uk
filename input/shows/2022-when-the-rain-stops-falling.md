@@ -31,11 +31,16 @@ sections:
       **COSTUMES** | Wing-Ho Lin\
       **COMMITTEE LIAISON** | Matt Gould
 ---
-***When the Rain Stops Falling* is a beautiful and expansive play spanning four generations and two continents, from a claustrophobic London flat in 1959 to the windswept southern coast of Australia in 2039. All throughout 80 years of torrential rain.** 
+>“YOU’RE NOT SURE IF IT’S TODAY OR TOMORROW OR YESTERDAY. AND WHO CAN BLAME YOU FOR THAT. THEY’RE ALL MUCH THE SAME.”
+><footer><cite></cite></footer>
 
-It sees a series of interwoven stories come together, as seven people confront the mysteries of their past, revealing how patterns of betrayal, love and abandonment are passed on.
+A beautiful and expansive drama about family, betrayal and forgiveness, spanning four generations and two hemispheres. All throughout eighty years of torrential rain. 
 
-Andrew Bovell is best known for scripting the award winning film Lantana, hit play *Speaking In Tongues*, and co-writing Baz Luhrmann’s *Strictly Ballroom*.
+When the Rain Stops Falling moves from the claustrophobia of a London flat in 1959 to the windswept coast of southern Australia, and into the heart of the Australian desert in 2039.
+
+It interweaves a series of connected stories as seven people confront the mysteries of their past in order to understand their future, revealing how patterns of secrets, love and abandonment are passed on.
+
+The award winning play received its European premiere at the Almeida Theatre, London, in May 2009. Andrew Bovell is a celebrated Australian writer, best known for S*peaking In Tongues* and Baz Lerman’s *Strictly Ballroom*.
 
 >“Superb... fiendishly ingenious... utterly compelling”
 ><footer><cite>The Guardian</cite></footer>
