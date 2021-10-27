@@ -22,7 +22,7 @@ primary-color: "#fc8d00"
 header-image: /assets/workingsquare.jpg
 flyer: /assets/working-2021-flyer-front-no-bleed.jpg
 box-office-open: true
-box-office-link: "https://sedos.ticketsolve.com/shows/1173600327"
+box-office-link: https://sedos.ticketsolve.com/shows/1173600327
 sections:
   - order: 1
     title: CAST & CREATIVE TEAM
@@ -80,3 +80,9 @@ With additional contributions by **GORDON GREENBERG**
 Songs by **CRAIG CARNELIA**, **JAMES TAYLOR**, **MARY RODGERS**, **MICKI GRANT**, **STEPHEN SCHWARTZ**, **SUSAN BIRKENHEAD** and **LIN-MANUEL MIRANDA**
 
 From the book by **STUDS TURKEL**
+
+
+
+**BOX OFFICE GREMLINS**
+
+Our online box office currently has some badly timed gremlins in the system. You will be able to click through to a performance and see the available seats, but once you have put your details in, you cannot check out. We can sell tickets on the door at the theatre before performances so please do head to the Bridewell to enjoy the show. If you would like to be emailed when the box office is up and running again, please email admin@sedos.co.uk and we will let you know when the gremlins have gone.
