@@ -80,7 +80,3 @@ With additional contributions by **GORDON GREENBERG**
 Songs by **CRAIG CARNELIA**, **JAMES TAYLOR**, **MARY RODGERS**, **MICKI GRANT**, **STEPHEN SCHWARTZ**, **SUSAN BIRKENHEAD** and **LIN-MANUEL MIRANDA**
 
 From the book by **STUDS TURKEL**
-
-**BOX OFFICE GREMLINS**
-
-Our online box office currently has some badly timed gremlins in the system, for which we apologise. You will be able to click through to a performance and see the available seats, but once you have put your details in, you cannot check out. We can sell tickets on the door at the theatre before performances so please do head to the Bridewell to enjoy the show. If you would like to be emailed when the box office is up and running again, please email admin@sedos.co.uk and we will let you know when the gremlins have gone.
