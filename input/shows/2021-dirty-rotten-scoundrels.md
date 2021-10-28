@@ -26,7 +26,7 @@ ticket-prices: From £13.50
 additional-ticket-info: "Gala nights: Friday 26 November and Friday 3 December -
   tickets include a drink and programme"
 primary-color: "#fe5f49"
-header-image: /assets/generic-drs-image.png
+header-image: /assets/generic-drs-image.jpg
 flyer: /assets/dirty-rotten-scoundrels-poster.jpg
 box-office-open: true
 box-office-link: https://sedos.ticketsolve.com/shows/1173611193
@@ -70,7 +70,7 @@ sections:
       Leon Grozdanovic\
 
       Ellie Jones\
-      
+
       Adam Moulder\
 
       Eilish Mulvihill\
@@ -90,17 +90,17 @@ sections:
       **MUSICAL DIRECTOR** | Chris Nelson\
 
       **CHOREOGRAPHERS** | Jonathon Grant & Fiona McConachie\
-      
+
       **PRODUCER** | Adam Coppard\
 
       **COSTUME DESIGNER** | Edith Webb\
-      
+
       **LIGHTING DESIGNER** | Olly Levett \
-      
+
       **MARKETING** | David Ovenden\
-      
+
       **STAGE MANAGER** | Shiri Stern\
-      
+
       **COMMITTEE LIAISON** | Mark Siddall
 
 ---
