@@ -9,6 +9,7 @@ showtimes:
   - time: 2021-09-22 19:30
   - time: 2021-09-23 19:30
   - time: 2021-09-25 19:30
+venue: bridewell
 additional-ticket-info: >-
   Tickets to laugh-a-long with Simprov and The Banana Hut Gang are £8 full price
   and £6 for Sedos members and concessions. 
