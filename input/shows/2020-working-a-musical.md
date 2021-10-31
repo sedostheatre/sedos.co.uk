@@ -13,7 +13,7 @@ showtimes:
   - time: 2021-10-30 14:30
   - time: 2021-10-30 19:30
 showtime-summary: 26-30 OCTOBER 2021
-show-on-homepage: true
+show-on-homepage: false
 order-on-homepage: ""
 venue: Bridewell Theatre
 ticket-prices: From £13.50
