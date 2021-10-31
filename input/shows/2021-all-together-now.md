@@ -37,12 +37,10 @@ sections:
       Laura Foster-Devaney\
       Chris Foxwell\
       Jacob Hajjar\
-      Angus Jacobs\
       Bryce Kehoe\
       Sadie Kempner\
       Tessa Kennedy\
       Carolina Leite\
-      Skyla Loureda\
       Rebecca Lyle\
       Katie Monk\
       Lauren Murphy\
@@ -51,7 +49,6 @@ sections:
       Sara Rajeswaran\
       Emma Recknell\
       Izzi Richardson\
-      Hannah Roberts\
       Tess Robinson\
       Johan Samuelsson\
       Poppy Scarlett\
