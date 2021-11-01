@@ -10,6 +10,23 @@ RedirectFrom:
 
 # 2021
 
+## *Working*
+
+^^^ ![](/assets/working.jpg)
+^^^ Working
+
+>Sedos, one of London’s best-loved community theatre companies, has given us numerous highly successful award-winning productions including "Pippin", "Urinetown" and "Earthquakes in London". This latest venture must surely be a powerful contender for further awards… I absolutely loved this show! It has everything you could wish for in a musical. Good stage direction combined with excellent vocals and great choreography make for an excellent production.A great evening out – another night to remember for all the very best reasons!  
+><footer><cite><a target="_blank" href="https://discover.hubpages.com/entertainment/Working-A-Musical-a-Sedos-Production-at-the-Bridewell-Theatre-London">Working, 2021, Hub Pages</a></cite></footer>
+
+>A great musical production telling of everyday lives, hopes and dreams. With searingly honest lyrics and heartfelt emotions it showcases the people who go unnoticed or aren’t given due credit, but who are often the foundations of our lives. Wonderful performances and well worth a visit! … It soon became clear that this was well beyond your usual amateur dramatic affair… The eight-strong cast are all exceptional, each taking on multiple individual roles and joining together for choruses. The staging and costume are sparse but effective, and this simplicity allows the focus to remain clearly on the actors… Having seen and felt sadness, despair, joy, pride, regret, the audience leaves on a high note.
+><footer><cite><a target="_blank" href="https://everything-theatre.co.uk/2021/10/review-working-a-musical-bridewell-theatre.html">Working, 2021, Everything Theatre</a></cite></footer>
+
+>The cast was made up of 8 performers, each taking on so many different roles within the show that I lost count, they all went from fronting a number one moment to being a vital part of the ensemble in another performers number the next. Often in shows with casts around this size there are one or two forgettable performers but this was not the case in Working. Not only can I picture all of the cast easily now but I can tell you which occupations they played throughout the show, a testament to how engaging each of them were individually… I would also like to commend Sedos for the racial diversity on stage. I know Sedos have been working hard alongside other London am dram companies to improve the racial diversity of their society and this commitment paid off in this show. Working is a show that needs to reflect America and that includes having performers of colour on stage in order to stay true to the heart of the show and I was pleased to see that Sedos did just that… The transitions between the numbers were well thought out by director Jacob Hajjar and and I enjoyed how they flowed seamlessly into one another, avoiding any unnecessary and long blackouts. This kept the pace snappy and helped the show have a more cohesive feel…Tess Robinson was the movement director for Working. Her strongest moments were the stylised moments, in particular the repetitive movement that the factory workers performed during ‘Millwork’ and many of the movements performed during ‘All The Livelong Days’ to symbolise different professions. Working is a show rarely put on so this is a great opportunity to see songs by the likes of Schwartz and Lin Manual Miranda performed and with Sedos at the helm they take you on a journey of emotions from empathy to laughter but most of all leaving you able to relate to those on stage.
+><footer><cite><a target="_blank" href="http://musicaltheatremusings.co.uk/working?mc_cid=be6405532d&mc_eid=UNIQID">Working, 2021, Musical Theatre Musings</a></cite></footer>
+
+>Sedos as ever have gathered a cast of fantastic talent… overall the production is pacy and entertaining.  Beautifully directed by Jacob Hajjar this is another great performance from Sedos.
+><footer><cite><a target="_blank" href="https://www.sardinesmagazine.co.uk/review/working-2/">Working, 2021, Sardines</a></cite></footer>
+
 ## *Ophelia Thinks Harder*
 
 ^^^ ![](/assets/51534883511_1022fe22eb_k.jpg)
