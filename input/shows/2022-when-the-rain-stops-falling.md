@@ -52,7 +52,7 @@ sections:
 
 A beautiful and expansive drama about family, betrayal and forgiveness, spanning four generations and two hemispheres. All throughout eighty years of torrential rain. 
 
-When the Rain Stops Falling moves from the claustrophobia of a London flat in 1959 to the windswept coast of southern Australia, and into the heart of the Australian desert in 2039.
+*When the Rain Stops* Falling moves from the claustrophobia of a London flat in 1959 to the windswept coast of southern Australia, and into the heart of the Australian desert in 2039.
 
 It interweaves a series of connected stories as seven people confront the mysteries of their past in order to understand their future, revealing how patterns of secrets, love and abandonment are passed on.
 
