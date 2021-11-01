@@ -19,6 +19,7 @@ primary-color: "#735943"
 header-image: /assets/when-the-rain-stops-falling-1-.jpg
 flyer: /assets/whentherainstopsfalling-holderposter-v2.jpg
 box-office-open: false
+box-office-link: https://sedos.ticketsolve.com/shows/1173617930
 sections:
   - order: 1
     title: " CAST & CREATIVE TEAM"
