@@ -87,7 +87,7 @@ Weekday rehearsals (generally two per week, but not everyone is called to all re
 
 **Where are rehearsals held?**
 
-Most of our rehearsals take place at 1 Brewers' Hall Garden (BHG), London EC2V 5DX. On the rare occasions when our rehearsals can't be held at BHG, we try to find free/cheap rehearsal space within easy reach of central London.
+We try to find free/cheap rehearsal space within easy reach of central London.
 
 **Where do performances take place?**
 
