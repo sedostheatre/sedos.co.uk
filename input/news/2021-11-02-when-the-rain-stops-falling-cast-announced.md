@@ -1,6 +1,7 @@
 ---
 title: When the Rain Stops Falling cast announced
 date: 2021-11-02
+image: /assets/wtrsf-cast-announcement-jpg-3.jpg
 ---
 *2 November 2021*
 
