@@ -29,5 +29,4 @@ The award winning play received its European premiere at the Almeida Theatre, Lo
 
 *When The Rain Stops Falling* takes place at the Bridewell Theatre from 22-26 February and tickets are now on sale via the [Sedos box office.](https://sedos.ticketsolve.com/shows)
 
-^^^ ![](/assets/wtrsf-cast-announcement-jpg-3.jpg)
-^^^
+![](/assets/wtrsf-cast-announcement-jpg-3.jpg)
