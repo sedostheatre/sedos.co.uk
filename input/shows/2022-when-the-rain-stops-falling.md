@@ -18,7 +18,7 @@ additional-ticket-info: "Gala night: Friday 25 February - tickets include a drin
 primary-color: "#735943"
 header-image: /assets/when-the-rain-stops-falling-1-.jpg
 flyer: /assets/whentherainstopsfalling-holderposter-v2.jpg
-box-office-open: false
+box-office-open: true
 box-office-link: https://sedos.ticketsolve.com/shows/1173617930
 sections:
   - order: 1
