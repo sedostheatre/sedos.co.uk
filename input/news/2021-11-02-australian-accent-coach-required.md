@@ -17,5 +17,4 @@ The award winning play received its European premiere at the Almeida Theatre, Lo
 
 *When The Rain Stops Falling* takes place at the Bridewell Theatre from 22-26 February 2022 and tickets are now on sale via the [Sedos box office](https://tickets.sedos.co.uk/).
 
-^^^ ![](/assets/koala-australia.jpg)
-^^^
+![](/assets/koala-australia.jpg)
