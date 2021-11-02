@@ -2,7 +2,7 @@
 title: Sedance
 image: /assets/48781446996_06330de23a_b.jpg
 header-image: /assets/48781446996_06330de23a_b.jpg
-venue: 1 Brewers' Hall Garden, London EC2V 5DX
+venue: ""
 recurrence: Mondays at 7.10pm
 RedirectFrom:
   - sedance.htm
