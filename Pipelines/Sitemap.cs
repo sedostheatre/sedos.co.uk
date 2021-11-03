@@ -27,7 +27,10 @@ namespace Sedos.Pipelines
             ProcessModules = new ModuleList
             {
                 new ConcatDocuments(pipelinesToInclude),
-            new GenerateSitemap(Config.FromDocument((doc) =>
+                new FilterDocuments(Config.FromDocument((doc) =>
+                   !doc.Destination.FullPath.StartsWith("archive-shows")
+                )),
+                new GenerateSitemap(Config.FromDocument((doc) =>
                     new SitemapItem(doc.GetLink(true))
                     {
                         LastModUtc = doc.GetPublishedDate()
