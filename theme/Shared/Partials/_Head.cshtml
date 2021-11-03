@@ -33,4 +33,11 @@
         </script>
       }
     }
+
+    @{
+      if(Model.ContainsKey("metaDescription"))
+      {
+        <meta name="description" content="@Model.Get("metaDescription", "")">
+      }
+    }
 </head>
