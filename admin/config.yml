@@ -133,6 +133,9 @@ collections:
         description: Pages on the old site to redirect from
         widget: list
         required: false
+      - name: metaDescription
+        width: string
+        required: false
   - name: news
     label: News
     description: News articles
@@ -164,6 +167,9 @@ collections:
         label: Redirect From
         description: Pages on the old site to redirect from
         widget: list
+        required: false
+      - name: metaDescription
+        width: string
         required: false
   - name: events
     label: Events
@@ -202,6 +208,9 @@ collections:
       - label: Event details
         name: body
         widget: markdown
+      - name: metaDescription
+        width: string
+        required: false
   - name: regular-events
     label: Regular events
     description: regular events
@@ -249,6 +258,9 @@ collections:
         label: Redirect From
         description: Pages on the old site to redirect from
         widget: list
+        required: false
+      - name: metaDescription
+        width: string
         required: false
   - name: venues
     label: Venues
