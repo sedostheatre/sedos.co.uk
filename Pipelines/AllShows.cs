@@ -37,6 +37,9 @@ namespace Sedos.Pipelines
 
             OutputModules = new ModuleList
             {
+                new FilterDocuments(Config.FromDocument((doc) =>
+                    doc.Get<bool>("has-body-content")
+                )),
                 new WriteFiles()
             };
         }

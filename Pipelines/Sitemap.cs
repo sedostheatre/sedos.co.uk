@@ -27,7 +27,10 @@ namespace Sedos.Pipelines
             ProcessModules = new ModuleList
             {
                 new ConcatDocuments(pipelinesToInclude),
-            new GenerateSitemap(Config.FromDocument((doc) =>
+                new FilterDocuments(Config.FromDocument((doc) =>
+                    doc.Get<bool>("has-body-content", true) // we want to exclude shows that don't have any content
+                )),
+                new GenerateSitemap(Config.FromDocument((doc) =>
                     new SitemapItem(doc.GetLink(true))
                     {
                         LastModUtc = doc.GetPublishedDate()
