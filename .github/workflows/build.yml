@@ -11,8 +11,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v2.4.0
-    - name: Checkout file dates
-      run: ./checkout-file-dates.sh
+    - name: install mtime tool
+      run: sudo apt-get install -y git-restore-mtime
+    - name: reset time
+      run: git restore-mtime
     - name: Build
       run: dotnet build /p:RestorePackagesWithLockFile=true
     - name: Run
