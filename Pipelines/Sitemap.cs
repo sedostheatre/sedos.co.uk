@@ -28,7 +28,7 @@ namespace Sedos.Pipelines
             {
                 new ConcatDocuments(pipelinesToInclude),
                 new FilterDocuments(Config.FromDocument((doc) =>
-                   !doc.Destination.FullPath.StartsWith("archive-shows")
+                    doc.Get<bool>("has-body-content", true) // we want to exclude shows that don't have any content
                 )),
                 new GenerateSitemap(Config.FromDocument((doc) =>
                     new SitemapItem(doc.GetLink(true))
