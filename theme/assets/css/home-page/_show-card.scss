@@ -16,9 +16,29 @@
         background-size: contain;
         display: flex;
         flex-flow: row nowrap;
-        height: 360px;
-
+        height: 432px;
         width: 100%;
+
+        @include media-breakpoint-down(xxl) {
+            max-height: 370px;
+        }
+
+        @include media-breakpoint-down(xl) {
+            max-height: 305px;
+        }
+
+        @include media-breakpoint-down(lg) {
+            max-height: 221px;
+        }
+
+        @include media-breakpoint-down(md) {
+            max-height: 348px;
+        }
+
+        @include media-breakpoint-down(sm) {
+            max-height: 300px;
+        }
+
         @include media-breakpoint-up(sm) {
             background-color: $sedos-blue;
         }

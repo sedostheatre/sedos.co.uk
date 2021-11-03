@@ -2,10 +2,10 @@
     var topLevelNav = Outputs.FromPipeline("TopLevelNav").Single();
 }
 
-<div class="container fixed-top bg-light">
-    <nav class="navbar navbar-expand-lg main-navigation navbar-light">
+<nav class="navbar fixed-top navbar-expand-lg main-navigation navbar-light bg-light">
+    <div class="container">
         <a class="navbar-brand" href="@Context.GetLink("/")">
-            <img height="60" width="199" class="logo" alt="sedos logo" src="@Context.GetLink("/assets/images/logo/logo-blue.png")"/>
+            <img height="60" width="199" class="d-inline-block align-text-top logo" alt="sedos logo" src="@Context.GetLink("/assets/images/logo/logo-blue.png")"/>
         </a>
 
         <button class="navbar-toggler"
@@ -19,20 +19,21 @@
         </button>
 
         <div class="collapse navbar-collapse" id="topLevelNav">
-            <ul class="navbar-nav mr-auto">
+            <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                 @foreach(var navItem in topLevelNav.Get<IEnumerable<IDocument>>("top-level-nav"))
                 {
                     var active = Context.GetLink(Model).Contains(navItem["url"].ToString());
                     <li class="nav-item">
-                        <a class="nav-link @(active ? "active" : "")"
-                           href="@navItem["url"]">
-                            @navItem["name"]<span class="sr-only">@(active ? "(current)" : "")</span>
+                        <a class="nav-link @(active ? "active" : "") fs-5 text-uppercase"
+                            href="@navItem["url"]">
+                            @navItem["name"]<span class="visually-hidden">@(active ? "(current)" : "")</span>
                         </a>
                     </li>
                 }
             </ul>
-
-            <a class="btn btn-sedos-blue my-2 my-sm-0" href="https://tickets.sedos.co.uk">Book tickets</a>
+            <div class="d-flex">
+                <a class="btn btn-sedos-blue my-2 my-sm-0 text-uppercase" href="https://tickets.sedos.co.uk">Book tickets</a>
+            </div>
         </div>
-    </nav>
-</div>
+    </div>
+</nav>

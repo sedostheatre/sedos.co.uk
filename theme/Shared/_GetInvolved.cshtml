@@ -44,18 +44,18 @@
                     Html.RenderPartial("Partials/_EventCard", @eventItem);
                 }
 
-                @foreach(var group in Model.Get<IEnumerable<IDocument>>("groups"))
-                {
-                    <div class="event-card-container col-md-3 col-sm-6">
-                        <div class="card border-0 regular-event-card">
+                <div class="event-card-container col-md-3 col-sm-6">
+                    @foreach(var group in Model.Get<IEnumerable<IDocument>>("groups"))
+                    {
+                        <div class="card border-0 regular-event-card mb-2">
                             <a href="@Context.GetLink(group.Get<string>("url"))">
                                 <div class="card-header">
                                     <h4 class="card-title text-white">@group["name"]</h4>
                                 </div>
                             </a>
                         </div>
-                    </div>
-                }
+                    }
+                </div>
             </div>
         </div>
     </div>

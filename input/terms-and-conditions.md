@@ -3,8 +3,6 @@ title: Terms and conditions
 RedirectFrom:
  - general/terms.htm
 ---
-**Sedos are completely dedicated to your total satisfaction. If you have any suggestions or comments please contact us.**
-
 ### Our Contact details
 
 Email: **[admin@sedos.co.uk](mailto:admin@sedos.co.uk)**\
