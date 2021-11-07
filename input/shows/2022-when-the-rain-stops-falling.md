@@ -67,3 +67,5 @@ The award winning play received its European premiere at the Almeida Theatre, Lo
 
 >“Extraordinary... grabs you by its imagination, its heartrending originality, its tragic vision”
 ><footer><cite>The Sunday Telegraph</cite></footer>
+
+An amateur production by arrangement with Nick Hern Books
