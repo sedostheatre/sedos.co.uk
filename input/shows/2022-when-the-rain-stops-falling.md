@@ -57,7 +57,7 @@ A beautiful and expansive drama about family, betrayal and forgiveness, spanning
 
 It interweaves a series of connected stories as seven people confront the mysteries of their past in order to understand their future, revealing how patterns of secrets, love and abandonment are passed on.
 
-The award winning play received its European premiere at the Almeida Theatre, London, in May 2009. Andrew Bovell is a celebrated Australian writer, best known for S*peaking In Tongues* and Baz Lerman’s *Strictly Ballroom*.
+The award winning play received its European premiere at the Almeida Theatre, London, in May 2009. Andrew Bovell is a celebrated Australian writer, best known for S*peaking In Tongues* and Baz Baz Luhrmann’s *Strictly Ballroom*.
 
 >“Superb... fiendishly ingenious... utterly compelling”
 ><footer><cite>The Guardian</cite></footer>
