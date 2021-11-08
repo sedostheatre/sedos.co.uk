@@ -35,6 +35,15 @@ This wildly warm-hearted theatrical experience kicks off when the Music Hall Roy
 
 Our title character disappears mysteriously one stormy Christmas Eve - but has Edwin Drood been murdered? And if so, then whodunnit? The audience has the power to affect the outcome, so the show can be different at every performance!
 
+**THE MYSTERY OF EDWIN DROOD**\
+A Musical by
+RUPERT HOLMES\
+\
+Original Broadway production produced by the New York Shakespeare Festival\
+Joseph Papp, Producer
+
+Winner of 5 Tony Awards including Best Musical
+
 **AUDITIONS**
 
 # **[VIEW THE FULL AUDITION NOTICE](https://docs.google.com/document/d/1HoyNKNeB2tHIb5OeC08sjVYrNABF47286X0K1c5aMpo/edit)**
