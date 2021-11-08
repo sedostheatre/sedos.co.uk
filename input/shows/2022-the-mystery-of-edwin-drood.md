@@ -2,8 +2,7 @@
 title: The Mystery of Edwin Drood
 year: "2022"
 authors: A Musical by RUPERT HOLMES
-authors2: Original Broadway production produced by the New York Shakespeare
-  Festival, JOSEPH PAPP, Producer
+authors2: ""
 subtitle: A hilarious musical whodunit
 showtimes:
   - time: 2022-03-22 19:30
