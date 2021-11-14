@@ -8,7 +8,7 @@ showtimes:
   - time: 2021-11-12 19:30
   - time: 2021-11-13 14:30
 showtime-summary: 12-13 NOVEMBER 2021
-show-on-homepage: true
+show-on-homepage: false
 venue: Bishopsgate Institute
 ticket-prices: From £13
 additional-ticket-info: ""
