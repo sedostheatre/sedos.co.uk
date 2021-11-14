@@ -6,7 +6,7 @@
     "cypress": "9.0.0",
     "html-validate": "6.1.0",
     "serve": "13.0.2",
-    "stylelint": "13.13.1",
+    "stylelint": "14.1.0",
     "stylelint-config-sass-guidelines": "8.0.0"
   },
   "dependencies": {
