@@ -47,6 +47,14 @@ sections:
       **COSTUMES** | Wing-Ho Lin\
       **MARKETING** | Stephen Beeny\
       **COMMITTEE LIAISON** | Matt Gould
+  - order: 2
+    title: FLYER
+    body: |-
+      ^^^ ![](/assets/whentherainstopsfalling-a5-flyer-front-800.jpg)
+      ^^^ 
+
+      ^^^ ![](/assets/whentherainstopsfalling-a5-flyer-back-800.jpg)
+      ^^^
 ---
 >“YOU’RE NOT SURE IF IT’S TODAY OR TOMORROW OR YESTERDAY. AND WHO CAN BLAME YOU FOR THAT. THEY’RE ALL MUCH THE SAME.”
 ><footer><cite></cite></footer>
