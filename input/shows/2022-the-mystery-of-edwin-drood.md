@@ -26,13 +26,16 @@ sections:
       **DIRECTOR** | Mark Siddall\
       **MUSICAL DIRECTOR** | Issie Osborne\
       **CHOREOGRAPHER / ASSISTANT DIRECTOR** | Tim Garrad\
-      **PRODUCER** | Ben Hussey
+      **PRODUCER** | Ben Hussey\
+      **STAGE MANAGER** | Shiri Stern\
+      **SOUND DESIGN** | Henry Wittaker\
+      **COSTUME DESIGN** | Frederica Byron
 ---
 **A hilarious musical whodunit loosely based on Charles Dickens’ famous unfinished novel.**
 
-This wildly warm-hearted theatrical experience kicks off when the Music Hall Royale (a hilariously loony Victorian musical troupe) “puts on” its flamboyant rendition of an unfinished Dickens mystery in The Mystery of Edwin Drood. The story itself deals with John Jasper, a Jekyll-and-Hyde choirmaster who is quite madly in love with his music student, the fair Miss Rosa Bud. Now, Miss Bud is, in turn, engaged to Jasper’s nephew, young Edwin Drood. 
+This wildly warm-hearted theatrical experience kicks off when the Music Hall Royale (a hilariously raucous Victorian musical troupe) “puts on” its flamboyant rendition of an unfinished Dickens mystery in The Mystery of Edwin Drood. The story itself deals with John Jasper, a Jekyll-and-Hyde choirmaster who is quite madly in love with his music student, the fair Miss Rosa Bud. Now, Miss Bud is, in turn, engaged to Jasper’s nephew, young Edwin Drood. 
 
-Our title character disappears mysteriously one stormy Christmas Eve - but has Edwin Drood been murdered? And if so, then whodunnit? The audience has the power to affect the outcome, so the show can be different at every performance!
+Our title character disappears mysteriously one stormy Christmas Eve - but has Edwin Drood been murdered? And if so, then whodunnit? YOU, the audience has the power to affect the outcome, so the show can be different at every performance!
 
 **THE MYSTERY OF EDWIN DROOD**\
 A Musical by
