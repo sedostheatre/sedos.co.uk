@@ -23,21 +23,23 @@
 
     .carousel-indicators {
         bottom: -130px;
+        margin-left: 0;
+        margin-right: 0;
         overflow-x: initial;
 
         li {
-            height: auto;
+            height: 100px;
             text-indent: initial;
-            width: auto;
+            width: 100px;
 
             .hero-indicator-image {
                 background-position-x: center;
                 background-position-y: center;
                 background-repeat: no-repeat;
                 background-size: cover;
-                height: 100px;
+                height: 100%;
                 opacity: 0.3;
-                width: 100px;
+                width: 100%;
             }
 
             &.active {
