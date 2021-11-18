@@ -62,6 +62,13 @@ sections:
 
       **MUSICAL DIRECTOR** | Adrian Hau\
       **PRODUCERS** | Adam Coppard and Lizzie Levett
+  - order: 2
+    title: GALLERY
+    body: <a data-flickr-embed="true"
+      href="https://www.flickr.com/photos/51763848@N05" title=""><img
+      src="https://live.staticflickr.com/65535/51688244711_717431313b_z.jpg"
+      width="640" height="480" alt=""></a><script async
+      src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 ---
 **To celebrate the return of live theatre, we are joining forces with our friends at Centre Stage, Geoids and Bishopsgate Institute to stage the unique new revue, *All Together Now!*** 
 
