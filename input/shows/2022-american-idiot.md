@@ -19,22 +19,18 @@ showtimes:
   - time: 2022-05-14 19:30
 showtime-summary: 4-14 MAY 2022
 venue: Bridewell Theatre
-primary-color: "#de0e42"
-header-image: /assets/americanidiot2.jpg
+primary-color: "#ce181e"
+header-image: /assets/americanidiot_full_4c.png
 flyer: /assets/american-idiot-holderposter-v2.jpg
 box-office-open: false
 sections:
   - order: 1
     title: CAST & CREATIVE TEAM
-    body: >-
+    body: |-
       **DIRECTOR** | Matt Bentley\
-
       **MUSICAL DIRECTOR** | Oscar Denihan\
-      
       **CHOREOGRAPHER** | Jen Bullock\
-
       **CREATIVE PRODUCERS** | Adam Coppard and Oliver Levett
-
 ---
 **The two-time Tony Award-winning hit musical *Green Day's American Idiot*, based on the Grammy Award-winning multi-platinum album, boldly takes the American musical where it's never gone before. This high-octane show includes every song from Green Day's album *American Idiot*, as well as several songs from follow-up release, *21st Century Breakdown*.**
 
