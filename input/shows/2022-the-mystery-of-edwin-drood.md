@@ -13,7 +13,7 @@ showtimes:
   - time: 2022-03-26 14:30
 showtime-summary: 22-26 MARCH 2022
 venue: Bridewell Theatre
-primary-color: "#d06b00"
+primary-color: "#765991"
 header-image: /assets/droodrectangle.jpg
 flyer: /assets/drood-holderposter-v2.jpg
 box-office-open: false
