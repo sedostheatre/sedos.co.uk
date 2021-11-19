@@ -14,7 +14,7 @@ showtimes:
 showtime-summary: 22-26 MARCH 2022
 venue: Bridewell Theatre
 primary-color: "#d06b00"
-header-image: /assets/feather-quill-1920-1280-.jpg
+header-image: /assets/droodrectangle.jpg
 flyer: /assets/drood-holderposter-v2.jpg
 box-office-open: false
 sections:
