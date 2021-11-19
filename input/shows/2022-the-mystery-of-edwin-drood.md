@@ -39,7 +39,7 @@ This wildly warm-hearted theatrical experience kicks off when the Music Hall Roy
 
 Our title character disappears mysteriously one stormy Christmas Eve - but has Edwin Drood been murdered? And if so, then whodunnit? YOU, the audience has the power to affect the outcome, so the show can be different at every performance!
 
-**SPECIAL OFFER:** Book a ticket to *[When The Rain Stops Falling](https://sedos.co.uk/shows/2022-when-the-rain-stops-falling)* and *The Mystery of Edwin Drood* in one transaction and receive 10% off.
+**SPECIAL OFFER:** book a ticket to *[When The Rain Stops Falling](https://sedos.co.uk/shows/2022-when-the-rain-stops-falling)* and *The Mystery of Edwin Drood* in one transaction and receive 10% off.
 
 **THE MYSTERY OF EDWIN DROOD**\
 A Musical by
