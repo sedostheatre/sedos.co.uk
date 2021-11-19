@@ -13,10 +13,12 @@ showtimes:
   - time: 2022-03-26 14:30
 showtime-summary: 22-26 MARCH 2022
 venue: Bridewell Theatre
+ticket-prices: From £13.50
 primary-color: "#765991"
 header-image: /assets/droodrectangle.jpg
 flyer: /assets/droodflyerfinalfront.jpg
-box-office-open: false
+box-office-open: true
+box-office-link: https://sedos.ticketsolve.com/shows/1173617535
 sections:
   - order: 1
     title: CREATIVE TEAM
@@ -36,6 +38,8 @@ sections:
 This wildly warm-hearted theatrical experience kicks off when the Music Hall Royale (a hilariously raucous Victorian musical troupe) “puts on” its flamboyant rendition of an unfinished Dickens mystery in The Mystery of Edwin Drood. The story itself deals with John Jasper, a Jekyll-and-Hyde choirmaster who is quite madly in love with his music student, the fair Miss Rosa Bud. Now, Miss Bud is, in turn, engaged to Jasper’s nephew, young Edwin Drood. 
 
 Our title character disappears mysteriously one stormy Christmas Eve - but has Edwin Drood been murdered? And if so, then whodunnit? YOU, the audience has the power to affect the outcome, so the show can be different at every performance!
+
+**SPECIAL OFFER:** Book a ticket to *[When The Rain Stops Falling](https://sedos.co.uk/shows/2022-when-the-rain-stops-falling)* and *The Mystery of Edwin Drood* in one transaction and receive 10% off.
 
 **THE MYSTERY OF EDWIN DROOD**\
 A Musical by
