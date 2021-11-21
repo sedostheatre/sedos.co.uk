@@ -15,7 +15,7 @@ showtime-summary: 22-26 MARCH 2022
 venue: Bridewell Theatre
 ticket-prices: From £13.50
 primary-color: "#765991"
-header-image: /assets/droodrectangle.jpg
+header-image: /assets/drooddiscount.jpg
 flyer: /assets/droodflyerfinalfront.jpg
 box-office-open: true
 box-office-link: https://sedos.ticketsolve.com/shows/1173617535
