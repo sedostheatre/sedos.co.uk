@@ -13,5 +13,4 @@ Our new class of improvisers, The Imp Rovers, will craft a 45 minute spectacular
 Be prepared to laugh, cheer, and maybe even cry as the cast take you on a journey inspired by memories.
 
 **When:** Sunday 28 November at 3pm and Monday 29 November at 7,30pm\
-Where: Bridewell Theatre\
-Tickets:
+**Where:** Bridewell Theatre, 14 Bride Ln, London EC4Y 8EQ
