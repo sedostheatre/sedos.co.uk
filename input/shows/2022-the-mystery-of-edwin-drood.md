@@ -2,7 +2,7 @@
 title: The Mystery of Edwin Drood
 year: "2022"
 authors: A Musical by RUPERT HOLMES
-authors2: ""
+authors2: 10% off when you book our first two shows of 2022 together
 subtitle: A hilarious musical whodunit
 showtimes:
   - time: 2022-03-22 19:30
@@ -15,7 +15,7 @@ showtime-summary: 22-26 MARCH 2022
 venue: Bridewell Theatre
 ticket-prices: From £13.50
 primary-color: "#765991"
-header-image: /assets/droodrectangle.jpg
+header-image: /assets/drooddiscount.jpg
 flyer: /assets/droodflyerfinalfront.jpg
 box-office-open: true
 box-office-link: https://sedos.ticketsolve.com/shows/1173617535
