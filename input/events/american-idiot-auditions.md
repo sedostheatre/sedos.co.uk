@@ -40,3 +40,6 @@ Performances take place at the Bridewell Theatre, Bride Lane, EC4Y 8EQ
 ##### EQUALITY, INCLUSION & DIVERSITY
 
 Sedos seeks to build and sustain a membership that is reflective of the diverse communities within London. We actively encourage performers to audition for the roles which they feel best suit their skills. Please check the casting breakdown for any specific requirements.
+
+^^^ ![](/assets/americanidiot_full_4c.png)
+^^^
