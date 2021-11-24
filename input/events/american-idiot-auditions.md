@@ -12,15 +12,15 @@ The two-time Tony Award-winning hit musical *Green Day's American Idiot*, based 
 \
 Johnny, Tunny and Will struggle to find meaning in a post-9/11 world. When the three disgruntled men flee the constraints of their hometown for the thrills of city life, their paths are quickly estranged when Tunny enters the armed forces, Will is called back home to attend familial responsibilities, and Johnny's attention becomes divided by a seductive love interest and a hazardous new friendship.\
 \
-An energy-fuelled rock opera, American Idiot, features little dialogue and instead relies on the lyrics from Green Day's groundbreaking album to execute the story line.
+An energy-fuelled rock opera, *American Idiot*, features little dialogue and instead relies on the lyrics from Green Day's groundbreaking album to execute the story line.
 
 #### [VIEW THE FULL AUDITION NOTICE]([https://www.sedos.co.uk/​idiot/notice](https://www.sedos.co.uk/idiot/notice))
 
 ##### **AUDITIONS & AUDITION WORKSHOP**
 
-Two in-person audition workshops will be available on 11th December. Sign ups are compulsory and available here: [https://membership.sedos.co.​uk/signup/94](https://membership.sedos.co.uk/signup/94)) You'll get the chance to meet the team, learn the audition dance and sing through something from the show. 
+Two in-person audition workshops will be available on 11 December. Sign ups are compulsory and available here: [https://membership.sedos.co.​uk/signup/94](https://membership.sedos.co.uk/signup/94)) You'll get the chance to meet the team, learn the audition dance and sing through something from the show. 
 
-In person auditions will be held on 12th January (evening) and 15th & 16th January (daytime). Recalls will be held on 22nd January (daytime). Slots can be booked for auditions here: [https://membership.sedos.co.​uk/signup/93](https://membership.sedos.co.uk/signup/93).
+In person auditions will be held on 12th January (evening) and 15 & 16 January (daytime). Recalls will be held on 22 January (daytime). Slots can be booked for auditions here: [https://membership.sedos.co.​uk/signup/93](https://membership.sedos.co.uk/signup/93).
 
 Contact idiot@sedos.co.uk with any questions.
 
