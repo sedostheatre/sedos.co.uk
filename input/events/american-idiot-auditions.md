@@ -2,6 +2,8 @@
 title: American Idiot auditions
 times:
   - time: 2022-01-12 19:00
+  - time: 2022-01-15 10:00
+  - time: 2022-01-16 10:00
 image: /assets/americanidiot_full_4c.png
 ---
 **Sedos is thrilled to announce the audition material for our production of *American Idiot*.**
@@ -24,7 +26,7 @@ Contact idiot@sedos.co.uk with any questions.
 
 #### [VIEW THE FULL AUDITION NOTICE]([https://www.sedos.co.uk/​idiot/notice](https://www.sedos.co.uk/idiot/notice))
 
-#### KEY DATES
+##### KEY DATES
 
 **Audition Workshop:** Saturday 11 December (afternoon)\
 **Auditions:** Wednesday 12 January (evening), Saturday 15 January (day), Sunday 16 January (day)\
