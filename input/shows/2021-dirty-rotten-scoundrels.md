@@ -33,76 +33,47 @@ box-office-link: https://sedos.ticketsolve.com/shows/1173611193
 sections:
   - order: 1
     title: CAST & CREATIVE TEAM
-    body: >-
+    body: |-
       **CAST**
 
-
       **LAWRENCE** | Rob Archibald\
-
       **FREDDY** | Joey Henshaw\
-
       **CHRISTINE** | Imogen Johnson\
-
       **MURIEL** | Louise Roberts\
-
       **ANDRE** | Dan Saunders\
-
       **JOLENE** | Jen Bullock\
-
       **LENORE** | Zo Pisera\
-
       **SOPHIA** | Nicolle Dominique\
-
       **RENEE** | Paula Mount
-
 
       **ENSEMBLE**
 
-
       Alex Dehn\
-
       Nick Dore\
-
       Robbie Fulford\
-
       Ruth Granton\
-
       Leon Grozdanovic\
-
       Ellie Jones\
-
       Adam Moulder\
-
       Eilish Mulvihill\
-
       Natalie Parada\
-
       Rachel Savage\
-
       James Taverner
-
 
       **CREATIVE TEAM**
 
-
       **DIRECTOR** | Zoë Thomas-Webb\
-
       **MUSICAL DIRECTOR** | Chris Nelson\
-
       **CHOREOGRAPHERS** | Jonathon Grant & Fiona McConachie\
-
       **PRODUCER** | Adam Coppard\
-
       **COSTUME DESIGNER** | Edith Webb\
-
       **LIGHTING DESIGNER** | Olly Levett \
-
       **MARKETING** | David Ovenden\
-
       **STAGE MANAGER** | Shiri Stern\
-
       **COMMITTEE LIAISON** | Mark Siddall
-
+  - order: 2
+    title: TRAILER
+    body: <div class="video-responsive"><?# YouTube Bl9dPxyfhQ0 /?></div>
 ---
 **Based on the film of the same name, *Dirty Rotten Scoundrels* tells the story of two very different con men, the debonair Lawrence Jameson and the vulgar Freddy Benson. The chalk and cheese con men know they can't both work the same resort so they decide to make a bet.** 
 
