@@ -40,13 +40,13 @@ An energy-fuelled rock opera, *American Idiot*, features little dialogue and in
 
 ##### **AUDITIONS & AUDITION WORKSHOP**
 
-Two in-person audition workshops will be available on 11 December. Sign ups are compulsory and available here: [https://membership.sedos.co.​uk/signup/94](https://membership.sedos.co.uk/signup/94)) You'll get the chance to meet the team, learn the audition dance and sing through something from the show. 
+Two in-person audition workshops will be available on 11 December. Sign ups are compulsory and available here: [https://membership.sedos.co.uk/signup/94](https://membership.sedos.co.uk/signup/94) You'll get the chance to meet the team, learn the audition dance and sing through something from the show. 
 
-In person auditions will be held on 12th January (evening) and 15 & 16 January (daytime). Recalls will be held on 22 January (daytime). Slots can be booked for auditions here: [https://membership.sedos.co.​uk/signup/93](https://membership.sedos.co.uk/signup/93).
+In person auditions will be held on 12th January (evening) and 15 & 16 January (daytime). Recalls will be held on 22 January (daytime). Slots can be booked for auditions here: [https://membership.sedos.co.uk/signup/93](https://membership.sedos.co.uk/signup/93).
 
 Contact [idiot@sedos.co.u](mailto:idiot@sedos.co.u)k with any questions.
 
-#### [VIEW THE FULL AUDITION NOTICE]([https://www.sedos.co.uk/​idiot/notice](https://www.sedos.co.uk/idiot/notice))
+#### [VIEW THE FULL AUDITION NOTICE](https://www.sedos.co.uk/idiot/notice)
 
 ##### KEY DATES
 
