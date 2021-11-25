@@ -19,12 +19,4 @@
     padding-bottom: 0;
 
     padding-top: 0;
-
-    .logo {
-        height: 4em;
-
-        @include media-breakpoint-down(lg) {
-            height: 3em;
-        }
-    }
 }
