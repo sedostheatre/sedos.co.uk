@@ -10,6 +10,17 @@ RedirectFrom:
 
 # 2021
 
+## *Dirty Rotten Scoundrels*
+
+^^^ ![](/assets/51701944688_ec50b5fc1e_c.jpg)
+^^^ Dirty Rotten Scoundrels
+
+>The production reaches the extremely high standard I have come to expect from Sedos with a cast of 20 and a 15-piece band really bringing the story out in fine style. There was a lovely chemistry between the leads which made their interactions feel natural and real… Sedos have been one of my favourite production companies for a long while and after the last months of lockdown and online material, it was wonderful to see them come back with a bang with this production. Director Zoë Thomas-Webb, Choreographers Jonathon Grant & Fiona McConachie along with Musical Director Chris Nelson, ensured everything ran smoothly and the highly energetic pace of the show was maintained throughout 
+><footer><cite><a target="_blank" href="https://www.londontheatre1.com/reviews/dirty-rotten-scoundrels-at-the-bridewell-theatre/">Dirty Rotten Scoundrels, 2021, London Theatre 1</a></cite></footer>
+
+>What a job they’ve done! “Dirty Rotten Scoundrels” is by far one of the best Sedos shows I’ve seen. This might be an amateur group but there’s nothing amateur about this production. Another Sedos Triumph!
+><footer><cite><a target="_blank" href="https://hubpages.com/entertainment/Dirty-Rotten-Scoundrels-A-Musical-at-Bridewell-Theatre-London">Dirty Rotten Scoundrels, 2021, Hub Pages</a></cite></footer>
+
 ## *Working*
 
 ^^^ ![](/assets/working.jpg)
