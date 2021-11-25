@@ -71,10 +71,10 @@ sections:
       **MARKETING** | David Ovenden\
       **STAGE MANAGER** | Shiri Stern\
       **COMMITTEE LIAISON** | Mark Siddall
-  - order: 2
+  - order: 3
     title: TRAILER
     body: <div class="video-responsive"><?# YouTube Bl9dPxyfhQ0 /?></div>
-  - order: 3
+  - order: 4
     title: REVIEWS
     body: >-
       >The production reaches the extremely high standard I have come to expect
@@ -94,6 +94,15 @@ sections:
       >What a job they’ve done! “Dirty Rotten Scoundrels” is by far one of the best Sedos shows I’ve seen. This might be an amateur group but there’s nothing amateur about this production. Another Sedos Triumph!
 
       ><footer><cite><a target="_blank" href="https://hubpages.com/entertainment/Dirty-Rotten-Scoundrels-A-Musical-at-Bridewell-Theatre-London">Dirty Rotten Scoundrels, 2021, Hub Pages</a></cite></footer>
+  - order: 2
+    title: GALLERY
+    body: <a data-flickr-embed="true"
+      href="https://www.flickr.com/photos/sedos/albums/72157720200288050"
+      title="Dirty Rotten Scoundrels - 2021"><img
+      src="https://live.staticflickr.com/65535/51702575261_a4f33f9f65_z.jpg"
+      width="640" height="480" alt="Dirty Rotten Scoundrels - 2021"></a><script
+      async src="//embedr.flickr.com/assets/client-code.js"
+      charset="utf-8"></script>
 ---
 **Based on the film of the same name, *Dirty Rotten Scoundrels* tells the story of two very different con men, the debonair Lawrence Jameson and the vulgar Freddy Benson. The chalk and cheese con men know they can't both work the same resort so they decide to make a bet.** 
 
