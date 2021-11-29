@@ -13,6 +13,7 @@ namespace Sedos.Pipelines
             Dependencies.AddRange(nameof(AboutSections), nameof(AllShows), nameof(News), nameof(Index), nameof(RegularEvents), nameof(TopLevelPages), nameof(MarkdownPages));
 
             var temporaryCustomRedirects = new Dictionary<string, string>() {
+                { "deiform", "https://forms.gle/MjYUCXrfMByr8D55A" },
                 { "idiot/form", "https://docs.google.com/forms/d/e/1FAIpQLSfwwilNjpYp4LtkLaE2zBQGO4fUVG288TGuSqa6DpA1ifyQGQ/viewform" },
                 { "idiot/material", "https://drive.google.com/drive/folders/161ZgKRV_ZACJqwSpKZeeHQW6110i-WEJ?usp=sharing" },                
                 { "idiot/materials", "https://drive.google.com/drive/folders/161ZgKRV_ZACJqwSpKZeeHQW6110i-WEJ?usp=sharing" },
