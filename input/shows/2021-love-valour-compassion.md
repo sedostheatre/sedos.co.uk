@@ -13,7 +13,7 @@ showtimes:
 showtime-summary: 5-9 JULY 2022
 venue: Bridewell Theatre
 primary-color: "#fd8392"
-header-image: /assets/lovevalourc0mpassion.jpg
+header-image: /assets/lvc-artworklandscape.jpg
 flyer: /assets/love-holderposter-v2.jpg
 box-office-open: false
 sections:
@@ -22,9 +22,9 @@ sections:
     body: |-
       **CREATIVE TEAM**
 
-      **DIRECTOR** | Robert J. Stanex\
-      **PRODUCER** | Becky Chisholm\
-      **CHOREOGRAPHER** | Kimberly Barker
+      **DIRECTOR and DESIGNER** | Robert J. Stanex\
+      **PRODUCER** | Rebecca Chisholm\
+      **MOVEMENT and INTIMACY DIRECTOR** | Kimberly Barker
 ---
 **Eight gay men.**
 
@@ -59,5 +59,5 @@ Performances take place at the Bridewell Theatre, Bride Lane, EC4Y 8EQ
 
 Sedos seeks to build and sustain a membership that is reflective of the diverse communities within London. We actively encourage performers to audition for the roles which they feel best suit their skills. Please check the casting breakdown on audition notices for any specific requirements.
 
-^^^ ![](/assets/copy-of-lvc-logo.jpg)
+^^^ ![](/assets/lvc-artwork.jpg)
 ^^^
