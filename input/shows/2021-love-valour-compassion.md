@@ -8,8 +8,7 @@ showtimes:
   - time: 2022-07-06 19:30
   - time: 2022-07-07 19:30
   - time: 2022-07-08 19:30
-  - time: 2022-07-09 14:30
-  - time: 2022-07-09 19:30
+  - time: 2022-07-09 17:00
 showtime-summary: 5-9 JULY 2022
 venue: Bridewell Theatre
 primary-color: "#fd8392"
