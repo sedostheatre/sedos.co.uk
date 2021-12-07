@@ -3,8 +3,7 @@ title: When The Rain Stops Falling
 year: "2022"
 authors: By Andrew Bovell
 authors2: 10% off when you book our first two shows of 2022 together
-subtitle: A beautiful and expansive play spanning four generations and two
-  continents, all throughout eighty years of torrential rain
+subtitle: A beautiful and expansive play
 showtimes:
   - time: 2022-02-22 19:30
   - time: 2022-02-23 19:30
