@@ -19,7 +19,7 @@ showtimes:
   - time: 2021-12-04 14:30
   - time: 2021-12-04 19:30
 showtime-summary: 24 NOVEMBER-4 DECEMBER 2021
-show-on-homepage: true
+show-on-homepage: false
 order-on-homepage: ""
 venue: Bridewell Theatre
 ticket-prices: From £13.50
