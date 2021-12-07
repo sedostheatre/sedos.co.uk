@@ -7,7 +7,7 @@
 }
 
 <div class="row show-header">
-    <div class="col-md show-header-image" style="background-image: url(@link)">
+    <div class="col-md show-header-image @(Model.Get("header-image-contain", false) ? "contain-image" : "")" style="background-image: url(@link)">
     </div>
     <div class="col-md show-details" style="background: @Model.Get("primary-color","#044484")">
         <h1 class="show-title"><a href="@Context.GetLink(Model)">@Model["Title"]</a></h1>

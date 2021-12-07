@@ -91,6 +91,11 @@ collections:
         name: header-image
         widget: image
         required: false
+      - label: Scale header image to fit (off will fill)
+        name: header-image-contain
+        widget: boolean
+        default: false
+        required: false
       - label: Flyer image (displayed on shows page)
         name: flyer
         widget: image
