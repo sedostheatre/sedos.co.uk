@@ -29,7 +29,7 @@ metaDescription: Sedos - The City of London's premier amateur theatre company
                         foreach (var show in showsToDisplay.Select((value, i) => new { Image = Context.GetLink(value.Get<string>("header-image")), Index = i, ContainImage = value.Get("header-image-contain", false) }))
                         {
                             <li data-target="#hero-carousel" data-slide-to="@show.Index" class="@(show.Index==0?"active":"") list-inline-item">
-                                <div class="hero-indicator-image  @(show.ContainImage ? "contain-image":"")" style="background-image: url(@show.Image)"></div>
+                                <div class="hero-indicator-image @(show.ContainImage ? "contain-image" : "")" style="background-image: url(@show.Image)"></div>
                             </li>
                         }
                     }

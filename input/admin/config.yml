@@ -91,7 +91,7 @@ collections:
         name: header-image
         widget: image
         required: false
-      - label: Scale header image to fit (off will fill)
+      - label: Scale header image to fit (off will fill available space)
         name: header-image-contain
         widget: boolean
         default: false
