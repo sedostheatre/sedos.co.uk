@@ -71,6 +71,10 @@
         @include media-breakpoint-down(sm) {
             min-height: 30vh;
         }
+
+        &.contain-image {
+            background-size: contain;
+        }
     }
 
     .show-title {
