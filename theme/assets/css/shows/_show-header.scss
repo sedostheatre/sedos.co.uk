@@ -53,11 +53,11 @@
             }
 
             @media (max-height: 40rem) {
-                font-size: 1.2em;
+                font-size: 1em;
             }
 
             @include media-breakpoint-down(sm) {
-                font-size: 1.2em;
+                font-size: 1em;
             }
         }
     }
@@ -119,7 +119,7 @@
         }
 
         @include media-breakpoint-down(sm) {
-            font-size: 1.2em;
+            font-size: 1em;
         }
     }
 
