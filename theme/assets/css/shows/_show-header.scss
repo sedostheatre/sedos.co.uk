@@ -73,6 +73,7 @@
         }
 
         &.contain-image {
+            background-color: $white;
             background-size: contain;
         }
     }
