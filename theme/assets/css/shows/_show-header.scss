@@ -72,6 +72,10 @@
             min-height: 30vh;
         }
 
+        @include media-breakpoint-down(xs) {
+            min-height: 20vh;
+        }
+
         &.contain-image {
             background-color: $white;
             background-size: contain;
