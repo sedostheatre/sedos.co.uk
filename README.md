@@ -1,6 +1,6 @@
 # Sedos
 
-The new site for [Sedos](https://www.sedos.co.uk), built using Statiq.
+The website for [Sedos](https://www.sedos.co.uk), built using Statiq.
 
 ## Developing
 
