@@ -30,7 +30,7 @@ sections:
       **CHOREOGRAPHER / ASSISTANT DIRECTOR** | Tim Garrad\
       **PRODUCER** | Ben Hussey\
       **STAGE MANAGER** | Shiri Stern\
-      **SOUND DESIGN** | Henry Wittaker\
+      **SOUND DESIGN** | Henry Whittaker\
       **COSTUME DESIGN** | Frederica Byron
 
       **CAST**
