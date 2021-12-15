@@ -21,7 +21,7 @@ box-office-open: true
 box-office-link: https://sedos.ticketsolve.com/shows/1173617535
 sections:
   - order: 1
-    title: CREATIVE TEAM
+    title: CAST & CREATIVE TEAM
     body: |-
       **CREATIVE TEAM**
 
@@ -32,6 +32,25 @@ sections:
       **STAGE MANAGER** | Shiri Stern\
       **SOUND DESIGN** | Henry Wittaker\
       **COSTUME DESIGN** | Frederica Byron
+
+      **CAST**
+
+      **MR WILLIAM CARTWRIGHT, CHAIRMAN** | Mark Smith\
+      **MR CLIVE PAGET as JOHN JASPER** | Chris Foxwell\
+      **MISS ALICE NUTTING as EDWIN DROOD** | Kate Gledhill\
+      **MISS DEIRDRE PEREGRINE as ROSA BUD** | Jessie Davidson\
+      **MISS ANGELA PRYSOCK as THE PRINCESS PUFFER** | Louise Roberts\
+      **MISS JANET CONOVER as HELENA LANDLESS** | Sara Rajeswaran\
+      **MR VICTOR GRINSTEAD as NEVILLE LANDLESS** | Shilpan Patel\
+      **MR CEDRIC MONCRIEFFE as THE REVEREND CRISPARKLE** | Sam Sugarman\
+      **MR PHILLIP BAX as BAZZARD** | Jonathan Scott\
+      **MR NICK CRICKER as DURDLES** | Daniel Saunders\
+      **MASTER NICK CRICKER as DEPUTY** | Polly Beaumont\
+      **MISS FLORENCE GILL as FLO** | Charlotte Levy\
+      **MR JAMES THROTTLE, COMPANY MANAGER** | Keith Walters\
+      **MISS ISABEL YEARSLEY as WENDY** | Sadie Kempner\
+      **MR CHRISTOPHER LYON as HORACE** | Toby Churchley\
+      **MISS VIOLET BALFOUR as BEATRICE** | Tess Robinson
 ---
 **A hilarious musical whodunit loosely based on Charles Dickens’ famous unfinished novel.**
 
@@ -49,27 +68,3 @@ Original Broadway production produced by the New York Shakespeare Festival\
 Joseph Papp, Producer
 
 Winner of 5 Tony Awards including Best Musical
-
-**AUDITIONS**
-
-# **[VIEW THE FULL AUDITION NOTICE](https://docs.google.com/document/d/1HoyNKNeB2tHIb5OeC08sjVYrNABF47286X0K1c5aMpo/edit)**
-
-In-person auditions will be held on Tuesday 30 November, Thursday 2 December and Sunday 5 December (video auditions may also be accepted), and slots can be booked online at [membership.sedos.co.uk](https://membership.sedos.co.uk/signup/92) with more information on the full audition notice.
-
-Contact [edwin.drood@sedos.co.uk](mailto:edwin.drood@sedos.co.uk) for more information.
-
-# **[VIEW THE FULL AUDITION NOTICE](https://docs.google.com/document/d/1HoyNKNeB2tHIb5OeC08sjVYrNABF47286X0K1c5aMpo/edit)**
-
-**KEY DATES**
-
-Meet The Team (online): Tuesday 9 November (evening)\
-Auditions: Tuesday 30 November (evening), Thursday 2 December (evening), Sunday 5 December (day)\
-Recalls: Saturday 11 December (day)\
-Rehearsals: Tuesday, Thursdays, Saturdays from 6 January 2022\
-Tech & dress rehearsals: 20 & 21 March 2022\
-Performance dates: 22–26 March 2022 7.30pm, Saturday matinee 2.30pm\
-Performances take place at the Bridewell Theatre, Bride Lane, EC4Y 8EQ
-
-**EQUALITY, INCLUSION & DIVERSITY**
-
-Sedos seeks to build and sustain a membership that is reflective of the diverse communities within London. We actively encourage performers to audition for the roles which they feel best suit their skills. Please check the casting breakdown for any specific requirements.
