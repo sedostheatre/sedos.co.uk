@@ -48,6 +48,15 @@ sections:
       **MARKETING** | Stephen Beeny\
       **COMMITTEE LIAISON** | Matt Gould
   - order: 2
+    title: GALLERY
+    body: <a data-flickr-embed="true"
+      href="https://www.flickr.com/photos/sedos/albums/72157720147912389"
+      title="When the Rain Stops Falling - 2022"><img
+      src="https://live.staticflickr.com/65535/51751143464_2c3c9a41e8_z.jpg"
+      width="640" height="480" alt="When the Rain Stops Falling -
+      2022"></a><script async src="//embedr.flickr.com/assets/client-code.js"
+      charset="utf-8"></script>
+  - order: 3
     title: FLYER
     body: |-
       ![](/assets/whentherainstopsfalling-a5-flyer-front-800.jpg)
