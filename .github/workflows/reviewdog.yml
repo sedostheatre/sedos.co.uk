@@ -9,7 +9,7 @@ jobs:
       - name: Check out code.
         uses: actions/checkout@v2.4.0
       - name: misspell
-        uses: reviewdog/action-misspell@v1.9
+        uses: reviewdog/action-misspell@v1.10
         with:
           github_token: ${{ secrets.github_token }}
           reporter: github-pr-review
