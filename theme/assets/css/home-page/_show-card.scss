@@ -17,8 +17,8 @@
         display: flex;
         flex-flow: row nowrap;
         height: 360px;
-
         width: 100%;
+
         @include media-breakpoint-up(sm) {
             background-color: $sedos-blue;
         }
