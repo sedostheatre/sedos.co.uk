@@ -10,9 +10,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <PackageReference Include="Statiq.App" Version="1.0.0-beta.49" />
-    <PackageReference Include="Statiq.Images" Version="1.0.0-beta.49" />
-    <PackageReference Include="Statiq.Web" Version="1.0.0-beta.34" />
+    <PackageReference Include="Statiq.App" Version="1.0.0-beta.55" />
+    <PackageReference Include="Statiq.Images" Version="1.0.0-beta.55" />
+    <PackageReference Include="Statiq.Web" Version="1.0.0-beta.41" />
     <PackageReference Include="Schema.NET" Version="9.0.0" />
   </ItemGroup>
 
@@ -40,16 +40,11 @@
     <NpmInstallStampFile>node_modules/.install-stamp</NpmInstallStampFile>
   </PropertyGroup>
 
-  <Target Name="NpmInstall"
-          Inputs="package.json"
-          Outputs="$(NpmInstallStampFile)"
-          BeforeTargets="BeforeBuild">
+  <Target Name="NpmInstall" Inputs="package.json" Outputs="$(NpmInstallStampFile)" BeforeTargets="BeforeBuild">
 
-    <Exec Command="npm ci"
-          Condition="$(RestorePackagesWithLockFile) == 'true'" />
+    <Exec Command="npm ci" Condition="$(RestorePackagesWithLockFile) == 'true'" />
 
-    <Exec Command="npm install"
-          Condition="$(RestorePackagesWithLockFile) != 'true'" />
+    <Exec Command="npm install" Condition="$(RestorePackagesWithLockFile) != 'true'" />
 
     <Touch Files="$(NpmInstallStampFile)" AlwaysCreate="true" />
   </Target>
