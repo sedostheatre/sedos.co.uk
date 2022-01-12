@@ -5,6 +5,7 @@
   "devDependencies": {
     "cypress": "9.2.1",
     "html-validate": "6.1.6",
+    "postcss": "8.4.5",
     "serve": "13.0.2",
     "stylelint": "14.2.0",
     "stylelint-config-standard-scss": "3.0.0"

@@ -17,14 +17,14 @@
         display: flex;
         flex-flow: row nowrap;
         height: 360px;
-
         width: 100%;
+
         @include media-breakpoint-up(sm) {
             background-color: $sedos-blue;
         }
 
         .show-details {
-            background: transparentize($sedos-blue, 0.3);
+            background: color.adjust($sedos-blue, $lightness: -0.3);
             width: 100%;
         }
 
@@ -72,7 +72,7 @@
 
         .card-footer,
         .card-header {
-            background: darken($sedos-blue, 10);
+            background: color.adjust($sedos-blue, $lightness: -10);
         }
 
         .card-header {

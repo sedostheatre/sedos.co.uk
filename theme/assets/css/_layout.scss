@@ -73,26 +73,24 @@
     text-align: center;
 
     &::before {
-        content: ''; // override bootstrap default
+        content: ""; // override bootstrap default
     }
 }
 
 .blockquote {
-
     font-size: 1.1rem;
 
     p {
         font-weight: bold;
-
         margin-bottom: 0;
         text-align: center;
 
         &::before {
-            content: '“';
+            content: "“";
         }
 
         &::after {
-            content: '”';
+            content: "”";
         }
     }
 
@@ -100,7 +98,7 @@
         text-align: center;
 
         &::before {
-            content: '';
+            content: "";
         }
     }
 }

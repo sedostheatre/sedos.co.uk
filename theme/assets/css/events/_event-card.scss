@@ -1,10 +1,10 @@
-@import '../card-mixins';
+@import "../card-mixins";
 
 .event-card-container {
     @include card-container;
 
     .regular-event-card {
-        background: darken($pink, 10);
+        background: color.adjust($pink, $lightness: -10);
     }
 
     .event-card {

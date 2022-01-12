@@ -1,5 +1,4 @@
 .show-header {
-
     @include media-breakpoint-down(md) {
         .show-title {
             font-size: 1.75em;
@@ -30,6 +29,7 @@
         display: flex;
         flex-direction: column;
         padding-top: 8em;
+
         @include media-breakpoint-down(sm) {
             padding-top: 1em;
             padding-top: 0;
@@ -43,7 +43,6 @@
         .showtime-summary {
             color: $white;
             font-size: 2em;
-
             font-weight: 300;
             padding-bottom: 0.5em;
             text-transform: uppercase;
@@ -68,6 +67,7 @@
         background-repeat: no-repeat;
         background-size: cover;
         min-height: 70vh;
+
         @include media-breakpoint-down(sm) {
             min-height: 30vh;
         }
@@ -87,8 +87,6 @@
         flex-grow: 1;
         font-size: 4.5em;
         font-weight: 900;
-
-        margin-bottom: 0;
         margin-bottom: 0;
 
         @media (max-height: 60rem) {
@@ -100,7 +98,6 @@
         }
 
         @include media-breakpoint-down(sm) {
-
             font-size: 2em;
             padding-bottom: 0.25em;
         }
@@ -112,7 +109,6 @@
         color: $white;
         flex-grow: 1;
         font-size: 2em;
-
         font-weight: 700;
 
         @media (max-height: 60rem) {
@@ -132,7 +128,6 @@
         color: $white;
         flex-grow: 2;
         font-size: 2em;
-
         font-weight: 300;
         max-width: 80%;
 
