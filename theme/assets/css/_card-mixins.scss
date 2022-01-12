@@ -19,7 +19,7 @@
 
     .card-footer,
     .card-header {
-        background: color.adjust($colour, $lightness: -10);
+        background: darken($colour, 10);
         color: $white;
         display: flex;
         flex-direction: column;
@@ -45,7 +45,7 @@
     padding-top: 15px;
 
     a:hover {
-        color: color.adjust($white, $lightness: -10);
+        color: darken($white, 10);
         text-decoration: none;
     }
 }

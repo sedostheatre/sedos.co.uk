@@ -4,7 +4,7 @@
     @include card-container;
 
     .regular-event-card {
-        background: color.adjust($pink, $lightness: -10);
+        background: darken($pink, 10);
     }
 
     .event-card {

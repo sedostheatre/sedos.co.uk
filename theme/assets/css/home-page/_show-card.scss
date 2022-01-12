@@ -24,7 +24,7 @@
         }
 
         .show-details {
-            background: color.adjust($sedos-blue, $lightness: -0.3);
+            background: transparentize($sedos-blue, 0.3);
             width: 100%;
         }
 
@@ -72,7 +72,7 @@
 
         .card-footer,
         .card-header {
-            background: color.adjust($sedos-blue, $lightness: -10);
+            background: darken($sedos-blue, 10);
         }
 
         .card-header {

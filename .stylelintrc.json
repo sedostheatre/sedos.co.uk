@@ -4,6 +4,7 @@
     "indentation": 4,
     "max-nesting-depth": 4,
     "selector-max-compound-selectors": 4,
-    "selector-no-qualifying-type": null
+    "selector-no-qualifying-type": null,
+    "scss/no-global-function-names": null
   }
 }
