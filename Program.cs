@@ -16,7 +16,7 @@ namespace Minimal
                 .Factory
                 .CreateDefaultWithout(args, DefaultFeatures.Pipelines)
                 .AddHostingCommands()
-                .ConfigureEngine(engine => engine.FileSystem.InputPaths.Add("theme"))
+                .ConfigureFileSystem(fs => fs.InputPaths.Add("theme"))
                 .AddSetting("title", "Sedos")
                 .AddSetting(Keys.Host, "sedos.co.uk")
                 .AddSetting(Keys.DateTimeDisplayCulture, CultureInfo.InvariantCulture)
