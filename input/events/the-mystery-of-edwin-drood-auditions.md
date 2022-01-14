@@ -27,7 +27,7 @@ Due to the unfinished nature of the text, the Music Hall Royale call upon the au
 
 #### **AUDITIONS**
 
-# **[VIEW THE ORIGINAL AUDITION NOTICE](https://docs.google.com/document/d/1HoyNKNeB2tHIb5OeC08sjVYrNABF47286X0K1c5aMpo/edit)**
+### **[VIEW THE ORIGINAL AUDITION NOTICE](https://docs.google.com/document/d/1HoyNKNeB2tHIb5OeC08sjVYrNABF47286X0K1c5aMpo/edit)**
 
 If you have any questions, please contact [edwin.drood@sedos.co.uk](mailto:edwin.drood@sedos.co.uk) for more information.
 
