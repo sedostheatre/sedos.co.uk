@@ -2,6 +2,9 @@
 title: Edwin Drood seeks male ensemble member
 date: 2022-01-14
 image: /assets/droodrectangle.jpg
+extract: Due to a change in circumstances, Sedos needs an additional male
+  ensemble member to join the cast of The Mystery of Edwin Drood. Deadline Fri
+  21 Jan.
 ---
 ^^^ ![](/assets/droodrectangle.jpg)
 ^^^ 
