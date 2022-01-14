@@ -17,7 +17,7 @@ A backing track can be found at: <https://drive.google.com/drive/folders/1_lsb7I
 
 #### **ABOUT THE SHOW**
 
-***[The Mystery of Edwin Drood](https://sedos.co.uk/shows/2022-the-mystery-of-edwin-drood)* is a hilarious musical whodunit loosely based on Charles Dickens’ famous unfinished novel.** 
+*[The Mystery of Edwin Drood](https://sedos.co.uk/shows/2022-the-mystery-of-edwin-drood)* is a hilarious musical whodunit loosely based on Charles Dickens’ famous unfinished novel. 
 
 This wildly warm-hearted theatrical experience kicks off when the Music Hall Royale (a hilariously raucous Victorian musical troupe) “puts on” its flamboyant rendition of an unfinished Dickens mystery. This framing of the show allows for much more comedy and melodrama than if the original text were played straight.
 
