@@ -1,5 +1,5 @@
 ---
-title: The Mystery of Edwin Drood auditions
+title: Male ensemble member needed for The Mystery of Edwin Drood
 times:
   - time: 2022-01-21 18:15
 image: /assets/edwindrood_titleidea.png
