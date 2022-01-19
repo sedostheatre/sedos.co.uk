@@ -43,9 +43,7 @@ Sam Pearce\
 James Stone\
 Jonathan Scott
 
-The team went to the Edinburgh Fringe Festival in 2019 and sold out every show! They'll be returning to the Fringe in 2020.
-
-They’ll be plenty of warm-up shows, which will be held at improv theatres around London, as well as in our very own [1 Brewers' Hall Garden.](/venues/bhg) 
+The team went to the Edinburgh Fringe Festival in 2019 and sold out every show! They'll be returning to the Fringe in 2022.
 
 The Banana Hut Gang are regular attendees at the Simprov drop in, so say hi to James, Alex, Chris, Laura, Jonny, Jess and Sam there!
 
