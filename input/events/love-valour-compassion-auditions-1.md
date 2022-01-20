@@ -41,7 +41,7 @@ audition notice or to discuss accessibility requirements please email love@sedos
 
 **How to sign up**
 
-Read the [full audition notice](https://drive.google.com/file/d/1SwfAR58kquVFSB8r38rwjsRiDazGfWlD/view), then sign up for an audition slot [here](https://membership.sedos.co.uk/signup/96)
+Read the [full audition notice](https://drive.google.com/file/d/1SwfAR58kquVFSB8r38rwjsRiDazGfWlD/view), then sign up for an audition slot [here](https://membership.sedos.co.uk/signup/96).
 
 **Any questions?**
 
