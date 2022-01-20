@@ -1,10 +1,9 @@
 ---
-title: Edwin Drood seeks male ensemble member
+title: Edwin Drood seeks two ensemble members
 date: 2022-01-14
 image: /assets/droodrectangle.jpg
-extract: Due to a change in circumstances, Sedos needs an additional male
-  ensemble member to join the cast of The Mystery of Edwin Drood. Deadline Fri
-  21 Jan.
+extract: Due to a change in circumstances, Sedos needs two additional ensemble
+  members to join the cast of The Mystery of Edwin Drood. Deadline Fri 21 Jan.
 ---
 ^^^ ![](/assets/droodrectangle.jpg)
 ^^^ 
@@ -13,11 +12,11 @@ extract: Due to a change in circumstances, Sedos needs an additional male
 
 #### **MALE ENSEMBLE MEMBER NEEDED**
 
-Due to a change in circumstances, Sedos are looking for an additional male ensemble member to join the cast of *The Mystery of Edwin Drood*. 
+Due to a change in circumstances, Sedos are looking for two additional ensemble members (one male, one female) to join the cast of *The Mystery of Edwin Drood*. 
 
-If you previously auditioned for the show and would like to be considered again, please email to let us know. Otherwise, we welcome keen singers and dancers to submit a video of ‘Never The Luck’ to [edwin.drood@sedos.co.uk](mailto:edwin.drood@sedos.co.uk) by **5pm on Friday 21 January**. 
+If you previously auditioned for the show and would like to be considered again, please email to let us know. Otherwise, we welcome keen singers and dancers to submit a video of ‘Never The Luck’ (male) or ‘Moonfall’ (female) to [edwin.drood@sedos.co.uk](mailto:edwin.drood@sedos.co.uk) by **5pm on Friday 28 January**. 
 
-A backing track can be found at: <https://drive.google.com/drive/folders/1_lsb7IC08KOVMxRQv9DYEP8ELz9aomcb?usp=sharing>
+A backing track can be found at: [](https://drive.google.com/drive/folders/1_lsb7IC08KOVMxRQv9DYEP8ELz9aomcb?usp=sharing)<https://drive.google.com/drive/folders/1_lsb7IC08KOVMxRQv9DYEP8ELz9aomcb>
 
 #### **ABOUT THE SHOW**
 
