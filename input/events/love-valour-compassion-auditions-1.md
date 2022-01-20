@@ -10,9 +10,9 @@ venue: Theatre Deli Broadgate, 2 Finsbury Avenue, London EC2M 2PA.
 
 Eight gay men.
 Three long weekends.
-One last summer.\
+One last summer.
 
-Winner of the 1995 Tony Award for Best Play, *Love! Valour! Compassion!* is a monumental exploration into life, love and loss at the end of the millennium.\
+Winner of the 1995 Tony Award for Best Play, *Love! Valour! Compassion!* is a monumental exploration into life, love and loss at the end of the millennium.
 
 As hilarious as it is heart-breaking, Terence McNally’s seminal work captures the zeitgeist of 90s America and forces the question - when reality hits home, who and what is most important to us?
 
@@ -32,7 +32,7 @@ Recalls are on the morning of Saturday 26 February.
 
 **Equality, inclusion and diversity**
 
-*Love! Valour! Compassion!* explores sensitive issues which you shoould be mindful of before auditioning – more information in the full audition notice.  
+*Love! Valour! Compassion!* explores sensitive issues which you shoould be mindful of before auditioning – more information in the [full audition notice](https://drive.google.com/file/d/1SwfAR58kquVFSB8r38rwjsRiDazGfWlD/view).  
 
 Sedos seeks to build and sustain a membership that is reflective of the diverse communities within London. We actively encourage performers to audition for the roles which they feel best suit their skills. We will consider actors of all ethnicities for all roles, except for the role of Ramon, where we will only consider actors of Hispanic or Latin-American heritage.
 
