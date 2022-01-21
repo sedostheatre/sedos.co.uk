@@ -74,6 +74,8 @@ It interweaves a series of connected stories as seven people confront the myster
 
 This award winning play received its European premiere at the Almeida Theatre, London, in May 2009. Andrew Bovell is a celebrated Australian writer, best known for S*peaking In Tongues* and Baz Baz Luhrmann’s *Strictly Ballroom*.
 
+*Includes strong language and sensitive subject matter, including reference to paedophilia, alcoholism, suicide, dementia and memory loss.*
+
 **SPECIAL OFFER:** book a ticket to *When the Rain Stops Falling* and a ticket to *[The Mystery of Edwin Drood](https://sedos.co.uk/shows/2022-the-mystery-of-edwin-drood)* in one transaction and receive 10% off.
 
 >“Superb... fiendishly ingenious... utterly compelling”
