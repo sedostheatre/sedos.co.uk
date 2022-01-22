@@ -63,7 +63,7 @@ sections:
 
       ![](/assets/whentherainstopsfalling-a5-flyer-back-800.jpg)
 ---
->“YOU’RE NOT SURE IF IT’S TODAY OR TOMORROW OR YESTERDAY. AND WHO CAN BLAME YOU FOR THAT. THEY’RE ALL MUCH THE SAME.”
+>YOU’RE NOT SURE IF IT’S TODAY OR TOMORROW OR YESTERDAY. AND WHO CAN BLAME YOU FOR THAT. THEY’RE ALL MUCH THE SAME.
 ><footer><cite></cite></footer>
 
 A beautiful and expansive drama about family, betrayal and forgiveness, spanning four generations and two hemispheres. All throughout eighty years of torrential rain. 
@@ -72,7 +72,7 @@ A beautiful and expansive drama about family, betrayal and forgiveness, spanning
 
 It interweaves a series of connected stories as seven people confront the mysteries of their past in order to understand their future, revealing how patterns of secrets, love and abandonment are passed on.
 
-This award winning play received its European premiere at the Almeida Theatre, London, in May 2009. Andrew Bovell is a celebrated Australian writer, best known for S*peaking In Tongues* and Baz Baz Luhrmann’s *Strictly Ballroom*.
+This award winning play received its European premiere at the Almeida Theatre, London, in May 2009. Andrew Bovell is a celebrated Australian writer, best known for S*peaking in Tongues* and Baz Baz Luhrmann’s *Strictly Ballroom*.
 
 **SPECIAL OFFER:** book a ticket to *When the Rain Stops Falling* and a ticket to *[The Mystery of Edwin Drood](https://sedos.co.uk/shows/2022-the-mystery-of-edwin-drood)* in one transaction and receive 10% off.
 
