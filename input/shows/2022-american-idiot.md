@@ -41,4 +41,6 @@ sections:
 
 Johnny, Tunny and Will struggle to find meaning in a post-9/11 world. When the three disgruntled men flee the constraints of their hometown for the thrills of city life, their paths are quickly estranged when Tunny enters the armed forces, Will is called back home to attend familial responsibilities, and Johnny's attention becomes divided by a seductive love interest and a hazardous new friendship.
 
-An energy-fuelled rock opera, *American Idiot*, features little dialogue and instead relies on the lyrics from Green Day's groundbreaking album to execute the story line.
+An energy-fuelled rock opera, *American Idiot* features little dialogue and instead relies on the lyrics from Green Day's groundbreaking album to execute the story line.
+
+This show includes offensive language and depictions of suicide and drug use. Haze, smoke, strobe lighting and loud noises may be used.
