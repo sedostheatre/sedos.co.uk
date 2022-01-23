@@ -1,7 +1,7 @@
 ---
 title: Two ensemble members needed for The Mystery of Edwin Drood
 times:
-  - time: 2022-01-21 18:15
+  - time: 2022-01-28 17:00
 image: /assets/droodrectangle.jpg
 ---
 ^^^ ![](/assets/droodrectangle.jpg)
