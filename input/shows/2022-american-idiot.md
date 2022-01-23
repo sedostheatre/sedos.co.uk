@@ -6,24 +6,28 @@ authors2: Book by MICHAEL MAYER
 authors3: Music and Lyrics by GREEN DAY
 subtitle: An energy-fuelled rock opera based on the Grammy Award-winning album
 showtimes:
-  - time: 2022-05-04 19:30
-  - time: 2022-05-05 19:30
-  - time: 2022-05-06 19:30
-  - time: 2022-05-07 14:30
-  - time: 2022-05-07 19:30
-  - time: 2022-05-10 19:30
-  - time: 2022-05-11 19:30
-  - time: 2022-05-12 19:30
-  - time: 2022-05-13 19:30
-  - time: 2022-05-14 14:30
-  - time: 2022-05-14 19:30
+  - time: 2022-05-04 20:00
+  - time: 2022-05-05 20:00
+  - time: 2022-05-06 20:00
+  - time: 2022-05-07 16:00
+  - time: 2022-05-07 20:00
+  - time: 2022-05-10 20:00
+  - time: 2022-05-11 20:00
+  - time: 2022-05-12 20:00
+  - time: 2022-05-13 20:00
+  - time: 2022-05-14 16:00
+  - time: 2022-05-14 20:00
 showtime-summary: 4-14 MAY 2022
 venue: Bridewell Theatre
+ticket-prices: From £10
+additional-ticket-info: "Gala night: Friday 6th May and Friday 13th May -
+  tickets include a glass of fizz and programme"
 primary-color: "#ce181e"
 header-image: /assets/american_idiot_4c_border.jpg
 header-image-contain: true
 flyer: /assets/american-idiot-holderposter-v2.jpg
 box-office-open: false
+box-office-link: https://sedos.ticketsolve.com/shows/1173618308
 sections:
   - order: 1
     title: CAST & CREATIVE TEAM
