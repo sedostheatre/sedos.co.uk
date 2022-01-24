@@ -26,7 +26,7 @@ primary-color: "#ce181e"
 header-image: /assets/american_idiot_4c_border.jpg
 header-image-contain: true
 flyer: /assets/american-idiot-holderposter-v2.jpg
-box-office-open: false
+box-office-open: true
 box-office-link: https://sedos.ticketsolve.com/shows/1173618308
 sections:
   - order: 1
