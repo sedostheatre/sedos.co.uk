@@ -29,7 +29,7 @@ sections:
       **MUSICAL DIRECTOR** | Issie Osborne\
       **CHOREOGRAPHER / ASSISTANT DIRECTOR** | Tim Garrad\
       **PRODUCER** | Ben Hussey\
-      **STAGE MANAGER** | Shiri Stern\
+      **LIGHTING DESIGN** | Shiri Stern\
       **SOUND DESIGN** | Henry Whittaker\
       **COSTUME DESIGN** | Frederica Byron
 
