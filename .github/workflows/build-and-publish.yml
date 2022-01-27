@@ -30,6 +30,8 @@ jobs:
     - name: Lint HTML
       run: 'npx html-validate output/'
       continue-on-error: true
+    - name: purgecss
+      run: 'npx purgecss -c ./purgecss.config.js'
     - name: Cypress tests
       uses: cypress-io/github-action@v2
       with:
