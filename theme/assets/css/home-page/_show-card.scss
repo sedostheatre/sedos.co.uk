@@ -34,6 +34,10 @@
             width: 100%;
         }
     }
+
+    img.show-card {
+        object-fit: contain;
+    }
 }
 
 .upcoming-show-card-container {
