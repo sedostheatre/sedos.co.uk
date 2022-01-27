@@ -91,7 +91,7 @@
                     var flyerDocument = Model.Get<string>("flyer");
                     var link = flyerDocument == null ? "" : Context.GetLink(flyerDocument);
                     <div class="sidebar-flyer">
-                        <img src="@link" alt='@Model["title"] flyer image'></img>
+                        <img src="@link" alt='@Model["title"] flyer image' height="352" width="249"></img>
                     </div>
                 }
             </div>
