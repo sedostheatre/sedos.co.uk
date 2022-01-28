@@ -20,8 +20,8 @@ showtimes:
 showtime-summary: 4-14 MAY 2022
 venue: Bridewell Theatre
 ticket-prices: From £10
-additional-ticket-info: "Gala night: Friday 6th May and Friday 13th May -
-  tickets include a glass of fizz and programme"
+additional-ticket-info: "Gala night: Friday 6 May and Friday 13 May - tickets
+  include a glass of fizz and programme"
 primary-color: "#ce181e"
 header-image: /assets/american_idiot_4c_border.jpg
 header-image-contain: true
