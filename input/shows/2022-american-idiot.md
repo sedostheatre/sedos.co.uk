@@ -32,6 +32,30 @@ sections:
   - order: 1
     title: CAST & CREATIVE TEAM
     body: |-
+      **CAST**
+
+      **JOHNNY |** Nick Dore\
+      **TUNNY |** George Langdown\
+      **WILL |** Joshua Yeardley\
+      **ST. JIMMY |** Sorrel Brown\
+      **HEATHER |** Heather Daniel\
+      **WHATSERNAME |** Tara Blackburn\
+      **EXTRAORDINARY GIRL |** Tair Doron 
+
+      **ENSEMBLE**\
+      Adam Richardson\
+      Adrian Hau\
+      Alex Dehn\
+      Alice Signell\
+      Emily Rushton\
+      Jack Brown\
+      Jamie Wright\
+      Rebecca Lyle\
+      Sarah Berryman\
+      Toby Chapman
+
+      **CREATIVE TEAM**
+
       **DIRECTOR** | Matt Bentley\
       **MUSICAL DIRECTOR** | Oscar Denihan\
       **CHOREOGRAPHER** | Jen Bullock\
@@ -44,3 +68,7 @@ Johnny, Tunny and Will struggle to find meaning in a post-9/11 world. When the t
 An energy-fuelled rock opera, *American Idiot* features little dialogue and instead relies on the lyrics from Green Day's groundbreaking album to execute the story line.
 
 This show includes offensive language and depictions of suicide and drug use. Haze, smoke, strobe lighting and loud noises may be used.
+
+
+
+*American Idiot* plays at the [Bridewell Theatre](https://sedos.co.uk/venues/bridewell) from 4-14 May 2022.
