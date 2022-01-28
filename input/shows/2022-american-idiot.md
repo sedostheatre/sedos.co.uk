@@ -32,10 +32,37 @@ sections:
   - order: 1
     title: CAST & CREATIVE TEAM
     body: |-
+      **CAST**
+
+      **JOHNNY |** Nick Dore\
+      **TUNNY |** George Langdown\
+      **WILL |** Joshua Yeardley\
+      **ST. JIMMY |** Sorrel Brown\
+      **HEATHER |** Heather Daniel\
+      **WHATSERNAME |** Tara Blackburn\
+      **EXTRAORDINARY GIRL |** Tair Doron 
+
+      **ENSEMBLE**\
+      Adam Richardson\
+      Adrian Hau\
+      Alex Dehn\
+      Alice Signell\
+      Emily Rushton\
+      Jack Brown\
+      Jamie Wright\
+      Rebecca Lyle\
+      Sarah Berryman\
+      Toby Chapman
+
+      **CREATIVE TEAM**
+
       **DIRECTOR** | Matt Bentley\
       **MUSICAL DIRECTOR** | Oscar Denihan\
       **CHOREOGRAPHER** | Jen Bullock\
       **CREATIVE PRODUCERS** | Adam Coppard and Oliver Levett
+metaDescription: American Idiot, a Sedos London musical, plays at the Bridewell
+  Theatre from 4-14 May 2022. The show is an energy-fuelled rock opera based on
+  the Grammy Award-winning album
 ---
 **The two-time Tony Award-winning hit musical *Green Day's American Idiot*, based on the Grammy Award-winning multi-platinum album, boldly takes the American musical where it's never gone before. This high-octane show includes every song from Green Day's album *American Idiot*, as well as several songs from follow-up release, *21st Century Breakdown*.**
 
@@ -44,3 +71,7 @@ Johnny, Tunny and Will struggle to find meaning in a post-9/11 world. When the t
 An energy-fuelled rock opera, *American Idiot* features little dialogue and instead relies on the lyrics from Green Day's groundbreaking album to execute the story line.
 
 This show includes offensive language and depictions of suicide and drug use. Haze, smoke, strobe lighting and loud noises may be used.
+
+
+
+*American Idiot* plays at the [Bridewell Theatre](https://sedos.co.uk/venues/bridewell) from 4-14 May 2022.
