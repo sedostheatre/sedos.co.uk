@@ -6,7 +6,7 @@ times:
 image: /assets/269448285_1597298843975454_5638259367532123150_n.jpg
 venue: Theatre Deli, 2 Finsbury Avenue, EC2M 2PF
 ---
-The Banana Hut Gang is looking to grow, and for the first time since being formed, is opening up auditions!
+The Banana Hut Gang is looking to grow, and for the first time since being formed, is opening up [London auditions](https://sedos.co.uk/get-involved) for the group!
 
 **[READ THE FULL AUDITION NOTICE](https://docs.google.com/document/d/1-xqqJ63kKp9HCeC8rPMHXHyQmIiV6msRY1AtfTGkcD0/edit)**
 
