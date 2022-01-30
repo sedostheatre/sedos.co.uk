@@ -4,7 +4,7 @@ year: "2022"
 authors: "Book and Lyrics by BILLIE JOE ARMSTRONG "
 authors2: Book by MICHAEL MAYER
 authors3: Music and Lyrics by GREEN DAY
-subtitle: An energy-fuelled rock opera based on the Grammy Award-winning album
+subtitle: An energy-fuelled rock musical based on the Grammy Award-winning album
 showtimes:
   - time: 2022-05-04 20:00
   - time: 2022-05-05 20:00
@@ -62,13 +62,13 @@ sections:
       **CREATIVE PRODUCERS** | Adam Coppard and Oliver Levett
 metaDescription: American Idiot, part of Sedos' 2022 season of London musicals
   and plays, runs at the Bridewell Theatre from 4-14 May 2022. The show is an
-  energy-fuelled rock opera based on the Grammy Award-winning album
+  energy-fuelled rock musical based on the Grammy Award-winning album
 ---
 **The two-time Tony Award-winning hit musical *Green Day's American Idiot*, based on the Grammy Award-winning multi-platinum album, boldly takes the American musical where it's never gone before. This high-octane show includes every song from Green Day's album *American Idiot*, as well as several songs from follow-up release, *21st Century Breakdown*.**
 
 Johnny, Tunny and Will struggle to find meaning in a post-9/11 world. When the three disgruntled men flee the constraints of their hometown for the thrills of city life, their paths are quickly estranged when Tunny enters the armed forces, Will is called back home to attend familial responsibilities, and Johnny's attention becomes divided by a seductive love interest and a hazardous new friendship.
 
-An energy-fuelled rock opera, *American Idiot* features little dialogue and instead relies on the lyrics from Green Day's groundbreaking album to execute the story line.
+An energy-fuelled rock musical, *American Idiot* features little dialogue and instead relies on the lyrics from Green Day's groundbreaking album to execute the story line.
 
 This show includes offensive language and depictions of suicide and drug use. Haze, smoke, strobe lighting and loud noises may be used.
 
