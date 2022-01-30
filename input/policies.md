@@ -836,7 +836,7 @@ If the basis changes then if required by law we shall notify you of the change a
 
 *Adopted 11 June 2021*
 
-
+- - -
 
 ## PHOTOGRAPHY POLICY
 
