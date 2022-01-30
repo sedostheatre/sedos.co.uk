@@ -8,6 +8,7 @@ RedirectFrom:
 * [Conflict of Interest Policy](#conflict-of-interest-policy)
 * [COVID-19 Policy](#covid-19-health-and-safety-policy)
 * [Privacy and Data Protection Policy](#privacy-and-data-protection-policy)
+* [Photography policy](#photography-policy)
 
 - - -
 
@@ -334,7 +335,9 @@ The following are Activity Plan considerations specific to show performances:
 
 * Considering contingency plans if a key performer or other participant becomes unable to participate in-person due to becoming symptomatic;
 * Taking steps to minimise transmission and maintain social distancing before, during and after live performances including:
+
   * Conducting a specific risk assessment for each premises or venue and the proposed activities to identify:
+
     * The number of people that can reasonably follow social distancing within the venue or premises, taking into account total space, equipment as well as likely constraints (toilets and washrooms) and pinch points;
     * The ventilation rates that can be applied to the premises or venue and whether this can be adjusted sufficiently to deliver a safe environment for all those due to attend at any time (performers, producers, support teams and audience combined);
     * Which activities can be undertaken and which spaces can be used with specific measures to ensure social distancing and maintain cleaning;
@@ -403,10 +406,11 @@ In the event of emergency or accident, safety shall take precedence over COVID-1
 ### F. PROCESS AFTER COVID OUTBREAK
 
 Individuals who:
+
 * have tested positive for COVID-19;
 * have symptoms of COVID-19 (a high temperature, new and persistent cough or anosmia, however mild);
 * are required to self-isolate as part of the government’s prevailing guidance,
-shall not be permitted to take part in Sedos Activities until they have complied with this Section F (each an “Excluded Participant”).
+  shall not be permitted to take part in Sedos Activities until they have complied with this Section F (each an “Excluded Participant”).
 
 In the event that an individual has been advised to self-isolate as part of the government’s track and trace or app system but is not mandatorily required to self-isolate pursuant to the prevailing government guidance, the following steps shall also be followed unless the COVID Compliance Officer is satisfied that following such steps is not required to: (a) meet Sedos’ legal obligations; and (b) meet Sedos’ commitments in Section B of this policy.  
 
@@ -417,11 +421,11 @@ If a participant becomes aware they are an Excluded Participant they should:
 * if deemed necessary by the Management Committee, obtain the opinion of a doctor that it is safe to return to in-person activities before doing so.
 
 If a Session Leader becomes or is made aware of a participant becoming an Excluded Participant they shall immediately:
+
 * inform the COVID Compliance Officer by email or phone (details in Section A);
 * inform all other participants in the Sedos Activity that a participant has become an Excluded Participant; and
 * comply with any instructions given by the COVID Compliance Officer.
-Promptly thereafter the Session Leader shall meet with the COVID Compliance Officer and other relevant members of the Management Committee to discuss:
-
+  Promptly thereafter the Session Leader shall meet with the COVID Compliance Officer and other relevant members of the Management Committee to discuss:
 * whether the Sedos Activity can continue; and
 * if it can continue, the terms on which it can continue, including investigating ways that the Excluded Participant can still participate from isolation.
 
@@ -434,7 +438,6 @@ https://www.gov.uk/guidance/working-safely-during-coronavirus-covid-19/performin
 https://www.gov.uk/government/publications/coronavirus-covid-19-meeting-with-others-safely-social-distancing/coronavirus-covid-19-meeting-with-others-safely-social-distancing
 
 Approved: 4 October 2021
- 
 
 ### ANNEX 1 - COVID-19 Risk Assessment Register
 
@@ -722,6 +725,7 @@ If the basis changes then if required by law we shall notify you of the change a
    This may include your personal information.
 
 ### Specific uses of information you provide to us
+
 4. **Information relating to payments**
 
    If you make a payment to us we retain certain personal information, including your name, address, phone number, email address, IP address and details of the transaction.   This information is stored on our servers or servers that we have access to operated by our third party provider, Ticketsolve, the provider of our ticketing system.  We provide this information and the credit card information for processing by our bank, Lloyds Bank plc and the payments processing agents Realex and Global Payments.  We do not retain copies of your credit card information which is handled and is protected solely by Lloyds Bank plc, Realex and Global Payments.
@@ -734,7 +738,6 @@ If the basis changes then if required by law we shall notify you of the change a
    When you contact us via one of the contact emails on our website, we collect the data you have given to us in order to reply with the information you need.
 
    We keep personally identifiable information associated with your message, such as your name and email address so as to be able to track our communications with you on an ongoing manner.
-
 7. **Marketing**
 
    We issue newsletters and other marketing information to people who have attended our performances or otherwise expressed an interest in the activities of Sedos.  You will always have the opportunity to unsubscribe from these emails.  Your information is held in our Mailchimp account.
@@ -745,6 +748,7 @@ If the basis changes then if required by law we shall notify you of the change a
    If you are involved in an audition, a production or as a volunteer, then we will keep certain personal information about you.  If you audition for a production, then we will need to keep your contact details in relation to that project; we will not share details other than as necessary with the production teams for the smooth running of the production or the general business of Sedos in connection with your participation in the activities of Sedos.
 
 ### Use of information we collect through automated systems when you visit our website
+
 9. **Cookies**
 
    Cookies are small text files that are placed on your computer's hard drive by your web browser when you visit any website. They allow information gathered on one web page to be stored until it is needed for use on another, allowing a website to provide you with a personalised experience and the website owner with statistics about how you use the website so that it can be improved.
@@ -766,7 +770,6 @@ If the basis changes then if required by law we shall notify you of the change a
    9.3.	to keep you signed in our site
 
    9.4.	to record your answers to surveys and questionnaires on our site while you complete them
-
 10. **Personal identifiers from your browsing activity**
 
     Requests by your web browser to our servers for web pages and other content on our website are recorded.
@@ -778,6 +781,7 @@ If the basis changes then if required by law we shall notify you of the change a
     If combined with other information we know about you from previous visits, the data possibly could be used to identify you personally, even if you are not signed in to our website.
 
 ### Disclosure and sharing of your information
+
 11. **Information we obtain from third parties**
 
     Although we do not disclose your personal information to any third party (except as set out in this policy), we sometimes receive data that is indirectly made up from your personal information from third parties whose services we use.
@@ -788,6 +792,7 @@ If the basis changes then if required by law we shall notify you of the change a
     Our websites are hosted in the UK and all personal information is processed within the UK or the European Union.
 
 ### Access to your own information
+
 13. **Access to your personal information**
 
     13.1.	To obtain a copy of any information that is not provided on our website you may send us a request at [dataprotection@sedos.co.uk](mailto:dataprotection@sedos.co.uk).
@@ -800,6 +805,7 @@ If the basis changes then if required by law we shall notify you of the change a
     This may limit the service we can provide to you and please note that we are required to keep certain information by law.
 
 ### Other matters
+
 15. **How you can complain**
 
     15.1.	If you are not happy with our privacy policy or if have any complaint then you should tell us by email. Please email us at [dataprotection@sedos.co.uk](mailto:dataprotection@sedos.co.uk).
@@ -829,3 +835,48 @@ If the basis changes then if required by law we shall notify you of the change a
     If you have any question regarding our privacy policy, please contact us at [dataprotection@sedos.co.uk](mailto:dataprotection@sedos.co.uk)
 
 *Adopted 11 June 2021*
+
+
+
+## PHOTOGRAPHY POLICY
+
+This policy aims to make photography at Sedos a more "human" experience, to increase comfort for the actors and to take their anxiety and desires into account, by increasing transparency and communication with those whose images we use. 
+
+This policy includes videos and still photographs, using the same principles.
+
+Sedos acknowledges that actors might be self-conscious of their image, be worried about their image’s presentation to the public, or have issues with certain representations of their personal image. This policy attempts to ensure that actors have a good experience with Sedos’s use of their image, yet still retain the ability to correctly market a show through the use of images of the actors.
+
+The following is Sedos’s photography policy. This policy should be put on the website, and all members of the production team should adhere to these policies.
+
+* Audition forms must include a checkbox that reads as follows: 
+
+“Please initial:
+
+\[        ]  I acknowledge that Sedos and photographers assigned by Sedos, have the irrevocable and unrestricted right to use and publish photographs of me during auditions, rehearsal or performance of this production, for editorial, trade, advertising, and promotion of this show or the society, in any manner and medium; and to alter and composite the same. I hereby release the Photographer and Sedos and their legal representatives and assigns from all claims and liability relating to said photographs.
+
+* Audition forms must be retained. Because of this release, they are official documents. Scanning them and putting them online in a shared folder, or using an online form throughout, is ideal.
+* Actors have the right to speak to any member of the production team (including the committee liaison) at any time regarding any images of them or any process involved in their creation. Sedos has the right to control the marketing for the show, but we all want the actors to feel comfortable and raise concerns. 
+* The production team must inform the actors how their image is being used. For most images, an introductory conversation is the only conversation that will inform them of how we’ll be using their photos. Only a simple conversation is needed for headshots, rehearsal shots, staged marketing shots, and dress rehearsal photos. For the most significant uses of actor images, such as if their faces are prominently displayed on the poster or other major advertising, the production team will give the actors the opportunity to be more directly involved.
+* We will be taking headshots, rehearsal shots and shots of the dress rehearsal. The actors should expect each of these, and we will communicate when those happen so they can prepare physically and mentally.
+* For the following types of edits (or similar), the photographers and/or production team does not need to inform the actors nor seek their approval:
+* * Filters, exposure or basic colour edits that change exposure, colour levels. 
+  * Changing of the environment, as long it is not controversial. This includes things like removing signage or marks on the wall, removing distracting items from the environment, editing lighting, etc. This might include edits such as cutting out their image and putting it into a different background (like a stage, a set, etc.).
+  * Minor blemish removal (pimples, hairs, minor cuts and scrapes).
+  * Minor effects on their personal image such as skin softening or localized lighting adjustments.
+* For the following types of edits (or similar), the photographers and/or production team will inform the actors (before publication), but will not seek their approval:
+* * Stylistic edits (such as edge sharpening) that cast them in a character-appropriate light, which might be unflattering (for an example of this, please see the [Gormenghast photos](https://photos.app.goo.gl/DKAvzZXM7iUWHHri7)). Such techniques include but are not limited to: HDR, edge detection, and an unpleasant or unfavourable countenance (smile, frown, menace, growl, etc.)
+  * Placing their image into new environments that are show-specific and not edgy (violent, sexual, etc.)
+* The photographers and/or production team will inform the actors and will seek their approval for the following types of edits before their publication. 
+* * If their image will be used in a non-group setting (fewer than 3 people) in major marketing materials such as the show poster (but not show imagery).
+  * If any image might be deemed sexual or violent in nature.
+  * If we will make significant changes to their person such as changing their facial or body shape, or changing their body. This includes removing things like scars and tattoos and anything else that the actor may feel is part of their “identity”.
+  * Placing their image into new environments that are show-specific and might be considered edgy (violent, sexual, etc.)
+* Actors should understand that informal photos may be taken by other cast members or production staff, and these may be used for marketing purposes. 
+* Actors do not retain the right to approve photos used of them – except in the specific cases mentioned above – but if an actor flags that they have a problem with an image, such a conversation should be taken seriously and action taken to remove or modify the photo(s) if possible. 
+* It is recommended that photographers and production teams take all skin colours into account for headshots, so the actors are best represented.
+* Before each photoshoot...
+* * The production team should notify the actors in advance so they can prepare themselves for the event, both physically and mentally. It may be difficult for actors if their photographs are taken immediately after a dance rehearsal; actors should be given the ability to look their best.
+  * Actors should understand how these images are to be used. If it’s just simple headshots, rehearsal photos and dress rehearsal photos, then just a quick overview will do. However, if this is an explicit complicated photoshoot (such as done with Pippin, Government Inspector, or similar), then please ensure the cast is aware of the vision, purpose and their role in that process.
+  * Photographers should be briefed on the editing policy and pointed to the online version.
+  * Photographers should be introduced to the cast to help put the actors at ease; a simple group introduction is all that’s needed. This is especially important during 1-on-1 shoots like headshots, but also important for dress and rehearsal shots. 
+  * Photographers should minimize their edits to the “first type” above (where we do not ask for actors’ permission). For further edits, or if there are any questions, please consult with the production team.
