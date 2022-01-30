@@ -6,7 +6,7 @@ times:
 image: /assets/audition-image-ls.jpg
 venue: Theatre Deli Broadgate, 2 Finsbury Avenue, London EC2M 2PA.
 ---
-**Audition registration is now open for our production of *[Love! Valour! Compassion!](https://sedos.co.uk/shows/2021-love-valour-compassion)* (performances 5-9 July at the Bridewell Theatre).**
+**Announcing new [London auditions](https://sedos.co.uk/get-involved)! Registration is now open for auditions for our production of *[Love! Valour! Compassion!](https://sedos.co.uk/shows/2021-love-valour-compassion)* (performances 5-9 July at the Bridewell Theatre).**
 
 Eight gay men.
 Three long weekends.
