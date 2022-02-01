@@ -62,7 +62,7 @@ sections:
       ![](/assets/whentherainstopsfalling-a5-flyer-front-800.jpg)
 
       ![](/assets/whentherainstopsfalling-a5-flyer-back-800.jpg)
-  - order: 1
+  - order: 4
     title: TRAILER
     body: <div class="video-responsive"><?# YouTube OpBBFTF9dDg /?></div>
 ---
