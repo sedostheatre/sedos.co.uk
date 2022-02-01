@@ -441,6 +441,23 @@ collections:
             description: Pages on the old site to redirect from
             widget: list
             required: false
+      - label: "What's On"
+        name: "whats-on"
+        file: "input/whats-on.md"
+        fields:
+          - {label: "Content Title", name: title, widget: string}
+          - {label: "Document Title", name: DocumentTitle, widget: string, required: false}
+          - {label: Details, name: body, widget: markdown, required: false}
+          - {label: Category, name: category, widget: hidden}
+          - {label: ViewStart, name: view-start, widget: hidden}
+          - name: RedirectFrom
+            label: Redirect From
+            description: Pages on the old site to redirect from
+            widget: list
+            required: false
+          - name: metaDescription
+            width: string
+            required: false
       - label: "2005 review"
         name: "2005-review"
         file: "input/2005-review.md"
