@@ -52,7 +52,7 @@ sections:
     body: <a data-flickr-embed="true"
       href="https://www.flickr.com/photos/sedos/albums/72157720147912389"
       title="When the Rain Stops Falling - 2022"><img
-      src="https://live.staticflickr.com/65535/51751143464_2c3c9a41e8_z.jpg"
+      src="https://live.staticflickr.com/65535/51856827365_6969a45604_z.jpg"
       width="640" height="480" alt="When the Rain Stops Falling -
       2022"></a><script async src="//embedr.flickr.com/assets/client-code.js"
       charset="utf-8"></script>
