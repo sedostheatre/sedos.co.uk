@@ -1,14 +1,19 @@
 ---
 title: What's on
-view-start: Layout/_WhatsOnViewStart.cshtml
+DocumentTitle: London plays and London musicals with Sedos
 category: whats-on
+view-start: Layout/_WhatsOnViewStart.cshtml
 RedirectFrom:
   - whatson/
   - whatson/index.htm
   - whatson/diary
+metaDescription: Find out about the London musicals and London plays produced by
+  Sedos, a company which stages seven to 10 shows each year across a wide
+  variety of genres
 ---
+### London plays, London musicals – and beyond
 
-Sedos is a London amateur theatre company which produces seven to 10 shows every year. We have been resident at the Bridewell Theatre (just off Fleet Street) since 2012 and most of our London musicals and plays take place there.
+Sedos is a [London amateur theatre](https://sedos.co.uk/) company which produces seven to 10 shows every year. We have been resident at the Bridewell Theatre (just off Fleet Street) since 2012 and most of our London musicals and plays take place there.
 
 The society aims to programme a wide range of London plays and musicals, presenting new twists on old classics as well as staging new work and rarely-performed pieces. We also sometimes put on cabarets, dance shows and improv, and we have in the past collaborated with other London societies on joint projects.
 
@@ -24,4 +29,4 @@ In the past we have staged shows at the Edinburgh Fringe, including a sell-out r
 
 In 2019 Sedos staged its first show at Cornwall's beautiful outdoor theatre, the Minack, and we hope very much to return there in the future.
 
-Sedos holds free, open auditions for all its shows – find out about our London auditions.
+Sedos holds free, open auditions for all its shows – find out about our [London auditions](https://sedos.co.uk/get-involved).
