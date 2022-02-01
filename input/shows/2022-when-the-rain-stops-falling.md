@@ -62,6 +62,9 @@ sections:
       ![](/assets/whentherainstopsfalling-a5-flyer-front-800.jpg)
 
       ![](/assets/whentherainstopsfalling-a5-flyer-back-800.jpg)
+  - order: 1
+    title: TRAILER
+    body: <div class="video-responsive"><?# YouTube OpBBFTF9dDg /?></div>
 ---
 >YOU’RE NOT SURE IF IT’S TODAY OR TOMORROW OR YESTERDAY. AND WHO CAN BLAME YOU FOR THAT. THEY’RE ALL MUCH THE SAME.
 ><footer><cite></cite></footer>
@@ -76,13 +79,13 @@ This award-winning play received its European premiere at the Almeida Theatre, L
 
 **SPECIAL OFFER:** book a ticket to *When the Rain Stops Falling* and a ticket to *[The Mystery of Edwin Drood](https://sedos.co.uk/shows/2022-the-mystery-of-edwin-drood)* in one transaction and receive 10% off.
 
->“Superb... fiendishly ingenious... utterly compelling”
+>Superb... fiendishly ingenious... utterly compelling
 ><footer><cite>The Guardian</cite></footer>
 
->“A work of gripping mystery and emotional depth... something very special”
+>A work of gripping mystery and emotional depth... something very special
 ><footer><cite>The Daily Telegraph</cite></footer>
 
->“Extraordinary... grabs you by its imagination, its heartrending originality, its tragic vision”
+>Extraordinary... grabs you by its imagination, its heartrending originality, its tragic vision
 ><footer><cite>The Sunday Telegraph</cite></footer>
 
 *Includes strong language and sensitive subject matter, including reference to paedophilia, alcoholism, suicide, dementia and memory loss.*
