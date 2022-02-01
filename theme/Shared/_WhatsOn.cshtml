@@ -11,6 +11,17 @@
             <h1>@Model.Get("title", "What's on")</h1>
         </div>
     </div>
+
+    <div class="page-section">
+        <div class="container bg-light">
+            <div class="row">
+                <div class="col">
+                    @RenderBody()
+                </div>
+            </div>
+        </div>
+    </div>
+
     <div class="upcoming-shows-section">
         <div>
             @{
