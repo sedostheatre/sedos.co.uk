@@ -17,7 +17,7 @@ Sedos is a [London amateur theatre](https://sedos.co.uk/) company which produces
 
 The society aims to programme a wide range of London plays and musicals, presenting new twists on old classics as well as staging new work and rarely-performed pieces. We also sometimes put on cabarets, dance shows and improv, and we have in the past collaborated with other London societies on joint projects.
 
-Sedos is a London amateur theatre company, but strives for professional standards in all its shows.
+Sedos is an amateur company, but strives for professional standards in all its shows.
 
 The society has 10 weeks every year at the 130-seat Bridewell Theatre and a typical Sedos season will consist of two two-week musicals (one in the spring and one shortly before Christmas) which have 11 performances, at least one one-week musical and at least three one-week plays, which run for six performances. But there is variation in this pattern as the needs of the season dictate – we have previously run London plays for two weeks when the title’s complexity and popularity demands it.  Sometimes we perform in London venues other than the Bridewell, too.
 
