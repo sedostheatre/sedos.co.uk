@@ -441,7 +441,7 @@ collections:
             description: Pages on the old site to redirect from
             widget: list
             required: false
-            - label: "Contact Us"
+      - label: "What's On"
         name: "whats-on"
         file: "input/whats-on.md"
         fields:
@@ -458,7 +458,6 @@ collections:
           - name: metaDescription
             width: string
             required: false
-
       - label: "2005 review"
         name: "2005-review"
         file: "input/2005-review.md"
