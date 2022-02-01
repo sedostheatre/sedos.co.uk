@@ -59,7 +59,15 @@ sections:
       **DIRECTOR** | Matt Bentley\
       **MUSICAL DIRECTOR** | Oscar Denihan\
       **CHOREOGRAPHER** | Jen Bullock\
-      **CREATIVE PRODUCERS** | Adam Coppard and Oliver Levett
+      **CREATIVE PRODUCERS** | Adam Coppard and Olly Levett\
+      **SET DESIGNER** | Andrew Laidlaw\
+      **COSTUME DESIGNER** | Clare Harding\
+      **LIGHTING DESIGNER** | Olly Levett\
+      **SOUND DESIGNER** | Adam Coppard\
+      **MARKETING** | Tess Robinson\
+      **PHOTOGRAPHER** | Michael Smith\
+      **VIDEOGRAPHER** | Joseph Henshaw\
+      **COMMITTEE LIAISON** | Steven King
 metaDescription: American Idiot, part of Sedos' 2022 season of London musicals
   and plays, runs at the Bridewell Theatre from 4-14 May 2022. The show is an
   energy-fuelled rock musical based on the Grammy Award-winning album
