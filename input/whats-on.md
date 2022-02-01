@@ -1,5 +1,5 @@
 ---
-title: What's on
+title: What’s on
 DocumentTitle: London plays and London musicals with Sedos
 category: whats-on
 view-start: Layout/_WhatsOnViewStart.cshtml
@@ -25,8 +25,8 @@ We usually programme a whole year’s season together, calling out for pitches i
 
 As well as our London musicals and plays, we occasionally tour outside the city.
 
-In the past we have staged shows at the Edinburgh Fringe, including a sell-out run for our in-house improv troupe the Banana Hut Gang.
+In the past we have staged shows at the Edinburgh Fringe, including a sell-out run for our in-house improv troupe [the Banana Hut Gang](https://sedos.co.uk/regular-events/simprov).
 
-In 2019 Sedos staged its first show at Cornwall's beautiful outdoor theatre, the Minack, and we hope very much to return there in the future.
+In 2019 Sedos staged [its first show at Cornwall's beautiful outdoor theatre, the Minack,](https://sedos.co.uk/shows/2019-a-swell-party) and we hope very much to return there in the future.
 
 Sedos holds free, open auditions for all its shows – find out about our [London auditions](https://sedos.co.uk/get-involved).
