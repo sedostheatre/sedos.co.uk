@@ -46,10 +46,10 @@ sections:
       **MR PHILLIP BAX as BAZZARD** | Jonathan Scott\
       **MR NICK CRICKER as DURDLES** | Daniel Saunders\
       **MASTER NICK CRICKER as DEPUTY** | Polly Beaumont\
-      **MISS FLORENCE GILL as FLO** | Charlotte Levy\
       **MR JAMES THROTTLE, COMPANY MANAGER** | Keith Walters\
+      **MR CHRISTOPHER LYON as HORACE** | Leon Grozdanovic\
+      **MISS FLORENCE GILL as FLO** | Ruth Granton\
       **MISS ISABEL YEARSLEY as WENDY** | Sadie Kempner\
-      **MR CHRISTOPHER LYON as HORACE** | Toby Churchley\
       **MISS VIOLET BALFOUR as BEATRICE** | Tess Robinson
 metaDescription: The Mystery of Edwin Drood, part of Sedos’ 2022 London season,
   plays at the Bridewell Theatre from 22-26 March 2022. The show is a hilarious
