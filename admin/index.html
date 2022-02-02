@@ -65,20 +65,21 @@
     CMS.registerEditorComponent({
       id: "figure",
       label: "Figure",
-      fields: [{name: 'asset', label: 'Image', widget: 'image', required: true}, {name: 'quote', label: 'Quote', widget: 'string', required: false}],
-      pattern: /^\^\^\^\s*\!\[\]\((\S*)\)\n*\^\^\^\s*(.*)$/,
+      fields: [{name: 'asset', label: 'Image', widget: 'image', required: true}, {name: 'quote', label: 'Quote', widget: 'string', required: false}, {name: 'alt', label: 'Alt text', widget: 'string', required: false}, ],
+      pattern: /^\^\^\^\s*\!\[(\S*)\]\((\S*)\)\n*\^\^\^\s*(.*)$/,
       fromBlock: function(match) {
         return {
-          asset: match[1],
-          quote: match[2]
+          alt: match[1],
+          asset: match[2],
+          quote: match[3],
         };
       },
       toBlock: function(obj) {
-        return '^^^ ![]('+obj.asset +')\r\n^^^ '+ (obj.quote || '');
+        return '^^^ ![' + (obj.alt || '') +'](' + obj.asset + ')\r\n^^^ '+ (obj.quote || '');
       },
       toPreview: function(obj) {
         return (
-          '<img src="'+obj.asset + '"/>'
+          '<img src="' + obj.asset + '" alt="' + (obj.alt || '') + '" />'
         );
       }
     });
