@@ -30,5 +30,5 @@ More recently television luminaries such as [Nicholas Parsons](https://en.wikipe
 
 **If you want to find out more about Sedos, please email** [membership@sedos.co.uk](mailto:membership@sedos.co.uk) **for more details, and our membership secretary will be happy to get back to you!**
 
-^^^ ![](/assets/48114677321_bd0b9e8b25_c.jpg)
+^^^ ![Sedos' 2019 production of A Swell Party at the Minack Theatre](/assets/48114677321_bd0b9e8b25_c.jpg)
 ^^^ Sedos' 2019 production of A Swell Party at the Minack Theatre
