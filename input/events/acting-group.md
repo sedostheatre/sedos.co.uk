@@ -3,7 +3,7 @@ title: Acting group
 times:
   - time: 2021-07-26 07:00
 image: /assets/play-reading-landscape.jpg
-venue: Bridewell Theatre, 7pm-9pm
+venue: bridewell
 recurrence: 26 July, 7pm-9pm
 ticket-prices: Free
 ---

@@ -3,15 +3,15 @@ title: "Play in a Day: The Corsican Brothers"
 times:
   - time: 2021-07-31 19:30
 image: /assets/corsican-brothers.jpg
-venue: Bridewell Theatre
+venue: bridewell
 recurrence: Saturday 31 July
 ---
 **SATURDAY 31 JULY | Rehearsals all day; performance 7.30pm**\
 **Part of the [Sedos Members' Week](https://sedos.co.uk/shows/2021-welcome-back-members-week)**
 
-**Join the fun this Members' Week as part of the cast in Dion Bouccicault's *The Corsican Brothers.* One of Queen Victoria's favourite plays, this action-packed ghost melodrama by the nineteenth century international star actor and playwright is based on the novel by Alexandre Dumas (*The Count Of Monte Cristo*, *The Man In The Iron Mask*).** 
+**Join the fun this Members' Week as part of the cast in Dion Bouccicault's *The Corsican Brothers.* One of Queen Victoria's favourite plays, this action-packed ghost melodrama by the nineteenth century international star actor and playwright is based on the novel by Alexandre Dumas (*The Count Of Monte Cristo*, *The Man In The Iron Mask*).**
 
-Audience watch this exciting and highly theatrical piece free at 7.30pm on Saturday 31st July for one night only at the Bridewell Theatre. 
+Audience watch this exciting and highly theatrical piece free at 7.30pm on Saturday 31st July for one night only at the Bridewell Theatre.
 
 It’s free for friends and family to attend, though audiences do need to register via our box office, **<https://sedos.co.uk/tickets>**. The running time is approximately 60 minutes.
 
@@ -38,7 +38,7 @@ It’s free for friends and family to attend, though audiences do need to regist
 **BOISSEC** | Morgane Lafrance
 
 ^^^ ![](/assets/corsican-brothers-poster.jpg)
-^^^ 
+^^^
 
 **TAKE PART – NO AUDITION NECESSARY**
 

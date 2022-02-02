@@ -3,7 +3,7 @@ title: Piano Night Social
 times:
   - time: 2021-07-28 19:30
 image: /assets/SedosWebsite-Banner-sechoir.jpg
-venue: Bridewell Theatre, from 7.30pm
+venue: bridewell
 ticket-prices: Free
 ---
 **WEDNESDAY 28 JULY | From 7.30pm**\
@@ -15,7 +15,7 @@ Join our musical maestros Michael Cannon and Wil Gaines and entertain us with a 
 
 Alternatively, grab a drink and catch-up with friends while listening to some great music. It’s going to be a friendly, relaxed event and the perfect opportunity to get us back together again.
 
-The Piano Night Social is free to attend, but please register on our box office so we know how many people to expect! 
+The Piano Night Social is free to attend, but please register on our box office so we know how many people to expect!
 
 ^^^ ![](/assets/SedosWebsite-Banner-sechoir.jpg)
 ^^^
