@@ -13,7 +13,7 @@ RedirectFrom:
 
 ## *Dirty Rotten Scoundrels*
 
-^^^ ![](/assets/51701944688_ec50b5fc1e_c.jpg)
+^^^ ![Dirty Rotten Scoundrels](/assets/51701944688_ec50b5fc1e_c.jpg)
 ^^^ Dirty Rotten Scoundrels
 
 >The production reaches the extremely high standard I have come to expect from Sedos with a cast of 20 and a 15-piece band really bringing the story out in fine style. There was a lovely chemistry between the leads which made their interactions feel natural and real… Sedos have been one of my favourite production companies for a long while and after the last months of lockdown and online material, it was wonderful to see them come back with a bang with this production. Director Zoë Thomas-Webb, Choreographers Jonathon Grant & Fiona McConachie along with Musical Director Chris Nelson, ensured everything ran smoothly and the highly energetic pace of the show was maintained throughout
