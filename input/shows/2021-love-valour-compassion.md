@@ -24,6 +24,9 @@ sections:
       **DIRECTOR and DESIGNER** | Robert J. Stanex\
       **PRODUCER** | Rebecca Chisholm\
       **MOVEMENT and INTIMACY DIRECTOR** | Kimberly Barker
+metaDescription: Love! Valour! Compassion! – part of Sedos’ 2022 London season –
+  plays at the Bridewell Theatre from 5-9 July 2022. A monumental exploration
+  into life, love and loss at the end of the millennium
 ---
 **Eight gay men.**
 
@@ -34,6 +37,8 @@ sections:
 Winner of the 1995 Tony Award for Best Play, *Love! Valour! Compassion!* is a monumental exploration into life, love and loss at the end of the millennium.
 
 As hilarious as it is heart-breaking, Terrence McNally’s seminal work captures the zeitgeist of 90s America and forces the question - when reality hits home, who and what is most important to us?
+
+*Love! Valour! Compassion!* plays at the [Bridewell Theatre](https://sedos.co.uk/venues/bridewell) from 5-9 July 2022. 
 
 **AUDITIONS**
 
