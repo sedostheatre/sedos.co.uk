@@ -38,7 +38,12 @@ sections:
       \
 
       We are also building out the technical creative team (LX, Sound and Staging) so get in touch on [midsummer@sedos.co.uk](mailto:midsummer@sedos.co.uk) if you are interested.
+metaDescription: A Midsummer Night’s Dream, part of Sedos’ 2022 London season,
+  plays at the Bridewell Theatre from 14-24 September 2022 – a queer look at
+  Shakespeare’s classic play
 ---
 **A queer look at a classic.** 
 
-Gig theatre with live music, dance, lip sync battles and classic Shakespeare all fused into one riotous night of theatrical comedy
+Gig theatre with live music, dance, lip sync battles and classic Shakespeare all fused into one riotous night of theatrical comedy.
+
+*A Midsummer Night’s Dream* plays at the [Bridewell Theatre](https://sedos.co.uk/venues/bridewell) from 14-24 September 2022.
