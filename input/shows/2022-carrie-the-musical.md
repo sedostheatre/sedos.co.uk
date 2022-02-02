@@ -28,6 +28,9 @@ sections:
       **DIRECTOR** | Chris Adams\
       **MUSICAL DIRECTOR** | Rob Archibald\
       **MOVEMENT DIRECTOR** | Paul Brookland Williams
+metaDescription: "Carrie: The Musical, part of Sedos’ 2022 London season, plays
+  at the Bridewell Theatre from 25-29 October 2022. A cult musical based on
+  Stephen King's bestselling novel and the acclaimed movie"
 ---
 > “If I could, I’d bring them all down to their knees!\
 > I’d make them sorry forever for teasing Carrie!”
@@ -35,3 +38,5 @@ sections:
 **Carrie White is a misfit. At school, she's an outcast who's bullied by the popular crowd, and virtually invisible to everyone else. At home, she's at the mercy of her over-protective, hyper-religious mother. But there’s something different about Carrie – she has a special power. A power that can be destructive. And if she’s pushed too far, she may have to use it…**
 
 Based on Stephen King's bestselling novel and the acclaimed movie starring Sissy Spacek, Carrie has been reinvented for our time in a new production sure to shake the Bridewell to its very core...
+
+*Carrie: The Musical* plays at the [Bridewell Theatre](https://sedos.co.uk/venues/bridewell) from 25-29 October 2022.
