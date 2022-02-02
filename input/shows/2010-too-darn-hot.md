@@ -13,7 +13,7 @@ showtimes:
   - time: 2010-10-02 15:00
   - time: 2010-10-02 19:30
 showtime-summary: 28 September-2 October 2010
-venue: Bridewell Theatre
+venue: bridewell
 primary-color: "#73c7a3"
 header-image: /assets/5042316595_cb2bbc87bd_o-2.jpg
 flyer: /assets/5017966927_e1e1416f28_o.jpg

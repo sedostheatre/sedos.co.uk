@@ -12,7 +12,7 @@ showtimes:
   - time: 2012-07-21 14:30
   - time: 2012-07-21 19:30
 showtime-summary: 17-21 July 2012
-venue: Bridewell Theatre
+venue: bridewell
 primary-color: "#8a5e55"
 header-image: /assets/double-bill.jpg
 flyer: /assets/doublebill.jpg
@@ -100,7 +100,7 @@ RedirectFrom:
 ---
 ## ***Sink the Belgrano!***
 
-**A political satire based on the events and personalities of the Falklands conflict with dark undertones.** 
+**A political satire based on the events and personalities of the Falklands conflict with dark undertones.**
 
 As Maggot Scratcher debates with her Downing Street lackeys Pimp and Nit, a supporting cast of submariners, Falklands residents, ministry hats and the President of Argentina describe and disseminate the events of 1982. Beautifully irreverent, the play is a must see for all interested in political intrigue and modern history.
 
@@ -109,7 +109,7 @@ As Maggot Scratcher debates with her Downing Street lackeys Pimp and Nit, a supp
 
 ## ***Man of Destiny***
 
-**An investigation of a young twenty-seven year old general by the name of Napoleon Bonaparte who has yet to achieve the accomplishments for which make him such an important figure in world history.** 
+**An investigation of a young twenty-seven year old general by the name of Napoleon Bonaparte who has yet to achieve the accomplishments for which make him such an important figure in world history.**
 
 In the play we find him waiting impatiently at an inn on the road between Lodi and Milan for a packet of dispatches to arrive, in which he will discover the truth of a personal betrayal.
 

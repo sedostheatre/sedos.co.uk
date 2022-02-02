@@ -17,7 +17,7 @@ showtimes:
   - time: 2021-07-31 19:30
 showtime-summary: 26-31 JULY 2021
 order-on-homepage: 1
-venue: Bridewell Theatre
+venue: bridewell
 ticket-prices: The Acting Group, Piano Night Social and Play in a Day are FREE
   events, but please register or book a ticket. Tickets to laugh-a-long with the
   Banana Hut Gang are £8 full price and £6 for Sedos members and concessions.
@@ -32,22 +32,22 @@ sections:
       ### **MONDAY 26 JULY 2021 | 7pm-9pm**
 
 
-      **We’re back!!! Sedos is very excited to begin our in-person activities at the Bridewell Theatre with a chance for lots of people to get involved with the return of our Acting Group.** 
+      **We’re back!!! Sedos is very excited to begin our in-person activities at the Bridewell Theatre with a chance for lots of people to get involved with the return of our Acting Group.**
 
 
-      The first event of our Welcome Back Members’ Week will be a friendly, relaxed and supportive atmosphere for people who want to act - whether they want to brush up on their skills, prepare for an audition or simply 'have a go'. All levels of ability are welcome, whether its your first time or your fiftieth time! 
+      The first event of our Welcome Back Members’ Week will be a friendly, relaxed and supportive atmosphere for people who want to act - whether they want to brush up on their skills, prepare for an audition or simply 'have a go'. All levels of ability are welcome, whether its your first time or your fiftieth time!
 
 
-      There's nothing to prepare. Bring yourself, a tea or coffee, and take a script to rehearse for an hour then we'll perform the scenes to the group at the end. 
+      There's nothing to prepare. Bring yourself, a tea or coffee, and take a script to rehearse for an hour then we'll perform the scenes to the group at the end.
 
 
-      You can also bring your own script if you have a specific audition piece you want to try, or if you just really like the script! But please be aware we can’t guarantee all scripts will be used. 
+      You can also bring your own script if you have a specific audition piece you want to try, or if you just really like the script! But please be aware we can’t guarantee all scripts will be used.
 
 
       Scripts should be approx. 5 minutes (no longer than 8 minutes) and there will be a selection of 2-3 handers on the day to choose from (monologues are welcome too).
 
 
-      The group is free for members but please sign up by emailing Helena at [membership@sedos.co.uk](mailto:membership@sedos.co.uk) stating your name so we have an idea of numbers. 
+      The group is free for members but please sign up by emailing Helena at [membership@sedos.co.uk](mailto:membership@sedos.co.uk) stating your name so we have an idea of numbers.
 
 
       That's it! We won't reply unless you ask us a specific question.
@@ -91,7 +91,7 @@ sections:
       Alternatively, grab a drink and catch-up with friends while listening to some great music. It’s going to be a friendly, relaxed event and the perfect opportunity to get us back together again.
 
 
-      The *Piano Night Social* is free to attend, but please register on our box office so we know how many people to expect! 
+      The *Piano Night Social* is free to attend, but please register on our box office so we know how many people to expect!
 
 
       ^^^ ![](/assets/SedosWebsite-Banner-sechoir.jpg)
@@ -103,10 +103,10 @@ sections:
       **SATURDAY 31 JULY | From 7.30pm**
 
 
-      **Join the fun this Members' Week as part of the cast in Dion Bouccicault's *The Corsican Brothers.* One of Queen Victoria's favourite plays, this action-packed ghost melodrama by the nineteenth century international star actor and playwright is based on the novel by Alexandre Dumas (*The Count Of Monte Cristo*, *The Man In The Iron Mask*).** 
+      **Join the fun this Members' Week as part of the cast in Dion Bouccicault's *The Corsican Brothers.* One of Queen Victoria's favourite plays, this action-packed ghost melodrama by the nineteenth century international star actor and playwright is based on the novel by Alexandre Dumas (*The Count Of Monte Cristo*, *The Man In The Iron Mask*).**
 
 
-      Audience watch this exciting and highly theatrical piece free at 7.30pm on Saturday 31st July for one night only at the Bridewell Theatre. 
+      Audience watch this exciting and highly theatrical piece free at 7.30pm on Saturday 31st July for one night only at the Bridewell Theatre.
 
 
       It’s free for friends and family to attend, though audiences do need to register via our box office, **<https://sedos.co.uk/tickets>**. The running time is approximately 60 minutes.
@@ -156,7 +156,7 @@ sections:
 
       ^^^ ![](/assets/corsican-brothers-poster.jpg)
 
-      ^^^ 
+      ^^^
 
 
       **TAKE PART – NO AUDITION NECESSARY**
@@ -166,7 +166,7 @@ sections:
 
       \
 
-      Scripts (which you do not need to learn!) will be issued online to cast members on Sunday 18 July, and there will be an online meeting and read through prior to the live rehearsal and performance day. The play runs approximately one hour. 
+      Scripts (which you do not need to learn!) will be issued online to cast members on Sunday 18 July, and there will be an online meeting and read through prior to the live rehearsal and performance day. The play runs approximately one hour.
 
 
       The range of roles encompasses age and sex, and as with [Sedos Reads](https://sedos.co.uk/shows/2020-lets-talk-about-scripts), our online performance season during lockdown, casting is completely open to all.  *The Corsican Brothers* has a large cast - we are looking for a cast of up to 16 - and everyone who expresses an interest to take part will be cast. No audition is needed to take part and roles will be allocated after the deadline to sign-up has passed.
@@ -196,7 +196,7 @@ sections:
       ^^^
 ---
 ^^^ ![](/assets/membersweekjuly2021montage-800.jpg)
-^^^ 
+^^^
 
 **It’s been a long 16 months since our last ‘live’ show at the Bridewell Theatre (The Musical of Musicals the Musical), and we’re hugely excited to launch our 2021 in-person activity with a jam-packed Members’ Week at the Bridewell Theatre from 26-31 July.**
 
@@ -211,6 +211,6 @@ You’ll find more information on the tabs above, but here’s a summary of what
 **FRIDAY 30 JULY** | *Choose Your Own... Improv* with Banana Hut Gang, 7.30pm\
 **SATURDAY 31 JULY** | Play in a Day: *The Corsican Brothers,* rehearsals all day, public performance 7.30pm
 
-**Tickets to laugh-a-long with *Choose Your Own... Improv* with Banana Hut Gang are £8 full price and £6 for Sedos members and concessions. [Book now](https://sedos.ticketsolve.com/shows).** 
+**Tickets to laugh-a-long with *Choose Your Own... Improv* with Banana Hut Gang are £8 full price and £6 for Sedos members and concessions. [Book now](https://sedos.ticketsolve.com/shows).**
 
 **The Acting Group, Piano Night Social and Play in a Day are FREE events, but please register or book a ticket via our [box office](https://sedos.ticketsolve.com/shows).**

@@ -16,7 +16,7 @@ showtimes:
   - time: 2017-12-02 14:30
   - time: 2017-12-02 19:30
 showtime-summary: 22 November-2 December 2017
-venue: Bridewell Theatre
+venue: bridewell
 primary-color: "#e41a7d"
 header-image: /assets/priscilla-queen-of-the-desert-header.jpg
 flyer: /assets/queen-of-the-desert-flyer-front-800.jpg

@@ -11,7 +11,7 @@ showtimes:
   - time: 2015-09-19 15:00
   - time: 2015-09-19 19:00
 showtime-summary: 15-19 September 2015
-venue: Bridewell Theatre
+venue: bridewell
 primary-color: "#d12227"
 header-image: /assets/tick-tick-banner.jpg
 flyer: /assets/tick-flyer-front-600.jpg
@@ -33,7 +33,7 @@ sections:
       Sasha Herst\
       Joe Penny
 
-      **CREATIVE TEAM** 
+      **CREATIVE TEAM**
 
       **PRODUCER and SET DESIGNER** | Becky Chisholm \
       **DIRECTOR** | Fran Rafferty\

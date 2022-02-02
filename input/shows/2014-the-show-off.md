@@ -7,7 +7,7 @@ showtimes:
   - time: 2014-07-19 14:30
   - time: 2014-07-19 19:30
 showtime-summary: 19 July 2019
-venue: Bridewell Theatre
+venue: bridewell
 primary-color: "#ff6d69"
 header-image: /assets/img_0714.jpg
 flyer: /assets/showoff360-upright.jpg
@@ -94,7 +94,7 @@ sections:
 RedirectFrom:
   - 2014/showoff.htm
 ---
-**A showcase of the Sedos membership with a guest appearance by Sedance, our members' weekly dance class.** 
+**A showcase of the Sedos membership with a guest appearance by Sedance, our members' weekly dance class.**
 
 This riotous evening of singing and dancing will also bring the Sedos Summer Festival 2014 to a close. The 2014 Sedos Summer Festival (1-19 July) is an exciting three-week summer season featuring the return of the *Eurosedos Song Contest*, an Australian comedy about a reneged bunch of ageing brownies, a satirical Russian comedy about political corruption, and an afternoon and evening of song and dance.
 

@@ -14,7 +14,7 @@ showtimes:
   - time: 2022-10-29 14:30
   - time: 2022-10-29 19:30
 showtime-summary: 25-29 OCTOBER 2022
-venue: Bridewell Theatre
+venue: bridewell
 primary-color: "#6a6e8b"
 header-image: /assets/andrew-amistad-4dgriooqudg-unsplash.jpeg
 flyer: /assets/carrie-holderposter-v2.jpg

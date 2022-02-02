@@ -17,7 +17,7 @@ showtimes:
   - time: 2022-12-03 14:30
   - time: 2022-12-03 19:30
 showtime-summary: 23 NOVEMBER-3 DECEMBER 2022
-venue: Bridewell Theatre
+venue: bridewell
 primary-color: "#d6cdae"
 header-image: /assets/wigs-4168599.jpg
 flyer: /assets/amadeus-holderposter-v2.jpg

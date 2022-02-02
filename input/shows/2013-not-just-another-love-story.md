@@ -9,7 +9,7 @@ showtimes:
   - time: 2013-10-02 19:30
   - time: 2013-10-03 19:30
 showtime-summary: 1-3 October 2013
-venue: Bridewell Theatre
+venue: bridewell
 primary-color: "#30878c"
 header-image: /assets/10144824123_ddc0ea22a7_k.jpg
 flyer: /assets/njalsposterfinal_360.jpg
@@ -103,6 +103,6 @@ sections:
 RedirectFrom:
   - 2013/notjustanotherlovestory.htm
 ---
-***Not Just Another Love Story* will take a fresh look at the way love is presented through song.** 
+***Not Just Another Love Story* will take a fresh look at the way love is presented through song.**
 
 From the heart-breaking to the hilarious, we’ll look at the many faces of love.

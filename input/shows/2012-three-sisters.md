@@ -12,7 +12,7 @@ showtimes:
   - time: 2012-03-03 14:30
   - time: 2012-03-03 19:30
 showtime-summary: 28 FEBRUARY-3 MARCH 2012
-venue: Bridewell Theatre
+venue: bridewell
 primary-color: "#83161b"
 header-image: /assets/6937065947_55dde59967_k.jpg
 flyer: /assets/3sisterssedosflyerfront_600_2.jpg
@@ -78,7 +78,7 @@ sections:
 RedirectFrom:
   - 2012/threesisters.htm
 ---
-***Three Sisters* premiered in at The Arts Theatre in 1901. Since then it has inspired a bewildering number of interpretations, having been viewed as both as a comedy and a tragedy, a poignant testimony to the eternal yearning for love and happiness and as a searing indictment of inert gentility and the folly of daydreaming.** 
+***Three Sisters* premiered in at The Arts Theatre in 1901. Since then it has inspired a bewildering number of interpretations, having been viewed as both as a comedy and a tragedy, a poignant testimony to the eternal yearning for love and happiness and as a searing indictment of inert gentility and the folly of daydreaming.**
 
 In *Three Sisters*, Chekhov gives us a world that does not allow for easy sentimental responses, where, as in life, no one actually has the answers. This unsettling quality is what still makes it a radical play today. The depth of detail and characterisation allows for as many reactions to the play as there are audience members and it touches us on the most personal and intimate level.
 

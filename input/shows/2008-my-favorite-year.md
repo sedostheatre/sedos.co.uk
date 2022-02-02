@@ -17,7 +17,7 @@ showtimes:
   - time: 2008-06-13 19:30
   - time: 2008-06-14 19:30
 showtime-summary: 4-14 June 2008
-venue: Bridewell Theatre
+venue: bridewell
 primary-color: "#7c7eae"
 header-image: /assets/4924207625_be46cbf86e_o.jpg
 flyer: /assets/mfy-jpeg_360.jpg

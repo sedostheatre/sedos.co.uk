@@ -18,7 +18,7 @@ showtimes:
   - time: 2019-11-23 14:30
   - time: 2019-11-23 19:30
 showtime-summary: 13-23 November 2019
-venue: Bridewell Theatre
+venue: bridewell
 primary-color: "#a51d31"
 header-image: /assets/ragtime-header-2.jpg
 flyer: /assets/ragtime-a5-flyer-front-800_000.jpg
@@ -79,8 +79,8 @@ sections:
     order: 1
   - title: TRAILER
     body: |-
-      <div class="video-responsive"><?# YouTube Ot2mKiVp870 /?></div> 
-      <div class="video-responsive"><?# YouTube fP57Rkf2J4g /?></div>      
+      <div class="video-responsive"><?# YouTube Ot2mKiVp870 /?></div>
+      <div class="video-responsive"><?# YouTube fP57Rkf2J4g /?></div>
     order: 2
   - title: GALLERY
     body: '<a data-flickr-embed="true"
@@ -125,17 +125,17 @@ sections:
       ><footer><cite><a target="_blank" href="https://www.sardinesmagazine.co.uk/review/ragtime/">Ragtime, 2019, Sardines</a></cite></footer>
 
 
-      >This is a truly outstanding production, lively, slick and colourful. Although Sedos describes itself as “amateur” there’s little doubt that their attitude to every production is totally professional. 
+      >This is a truly outstanding production, lively, slick and colourful. Although Sedos describes itself as “amateur” there’s little doubt that their attitude to every production is totally professional.
 
       ><footer><cite><a target="_blank" href="https://hubpages.com/entertainment/Ragtime-a-Sedos-Production-at-the-Bridewell-Theatre-London">Ragtime, 2019, Hub Pages</a></cite></footer>
 
 
-      >Sedos manage to execute a perfect reading of a challenging score with multiple scene transitions. 
+      >Sedos manage to execute a perfect reading of a challenging score with multiple scene transitions.
 
       ><footer><cite><a target="_blank" href="http://everything-theatre.co.uk/2019/11/ragtime-bridewell-theatre-review.html">Ragtime, 2019, Everything Theatre</a></cite></footer>
 
 
-      >Sedos have achieved another high class and polished performance in Ragtime. It managed to move me from anger to sadness and send shivers down my spine throughout. 
+      >Sedos have achieved another high class and polished performance in Ragtime. It managed to move me from anger to sadness and send shivers down my spine throughout.
 
       ><footer><cite><a target="_blank" href="http://musicaltheatremusings.co.uk/ragtime-sedos">Ragtime, 2019, Musical Theatre Musings</a></cite></footer>
 
@@ -150,17 +150,17 @@ sections:
       ><footer><cite><a target="_blank" href="https://www.londontheatrereviews.co.uk/post.cfm?p=1987">Ragtime, 2019, London Theatre Reviews  (*****)</a></cite></footer>
 
 
-      >It is shocking to me that this production is Amateur Dramatics, as the quality of the performances, the costumes, lighting, orchestra, and production quality is very high. 
+      >It is shocking to me that this production is Amateur Dramatics, as the quality of the performances, the costumes, lighting, orchestra, and production quality is very high.
 
       ><footer><cite><a target="_blank" href="https://www.withinherwords.co.uk/post/ragtime-presented-by-sedos">Ragtime, 2019, Within Her Words</a></cite></footer>
 
 
-      >An orchestra of eighteen and a cast of thirty-two is impressive for the West End these days, let alone amateur dramatics. The production team is worth a mention as well, for several reasons… It is difficult to balance out the sound with a cast and an orchestra as large as this, but the techies here do a remarkable job, with not a single lyric or line of spoken dialogue missed thanks to each and every microphone functioning as it should throughout. 
+      >An orchestra of eighteen and a cast of thirty-two is impressive for the West End these days, let alone amateur dramatics. The production team is worth a mention as well, for several reasons… It is difficult to balance out the sound with a cast and an orchestra as large as this, but the techies here do a remarkable job, with not a single lyric or line of spoken dialogue missed thanks to each and every microphone functioning as it should throughout.
 
       ><footer><cite><a target="_blank" href="https://www.londontheatre1.com/reviews/musical/ragtime-at-the-bridewell-theatre-review/">Ragtime, 2019, London Theatre 1 (*****)</a></cite></footer>
 
 
-      >Sedos have created a captivating and heartbreaking production which should stay with you long after you leave the theatre. You’d be hard pressed to find such an abundance of talent elsewhere in the West End. 
+      >Sedos have created a captivating and heartbreaking production which should stay with you long after you leave the theatre. You’d be hard pressed to find such an abundance of talent elsewhere in the West End.
 
       ><footer><cite><a target="_blank" href="https://myfairtheatregoer.com/2019/11/16/review-ragtime-bridewell-theatre-⋆⋆⋆⋆/">Ragtime, 2019, My Fair Theatregoer</a></cite></footer>
     order: 5

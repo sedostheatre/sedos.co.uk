@@ -11,7 +11,7 @@ showtimes:
   - time: 2017-02-18 15:00
   - time: 2017-02-18 19:30
 showtime-summary: 14-18 February 2017
-venue: Bridewell Theatre
+venue: bridewell
 primary-color: "#6db52f"
 header-image: /assets/acrington-pals-header.jpg
 flyer: /assets/accringtonflyerfront-800.jpg
@@ -54,7 +54,7 @@ sections:
   - title: VIDEO
     body: |-
       <div class="video-responsive"><?# YouTube sLMjq-nqX4w /?></div>
-      <div class="video-responsive"><?# YouTube Pd2TOa768eM /?></div>      
+      <div class="video-responsive"><?# YouTube Pd2TOa768eM /?></div>
     order: 3
 RedirectFrom:
   - 2017/theaccringtonpals.htm

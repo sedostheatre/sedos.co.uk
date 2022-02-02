@@ -18,14 +18,14 @@ showtimes:
   - time: 2017-05-13 14:30
   - time: 2017-05-13 19:30
 showtime-summary: 27 June-1 July 2017
-venue: Bridewell Theatre
+venue: bridewell
 primary-color: "#f9c848"
 header-image: /assets/About-JoinUs.jpg
 flyer: /assets/drowsyfront-800.jpg
 sections:
   - title: CAST & CREATIVE TEAM
     body: |-
-      
+
 
       **CAST**
 
@@ -42,7 +42,7 @@ sections:
       **GANGSTERS** | Tom Chesover and Inti Conde\
       **TRIX** | Siobhan Aarons
 
-      **ENSEMBLE** 
+      **ENSEMBLE**
 
       Breeana Gardiner\
       Natalie Harding-Moore\

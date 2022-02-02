@@ -5,7 +5,7 @@ authors: By TERRENCE MCNALLY
 subtitle: A monumental exploration into life, love and loss at the end of the millennium
 showtimes: []
 showtime-summary: THIS SHOW HAS BEEN POSTPONED
-venue: Bridewell Theatre
+venue: bridewell
 primary-color: "#f35892"
 header-image: /assets/lovevalourcompassion-landscape.jpg
 flyer: /assets/lovevalourcompassion-portrait-2.jpg
@@ -31,6 +31,6 @@ Winner of the 1995 Tony Award for Best Play, *Love! Valour! Compassion!* is a mo
 
 As hilarious as it is heart-breaking, Terrence McNally's seminal work captures the zeitgeist of 90s America and forces the question - when reality hits home, who and what is most important to us?
 
-We are looking for a diverse group of seven strong character actors to stage this seldom performed piece. [See auditions information here.](/events/love-valour-compassion-auditions) 
+We are looking for a diverse group of seven strong character actors to stage this seldom performed piece. [See auditions information here.](/events/love-valour-compassion-auditions)
 
 *This amateur production is presented by arrangement with Josef Weinberger Ltd.*

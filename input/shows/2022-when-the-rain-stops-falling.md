@@ -12,7 +12,7 @@ showtimes:
   - time: 2022-02-26 14:30
   - time: 2022-02-26 19:30
 showtime-summary: 22-26 FEBRUARY 2022
-venue: Bridewell Theatre
+venue: bridewell
 ticket-prices: From £10.50
 additional-ticket-info: "Gala night: Friday 25 February - tickets include a drink and programme"
 primary-color: "#735943"
@@ -69,7 +69,7 @@ sections:
 >YOU’RE NOT SURE IF IT’S TODAY OR TOMORROW OR YESTERDAY. AND WHO CAN BLAME YOU FOR THAT. THEY’RE ALL MUCH THE SAME.
 ><footer><cite></cite></footer>
 
-A beautiful and expansive drama about family, betrayal and forgiveness, spanning four generations and two hemispheres. All throughout eighty years of torrential rain. 
+A beautiful and expansive drama about family, betrayal and forgiveness, spanning four generations and two hemispheres. All throughout eighty years of torrential rain.
 
 *When the Rain Stops* Falling moves from the claustrophobia of a London flat in 1959 to the windswept coast of southern Australia, and into the heart of the Australian desert in 2039.
 

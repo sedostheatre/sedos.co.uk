@@ -21,7 +21,7 @@ showtimes:
 showtime-summary: 24 NOVEMBER-4 DECEMBER 2021
 show-on-homepage: false
 order-on-homepage: ""
-venue: Bridewell Theatre
+venue: bridewell
 ticket-prices: From £13.50
 additional-ticket-info: "Gala nights: Friday 26 November and Friday 3 December -
   tickets include a drink and programme"
@@ -86,7 +86,7 @@ sections:
       with a bang with this production. Director Zoë Thomas-Webb, Choreographers
       Jonathon Grant & Fiona McConachie along with Musical Director Chris
       Nelson, ensured everything ran smoothly and the highly energetic pace of
-      the show was maintained throughout 
+      the show was maintained throughout
 
       ><footer><cite><a target="_blank" href="https://www.londontheatre1.com/reviews/dirty-rotten-scoundrels-at-the-bridewell-theatre/">Dirty Rotten Scoundrels, 2021, London Theatre 1</a></cite></footer>
 
@@ -109,10 +109,10 @@ sections:
       async src="//embedr.flickr.com/assets/client-code.js"
       charset="utf-8"></script>
 ---
-**Based on the film of the same name, *Dirty Rotten Scoundrels* tells the story of two very different con men, the debonair Lawrence Jameson and the vulgar Freddy Benson. The chalk and cheese con men know they can't both work the same resort so they decide to make a bet.** 
+**Based on the film of the same name, *Dirty Rotten Scoundrels* tells the story of two very different con men, the debonair Lawrence Jameson and the vulgar Freddy Benson. The chalk and cheese con men know they can't both work the same resort so they decide to make a bet.**
 
-The first to make $50,000 from one of the many wealthy ladies of the French Riviera town of Beaumont-sur-Mer will get to stay, the loser has to leave town. All they have to decide is who is the mark - and no mark is more loaded and less aware than the American Soap Queen herself, Christine Colgate. 
+The first to make $50,000 from one of the many wealthy ladies of the French Riviera town of Beaumont-sur-Mer will get to stay, the loser has to leave town. All they have to decide is who is the mark - and no mark is more loaded and less aware than the American Soap Queen herself, Christine Colgate.
 
 As they try their different approaches to get the dough, they find that Christine isn’t as easy as they first thought and that this con is going to be harder and more painful than expected, but the most fun they’ve ever had.
 
-Nominated for 11 Tony Awards in 2005 with original Broadway cast including John Lithgow, Norbert Leo Butz and Sherie Rene Scott, this show has it all, from glitzy dance numbers to hilarious songs and stupid jokes. 
+Nominated for 11 Tony Awards in 2005 with original Broadway cast including John Lithgow, Norbert Leo Butz and Sherie Rene Scott, this show has it all, from glitzy dance numbers to hilarious songs and stupid jokes.

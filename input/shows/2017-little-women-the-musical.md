@@ -13,7 +13,7 @@ showtimes:
   - time: 2017-07-01 14:30
   - time: 2017-07-01 19:30
 showtime-summary: 27 June-1 July 2017
-venue: Bridewell Theatre
+venue: bridewell
 primary-color: "#838860"
 header-image: /assets/little-women-header.jpg
 flyer: /assets/lw-poster-800.jpg
@@ -71,7 +71,7 @@ sections:
       ><footer><cite><a target="_blank" href='http://musicaltheatremusings.co.uk/2017-roundup'>Little Women The Musical, 2017, Musical Theatre Musings (best amateur production of 2017)</a></cite></footer>
 
 
-      > On realising that I was going to watch an amateur production I embarrassingly didn’t have high hopes for this production of Little Women the Musical – however, within the first few lines, I was proven very wrong. The Stock Exchange Dramatic and Operatic Society – better known as Sedos – are an amateur company who I now realise deliver professional standard productions. 
+      > On realising that I was going to watch an amateur production I embarrassingly didn’t have high hopes for this production of Little Women the Musical – however, within the first few lines, I was proven very wrong. The Stock Exchange Dramatic and Operatic Society – better known as Sedos – are an amateur company who I now realise deliver professional standard productions.
 
       ><footer><cite><a target="_blank" href='https://www.londontheatre1.com/reviews/review-little-women-bridewell-theatre/'>Little Women The Musical, 2017, London Theatre 1</a></cite></footer>
     order: 4

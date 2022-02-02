@@ -12,7 +12,7 @@ showtimes:
   - time: 2019-10-19 15:00
   - time: 2019-10-19 18:00
 showtime-summary: 15-19 October 2019
-venue: Bridewell Theatre
+venue: bridewell
 primary-color: "#000000"
 header-image: /assets/dangerous-header.jpg
 flyer: /assets/dangerous-liaisons-flyer-front.jpg

@@ -12,7 +12,7 @@ showtimes:
   - time: 2019-04-13 14:30
   - time: 2019-04-13 19:30
 showtime-summary: 9-13 April 2019
-venue: Bridewell Theatre
+venue: bridewell
 ticket-prices: ""
 primary-color: "#92005b"
 header-image: /assets/afterthedance-2.jpg

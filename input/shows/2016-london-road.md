@@ -18,7 +18,7 @@ showtimes:
   - time: 2016-08-02 14:30
   - time: 2016-08-06 19:30
 showtime-summary: 27 July-6 August 2016
-venue: Bridewell Theatre
+venue: bridewell
 primary-color: "#27693b"
 header-image: /assets/londonroad-header.jpg
 flyer: /assets/londonroad_a5_front-final-800.jpg
@@ -69,7 +69,7 @@ sections:
       ><footer><cite>Message from playwright Alecky Blythe</cite></footer>
 
 
-      >**** A real triumph for Sedos. 
+      >**** A real triumph for Sedos.
 
       ><footer><cite><a target="_blank" href="https://www.londontheatre1.com/reviews/review-london-road-bridewell-theatre/">London Road, 2016, Londontheatre1.com (****)</a></cite></footer>
 

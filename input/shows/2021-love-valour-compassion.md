@@ -10,7 +10,7 @@ showtimes:
   - time: 2022-07-08 19:30
   - time: 2022-07-09 17:00
 showtime-summary: 5-9 JULY 2022
-venue: Bridewell Theatre
+venue: bridewell
 primary-color: "#fd8392"
 header-image: /assets/lvc-artworklandscape.jpg
 flyer: /assets/love-holderposter-v2.jpg
@@ -31,13 +31,13 @@ sections:
 
 **One last summer.**
 
-Winner of the 1995 Tony Award for Best Play, *Love! Valour! Compassion!* is a monumental exploration into life, love and loss at the end of the millennium. 
+Winner of the 1995 Tony Award for Best Play, *Love! Valour! Compassion!* is a monumental exploration into life, love and loss at the end of the millennium.
 
 As hilarious as it is heart-breaking, Terrence McNally’s seminal work captures the zeitgeist of 90s America and forces the question - when reality hits home, who and what is most important to us?
 
 **AUDITIONS**
 
-Registration is now open for auditions. Find out more [here](https://sedos.co.uk/events/love-valour-compassion-auditions-1). 
+Registration is now open for auditions. Find out more [here](https://sedos.co.uk/events/love-valour-compassion-auditions-1).
 
 ^^^ ![](/assets/lvc-artwork.jpg)
 ^^^

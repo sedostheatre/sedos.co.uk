@@ -11,7 +11,7 @@ showtimes:
   - time: 2019-09-21 14:30
   - time: 2019-09-21 19:30
 showtime-summary: 17-21 September 2019
-venue: Bridewell Theatre
+venue: bridewell
 primary-color: "#e7213b"
 header-image: /assets/arms-and-the-man-header-2.jpg
 flyer: /assets/ArmandtheMan-A5-flyer-FRONT-800.jpg
@@ -29,7 +29,7 @@ sections:
       **NICOLA** | Kareem Nasif \
       **RUSSIAN OFFICER** | Ren Ramirez
 
-      **CREATIVE TEAM** 
+      **CREATIVE TEAM**
 
       **DIRECTOR** | Peter Foster \
       **DESIGNER** | Miranda Melville\

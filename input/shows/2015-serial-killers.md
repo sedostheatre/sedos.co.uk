@@ -11,7 +11,7 @@ showtimes:
   - time: 2015-07-04 14:30
   - time: 2015-07-04 19:30
 showtime-summary: 30 June-4 July 2015
-venue: Bridewell Theatre
+venue: bridewell
 primary-color: "#7f7872"
 header-image: /assets/serial-killers.jpg
 flyer: /assets/serialflyer-front-600.jpg
@@ -27,7 +27,7 @@ sections:
       **SIMONE** | Hattie Stacey \
       **MATT** | Rick Woska \
       **ANDREW LOMAS** | Nick Marrast-Lewis \
-      **SALLY** | Jen Jewell 
+      **SALLY** | Jen Jewell
 
       **CREATIVE TEAM**
 
