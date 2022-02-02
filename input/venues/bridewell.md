@@ -1,5 +1,5 @@
 ---
-title: Bridewell Theatre
+title: The Bridewell Theatre
 DocumentTitle: Bridewell Theatre | Sedos is the resident theatre company at this
   central London venue
 metaDescription: Sedos has been the resident company at the Bridewell Theatre
