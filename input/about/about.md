@@ -9,11 +9,9 @@ RedirectFrom:
 ---
 **Sedos stands for the Stock Exchange Dramatic and Operatic Society. The society was founded in 1905 by senior members of the stock exchange and, although the membership now includes an eclectic mix from all over London, we maintain firm links with the City.**
 
+Sedos is a registered charity (no. 1173896) with 340 members and stages seven to ten shows a year. We have been the resident theatre company at the [Bridewell Theatre](https://sedos.co.uk/venues/bridewell) since 2012 and most of our season takes place there, although we also perform in other venues.\
 \
-\
-Sedos is a registered charity (no. 1173896) with 340 members and stages eight to ten shows a year. We have been the resident theatre company at the Bridewell Theatre since 2012 and most of our season takes place there, although we also perform in other venues.\
-\
-Sedos is an amateur company, but we strive for professional standards in both performance and production values. [You can read reviews of our shows here.](/about/in-the-press)
+Sedos is an amateur company, but we strive for professional standards in both performance and production values. Read [Sedos reviews](https://sedos.co.uk/about/sedos-reviews) here. [](/about/in-the-press)
 
 ## A Potted History
 
