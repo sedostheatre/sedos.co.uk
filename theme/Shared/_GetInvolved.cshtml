@@ -8,6 +8,22 @@
 <div class="page-wrapper bg-light">
     @{Html.RenderPartial("Partials/_HeaderImage");}
 
+    <div class="banner">
+        <div class="container">
+            <h1>@Model.Get("title", "Get involved")</h1>
+        </div>
+    </div>
+
+    <div class="page-section">
+        <div class="container bg-light">
+            <div class="row">
+                <div class="col">
+                    @RenderBody()
+                </div>
+            </div>
+        </div>
+    </div>
+
     @if(Outputs.FromPipeline("UpcomingEvents").Any())
     {
         <div class="banner">
