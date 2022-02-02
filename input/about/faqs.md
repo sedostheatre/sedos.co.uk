@@ -15,15 +15,15 @@ Absolutely! We welcome people of all levels, backgrounds, ages and experience.
 
 **How do I find out about auditions?**
 
-For those not wishing to join Sedos as a member straight away, why not sign up for our weekly newsletter so that you will receive all the latest news from Sedos, including the latest auditions? [Sign up here!](https://mailchi.mp/sedos.co.uk/newsletter-sign-up)
+Check out the latest [London auditions](https://sedos.co.uk/get-involved) online. 
+
+You can also sign up for our weekly newsletter so that you will receive all the latest news from Sedos, including about auditions. [Sign up here!](https://mailchi.mp/sedos.co.uk/newsletter-sign-up)
 
 Plus, don’t forget to follow us on social media:
 
 * [facebook.com/sedostheatre](https://www.facebook.com/sedostheatre/)
 * [twitter.com/sedos](https://twitter.com/sedos)
 * [instagram.com/sedoslondon](https://www.instagram.com/sedoslondon/)
-
-You can also check out the latest audition news online  – auditions are posted on our ‘[Get involved](https://sedos.co.uk/get-involved)’ page.
 
 **Do I need to be a Sedos member to be involved in a show?**
 
@@ -61,11 +61,11 @@ PLAYS: You will be sent dialogue to prepare in advance for the part(s) you are i
 
 We will send you all the information you need when you register to audition. There is also usually a pre-audition workshop of the show so you can get a taste of what you are getting yourself into!
 
-**Members' benefits**
+**Members’ benefits**
 
 * Reduced ticket prices on all Sedos shows
 * Reduced rate for Sedance
-* Members' events
+* Members’ events
 
 In addition, members have the right to stand for election to the trustees and management committee and to vote at General Meetings.
 
@@ -83,7 +83,7 @@ We prefer a short but intensive rehearsal period of about 8-10 weeks.
 
 **When are rehearsals held?**
 
-Weekday rehearsals (generally two per week, but not everyone is called to all rehearsals) are usually 6.30/7-9.30/10pm. Weekend rehearsals are generally held on a Saturday or Sunday from 10.30am/1pm to 2/5pm. Again, not everyone may be called to all rehearsals or to the whole rehearsal. Rehearsals are scheduled as far as possible around people's availability.
+Weekday rehearsals (generally two per week, but not everyone is called to all rehearsals) are usually 6.30/7-9.30/10pm. Weekend rehearsals are generally held on a Saturday or Sunday from 10.30am-1pm to 2/5pm. Again, not everyone may be called to all rehearsals or to the whole rehearsal. Rehearsals are scheduled as far as possible around people's availability.
 
 **Where are rehearsals held?**
 
@@ -91,7 +91,7 @@ We try to find free/cheap rehearsal space within easy reach of central London.
 
 **Where do performances take place?**
 
-We are the resident theatre company at the Bridewell Theatre, just off Fleet Street in London, and we generally perform there for 10 weeks a year.
+We are the resident theatre company at the [Bridewell Theatre](https://sedos.co.uk/venues/bridewell), just off Fleet Street in London, and we generally perform there for 10 weeks a year.
 
 We also perform at other venues from time to time, including at the Edinburgh Fringe and the Minack Theatre. 
 
@@ -117,5 +117,5 @@ Yes! Sedos is a founder member of [London Drama Societies](https://www.londondra
 
 “We will identify and remove barriers to create a safe and inclusive environment. We want everyone to feel empowered to participate, on stage or off. We want stories to be told authentically.”
 
-^^^ ![](/assets/39596528731_3d13b47b95_c.jpg)
+^^^ ![Sedos' 2017 production of Priscilla Queen of the Desert: The Musical](/assets/39596528731_3d13b47b95_c.jpg)
 ^^^ Sedos' 2017 production of Priscilla Queen of the Desert: The Musical
