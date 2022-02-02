@@ -18,7 +18,7 @@ showtimes:
   - time: 2022-05-14 16:00
   - time: 2022-05-14 20:00
 showtime-summary: 4-14 MAY 2022
-venue: Bridewell Theatre
+venue: bridewell
 ticket-prices: From £10
 additional-ticket-info: "Gala night: Friday 6 May and Friday 13 May - tickets
   include a glass of fizz and programme"
