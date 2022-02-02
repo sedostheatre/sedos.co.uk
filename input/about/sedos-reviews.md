@@ -1,12 +1,13 @@
 ---
-title: In the press
+title: Sedos reviews
 row: 3
 column: 1
 image: /assets/aboutus-inthepress.jpg
 RedirectFrom:
   - aboutus/reviews.htm
+  - about/in-the-press
 ---
-## Sedos in the press
+## Sedos reviews
 
 # 2021
 
@@ -15,7 +16,7 @@ RedirectFrom:
 ^^^ ![](/assets/51701944688_ec50b5fc1e_c.jpg)
 ^^^ Dirty Rotten Scoundrels
 
->The production reaches the extremely high standard I have come to expect from Sedos with a cast of 20 and a 15-piece band really bringing the story out in fine style. There was a lovely chemistry between the leads which made their interactions feel natural and real… Sedos have been one of my favourite production companies for a long while and after the last months of lockdown and online material, it was wonderful to see them come back with a bang with this production. Director Zoë Thomas-Webb, Choreographers Jonathon Grant & Fiona McConachie along with Musical Director Chris Nelson, ensured everything ran smoothly and the highly energetic pace of the show was maintained throughout 
+>The production reaches the extremely high standard I have come to expect from Sedos with a cast of 20 and a 15-piece band really bringing the story out in fine style. There was a lovely chemistry between the leads which made their interactions feel natural and real… Sedos have been one of my favourite production companies for a long while and after the last months of lockdown and online material, it was wonderful to see them come back with a bang with this production. Director Zoë Thomas-Webb, Choreographers Jonathon Grant & Fiona McConachie along with Musical Director Chris Nelson, ensured everything ran smoothly and the highly energetic pace of the show was maintained throughout
 ><footer><cite><a target="_blank" href="https://www.londontheatre1.com/reviews/dirty-rotten-scoundrels-at-the-bridewell-theatre/">Dirty Rotten Scoundrels, 2021, London Theatre 1</a></cite></footer>
 
 >What a job they’ve done! “Dirty Rotten Scoundrels” is by far one of the best Sedos shows I’ve seen. This might be an amateur group but there’s nothing amateur about this production. Another Sedos Triumph!
@@ -29,13 +30,13 @@ RedirectFrom:
 ^^^ ![](/assets/working.jpg)
 ^^^ Working
 
->Sedos, one of London’s best-loved community theatre companies, has given us numerous highly successful award-winning productions including "Pippin", "Urinetown" and "Earthquakes in London". This latest venture must surely be a powerful contender for further awards… I absolutely loved this show! It has everything you could wish for in a musical. Good stage direction combined with excellent vocals and great choreography make for an excellent production.A great evening out – another night to remember for all the very best reasons!  
+>Sedos, one of London’s best-loved community theatre companies, has given us numerous highly successful award-winning productions including "Pippin", "Urinetown" and "Earthquakes in London". This latest venture must surely be a powerful contender for further awards… I absolutely loved this show! It has everything you could wish for in a musical. Good stage direction combined with excellent vocals and great choreography make for an excellent production.A great evening out – another night to remember for all the very best reasons!
 ><footer><cite><a target="_blank" href="https://discover.hubpages.com/entertainment/Working-A-Musical-a-Sedos-Production-at-the-Bridewell-Theatre-London">Working, 2021, Hub Pages</a></cite></footer>
 
 >A great musical production telling of everyday lives, hopes and dreams. With searingly honest lyrics and heartfelt emotions it showcases the people who go unnoticed or aren’t given due credit, but who are often the foundations of our lives. Wonderful performances and well worth a visit! … It soon became clear that this was well beyond your usual amateur dramatic affair… The eight-strong cast are all exceptional, each taking on multiple individual roles and joining together for choruses. The staging and costume are sparse but effective, and this simplicity allows the focus to remain clearly on the actors… Having seen and felt sadness, despair, joy, pride, regret, the audience leaves on a high note.
 ><footer><cite><a target="_blank" href="https://everything-theatre.co.uk/2021/10/review-working-a-musical-bridewell-theatre.html">Working, 2021, Everything Theatre</a></cite></footer>
 
->The cast was made up of 8 performers, each taking on so many different roles within the show that I lost count, they all went from fronting a number one moment to being a vital part of the ensemble in another performers number the next. Often in shows with casts around this size there are one or two forgettable performers but this was not the case in Working. Not only can I picture all of the cast easily now but I can tell you which occupations they played throughout the show, a testament to how engaging each of them were individually… I would also like to commend Sedos for the racial diversity on stage. I know Sedos have been working hard alongside other London am dram companies to improve the racial diversity of their society and this commitment paid off in this show. Working is a show that needs to reflect America and that includes having performers of colour on stage in order to stay true to the heart of the show and I was pleased to see that Sedos did just that… The transitions between the numbers were well thought out by director Jacob Hajjar and and I enjoyed how they flowed seamlessly into one another, avoiding any unnecessary and long blackouts. This kept the pace snappy and helped the show have a more cohesive feel… Tess Robinson was the movement director for Working. Her strongest moments were the stylised moments, in particular the repetitive movement that the factory workers performed during ‘Millwork’ and many of the movements performed during ‘All The Livelong Days’ to symbolise different professions. Working is a show rarely put on so this is a great opportunity to see songs by the likes of Schwartz and Lin Manual Miranda performed and with Sedos at the helm they take you on a journey of emotions from empathy to laughter but most of all leaving you able to relate to those on stage. 
+>The cast was made up of 8 performers, each taking on so many different roles within the show that I lost count, they all went from fronting a number one moment to being a vital part of the ensemble in another performers number the next. Often in shows with casts around this size there are one or two forgettable performers but this was not the case in Working. Not only can I picture all of the cast easily now but I can tell you which occupations they played throughout the show, a testament to how engaging each of them were individually… I would also like to commend Sedos for the racial diversity on stage. I know Sedos have been working hard alongside other London am dram companies to improve the racial diversity of their society and this commitment paid off in this show. Working is a show that needs to reflect America and that includes having performers of colour on stage in order to stay true to the heart of the show and I was pleased to see that Sedos did just that… The transitions between the numbers were well thought out by director Jacob Hajjar and and I enjoyed how they flowed seamlessly into one another, avoiding any unnecessary and long blackouts. This kept the pace snappy and helped the show have a more cohesive feel… Tess Robinson was the movement director for Working. Her strongest moments were the stylised moments, in particular the repetitive movement that the factory workers performed during ‘Millwork’ and many of the movements performed during ‘All The Livelong Days’ to symbolise different professions. Working is a show rarely put on so this is a great opportunity to see songs by the likes of Schwartz and Lin Manual Miranda performed and with Sedos at the helm they take you on a journey of emotions from empathy to laughter but most of all leaving you able to relate to those on stage.
 ><footer><cite><a target="_blank" href="http://musicaltheatremusings.co.uk/working?mc_cid=be6405532d&mc_eid=UNIQID">Working, 2021, Musical Theatre Musings</a></cite></footer>
 
 >Sedos as ever have gathered a cast of fantastic talent… overall the production is pacy and entertaining.  Beautifully directed by Jacob Hajjar this is another great performance from Sedos.
@@ -131,7 +132,7 @@ RedirectFrom:
 
 ## *A Swell Party*
 
->This production, a Minack debut for Sedos which usually performs just off Fleet Street, classily directed by Roger Harwood and Dawn Harrison-Wallace, dances us through his amazing, sometimes outrageous, ultimately poignant life story, on a triumph of an Art Deco set designed by Steven King… This is glamour with bucketfuls of fizz, and a feeling of extravagant luxury washes over us as the Sedos singers seemingly effortlessly swing through around 50 famous numbers with on-stage pianists, musical director Matt Gould and Ryan Macaulay, the brilliant Annette Brown tooting and drumming, and the Minack’s executive director Zoe Curnow having her own party on double bass. Matt and Ryan are a delightful duo, tap dancing too, with narration by the ultra smooth James Franey as Cole, joined by Liz Flint as his wife Linda in shimmering emerald silk, backed by Stephen Beeney, Susan Booth, Rachel Elfassy-Bitoun, Will Garood, Deborah Lean, Yvette Shiel and Alex Yelland.Producer Lizzie Levett, choreographer Jane Saunders, sound and lighting Adam Coppard and Olly Levett, and stage manager Andrew Laidlaw and team make it all so believable. When’s the next party?   
+>This production, a Minack debut for Sedos which usually performs just off Fleet Street, classily directed by Roger Harwood and Dawn Harrison-Wallace, dances us through his amazing, sometimes outrageous, ultimately poignant life story, on a triumph of an Art Deco set designed by Steven King… This is glamour with bucketfuls of fizz, and a feeling of extravagant luxury washes over us as the Sedos singers seemingly effortlessly swing through around 50 famous numbers with on-stage pianists, musical director Matt Gould and Ryan Macaulay, the brilliant Annette Brown tooting and drumming, and the Minack’s executive director Zoe Curnow having her own party on double bass. Matt and Ryan are a delightful duo, tap dancing too, with narration by the ultra smooth James Franey as Cole, joined by Liz Flint as his wife Linda in shimmering emerald silk, backed by Stephen Beeney, Susan Booth, Rachel Elfassy-Bitoun, Will Garood, Deborah Lean, Yvette Shiel and Alex Yelland.Producer Lizzie Levett, choreographer Jane Saunders, sound and lighting Adam Coppard and Olly Levett, and stage manager Andrew Laidlaw and team make it all so believable. When’s the next party?
 ><footer><cite><a target="_blank" href="https://www.minack.com/explorewhat-we-doour-past-shows/swell-party">A Swell Party, 2019, Jenni Balou</a></cite></footer>
 
 ## *How to Succeed in Business Without Really Trying*
@@ -624,7 +625,7 @@ RedirectFrom:
 
 ## *Comic Potential*
 
->Sarah Boyes gave a fantastic performance. The role involves a huge range of emotions, accents and physicality and she made it all look effortless. Having seen amateur dramatics before, I never expected such a great performance.Best “Am-Dram” I’ve been to in years, will definitely see more by Sedos. 
+>Sarah Boyes gave a fantastic performance. The role involves a huge range of emotions, accents and physicality and she made it all look effortless. Having seen amateur dramatics before, I never expected such a great performance.Best “Am-Dram” I’ve been to in years, will definitely see more by Sedos.
 ><footer><cite>Comic Potential, 2007, whatsonstage.com</cite></footer>
 
 ## *Grand Hotel*
@@ -637,7 +638,7 @@ RedirectFrom:
 > A good performance which can stand comparison with the best the professional stage has to offer
 ><footer><cite>Sweeney Todd, 2007, Sweeney Todd Forum online</cite></footer>
 
->Compared with its big brother on Broadway, this production outshined its big-budgeted Big Apple sibling for a surprising number of reasons. Don't miss the dark side: "Sweeney Todd" lives and breathes one punk rock ripped organism one would not want to meet in a dark alleyway, though that's where it happens to shine. 
+>Compared with its big brother on Broadway, this production outshined its big-budgeted Big Apple sibling for a surprising number of reasons. Don't miss the dark side: "Sweeney Todd" lives and breathes one punk rock ripped organism one would not want to meet in a dark alleyway, though that's where it happens to shine.
 ><footer><cite>Sweeney Todd, 2007, RemoteGoat.com</cite></footer>
 
 # **2006**
