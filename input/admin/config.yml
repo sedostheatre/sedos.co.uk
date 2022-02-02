@@ -276,7 +276,7 @@ collections:
       - {label: "Content Title", name: title, widget: string}
       - {label: "Document Title", name: DocumentTitle, widget: string, required: false}
       - {label: "Redirect From", name: RedirectFrom,  description: "Pages on the old site to redirect from", widget: list, required: false}
-      - {name: "meta description", name: metaDescription, widget: string, required: false}
+      - {label: "meta description", name: metaDescription, widget: string, required: false}
       - {label: name, name: name, widget: string}
       - {label: key, name: key, widget: string}
       - label: details
@@ -466,11 +466,20 @@ collections:
         name: "get-involved"
         file: "input/get-involved.md"
         fields:
-          <<: *seo-content
+          - {label: "Content Title", name: title, widget: string}
+          - {label: "Document Title", name: DocumentTitle, widget: string, required: false}
           - {label: Details, name: body, widget: markdown, required: false}
           - {label: Category, name: category, widget: hidden}
           - {label: ViewStart, name: view-start, widget: hidden}
           - {label: groups, name: groups, widget: hidden}
+          - name: RedirectFrom
+            label: Redirect From
+            description: Pages on the old site to redirect from
+            widget: list
+            required: false
+          - name: metaDescription
+            width: string
+            required: false
       - label: "2005 review"
         name: "2005-review"
         file: "input/2005-review.md"
