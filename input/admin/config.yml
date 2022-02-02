@@ -470,7 +470,7 @@ collections:
           - {label: Details, name: body, widget: markdown, required: false}
           - {label: Category, name: category, widget: hidden}
           - {label: ViewStart, name: view-start, widget: hidden}
-          - {label: groups, name: view-start, widget: hidden}
+          - {label: groups, name: groups, widget: hidden}
       - label: "2005 review"
         name: "2005-review"
         file: "input/2005-review.md"
