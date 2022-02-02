@@ -8,7 +8,7 @@ RedirectFrom:
 * [Conflict of Interest Policy](#conflict-of-interest-policy)
 * [COVID-19 Policy](#covid-19-health-and-safety-policy)
 * [Privacy and Data Protection Policy](#privacy-and-data-protection-policy)
-* [Photography policy](<#photography-policy >)
+* [Photography policy](#photography-policy)
 
 - - -
 
