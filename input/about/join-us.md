@@ -18,13 +18,11 @@ Our [London auditions](https://sedos.co.uk/get-involved) are free for members an
 
 **Backstage and production**
 
-We always strive for a professional standard, both on stage and behind. Sedos offers the chance to broaden your skills in lighting, sound design, set design, marketing, costumes, crewing and a host of other non-performance skill.
-
-Our production teams are also Sedos members, as are most of our backstage crews.
+We always strive for a professional standard, both on stage and behind. Sedos offers the chance to broaden your skills in lighting, sound design, set design, marketing, costumes, crewing and a host of other non-performance skill. [Find out more about getting involved backstage.](https://sedos.co.uk/backstage) 
 
 **Socials**
 
-We put together regular and varied social events for our members, from play-readings to pub quizzes and karaoke nights.
+We put together regular and varied social events for our members, from play-readings to pub quizzes and karaoke nights. [Information about our socials is posted here.](https://sedos.co.uk/get-involved) 
 
 **Workshops**
 
