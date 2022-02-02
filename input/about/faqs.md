@@ -11,7 +11,7 @@ RedirectFrom:
 
 **Are auditions open to everyone?**
 
-Absolutely! We welcome people of all levels, backgrounds, ages and experience.
+Absolutely! We welcome people of all levels, backgrounds, ages and experience. You do not have to be a Sedos member to audition for your shows. 
 
 **How do I find out about auditions?**
 
@@ -25,25 +25,21 @@ Plus, don’t forget to follow us on social media:
 * [twitter.com/sedos](https://twitter.com/sedos)
 * [instagram.com/sedoslondon](https://www.instagram.com/sedoslondon/)
 
+**How much does it cost to audition for a Sedos show?**
+
+It is free for members and non-members to audition for Sedos shows.
+
 **Do I need to be a Sedos member to be involved in a show?**
 
 Yes, all performers and core production team members (directors, musical directors, choreographers and producers) must be members of Sedos.
 
-**How much does it cost to be a member of Sedos?**
+**How much does it cost to be a member of Sedos and to be in a show?**
 
 Membership fees are £30 a year if paid by direct debit, £35 otherwise. If you are involved in a show you must be a member of Sedos for the entire rehearsal period and performance dates.
 
 See below for benefits of membership.
 
-**How much does it cost to audition for a Sedos show?**
-
-It is free for members and non-members to audition for Sedos shows.
-
-**How much does it cost to be in a Sedos show?**
-
-You must be a member of Sedos to perform in a show. Membership fees are £30 a year if paid by direct debit, £35 otherwise. You must be a member of Sedos for the entire rehearsal period and performance dates.
-
-Since 2020, there has been no participation fee to take part in a Sedos show. 
+Since 2020, there has been no participation fee to take part in a Sedos show, so the membership fee is the only cost.
 
 **What ability / experience is needed?**
 
@@ -51,17 +47,17 @@ This depends on the role. For the chorus / ensemble of a musical, you must be ab
 
 **What will be in the audition?**
 
-This will depend entirely on the show and the production team and will be detailed in the audition notice, but will probably be along these lines:
+This will depend entirely on the show and the production team and will be detailed in the audition notice, as well as casting information and any specific requirements for the roles on offer. But it will probably be along these lines:
 
 MUSICALS: You will be sent material to prepare in advance for both dialogue and singing, or you may be asked to prepare a song of your own choice in the style of the musical. There may also be a dance section where you learn a routine. Recalls may take a workshop format interacting with other potential cast members or may be done individually.
 
 PLAYS: You will be sent dialogue to prepare in advance for the part(s) you are interested in. Recalls may take a workshop format interacting with other potential cast members or may be done individually.
 
-**How do I find out about the production?**
+**Can I meet the team before the auditions?**
 
-We will send you all the information you need when you register to audition. There is also usually a pre-audition workshop of the show so you can get a taste of what you are getting yourself into!
+There is also usually a pre-audition workshop so you can meet the team and find out more about the show and the auditions.
 
-**Members’ benefits**
+**What are the benefits of being a Sedos members**
 
 * Reduced ticket prices on all Sedos shows
 * Reduced rate for Sedance
@@ -79,15 +75,15 @@ For more information contact: backstage@sedos.co.uk
 
 **How long is the rehearsal period?**
 
-We prefer a short but intensive rehearsal period of about 8-10 weeks.
+We prefer a short but intensive rehearsal period of about 8-12 weeks.
 
 **When are rehearsals held?**
 
-Weekday rehearsals (generally two per week, but not everyone is called to all rehearsals) are usually 6.30/7-9.30/10pm. Weekend rehearsals are generally held on a Saturday or Sunday from 10.30am-1pm to 2/5pm. Again, not everyone may be called to all rehearsals or to the whole rehearsal. Rehearsals are scheduled as far as possible around people's availability.
+Weekday rehearsals (generally two per week, but not everyone is called to all rehearsals) are usually 6.30/7-9.30/10pm. Weekend rehearsals are generally held on a Saturday or Sunday from 10/11am-4/5pm. The whole cast may not be called to all rehearsals or to the whole rehearsal. Rehearsals are scheduled as far as possible around people’s availability, but we ask you please to be honest about your availability when auditioning to help us set schedules.
 
 **Where are rehearsals held?**
 
-We try to find free/cheap rehearsal space within easy reach of central London.
+We try to find free/cheap rehearsal space within easy reach of central London. Most of our auditions are currently at Theatre Deli Broadgate, 2 Finsbury Avenue, London EC2M 2PA.
 
 **Where do performances take place?**
 
@@ -99,7 +95,7 @@ We also perform at other venues from time to time, including at the Edinburgh Fr
 
 Either a one- or two-week production period is usual. Plays are generally one-week (though we have also done two-week plays), while we stage both two-week and one-week musicals.
 
-**Who are in the audience?**
+**Who is in the audience?**
 
 All the friends, family and colleagues that you have sold tickets to! Yes, we do rely on a level of ticket sales from the cast to cover our expenses. However, there are also long-term enthusiastic supporters of Sedos and past performers that come regularly to our shows, there is some interest from talent-spotting agents, and there are even a few general members of the public that have seen our publicity, picked up a flyer, or were just passing by (we know about them because they ask to join our mailing list afterwards).
 
