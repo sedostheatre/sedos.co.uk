@@ -8,7 +8,7 @@ RedirectFrom:
 * [Conflict of Interest Policy](#conflict-of-interest-policy)
 * [COVID-19 Policy](#covid-19-health-and-safety-policy)
 * [Privacy and Data Protection Policy](#privacy-and-data-protection-policy)
-* [Photography policy](#photography-policy)
+* [Photography policy](<#photography-policy >)
 
 - - -
 
@@ -850,9 +850,11 @@ The following is Sedos’s photography policy. This policy should be put on the 
 
 * Audition forms must include a checkbox that reads as follows: 
 
-“Please initial:
+“Please initial/tick box:
 
 \[        ]  I acknowledge that Sedos and photographers assigned by Sedos, have the irrevocable and unrestricted right to use and publish photographs of me during auditions, rehearsal or performance of this production, for editorial, trade, advertising, and promotion of this show or the society, in any manner and medium; and to alter and composite the same. I hereby release the Photographer and Sedos and their legal representatives and assigns from all claims and liability relating to said photographs.
+
+This tick box should be accompanied by a link to this photo policy, using this link: [https://sedos.co.uk/policies#​photography-policy](https://sedos.co.uk/policies#photography-policy) 
 
 * Audition forms must be retained. Because of this release, they are official documents. Scanning them and putting them online in a shared folder, or using an online form throughout, is ideal.
 * Actors have the right to speak to any member of the production team (including the committee liaison) at any time regarding any images of them or any process involved in their creation. Sedos has the right to control the marketing for the show, but we all want the actors to feel comfortable and raise concerns. 
