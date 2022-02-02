@@ -8,19 +8,19 @@ RedirectFrom:
 ---
 ## **Join Sedos**
 
-Sedos is a group of London professionals with a passion for the theatre. Spanning a range of ages, backgrounds, professions and personalities, our members enjoy a vibrant and varied Sedos life both on and off stage.
+Sedos is a [London amateur theatre](https://sedos.co.uk) company, bringing together people with a passion for the theatre. Spanning a range of ages, backgrounds, professions and personalities, our members enjoy a vibrant and varied Sedos life both on and off stage.
 
 **Shows**
 
 Whether you’re a singer, a dancer, an actor or all three, there are plentiful opportunities to tread the boards at several of London’s best fringe venues. We present a varied season every year, with large-scale musicals, cabarets, modern and classical dramas and new writing.
 
-Sedos members are entitled to audition for all Sedos shows for free.
+Our [London auditions](https://sedos.co.uk/get-involved) are free for members and non-members.
 
 **Backstage and production**
 
 We always strive for a professional standard, both on stage and behind. Sedos offers the chance to broaden your skills in lighting, sound design, set design, marketing, costumes, crewing and a host of other non-performance skill.
 
-Our production teams are also Sedos members as are most of our backstage crews.
+Our production teams are also Sedos members, as are most of our backstage crews.
 
 **Socials**
 
@@ -64,5 +64,5 @@ Plus, don’t forget to follow us on social media:
 * [twitter.com/sedos](https://twitter.com/sedos)
 * [instagram.com/sedoslondon](https://www.instagram.com/sedoslondon/)
 
-^^^ ![](/assets/49121272153_64e8315ba0_k.jpg)
-^^^
+^^^ ![Sedos’ 2019 production of Ragtime](/assets/49121272153_64e8315ba0_k.jpg)
+^^^ Sedos’ 2019 production of Ragtime
