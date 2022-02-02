@@ -7,13 +7,27 @@ RedirectFrom:
   - aboutus/index.htm
   - charity/index.htm
 ---
-**Sedos stands for the Stock Exchange Dramatic and Operatic Society. The society was founded in 1905 by senior members of the stock exchange and, although the membership now includes an eclectic mix from all over London, we maintain firm links with the City.**
+**Sedos is a [London amateur theatre](https://sedos.co.uk) company, staging seven to 10 shows a year.**
 
-Sedos is a registered charity (no. 1173896) with 340 members and stages seven to ten shows a year. We have been the resident theatre company at the [Bridewell Theatre](https://sedos.co.uk/venues/bridewell) since 2012 and most of our season takes place there, although we also perform in other venues.\
-\
+We produce both plays and musicals, with most of our season taking place at the [Bridewell Theatre](https://sedos.co.uk/venues/bridewell), where we have been the resident theatre company since 2012.
+
 Sedos is an amateur company, but we strive for professional standards in both performance and production values. Read [Sedos reviews](https://sedos.co.uk/about/sedos-reviews) here. [](/about/in-the-press)
 
-## A Potted History
+In addition, we do everything in our power to ensure everyone involved in our shows, on stage and backstage, enjoys themselves and has a good experience – we are all volunteers, after all.
+
+All our [London auditions](https://sedos.co.uk/get-involved) are open to everyone, members and non-members, and are free to attend. 
+
+Sedos is a founder member of [London Drama Societies](https://www.londondramasocieties.co.uk), which commits each member society to the following statement:
+
+“Collectively, we commit to take constant steps to be more inclusive and attract members and audiences reflecting London’s diversity.
+
+“We will identify and remove barriers to create a safe and inclusive environment. We want everyone to feel empowered to participate, on stage or off. We want stories to be told authentically.”
+
+Sedos is a registered charity (no. 1173896) with elected trustees and members of a management committee. Find out more about [how Sedos operates and who currently serves on the trustees and management committee.](https://sedos.co.uk/about/how-we-operate) 
+
+### A potted history of Sedos
+
+Sedos stands for the Stock Exchange Dramatic and Operatic Society. The society was founded in 1905 by senior members of the stock exchange, but the membership now includes an eclectic mix from all over London. 
 
 The senior members of the stock exchange who founded Sedos in 1905 were led by Charles Dickinson and Cyril Bathurst. Their principal aims were twofold:
 
