@@ -51,6 +51,9 @@ sections:
       **MISS ISABEL YEARSLEY as WENDY** | Sadie Kempner\
       **MR CHRISTOPHER LYON as HORACE** | Toby Churchley\
       **MISS VIOLET BALFOUR as BEATRICE** | Tess Robinson
+metaDescription: The Mystery of Edwin Drood, part of Sedos’ 2022 London season,
+  plays at the Bridewell Theatre from 22-26 March 2022. The show is a hilarious
+  musical whodunnit based on Charles Dickens’ unfinished novel
 ---
 **A hilarious musical whodunit loosely based on Charles Dickens’ famous unfinished novel.**
 
@@ -58,7 +61,9 @@ This wildly warm-hearted theatrical experience kicks off when the Music Hall Roy
 
 Our title character disappears mysteriously one stormy Christmas Eve - but has Edwin Drood been murdered? And if so, then whodunnit? YOU, the audience has the power to affect the outcome, so the show can be different at every performance!
 
-**SPECIAL OFFER:** book a ticket to *[When The Rain Stops Falling](https://sedos.co.uk/shows/2022-when-the-rain-stops-falling)* and a ticket to *The Mystery of Edwin Drood* in one transaction and receive 10% off.
+*The Mystery of Edwin Drood* plays at the [Bridewell Theatre](https://sedos.co.uk/venues/bridewell) from 22-26 March 2022.
+
+**SPECIAL OFFER:** book a ticket to *[When the Rain Stops Falling](https://sedos.co.uk/shows/2022-when-the-rain-stops-falling)* and a ticket to *The Mystery of Edwin Drood* in one transaction and receive 10% off.
 
 **THE MYSTERY OF EDWIN DROOD**\
 A Musical by
