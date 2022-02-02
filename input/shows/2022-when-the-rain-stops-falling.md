@@ -65,6 +65,9 @@ sections:
   - order: 4
     title: TRAILER
     body: <div class="video-responsive"><?# YouTube OpBBFTF9dDg /?></div>
+metaDescription: When the Rain Stops Falling, part of Sedos' 2022 season of
+  London musicals and plays, runs at the Bridewell Theatre from 22-26 February
+  2022. A beautiful and expansive drama about family, betrayal and forgiveness
 ---
 >YOU’RE NOT SURE IF IT’S TODAY OR TOMORROW OR YESTERDAY. AND WHO CAN BLAME YOU FOR THAT. THEY’RE ALL MUCH THE SAME.
 ><footer><cite></cite></footer>
@@ -75,7 +78,9 @@ A beautiful and expansive drama about family, betrayal and forgiveness, spanning
 
 It interweaves a series of connected stories as seven people confront the mysteries of their past in order to understand their future, revealing how patterns of secrets, love and abandonment are passed on.
 
-This award-winning play received its European premiere at the Almeida Theatre, London, in May 2009. Andrew Bovell is a celebrated Australian writer, best known for S*peaking in Tongues* and Baz Baz Luhrmann’s *Strictly Ballroom*.
+This award-winning play received its European premiere at the Almeida Theatre, London, in May 2009. Andrew Bovell is a celebrated Australian writer, best known for S*peaking in Tongues* and Baz Luhrmann’s *Strictly Ballroom*.
+
+*When the Rain Stops Falling* plays at the [Bridewell Theatre](https://sedos.co.uk/venues/bridewell) from 22-26 February 2022.
 
 **SPECIAL OFFER:** book a ticket to *When the Rain Stops Falling* and a ticket to *[The Mystery of Edwin Drood](https://sedos.co.uk/shows/2022-the-mystery-of-edwin-drood)* in one transaction and receive 10% off.
 
