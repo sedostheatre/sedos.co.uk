@@ -6,10 +6,15 @@ venue: ""
 recurrence: Mondays at 7.10pm
 RedirectFrom:
   - sedance.htm
+metaDescription: Sedance is Sedos’ Monday evening dance class, where you can run
+  through a warm-up and then learn a routine with frequent Sedos choreographer
+  Tom Leonard or a guest choreographer
 ---
-#### **SEDANCE IS CURRENTLY ON A BREAK. [JOIN THE FACEBOOK GROUP FOR THE LATEST UPDATES](https://www.facebook.com/groups/328763023951811/)**
+**Sedance is Sedos’ weekly dance class, running every Monday night, 7pm for a 7.15pm start.**
 
-**Sedance is Sedos’ weekly dance class, running every Monday night, 7.10-9pm.**
+Classes take place at David Game College, 31 Jewry Street, EC3N 2ET
+
+[Join the Sedance Facebook page](https://www.facebook.com/groups/328763023951811/) to find out the latest updates, including current Covid protocols for attendance. 
 
 What better way to get in shape, improve your technique or simply enjoy the buzz of dancing? (And it's a great excuse for a cheeky pop to the local hostelry on a Monday evening to catch up with what's going on in Sedos!)
 
@@ -25,7 +30,7 @@ Make sure you join the Facebook group to stay up-to-date! Just search “Sedance
 
 PRICES (card and contactless payments only):
 
-You can either pay a drop-in price each week or pay for a block of classes in advance, which works out cheaper. These block bookings are valid from September through to July (exact dates depend on when we take a summer break).
+You can either pay a drop-in price each week or pay for a block of classes in advance, which works out cheaper. 
 
 **Sedos members**
 
@@ -45,5 +50,5 @@ Drop-in price - £8 per class
 
 *We look forward to seeing you there!*
 
-^^^ ![](/assets/48781085673_2a459c1bb7_c.jpg)
-^^^ Rehearsals for Sedos' 2019 original dance adaptation, Dangerous Liaisons
+^^^ ![Rehearsals for Sedos’ 2019 original dance adaptation, Dangerous Liaisons, which featured many Sedance members](/assets/48781085673_2a459c1bb7_c.jpg)
+^^^ Rehearsals for Sedos’ 2019 original dance adaptation, Dangerous Liaisons
