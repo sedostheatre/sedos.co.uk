@@ -65,9 +65,9 @@ sections:
   - order: 4
     title: TRAILER
     body: <div class="video-responsive"><?# YouTube OpBBFTF9dDg /?></div>
-metaDescription: When the Rain Stops Falling, part of Sedos' 2022 season of
-  London musicals and plays, runs at the Bridewell Theatre from 22-26 February
-  2022. A beautiful and expansive drama about family, betrayal and forgiveness
+metaDescription: When the Rain Stops Falling, part of Sedos’ 2022 London season,
+  runs at the Bridewell Theatre from 22-26 February 2022. A beautiful and
+  expansive drama about family, betrayal and forgiveness
 ---
 >YOU’RE NOT SURE IF IT’S TODAY OR TOMORROW OR YESTERDAY. AND WHO CAN BLAME YOU FOR THAT. THEY’RE ALL MUCH THE SAME.
 ><footer><cite></cite></footer>
