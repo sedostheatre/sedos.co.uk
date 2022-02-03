@@ -33,7 +33,7 @@ Sedos seeks to build and sustain a membership that is reflective of the diverse 
 
 Our auditions are always posted on this page of our website and are also advertised in our weekly newsletter ([sign up to the newsletter](https://mailchi.mp/sedos.co.uk/newsletter-sign-up) to hear about all our central London auditions). 
 
-The audition notice for each show will give details of the creative vision, the audition process, rehearsal dates and how to sign up, as well as casting information and any specific requirements for the roles on offer. 
+The audition notice for each show will give details of the creative vision, the audition process, rehearsal dates, the roles on offer and how to sign up.
 
 Most of our shows hold an online or in-person pre-audition workshop where you can find out more about the show, the audition process and meet the team. Such workshops are free to attend and open to all. 
 
