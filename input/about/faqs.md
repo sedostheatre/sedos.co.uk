@@ -41,6 +41,8 @@ See below for benefits of membership.
 
 Since 2020, there has been no participation fee to take part in a Sedos show, so the membership fee is the only cost.
 
+We would always be open to a discussion with anyone who found our membership fee a barrier to participation. 
+
 **What ability / experience is needed?**
 
 This depends on the role. For the chorus / ensemble of a musical, you must be able to sing in tune and move well, as a minimum. There is high competition for most roles, and the best performer in the role at the audition is picked (regardless of Sedos membership). Just to stress this once more – the best auditionee for each part will be cast. You don’t have to ‘do your time’ in order to be cast in a Sedos show. We believe in quality.
