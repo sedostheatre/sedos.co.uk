@@ -27,7 +27,7 @@ namespace Sedos.Extensions
                 new ModuleList
                 {
                     new ReadFiles(filename),
-                    new MutateImage().Resize(width: width, height: height, mode: resizeMode).SetSuffix(doc.Id.ToString()),
+                    new MutateImage().Resize(width: width, height: height, mode: resizeMode),
                     new WriteFiles()
                 },
                 new IDocument[] { doc }
