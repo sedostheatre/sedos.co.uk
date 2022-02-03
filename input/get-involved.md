@@ -23,3 +23,20 @@ RedirectFrom:
 metaDescription: Find out about all amateur theatre company Sedos’ London
   auditions, socials, workshops, dance classes, improv sessions and more
 ---
+Looking for London auditions?
+
+At Sedos, we hold free, open auditions for all [our plays and musicals](https://sedos.co.uk/whats-on) and welcome members and non-members. We are committed to casting the best person for the role regardless of membership status. 
+
+Sedos seeks to build and sustain a membership that is reflective of the diverse communities within our city and we love to see a diverse range of auditionees at our London auditions. We actively encourage performers to audition for the roles which they feel best suit their skills. Any specific requirements will be detailed in the casting breakdown on individual shows’ auditions notices. 
+
+Our auditions are always posted on this page of our website and are also advertised in our weekly newsletter ([sign up to the newsletter](https://mailchi.mp/sedos.co.uk/newsletter-sign-up) to hear about all our central London auditions). 
+
+The audition notice for each show will give details of the creative vision, the audition process, rehearsal dates and how to sign up, as well as casting information and any specific requirements for the roles on offer. 
+
+Most of our shows hold an online or in-person pre-audition workshop where you can find out more about the show, the audition process and meet the team. Such workshops are free to attend and open to all. 
+
+It is free to audition for Sedos shows. All cast members have to be Sedos members, so those new or returning to the society have to join after being cast (£30 by direct debit or £35 otherwise). There is no other fee to be involved in a show – we used to charge a participation fee, but have now removed this. We would always be open to a discussion with anyone who found our membership fee a barrier to participation. 
+
+Sedos is a [London amateur theatre](https://sedos.co.uk) company and, in keeping with the ethos of amateur productions, actors are not paid fees or expenses. 
+
+We look forward to seeing you at our auditions.
