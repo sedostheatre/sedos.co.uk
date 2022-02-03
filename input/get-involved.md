@@ -23,6 +23,8 @@ RedirectFrom:
 metaDescription: Find out about all amateur theatre company Sedos’ London
   auditions, socials, workshops, dance classes, improv sessions and more
 ---
+### **Auditioning for a Sedos show**
+
 Looking for London auditions?
 
 At Sedos, we hold free, open auditions for all [our plays and musicals](https://sedos.co.uk/whats-on) and welcome members and non-members. We are committed to casting the best person for the role regardless of membership status. 
