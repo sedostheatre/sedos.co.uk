@@ -23,16 +23,6 @@ sections:
   - order: 1
     title: CAST & CREATIVE TEAM
     body: |-
-      **CREATIVE TEAM**
-
-      **DIRECTOR** | Mark Siddall\
-      **MUSICAL DIRECTOR** | Issie Osborne\
-      **CHOREOGRAPHER / ASSISTANT DIRECTOR** | Tim Garrad\
-      **PRODUCER** | Ben Hussey\
-      **LIGHTING DESIGN** | Shiri Stern\
-      **SOUND DESIGN** | Henry Whittaker\
-      **COSTUME DESIGN** | Frederica Byron
-
       **CAST**
 
       **MR WILLIAM CARTWRIGHT, CHAIRMAN** | Mark Smith\
@@ -51,6 +41,17 @@ sections:
       **MISS FLORENCE GILL as FLO** | Ruth Granton\
       **MISS ISABEL YEARSLEY as WENDY** | Sadie Kempner\
       **MISS VIOLET BALFOUR as BEATRICE** | Tess Robinson
+
+      **CREATIVE TEAM**
+
+      **DIRECTOR** | Mark Siddall\
+      **MUSICAL DIRECTOR** | Issie Osborne\
+      **CHOREOGRAPHER / ASSISTANT DIRECTOR** | Tim Garrad\
+      **PRODUCER** | Ben Hussey\
+      **STAGE MANAGER** | Emma J Leaver\
+      **LIGHTING DESIGN** | Shiri Stern\
+      **SOUND DESIGN** | Henry Whittaker\
+      **COSTUME DESIGN** | Frederica Byron
 metaDescription: The Mystery of Edwin Drood, part of Sedos’ 2022 London season,
   plays at the Bridewell Theatre from 22-26 March 2022. The show is a hilarious
   musical whodunnit based on Charles Dickens’ unfinished novel
