@@ -90,6 +90,6 @@ This award-winning play received its European premiere at the Almeida Theatre, L
 >Extraordinary... grabs you by its imagination, its heartrending originality, its tragic vision
 ><footer><cite>The Sunday Telegraph</cite></footer>
 
-*Includes strong language and sensitive subject matter, including reference to paedophilia, alcoholism, suicide, dementia and memory loss.*
+*Includes strong language and sensitive subject matter, including reference to paedophilia, alcoholism, suicide, dementia and memory loss.* 
 
 An amateur production by arrangement with Nick Hern Books
