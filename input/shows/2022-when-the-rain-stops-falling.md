@@ -62,9 +62,6 @@ sections:
       ![](/assets/whentherainstopsfalling-a5-flyer-front-800.jpg)
 
       ![](/assets/whentherainstopsfalling-a5-flyer-back-800.jpg)
-  - order: 4
-    title: TRAILER
-    body: <div class="video-responsive"><?# YouTube v9tY6j_laeU /?></div>
 metaDescription: When the Rain Stops Falling, part of Sedos’ 2022 London season,
   runs at the Bridewell Theatre from 22-26 February 2022. A beautiful and
   expansive drama about family, betrayal and forgiveness
@@ -93,6 +90,6 @@ This award-winning play received its European premiere at the Almeida Theatre, L
 >Extraordinary... grabs you by its imagination, its heartrending originality, its tragic vision
 ><footer><cite>The Sunday Telegraph</cite></footer>
 
-*Includes strong language and sensitive subject matter, including reference to paedophilia, alcoholism, suicide, dementia and memory loss.*
+*Includes strong language and sensitive subject matter, including reference to paedophilia, alcoholism, suicide, dementia and memory loss. s*
 
 An amateur production by arrangement with Nick Hern Books
