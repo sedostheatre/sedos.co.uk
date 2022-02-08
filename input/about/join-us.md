@@ -39,14 +39,14 @@ Sedos is a founder member of [London Drama Societies](https://www.londondramasoc
 **Member benefits**
 
 * Reduced ticket prices on all Sedos shows
-* Reduced rate for Sedance
+* Reduced rate for [Sedance](https://sedos.co.uk/regular-events/sedance)
 * Members’ events
 
 In addition, members have the right to stand for election to the trustees and management committee and to vote at General Meetings.
 
 **Membership fees**
 
-Membership fees are £30 a year if a recurring payment is setup, £35 otherwise.
+Membership fees are £30 a year if a recurring payment is setup, £35 otherwise. We would always be open to a discussion with anyone who found our membership fee a barrier to participation. 
 
 **Sedos Membership application**
 
