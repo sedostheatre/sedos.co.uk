@@ -9,7 +9,7 @@ key: bridewell
 ---
 ## The Bridewell Theatre
 
-Most of our shows take place at the Bridewell Theatre, where we are the resident theatre company.
+Most of our [London musicals](https://sedos.co.uk/whats-on) and [London plays](https://sedos.co.uk/whats-on) take place at the Bridewell Theatre, where we are the resident theatre company.
 
 The Bridewell Theatre opened in 1994, breathing new life and purpose into a long derelict Victorian swimming pool. Currently it is a “receiving house” — just about anyone can hire the facilities and put on a show here.
 
