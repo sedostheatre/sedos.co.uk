@@ -62,7 +62,7 @@ There is also usually a pre-audition workshop so you can meet the team and find 
 **What are the benefits of being a Sedos members**
 
 * Reduced ticket prices on all Sedos shows
-* Reduced rate for Sedance
+* Reduced rate for [Sedance](https://sedos.co.uk/regular-events/sedance)
 * Members’ events
 
 In addition, members have the right to stand for election to the trustees and management committee and to vote at General Meetings.
@@ -73,7 +73,7 @@ These benefits apply to the named member only. For the avoidance of doubt they a
 
 Absolutely! We are always keen to hear from anyone who is interested in getting involved on the production side. From props and set, sound and lighting designers and operators, costumes and makeup to stage managers and those backstage, our shows can only thrive with those willing to volunteer for these roles. All the benefits of being involved without having to learn your lines! 
 
-For more information contact: backstage@sedos.co.uk
+For more information contact: [backstage@sedos.co.uk](mailto:backstage@sedos.co.uk)
 
 **How long is the rehearsal period?**
 
