@@ -81,3 +81,5 @@ An energy-fuelled rock musical, *American Idiot* features little dialogue and i
 This show includes offensive language and depictions of suicide and drug use. Haze, smoke, strobe lighting and loud noises may be used.
 
 *American Idiot* plays at the [Bridewell Theatre](https://sedos.co.uk/venues/bridewell) from 4-14 May 2022.
+
+This amateur production is presented by arrangement with MUSIC THEATRE INTERNATIONAL (Europe).
