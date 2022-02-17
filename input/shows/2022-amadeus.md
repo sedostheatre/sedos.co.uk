@@ -48,6 +48,14 @@ metaDescription: Amadeus, part of Sedos’ 2022 London season, plays at the
 
 A fictionalized account of the relationship between these two real life composers, Peter Shaffer’s *Amadeus* takes us on a wild ride through the trials and tribulations of genius, jealousy and revenge.
 
+**AUDITION DATES**
+
+**Pre-audition workshop:** evening of Thursday 7 July\
+**First round auditions:** evenings of Wednesday 20 and Thursday 21 July, daytime of Saturday 23 July\
+**Recalls:** daytime of Saturday 30 July
+
+The full audition notice will be released in due course. More information about all Sedos’ [London auditions](https://sedos.co.uk/get-involved) is available [here](https://sedos.co.uk/get-involved). 
+
 *Amadeus* plays at the [Bridewell Theatre](https://sedos.co.uk/venues/bridewell) from 23 November-3 December 2022. 
 
 >Peter Shaffer's greatest play
