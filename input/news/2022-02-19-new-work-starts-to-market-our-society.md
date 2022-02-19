@@ -24,6 +24,6 @@ All this will not only make our website more visible to search engines, but will
 
 The marketing group is always keen to hear from potential new members of the group. We meet approximately every two months and work on and discuss projects around general marketing of the society, as well as supporting the marketing of every show.
 
-Commitment can be as much or little as you like – there are ongoing ways to get involved or projects which are focused on specific activities or shows over a short timeframe. 
+Commitment can be as much or little as you like – there are ongoing ways to get involved or projects which are focused on specific activities or shows over a short timeframe – and there are opportunities to learn new skills, from using our email marketing system Mailchimp to improving a website’s SEO, designing a poster or programme and using social media for marketing. 
 
 If you’re interested in joining the marketing group – or just coming along to a meeting to see what it’s all about – please email Pippa and Stephen on [marketing@sedos.co.uk](mailto:marketing@sedos.co.uk)
