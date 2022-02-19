@@ -12,7 +12,7 @@ metaDescription: The Sedos marketing group and the experts involved in looking
 
 An email marketing sub group consisting of Stephen Beeny, Pippa Kyle and Aileen Ryan has started work on improving all the communications we send out via email.
 
-So far, we’ve focused on increasing visibility of how to [join our email newsletter list](https://mailchi.mp/sedos.co.uk/newsletter-sign-up) with the aim of sending our weekly Friday update to more people and on improving the journey for those who sign up for the newsletter. This means that people are now taken to a prettier and more useful web page after signing up, with pictures and links to various areas of our website, and also receive an email confirmation with similar information.
+So far, we’ve focused on increasing visibility of how to [join our email newsletter list,](https://mailchi.mp/sedos.co.uk/newsletter-sign-up) with the aim of sending our weekly Friday update to more people, and on improving the journey for those who sign up for the newsletter. This means that people are now taken to a prettier and more useful web page after signing up, with pictures and links to various areas of our website, and also receive an email confirmation with similar information.
 
 The second area of this work will target the emails we send to audience members before and after performances, with a view to including extra information in these and using them as an opportunity to market our next shows and to seek feedback from our audience.
 
@@ -22,8 +22,8 @@ Work has started on this, with new copy being added to various pages on the webs
 
 All this will not only make our website more visible to search engines, but will also make it more useful and user-friendly for our current and potential auditionees and members. 
 
-The marketing group is always keen to hear from potential new members of the group. We meet approximately every two months and work on and discuss projects around general marketing of the society, as well as supporting the marketing of every show.
+The marketing group is always keen to hear from anyone who’d like to join the group. We meet approximately every two months and work on and discuss projects around general marketing of the society, as well as supporting the marketing of every show.
 
-Commitment can be as much or little as you like – there are ongoing ways to get involved or projects which are focused on specific activities or shows over a short timeframe – and there are opportunities to learn new skills, from using our email marketing system Mailchimp to improving a website’s SEO, designing a poster or programme and using social media for marketing. 
+Commitment can be as much or little as you like – there are ongoing ways to get involved or projects which are focused on specific activities or shows over a short timeframe – and there are opportunities to learn new skills, from using our email marketing system Mailchimp to improving website SEO and using social media for marketing. 
 
 If you’re interested in joining the marketing group – or just coming along to a meeting to see what it’s all about – please email Pippa and Stephen on [marketing@sedos.co.uk](mailto:marketing@sedos.co.uk)
