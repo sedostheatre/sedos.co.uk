@@ -1,4 +1,5 @@
-﻿using Statiq.Common;
+﻿using Sedos.Extensions;
+using Statiq.Common;
 using Statiq.Core;
 using Statiq.Razor;
 using Statiq.Yaml;
@@ -25,6 +26,10 @@ namespace Sedos.Pipelines
             ProcessModules = new ModuleList
             {
                 new ExtractFrontMatter(new ParseYaml()),
+                MarkdownExtensions.MarkdownRenderer("eventsText"),
+                MarkdownExtensions.MarkdownRenderer("newsText"),
+                MarkdownExtensions.MarkdownRenderer("carouselFooter"),
+                MarkdownExtensions.MarkdownRenderer("pageFooter"),
                 new RenderRazor(),
                 new SetDestination(".html"),
             };

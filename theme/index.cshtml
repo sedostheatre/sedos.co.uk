@@ -4,6 +4,10 @@ title: Sedos
 RedirectFrom:
  - index.htm
 metaDescription: Sedos - The City of London's premier amateur theatre company
+eventsText:
+newsText:
+carouselFooter:
+pageFooter:
 ---
 
 <div class="header-carousel">
@@ -64,8 +68,26 @@ metaDescription: Sedos - The City of London's premier amateur theatre company
     </div>
 </div>
 
+@if(!String.IsNullOrWhiteSpace(Model.Get("pageFooter", "")))
+{
+    <div class="container">
+        <div class="row">
+            <div class="col">
+                @Html.Raw(Model.Get("carouselFooter"))
+            </div>
+        </div>
+    </div>
+}
+
+
 <div class="home-events-section">
     <div class="container">
+        <div class="row">
+            <div class="col-auto mt-3 text-white">
+                @Html.Raw(Model.Get("eventsText"))
+            </div>
+        </div>
+    
         <div class="row">
             <div class="event-card-container d-none d-md-block col-md-3">
                 @{
@@ -116,6 +138,12 @@ metaDescription: Sedos - The City of London's premier amateur theatre company
 <div class="home-news-section">
     <div class="container">
         <div class="row">
+            <div class="col-auto mt-3 text-white">
+                @Html.Raw(Model.Get("newsText"))
+            </div>
+        </div>
+        
+        <div class="row">
             @{
                 var latestNews = Outputs.FromPipeline("News")
                     .OrderByDescending(newsArticle => newsArticle.Get<DateTime>("date"))
@@ -134,3 +162,14 @@ metaDescription: Sedos - The City of London's premier amateur theatre company
         </div>
     </div>
 </div>
+
+@if(!String.IsNullOrWhiteSpace(Model.Get("pageFooter", "")))
+{
+    <div class="container">
+        <div class="row">
+            <div class="col-auto mt-3">
+                @Html.Raw(Model.Get("pageFooter"))
+            </div>
+        </div>
+    </div>
+}

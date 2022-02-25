@@ -27,5 +27,13 @@ namespace Sedos.Extensions
                  .UseExtension<TargetLinkExtension>()
                  .UseExtensions();
         }
+
+        public static IModule MarkdownRenderer(string metadataKey)
+        {
+            return new RenderMarkdown(metadataKey)
+                 .UseExtension<Markdig.Extensions.Bootstrap.BootstrapExtension>()
+                 .UseExtension<TargetLinkExtension>()
+                 .UseExtensions();
+        }
     }
 }
