@@ -3,7 +3,7 @@ title: American Idiot
 year: "2022"
 authors: "Book and Lyrics by BILLIE JOE ARMSTRONG "
 authors2: Book by MICHAEL MAYER
-authors3: Music and Lyrics by GREEN DAY
+authors3: Music by GREEN DAY
 subtitle: An energy-fuelled rock musical based on the Grammy Award-winning album
 showtimes:
   - time: 2022-05-04 20:00
