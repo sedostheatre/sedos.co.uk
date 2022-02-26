@@ -25,7 +25,7 @@ additional-ticket-info: "Gala night: Friday 6 May and Friday 13 May - tickets
 primary-color: "#ce181e"
 header-image: /assets/american_idiot_4c_border.jpg
 header-image-contain: true
-flyer: /assets/american-idiot-holderposter-v2.jpg
+flyer: /assets/ai-a5.jpg
 box-office-open: true
 box-office-link: https://sedos.ticketsolve.com/shows/1173618308
 sections:
