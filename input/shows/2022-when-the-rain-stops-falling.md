@@ -41,11 +41,14 @@ sections:
       **DIRECTOR** | Helena Bumpus\
       **ASSISTANT DIRECTOR** | Lloyd Smith \
       **PRODUCER** | Adam Coppard\
-      **MOVEMENT** | Kim Barker \
-      **LIGHTING** | Olly Levett\
-      **SOUND** | Adam Lockett\
-      **COSTUMES** | Wing-Ho Lin\
-      **MARKETING** | Stephen Beeny\
+      **MOVEMENT** **DIRECTOR** | Kim Barker \
+      **LIGHTING DESIGNER** | Olly Levett\
+      **SOUND** **DESIGNER and ORIGINAL MUISC** | Adam Lockett\
+      **COSTUME DESIGNER** | Wing-Ho Lin\
+      **SET CONSTRUCTION** | Andrew Laidlaw\
+      **MARKETING and PROGRAMME**  | Stephen Beeny\
+      **REHEARSAL PHOTOGRAPHY and HEADSHOTS** | David Ovenden\
+      **PRODUCTION PHOTOGRAPHY** | Stephen Russell\
       **COMMITTEE LIAISON** | Matt Gould
   - order: 2
     title: GALLERY
