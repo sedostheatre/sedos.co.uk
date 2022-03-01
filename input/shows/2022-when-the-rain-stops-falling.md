@@ -43,7 +43,7 @@ sections:
       **PRODUCER** | Adam Coppard\
       **MOVEMENT** **DIRECTOR** | Kim Barker \
       **LIGHTING DESIGNER** | Olly Levett\
-      **SOUND** **DESIGNER and ORIGINAM MUISC** | Adam Lockett\
+      **SOUND** **DESIGNER and ORIGINAL MUISC** | Adam Lockett\
       **COSTUME DESIGNER** | Wing-Ho Lin\
       **SET CONSTRUCTION** | Andrew Laidlaw\
       **MARKETING and PROGRAMME**  | Stephen Beeny\
