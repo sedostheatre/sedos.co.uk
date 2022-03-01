@@ -139,7 +139,7 @@ collections:
         widget: list
         required: false
       - name: metaDescription
-        width: string
+        widget: string
         required: false
   - name: news
     label: News
@@ -174,7 +174,7 @@ collections:
         widget: list
         required: false
       - name: metaDescription
-        width: string
+        widget: string
         required: false
   - name: events
     label: Events
@@ -214,7 +214,7 @@ collections:
         name: body
         widget: markdown
       - name: metaDescription
-        width: string
+        widget: string
         required: false
   - name: regular-events
     label: Regular events
@@ -527,3 +527,21 @@ collections:
             description: Pages on the old site to redirect from
             widget: list
             required: false
+
+      - label: "Index"
+        name: "index"
+        file: "theme/index.cshtml"
+        fields:
+          - {label: title, name: title, widget: string}
+          - {label: floatNav, name: float-nav, widget: hidden}
+          - {label: Details, name: body, widget: hidden}
+          - {name: metaDescription, widget: string, required: false}
+          - name: RedirectFrom
+            label: Redirect From
+            description: Pages on the old site to redirect from
+            widget: list
+            required: false
+          - {name: carouselFooter, widget: markdown, required: false}
+          - {name: eventsText, widget: markdown, required: false}
+          - {name: newsText, widget: markdown, required: false}
+          - {name: pageFooter, widget: markdown, required: false}
