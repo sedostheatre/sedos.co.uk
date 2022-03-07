@@ -530,7 +530,7 @@ collections:
 
       - label: "Home"
         name: "index"
-        file: "theme/index.cshtml"
+        file: "input/index.md"
         fields:
           - {label: title, name: title, widget: string}
           - {label: floatNav, name: float-nav, widget: hidden}

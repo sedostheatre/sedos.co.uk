@@ -20,7 +20,7 @@ namespace Sedos.Pipelines
 
             InputModules = new ModuleList
             {
-                new ReadFiles("index.cshtml"),
+                new ReadFiles("index.md"),
             };
 
             ProcessModules = new ModuleList
@@ -30,7 +30,8 @@ namespace Sedos.Pipelines
                 MarkdownExtensions.MarkdownRenderer("newsText"),
                 MarkdownExtensions.MarkdownRenderer("carouselFooter"),
                 MarkdownExtensions.MarkdownRenderer("pageFooter"),
-                new RenderRazor(),
+                new RenderRazor()
+                    .WithViewStart("Layout/_IndexViewStart.cshtml"),
                 new SetDestination(".html"),
             };
 

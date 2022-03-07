@@ -21,7 +21,7 @@ namespace Sedos.Pipelines
 
             InputModules = new ModuleList
             {
-                new ReadFiles("*.md", "groups/*.md")
+                new ReadFiles("{*,!index}.md", "groups/*.md")
             };
 
             ProcessModules = new ModuleList
