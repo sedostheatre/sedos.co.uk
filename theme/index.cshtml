@@ -1,0 +1,175 @@
+---
+float-nav: true
+title: Sedos
+RedirectFrom:
+ - index.htm
+metaDescription: Sedos - The City of London's premier amateur theatre company
+eventsText:
+newsText:
+carouselFooter:
+pageFooter:
+---
+
+<div class="header-carousel">
+    <div class="carousel slide" data-ride="carousel" id="hero-carousel">
+        @{
+            var upcomingShows = Outputs.FromPipeline("AllShows")
+                    .Where(doc => doc.Get("showtimes", Enumerable.Empty<IDocument>()).Any(time => time.Get<DateTime>("time") > DateTime.Now))
+                    .OrderBy(doc => doc.Get<IEnumerable<IDocument>>("showtimes").Select(time => time.Get<DateTime>("time")).First(time => time > DateTime.Now))
+                    .Take(4);
+
+            var showOnHomePageShows = Outputs.FromPipeline("AllShows")
+                    .Where(doc => !doc.Get("showtimes", Enumerable.Empty<IDocument>()).Any(time => time.Get<DateTime>("time") > DateTime.Now))
+                    .Where(doc => doc.Get("show-on-homepage", false))
+                    .OrderBy(doc => doc.Get("order-on-homepage", 1))
+                    .Take(3);
+
+            var showsToDisplay = upcomingShows.Concat(showOnHomePageShows);
+
+            if (showsToDisplay.Count() > 1)
+            {
+                <ul class="carousel-indicators list-inline">
+                    @{
+                        foreach (var show in showsToDisplay.Select((value, i) => new { Image = Context.GetLink(value.Get<string>("header-image")), Index = i, ContainImage = value.Get("header-image-contain", false) }))
+                        {
+                            <li data-target="#hero-carousel" data-slide-to="@show.Index" class="@(show.Index==0?"active":"") list-inline-item">
+                                <div class="hero-indicator-image @(show.ContainImage ? "contain-image" : "")" style="background-image: url(@show.Image)"></div>
+                            </li>
+                        }
+                    }
+                </ul>
+            }
+            <div class="carousel-inner @(showsToDisplay.Count() > 1 ? "has-indicators" : "")" role="listbox">
+                @{
+                    foreach (var show in showsToDisplay.Take(1))
+                    {
+                        <div class="home-page-show-carousel-item carousel-item active">
+                            @Html.Partial("Partials/_HomePageShowHeader", show)
+                        </div>
+                    }
+
+                    foreach (var show in showsToDisplay.Skip(1))
+                    {
+                        <div class="home-page-show-carousel-item carousel-item">
+                            @Html.Partial("Partials/_HomePageShowHeader", show)
+                        </div>
+                    }
+                }
+            </div>
+            <a class="carousel-control-prev" href="#hero-carousel" role="button" data-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="sr-only">Previous</span>
+            </a>
+            <a class="carousel-control-next" href="#hero-carousel" role="button" data-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="sr-only">Next</span>
+            </a>
+        }
+    </div>
+</div>
+
+@if(!String.IsNullOrWhiteSpace(Model.Get("pageFooter", "")))
+{
+    <div class="container">
+        <div class="row">
+            <div class="col">
+                @Html.Raw(Model.Get("carouselFooter"))
+            </div>
+        </div>
+    </div>
+}
+
+
+<div class="home-events-section">
+    <div class="container">
+        <div class="row">
+            <div class="col-auto mt-3 text-white">
+                @Html.Raw(Model.Get("eventsText"))
+            </div>
+        </div>
+    
+        <div class="row">
+            <div class="event-card-container d-none d-md-block col-md-3">
+                @{
+                    foreach (var eventItem in Outputs.FromPipeline("RegularEvents").OrderBy(i => i["title"]).Take(3))
+                    {
+                        <div class="card mb-3 border-0 regular-event-card">
+                            <a href="@Context.GetLink(eventItem)">
+                                <div class="card-header">
+                                    <h4 class="card-title text-white">@eventItem["title"]</h4>
+                                    <div class="card-text text-light"><small>@eventItem.Get("recurrence", "")</small></div>
+                                </div>
+                            </a>
+                        </div>
+                    }
+                }
+            </div>
+            @{
+                foreach (var eventItem in Outputs.FromPipeline("UpcomingEvents").Take(3))
+                {
+                    Html.RenderPartial("Partials/_EventCard", @eventItem);
+                }
+            }
+
+            <div class="event-card-container d-block d-md-none col-md-3">
+                @{
+                    foreach (var eventItem in Outputs.FromPipeline("RegularEvents").OrderBy(i => i["title"]).Take(3))
+                    {
+                        <div class="card mb-3 border-0 regular-event-card">
+                            <a href="@Context.GetLink(eventItem)">
+                                <div class="card-header">
+                                    <h4 class="card-title text-white">@eventItem["title"]</h4>
+                                    <div class="card-text text-light"><small>@eventItem.Get("recurrence", "")</small></div>
+                                </div>
+                            </a>
+                        </div>
+                    }
+                }
+            </div>
+        </div>
+        <div class="row justify-content-center">
+            <div class="col-auto mt-3">
+                <a class="text-white" href="@Context.GetLink("/get-involved")">View all events</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="home-news-section">
+    <div class="container">
+        <div class="row">
+            <div class="col-auto mt-3 text-white">
+                @Html.Raw(Model.Get("newsText"))
+            </div>
+        </div>
+        
+        <div class="row">
+            @{
+                var latestNews = Outputs.FromPipeline("News")
+                    .OrderByDescending(newsArticle => newsArticle.Get<DateTime>("date"))
+                    .ThenBy(newsArticle => newsArticle.Get<String>("title"))
+                    .Take(4);
+                foreach (var article in latestNews)
+                {
+                    Html.RenderPartial("Partials/_NewsCard", @article);
+                }
+            }
+        </div>
+        <div class="row justify-content-center">
+            <div class="col-auto mt-3">
+                <a class="text-white" href="@Context.GetLink("/news")">View all news</a>
+            </div>
+        </div>
+    </div>
+</div>
+
+@if(!String.IsNullOrWhiteSpace(Model.Get("pageFooter", "")))
+{
+    <div class="container">
+        <div class="row">
+            <div class="col-auto mt-3">
+                @Html.Raw(Model.Get("pageFooter"))
+            </div>
+        </div>
+    </div>
+}
