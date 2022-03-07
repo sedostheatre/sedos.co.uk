@@ -29,8 +29,7 @@
             }
             else
             {
-                var times = Model.Get("times", Enumerable.Empty<IDocument>())
-                                .Select(time => time.Get<DateTime>("time"));
+                var times = Model.Get("times", Enumerable.Empty<DateTime>());
                 if(times.Any())
                 {
                     <ul>
