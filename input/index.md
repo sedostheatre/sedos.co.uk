@@ -1,11 +1,11 @@
 ---
-float-nav: true
 title: Sedos
-RedirectFrom:
- - index.htm
+float-nav: true
 metaDescription: Sedos - The City of London's premier amateur theatre company
-eventsText:
-newsText:
-carouselFooter:
-pageFooter:
+RedirectFrom:
+  - index.htm
+carouselFooter: Test
+eventsText: null
+newsText: null
+pageFooter: null
 ---
