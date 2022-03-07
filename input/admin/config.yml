@@ -161,6 +161,10 @@ collections:
         label: Image (used on the home page/all news for the card tile)
         widget: image
         required: false
+      - name: imageAlt
+        label: Image alt text
+        widget: string
+        required: false
       - name: extract
         label: Extract (used on the home page/all news page, if an image isn't set)
         widget: string
@@ -198,6 +202,10 @@ collections:
       - name: image
         label: Featured Image
         widget: image
+      - name: imageAlt
+        label: Image alt text
+        widget: string
+        required: false
       - name: venue
         label: Venue
         widget: string

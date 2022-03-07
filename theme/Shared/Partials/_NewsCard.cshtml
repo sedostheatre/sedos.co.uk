@@ -8,8 +8,8 @@
             </div>
             @if(Model.ContainsKey("image") && Model["image"] != null)
             {
-                <div class="card-img-top"
-                    style="background-image: url(@Context.GetLink((IDocument)Model["image"]))">
+                <div class="card-img-top">
+                    <img src="@Context.GetLink((IDocument)Model["image"])" alt="@Model.Get("imageAlt", Model.Get<string>("title"))">
                 </div>
             }
             else
