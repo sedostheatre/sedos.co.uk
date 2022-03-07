@@ -1,0 +1,38 @@
+@{
+    Layout = "_Default";
+    IgnoreBody();
+}
+
+@model IDocument
+
+<div class="page-wrapper bg-light">
+    @{Html.RenderPartial("Partials/_HeaderImage");}
+
+    @{
+        var events = Outputs.FromPipeline("Events")
+            .Where(e => e.Get("times", Enumerable.Empty<DateTime>()).Any())
+            .OrderByDescending(e => e.Get("times", Enumerable.Empty<DateTime>()).OrderByDescending(t => t).First())
+            .ThenBy(e => e.Get<String>("title"))
+            .GroupBy(e =>  e.Get("times", Enumerable.Empty<DateTime>()).OrderByDescending(t => t).First().Year)
+            .OrderByDescending(grouping => grouping.Key);
+
+        @foreach(var grouping in events)
+        {
+            <div class="banner">
+                <div class="container">
+                    <h1>@grouping.Key</h1>
+                </div>
+            </div>
+            <div class="events-section">
+                <div class="container">
+                    <div class="row">
+                        @foreach(var e in grouping)
+                        {
+                            Html.RenderPartial("Partials/_EventCard", @e);
+                        }
+                    </div>
+                </div>
+            </div>
+        }
+    }
+</div>

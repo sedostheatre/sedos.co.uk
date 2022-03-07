@@ -15,9 +15,8 @@ namespace Sedos.Pipelines
             ProcessModules = new ModuleList
             {
                 new ReplaceDocuments(nameof(Events)),
-                new FilterDocuments(Config.FromDocument((doc, ctx) => doc.Get("times", Enumerable.Empty<IDocument>()).Any(time => time.Get<DateTime>("time") > DateTime.Now))),
-                new OrderDocuments(Config.FromDocument((doc, ctx) => doc.Get("times", Enumerable.Empty<IDocument>())
-                        .Select(time => time.Get<DateTime>("time"))
+                new FilterDocuments(Config.FromDocument((doc, ctx) => doc.Get("times", Enumerable.Empty<DateTime>()).Any(time => time > DateTime.Now))),
+                new OrderDocuments(Config.FromDocument((doc, ctx) => doc.Get("times", Enumerable.Empty<DateTime>())
                         .First(time => time > DateTime.Now)))
             };
         }
