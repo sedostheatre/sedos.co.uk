@@ -3,7 +3,7 @@ title: Sedance
 image: /assets/48781446996_06330de23a_b.jpg
 header-image: /assets/48781446996_06330de23a_b.jpg
 venue: ""
-recurrence: Mondays, 7pm for a 7.15pm start
+recurrence: Wednesdays, 7.30-9pm
 RedirectFrom:
   - sedance.htm
 metaDescription: Sedance is Sedos’ Monday evening dance class, where you can run
