@@ -6,7 +6,7 @@ metaDescription: The Sedos marketing group and the experts involved in looking
   after our website are currently engaged in two projects to improve our general
   marketing of the society.
 ---
-*19 February 2022*
+*19 February 2022 test*
 
 **The Sedos marketing group and the experts involved in looking after our website are currently engaged in two projects to improve our general marketing of the society.**
 
