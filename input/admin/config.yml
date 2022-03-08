@@ -471,7 +471,6 @@ collections:
             description: Pages on the old site to redirect from
             widget: list
             required: false
-          - {label: "Meta Title", name: metaTitle, widget: string, required: false}
           - name: metaDescription
             width: string
             required: false
@@ -490,7 +489,6 @@ collections:
             description: Pages on the old site to redirect from
             widget: list
             required: false
-          - {label: "Meta Title", name: metaTitle, widget: string, required: false}
           - name: metaDescription
             width: string
             required: false
