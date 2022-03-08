@@ -10,13 +10,13 @@ metaDescription: Sedance is Sedos’ Monday evening dance class, where you can r
   through a warm-up and then learn a routine with frequent Sedos choreographer
   Tom Leonard or a guest choreographer
 ---
-**Sedance is Sedos’ weekly dance class, running every Monday night, 7pm for a 7.15pm start.**
+**Sedance is Sedos’ weekly dance class, running every Wednesday night, 7.30-9pm.** 
 
-Classes take place at David Game College, 31 Jewry Street, EC3N 2ET
+Classes take place at Central School of Ballet in Southwark (SE1 8DJ)
 
-[Join the Sedance Facebook page](https://www.facebook.com/groups/328763023951811/) to find out the latest updates, including current Covid protocols for attendance. 
+[Join the Sedance Facebook page](https://www.facebook.com/groups/328763023951811/) to find out the latest updates.
 
-What better way to get in shape, improve your technique or simply enjoy the buzz of dancing? (And it's a great excuse for a cheeky pop to the local hostelry on a Monday evening to catch up with what's going on in Sedos!)
+What better way to get in shape, improve your technique or simply enjoy the buzz of dancing? (And it's a great excuse for a cheeky pop to the local hostelry on a Wednesday evening to catch up with what's going on in Sedos!)
 
 The class is for everyone, so whether you're an experienced dancer, or you've never danced before, you're more than welcome.
 
