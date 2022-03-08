@@ -1,6 +1,6 @@
 ---
 title: The Bridewell Theatre
-DocumentTitle: Bridewell Theatre | Sedos is the resident theatre company at this
+metaTitle: Bridewell Theatre | Sedos is the resident theatre company at this
   central London venue
 metaDescription: Sedos has been the resident company at the Bridewell Theatre
   since 2012, performing most of its London season at the venue

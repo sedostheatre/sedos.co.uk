@@ -1,6 +1,6 @@
 ---
 title: What’s on
-DocumentTitle: London plays and London musicals with Sedos
+metaTitle: London plays and London musicals with Sedos
 category: whats-on
 view-start: Layout/_WhatsOnViewStart.cshtml
 RedirectFrom:

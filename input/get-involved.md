@@ -1,6 +1,6 @@
 ---
 title: Auditions, workshops and socials
-DocumentTitle: London auditions, socials, dance classes and more with Sedos
+metaTitle: London auditions, socials, dance classes and more with Sedos
 category: get-involved
 view-start: Layout/_GetInvolvedViewStart.cshtml
 groups:
