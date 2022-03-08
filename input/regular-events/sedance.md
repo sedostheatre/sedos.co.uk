@@ -10,9 +10,9 @@ metaDescription: Sedance is Sedos’ Monday evening dance class, where you can r
   through a warm-up and then learn a routine with frequent Sedos choreographer
   Tom Leonard or a guest choreographer
 ---
-**Sedance is Sedos’ weekly dance class, running every Wednesday night, from 7.30-9pm.**
+**Sedance is Sedos’ weekly dance class, running every Wednesday night, 7.30-9pm.** 
 
-Classes take place at Central School of Ballet in Southwark, SE1 8DJ
+Classes take place at Central School of Ballet in Southwark (SE1 8DJ)
 
 [Join the Sedance Facebook page](https://www.facebook.com/groups/328763023951811/) to find out the latest updates.
 
