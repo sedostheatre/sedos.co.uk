@@ -9,7 +9,7 @@ carouselFooter: >-
   for excellence and creativity in our productions for over 100 years.
 
 
-  We are a busy and energetic London amateur theatre group, staging seven to 10 musicals and plays each year and offering open auditions for all our shows.
+  We are a busy and energetic London amateur theatre group, staging [seven to 10 musicals and plays each year](https://sedos.co.uk/whats-on) and offering open [auditions](https://sedos.co.uk/get-involved) for all our shows.
 eventsText: >-
   ### Get involved in London amateur theatre
 
