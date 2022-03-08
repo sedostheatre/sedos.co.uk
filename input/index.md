@@ -4,12 +4,11 @@ float-nav: true
 metaDescription: Sedos | London amateur theatre company
 RedirectFrom:
   - index.htm
-carouselFooter: >-
-  Sedos is an ambitious, vibrant and inclusive London theatre society, striving
-  for excellence and creativity in our productions for over 100 years.
-
-
-  We are a busy and energetic London amateur theatre group, staging [seven to 10 musicals and plays each year](https://sedos.co.uk/whats-on) and offering open [auditions](https://sedos.co.uk/get-involved) for all our shows.
+carouselFooter: Sedos is an ambitious, vibrant and inclusive London theatre
+  society, striving for excellence and creativity in our productions for over
+  100 years. As a busy and energetic London amateur theatre group, we stage
+  [seven to 10 musicals and plays each year](https://sedos.co.uk/whats-on) and
+  offer open [auditions](https://sedos.co.uk/get-involved) for all our shows.
 eventsText: >-
   ### Get involved in London amateur theatre
 
