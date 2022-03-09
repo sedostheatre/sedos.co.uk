@@ -6,9 +6,9 @@ venue: ""
 recurrence: Wednesdays, 7.30-9pm
 RedirectFrom:
   - sedance.htm
-metaDescription: Sedance is Sedos’ Monday evening dance class, where you can run
-  through a warm-up and then learn a routine with frequent Sedos choreographer
-  Tom Leonard or a guest choreographer
+metaDescription: Sedance is Sedos’ Wednesday evening dance class, where you can
+  run through a warm-up and then learn a routine with frequent Sedos
+  choreographer Tom Leonard or a guest choreographer
 ---
 **Sedance is Sedos’ weekly dance class, running every Wednesday night, 7.30-9pm.** 
 
