@@ -1,5 +1,5 @@
 ---
-title: All events
-view-start: Layout/_AllEventsViewStart.cshtml
+title: Past events
+view-start: Layout/_PastEventsViewStart.cshtml
 header-image: assets/images/headers/SedosWebsite-Banner-Seats-flaton.jpg
 ---
