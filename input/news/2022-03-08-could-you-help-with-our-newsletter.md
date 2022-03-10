@@ -3,6 +3,7 @@ title: Could you help with our newsletter?
 date: 2022-03-08
 image: /assets/newsletter.jpg
 imageAlt: Sedos newsletter
+metaTitle: "Sedos newsletter: could you spare 30 minutes a week to help us?"
 metaDescription: We are looking for someone to build the Sedos newsletter each
   week – could you help? Find out more about what’s involved
 ---
@@ -27,3 +28,5 @@ It is a vital channel for us to keep in touch with our members and wider communi
 The newsletter includes information about upcoming shows, auditions, other Sedos events such as workshops and socials, the annual show pitch process, call-outs for team members for productions and help at get-ins and much more.
 
 We’ve had a regular Friday newsletter for some years, but the current newsletter format dates to November 2020. The newsletter was [redesigned that autumn](https://sedos.co.uk/news/2020-11-05-sedos-launches-revamped-newsletter) to give it a fresh new look which ties in with the website, which was [relaunched in June of the same year.](https://sedos.co.uk/news/2020-06-02-sedos-launches-new-website)
+
+[Sign up to receive our newsletter](https://mailchi.mp/sedos.co.uk/newsletter-sign-up)
