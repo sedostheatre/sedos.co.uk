@@ -12,7 +12,7 @@ key: bridewell
 Most of our [London musicals](https://sedos.co.uk/whats-on) and [London plays](https://sedos.co.uk/whats-on) take place at the Bridewell Theatre, where we are the resident theatre company. Our next shows at the Bridewell are *[The Mystery of Edwin Drood](https://sedos.co.uk/shows/2022-the-mystery-of-edwin-drood)* (22-26 March 2022) and *[American Idiot](https://sedos.co.uk/shows/2022-american-idiot)* (4-14 May 2022). 
 
 * #### [Sedos shows: what’s on at the Bridewell Theatre?](https://sedos.co.uk/whats-on)
-* #### [Buy tickets to our shows at the Bridewell](https://sedos.ticketsolve.com/shows)
+* #### [Buy tickets to our shows at the Bridewell Theatre](https://sedos.ticketsolve.com/shows)
 
 The Bridewell Theatre opened in 1994, breathing new life and purpose into a long derelict Victorian swimming pool. Currently it is a “receiving house” — just about anyone can hire the facilities and put on a show here.
 
