@@ -52,6 +52,7 @@ sections:
       **LIGHTING DESIGN** | Shiri Stern\
       **SOUND DESIGN** | Henry Whittaker\
       **COSTUME DESIGN** | Frederica Byron
+metaTitle: The Mystery of Edwin Drood plays at the Bridewell Theatre from 22-26 March 2022
 metaDescription: The Mystery of Edwin Drood, part of Sedos’ 2022 London season,
   plays at the Bridewell Theatre from 22-26 March 2022. The show is a hilarious
   musical whodunnit based on Charles Dickens’ unfinished novel
