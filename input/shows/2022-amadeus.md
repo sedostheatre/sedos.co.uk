@@ -38,6 +38,7 @@ sections:
       **PROPS** | Shiri Stern\
       **MARKETING** | Stephen Beeny\
       **PHOTOGRAPHER** | David Ovenden
+metaTitle: Amadeus plays at the Bridewell Theatre from 23 November-3 December 2022
 metaDescription: Amadeus, part of Sedos’ 2022 London season, plays at the
   Bridewell Theatre from 23 November-3 December 2022. Genius, jealousy and
   revenge mingle in Peter Shaffer’s great play
