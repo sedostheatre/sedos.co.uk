@@ -3,6 +3,7 @@ title: Could you help with our newsletter?
 date: 2022-03-08
 image: /assets/newsletter.jpg
 imageAlt: Sedos newsletter
+metaTitle: "Sedos newsletter: could you spare 30 minutes a week to help us?"
 metaDescription: We are looking for someone to build the Sedos newsletter each
   week – could you help? Find out more about what’s involved
 ---
