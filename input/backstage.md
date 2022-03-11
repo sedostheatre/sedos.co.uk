@@ -3,7 +3,7 @@ title: Help backstage
 ---
 **Shows can only take place as a result of lots of work from production teams and we are always keen to hear from anyone who is interested in getting involved.**
 
-There are lots of different ways to be part of the production side of putting on shows, from designing and creating set, costumes, props and make-up, to being a sound or lighting designer or operator to taking on the producer or stage manager role.
+There are lots of different ways to be part of the production side of putting on shows, from designing and creating set, costumes, props and make-up, to being a sound or lighting designer or operator to taking on the producer or stage manager role. 
 
 There are jobs for everyone whether you want to be involved for the whole production period or just to lend a hand for a few hours of painting or loading a van at a get-in.
 
