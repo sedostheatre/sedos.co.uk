@@ -9,7 +9,7 @@ metaDescription: We are looking for someone to build the Sedos newsletter each
 ---
 *8 March 2022*
 
-**We are looking for someone to take over creating the Sedos newsletter each week from April, for approximately six months.**
+**We are looking for someone to take over creating the Sedos newsletter each week from April, for approximately seven months.**
 
 The stories for the newsletter are all sent in by the end of Wednesday each week and the newsletter is put together on Thursday, ready for checking and sending out on Friday.
 
