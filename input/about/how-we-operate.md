@@ -37,7 +37,6 @@ Dan Saunders \
 Michael Smith\
 Robert J Stanex
 
-
 \
 [Minutes of trustees’ meetings can be found here](https://www.dropbox.com/sh/pz59ex3iwl1dvtu/AABG_C87fxRnti2LwMAJe_gga?dl=0)
 
@@ -62,6 +61,7 @@ The management committee meets monthly.
 **Treasurer** | Henry Whittaker\
 **Marketing group** | Stephen Beeny \
 **Production group** | Adam Coppard\
+Karen Braganza \
 Peter Foster\
 Tim Garrad\
 Kate Gledhill\
