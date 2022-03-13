@@ -22,6 +22,9 @@ RedirectFrom:
 >Sedos’ production does a wonderful job leading us through the puzzle, ensuring the experience treads the right line of mystery without confusion… Of particular note is the immense production value of this ‘amateur’ show. The borderless set supports well the fluidity of the piece as it drifts across time and space. The lighting is inventive and atmospheric, accenting the narrative structure with flickering lights as we cross a boundary into a different storyline and providing starry nights in the Australian outback. Music is used deftly throughout the piece, binding the different worlds with a perpetual stormy underscore and swelling cinematically at key moments. These all came together well to elevate the show into the relatively cavernous space at the Bridewell… this was a solid production of a challenging play. 
 ><footer><cite><a target="_blank" href="https://everything-theatre.co.uk/2022/02/review-when-the-rain-stops-falling-bridewell-theatre.html">When the Rain Stops Falling, 2022, Everything Theatre</a></cite></footer>
 
+>Transitions between scenes, and discipline with regards to the movement of characters in and out of their parts is highly commendable, which is directed by Kimberly Barker, along with the lighting use that faultlessly works in conjunction with this. To imitate snow or stars, and with other appearances throughout, lighting designer, Olly Levett, does a lovely job with navigating these. The thunder and lightning that accompany the constant rainfall is a fitting addition too.
+><footer><cite><a target="_blank" href="https://www.watchthatscene.com/post/when-the-rain-stops-falling-play-review">When the Rain Stops Falling, 2022, Watch That Scene</a></cite></footer>
+
 # 2021
 
 ## *Dirty Rotten Scoundrels*
