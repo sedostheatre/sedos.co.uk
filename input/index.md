@@ -29,7 +29,7 @@ pageFooter: >-
   We hold open [London auditions](https://sedos.co.uk/get-involved) for all our shows so both members and non-members can put themselves forward for roles. Additionally we have a thriving community of people who work behind the scenes on our productions in a wide variety of roles. 
 
 
-  Sedos is proud to be a a founder member of [London Drama Societies](https://www.londondramasocieties.co.uk), which commits each member society to the following statement:
+  Sedos is proud to be a founder member of [London Drama Societies](https://www.londondramasocieties.co.uk), which commits each member society to the following statement:
 
 
   “Collectively, we commit to take constant steps to be more inclusive and attract members and audiences reflecting London’s diversity.
