@@ -9,6 +9,16 @@ RedirectFrom:
 ---
 ## Sedos reviews
 
+# 2022
+
+## *When the Rain Stops Falling*
+
+^^^ ![Dress rehearsal photo of Sedos’ 2022 production of When the Rain Stops Falling](/assets/51897470424_fbc079ff6d_c.jpg)
+^^^ When the Rain Stops Falling
+
+>Sedos have once again managed to gather a group of talented performers who embrace the challenges of this complex narrative where younger and older versions of the same character share the acting space… this is an ensemble piece, with all cast on stage at all times. Their seamless joining up of the scenes as they move through time and space is brilliantly executed and allows the audience to follow the complexity of the plot with ease… The multifunctional set with hanging window, large oval table and useful blocks either side of the stage, provide the perfect vehicle to allow the scenes to flow seamlessly between past and present. The beautifully choreographed opening when the cast move from the gallery, armed with umbrellas and coats that are deposited on a hat stand, the simplicity of the costumes which suit the period and keep the audience aware as the scenes move through time, all worked together to help create a show that totally engages the audience… It is the sound and lighting, however, that really draw together the different threads and keep us aware of the fact that this is a play whose themes resonate through the generations… Bovell’s play is not for the faint hearted and it is to the credit of the performers, director Helena Bumpus and assistant director, Lloyd Smith, that by the end of the production, as all the characters gather together, the loose ends have been woven in and we see the complete picture
+><footer><cite><a target="_blank" href="https://www.sardinesmagazine.co.uk/review/when-the-rain-stops-falling/">When the Rain Stops Falling, 2022, Sardines</a></cite></footer>
+
 # 2021
 
 ## *Dirty Rotten Scoundrels*
