@@ -9,7 +9,7 @@ metaDescription: Sedos’s popular dance class, Sedance, is moving to the Centra
 ---
 *14 March 2022*
 
-**We are really excited to announce that going forward, Sedance will be taking place on Wednesdays from 16 th March 2022 at the Central School of Ballet, 21-22 Hatfields, Paris Garden, London, SE1 8DJ.**
+**We are really excited to announce that going forward, [Sedance](https://sedos.co.uk/regular-events/sedance) will be taking place on Wednesdays from 16 th March 2022 at the Central School of Ballet, 21-22 Hatfields, Paris Garden, London, SE1 8DJ.**
 
 The class will take place in the “Weston” studio on level minus 2. 
 
