@@ -2,7 +2,7 @@
 title: Sedance
 image: /assets/48781446996_06330de23a_b.jpg
 header-image: /assets/48781446996_06330de23a_b.jpg
-venue: ""
+venue: Central School of Ballet
 recurrence: Wednesdays, 7.30-9pm
 RedirectFrom:
   - sedance.htm
@@ -12,7 +12,9 @@ metaDescription: Sedance is Sedos’ Wednesday evening dance class, where you ca
 ---
 **Sedance is Sedos’ weekly dance class, running every Wednesday night, 7.30-9pm.** 
 
-Classes take place at Central School of Ballet in Southwark (SE1 8DJ)
+Classes take place at Central School of Ballet, 21-22 Hatfields, Paris Garden, London, SE1 8DJ 
+
+The class will take place in the “Weston” studio on level minus 2. Access to the changing rooms on level minus 1 is possible before class so please be ready to go at 7.30pm.
 
 [Join the Sedance Facebook page](https://www.facebook.com/groups/328763023951811/) to find out the latest updates.
 
