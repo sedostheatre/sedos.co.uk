@@ -10,7 +10,7 @@ metaTitle: "London dance class: Sedance is a Wednesday evening class "
 metaDescription: Sedance is a London dance class held on a Wednesday evening and
   run by theatre company Sedos
 ---
-**Sedance is Sedos’ weekly dance class, running every Wednesday night, 7.30-9pm.** 
+**Sedance is Sedos’ London dance class, running every Wednesday night, 7.30-9pm.** 
 
 Classes take place at Central School of Ballet, 21-22 Hatfields, Paris Garden, London, SE1 8DJ 
 
@@ -20,7 +20,7 @@ The class will take place in the “Weston” studio on level minus 2. Access to
 
 What better way to get in shape, improve your technique or simply enjoy the buzz of dancing? (And it's a great excuse for a cheeky pop to the local hostelry on a Wednesday evening to catch up with what's going on in Sedos!)
 
-The class is for everyone, so whether you're an experienced dancer, or you've never danced before, you're more than welcome.
+This London dance class is for everyone, so whether you're an experienced dancer, or you've never danced before, you're more than welcome.
 
 The class consists of a 50-minute warm-up, including stretches and technical work, and around 50 minutes of learning a routine, with each routine repeated for three weeks. The warm-up is set so you will learn it and build on your technique, flexibility, strength and posture at your own pace. The routines vary in style from jazz, musical theatre through to lyrical. You can join the class at any time (we teach the routine from the beginning each week) and you do not need to sign up in advance.
 
@@ -52,5 +52,5 @@ Drop-in price - £8 per class
 
 *We look forward to seeing you there!*
 
-^^^ ![Rehearsals for Sedos’ 2019 original dance adaptation, Dangerous Liaisons, which featured many regulars at Sedance, Sedos’ London dance class](/assets/48781085673_2a459c1bb7_c.jpg)
+^^^ ![Rehearsals for Sedos’ 2019 original dance adaptation, Dangerous Liaisons, which featured many regulars from Sedance, Sedos’ London dance class](/assets/48781085673_2a459c1bb7_c.jpg)
 ^^^ Rehearsals for Sedos’ 2019 original dance adaptation, Dangerous Liaisons
