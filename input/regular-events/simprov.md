@@ -5,6 +5,11 @@ image: /assets/Simprov-BHG-Gang.jpg
 header-image: assets/images/headers/SedosWebsite-Banner-Simprov.jpg
 venue: ""
 recurrence: Fridays at 7pm
+metaTitle: Simprov | London improvisation group associated with amateur theatre
+  company Sedos
+metaDescription: Simprov is the Sedos group that lets members and non-members
+  explore their spontaneous side! We have sessions for all, as well as an
+  auditioned in-house improv troupe
 ---
 **Simprov is the Sedos group that lets members and non-members explore their spontaneous side!**
 
@@ -48,5 +53,5 @@ The Banana Hut Gang are regular attendees at the Simprov drop in, so say hi to J
 
 Follow the [Simprov Facebook page](https://www.facebook.com/groups/176792046058352/) and Sedos newsletters for more details on shows.
 
-^^^ ![](/assets/Simprov-BHG-Gang.jpg)
+^^^ ![The Banana Hut Gang, Sedos’ in-house improv troupe](/assets/Simprov-BHG-Gang.jpg)
 ^^^ The Banana Hut Gang
