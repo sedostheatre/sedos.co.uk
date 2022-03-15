@@ -11,6 +11,7 @@ times:
 image: /assets/48781085673_2a459c1bb7_c.jpg
 venue: Central School of Ballet
 recurrence: Wednesdays 7.30-9pm
+ticket-prices: From £7 per class for Sedos members and £8 per class for non-members
 ---
 **Sedance is Sedos’ weekly dance class, running every Wednesday night, 7.30-9pm.**
 
