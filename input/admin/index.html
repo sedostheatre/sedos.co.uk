@@ -65,7 +65,7 @@
       id: "figure",
       label: "Figure",
       fields: [{name: 'asset', label: 'Image', widget: 'image', required: true}, {name: 'quote', label: 'Quote', widget: 'string', required: false}, {name: 'alt', label: 'Alt text', widget: 'string', required: false}, ],
-      pattern: /^\^\^\^\s*\!\[(\S*)\]\((\S*)\)\n*\^\^\^\s*(.*)$/,
+      pattern: /^\^\^\^\s*\!\[(.*)\]\((\S*)\)\n*\^\^\^\s*(.*)$/,
       fromBlock: function(match) {
         return {
           alt: match[1],
