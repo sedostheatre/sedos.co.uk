@@ -5,13 +5,11 @@ image: /assets/Simprov-BHG-Gang.jpg
 header-image: assets/images/headers/SedosWebsite-Banner-Simprov.jpg
 venue: ""
 recurrence: Fridays at 7pm
-metaTitle: Simprov | London improvisation group associated with amateur theatre
-  company Sedos
-metaDescription: Simprov is the Sedos group that lets members and non-members
-  explore their spontaneous side! We have sessions for all, as well as an
-  auditioned in-house improv troupe
+metaTitle: "London improvisation group: Simprov is run by amateur theatre company Sedos"
+metaDescription: Simprov is a London improvisation group run by theatre company
+  Sedos. We let actors explore their spontaneous side
 ---
-**Simprov is the Sedos group that lets members and non-members explore their spontaneous side!**
+**Looking for a London improvisation group? Simprov is the Sedos group that lets members and non-members explore their spontaneous side!**
 
 If you want to learn improvisation skills and practise them in a fun and supportive way, then the Simprov Drop In is the place for you. We also run regular workshops and courses that lead to public performances.
 
@@ -21,7 +19,7 @@ We also have our very own in-house improv group, The Banana Hut Gang, which was 
 
 Our open-to-all session! Join us every Friday night for an evening of games, learning and a whole heap of fun.
 
-Perfect for the complete beginner as well as the hardened improv veteran, sessions will explore the fundamental principles of improv such as making bold choices, character development and finding your ‘game’.
+Perfect for the complete beginner as well as the hardened improv veteran, sessions with our London improvisation group will explore the fundamental principles of improv such as making bold choices, character development and finding your ‘game’.
 
 Improv is a great way to build confidence and develop performance skills in a very fun and safe environment.
 
@@ -53,5 +51,5 @@ The Banana Hut Gang are regular attendees at the Simprov drop in, so say hi to J
 
 Follow the [Simprov Facebook page](https://www.facebook.com/groups/176792046058352/) and Sedos newsletters for more details on shows.
 
-^^^ ![The Banana Hut Gang, Sedos’ in-house improv troupe](/assets/Simprov-BHG-Gang.jpg)
+^^^ ![The Banana Hut Gang, a London improvisation group run by theatre company Sedos](/assets/Simprov-BHG-Gang.jpg)
 ^^^ The Banana Hut Gang
