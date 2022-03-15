@@ -20,12 +20,11 @@ Perfect for the complete beginner as well as the hardened improv veteran, sessio
 
 Improv is a great way to build confidence and develop performance skills in a very fun and safe environment.
 
-**When:** Fridays\
-**Time:** 7pm\
-**Level:** All!\
-**Cost:** £3 (free for Sedos members)
+The Simprov team plan to return to live sessions in April 2022, probably on Fridays 7-9pm at Theatre Deli (2 Finsbury Avenue, London EC2M 2PF.). The cost will be £5 per person (members or non-members alike).
 
-For more info and to check the season schedule, head to the [Simprov Facebook page.](https://www.facebook.com/groups/176792046058352/)
+In the meantime, we are hosting FREE online sessions on Tuesdays 7:30-9 pm, Zoom meeting ID 867-2997-1832.
+
+For more info, head to the [Simprov Facebook page.](https://www.facebook.com/groups/176792046058352/)
 
 ## **The Banana Hut Gang**
 
