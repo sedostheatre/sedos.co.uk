@@ -14,7 +14,7 @@ recurrence: "Fridays 7-9pm "
 ticket-prices: "£5 per person (members or non-members alike). Free if session
   take place online. "
 ---
-**Simprov is the Sedos group that lets members and non-members explore their spontaneous side!**
+**Looking for a [London improvisation group](https://sedos.co.uk/regular-events/simprov)? Simprov is the Sedos group that lets members and non-members explore their spontaneous side!**
 
 If you want to learn improvisation skills and practise them in a fun and supportive way, then the Simprov Drop In is the place for you. We also run regular workshops and courses that lead to public performances.
 
@@ -24,7 +24,7 @@ We also have our very own in-house improv group, The Banana Hut Gang, which was 
 
 Our open-to-all session! Join us every Friday night for an evening of games, learning and a whole heap of fun.
 
-Perfect for the complete beginner as well as the hardened improv veteran, sessions will explore the fundamental principles of improv such as making bold choices, character development and finding your ‘game’.
+Perfect for the complete beginner as well as the hardened improv veteran, sessions with our London improvisation group will explore the fundamental principles of improv such as making bold choices, character development and finding your ‘game’.
 
 Improv is a great way to build confidence and develop performance skills in a very fun and safe environment.
 
@@ -32,7 +32,7 @@ The Simprov team plan to return to live sessions in April 2022, probably on Frid
 
 In the meantime, we are hosting FREE online sessions on Tuesdays 7:30-9 pm, Zoom meeting ID 867-2997-1832.
 
-For more info, head to the [Simprov Facebook page.](https://www.facebook.com/groups/176792046058352/)
+For more info, head to the [Simprov Facebook page.](https://www.facebook.com/groups/176792046058352/)
 
 ## **The Banana Hut Gang**
 
@@ -54,7 +54,7 @@ The team went to the Edinburgh Fringe Festival in 2019 and sold out every show! 
 
 The Banana Hut Gang are regular attendees at the Simprov drop in, so say hi to James, Alex, Chris, Laura, Jonny, Jess and Sam there!
 
-Follow the [Simprov Facebook page](https://www.facebook.com/groups/176792046058352/) and Sedos newsletters for more details on shows.
+Follow the [Simprov Facebook page](https://www.facebook.com/groups/176792046058352/) and Sedos newsletters for more details on shows.
 
 ^^^ ![](/assets/simprov3-360.jpg)
-^^^ A Simprov session in progress
+^^^ London improvisation group session in progress
