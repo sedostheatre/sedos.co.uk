@@ -1,33 +1,58 @@
 ---
-title: Sedance on Zoom
+title: Sedance
 times:
-  - time: 2021-04-19 16:03
-  - time: 2021-04-26 16:04
-  - time: 2021-05-03 16:04
-  - time: 2021-05-10 16:04
-  - time: 2021-05-17 16:04
-  - time: 2021-05-24 16:04
-  - time: 2021-05-31 16:04
-image: /assets/sedance-square.jpg
-recurrence: Mondays at 7.15pm
+  - time: 2022-03-16 19:30
+  - time: 2022-03-23 19:30
+  - time: 2022-03-30 19:30
+  - time: 2022-04-06 19:30
+  - time: 2022-04-13 19:30
+  - time: 2022-04-20 19:30
+  - time: 2022-04-27 19:30
+image: /assets/48781085673_2a459c1bb7_c.jpg
+venue: Central School of Ballet
+recurrence: Wednesdays 7.30-9pm
 ---
-**Sedance is returning online via Zoom from 5 October 2020!**
+**Sedance is Sedos’ weekly dance class, running every Wednesday night, 7.30-9pm.**
 
-Head over to the Sedance [Facebook group](http://r20.rs6.net/tn.jsp?f=001puMH7aVENS7rdpU_Ngz9kxuFUu7gy8CSGN23cU16fl9aRirRb1jSTZOG6iYQoU80XprP63ZuFZMO-3Ep1ZKhJ-ArXX5_nREDaunZYidXZMJNxablHD1DeJNVB0qvEvc9JeLsXVROFmniZ-lVN88_IFUmrNt0secZiwnu-RE_YYvQW6SnnVQSWlDh86y-QVRIldkHWf012OSPtU6ubxpp_g==&c=dLBcWkVs6bEUg_A4akcPen3gh1IlavylTL_nHGQxDCdrj0Q1ideq8g==&ch=5Rg1R1qWVf7_eczXm0hVAyMbJHffr__qYyMq7NieZS1MjrGxboxtyg==) page to see videos of the warm-up and the 10 routines that we have done since Sedance moved online for lockdown. We have been holding free weekly classes every Monday night from 7.15-9pm on Zoom.
+Classes take place at Central School of Ballet, 21-22 Hatfields, Paris Garden, London, SE1 8DJ
 
-Sedance general info:
+The class will take place in the “Weston” studio on level minus 2. Access to the changing rooms on level minus 1 is possible before class so please be ready to go at 7.30pm.
 
-What better way to get in shape, improve your technique or simply enjoy the buzz of dancing? (And it's a great excuse for a cheeky pop to the local hostelry on a Monday evening to catch up with what's going on in Sedos!)
+[Join the Sedance Facebook page](https://www.facebook.com/groups/328763023951811/) to find out the latest updates.
+
+What better way to get in shape, improve your technique or simply enjoy the buzz of dancing? (And it's a great excuse for a cheeky pop to the local hostelry on a Wednesday evening to catch up with what's going on in Sedos!)
 
 The class is for everyone, so whether you're an experienced dancer, or you've never danced before, you're more than welcome.
 
 The class consists of a 50-minute warm-up, including stretches and technical work, and around 50 minutes of learning a routine, with each routine repeated for three weeks. The warm-up is set so you will learn it and build on your technique, flexibility, strength and posture at your own pace. The routines vary in style from jazz, musical theatre through to lyrical. You can join the class at any time (we teach the routine from the beginning each week) and you do not need to sign up in advance.
 
-Classes are led by Tom Leonard (choreographer for Sedos’ productions of *Dangerous Liaisons*, *Legally Blonde* and *Guys and Dolls*) with guest appearances from Kim Barker – and occasional other guest teachers.
+Classes are led by Tom Leonard (choreographer for Sedos’ productions of *Dangerous Liaisons*, *Legally Blonde* and *Guys and Dolls*) with guest appearances from Kim Barker – and occasional other guest teachers.
 
 Please wear something comfortable that allows you freedom of movement and shoes in which you can point your feet (or do it in socks). Please let the session leader know of any injuries before the class begins and work at your own pace.
 
-Make sure you join the **[Sedance Facebook group](https://www.facebook.com/groups/328763023951811/)** to stay up-to-date! Just search “Sedance” on Facebook to find it. Feel free to email sedance@sedos.co.uk if you have any questions
+Make sure you join the Facebook group to stay up-to-date! Just search “Sedance” on Facebook to find it. Feel free to email sedance@sedos.co.uk if you have any questions.
+
+PRICES (card and contactless payments only):
+
+You can either pay a drop-in price each week or pay for a block of classes in advance, which works out cheaper.
+
+**Sedos members**
+
+Drop-in price - £7 per class
+
+5 classes - £30 (works out at £6 per class)
+
+10 classes - £50 (works out at £5 per class)\
+\
+**Non-members**
+
+Drop-in price - £8 per class
+
+5 classes - £35 (works out at £7 per class)
+
+10 classes £60 (works out at £6 per class)
+
+*We look forward to seeing you there!*
 
 ^^^ ![](/assets/48781085673_2a459c1bb7_c.jpg)
-^^^ Rehearsals for Sedos' 2019 original dance adaptation, Dangerous Liaisons
+^^^ Rehearsals for Sedos’ 2019 original dance adaptation, Dangerous Liaisons
