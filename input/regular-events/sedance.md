@@ -6,9 +6,9 @@ venue: Central School of Ballet
 recurrence: Wednesdays, 7.30-9pm
 RedirectFrom:
   - sedance.htm
-metaDescription: Sedance is Sedos’ Wednesday evening dance class, where you can
-  run through a warm-up and then learn a routine with frequent Sedos
-  choreographer Tom Leonard or a guest choreographer
+metaTitle: "London dance class: Sedance is a Wednesday evening class "
+metaDescription: Sedance is a London dance class held on a Wednesday evening and
+  run by theatre company Sedos
 ---
 **Sedance is Sedos’ weekly dance class, running every Wednesday night, 7.30-9pm.** 
 
@@ -52,5 +52,5 @@ Drop-in price - £8 per class
 
 *We look forward to seeing you there!*
 
-^^^ ![Rehearsals for Sedos’ 2019 original dance adaptation, Dangerous Liaisons, which featured many Sedance members](/assets/48781085673_2a459c1bb7_c.jpg)
+^^^ ![Rehearsals for Sedos’ 2019 original dance adaptation, Dangerous Liaisons, which featured many regulars at Sedance, Sedos’ London dance class](/assets/48781085673_2a459c1bb7_c.jpg)
 ^^^ Rehearsals for Sedos’ 2019 original dance adaptation, Dangerous Liaisons
