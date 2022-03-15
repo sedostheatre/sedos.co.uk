@@ -16,5 +16,12 @@
 // Import commands.js using ES2015 syntax:
 import './commands'
 
-// Alternatively you can use CommonJS syntax:
-// require('./commands')
+// The name of the cookie holding whether the user has accepted
+// the cookie policy
+const CONSENT_COOKIE_NAME = "CookieControl";
+// The value meaning that user has accepted the cookie policy
+const CONSENT_COOKIE_VALUE = '{"necessaryCookies":[],"optionalCookies":{"analytics":"revoked"},"statement":{},"consentExpiry":90,"interactedWith":true}';
+
+Cypress.on("window:before:load", window => {
+  window.document.cookie = `${CONSENT_COOKIE_NAME}=${CONSENT_COOKIE_VALUE}`;
+});
