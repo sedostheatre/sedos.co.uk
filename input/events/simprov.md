@@ -12,7 +12,7 @@ image: /assets/simprov3-360.jpg
 venue: Theatre Deli
 recurrence: "Fridays 7-9pm "
 ticket-prices: "£5 per person (members or non-members alike). Free if session
-  take place online. "
+  takes place online. "
 ---
 **Looking for a [London improvisation group](https://sedos.co.uk/regular-events/simprov)? Simprov is the Sedos group that lets members and non-members explore their spontaneous side!**
 
@@ -57,4 +57,4 @@ The Banana Hut Gang are regular attendees at the Simprov drop in, so say hi to J
 Follow the [Simprov Facebook page](https://www.facebook.com/groups/176792046058352/) and Sedos newsletters for more details on shows.
 
 ^^^ ![](/assets/simprov3-360.jpg)
-^^^ London improvisation group session in progress
+^^^ London improvisation group drop-in improv session in progress
