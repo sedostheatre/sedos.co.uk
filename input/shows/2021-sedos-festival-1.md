@@ -145,7 +145,7 @@ sections:
 
 
 
-      It’s free for friends and family to attend, though audiences do need to register via our box office, <https://sedos.co.uk/tickets>. The running time is approximately 45 minutes with no interval.
+      It’s free for friends and family to attend, though audiences do need to register via our box office, <https://sedos.ticketsolve.com>. The running time is approximately 45 minutes with no interval.
 
 
       ^^^ ![](/assets/dna_poster_landscape.jpg)

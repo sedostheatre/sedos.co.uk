@@ -109,7 +109,7 @@ sections:
       Audience watch this exciting and highly theatrical piece free at 7.30pm on Saturday 31st July for one night only at the Bridewell Theatre.
 
 
-      It’s free for friends and family to attend, though audiences do need to register via our box office, **<https://sedos.co.uk/tickets>**. The running time is approximately 60 minutes.
+      It’s free for friends and family to attend, though audiences do need to register via our box office, **<https://sedos.ticketsolve.com>**. The running time is approximately 60 minutes.
 
 
       **CAST LIST**
