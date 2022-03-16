@@ -5,8 +5,8 @@
     <link rel="stylesheet" href="@Context.GetLink("/assets/css/main.css")">
     <link rel="icon" type="image/png" href="@Context.GetLink("/assets/images/favicon.png")">
     <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
 
       gtag('consent', 'default', {
         'ad_storage': 'denied',
@@ -20,7 +20,12 @@
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
-      gtag('config', 'UA-87589923-2');
+      gtag('config', 'UA-87589923-2', {
+        'linker': {
+          'domains': ['sedos.ticketsolve.com']
+        }
+      });
+
       var config = {
         apiKey: 'fb03572133415cec018b9c65dff246e8e3d27fed',
         product: 'COMMUNITY',

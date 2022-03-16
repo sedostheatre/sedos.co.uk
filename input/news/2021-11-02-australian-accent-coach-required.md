@@ -15,6 +15,6 @@ The play moves from the claustrophobia of a London flat in 1959 to the windswept
 
 The award winning play received its European premiere at the Almeida Theatre, London, in May 2009. 
 
-*When The Rain Stops Falling* takes place at the Bridewell Theatre from 22-26 February 2022 and tickets are now on sale via the [Sedos box office](https://tickets.sedos.co.uk/).
+*When The Rain Stops Falling* takes place at the Bridewell Theatre from 22-26 February 2022 and tickets are now on sale via the [Sedos box office](https://sedos.ticketsolve.com/).
 
 ![](/assets/koala-australia.jpg)

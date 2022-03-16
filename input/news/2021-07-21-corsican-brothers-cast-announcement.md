@@ -9,7 +9,7 @@ image: /assets/corsican-brothers-poster.jpg
 
 Dion Bouccicault's *The Corsican Brothers,* one of Queen Victoria's favourite plays, this action-packed ghost melodrama by the nineteenth century international star actor and playwright is based on the novel by Alexandre Dumas (*The Count Of Monte Cristo*, *The Man In The Iron Mask*).
 
-It’s free for friends and family to attend, though audiences do need to register via our box office, **<https://sedos.co.uk/tickets>**. The running time is approximately 60 minutes.
+It’s free for friends and family to attend, though audiences do need to register via our box office, **<https://sedos.ticketsolve.com>**. The running time is approximately 60 minutes.
 
 *Play in a Day: The Corsican Brothers* is part of our ***[Welcome Back Members' Week](https://sedos.co.uk/shows/2021-welcome-back-members-week)*** celebrations. Find out more. 
 

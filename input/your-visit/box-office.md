@@ -6,7 +6,7 @@ image: /assets/your-visit-bridewell-theatre.jpg
 ---
 **Box office**
 
-[You will find our online box office here.](https://tickets.sedos.co.uk)
+[You will find our online box office here.](https://sedos.ticketsolve.com)
 
 **Ticket Collection**
 
