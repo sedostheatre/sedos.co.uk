@@ -6,24 +6,51 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="/assets/css/main.css">
     <link rel="icon" type="image/png" href="/assets/images/favicon.png">
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
 
+      gtag('consent', 'default', {
+        'ad_storage': 'denied',
+        'analytics_storage': 'denied'
+      });
+    </script>
     <!-- Global site tag (gtag.js) - Google Analytics -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=UA-87589923-2"></script>
+    <script src="https://cc.cdn.civiccomputing.com/9/cookieControl-9.x.min.js"></script>
     <script>
       window.dataLayer = window.dataLayer || [];
       function gtag(){dataLayer.push(arguments);}
       gtag('js', new Date());
-
-      document.cookie = "_ga=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/;";
-      document.cookie = "_gid=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/;";
-      document.cookie = "__utma=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/;";
-      document.cookie = "__utmz=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/;";
-
       gtag('config', 'UA-87589923-2', {
-        client_storage: 'none',
-        cookie_expires: 0,
-        cookie_update: false
+        'linker': {
+          'domains': ['sedos.ticketsolve.com']
+        }
       });
+
+      var config = {
+        apiKey: 'fb03572133415cec018b9c65dff246e8e3d27fed',
+        product: 'COMMUNITY',
+        optionalCookies: [
+          {
+            name: 'analytics',
+            label: 'Analytics',
+            description: 'Analytical cookies help us to improve our website by collecting and reporting information on its usage.',
+            cookies: ['_ga', '_gid', '_gat', '__utma', '__utmt', '__utmb', '__utmc', '__utmz', '__utmv'],
+            onAccept: function () {
+              gtag('consent', 'update', { 'analytics_storage': 'granted' });
+            },
+            onRevoke: function () {
+              gtag('consent', 'update', { 'analytics_storage': 'denied' });
+            }
+          }
+        ],
+
+        position: 'LEFT',
+        theme: 'LIGHT'
+      };
+
+      CookieControl.load(config);
     </script>
 
 
@@ -86,7 +113,7 @@
                     </li>
             </ul>
 
-            <a class="btn btn-sedos-blue my-2 my-sm-0" href="https://tickets.sedos.co.uk">Book tickets</a>
+            <a class="btn btn-sedos-blue my-2 my-sm-0" href="https://sedos.ticketsolve.com">Book tickets</a>
         </div>
     </nav>
 </div>
