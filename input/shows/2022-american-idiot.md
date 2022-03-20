@@ -65,7 +65,7 @@ sections:
       **LIGHTING DESIGNER** | Olly Levett\
       **SOUND DESIGNER** | Adam Coppard\
       **MARKETING** | Tess Robinson\
-      **PHOTOGRAPHER** | Michael Smith\
+      **PHOTOGRAPHER** | Stephen Russell\
       **VIDEOGRAPHER** | Joseph Henshaw\
       **COMMITTEE LIAISON** | Steven King
 metaTitle: American Idiot plays at the Bridewell Theatre from 4-14 May 2022
