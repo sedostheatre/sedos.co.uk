@@ -17,8 +17,18 @@ flyer: /assets/love-holderposter-v2.jpg
 box-office-open: false
 sections:
   - order: 1
-    title: CREATIVE TEAM
+    title: CAST & CREATIVE TEAM
     body: |-
+      **CAST**
+
+      **GREGORY** | James Daly\
+      **ARTHUR** | Lewis McKenzie\
+      **PERRY** | Robbie Fulford\
+      **JOHN / JAMES** | Rob Ingham\
+      **BUZZ** | Jacob Hajjar\
+      **BOBBY** | Simon Brooke\
+      **RAMON** | Fernando Cahnfeld
+
       **CREATIVE TEAM**
 
       **DIRECTOR and DESIGNER** | Robert J. Stanex\
