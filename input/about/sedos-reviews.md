@@ -11,6 +11,17 @@ RedirectFrom:
 
 # 2022
 
+## *The Mystery of Edwin Drood*
+
+^^^ ![Dress rehearsal image of Sedos’s 2022 production of The Mystery of Edwin Drood](/assets/51953767321_847a6c6949_c.jpg)
+^^^ The Mystery of Edwin Drood
+
+>This marvellous production demonstrates beyond doubt that the depth of talent we have in London is astonishing. Sedos (the Stock Exchange Dramatic and Operatic Society, founded in 1905) have put together a show of West End quality. The self-confidence, versatility and sheer joy of performing shown by every cast member is inspiring and uplifting. With very limited resources they turn minuses into pluses, overcome every challenge with aplomb and deliver entertainment with an unmatched joie de vivre… It would be hard to improve on this. Catch it if you can.
+><footer><cite><a target="_blank" href="https://www.londontheatre1.com/reviews/the-mystery-of-edwin-drood-at-the-bridewell-theatre/?mc_cid=b92ed416ba&mc_eid=UNIQID">The Mystery of Edwin Drood, 2022, London Theatre 1 (****)</a></cite></footer>
+
+>In my eyes, Sedos is fast developing a reputation for staging shows which easily match the quality of many of the productions that the West End has to offer right now. With a phenomenal cast and perfectly executed musical numbers, it’s no mystery why I found this show so thoroughly entertaining.
+><footer><cite><a target="_blank" href="https://myfairtheatregoer.com/2022/03/23/review-the-mystery-of-edwin-drood-bridewell-theatre-⋆⋆⋆⋆/">The Mystery of Edwin Drood, 2022, My Fair Theatregoer (****)</a></cite></footer>
+
 ## *When the Rain Stops Falling*
 
 ^^^ ![Dress rehearsal image of Sedos’ 2022 production of When the Rain Stops Falling](/assets/51897470424_dbf4c3c68a_knew.jpg)
