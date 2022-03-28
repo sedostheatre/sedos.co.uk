@@ -27,7 +27,8 @@ sections:
 
       **DIRECTOR** | Chris Adams\
       **MUSICAL DIRECTOR** | Rob Archibald\
-      **MOVEMENT DIRECTOR** | Paul Brookland Williams
+      **MOVEMENT DIRECTOR** | Paul Brookland Williams\
+      **PRODUCER** | Lizzie Levett
 metaTitle: "Carrie: The Musical plays at the Bridewell Theatre from 25-29 October 2022"
 metaDescription: "Carrie: The Musical, part of Sedos’ 2022 London season, plays
   at the Bridewell Theatre from 25-29 October 2022. A cult musical based on
