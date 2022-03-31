@@ -70,7 +70,7 @@ sections:
       >In my eyes, Sedos is fast developing a reputation for staging shows which easily match the quality of many of the productions that the West End has to offer right now. With a phenomenal cast and perfectly executed musical numbers, it’s no mystery why I found this show so thoroughly entertaining.
 
       ><footer><cite><a target="_blank" href="https://myfairtheatregoer.com/2022/03/23/review-the-mystery-of-edwin-drood-bridewell-theatre-⋆⋆⋆⋆/">The Mystery of Edwin Drood, 2022, My Fair Theatregoer (****)</a></cite></footer>
-  - order: 3
+  - order: 2
     title: GALLERY
     body: <a data-flickr-embed="true"
       href="https://www.flickr.com/photos/sedos/albums/72157720148070199"
