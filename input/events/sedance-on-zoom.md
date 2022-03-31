@@ -9,9 +9,13 @@ times:
   - time: 2022-04-20 19:30
   - time: 2022-04-27 19:30
 image: /assets/48781085673_2a459c1bb7_c.jpg
+imageAlt: Rehearsal image from Dangerous Liaisons, which featured many Sedance members
 venue: Central School of Ballet
 recurrence: Wednesdays 7.30-9pm
 ticket-prices: From £7 per class for Sedos members and £8 per class for non-members
+metaTitle: Sedance is a weekly dance class run by theatre company Sedos
+metaDescription: Find out about Sedance, a dance class at the Central School of
+  Ballet. Classes are open to all
 ---
 **Sedance is Sedos’ weekly dance class, running every Wednesday night, 7.30-9pm.**
 
@@ -55,5 +59,5 @@ Drop-in price - £8 per class
 
 *We look forward to seeing you there!*
 
-^^^ ![](/assets/48781085673_2a459c1bb7_c.jpg)
+^^^ ![Rehearsal image from Dangerous Liaisons, which featured many Sedance members](/assets/48781085673_2a459c1bb7_c.jpg)
 ^^^ Rehearsals for Sedos’ 2019 original dance adaptation, Dangerous Liaisons
