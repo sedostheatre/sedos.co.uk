@@ -52,7 +52,7 @@ sections:
       **LIGHTING DESIGN** | Shiri Stern\
       **SOUND DESIGN** | Henry Whittaker\
       **COSTUME DESIGN** | Frederica Byron
-  - order: 2
+  - order: 3
     title: REVIEWS
     body: >-
       >This marvellous production demonstrates beyond doubt that the depth of
@@ -70,6 +70,15 @@ sections:
       >In my eyes, Sedos is fast developing a reputation for staging shows which easily match the quality of many of the productions that the West End has to offer right now. With a phenomenal cast and perfectly executed musical numbers, it’s no mystery why I found this show so thoroughly entertaining.
 
       ><footer><cite><a target="_blank" href="https://myfairtheatregoer.com/2022/03/23/review-the-mystery-of-edwin-drood-bridewell-theatre-⋆⋆⋆⋆/">The Mystery of Edwin Drood, 2022, My Fair Theatregoer (****)</a></cite></footer>
+  - order: 1
+    title: GALLERY
+    body: <a data-flickr-embed="true"
+      href="https://www.flickr.com/photos/sedos/albums/72157720148070199"
+      title="The Mystery of Edwin Drood - 2022"><img
+      src="https://live.staticflickr.com/65535/51974073470_c45b9db165_z.jpg"
+      width="640" height="480" alt="The Mystery of Edwin Drood -
+      2022"></a><script async src="//embedr.flickr.com/assets/client-code.js"
+      charset="utf-8"></script>
 metaTitle: The Mystery of Edwin Drood plays at the Bridewell Theatre from 22-26 March 2022
 metaDescription: The Mystery of Edwin Drood, part of Sedos’ 2022 London season,
   plays at the Bridewell Theatre from 22-26 March 2022. The show is a hilarious
