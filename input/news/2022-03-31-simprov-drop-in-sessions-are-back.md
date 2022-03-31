@@ -8,7 +8,7 @@ metaTitle: Sedos is re-starting drop-in improvisation sessions with its group Si
 metaDescription: "If you fancy trying out your spontaneous side, why not try a
   drop-in improvisation session with Sedos’ group Simprov? "
 ---
-*Thursday 31 March*
+*31 March 2022*
 
 **Simprov is back in-person for the first time since before the first Covid-19 lockdown, with drop-in improvisation sessions back on the schedule.**
 
