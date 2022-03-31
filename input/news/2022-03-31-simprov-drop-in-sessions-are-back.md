@@ -2,7 +2,8 @@
 title: Simprov drop-in sessions are back
 date: 2022-03-31
 image: /assets/_dsc2690-2.jpg
-imageAlt: Members of Simprov take part in a performance
+imageAlt: Members of Simprov, which offers drop-in improvisation sessions, take
+  part in a performance
 metaTitle: Sedos is re-starting drop-in improvisation sessions with its group Simprov
 metaDescription: "If you fancy trying out your spontaneous side, why not try a
   drop-in improvisation session with Sedos’ group Simprov? "
