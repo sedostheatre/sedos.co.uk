@@ -9,10 +9,13 @@ times:
   - time: 2022-04-22 12:42
   - time: 2022-04-29 12:42
 image: /assets/simprov3-360.jpg
+imageAlt: Actors take part in improvisation with London group Simprov
 venue: Theatre Deli
 recurrence: "Fridays 7-9pm "
 ticket-prices: "£5 per person (members or non-members alike). Free if session
   takes place online. "
+metaTitle: "Simprov: where actors can try their spontaneous side"
+metaDescription: Simprov offers drop-in sessions for Sedos members and non-members alike
 ---
 **Looking for a [London improvisation group](https://sedos.co.uk/regular-events/simprov)? Simprov is the Sedos group that lets members and non-members explore their spontaneous side!**
 
