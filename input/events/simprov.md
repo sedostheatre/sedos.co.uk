@@ -35,8 +35,6 @@ The Simprov team are returning with live sessions from 8 April 2022, at 7pm on F
 
 Come join the fun and participate. We are a collaborative group, so feel free to bring some games for the group to try or just enjoy what other people bring. 
 
-In the meantime, we are hosting FREE online sessions on Tuesdays 7:30-9 pm, Zoom meeting ID 867-2997-1832.
-
 For more info, head to the [Simprov Facebook page.](https://www.facebook.com/groups/176792046058352/)
 
 ## **The Banana Hut Gang**
