@@ -49,11 +49,11 @@ Winner of the 1995 Tony Award for Best Play, *Love! Valour! Compassion!* is a mo
 
 As hilarious as it is heart-breaking, Terrence McNally’s seminal work captures the zeitgeist of 90s America and forces the question - when reality hits home, who and what is most important to us?
 
+*Love! Valour! Compassion!* explores sensitive issues relating to gender, sexuality, race, religion, politics, disability and HIV status. This show contains nudity, strong language and racially offensive language. It was written, set and originally performed in the mid 90s and the text reflects the social and cultural context of the time. We would strongly recommend that all audience members should be 18 years old or older. 
+
+Haze, smoke, strobe lighting and loud noises may be used.
+
 *Love! Valour! Compassion!* plays at the [Bridewell Theatre](https://sedos.co.uk/venues/bridewell) from 5-9 July 2022. 
-
-**AUDITIONS**
-
-Registration is now open for auditions. Find out more [here](https://sedos.co.uk/events/love-valour-compassion-auditions-1).
 
 ^^^ ![](/assets/lvc-artwork.jpg)
 ^^^
