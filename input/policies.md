@@ -578,7 +578,7 @@ We shall continue to process this information until the contract between us ends
 
 Note:  if you are a member of the Sedos, we will send you information about the operation of the society – for example information about our Annual General Meetings and the societies activities.  This information is sent to you to keep you informed of the Charity’s activities and to enable you to benefit from your Membership and as part of the contractual relationship between you and the Charity.     
 
-## Information we process with your consent
+#### Information we process with your consent
 
 Through certain actions when otherwise there is no contractual relationship between us, such as when you browse our website or ask us to provide you more information about us, including our shows, products and services, you provide your consent to us to process information that may be personal information.
 
@@ -594,7 +594,7 @@ If you have acquired tickets or services from us before, we are entitled to assu
 
 You may withdraw your consent at any time by instructing us at dataprotection@sedos.co.uk. However, if you do so, you may not be able to continue to use our services.
 
-## Information we process because we have a legal obligation
+#### Information we process because we have a legal obligation
 
 We are subject to the law like everyone else. Sometimes, we must process your information in order to comply with a statutory obligation.
 
@@ -602,39 +602,39 @@ For example, we may be required to give information to legal authorities if they
 
 This may include your personal information.
 
-# C: INFORMATION THAT WE COLLECT
+### C: INFORMATION THAT WE COLLECT
 
-## Information relating to payments
+#### Information relating to payments
 
 If you make a payment to us we retain certain personal information, including your name, address, phone number, email address, IP address and details of the transaction.   This information is stored on our servers or servers that we have access to operated by our third party provider, Ticketsolve, the provider of our ticketing system.  We provide this information and the credit card information for processing by our bank, Lloyds Bank plc and the payments processing agents Realex and Global Payments.  We do not retain copies of your credit card information which is handled and is protected solely by Lloyds Bank plc, Realex and Global Payments.   
 
-## Information about direct debits
+#### Information about direct debits
 
 When you agree to set up a direct debit arrangement, the information you give to us is passed to our own bank and payments processing agents for processing according to our instructions. We do not keep a copy of your banking details, but we do keep a copy of your name, address, phone number and email address.
 
 We are registered under the direct debit guarantee scheme. This provides for the customer's bank to refund disputed payments without question, pending further investigation. Direct debits can only be set up for payments to beneficiaries that are approved originators of direct debits. In order to be approved, these beneficiaries are subjected to careful vetting procedures. Once approved, they are required to give indemnity guarantees through their banks.
 
-## Sending a message to us
+#### Sending a message to us
 
 When you contact us via one of the contact emails on our website, we collect the data you have given to us in order to reply with the information you need.
 
 We keep personally identifiable information associated with your message, such as your name and email address so as to be able to track our communications with you on an ongoing manner.
 
-## Marketing 
+#### Marketing 
 
 We issue newsletters and other marketing information to people who have attended our performances or otherwise expressed an interest in the activities of Sedos.  You will always have the opportunity to unsubscribe from these emails.  Your information is held in our Mailchimp account.
 
 These are separate from the communications that we send specifically to Members relating to the formal activities of Sedos, such as our Annual General Meeting. 
 
-## Other information you provide
+#### Other information you provide
 
 If you are involved in an audition, a production or as a volunteer, then we will keep certain personal information about you.  If you audition for a production, then we will need to keep your contact details in relation to that project; we will not share details other than as necessary with the production teams for the smooth running of the production or the general business of Sedos in connection with your participation in the activities of Sedos. 
 
-# D: USE OF COLLECTED INFORMATION 
+### D: USE OF COLLECTED INFORMATION 
 
 Use of information we collect through automated systems when you visit our website
 
-## Cookies
+#### Cookies
 
 Cookies are small text files that are placed on your computer's hard drive by your web browser when you visit any website. They allow information gathered on one web page to be stored until it is needed for use on another, allowing a website to provide you with a personalised experience and the website owner with statistics about how you use the website so that it can be improved.
 
@@ -653,7 +653,7 @@ We use cookies in the following ways:
 * to keep you signed in our site
 * to record your answers to surveys and questionnaires on our site while you complete them
 
-## Personal identifiers from your browsing activity
+#### Personal identifiers from your browsing activity
 
 Requests by your web browser to our servers for web pages and other content on our website are recorded.
 
@@ -663,31 +663,31 @@ We use this information in aggregate to assess the popularity of the webpages on
 
 If combined with other information we know about you from previous visits, the data possibly could be used to identify you personally, even if you are not signed in to our website.
 
-# E: DISCLOSURE AND SHARING OF INFORMATION
+### E: DISCLOSURE AND SHARING OF INFORMATION
 
-## Information we obtain from third parties
+#### Information we obtain from third parties
 
 Although we do not disclose your personal information to any third party (except as set out in this policy), we sometimes receive data that is indirectly made up from your personal information from third parties whose services we use.
 
 No such information is personally identifiable to you.
 
-## Where is data processed?
+#### Where is data processed?
 
 Our websites are hosted in the UK and all personal information is processed within the UK or the European Union.
 
-# F: ACCESS TO PERSONAL INFORMATION
+### F: ACCESS TO PERSONAL INFORMATION
 
 To obtain a copy of any information that is not provided on our website you may send us a request at dataprotection@sedos.co.uk.
 
 After receiving the request, we will tell you when we expect to provide you with the information, and whether we require any fee for providing it to you.
 
-# G: REMOVAL OF INFORMATION
+### G: REMOVAL OF INFORMATION
 
 If you wish us to remove personally identifiable information from our records, you may contact us at dataprotection@sedos.co.uk.
 
 This may limit the service we can provide to you and please note that we are required to keep certain information by law.   
 
-# H: COMPLAINTS
+### H: COMPLAINTS
 
 If you are not happy with our privacy policy or if have any complaint then you should tell us by email. Please email us at dataprotection@sedos.co.uk.
 
@@ -695,7 +695,7 @@ If a dispute is not settled then we hope you will agree to attempt to resolve it
 
 If you are in any way dissatisfied about how we process your personal information, you have a right to lodge a complaint with the Information Commissioner's Office. This can be done at <https://ico.org.uk/concerns/>
 
-# I: RETENTION OF PERSONAL DATA
+### I: RETENTION OF PERSONAL DATA
 
 Except as otherwise mentioned in this privacy notice, we keep your personal information only for as long as required by us:
 
@@ -705,13 +705,13 @@ Except as otherwise mentioned in this privacy notice, we keep your personal info
 
 We shall, from time to time, review any personal data held by us and where the above factors do not apply or there is no other legitimate reason for us to retain such personal data will delete and destroy such personal data insofar as we are able to do so. This will not prejudice your ability to ask us to remove personally identifiable information from our records in accordance with section 14 of this policy.
 
-# J: COMPLIANCE WITH THE LAW
+### J: COMPLIANCE WITH THE LAW
 
 Our privacy policy has been compiled so as to comply with the law of every country or legal jurisdiction in which we aim to do business. If you think it fails to satisfy the law of your jurisdiction, we should like to hear from you.
 
 However, ultimately it is your choice as to whether you wish to use our website or provide any personal data to us.
 
-# K: REVIEW
+### K: REVIEW
 
 We may update this privacy policy from time to time as necessary. The terms that apply to you are those posted here on our website on the day you provide us with your personal information.  We advise you to print a copy for your records. 
 
@@ -722,8 +722,6 @@ If you have any question regarding our privacy policy, please contact us at [dat
 Adopted 11 June 2021
 
 
-
-<!--EndFragment-->
 
 - - -
 
