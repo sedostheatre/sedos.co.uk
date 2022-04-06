@@ -836,3 +836,95 @@ Approved 30 March 2020
 
 
 - - -
+
+# SAFEGUARDING POLICY
+
+### A: INTRODUCTION
+
+This document sets out the policy and procedure for safeguarding and managing safeguarding incidents within The Stock Exchange Dramatic And Operatic Society (Sedos).  This policy applies to all members, volunteers and contractors connected to Sedos projects, whether formal or informal.  This policy will be reviewed annually in line with industry best practice standards.
+
+Our policy is simple:
+
+●  every member should feel safe;
+
+●  every member should feel respected; and
+
+●  every member should feel supported.
+
+Where a member feels that this policy has been breached, they should report their concerns via the relevant process below.
+
+All incidents will be reported in accordance with this policy in a timely manner and documentation held confidentially for the time period required by law.
+
+Where an assessment is made that a membership may be revoked as a result of an incident this will be submitted to the Chair of the Board of Trustees for determination by the Board of Trustees in accordance with clause 9(4) of the Constitution of Sedos.
+
+It is the responsibility of each show’s Producer to make their cast and crew aware of the policy and reporting procedures.  Our policy will be displayed at any permanent rehearsal venue used by Sedos and shall be made available in a prominent place on the Sedos website.
+
+### B: DESIGNATED OFFICERS
+
+Sedos shall ensure that at all times a Principal Safeguarding Officer (PSO) and Welfare Officer are appointed from among its members.
+
+Appointments shall be proposed by the Management Committee and approved by the Board of Trustees. Appointments may be revoked by a resolution of the Board of Trustees. An officer may resign from their appointment in writing to the Chair of the Management Committee and Chair of the Board of Trustees.
+
+The Management Committee and Board of Trustees shall ensure that any member appointed to the role of PSO shall have adequate training and experience in performing such role including knowledge of all material statutory obligations of Sedos as it relates to safeguarding.
+
+The Management Committee and Board of Trustees shall ensure that they have confidence that any member appointed to the role of Welfare Officer shall be capable of fulfilling such role.
+
+The designated officers at the date of last revision of this policy (January 2021) are:
+
+* Chair of Board of Trustees: Dawn Harrison-Wallace
+* PSO: Robert J. Stanex
+* Welfare Officer: Dr Kimberly Barker
+
+### C: SAFEGUARDING CHILDREN
+
+Sedos believes that all children should be safe from harm and we understand our duty of care to safeguard their welfare.  While our membership is only open to those over the age of 16, certain projects may require children to preserve the authenticity of a story.
+
+Where a child (under 18) is required for a project, an assessment will be made by the Principal Safeguarding Officer (PSO) and a set of recommendations offered to the Producer prior to the audition notice being released.  Requirements for training, vetting, licensing and chaperoning will also be outlined at this time and must be adhered to.
+
+Where an allegation has been made regarding a child or a child makes a disclosure, this will be investigated following best practice standards.  Where additional consultancy and support is needed this will be sought from NSPCC as industry experts.
+
+### D: SAFEGUARDING ADULTS AT RISK
+
+The nature of our work means that it is highly unlikely we would have a direct service user who would be categorised as an Adult at Risk.  Where a member does meet this threshold, an assessment will be made by the PSO and a set of recommendations offered to the Producer of each show the member is involved with.
+
+Where an allegation has been made regarding an Adult at Risk, this will be investigated following best practice standards.  Where additional consultancy and support is needed this will be sought from Ann Craft Trust as industry experts.
+
+### E: SAFEGUARDING AGAINST SEXUAL HARASSMENT
+
+As a society we often produce works which explore sensitive themes.  We recognise our responsibility in both addressing these issues appropriately and ensuring our members feel safe during the process.  We promote a culture of open dialogue and mutual consent.
+
+Where an allegation has been made regarding Sexual Harassment the Welfare Officer will investigate following best practice standards and facilitate an appropriate intervention.
+
+### F: SAFEGUARDING AGAINST BULLYING BEHAVIOUR
+
+No member should be made to feel belittled or victimised by another member.  Those in positions of power including Directors, Producers and members of the Management Committee and Board of Trustees must be mindful of their added responsibility to create a positive environment and culture.
+
+Where an allegation has been made regarding Bullying the Welfare Officer will facilitate an appropriate mediation with all parties.
+
+### G: HISTORIC CASES
+
+Where an historic incident has been disclosed or uncovered this will be investigated by the relevant Officer in line with current legislation and guidance.
+
+### H: REPORTING AN INCIDENT
+
+Where an allegation is made concerning a child, this must be reported immediately to the PSO via safeguarding@sedos.co.uk.
+
+Where an allegation is made concerning an Adult at Risk, this must be reported immediately to the PSO via safeguarding@sedos.co.uk.
+
+Where an allegation is made concerning Sexual Harassment and-or Bullying within the context of a specific production, this must be reported to the relevant Committee Liaison in the first instance. Members will be informed of how to contact this person at the start of each project. The Committee Liaison will then report to the Welfare Officer as required. This shall not prevent any member from reporting directly to the attention of the Welfare Officer should they believe that it is necessary via \[●]@sedos.co.uk.
+
+Alternatively, or where an allegation is made outside of a production, this must be reported to the Welfare Officer via \[●]@sedos.co.uk.
+
+Allegations of incidents which occurred more than six months ago, should be reported directly to the Chair of the Board of Trustees via chair@sedos.co.uk.
+
+If an allegation is made regarding the PSO or Welfare Officer, it should be reported directly to the Chair of the Board of Trustees via chair@sedos.co.uk.
+
+Approved: January 2021
+
+### I: DESIGNATED OFFICERS
+
+Chair of Trustees                                                   Dawn Harrison-Wallace
+
+Principal Safeguarding Officer (PSO)                   Robert J. Stanex
+
+Welfare Officer                                                      Dr Kimberly Barker
