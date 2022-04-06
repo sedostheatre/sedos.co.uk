@@ -9,6 +9,8 @@ RedirectFrom:
 * [Investment Policy](#investment-policy-statement)
 * [Privacy and Data Protection Policy](#privacy-and-data-protection-policy)
 * [Photography policy](#photography-policy)
+* Risk Management policy
+* Safeguarding policy
 
 - - -
 
@@ -525,7 +527,7 @@ Approved: 15 March 2021
 
 - - -
 
-# Privacy and Data Protection Policy
+# PRIVACY AND DATA PROTECTION POLICY
 
 ### A: INTRODUCTION
 
@@ -717,7 +719,9 @@ Adopted 11 June 2021
 
 - - -
 
-## PHOTOGRAPHY POLICY
+# PHOTOGRAPHY POLICY
+
+### A: INTRODUCTION
 
 This policy aims to make photography at Sedos a more "human" experience, to increase comfort for the actors and to take their anxiety and desires into account, by increasing transparency and communication with those whose images we use. 
 
@@ -727,7 +731,9 @@ Sedos acknowledges that actors might be self-conscious of their image, be worrie
 
 The following is Sedos’s photography policy. This policy should be put on the website, and all members of the production team should adhere to these policies.
 
-* Audition forms must include a checkbox that reads as follows: 
+### B: NOTIFYING CASTS
+
+Audition forms must include a checkbox that reads as follows: 
 
 “Please initial/tick box:
 
@@ -735,32 +741,50 @@ The following is Sedos’s photography policy. This policy should be put on the 
 
 This should be accompanied on the form by a link to the photography policy, using this link: [https://sedos.co.uk/policies#​photography-policy](https://sedos.co.uk/policies#photography-policy) 
 
-* Audition forms must be retained. Because of this release, they are official documents. Scanning them and putting them online in a shared folder, or using an online form throughout, is ideal.
-* Actors have the right to speak to any member of the production team (including the committee liaison) at any time regarding any images of them or any process involved in their creation. Sedos has the right to control the marketing for the show, but we all want the actors to feel comfortable and raise concerns. 
-* The production team must inform the actors how their image is being used. For most images, an introductory conversation is the only conversation that will inform them of how we’ll be using their photos. Only a simple conversation is needed for headshots, rehearsal shots, staged marketing shots, and dress rehearsal photos. For the most significant uses of actor images, such as if their faces are prominently displayed on the poster or other major advertising, the production team will give the actors the opportunity to be more directly involved.
-* We will be taking headshots, rehearsal shots and shots of the dress rehearsal. The actors should expect each of these, and we will communicate when those happen so they can prepare physically and mentally.
-* For the following types of edits (or similar), the photographers and/or production team does not need to inform the actors nor seek their approval:
-* * Filters, exposure or basic colour edits that change exposure, colour levels. 
-  * Changing of the environment, as long it is not controversial. This includes things like removing signage or marks on the wall, removing distracting items from the environment, editing lighting, etc. This might include edits such as cutting out their image and putting it into a different background (like a stage, a set, etc.).
-  * Minor blemish removal (pimples, hairs, minor cuts and scrapes).
-  * Minor effects on their personal image such as skin softening or localized lighting adjustments.
-* For the following types of edits (or similar), the photographers and/or production team will inform the actors (before publication), but will not seek their approval:
-* * Stylistic edits (such as edge sharpening) that cast them in a character-appropriate light, which might be unflattering (for an example of this, please see the [Gormenghast photos](https://photos.app.goo.gl/DKAvzZXM7iUWHHri7)). Such techniques include but are not limited to: HDR, edge detection, and an unpleasant or unfavourable countenance (smile, frown, menace, growl, etc.)
-  * Placing their image into new environments that are show-specific and not edgy (violent, sexual, etc.)
-* The photographers and/or production team will inform the actors and will seek their approval for the following types of edits before their publication. 
-* * If their image will be used in a non-group setting (fewer than 3 people) in major marketing materials such as the show poster (but not show imagery).
-  * If any image might be deemed sexual or violent in nature.
-  * If we will make significant changes to their person such as changing their facial or body shape, or changing their body. This includes removing things like scars and tattoos and anything else that the actor may feel is part of their “identity”.
-  * Placing their image into new environments that are show-specific and might be considered edgy (violent, sexual, etc.)
-* Actors should understand that informal photos may be taken by other cast members or production staff, and these may be used for marketing purposes. 
-* Actors do not retain the right to approve photos used of them – except in the specific cases mentioned above – but if an actor flags that they have a problem with an image, such a conversation should be taken seriously and action taken to remove or modify the photo(s) if possible. 
-* It is recommended that photographers and production teams take all skin colours into account for headshots, so the actors are best represented.
-* Before each photoshoot...
-* * The production team should notify the actors in advance so they can prepare themselves for the event, both physically and mentally. It may be difficult for actors if their photographs are taken immediately after a dance rehearsal; actors should be given the ability to look their best.
-  * Actors should understand how these images are to be used. If it’s just simple headshots, rehearsal photos and dress rehearsal photos, then just a quick overview will do. However, if this is an explicit complicated photoshoot (such as done with Pippin, Government Inspector, or similar), then please ensure the cast is aware of the vision, purpose and their role in that process.
-  * Photographers should be briefed on the editing policy and pointed to the online version.
-  * Photographers should be introduced to the cast to help put the actors at ease; a simple group introduction is all that’s needed. This is especially important during 1-on-1 shoots like headshots, but also important for dress and rehearsal shots. 
-  * Photographers should minimize their edits to the “first type” above (where we do not ask for actors’ permission). For further edits, or if there are any questions, please consult with the production team.
+Audition forms must be retained. Because of this release, they are official documents. Scanning them and putting them online in a shared folder, or using an online form throughout, is ideal.
+
+Actors have the right to speak to any member of the production team (including the committee liaison) at any time regarding any images of them or any process involved in their creation. Sedos has the right to control the marketing for the show, but we all want the actors to feel comfortable and raise concerns. 
+
+The production team must inform the actors how their image is being used. For most images, an introductory conversation is the only conversation that will inform them of how we’ll be using their photos. Only a simple conversation is needed for headshots, rehearsal shots, staged marketing shots, and dress rehearsal photos. For the most significant uses of actor images, such as if their faces are prominently displayed on the poster or other major advertising, the production team will give the actors the opportunity to be more directly involved.
+
+We will be taking headshots, rehearsal shots and shots of the dress rehearsal. The actors should expect each of these, and we will communicate when those happen so they can prepare physically and mentally.
+
+### C: PHOTO EDITS
+
+For the following types of edits (or similar), the photographers and/or production team does not need to inform the actors nor seek their approval:
+
+* Filters, exposure or basic colour edits that change exposure, colour levels. 
+* Changing of the environment, as long it is not controversial. This includes things like removing signage or marks on the wall, removing distracting items from the environment, editing lighting, etc. This might include edits such as cutting out their image and putting it into a different background (like a stage, a set, etc.).
+* Minor blemish removal (pimples, hairs, minor cuts and scrapes).
+* Minor effects on their personal image such as skin softening or localized lighting adjustments.
+
+For the following types of edits (or similar), the photographers and/or production team will inform the actors (before publication), but will not seek their approval:
+
+* Stylistic edits (such as edge sharpening) that cast them in a character-appropriate light, which might be unflattering (for an example of this, please see the [Gormenghast photos](https://photos.app.goo.gl/DKAvzZXM7iUWHHri7)). Such techniques include but are not limited to: HDR, edge detection, and an unpleasant or unfavourable countenance (smile, frown, menace, growl, etc.)
+* Placing their image into new environments that are show-specific and not edgy (violent, sexual, etc.)
+
+The photographers and/or production team will inform the actors and will seek their approval for the following types of edits before their publication. 
+
+* If their image will be used in a non-group setting (fewer than 3 people) in major marketing materials such as the show poster (but not show imagery).
+* If any image might be deemed sexual or violent in nature.
+* If we will make significant changes to their person such as changing their facial or body shape, or changing their body. This includes removing things like scars and tattoos and anything else that the actor may feel is part of their “identity”.
+* Placing their image into new environments that are show-specific and might be considered edgy (violent, sexual, etc.)
+
+Actors should understand that informal photos may be taken by other cast members or production staff, and these may be used for marketing purposes. 
+
+Actors do not retain the right to approve photos used of them – except in the specific cases mentioned above – but if an actor flags that they have a problem with an image, such a conversation should be taken seriously and action taken to remove or modify the photo(s) if possible. 
+
+It is recommended that photographers and production teams take all skin colours into account for headshots, so the actors are best represented.
+
+### D: PHOTOSHOOTS
+
+Before each photoshoot…
+
+* The production team should notify the actors in advance so they can prepare themselves for the event, both physically and mentally. It may be difficult for actors if their photographs are taken immediately after a dance rehearsal; actors should be given the ability to look their best.
+* Actors should understand how these images are to be used. If it’s just simple headshots, rehearsal photos and dress rehearsal photos, then just a quick overview will do. However, if this is an explicit complicated photoshoot (such as done with Pippin, Government Inspector, or similar), then please ensure the cast is aware of the vision, purpose and their role in that process.
+* Photographers should be briefed on the editing policy and pointed to the online version.
+* Photographers should be introduced to the cast to help put the actors at ease; a simple group introduction is all that’s needed. This is especially important during 1-on-1 shoots like headshots, but also important for dress and rehearsal shots. 
+* Photographers should minimize their edits to the “first type” above (where we do not ask for actors’ permission). For further edits, or if there are any questions, please consult with the production team.
 
 
 
@@ -919,8 +943,6 @@ Allegations of incidents which occurred more than six months ago, should be repo
 
 If an allegation is made regarding the PSO or Welfare Officer, it should be reported directly to the Chair of the Board of Trustees via chair@sedos.co.uk.
 
-Approved: January 2021
-
 ### I: DESIGNATED OFFICERS
 
 Chair of Trustees                                                   Dawn Harrison-Wallace
@@ -928,3 +950,7 @@ Chair of Trustees                                          
 Principal Safeguarding Officer (PSO)                   Robert J. Stanex
 
 Welfare Officer                                                      Dr Kimberly Barker
+
+
+
+Approved: January 2021
