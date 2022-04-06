@@ -4,9 +4,9 @@ RedirectFrom:
   - privacy-policy
   - general/privacy.htm
 ---
-* [Investment Policy](#investment-policy-statement)
 * [Conflict of Interest Policy](#conflict-of-interest-policy)
-* [COVID-19 Policy](#covid-19-health-and-safety-policy)
+* [Health & Safety Policy](#covid-19-health-and-safety-policy)
+* [Investment Policy](#investment-policy-statement)
 * [Privacy and Data Protection Policy](#privacy-and-data-protection-policy)
 * [Photography policy](#photography-policy)
 
@@ -209,7 +209,7 @@ Approved: 14 July 2020
 
 - - -
 
-# HEALTH AND SAFETY POLICY
+# HEALTH & SAFETY POLICY
 
 ### A. INTRODUCTION
 
