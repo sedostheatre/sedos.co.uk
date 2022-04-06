@@ -4,925 +4,548 @@ RedirectFrom:
   - privacy-policy
   - general/privacy.htm
 ---
-* [Investment Policy](#investment-policy-statement)
 * [Conflict of Interest Policy](#conflict-of-interest-policy)
-* [COVID-19 Policy](#covid-19-health-and-safety-policy)
+* [Health & Safety Policy](#covid-19-health-and-safety-policy)
+* [Investment Policy](#investment-policy-statement)
 * [Privacy and Data Protection Policy](#privacy-and-data-protection-policy)
 * [Photography policy](#photography-policy)
+* Risk Management policy
+* Safeguarding policy
 
 - - -
 
-## INVESTMENT POLICY STATEMENT
+# CONFLICT OF INTEREST POLICY
 
-1. **Introduction**
+### A: INTRODUCTION
 
-   1. The Stock Exchange Dramatic and Operatic Society (Sedos) is a charitable incorporated organisation (CIO), whose purpose is (i) to educate the public in the fields of dramatic and musical theatre and to further development of public appreciation of and taste in the said fields and (ii) to give the opportunity for persons interested in the fields of dramatic and musical theatre to participate whether on or off stage in theatrical productions of high quality.
-   2. Under article 4(5) of the Sedos constitution, Sedos has the power to “deposit or invest funds, employ a professional fund manager and arrange for the investments or other property of the CIO to be held in the name of a nominee, in the same manner and subject to the same conditions as the trustees of a trust are permitted to do by the Trustee Act 2000”.
-   3. Sedos has an annual income from ticket sales, programme sales, membership subscriptions, and fees for classes and workshops of approximately £120,000 to £140,000. Annual expenditure is approximately £120,000 per annum, allowing for a small annual surplus of approximately£0-20,000 per annum. Any annual surplus of income over expenditure is applied to the Sedos reserve capital held in an account with Lloyds Bank.
-   4. In addition, Sedos has been the beneficiary of the transfer of reserve capital from its predecessor charity vehicle, registered charity 1099443 (‘Old Sedos’). The transfer of funds from Old Sedos occurred when Sedos decided to restructure itself as a CIO. The funds from Old Sedos were made up of corporate charitable donations and an individual legacy request Old Sedos transferred approximately £536,000 to Sedos and these funds have been held as Sedos reserves in a bank account with Lloyds Bank, for any unforeseen expenditure and to support Sedos strategic objective of securing long term rehearsal and performance spaces.
-   5. Sedos currently holds no reserves outside the funds held in the Lloyds Bank Account.
-   6. The Board of Sedos has determined that the sum of up to 70% of the Society’s liquid assets (i.e. cash plus investments)should be invested in Rathbones Active Income and Growth Fund. These funds should be invested to grow at least in line with inflation. They are being invested to achieve a return so that they can further Sedos charitable aims. The Board has determined that the investment with Rathbones Active Income and Growth Fund should be a financial investment and should achieve the best financial return within the level of risk considered to be acceptable. Should the investments with Rathbones come to total more than 70% of liquid assets (either through investment performance or a reduction in the society’s cash balances) then the portfolio should be rebalanced at least semi-annually.
-   7. The Board of Sedos have determined that a portion of reserves within the Lloyds Bank Account will be transferred to Charity Bank where such funds will be invested to directly further the aims of other charitable organisations, as well as achieving a financial return for Sedos. The balance of funds held in the Lloyds Bank Account will be used for the day to day running of Sedos to achieve its charitable purpose.
-   8. The Investment Committee review investment decisions at regular meetings. Responsibility for day- to day investment management will lie with an authorised professional investment manager regulated by the FCA. This will be on a discretionary basis.
-2. **Investment Objectives**
+This policy applies to trustees of the Stock Exchange Dramatic and Operatic Society (‘Sedos Trustees’) and sets out guidelines and procedures for identifying, monitoring and managing actual and potential conflicts of interest by Sedos Trustees.
 
-   1. The Board of Sedos seeks to produce the best financial return within an acceptable, medium level of risk.
-   2. The investment objective for the long term investments is to generate a return in excess of inflation.
-   3. The investment objective for the short term is to preserve the capital value with a medium level of risk. Assets should be readily available to meet unanticipated cash flow requirements, as well as the anticipated capital expenditure to support Sedos strategic objective of securing long term rehearsal and performance spaces, when such spaces become available.
-   4. The Board of Sedos would like to achieve a targeted return of CPI +3% in order to grow assets above inflation.
-3. **Risk**
+In the most general sense, the relevant law says that a Sedos Trustee cannot:
 
-   1. Attitude to Risk
-      Sedos is reliant on legacies and on donations for its activities. Investment assets are held as reserves.
-      The key risk to the long term reserves is inflation and the assets should be invested to mitigate this risk over the long term. The Board of Sedos understand that this is likely to mean that investment will be concentrated in real assets and that the capital value will fluctuate. It is recognised that in order to achieve the desired growth of the assets, a medium level of risk will be necessary. The Board of Sedos is comfortable with this. The focus of investment should include consideration for lowering volatility.
-   2. Assets
+* benefit from an arrangement or transaction entered into by Sedos, if before the arrangement or transaction was entered into, the Sedos Trustee did not disclose their interest to all of the other Sedos Trustees; and
+* accept a benefit from a third party conferred by reason of being a Sedos Trustee or by reason of doing (or not doing) anything in their role as a Sedos Trustee unless the acceptance of the benefit cannot reasonably be regarded as likely to give rise to a conflict of interest.
 
-      Sedos assets can be invested widely and should be diversified by asset class and by security. Asset classes could include cash, bonds, equities, property, hedge funds, structured products, private equity, commodities and any other asset that is deemed suitable for Sedos.
-   3. Currency
+If there is an actual or potential conflict of interest for a Sedos Trustee, it needs to be declared and dealt with in accordance with this policy, the Sedos Constitution and the relevant law. In addition, if it is determined that a transaction gives rise to a conflict, then the transaction needs to be authorised by the Sedos Trustees before that transaction proceeds. It should be noted that this does not apply to a reimbursement by Sedos to a Sedos Trustee (or payment by a Sedos Trustee out of Sedos’ funds) of expenses properly incurred by the Sedos Trustee in the performance of any of Sedos’ functions.
 
-      The base currency of the investment portfolio is Sterling.
-4. **Liquidity Requirements**
+In this policy, references to:
 
-   1. Income from the long term investments will be re-invested. If there is a shortfall in income outside the investments, the Board may decide to draw down some of the capital, but this is not expected to be a regular occurrence.
-5. **Time Horizon**
+* "conflicts" or "conflicts of interest" include actual and/or potential conflicts of interest and/or duty;
+* persons who are "connected" with a charity trustee means:
+* * a child, stepchild, grandchild, parent, brother or sister of a charity trustee;
+  * the spouse, unmarried partner or civil partner of a charity trustee or of any person falling within paragraph (i) above;
+  * any person who is in a business partnership with a charity trustee or any person who is in a business partnership with any person falling within paragraph (i) or (ii) above; and
+  * any company, business, trust or organisation in which a charity trustee (or any other person connected to them) has an interest as a beneficiary or through ownership, control or influence.
+  * If in doubt about whether a person is connected, a Sedos Trustee should seek external advice from a solicitor or other person qualified to advise on the matter; and
+  * "benefit" includes any payment or material benefit (including property, loans, goods and services), other than reasonable out of pocket expenses.
 
-   1. Sedos expects to hold investments for a long term time horizon of 6 to 10 years.
-6. **Investment Policy**
+The Sedos Constitution (at Section 7) sets out some procedures in relation to conflicts of interest. This policy should be read in conjunction with the Sedos Constitution and relevant provisions in the Sedos Constitution take precedence over this policy. 
 
-   1. Sedos has adopted an investment policy to ensure that its investments do not conflict with its aims.
-   2. As such, Sedos wishes to avoid investments in any companies with a poor environmental record (e.g., recent cautions or convictions for pollution) or in companies who have been sanctioned for human rights abuses.
-7. **Management, Reporting and Monitoring**
+### B: THE PURPOSE OF THIS POLICY
 
-   1. Sedos has appointed a professional investment management firm, Rathbones, to manage the assets on a discretionary basis, in line with this investment policy. The Board of Sedos has nominated a list of authorised signatories, two of which are required to sign instructions to Rathbones.
-   2. Rathbones will provide the following information on a quarterly basis: valuation of investments and transaction report. Rathbones will also provide an annual report.
-   3. The Board of Sedos has responsibility for agreeing strategy and monitoring the investment assets. The Investment Committee will review the information provided by Rathbones at their meetings. Rathbones will be required to present in person to the Investment Committee on an annual basis. The Investment Committee will report the value of the portfolio to the Board of Sedos at each Board meeting.
-   4. Performance of the investments will be measured against inflation +3% after fees over any rolling five year period.
-8. **Approval and Review**
+Sedos Trustees have a personal duty to act in the best interests of Sedos. This means that they must not place themselves in a position where they have, or may have, a direct or indirect interest that conflicts with their duties as a Sedos Trustee and must not profit from their position as a Sedos Trustee.  The Charities Act 2011 and Charitable Incorporated Organisations (General) Regulations 2012 (SI 2012/3012) also set out some specific duties and responsibilities in relation to conflicts of interest.
 
-   This Investment Policy Statement was prepared by the Board of Sedos to provide a framework for the management of its investments. It will be reviewed on an annual basis to ensure continuing appropriateness.
+Conflicts of interest can inhibit open discussions and may result in Sedos Trustees taking irrelevant considerations into account or making decisions that are not in Sedos’ best interests. They can also damage the reputation of Sedos if it appears that Sedos Trustees are influenced by personal interests or loyalties. All Sedos Trustees must therefore be alert to the possibility that they, or other Sedos Trustees, could be affected by a conflict of interests. 
 
-Approved: 15 March 2021
+The procedures in this policy will enable Sedos Trustees to identify and manage conflicts of interest so that they can ensure that conflicts do not prevent them from making decisions in the best interest of Sedos. The policy will also help protect Sedos and the Sedos Trustees from any appearance of impropriety in cases where conflicts of interest arise.
 
-- - -
+### C: IDENTIFYING CONFLICTS OF INTEREST
 
-## CONFLICT OF INTEREST POLICY
+A conflict of interest is any situation in which a Sedos Trustee's direct or indirect interests could, or could be seen to, prevent them from making a decision only in the best interests of Sedos.
 
-1. **INTRODUCTION**
+Conflicts of interest may arise:
 
-   1. This policy applies to trustees of the Stock Exchange Dramatic and Operatic Society (‘Sedos Trustees’) and sets out guidelines and procedures for identifying, monitoring and managing actual and potential conflicts of interest by Sedos Trustees.
-   2. In the most general sense, the relevant law says that a Sedos Trustee cannot:
+* where a Sedos Trustee (or a person connected to them) stands to obtain a benefit from Sedos; or
+* where a Sedos Trustee has a duty of loyalty to a third party that conflicts with their duty to Sedos.
 
-      1. benefit from an arrangement or transaction entered into by Sedos, if before the arrangement or transaction was entered into, the Sedos Trustee did not disclose their interest to all of the other Sedos Trustees; and
-      2. accept a benefit from a third party conferred by reason of being a Sedos Trustee or by reason of doing (or not doing) anything in their role as a Sedos Trustee unless the acceptance of the benefit cannot reasonably be regarded as likely to give rise to a conflict of interest.
-   3. If there is an actual or potential conflict of interest for a Sedos Trustee, it needs to be declared and dealt with in accordance with this policy, the Sedos Constitution and the relevant law. In addition, if it is determined that a transaction gives rise to a conflict, then the transaction needs to be authorised by the Sedos Trustees before that transaction proceeds. It should be noted that this does not apply to a reimbursement by Sedos to a Sedos Trustee (or payment by a Sedos Trustee out of Sedos’ funds) of expenses properly incurred by the Sedos Trustee in the performance of any of Sedos’ functions.
-   4. In this policy, references to:
+When considering if they have a conflict of interest, a Sedos Trustee must be aware of the following principles:
 
-      1. "conflicts" or "conflicts of interest" include actual and/or potential conflicts of interest and/or duty;
-      2. persons who are "connected" with a charity trustee means:
+* a conflict of interest exists if there is a possibility that the Sedos Trustee's personal interest could influence their decision-making, even if the Sedos Trustee's decision-making is not in fact adversely affected by the conflict. A reasonable perception that a conflict of interest exists can be enough for a Sedos Trustee to be in breach of their duties; and
+* the interest that gives rise to a conflict may be direct or indirect and, in particular, a conflict may relate to the interests of someone who is connected to a Sedos Trustee as well as to their own personal interests.
 
-         1. a child, stepchild, grandchild, parent, brother or sister of a charity trustee;
-         2. the spouse, unmarried partner or civil partner of a charity trustee or of any person falling within paragraph (i) above;
-         3. any person who is in a business partnership with a charity trustee or any person who is in a business partnership with any person falling within paragraph (i) or (ii) above; and
-         4. any company, business, trust or organisation in which a charity trustee (or any other person connected to them) has an interest as a beneficiary or through ownership, control or influence.
+It is impossible to set out all situations which may result in a conflict, but they may include:
 
-          If in doubt about whether a person is connected, a Sedos Trustee should seek external advice from a solicitor or other person qualified to advise on the matter; and
-      3. "benefit" includes any payment or material benefit (including property, loans, goods and services), other than reasonable out of pocket expenses.
-   5. The Sedos Constitution (at Section 7) sets out some procedures in relation to conflicts of interest. This policy should be read in conjunction with the Sedos Constitution and relevant provisions in the Sedos Constitution take precedence over this policy. 
-2. **THE PURPOSE OF THIS POLICY**
+* selling, loaning or leasing Sedos’ assets to a Sedos Trustee (or a connected person);
+* acquiring, borrowing or leasing assets from a Sedos Trustee (or a connected person);
+* paying a Sedos Trustee for carrying out:
+* * their role as Sedos Trustee,
+  * a separate paid post at Sedos (even if they have resigned as a Sedos Trustee); 
+* paying a Sedos Trustee (or a connected person) for providing a service and/or goods to Sedos; 
+* employing a person connected to a Sedos Trustee at Sedos;
+* making a grant to a Sedos Trustee (or a connected person);
+* when a Sedos Trustee (or a connected person) owes a legal obligation or duty towards another organisation or person (for example, an employer or another charity of which they are a charity trustee) that conflicts with the Sedos Trustee's duty to Sedos;
+* when a Sedos Trustee has a personal sense of loyalty to another organisation or person that conflicts with their loyalty to Sedos; and
+* when a Sedos Trustee has religious or political views that could interfere with their ability to make decisions in the interest of Sedos.
 
-   1. Sedos Trustees have a personal duty to act in the best interests of Sedos. This means that they must not place themselves in a position where they have, or may have, a direct or indirect interest that conflicts with their duties as a Sedos Trustee and must not profit from their position as a Sedos Trustee.  The Charities Act 2011 and Charitable Incorporated Organisations (General) Regulations 2012 (SI 2012/3012) also set out some specific duties and responsibilities in relation to conflicts of interest.
-   2. Conflicts of interest can inhibit open discussions and may result in Sedos Trustees taking irrelevant considerations into account or making decisions that are not in Sedos’ best interests. They can also damage the reputation of Sedos if it appears that Sedos Trustees are influenced by personal interests or loyalties. All Sedos Trustees must therefore be alert to the possibility that they, or other Sedos Trustees, could be affected by a conflict of interests. 
-   3. The procedures in this policy will enable Sedos Trustees to identify and manage conflicts of interest so that they can ensure that conflicts do not prevent them from making decisions in the best interest of Sedos. The policy will also help protect Sedos and the Sedos Trustees from any appearance of impropriety in cases where conflicts of interest arise.
-3. **IDENTIFYING CONFLICTS OF INTEREST**
+### D: PROCEDURE FOR DECLARING INTERESTS
 
-   1. A conflict of interest is any situation in which a Sedos Trustee's direct or indirect interests could, or could be seen to, prevent them from making a decision only in the best interests of Sedos.
-   2. Conflicts of interest may arise:
+All Sedos Trustees have a personal responsibility to declare any interest that might reasonably be regarded as potentially giving rise to a conflict.
 
-      1. where a Sedos Trustee (or a person connected to them) stands to obtain a benefit from Sedos; or
-      2. where a Sedos Trustee has a duty of loyalty to a third party that conflicts with their duty to Sedos.
-   3. When considering if they have a conflict of interest, a Sedos Trustee must be aware of the following principles:
+On appointment, all Sedos Trustees must complete a declaration of interests form:
 
-      1. a conflict of interest exists if there is a possibility that the Sedos Trustee's personal interest could influence their decision-making, even if the Sedos Trustee's decision-making is not in fact adversely affected by the conflict. A reasonable perception that a conflict of interest exists can be enough for a Sedos Trustee to be in breach of their duties; and
-      2. the interest that gives rise to a conflict may be direct or indirect and, in particular, a conflict may relate to the interests of someone who is connected to a Sedos Trustee as well as to their own personal interests.
-   4. It is impossible to set out all situations which may result in a conflict, but they may include:
+* listing any personal interests, business interests or other direct or indirect interests that might potentially give rise to a conflict of interests;
+* listing any interests of connected persons that may potentially give rise to a conflict of interest;
+* declaring any gifts or hospitality received or offered to them in their capacity as charity trustee;
+* confirming that they are not aware of any conflict, other than those already disclosed, that exists between their role and their personal circumstances or other interests;
+* confirming that they will update the form annually, or sooner if any changes occur; and
+* confirming that they will declare any conflict that arises in the future.
 
-      1. selling, loaning or leasing Sedos’ assets to a Sedos Trustee (or a connected person);
-      2. acquiring, borrowing or leasing assets from a Sedos Trustee (or a connected person);
-      3. paying a Sedos Trustee for carrying out:
+The information provided by Sedos Trustees must be recorded in a register of Sedos Trustees' interests (the ‘Conflicts’ Register’). At least once in every 12-month period, all Sedos Trustees must review the information relating to them contained in the Conflicts’ Register and declare that the information is correct or make a further declaration if necessary. 
 
-         1. their role as Sedos Trustee,
-         2. a separate paid post at Sedos (even if they have resigned as a Sedos Trustee); 
-      4. paying a Sedos Trustee (or a connected person) for providing a service and/or goods to Sedos; 
-      5. employing a person connected to a Sedos Trustee at Sedos;
-      6. making a grant to a Sedos Trustee (or a connected person);
-      7. when a Sedos Trustee (or a connected person) owes a legal obligation or duty towards another organisation or person (for example, an employer or another charity of which they are a charity trustee) that conflicts with the Sedos Trustee's duty to Sedos;
-      8. when a Sedos Trustee has a personal sense of loyalty to another organisation or person that conflicts with their loyalty to Sedos; and
-      9. when a Sedos Trustee has religious or political views that could interfere with their ability to make decisions in the interest of Sedos.
-4. **PROCEDURE FOR DECLARING INTERESTS**
+It is for individual Sedos Trustees to decide which matters to declare but, if in doubt, they should make a declaration. 
 
-   1. All Sedos Trustees have a personal responsibility to declare any interest that might reasonably be regarded as potentially giving rise to a conflict.
-   2. On appointment, all Sedos Trustees must complete a declaration of interests form:
+The information provided by Sedos Trustees will be processed in accordance with any prevailing Sedos Privacy Policy, and in any event with data protection principles as set out in the General Data Protection Regulation and the Data Protection Act 2018. Data will be processed only for the purposes set out in this policy and not for any other purpose.
 
-      1. listing any personal interests, business interests or other direct or indirect interests that might potentially give rise to a conflict of interests;
-      2. listing any interests of connected persons that may potentially give rise to a conflict of interest;
-      3. declaring any gifts or hospitality received or offered to them in their capacity as charity trustee;
-      4. confirming that they are not aware of any conflict, other than those already disclosed, that exists between their role and their personal circumstances or other interests;
-      5. confirming that they will update the form annually, or sooner if any changes occur; and
-      6. confirming that they will declare any conflict that arises in the future.
-   3. The information provided by Sedos Trustees must be recorded in a register of Sedos Trustees' interests (the ‘Conflicts’ Register’). At least once in every 12-month period, all Sedos Trustees must review the information relating to them contained in the Conflicts’ Register and declare that the information is correct or make a further declaration if necessary. 
-   4. It is for individual Sedos Trustees to decide which matters to declare but, if in doubt, they should make a declaration. 
-   5. The information provided by Sedos Trustees will be processed in accordance with any prevailing Sedos Privacy Policy, and in any event with data protection principles as set out in the General Data Protection Regulation and the Data Protection Act 2018. Data will be processed only for the purposes set out in this policy and not for any other purpose.
-5. **MAINTAINING THE CONFLICTS’ REGISTER** 
+### E: MAINTAINING THE CONFLICTS’ REGISTER 
 
-   1. The Secretary to the Sedos Trustees will be responsible for maintaining the Conflicts’ Register and will:
+The Secretary to the Sedos Trustees will be responsible for maintaining the Conflicts’ Register and will:
 
-      1. record in the Conflicts’ Register all conflicts, interests, gifts and hospitality declared by Sedos Trustees; and
-      2. circulate amendments or additions to the Conflicts’ Register (if any) to the Sedos Trustees at the start of each Sedos Trustee meeting.
-   2. The Conflicts’ Register will be available for inspection by any Sedos Trustee.
-6. **DECLARATION OF INTERESTS BY PROSPECTIVE SEDOS TRUSTEES**
+* record in the Conflicts’ Register all conflicts, interests, gifts and hospitality declared by Sedos Trustees; and
+* circulate amendments or additions to the Conflicts’ Register (if any) to the Sedos Trustees at the start of each Sedos Trustee meeting.
 
-   1. Before a prospective Sedos Trustee is appointed, they must be asked to declare any direct or indirect interests they have that might give rise to a conflict of interests.
-   2. If the Sedos Trustees consider it likely that the prospective Sedos Trustee will be subject to serious or frequent conflicts of interest, the Sedos Trustees should consider whether it is appropriate to proceed with the appointment.
-7. **PROCESS FOR DECLARING CONFLICTS**
+The Conflicts’ Register will be available for inspection by any Sedos Trustee.
 
-   1. The first item on the agenda of each Sedos Trustee meeting will be a standing item requiring all Sedos Trustees attending the meeting to declare any conflicts of interest relating to the matters to be discussed at the meeting.
-   2. If a Sedos Trustee considers that they have an actual or potential conflict, they must inform the Chair as soon as possible and always before any discussion of the relevant matter. The declaration must specify the nature and extent of any direct or indirect interest that gives rise to the conflict.
-   3. If a Sedos Trustee is aware that another Sedos Trustee has an actual or potential conflict that has not been declared, they must notify the Chair OR the other Sedos Trustees.
-   4. If the Chair is declaring a conflict, they must inform the Vice-Chair OR the other Sedos Trustees.
-   5. If a Sedos Trustee is uncertain whether or not they are conflicted, they should make a declaration to the Chair OR the other Sedos Trustees.  
-   6. The Secretary to the Sedos Trustees must note all conflicts declared in the minutes of the meeting in which they were declared or, if not declared in a meeting, in the minutes of the next Sedos Trustee meeting.
-8. **PROCEDURE FOR ASSESSING CONFLICTS AT MEETINGS**
+### F: DECLARATION OF INTERESTS BY PROSPECTIVE SEDOS TRUSTEES
 
-   1. At the start of each meeting of Sedos Trustees:
+Before a prospective Sedos Trustee is appointed, they must be asked to declare any direct or indirect interests they have that might give rise to a conflict of interests.
 
-      1. the Chair must inform the other Sedos Trustees and the Secretary to Sedos of any conflict of interest that has been declared by a Sedos Trustee that relates to the business to be discussed at the meeting; and
-      2. the Secretary to Sedos will circulate any amendments or additions to the Conflicts’ Register made since the last meeting of Sedos Trustees.
-   2. The way in which conflicts are dealt with will depend on the nature and extent of the conflict. The non-conflicted Sedos Trustees must therefore:
+If the Sedos Trustees consider it likely that the prospective Sedos Trustee will be subject to serious or frequent conflicts of interest, the Sedos Trustees should consider whether it is appropriate to proceed with the appointment.
 
-      1. assess the nature and extent of the conflict;
-      2. assess the risk or threat to decision-making by the Sedos Trustees;
-      3. decide whether the conflict is serious (for example, the conflict is acute or extensive, will or may be seen to prevent the Sedos Trustees from making decisions in the best interests of Sedos, relates to a significant decision or risks significantly damaging Sedos' reputation); and
-      4. decide what steps to take to handle the conflict.
+### G: PROCESS FOR DECLARING CONFLICTS
 
-       When considering the conflict, the Sedos Trustees must take all relevant factors into account, make decisions only in the best interests of Sedos and always protect Sedos' reputation.
-   3. The conflicted Sedos Trustee must not take part in any discussion or decision about the conflict and how to handle it and will not be counted in the quorum for that part of the meeting.
-   4. The non-conflicted Sedos Trustees must consider whether it is necessary to seek legal advice on whether the conflict is serious and/or on how to manage the conflict declared.
-9. **AUTHORISED CONFLICTS OF INTEREST**
+The first item on the agenda of each Sedos Trustee meeting will be a standing item requiring all Sedos Trustees attending the meeting to declare any conflicts of interest relating to the matters to be discussed at the meeting.
 
-   1. A Sedos Trustee's duty to avoid a conflict of interest does not apply if, and to the extent that, the conflict of interest is authorised by any of the following:
+If a Sedos Trustee considers that they have an actual or potential conflict, they must inform the Chair as soon as possible and always before any discussion of the relevant matter. The declaration must specify the nature and extent of any direct or indirect interest that gives rise to the conflict.
 
-      1. an express provision in the Sedos Constitution;
-      2. a statutory provision, such as the powers in the Charities Act 2011 to:
+If a Sedos Trustee is aware that another Sedos Trustee has an actual or potential conflict that has not been declared, they must notify the Chair OR the other Sedos Trustees.
 
-         1. pay a charity trustee (or a connected person) for providing services to the charity (sections 185 to 188); or
-         2. take out and pay premiums for trustee indemnity insurance (section 189); or
-         3. the Charity Commission or the court.
-   2. In each case, the Sedos Trustee must always follow any conditions that apply to the authorisation.
-10. **PROCEDURES FOR MANAGING CONFLICTS**
+If the Chair is declaring a conflict, they must inform the Vice-Chair OR the other Sedos Trustees.
 
-    1. If the conflict arises owing to a financial transaction between Sedos and a Sedos Trustee (or a connected person), or because a Sedos Trustee (or a connected person) will or may obtain a benefit from Sedos:
+If a Sedos Trustee is uncertain whether or not they are conflicted, they should make a declaration to the Chair OR the other Sedos Trustees.  
 
-       1. any potential or proposed benefit must be authorised in advance; and
-       2. the conflicted Sedos Trustee must:
+The Secretary to the Sedos Trustees must note all conflicts declared in the minutes of the meeting in which they were declared or, if not declared in a meeting, in the minutes of the next Sedos Trustee meeting.
 
-          1. withdraw from all discussions and decisions in relation to the matter; and
-          2. not be counted in the quorum for that part of the meeting.
-    2. If the non-conflicted Sedos Trustees decide that a conflict is serious, they must consider:
+### H: PROCEDURE FOR ASSESSING CONFLICTS AT MEETINGS
 
-       1. securing the conflicted Sedos Trustee's resignation and/or appointing a new Sedos Trustee who is not conflicted;
-       2. not pursuing the course of action that gives rise to the conflict or proceeding in a different way so that the conflict does not arise;
-       3. seeking independent, expert advice about how to handle the conflict; and
-       4. asking the Charity Commission for guidance.
-    3. If a conflict is not serious, the non-conflicted Sedos Trustees must decide what procedures and level of participation by the conflicted Sedos Trustee are appropriate. A number of steps can be taken to deal with the conflict, including:
+At the start of each meeting of Sedos Trustees:
 
-       1. requiring the conflicted Sedos Trustee to withdraw from the meeting for the relevant item and not to be counted in the quorum for that part of the meeting;
-       2. allowing the conflicted Sedos Trustee to remain in the meeting for the relevant item to take part in the discussion, but requiring them to withdraw from the meeting during decision-making and to have no right to vote on the matter; or 
-       3. appointing a new, non-conflicted Sedos Trustee.
-    4. If the non-conflicted Sedos Trustees decide that the conflict is low risk (in that it will not prevent the conflicted Sedos Trustee from making decisions in the best interests of Sedos), they may agree that the conflicted Sedos Trustee may continue to participate in discussions and the decision-making process.
-    5. The Chair must inform the conflicted Sedos Trustee of the non-conflicted Sedos Trustees' decision about how to manage the conflict.
-    6. The minutes of the relevant meeting must include a record of the nature and extent of the conflict, an outline of the discussion and the actions taken to manage the conflict.
-    7. Where a Sedos Trustee or a connected person receives a payment or benefit from Sedos, this must be reported in the annual accounts in accordance with the current Statement of Recommended Practice for accounting by charities (Charities SORP).
-11. **ADVISERS AND CONFLICTS**
+* the Chair must inform the other Sedos Trustees and the Secretary to Sedos of any conflict of interest that has been declared by a Sedos Trustee that relates to the business to be discussed at the meeting; and
+* the Secretary to Sedos will circulate any amendments or additions to the Conflicts’ Register made since the last meeting of Sedos Trustees.
 
-    1. Before appointing any advisers to Sedos, the Sedos Trustees must consider whether the adviser has, or may be seen to have, any actual or potential conflict with the interests of Sedos.
-    2. Although most advisers will be members of professional or regulatory bodies and will be required to comply with the relevant professional guidelines, some advisers will not be members of such bodies. The terms of appointment of those advisers may therefore need to be modified to include specific provisions relating to conflicts:  
-    3. 1. an obligation to inform the Sedos Trustees if any circumstances arise in which they are or may be conflicted; and 
-       2. an obligation to address any conflicts that arise in the work they do for the Sedos Trustees.
-12. **TRAINING**
+The way in which conflicts are dealt with will depend on the nature and extent of the conflict. The non-conflicted Sedos Trustees must therefore:
 
-    All newly appointed Sedos Trustees must receive training on this policy and on identifying situations that may result in a conflict and ways in which conflicts can be managed in practice. In addition, charity trustees must be familiar with the principles contained in the Charity Commission's guidance on conflicts.
-13. MONITORING, ENFORCING AND REVIEWING THIS POLICY
+* assess the nature and extent of the conflict;
+* assess the risk or threat to decision-making by the Sedos Trustees;
+* decide whether the conflict is serious (for example, the conflict is acute or extensive, will or may be seen to prevent the Sedos Trustees from making decisions in the best interests of Sedos, relates to a significant decision or risks significantly damaging Sedos' reputation); and
+* decide what steps to take to handle the conflict.
 
-    Any Sedos Trustee who becomes aware of a breach of this policy must report it to the Secretary to the Sedos Trustees or the Chair as soon as possible. This policy shall be enforced by the Sedos Trustees as a body. This policy shall be made available to members of Sedos via the Sedos website. This policy will be reviewed annually in line with industry best practice standards and all relevant legislation and regulations.
+When considering the conflict, the Sedos Trustees must take all relevant factors into account, make decisions only in the best interests of Sedos and always protect Sedos' reputation.
+
+The conflicted Sedos Trustee must not take part in any discussion or decision about the conflict and how to handle it and will not be counted in the quorum for that part of the meeting.
+
+The non-conflicted Sedos Trustees must consider whether it is necessary to seek legal advice on whether the conflict is serious and/or on how to manage the conflict declared.
+
+### I: AUTHORISED CONFLICTS OF INTEREST
+
+A Sedos Trustee's duty to avoid a conflict of interest does not apply if, and to the extent that, the conflict of interest is authorised by any of the following:
+
+* an express provision in the Sedos Constitution;
+* a statutory provision, such as the powers in the Charities Act 2011 to:
+* * pay a charity trustee (or a connected person) for providing services to the charity (sections 185 to 188); or
+  * take out and pay premiums for trustee indemnity insurance (section 189); or
+  * the Charity Commission or the court.
+
+In each case, the Sedos Trustee must always follow any conditions that apply to the authorisation.
+
+### J: PROCEDURES FOR MANAGING CONFLICTS
+
+If the conflict arises owing to a financial transaction between Sedos and a Sedos Trustee (or a connected person), or because a Sedos Trustee (or a connected person) will or may obtain a benefit from Sedos:
+
+* any potential or proposed benefit must be authorised in advance; and
+* the conflicted Sedos Trustee must:
+* * withdraw from all discussions and decisions in relation to the matter; and
+  * not be counted in the quorum for that part of the meeting.
+
+If the non-conflicted Sedos Trustees decide that a conflict is serious, they must consider:
+
+* securing the conflicted Sedos Trustee's resignation and/or appointing a new Sedos Trustee who is not conflicted;
+* not pursuing the course of action that gives rise to the conflict or proceeding in a different way so that the conflict does not arise;
+* seeking independent, expert advice about how to handle the conflict; and
+* asking the Charity Commission for guidance.
+
+If a conflict is not serious, the non-conflicted Sedos Trustees must decide what procedures and level of participation by the conflicted Sedos Trustee are appropriate. A number of steps can be taken to deal with the conflict, including:
+
+* requiring the conflicted Sedos Trustee to withdraw from the meeting for the relevant item and not to be counted in the quorum for that part of the meeting;
+* allowing the conflicted Sedos Trustee to remain in the meeting for the relevant item to take part in the discussion, but requiring them to withdraw from the meeting during decision-making and to have no right to vote on the matter; or 
+* appointing a new, non-conflicted Sedos Trustee.
+
+If the non-conflicted Sedos Trustees decide that the conflict is low risk (in that it will not prevent the conflicted Sedos Trustee from making decisions in the best interests of Sedos), they may agree that the conflicted Sedos Trustee may continue to participate in discussions and the decision-making process.
+
+The Chair must inform the conflicted Sedos Trustee of the non-conflicted Sedos Trustees' decision about how to manage the conflict.
+
+The minutes of the relevant meeting must include a record of the nature and extent of the conflict, an outline of the discussion and the actions taken to manage the conflict.
+
+Where a Sedos Trustee or a connected person receives a payment or benefit from Sedos, this must be reported in the annual accounts in accordance with the current Statement of Recommended Practice for accounting by charities (Charities SORP).
+
+### K: ADVISERS AND CONFLICTS
+
+Before appointing any advisers to Sedos, the Sedos Trustees must consider whether the adviser has, or may be seen to have, any actual or potential conflict with the interests of Sedos.
+
+Although most advisers will be members of professional or regulatory bodies and will be required to comply with the relevant professional guidelines, some advisers will not be members of such bodies. The terms of appointment of those advisers may therefore need to be modified to include specific provisions relating to conflicts:  
+
+* an obligation to inform the Sedos Trustees if any circumstances arise in which they are or may be conflicted; and 
+* an obligation to address any conflicts that arise in the work they do for the Sedos Trustees.
+
+### L: TRAINING
+
+All newly appointed Sedos Trustees must receive training on this policy and on identifying situations that may result in a conflict and ways in which conflicts can be managed in practice. In addition, charity trustees must be familiar with the principles contained in the Charity Commission's guidance on conflicts.
+
+### M: MONITORING, ENFORCING AND REVIEWING THIS POLICY
+
+Any Sedos Trustee who becomes aware of a breach of this policy must report it to the Secretary to the Sedos Trustees or the Chair as soon as possible. This policy shall be enforced by the Sedos Trustees as a body. This policy shall be made available to members of Sedos via the Sedos website. This policy will be reviewed annually in line with industry best practice standards and all relevant legislation and regulations.
 
 Approved: 14 July 2020
 
 - - -
 
-## COVID-19 HEALTH AND SAFETY POLICY
+# HEALTH & SAFETY POLICY
 
 ### A. INTRODUCTION
 
-This policy sets out:
+Sedos is committed to ensuring the HEALTH, SAFETY and WELFARE of its volunteer community and the visitors to any activity it hosts including the shows that it performs.  This commitment entails:
 
-* Sedos’ commitment to ensuring all of its shows and other activities are conducted in a COVID-19 secure manner;
-* The COVID-19 related requirements that must be complied with in respect of any rehearsals, shows, classes, meetings or other activities conducted by Sedos members in the furtherance of Sedos’ aims (“Sedos Activities”); and
-* The specific plan for people that need to self-isolate and/or are identified as symptomatic.
+* the provision and maintenance of a healthy and safe environment at the Sedos rehearsal, workshop and show production spaces (currently at the Bridewell Theatre and any other place where the society rehearses, operates or performs, together the ‘Sedos Premises’), as well as safe equipment, systems of operation and performing and rehearsing conditions;
+* compliance, where appropriate, with the Health and Safety at Work Act 1974;
+* the provision of appropriate and comprehensive information, instruction, training and supervision with the aim of producing safe theatre making methods and procedures and a safe show production environment;
+* making provision for first aid facilities;
+* ensuring adequate fire precautions are implemented and maintained;
+* providing arrangements for ensuring the safe use, handling, storage and movement of articles and substances;
+* making adequate provision for consultation and participation in measures aimed at promoting health and safety at the Sedos Premises;
+* ensuring that suitable risk assessments are undertaken so that hazards are identified and that associated risks are eliminated or controlled;
+* establishing procedures to monitor, review and, as necessary, amend this Policy and the health and safety arrangements;
+* ensuring that competent people are appointed to assist us in making the Sedos volunteer experience a safe and healthy one, including where appropriate bringing in specialists from outside Sedos; and
+* ensuring that every Sedos volunteer is expected to co-operate with us, to enable the goals and protections intended by this Policy to take effect.
+* This Policy will be reviewed annually or more frequently if there are significant changes to our work, activities or practices.
 
-This policy should be read in conjunction with the prevailing government guidance on COVID-19 for professional and non-professional performing arts organizations as it is updated from time to time (the “Guidance”). The links to the Guidance can be found at the end of this policy.
+### B: RESPONSIBILITY
 
-Responsibility for compliance with this policy shall rest with the Management Committee (led by the COVID Compliance Officer) under the supervision and guidance of the Board of Trustees. The Management Committee and COVID Compliance Officer may delegate day-to-day responsibility for compliance with this policy in respect of a specific Sedos Activity to a Session Leader in accordance with section E of this policy but shall regularly monitor that Sedos Activity to ensure compliance is being met and if it is not shall either take steps to ensure compliance or stop the Sedos Activity from proceeding. 
+The Trustees will:
 
-The COVID Compliance Officer shall be nominated by the Management Committee and at the date of this policy is:
+* be responsible for the effective implementation of this Policy; and
+* ensure that the implementation of this Policy (including training) receives financial support appropriate to the resources of Sedos.
 
-Adam Coppard [covid@sedos.co.uk](mailto:covid@sedos.co.uk)
+The Sedos Management Committee will:
 
-The COVID Compliance Officer shall be the first person contacted in the case of a COVID-19 outbreak, in line with section F of this policy.
+* appoint and arrange requisite training for one or more “Competent Person(s)” in compliance with Section 2(c) below who may or may not be on the Management Committee. At the most recent update of this policy, the Competent Persons have not been specifically identified;
+* ensure this Policy is publicly available and brought to the attention of all Sedos volunteers;  
+* ensure the Sedos Premises are regularly inspected to check that the health and safety measures are being maintained (including the introduction of, as appropriate, any additional safety measures, repairs or remedial measures deemed to be necessary from these inspections); 
+* ensure that accidents and dangerous occurrences are reported and properly investigated;
+* ensure that an adequate supply of personal protective equipment is available when necessary;
+* identify where improvements such as further training or revision of current working practices may be appropriate to prevent recurrence.
 
-### B. SEDOS COMMITMENT
+The Competent Person(s):
 
-Sedos is committed to:
+* accept their appointment as a Competent Person and be familiar with this Policy;
+* shall be responsible for keeping a log of all material accidents and incidents that occur at a Sedos Premises or that are directly related to a Sedos activity occurring outside of a Sedos Premises (the “Incident Logbook”) which shall be kept in electronic format on the Sedos Google sharefile;
+* should have the skills, knowledge and experience to be able to recognise hazards at the Sedos Premises and will take the lead on putting sensible controls in place to protect society members, audiences and others from harm; and
+* does not necessarily need to have formal qualifications or training save that relevant training should be made available to the Competent Persons at the cost of Sedos if requested or deemed required by the Management Committee or Trustees.
 
-* maintaining and protecting the health, safety and welfare of its members and the audiences of the shows that it performs;
-* ensuring that any Sedos Activities are conducted in a COVID-19 secure manner and, at a minimum, in accordance with this policy and the Guidance;
-* ensuring that any venues or locations at which Sedos Activities are undertaken are COVID-19 Secure Venues and, at a minimum, comply with this policy, the Guidance and any other government guidance relevant to that venue; and
-* ensuring that its members, volunteers and non-professionals are afforded the same level of protection to their health and safety as employees and the self-employed.
+In respect of a particular production or activity undertaken by Sedos (whether at a Sedos Premises or otherwise) the Management Committee shall ensure that the production team/activity organisers (being in the case of a Sedos show a “Director”, a “Producer” or a “Stage Manager” and in respect of any other Sedos activity, an “Organiser”):
 
-### C. RISK ASSESSMENT
+* are aware of the identity of the Competent Persons who can be consulted regarding any particular or unusual HSE risks; 
+* include such persons that the Management Committee reasonably considers are:
+* * competent to ensure compliance with this Policy in the performance of all aspects of that production/activity;
+  * have at a sufficient level of responsibility within such group to as to be able to direct others to comply with this Policy; and 
+  * that regularly attend such activities. 
 
-The COVID-19 risk assessment (attached at Annex 1) shall be reviewed and, if necessary, updated on a regular basis and the risk mitigating actions set out therein shall be put into practice by the Management Committee. A copy of the risk assessment and this policy shall be accessible on the Sedos website. 
+Such persons do not need to be Competent Persons, however the Management Committee should have due regard to productions/activities with a heightened level of HSE risk, where appointing a Competent Person to oversee high risk activities may be appropriate.
 
-### D. VENUES
+### C: RISK ASSESSMENT
 
-Sedos Activities are conducted at a number of venues. The two venues where Sedos Activities are most often conducted are Theatre Deli and the Bridewell Theatre. Although both of these venues are managed by third parties, the Management Committee, under the supervision of the Board of Trustees shall ensure that:
+As at the date of this Policy, Sedos has identified the following areas where there may be health and safety risks to Sedos volunteers and where Sedos owes a duty of care to the Sedos volunteers to take sensible measures to tackle those risks so far as reasonably practical:
 
-* Theatre Deli is maintained as a COVID-19 Secure Venue so long as it is being used by Sedos;
-* the Bridewell Theatre and any other space where Sedos Activities take place are COVID-19 Secure Venues for so long as they are being used by Sedos; 
-* this policy is posted on the Sedos website; and
-* clear guidance on social distancing and hygiene is provided to audiences before arrival at any performance, for example by email when purchasing tickets, and on any digital marketing and websites.
+* Management of the Sedos Premises;
+* Running rehearsals for Sedos shows;
+* Running other Sedos events, such as SEDANCE, SECHOIR, SIMPROV and other performance workshops;
+* Set-building, prop building and costume making;
+* Organising get-ins and get-outs at the Sedos Premises; and
+* Performing Sedos shows.
 
-Before any Sedos Activities are conducted at venues other than Theatre Deli or the Bridewell Theatre, due diligence shall be done to ensure that such venue is a Covid-19 Secure Venue. Any Sedos Activities at such venue shall comply with the terms of this policy, any policy of that venue and the prevailing Guidance.
+This Policy sets out the arrangements for implementing health and safety measures, in respect of potential risks for each of these identified areas of risk.  
 
-### E. ACTIVITY BY ACTIVITY RISK ASSESSMENT AND COMPLIANCE
+### D: ARRANGEMENTS
 
-#### Session Leaders
+**Access/Egress**
 
-Whenever SEDOS undertakes a Sedos Activity, a separate COVID risk assessment shall be conducted for that Sedos Activity. Whilst the Management Committee will retain overall responsibility for ensuring that all Sedos Activities comply with this policy and the Guidance, a “Session Leader” shall be designated for each Sedos Activity who is delegated responsibility for ensuring the Sedos Activity complies with this policy and the Guidance. The Session Leader shall be a person (or persons) who is responsible for planning and conducting the Sedos Activity and is intended to be present at all or a majority of the in-person meetings for the Sedos Activity. For example, the director or producer of the relevant show or the person running the particular Sedos class.
+* Safe and adequate access and egress will be maintained at all times at the Sedos Premises. 
+* Means of escape will be checked on a regular basis. 
+* Fire exits will be clearly marked and free from obstruction at all times.
+* The Management Committee or Producer/Organiser will be responsible for communicating basic security arrangements to any Sedos volunteers or members of the public who are using the Sedos Premises and ensuring that these are implemented, as far as is reasonably practicable.  
+* All Sedos volunteers will be responsible for the basic security of the Sedos Premises, whilst they are on the Sedos Premises including, as appropriate but not limited to, front door codes, internal door codes, building alarm codes, allocation of keys, closing and locking doors, closing windows, checking the identity of any person or persons before they enter the Sedos Premises.
 
-#### Activity Plan
+**Accident Investigation**
 
-Before commencement of the Sedos Activity, the Session Leader shall meet with the COVID Compliance Officer or other suitable qualified members of the Management Committee responsible for policy compliance in order to:
+* In all situations where an accident occurs, the accident shall be logged in the Incident Logbook by a Competent Person and an accident investigation will take place.
+* The most senior Sedos person on the Sedos Premises will collate an accurate and complete account of the incident which will include a clear description of the sequence of events, identifying the immediate and underlying causes of the incident, as well as notes of the immediate corrective action and provide this to the Competent Person.
+* The accident report will be presented to the Management Committee for review and subsequent corrective action (if needed), as soon as practically possible.
 
-* demonstrate they have read and understood this policy and the Guidance; and
-* set out and agree a plan for ensuring their particular activity will comply with this policy and the Guidance (an “Activity Plan”). The activity plan need not be a  written plan so long as it is clearly expressed to the COVID Compliance Officer.
+**Accident Prevention**
 
-Unless otherwise agreed with the COVID Compliance Officer, the Activity Plan shall require all participants in a Sedos Activity (not including audiences at a Sedos performance but including volunteers at such performance such as FoH staff) to conduct a negative lateral flow test taken at least 48 hours prior to each in-person meeting to conduct a Sedos Activity which has a negative result. The Session Leader is required to monitor lateral flow tests in such a manner as may be reasonably required by the COVID Compliance Officer. As at the date of this policy, this is consistent with the practice of most London theatres.
+* The majority of injuries for those working in the theatre relate to work at height and manual handling. These are addressed below.
 
-Repeated or flagrant failure of the participant to conduct lateral flow tests before a Sedos Activity may result in the participant being excluded from the Sedos Activity until compliance is met or, in extreme circumstances, indefinitely.
+**Control of Hazardous Substances**
 
-Repeated or flagrant failure of the Session Leader to police compliance may result in the Sedos Activity being suspended or the Session Leader being replaced.
+* All hazardous chemicals used for Sedos productions will be clearly labelled, shall be subject to regular assessment and shall be stored and handled in accordance with all relevant laws and best practice.
+* The Producer of each Sedos show (or where relevant the Organiser of a Sedos activity) will be responsible for the assessment and ensuring that the safe handling instructions (set out in Annex B) is brought to the attention of all Sedos volunteers working with such hazardous chemicals.
+* The safe handling instructions shall be prominently displayed on any cabinet in which hazardous chemicals are held.
+* All volunteers must read and understand the safe handling statement, before undertaking any activity involving any hazardous chemicals. Appropriate PPE shall be used if the relevant risks cannot otherwise be reduced to an acceptable level.
+* Any accident involving hazardous chemicals shall be logged in the Incident Logbook.
 
-If the Management Committee is satisfied that the Activity Plan properly mitigates any general and specific risks and that the Session Leader can reasonably ensure compliance with this policy and the Activity Plan by participants, the Sedos Activity may proceed in accordance with this policy and the Activity Plan. 
+**Illness**
 
-In considering any Activity Plan where the Guidelines and this policy cannot be followed in full, the Management Committee shall consider whether that Sedos Activity needs to continue, and if so, take any additional actions possible to reduce the risk of transmission between participants and audiences.
+* Sedos has a commitment to taking reasonable and proportionate steps towards protecting the health of the volunteers and its audience.
+* Volunteers should not be compelled to attend in-person Sedos activities where they are sick or are at risk of making others sick and a culture should be fostered where refraining from attending in-person Sedos activities when sick is encouraged and supported. 
+* Where possible, reasonable steps should be put in place to allow those who are sick but are important to the conduct of the relevant Sedos activity to attend virtually. For example, video conferencing links into rehearsals or meetings.
+* Sedos shall at all times comply with government guidance with regards to health matters.
 
-The Session Leader, with the support of the Management Committee shall be responsible for ensuring that all participants comply with this policy and the Activity Plan. If the relevant Sedos Activity is a show, there may be separate Activity Plans for the rehearsal period and the performance period and the rehearsal period may proceed before the Activity Plan for the performances has been discussed and agreed.
+**Driving Vehicles**
 
-### Specific Considerations to take into account for an Activity Plan
+* Where Sedos volunteers are driving vehicles for Sedos productions, they should only use vehicles which are properly licenced and safe and meet the requirements of the Road Traffic Act.
+* When moving scenery and related equipment, they should always ensure that the load is secure and stacked correctly.
+* They should not use a mobile phone while driving.
 
-In developing and implementing an Activity Plan the Management Committee and the Session Leader should consider the following (on a non-exclusive basis):
+**Electrical Equipment**
 
-* Maintaining social distancing wherever possible and reducing as far as possible any time that individuals are not able to maintain social distancing;
-* Limiting the number of performers as far as possible including conducting rehearsals and training in smaller fixed teams wherever possible;
-* Limiting the number of audience members, noting that capacity should be maintained at a level that allows social distancing to be maintained;
-* Limiting the duration of social interaction opportunities at break times as far as possible including:
-* * Staggering break times and using safe and separate outside areas for breaks;
-  * Encouraging participants to remain on-site during breaks and, when not possible, maintaining social distancing while off-site;
-* Encouraging participants to bring as few personal items with them as possible;
-* Taking steps to encourage audiences to support the overall safety of the event, including discouraging activities which can create aerosol (such as shouting, chanting and singing along), seating individuals rather than allowing them to stand (to help maintain social distancing);
-* Providing space for performers and other attendees to be socially distanced from each other and from any audience, production team members or other individuals, wherever possible during training, rehearsal, pre-production, performance and any other form of performing arts activity;
-* Working outdoors where possible. Where this is not possible, ensuring all rehearsal, training and performance areas, with particular regard to indoor and covered areas, have maximum ventilation whenever staff or audiences are present;
-* Organising and designing auditions, rehearsals, training and performance to avoid situations where performers cannot socially distance, wherever feasible;
-* Adapting live performing arts to ensure they are safe. If that is not possible, consider the use of technology solutions to reduce interactions and ensure social distancing (for example for auditions, rehearsals, production meetings, training and performance);
-* Using floor tape or paint to mark areas to help people maintain social distance, where possible;
-* Learning lines or parts in advance to avoid carrying scripts in rehearsal;
-* If performers are likely to spit during their performance, Session Leaders should consider additional mitigations such the use of face coverings or screens;
-* Performers attending rehearsals and performances only when required for their part and changing the call schedules so that only those required are on-site;
-* Considering contingency plans if a key performer or other participant becomes unable to participate in-person due to becoming symptomatic;
-* Where an individual is operating on a peripatetic basis, such as a teacher, director or choreographer, and operating across multiple groups or individuals: 
-* * Maintaining distancing requirements with each group; 
-  * Avoiding situations where distancing requirement is broken, for example demonstrating partnering work in dancing; and
-  * Making efforts to reduce the number of groups interacted with and locations worked in, to reduce the number of contacts made;
-* Take steps to minimise the risk of transmission playing in music groups including:
-* * Observing social distancing at all times whilst playing.
-  * Using back-to-back or side-to-side positioning (rather than face-to-face) or screens or barriers whenever possible.
-  * Playing outdoors wherever possible.
-  * If playing indoors, limiting the numbers to account for ventilation of the space and the ability to social distance.
-* Structuring auditions in a safe way including:
-* * Self-taping or online auditions to reduce numbers on-site;
-  * Removing waiting rooms where it is not possible to facilitate social distancing, asking people not to arrive ahead of their allocated time slot, and providing clear instruction not to congregate in other areas if waiting;
-  * Using screens to create a physical barrier between people, for example between casting team or accompanist and candidates;
-  * Considering how to appropriately protect any supporting creative team, for example by using screens or ensuring social distancing can be maintained;
-  * Considering the needs of disabled and deaf workers and participants in making adjustments to casting and auditions management;
-* Taking steps to reduce transmission and maintain social distancing where possible whilst designing and constructing the set;
-* Taking steps to reduce transmission through contact with objects such as props including:
-* * Encouraging increased handwashing;
-  * Avoiding sharing personal items such as phones, chargers, pens, and asking owners take responsibility for regularly disinfecting their own personal equipment;
-  * Avoiding sharing professional equipment, music scores, parts and scripts wherever possible;
-  * If equipment has to be shared, regularly disinfecting it and always between users;
-  * Cleaning hire equipment, tools or other equipment on arrival and before first use;
-  * Creating picking-up and dropping-off collection points where possible, rather than passing equipment such as props, scripts, scores and mics hand-to-hand.
+* Particular care should be paid to the handling of any electrical equipment brought on to the Sedos Premises.
+* In particular, inspections and tests will be carried out by a qualified electrician, at suitable intervals, to ensure the safety and integrity of the installation.
+* Additionally, all portable electrical apparatus, plant, tools, extension leads, etc. will be labelled with a unique identification number and periodically examined and tested by a competent person, in accordance with Portable Appliance Testing (PAT).
+* Each Sedos Premises will keep a register of all examinations, tests and any necessary repairs carried out on both the installation and portable apparatus, which are owned or leased by Sedos.
 
-The following are Activity Plan considerations specific to show performances:
+**Emergency Procedures**
 
-* Considering contingency plans if a key performer or other participant becomes unable to participate in-person due to becoming symptomatic;
-* Taking steps to minimise transmission and maintain social distancing before, during and after live performances including:
-* * Conducting a specific risk assessment for each premises or venue and the proposed activities to identify: 
-  * * The number of people that can reasonably follow social distancing within the venue or premises, taking into account total space,   equipment as well as likely constraints (toilets and washrooms) and pinch points; 
-    * The ventilation rates that can be applied to the premises or venue and whether this can be adjusted sufficiently to deliver a safe environment for all those due to attend at any time (performers, producers, support teams and audience combined); 
-    * Which activities can be undertaken and which spaces can be used with specific measures to ensure social distancing and maintain cleaning;
-  * Limiting ticket sales to a volume which ensures social distancing can be maintained; 
-  * For performances or events where there is no ticketing, considering using other communications approaches, coupled with stewarding, to manage the numbers attending;
-  * Setting appropriate limits for the number of people in the venue or on the premises, overall and in any particular congestion areas, for example doorways between outside and inside spaces;
-  * Enabling a booking/seating system or other approaches to manage demand of spaces, and to record those attending, including their seating position which can be provided for contact tracing purposes in the event of a case of Covid-19 in a participant;
-* Considering using available spaces outdoors for performances with a live audience in attendance and if so considering
-* * The guidance on delivering outdoor events, particularly where such performances are not typical to their operations;
-  * Consulting with the relevant authorities and seeking specialist advice to best evaluate impact, developing mitigating strategies and coordinating relevant external agencies if required;
-  * The expected interactions among participants occurring during the event and implementing sufficient controls to ensure social distancing is maintained;
-  * Discouraging or avoiding activities or features that are likely to encourage audience behaviors increasing transmission risk;
-* Considering the expected interactions amongst audience members and making sure sufficient controls are in place to maintain social distancing, for example providing clear communication, demarcating spaces, using sufficient ushers;
-* Considering the particular needs of disabled audiences when making adjustments to venues or premises, and communicating these appropriately before any performance as well as when in the venue or premises;
-* Considering how front of house and back of house teams will operate during live performances, and between performers, crew members and audience members including considering;
-* * Creating front of house and back of house zones with people operating exclusively within each zone, where possible;
-  * Ensuring that members of fixed teams are particularly careful to maintain social distancing when interacting with audience members and others front of house and minimise time spent doing so;
-  * Identifying any roles that typically operate both front of house and back of house, and minimising these where possible;
-  * Identifying any roles that interact with audiences and manage transmission risk appropriately;
-  * Minimising interaction of back of house staff with the audience;
-* Considering the measures of the venue to maintain social distancing wherever possible when people move around the site, premises or venue during performances including queuing for tickets and the toilets, bar areas;
-* Considering seating arrangements for audiences in a way which ensures social distancing between individuals or groups in line with the Guidance including:
-* * Encouraging audience members not to bring bags and coats into auditoria where possible to reduce clutter at seats;
-  * Seating and space for those requiring disabled seating or wheelchair space should be considered within the social distancing arrangements with due regard to accessibility responsibilities under the Equality Act 2010;
-  * Having clearly designated positions from which site, premises or venue staff can provide advice or assistance to guests whilst maintaining social distance;
-  * Considering the needs of disabled audience members, for example access to captioning or audio description services, when managing seating;
-* Considering how guidance on social distancing and hygiene will be delivered to audience members including before arrival, for example by email when purchasing tickets, and on any digital marketing and websites and at the venue itself;
-* Considering steps to minimise the risk of transmission in changing rooms including:
-* * Ensuring they are kept clean and clear of personal items and that social distancing can be achieved as much as possible;
-  * Introducing enhanced cleaning of all facilities regularly during the day and at the end of the day.
-  * For additional reassurance, providing cleaning materials and hand sanitiser for use at touch points.
-  * Providing additional signposting in these areas to maintain social distancing.
-  * Considering creating additional dressing rooms in order to minimise contact between performers.
-  * Where dressing rooms are shared, minimise the number of objects in the room that could be shared between performers;
-* Considering steps to reduce transmission and maintain social distancing where possible whilst managing sound and lighting including:
-* * Creating a screen around sound and lighting desks to create a barrier which aerosols do not pass through between the sound team and audience or other crew;
-  * Where the sound desk is positioned close to audience seating, consider leaving empty the closest row of seats;
-  * Regularly cleaning desks, for example, sound, lighting, mics and battery packs;
-* Considering steps to reduce transmission and maintain social distancing where possible whilst managing the stage and back-stage including:
-* * Restricting workers allowed back-stage and on-stage to those who are essential;
-  * Not permitting visitors back-stage;
-  * Considering how wings can be used to allow for the minimum possible interaction between people, for example one-way systems, dedicated wings for stage managers and dressers;
-  * Reconfiguring back-stage to introduce one-way systems and use of green rooms and crew rooms by fixed teams;
-  * Limiting prop handling to the minimum possible number of people and clean after every performance, and where possible between uses if handled by different people;
-  * Limiting handling of key props on set to a dedicated crew member and relevant cast;
-* Considering the set-up of the band to reduce risk of working in band areas.
-* Considering costume quick changes and other costume change arrangements to reduce transmission and maintain social distancing where possible;
-* Considering steps to reduce transmission and maintain social distancing where possible whilst managing hair and make-up including:
-* * asking performers to do their own hair and make-up where appropriate;
-  * Where it is not possible for someone to do their own hair or makeup, following the [government guidance on working in close contact settings](https://www.gov.uk/guidance/working-safely-during-coronavirus-covid-19/close-contact-services) where relevant; 
-  * Limiting the time spent in a hair and make-up chair whenever possible;
-  * Not sharing makeup equipment; Allocating own makeup kit, brushes, hair products and equipment to each cast member, to be sterilized each day and only used on them;
-  * Increasing equipment and surface hygiene.
+* The Management Committee will ensure all volunteers are informed about the procedures for evacuation of Sedos Premises in the event of an emergency, either directly or by requiring the Director, Producer or Organiser of any Sedos Activity explain those procedures to volunteers as and when appropriate.
+* The Director and Producer of any Sedos show will work with the Bridewell Theatre staff to ensure that all rules for the evacuation of the Bridewell Theatre, in the event of an emergency, are disseminated and observed.
+* The Sedos Front of House volunteers will also be briefed by the Bridewell Theatre staff on the procedures for evacuation of the Bridewell Theatre, in the event of an emergency during a public performance.
 
-### Accidents and other incidents
+**Fire**
 
-In the event of emergency or accident, safety shall take precedence over COVID-19 security. In an emergency people do not have to social distance if it would be unsafe.
+* The Management Committee will commission a fire risk assessment for any Sedos Premises that Sedos is primarily responsible which shall be reviewed annually. 
+* At least one Competent Person will receive Fire Prevention training from an appropriate external body, and this person or persons will become the designated Competent Person (or persons) for assessing fire prevention and procedures on any Sedos Premises that Sedos is primarily responsible. 
+* A Competent Person (or persons) would not be expected to fight a fire, unless they feel safe to do so.
+* The Competent Person (or persons), will monitor fire prevention procedures at Sedos Premises that Sedos is primarily responsible and make sure that these are being adhered to by all volunteers at all times, as far as is reasonably practicable.
+* The Competent Person (or persons) will oversee any changes to the fire prevention procedures and suggest any alterations that may need to be made and will arrange and implement all fire safety training and fire evacuation practises at regular intervals and when appropriate.
+* Directors, Producers, Stage Managers and Organisers shall be directed to ensure that participants in Sedos activities are aware of the emergency procedures, emergency exits and gathering points at any Sedos Premises in which a Sedos activity is conducted. Without limitation to the foregoing, the Stage Manager and Producer of each Sedos show will work with the Bridewell Theatre staff to ensure that fire safety disciplines and procedures are complied with, when participating in a show in the Bridewell Theatre.
+* All escape routes at any Sedos Premises that Sedos is primarily responsible will be clearly signed and kept free from obstructions at all times. 
+* All fire-related equipment at Sedos Premises that Sedos is primarily responsible will be regularly serviced and maintained. If any volunteer notices defective or missing equipment, they must report it immediately to a Competent Person or member of the Management Committee.
+* Any other safety systems will be checked regularly in conjunction with building management to ensure correct operation, where necessary, e.g. alarms, emergency lighting.
 
-### F. PROCESS AFTER COVID OUTBREAK
+**First Aid**
 
-Individuals who:
+* Sedos will pay for any Competent Person who wishes to receive First Aid training (a three day course) from an appropriate external body in order to become the designated First Aider and deemed competent to administer First Aid at Sedos Premises, in the event of injury or illness to any person or persons. This does not require that a trained first aider be present at every Sedos activity.
+* Sedos will ensure that First Aid kits, which are fit for purpose, are fully stocked and available at the Sedos Premises for use by Sedos volunteers.
 
-* have tested positive for COVID-19;
-* have symptoms of COVID-19 (a high temperature, new and persistent cough or anosmia, however mild) and have not shown a sufficient number of negative tests (including a PCR test) to the COVID Compliance Officer to satisfy the COVID Compliance Officer that their symptoms do not arise from COVID-19; or
-* are required to self-isolate as part of the government’s prevailing guidance,
+**‘Get in’ and ‘Get out’ rules for electrics**
 
-shall not be permitted to take part in Sedos Activities until they have complied with this Section F (each an “Excluded Participant”).
+* All ‘get in’ and ‘get out’ activities in relation to electrical equipment (including but not limited to all lighting and sound equipment) shall be supervised by a competent and experienced person. 
+* All equipment should be checked and tested before rigging.
+* All equipment must be clamped to a bar with regulation fittings and chained.
+* All accessory equipment (i.e., barndoors and frames) used by Sedos on equipment that is owned by Sedos must be securely attached. To the extent that accessory equipment used by Sedos on equipment not owned by Sedos is not securely attached, extra care should be taken to ensure such equipment is used safely and the owner of such equipment should be informed of this. Sedos should not use any accessory equipment to the extent there is a material risk that using such accessory equipment may cause harm to any person.
+* Cabling should be taped to the bars and kept clear from the floors and flying equipment.
+* Phases must not be crossed on the bars and FOH positions.
+* All equipment below head height must be clearly marked with white tape.
+* Cabling must be kept clear of the audience and all exposed parts safely covered.
+* All flying of counterweights must be done by a person familiar with the system and the bars must never be under or over weighted.
+* No alcohol is allowed to be consumed by persons actively participating in a get in or get out.
+* All cables must be taped down.
 
-In the event that an individual has been advised to self-isolate as part of the government’s track and trace or app system but is not mandatorily required to self-isolate pursuant to the prevailing government guidance, the following steps shall also be followed unless the COVID Compliance Officer is satisfied that following such steps is not required to: (a) meet Sedos’ legal obligations; and (b) meet Sedos’ commitments in Section B of this policy.  
+**Lone Working**
 
-If a participant becomes aware they are an Excluded Participant they should:
+* Instances of working alone at a Sedos Premises will be exceptional and must be approved by the Management Committee or a Competent Person prior to each occurrence.
 
-* immediately inform the Session Leader(s) of any Sedos Activity they have taken part in over the previous 10 days;
-* self-isolate for at least 10 days from when their symptoms started OR if they are not experiencing symptoms but have tested positive for COVID-19 they should self-isolate for at least 10 days starting from the day the test was taken. If they have tested positive whilst not experiencing symptoms but develop symptoms during the isolation period, they should restart the 10 day isolation period from the day they develop symptoms;
-* if deemed necessary by the Management Committee, obtain the opinion of a doctor that it is safe to return to in-person activities before doing so.
+**Maintenance of equipment**
 
-If a Session Leader becomes or is made aware of a participant becoming an Excluded Participant they shall immediately:
+* All specialist systems (lifts, fire and security alarms, emergency lighting) will be maintained by an external specialist who will undertake all inspections and tests at regular intervals as contracted.
+* The Producer and/or Technical Supervisor, on any Sedos show, will be responsible for the maintenance of all equipment that has been categorised as ‘for use in the production’.
+* The Management Committee will be responsible for the maintenance of all equipment that has been categorised as Sedos property.
 
-* inform the COVID Compliance Officer by email or phone (details in Section A);
-* inform all other participants in the Sedos Activity that a participant has become an Excluded Participant; and
-* comply with any instructions given by the COVID Compliance Officer.
+**Manual Handling**
 
-Promptly thereafter the Session Leader shall meet with the COVID Compliance Officer and other relevant members of the Management Committee to discuss:
+* Reducing the amount and severity of manual handling, as well as ensuring safe conditions for essential manual handling are key priorities for Sedos. Directors, Producers, Stage Managers and Organisers shall thoroughly assess situations in which manual handling and lifting are necessary and where necessary, will be responsible for making sure that all relevant Sedos volunteers have received basic instruction on manual handling techniques. 
+* Assessment will consider the tasks, the loads, the working environment and the volunteers involved and will endeavour to reduce the risk of injury so far as is reasonably practicable. Proper assistance and instruction will be present for any hazardous lifting operation.
+* Any Personal Protective Equipment that is requested in order to limit the risk of accident or injury during any manual handling task will be provided by Sedos. 
 
-* whether the Sedos Activity can continue; and
-* if it can continue, the terms on which it can continue, including investigating ways that the Excluded Participant can still participate from isolation.
+**Protective Equipment**
 
-The Management Committee shall reserve the right to suspend any Sedos Activity either temporarily or indefinitely if any participant in that Sedos Activity becomes an Excluded Participant.
+* All Sedos volunteers engaging in activities for Sedos or on Sedos Premises will be provided with Personal Protective Equipment (PPE) on request or when risk assessment of a task has deemed PPE to be essential.
+* Any person or persons who are asked to use PPE to perform any task or tasks must comply and use all PPE provided for the duration of that task.  
+* All PPE owned by Sedos must be kept in a reasonable condition for use, so it can be used to full effect as protective equipment.
 
-### H. RELEVANT LINKS
+**Special Effects**
 
-<https://www.gov.uk/guidance/working-safely-during-coronavirus-covid-19/performing-arts>
+* The Producer and/or Technical Supervisor on any given Sedos show will ensure that any special effects used in a show such as pyrotechnics and smoke are safe to handle, safely used under their guidelines (including storage) and cause no harm or side effects to public or Sedos volunteers.
 
-<https://www.gov.uk/government/publications/coronavirus-covid-19-meeting-with-others-safely-social-distancing/coronavirus-covid-19-meeting-with-others-safely-social-distancing>
+**Power Tool and Work Equipment Use**
 
-Approved: 9 February 2022
+* The Management Committee shall ensure that all volunteers are fully informed of all working equipment and its use. All volunteers will be fully trained in respect of any particular work equipment before the use of such work equipment, including power tools. 
+* Risk assessments will be carried out to assess the hazards presented by the work equipment and identify any precautions which are needed to ensure the health and safety of volunteers. 
+* Volunteers must ensure that precautions required for the safe operation of work equipment are used in accordance with training or instructions received.
+* Volunteers shall ensure that work equipment shall be stored and handled in accordance with all relevant laws and best practice
+* Any accident involving work equipment must be logged in the Incident Logbook.
 
-# ANNEX 1 - COVID-19 Risk Assessment Register
+**Working at Height**
 
-Company name: Stock Exchange Dramatic and Operatic Society (“SEDOS”)
+* Sedos recognises that nominated and approved volunteers may be required to work at height using equipment provided by the Theatre or, on occasion, during performance.
+* Sedos is aware that one of the major causes of injury is falls from height. Therefore no volunteer may work at height unless:
 
-Completed by: Dan Saunders (Trustee) /Adam Coppard (Management Committee) (“Reviewers”)
+  * safety checks on access equipment (ladders, scaffolding etc.) are carried out regularly and prior to each use; and
+  * use of working at height equipment is limited to those that are trained and competent in their use.
+*  If a performer is required to work at height as part of the performance then, in addition to the above:
 
-Date of next review: January 2023 Date assessment was carried out: January 2022
+  * a Competent Person shall be engaged to discuss the particular work required to ensure such working at height is done safely as possible;
+  * the performer shall be properly advised by a Competent Person, Stage Manager or other relevant competent person of the risks involved with working at height in the manner intended; and
+  * all reasonable precautions should be taken to ensure the safety of the performer including giving the performer appropriate time to practice with appropriate PPE and other safety precautions and not requiring the performer to undertake any work at height that they are not comfortable with conducting.
+* Safety checks on access equipment (ladders, scaffolding) must be carried out regularly. 
+* Under no circumstances should any Sedos volunteer undertake any work at height whilst alone in a Sedos Premises.  
+* There is a legal hierarchy for selecting equipment for work at height, based on using the safest possible method of work that can reasonably and practicably be used in the circumstances:
 
-How was the risk assessment done? 
+  * Do not work at height – use auto focus or bounce focus lights, bring scenery items down to ground level for adjustment etc
+  * Work from an existing place of work – use gantries, bridges or catwalks, a trampoline system or similar.
+  * Work positioning – use fixed length lines to prevent falls, MEWPs
+  * Fall mitigation – use airbags, nets, inertia reel harnesses (which require a rescue plan)
+  * Systems of work – use ladders, Tallescopes, Zargees etc
+  * Further information on working at height can be found in the ABTT [Code of Practice for the selection and use of temporary access equipment for working at heights in theatres](https://www.abtt.org.uk/).
 
-The Reviewers followed the advice at www.hse.gov.uk/simple-health-safety/risk/. 
+Special Groups at Risk
+
+* Sedos takes seriously the protection of special groups which may be at risk. All volunteers shall comply with the separate Sedos Safeguarding Policy.
+
+*Approved: 10 March 2022*
+
+### ANNEX A – RISK REGISTER
+
+**Significant Risk Assessment Register**
+
+**Company name:** Stock Exchange Dramatic and Operatic Society (“SEDOS”)
+
+**Premises:** N/A General Risk Register for Sedos Activities with consideration of Theatre Deli and the Bridewell Theatre (the “Premises”)
+
+**Completed by:** Dan Saunders (Trustee) & Adam Coppard (“Reviewers”)
+
+**Date assessment was carried ou**t: 24 January 2022
+
+**Date of next review:** January 2023
+
+#### How was the risk assessment done? 
+
+The Reviewers followed the advice at www.hse.gov.uk/simple-health-safety/risk/ 
 
 To identify the hazards, they: 
 
-\- considered the prevailing government guidance in force as at the date of the assessment; 
+* considered and walked around the premises currently regularly used by Sedos (Theatre Deli and Bridewell Theatre), noting things that might pose a risk and discussing mitigations; 
+* consulted other members of the Board of Trustees and Management Committee to obtain input of possible significant risks or past accidents; and
+* consulted risk registers of other performing arts organisations to identify risks specific to theatre rehearsal and performance.
 
-\- considered the primary premises that SEDOS operates in (being Theatre Deli and the Bridewell Theatre) and factors that need to be assessed in those locations in order to make them COVID-19 Secure Venues;
+They noted what was already being done to control the risks and recorded any further actions required. They published the following risk assessment to the SEDOS website to encourage members to help put the actions into practice. 
 
-\- considered the needs of those with protected characteristics in making those locations in order to make them COVID-19 Secure Venues’
-
-\- considered the range of activities that members of SEDOS engage in on a regular basis at SEDOS organised events; and
-
-\- consulted with members of the Board of Trustees and Management Committee as elected representatives of the membership of SEDOS to obtain input of possible significant risks and the effect of any mitigations.
-
-They noted what was already being done to control the risks and recorded any further actions required. 
-
-The Reviewers (or other suitable members of the Board of Trustees and/or Management Committee members) will review the risk assessment whenever there are any significant changes to the government guidance or the apparent risk.
-
-<table>
-<tbody>
-<tr>
-<td>
-<p><strong>Where does the risk lie?</strong></p>
-</td>
-<td>
-<p><strong>Who might be harmed and how?</strong></p>
-</td>
-<td>
-<p><strong>What are we doing to control and mitigate the risks?</strong></p>
-</td>
-</tr>
-<tr>
-<td colspan="3">
-<p><strong>AREAS WITH INCREASED RISK OF TRANSMISSION OF COVID-19</strong></p>
-</td>
-</tr>
-            <tr>
-                <td>
-                    <p dir="ltr">
-                        Attending rehearsals, meetings, classes and other
-                        activities at Theatre Deli
-                    </p>
-                </td>
-                <td>
-                    <p dir="ltr">
-                        Most of SEDOS’ rehearsal activities for 2022 are
-                        expected to take place at Theatre Deli. These include:
-                    </p>
-                    <ul>
-                        <li dir="ltr">
-                            <p dir="ltr">
-                                rehearsals,
-                            </p>
-                        </li>
-                        <li dir="ltr">
-                            <p dir="ltr">
-                                classes such as Sedance, Simprov, SeYoga,
-                                SeChoir.
-                            </p>
-                        </li>
-                    </ul>
-                    <br/>
-                    <p dir="ltr">
-                        The following activities may be undertaken at a variety
-                        of places around London:
-                    </p>
-                    <ul>
-                        <li dir="ltr">
-                            <p dir="ltr">
-                                set, prop and costume making;
-                            </p>
-                        </li>
-                        <li dir="ltr">
-                            <p dir="ltr">
-                                storage of equipment, set and costume; and
-                            </p>
-                        </li>
-                        <li dir="ltr">
-                            <p dir="ltr">
-                                production/committee meetings.
-                            </p>
-                        </li>
-                    </ul>
-                    <br/>
-                    <p dir="ltr">
-                        Continuing activities without taking measures to
-                        minimise the risk of the transmission of COVID-19 could
-                        lead to transmission among members and the people that
-                        they come into contact with.
-                    </p>
-                    <br/>
-                    <br/>
-                </td>
-                <td>
-                    <p dir="ltr">
-                        SEDOS has a COVID-19 policy drafted in line with
-                        prevailing government guidelines (the “Policy”) which
-                        must be complied with for any activity undertaken by
-                        SEDOS and its members, wherever it occurs.
-                    </p>
-                    <br/>
-                    <p dir="ltr">
-                        To promote and police compliance with this Policy in
-                        any location, before any activity is undertaken a
-                        “Session Leader” is appointed who is delegated
-                        responsibility for ensuring compliance with the Policy.
-                    </p>
-                    <br/>
-                    <p dir="ltr">
-                        Before commencement of the activity, the Session Leader
-                        is to meet with members of the Management Committee
-                        responsible for Policy compliance in order to:
-                    </p>
-                    <ul>
-                        <li dir="ltr">
-                            <p dir="ltr">
-                                demonstrate they have read and understood the
-                                Policy and any relevant government guidance
-                                applicable to their particular activity;
-                            </p>
-                        </li>
-                        <li dir="ltr">
-                            <p dir="ltr">
-                                set out a plan for ensuring their particular
-                                activity will comply with the Policy (an
-                                “Activity Plan”).
-                            </p>
-                        </li>
-                    </ul>
-                    <br/>
-                    <p dir="ltr">
-                        If the Management Committee is satisfied that the
-                        Activity Plan properly mitigates any specific risks and
-                        that the Session Leader can reasonably ensure
-                        compliance with the Policy and the Activity Plan by
-                        participants, they may proceed with the activity in
-                        accordance with the Policy and the Activity Plan and
-                        shall be responsible for ensuring that all participants
-                        in the activity comply with the Policy and the Activity
-                        Plan.
-                    </p>
-                    <br/>
-                    <p dir="ltr">
-                        Without limitation, any activity conducted by SEDOS
-                        shall:
-                    </p>
-                    <ul>
-                        <li dir="ltr">
-                            <p dir="ltr">
-                                adhere to the government guidance regarding
-                                non-professional theatre groups at all times;
-                            </p>
-                        </li>
-                        <li dir="ltr">
-                            <p dir="ltr">
-                                employ appropriate social distancing for
-                                participants in line with the prevailing
-                                guidance;
-                            </p>
-                        </li>
-                        <li dir="ltr">
-                            <p dir="ltr">
-                                limit the number of participants as far as
-                                possible and always within maximum limits
-                                prescribed by the government guidance;
-                            </p>
-                        </li>
-                        <li dir="ltr">
-                            <p dir="ltr">
-                                limit the duration of social interaction
-                                opportunities as far as possible;
-                            </p>
-                        </li>
-                        <li dir="ltr">
-                            <p dir="ltr">
-                                use face masks wherever use of face masks does
-                                not materially prevent efficacy of the
-                                activity;
-                            </p>
-                        </li>
-                        <li dir="ltr">
-                            <p dir="ltr">
-                                exclude any person that shows symptoms of
-                                COVID-19 or has shown symptoms in the previous
-                                10 days.
-                            </p>
-                        </li>
-                    </ul>
-                    <br/>
-                    <p dir="ltr">
-                        General mitigations measures employed within locations
-                        of activity include:
-                    </p>
-                    <ul>
-                        <li dir="ltr">
-                            <p dir="ltr">
-                                Hand sanitiser stations at key locations;
-                            </p>
-                        </li>
-                        <li dir="ltr">
-                            <p dir="ltr">
-                                Toilet facilities with anti-bacterial cleaning
-                                supplies and single use/non-contact hand drying
-                                facilities;
-                            </p>
-                        </li>
-                        <li dir="ltr">
-                            <p dir="ltr">
-                                Additional signage encouraging social
-                                distancing; and
-                            </p>
-                        </li>
-                    </ul>
-                    <p dir="ltr">
-                        Additional signage encouraging good hygiene practices.
-                    </p>
-                    <p dir="ltr">
-                        There are other specific limits and restrictions set
-                        out in the Policy. The relevant Activity Plan may have
-                        additional limits, restrictions and actions over and
-                        above what is set out in the Policy appropriate for
-                        that activity.
-                    </p>
-                    <br/>
-                    <p dir="ltr">
-                        The Policy also includes an up to date plan in case
-                        there is a COVID-19 outbreak.
-                    </p>
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    <p dir="ltr">
-                        Performing at the Bridewell Theatre (or any other
-                        performance venue)
-                    </p>
-                </td>
-                <td>
-                    <p dir="ltr">
-                        As an amateur dramatics society, SEDOS performs up to
-                        10 shows per year. Shows usually take place at the
-                        Bridewell Theatre although other venues are sometimes
-                        used.
-                    </p>
-                    <br/>
-                    <p dir="ltr">
-                        Performing in a theatre includes the additional risks
-                        (as compared to the risks outlined above) in the
-                        following areas:
-                    </p>
-                    <ul>
-                        <li dir="ltr">
-                            <p dir="ltr">
-                                limited space backstage and in dressing rooms;
-                            </p>
-                        </li>
-                        <li dir="ltr">
-                            <p dir="ltr">
-                                potential inability for performers to properly
-                                social distance as part of the performance;
-                            </p>
-                        </li>
-                        <li dir="ltr">
-                            <p dir="ltr">
-                                the attendance of audience members; and
-                            </p>
-                        </li>
-                        <li dir="ltr">
-                            <p dir="ltr">
-                                potential lack of adequate ventilation.
-                            </p>
-                        </li>
-                    </ul>
-                </td>
-                <td>
-                    <p dir="ltr">
-                        All SEDOS performances must comply with the Policy and
-                        a specific Activity Plan that takes into account the
-                        increased risks associated with performing in the
-                        particular performance space with a live audience.
-                    </p>
-                    <br/>
-                    <p dir="ltr">
-                        Without limitation, performance activity conducted in
-                        the Bridewell Theatre or any other performance space
-                        will:
-                    </p>
-                    <ul>
-                        <li dir="ltr">
-                            <p dir="ltr">
-                                adhere to the government guidance regarding
-                                non-professional theatre groups at all times;
-                            </p>
-                        </li>
-                        <li dir="ltr">
-                            <p dir="ltr">
-                                employ appropriate social distancing for both
-                                participants and audience members in line with
-                                the prevailing guidance;
-                            </p>
-                        </li>
-                        <li dir="ltr">
-                            <p dir="ltr">
-                                limit the number of performers and audience
-                                members to be within the maximum limits
-                                prescribed by the government guidance;
-                            </p>
-                        </li>
-                        <li dir="ltr">
-                            <p dir="ltr">
-                                limit the number of audience members, noting
-                                that capacity should be maintained at a level
-                                that allows social distancing to be maintained;
-                            </p>
-                        </li>
-                        <li dir="ltr">
-                            <p dir="ltr">
-                                limit the duration of performances as far as
-                                possible;
-                            </p>
-                        </li>
-                        <li dir="ltr">
-                            <p dir="ltr">
-                                take steps to improve ventilation as far as
-                                possible and whenever possible, both through
-                                the use of mechanical systems and opening
-                                windows and doors;
-                            </p>
-                        </li>
-                        <li dir="ltr">
-                            <p dir="ltr">
-                                take steps to encourage audiences to support
-                                the overall safety of the event, including
-                                discouraging activities which can create
-                                aerosol (such as shouting, chanting and singing
-                                along), seating individuals rather than
-                                allowing them to stand (to help maintain social
-                                distancing) and the other mitigations outlined
-                                in the government guidance; and
-                            </p>
-                        </li>
-                        <li dir="ltr">
-                            <p dir="ltr">
-                                comply with any specific guidelines and
-                                policies of the relevant performance venue to
-                                the extent they exceed the requirements of the
-                                Policy and the Activity Plan.
-                            </p>
-                        </li>
-                    </ul>
-                    <br/>
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    <p dir="ltr">
-                        Attending rehearsals, meetings, classes and other
-                        activities at any other venue other than Theatre Deli
-                        or the Bridewell Theatre
-                    </p>
-                </td>
-                <td>
-                    <p dir="ltr">
-                        From time to time SEDOS activities are conducted at
-                        third party controlled locations. There is a risk that
-                        such locations may not employ the same COVID-19
-                        standards set out in the Policy thus increasing the
-                        risk of transmission of COVID-19 among SEDOS members
-                        and audiences.
-                    </p>
-                    <br/>
-                </td>
-                <td>
-                    <p dir="ltr">
-                        When choosing any third party controlled venue to
-                        conduct activities a separate assessment shall be made
-                        as to whether such venue complies with its own
-                        government mandated requirements as to COVID-19
-                        security and as to whether the SEDOS activity can be
-                        conducted at that venue in adherence with the Policy
-                        and any Activity Plan.
-                    </p>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                    <p dir="ltr">
-                        COVID-19 Related Considerations for those with
-                        Protected Characteristics
-                    </p>
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    <p dir="ltr">
-                        Use of masks by participants
-                    </p>
-                </td>
-                <td>
-                    <p dir="ltr">
-                        The additional use of masks may prevent hearing
-                        impaired audiences from using lip reading techniques to
-                        understand what is being said in meetings, rehearsals
-                        or performances.
-                    </p>
-                </td>
-                <td>
-                    <p dir="ltr">
-                        Where possible separate, COVID-19 secure arrangements
-                        shall be made to ensure hearing impaired participants
-                        can fully participate in the activity and/or access the
-                        performance. This may include:
-                    </p>
-                    <ul>
-                        <li dir="ltr">
-                            <p dir="ltr">
-                                the preferred use of videoconferencing for any
-                                meetings even when in-person meeting would be
-                                COVID-19 secure;
-                            </p>
-                        </li>
-                        <li dir="ltr">
-                            <p dir="ltr">
-                                sur or sub titles/sign language for
-                                performances; and/or
-                            </p>
-                        </li>
-                        <li dir="ltr">
-                            <p dir="ltr">
-                                transparent face screens or masks being used
-                                instead of opaque masks.
-                            </p>
-                        </li>
-                    </ul>
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    <p dir="ltr">
-                        Access to sanitation products by people with access
-                        issues
-                    </p>
-                </td>
-                <td>
-                    <p dir="ltr">
-                        If improperly located, additional sanitation equipment
-                        may not be acceptable to those with access issues.
-                    </p>
-                </td>
-                <td>
-                    <p dir="ltr">
-                        Due consideration is given to the location of hand
-                        sanitiser stations and toiletry products to ensure that
-                        there is easy access to those products by all people.
-                    </p>
-                </td>
-            </tr>
-        </tbody>
-    </table>
-
-The full SEDOS COVID-19 Policy and Risk Assessment can be found on the Sedos website at <https://sedos.co.uk/>
+The Reviewers (or other suitable members of the Board of Trustees and/or Management Committee members) will review the risk assessment whenever there are any significant changes such as new equipment or activities.
 
 - - -
 
-## Privacy and Data Protection Policy
+# **INVESTMENT POLICY**
 
-This is the privacy policy of the Stock Exchange Drama and Operatic Society CIO, which operates under the name of Sedos. Our Charity Number is 1173896.
+### A: INTRODUCTION
 
-### Introduction
+The Stock Exchange Dramatic and Operatic Society (Sedos) is a charitable incorporated organisation (CIO), whose purpose is (i) to educate the public in the fields of dramatic and musical theatre and to further development of public appreciation of and taste in the said fields and (ii) to give the opportunity for persons interested in the fields of dramatic and musical theatre to participate whether on or off stage in theatrical productions of high quality. 
 
-1. This policy is designed to let you know about the information that we record about you. It sets out the conditions under which we may process information that we collect from you or that you provide to us. It covers information that could identify you (“personal information”) and information that could not. “Process” means collecting, storing, transferring, using or otherwise acting on information.
-2. We take seriously the protection of your privacy and confidentiality. We understand that anyone who provides personal data to us is entitled to know that their personal data will not be used for any purpose unintended by them, and will not accidentally fall into the hands of a third party.
-3. We undertake to preserve the confidentiality of all personal information you provide to us.
-4. Our policy and the processes relating our policy are designed to comply with UK law, including the EU General Data Protection Regulation (GDPR).
-5. The law requires us to tell you about your rights and our obligations to you in regards to the processing and control of your personal data. We do this now, by requesting that you read the information provided at [www.knowyourprivacyrights.org](http://www.knowyourprivacyrights.org)
-6. Except as set out in this privacy policy, we do not share, or sell, or disclose to a third party, any personal information collected by us otherwise provided to us.
+Under article 4(5) of the Sedos constitution, Sedos has the power to “deposit or invest funds, employ a professional fund manager and arrange for the investments or other property of the CIO to be held in the name of a nominee, in the same manner and subject to the same conditions as the trustees of a trust are permitted to do by the Trustee Act 2000”.
 
-### The bases on which we process information about you
+Sedos has an annual income from ticket sales, programme sales, membership subscriptions, and fees for classes and workshops of approximately £120,000 to £140,000. Annual expenditure is approximately £120,000 per annum, allowing for a small annual surplus of approximately£0-20,000 per annum. Any annual surplus of income over expenditure is applied to the Sedos reserve capital held in an account with Lloyds Bank.
+
+In addition, Sedos has been the beneficiary of the transfer of reserve capital from its predecessor charity vehicle, registered charity 1099443 (‘Old Sedos’). The transfer of funds from Old Sedos occurred when Sedos decided to restructure itself as a CIO. The funds from Old Sedos were made up of corporate charitable donations and an individual legacy request Old Sedos transferred approximately £536,000 to Sedos and these funds have been held as Sedos reserves in a bank account with Lloyds Bank, for any unforeseen expenditure and to support Sedos strategic objective of securing long term rehearsal and performance spaces.
+
+Sedos currently holds no reserves outside the funds held in the Lloyds Bank Account.
+
+The Board of Sedos has determined that the sum of up to 70% of the Society’s liquid assets (i.e. cash plus investments)should be invested in Rathbones Active Income and Growth Fund. These funds should be invested to grow at least in line with inflation. They are being invested to achieve a return so that they can further Sedos charitable aims. The Board has determined that the investment with Rathbones Active Income and Growth Fund should be a financial investment and should achieve the best financial return within the level of risk considered to be acceptable. Should the investments with Rathbones come to total more than 70% of liquid assets (either through investment performance or a reduction in the society’s cash balances) then the portfolio should be rebalanced at least semi-annually.
+
+The Board of Sedos have determined that a portion of reserves within the Lloyds Bank Account will be transferred to Charity Bank where such funds will be invested to directly further the aims of other charitable organisations, as well as achieving a financial return for Sedos. The balance of funds held in the Lloyds Bank Account will be used for the day to day running of Sedos to achieve its charitable purpose.
+
+The Investment Committee review investment decisions at regular meetings. Responsibility for day- to day investment management will lie with an authorised professional investment manager regulated by the FCA. This will be on a discretionary basis.
+
+### B: INVESTMENT OBJECTIVES
+
+The Board of Sedos seeks to produce the best financial return within an acceptable, medium level of risk.
+
+The investment objective for the long term investments is to generate a return in excess of inflation.
+
+The investment objective for the short term is to preserve the capital value with a medium level of risk. Assets should be readily available to meet unanticipated cash flow requirements, as well as the anticipated capital expenditure to support Sedos strategic objective of securing long term rehearsal and performance spaces, when such spaces become available.
+
+The Board of Sedos would like to achieve a targeted return of CPI +3% in order to grow assets above inflation.
+
+### C: RISK
+
+Attitude to Risk
+
+* Sedos is reliant on legacies and on donations for its activities. Investment assets are held as reserves.
+* The key risk to the long term reserves is inflation and the assets should be invested to mitigate this risk over the long term. The Board of Sedos understand that this is likely to mean that investment will be concentrated in real assets and that the capital value will fluctuate. It is recognised that in order to achieve the desired growth of the assets, a medium level of risk will be necessary. The Board of Sedos is comfortable with this. The focus of investment should include consideration for lowering volatility.
+
+Assets
+
+* Sedos assets can be invested widely and should be diversified by asset class and by security. Asset classes could include cash, bonds, equities, property, hedge funds, structured products, private equity, commodities and any other asset that is deemed suitable for Sedos.
+
+Currency
+
+* The base currency of the investment portfolio is Sterling.
+
+### D: LIQUIDITY REQUIREMENTS
+
+Income from the long term investments will be re-invested. If there is a shortfall in income outside the investments, the Board may decide to draw down some of the capital, but this is not expected to be a regular occurrence.
+
+### E: TIME HORIZON
+
+Sedos expects to hold investments for a long term time horizon of 6 to 10 years.
+
+### F: INVESTMENT POLICY
+
+Sedos has adopted an investment policy to ensure that its investments do not conflict with its aims.
+
+As such, Sedos wishes to avoid investments in any companies with a poor environmental record (e.g., recent cautions or convictions for pollution) or in companies who have been sanctioned for human rights abuses.
+
+### G: MANAGEMENT, REPORTING AND MONITORING
+
+Sedos has appointed a professional investment management firm, Rathbones, to manage the assets on a discretionary basis, in line with this investment policy. The Board of Sedos has nominated a list of authorised signatories, two of which are required to sign instructions to Rathbones.
+
+Rathbones will provide the following information on a quarterly basis: valuation of investments and transaction report. Rathbones will also provide an annual report.
+
+The Board of Sedos has responsibility for agreeing strategy and monitoring the investment assets. The Investment Committee will review the information provided by Rathbones at their meetings. Rathbones will be required to present in person to the Investment Committee on an annual basis. The Investment Committee will report the value of the portfolio to the Board of Sedos at each Board meeting. 
+
+Performance of the investments will be measured against inflation +3% after fees over any rolling five year period.
+
+### H: APPROVAL AND REVIEW
+
+This Investment Policy Statement was prepared by the Board of Sedos to provide a framework for the management of its investments. It will be reviewed on an annual basis to ensure continuing appropriateness.
+
+Approved: 15 March 2021
+
+- - -
+
+# PRIVACY AND DATA PROTECTION POLICY
+
+### A: INTRODUCTION
+
+This policy is designed to let you know about the information that we record about you. It sets out the conditions under which we may process information that we collect from you or that you provide to us. It covers information that could identify you (“personal information”) and information that could not. “Process” means collecting, storing, transferring, using or otherwise acting on information.
+
+We take seriously the protection of your privacy and confidentiality. We understand that anyone who provides personal data to us is entitled to know that their personal data will not be used for any purpose unintended by them, and will not accidentally fall into the hands of a third party.
+
+We undertake to preserve the confidentiality of all personal information you provide to us.
+
+Our policy and the processes relating our policy are designed to comply with UK law, including the EU General Data Protection Regulation (GDPR).
+
+The law requires us to tell you about your rights and our obligations to you in regards to the processing and control of your personal data. We do this now, by requesting that you read the information provided at [www.knowyourprivacyrights.org](http://www.knowyourprivacyrights.org)
+
+Except as set out in this privacy policy, we do not share, or sell, or disclose to a third party, any personal information collected by us otherwise provided to us.
+
+### B: PROCESSING INFORMATION 
+
+#### The bases on which we process information about you
 
 The law requires us to determine under which of six defined bases we process different categories of your personal information, and to notify you of the basis for each category.
 
@@ -930,166 +553,175 @@ If a basis on which we process your personal information is no longer relevant t
 
 If the basis changes then if required by law we shall notify you of the change and of any new basis under which we have determined that we can continue to process your information.
 
-1. **Information we process because we have a contractual obligation with you**
+#### Information we process because we have a contractual obligation with you
 
-   When you create an account on our website, buy a product or service from us (including purchasing tickets, signing up for an audition or joining us as a member), a contract is formed between you and us.
-   In order to carry out our obligations under that contract we must process the information you give us. Some of this information may be personal information.
+When you create an account on our website, buy a product or service from us (including purchasing tickets, signing up for an audition or joining us as a member), a contract is formed between you and us.
 
-   We may use it in order to:
+In order to carry out our obligations under that contract we must process the information you give us. Some of this information may be personal information.
 
-   1.1.	verify your identity for security purposes;
+We may use it in order to:
 
-   1.2.	sell tickets or other products to you;
+* verify your identity for security purposes;
+* sell tickets or other products to you;
+* provide you with our services; and/or
+* provide you with suggestions and advice on our shows, products, services, how to obtain the most from using our website and otherwise obtain information about our shows, products and services.
 
-   1.3.	provide you with our services; and/or
+We process this information on the basis there is a contract between us, or that you have requested we use the information before we enter into a legal contract.
 
-   1.4.	provide you with suggestions and advice on our shows, products, services, how to obtain the most from using our website and otherwise obtain information about our shows, products and services.
+Additionally, we may aggregate this information in a general way and use it to provide class information. If we use it for this purpose, you as an individual will not be personally identifiable.
 
-   We process this information on the basis there is a contract between us, or that you have requested we use the information before we enter into a legal contract.
+We shall continue to process this information until the contract between us ends or is terminated by either party under the terms of the contract.
 
-   Additionally, we may aggregate this information in a general way and use it to provide class information. If we use it for this purpose, you as an individual will not be personally identifiable.
+Note:  if you are a member of the Sedos, we will send you information about the operation of the society – for example information about our Annual General Meetings and the societies activities.  This information is sent to you to keep you informed of the Charity’s activities and to enable you to benefit from your Membership and as part of the contractual relationship between you and the Charity.     
 
-   We shall continue to process this information until the contract between us ends or is terminated by either party under the terms of the contract.
+#### Information we process with your consent
 
-   Note:  if you are a member of the Sedos, we will send you information about the operation of the society – for example information about our Annual General Meetings and the societies activities.  This information is sent to you to keep you informed of the Charity’s activities and to enable you to benefit from your Membership and as part of the contractual relationship between you and the Charity.
-2. **Information we process with your consent**
+Through certain actions when otherwise there is no contractual relationship between us, such as when you browse our website or ask us to provide you more information about us, including our shows, products and services, you provide your consent to us to process information that may be personal information.
 
-   Through certain actions when otherwise there is no contractual relationship between us, such as when you browse our website or ask us to provide you more information about us, including our shows, products and services, you provide your consent to us to process information that may be personal information.
+Wherever possible, we aim to obtain your explicit consent to process this information, for example, by asking you to agree to our use of cookies.
 
-   Wherever possible, we aim to obtain your explicit consent to process this information, for example, by asking you to agree to our use of cookies.
+We may also ask you, from time to time, to provide us with personal information that is special category data such as racial or ethnic origin, age, gender or genetic data. Where you consent to provide this data, we shall use this information solely to monitor and report on our compliance with our commitment to create a diverse society and community. Compliance with any request for such information is always voluntary and you will never be asked to provide special category data as a requirement to participate in any activity of the society or to be a member of the society, including the purchasing of tickets as an audience member.
 
-   We may also ask you, from time to time, to provide us with personal information that is special category data such as racial or ethnic origin, age, gender or genetic data. Where you consent to provide this data, we shall use this information solely to monitor and report on our compliance with our commitment to create a diverse society and community. Compliance with any request for such information is always voluntary and you will never be asked to provide special category data as a requirement to participate in any activity of the society or to be a member of the society, including the purchasing of tickets as an audience member.
+All raw special category data shall be stored separately from and with a greater level of protection to general data with appropriate levels of security (which shall include being protected behind strong authentication) to reflect the additional levels of sensitivity of such data. Access to such raw data shall be limited to certain members of the Board of Trustees and Management Committee of the society with responsibility for diversity and inclusion and data protection and storage.
 
-   All raw special category data shall be stored separately from and with a greater level of protection to general data with appropriate levels of security (which shall include being protected behind strong authentication) to reflect the additional levels of sensitivity of such data. Access to such raw data shall be limited to certain members of the Board of Trustees and Management Committee of the society with responsibility for diversity and inclusion and data protection and storage.
+Except where you have consented to our use of your information for a specific purpose, we do not use your information in any way that would identify you personally. Where personal information is special category data, we will never report or publicise any such data in a way which would identify you personally. Although efforts will be taken to anonymise special category data collected and stored in its raw form, it is possible that you may be identifiable from such raw data to which access is limited to members of the Board of Trustees as outlined above. We may aggregate personal information in a general way and use it to provide class information, for example to monitor the performance of a particular page on our website or compliance with our general diversity and inclusion commitments.
 
-   Except where you have consented to our use of your information for a specific purpose, we do not use your information in any way that would identify you personally. Where personal information is special category data, we will never report or publicise any such data in a way which would identify you personally. Although efforts will be taken to anonymise special category data collected and stored in its raw form, it is possible that you may be identifiable from such raw data to which access is limited to members of the Board of Trustees as outlined above. We may aggregate personal information in a general way and use it to provide class information, for example to monitor the performance of a particular page on our website or compliance with our general diversity and inclusion commitments.
+If you have acquired tickets or services from us before, we are entitled to assume that you may wish to acquire tickets from us in the future and on that basis, will continue to process your information on this basis until you withdraw your consent or it can be reasonably assumed that your consent no longer exists.  This may include sending you information about the show or event you have booked for and general information about the society and also events that the society is putting on.
 
-   If you have acquired tickets or services from us before, we are entitled to assume that you may wish to acquire tickets from us in the future and on that basis, will continue to process your information on this basis until you withdraw your consent or it can be reasonably assumed that your consent no longer exists.  This may include sending you information about the show or event you have booked for and general information about the society and also events that the society is putting on.
+You may withdraw your consent at any time by instructing us at dataprotection@sedos.co.uk. However, if you do so, you may not be able to continue to use our services.
 
-   You may withdraw your consent at any time by instructing us at [dataprotection@sedos.co.uk](mailto:dataprotection@sedos.co.uk). However, if you do so, you may not be able to continue to use our services.
-3. **Information we process because we have a legal obligation**
+#### Information we process because we have a legal obligation
 
-   We are subject to the law like everyone else. Sometimes, we must process your information in order to comply with a statutory obligation.
+We are subject to the law like everyone else. Sometimes, we must process your information in order to comply with a statutory obligation.
 
-   For example, we may be required to give information to legal authorities if they so request or if they have the proper authorisation such as a search warrant or court order.
+For example, we may be required to give information to legal authorities if they so request or if they have the proper authorisation such as a search warrant or court order.
 
-   This may include your personal information.
+This may include your personal information.
 
-### Specific uses of information you provide to us
+### C: INFORMATION THAT WE COLLECT
 
-4. **Information relating to payments**
+#### Information relating to payments
 
-   If you make a payment to us we retain certain personal information, including your name, address, phone number, email address, IP address and details of the transaction.   This information is stored on our servers or servers that we have access to operated by our third party provider, Ticketsolve, the provider of our ticketing system.  We provide this information and the credit card information for processing by our bank, Lloyds Bank plc and the payments processing agents Realex and Global Payments.  We do not retain copies of your credit card information which is handled and is protected solely by Lloyds Bank plc, Realex and Global Payments.
-5. **Information about direct debits**
+If you make a payment to us we retain certain personal information, including your name, address, phone number, email address, IP address and details of the transaction.   This information is stored on our servers or servers that we have access to operated by our third party provider, Ticketsolve, the provider of our ticketing system.  We provide this information and the credit card information for processing by our bank, Lloyds Bank plc and the payments processing agents Realex and Global Payments.  We do not retain copies of your credit card information which is handled and is protected solely by Lloyds Bank plc, Realex and Global Payments.   
 
-   When you agree to set up a direct debit arrangement, the information you give to us is passed to our own bank and payments processing agents for processing according to our instructions. We do not keep a copy of your banking details, but we do keep a copy of your name, address, phone number and email address.
-   We are registered under the direct debit guarantee scheme. This provides for the customer's bank to refund disputed payments without question, pending further investigation. Direct debits can only be set up for payments to beneficiaries that are approved originators of direct debits. In order to be approved, these beneficiaries are subjected to careful vetting procedures. Once approved, they are required to give indemnity guarantees through their banks.
-6. **Sending a message to us**
+#### Information about direct debits
 
-   When you contact us via one of the contact emails on our website, we collect the data you have given to us in order to reply with the information you need.
+When you agree to set up a direct debit arrangement, the information you give to us is passed to our own bank and payments processing agents for processing according to our instructions. We do not keep a copy of your banking details, but we do keep a copy of your name, address, phone number and email address.
 
-   We keep personally identifiable information associated with your message, such as your name and email address so as to be able to track our communications with you on an ongoing manner.
-7. **Marketing**
+We are registered under the direct debit guarantee scheme. This provides for the customer's bank to refund disputed payments without question, pending further investigation. Direct debits can only be set up for payments to beneficiaries that are approved originators of direct debits. In order to be approved, these beneficiaries are subjected to careful vetting procedures. Once approved, they are required to give indemnity guarantees through their banks.
 
-   We issue newsletters and other marketing information to people who have attended our performances or otherwise expressed an interest in the activities of Sedos.  You will always have the opportunity to unsubscribe from these emails.  Your information is held in our Mailchimp account.
+#### Sending a message to us
 
-   These are separate from the communications that we send specifically to Members relating to the formal activities of Sedos, such as our Annual General Meeting.
-8. **Other information you provide**
+When you contact us via one of the contact emails on our website, we collect the data you have given to us in order to reply with the information you need.
 
-   If you are involved in an audition, a production or as a volunteer, then we will keep certain personal information about you.  If you audition for a production, then we will need to keep your contact details in relation to that project; we will not share details other than as necessary with the production teams for the smooth running of the production or the general business of Sedos in connection with your participation in the activities of Sedos.
+We keep personally identifiable information associated with your message, such as your name and email address so as to be able to track our communications with you on an ongoing manner.
 
-### Use of information we collect through automated systems when you visit our website
+#### Marketing 
 
-9. **Cookies**
+We issue newsletters and other marketing information to people who have attended our performances or otherwise expressed an interest in the activities of Sedos.  You will always have the opportunity to unsubscribe from these emails.  Your information is held in our Mailchimp account.
 
-   Cookies are small text files that are placed on your computer's hard drive by your web browser when you visit any website. They allow information gathered on one web page to be stored until it is needed for use on another, allowing a website to provide you with a personalised experience and the website owner with statistics about how you use the website so that it can be improved.
+These are separate from the communications that we send specifically to Members relating to the formal activities of Sedos, such as our Annual General Meeting. 
 
-   Some cookies may last for a defined period of time, such as one day or until you close your browser. Others last indefinitely.
+#### Other information you provide
 
-   Your web browser should allow you to delete any you choose. It also should allow you to prevent or limit their use.
+If you are involved in an audition, a production or as a volunteer, then we will keep certain personal information about you.  If you audition for a production, then we will need to keep your contact details in relation to that project; we will not share details other than as necessary with the production teams for the smooth running of the production or the general business of Sedos in connection with your participation in the activities of Sedos. 
 
-   Our website uses cookies. They are placed by software that operates on our servers, and by software operated by third parties whose services we use.
+### D: USE OF COLLECTED INFORMATION 
 
-   When you first visit our website, we ask you whether you wish us to use cookies. If you choose not to accept them, we shall not use them for your visit except to record that you have not consented to their use for any other purpose.
+Use of information we collect through automated systems when you visit our website
 
-   We use cookies in the following ways:
+#### Cookies
 
-   9.1.	to track how you use our website
+Cookies are small text files that are placed on your computer's hard drive by your web browser when you visit any website. They allow information gathered on one web page to be stored until it is needed for use on another, allowing a website to provide you with a personalised experience and the website owner with statistics about how you use the website so that it can be improved.
 
-   9.2.	to record whether you have seen specific messages we display on our website
+Some cookies may last for a defined period of time, such as one day or until you close your browser. Others last indefinitely.
 
-   9.3.	to keep you signed in our site
+Your web browser should allow you to delete any you choose. It also should allow you to prevent or limit their use.
 
-   9.4.	to record your answers to surveys and questionnaires on our site while you complete them
-10. **Personal identifiers from your browsing activity**
+Our website uses cookies. They are placed by software that operates on our servers, and by software operated by third parties whose services we use.
 
-    Requests by your web browser to our servers for web pages and other content on our website are recorded.
+When you first visit our website, we ask you whether you wish us to use cookies. If you choose not to accept them, we shall not use them for your visit except to record that you have not consented to their use for any other purpose.
 
-    We record information such as your geographical location, your Internet service provider and your IP address. We also record information about the software you are using to browse our website, such as the type of computer or device and the screen resolution.
+We use cookies in the following ways:
 
-    We use this information in aggregate to assess the popularity of the webpages on our website and how we perform in providing content to you.
+* to track how you use our website
+* to record whether you have seen specific messages we display on our website
+* to keep you signed in our site
+* to record your answers to surveys and questionnaires on our site while you complete them
 
-    If combined with other information we know about you from previous visits, the data possibly could be used to identify you personally, even if you are not signed in to our website.
+#### Personal identifiers from your browsing activity
 
-### Disclosure and sharing of your information
+Requests by your web browser to our servers for web pages and other content on our website are recorded.
 
-11. **Information we obtain from third parties**
+We record information such as your geographical location, your Internet service provider and your IP address. We also record information about the software you are using to browse our website, such as the type of computer or device and the screen resolution.
 
-    Although we do not disclose your personal information to any third party (except as set out in this policy), we sometimes receive data that is indirectly made up from your personal information from third parties whose services we use.
+We use this information in aggregate to assess the popularity of the webpages on our website and how we perform in providing content to you.
 
-    No such information is personally identifiable to you.
-12. **Where is data processed?**
+If combined with other information we know about you from previous visits, the data possibly could be used to identify you personally, even if you are not signed in to our website.
 
-    Our websites are hosted in the UK and all personal information is processed within the UK or the European Union.
+### E: DISCLOSURE AND SHARING OF INFORMATION
 
-### Access to your own information
+#### Information we obtain from third parties
 
-13. **Access to your personal information**
+Although we do not disclose your personal information to any third party (except as set out in this policy), we sometimes receive data that is indirectly made up from your personal information from third parties whose services we use.
 
-    13.1.	To obtain a copy of any information that is not provided on our website you may send us a request at [dataprotection@sedos.co.uk](mailto:dataprotection@sedos.co.uk).
+No such information is personally identifiable to you.
 
-    13.2.	After receiving the request, we will tell you when we expect to provide you with the information, and whether we require any fee for providing it to you.
-14. **Removal of your information**
+#### Where is data processed?
 
-    If you wish us to remove personally identifiable information from our records, you may contact us at [dataprotection@sedos.co.uk](mailto:dataprotection@sedos.co.uk).
+Our websites are hosted in the UK and all personal information is processed within the UK or the European Union.
 
-    This may limit the service we can provide to you and please note that we are required to keep certain information by law.
+### F: ACCESS TO PERSONAL INFORMATION
 
-### Other matters
+To obtain a copy of any information that is not provided on our website you may send us a request at dataprotection@sedos.co.uk.
 
-15. **How you can complain**
+After receiving the request, we will tell you when we expect to provide you with the information, and whether we require any fee for providing it to you.
 
-    15.1.	If you are not happy with our privacy policy or if have any complaint then you should tell us by email. Please email us at [dataprotection@sedos.co.uk](mailto:dataprotection@sedos.co.uk).
+### G: REMOVAL OF INFORMATION
 
-    15.2.	If a dispute is not settled then we hope you will agree to attempt to resolve it by engaging in good faith with us in a process of mediation or arbitration.
+If you wish us to remove personally identifiable information from our records, you may contact us at dataprotection@sedos.co.uk.
 
-    15.3.	If you are in any way dissatisfied about how we process your personal information, you have a right to lodge a complaint with the Information Commissioner's Office. This can be done at <https://ico.org.uk/concerns/>
-16. **Retention period for personal data**
+This may limit the service we can provide to you and please note that we are required to keep certain information by law.   
 
-    Except as otherwise mentioned in this privacy notice, we keep your personal information only for as long as required by us:
+### H: COMPLAINTS
 
-    16.1.	to provide you with the services you have requested;
+If you are not happy with our privacy policy or if have any complaint then you should tell us by email. Please email us at dataprotection@sedos.co.uk.
 
-    16.2.	to comply with other law, including for the period demanded by our tax authorities;
-    16.3.	to support a claim or defence in court.
+If a dispute is not settled then we hope you will agree to attempt to resolve it by engaging in good faith with us in a process of mediation or arbitration. 
 
-    We shall, from time to time, review any personal data held by us and where the above factors do not apply or there is no other legitimate reason for us to retain such personal data will delete and destroy such personal data insofar as we are able to do so. This will not prejudice your ability to ask us to remove personally identifiable information from our records in accordance with section 14 of this policy.
-17. **Compliance with the law**
+If you are in any way dissatisfied about how we process your personal information, you have a right to lodge a complaint with the Information Commissioner's Office. This can be done at <https://ico.org.uk/concerns/>
 
-    Our privacy policy has been compiled so as to comply with the law of every country or legal jurisdiction in which we aim to do business. If you think it fails to satisfy the law of your jurisdiction, we should like to hear from you.
+### I: RETENTION OF PERSONAL DATA
 
-    However, ultimately it is your choice as to whether you wish to use our website or provide any personal data to us.
-18. **Review of this privacy policy**
+Except as otherwise mentioned in this privacy notice, we keep your personal information only for as long as required by us:
 
-    We may update this privacy policy from time to time as necessary. The terms that apply to you are those posted here on our website on the day you provide us with your personal information.  We advise you to print a copy for your records.
+* to provide you with the services you have requested;
+* to comply with other law, including for the period demanded by our tax authorities; and
+* to support a claim or defence in court.
 
-    If you have any question regarding our privacy policy, please contact us at [dataprotection@sedos.co.uk](mailto:dataprotection@sedos.co.uk)
+We shall, from time to time, review any personal data held by us and where the above factors do not apply or there is no other legitimate reason for us to retain such personal data will delete and destroy such personal data insofar as we are able to do so. This will not prejudice your ability to ask us to remove personally identifiable information from our records in accordance with section 14 of this policy.
 
-*Adopted 11 June 2021*
+### J: COMPLIANCE WITH THE LAW
+
+Our privacy policy has been compiled so as to comply with the law of every country or legal jurisdiction in which we aim to do business. If you think it fails to satisfy the law of your jurisdiction, we should like to hear from you.
+
+However, ultimately it is your choice as to whether you wish to use our website or provide any personal data to us.
+
+### K: REVIEW
+
+We may update this privacy policy from time to time as necessary. The terms that apply to you are those posted here on our website on the day you provide us with your personal information.  We advise you to print a copy for your records. 
+
+If you have any question regarding our privacy policy, please contact us at [dataprotection@sedos.co.uk](mailto:dataprotection@sedos.co.uk)
+
+
+
+Adopted 11 June 2021
 
 - - -
 
-## PHOTOGRAPHY POLICY
+# PHOTOGRAPHY POLICY
+
+### A: INTRODUCTION
 
 This policy aims to make photography at Sedos a more "human" experience, to increase comfort for the actors and to take their anxiety and desires into account, by increasing transparency and communication with those whose images we use. 
 
@@ -1099,7 +731,9 @@ Sedos acknowledges that actors might be self-conscious of their image, be worrie
 
 The following is Sedos’s photography policy. This policy should be put on the website, and all members of the production team should adhere to these policies.
 
-* Audition forms must include a checkbox that reads as follows: 
+### B: NOTIFYING CASTS
+
+Audition forms must include a checkbox that reads as follows: 
 
 “Please initial/tick box:
 
@@ -1107,29 +741,216 @@ The following is Sedos’s photography policy. This policy should be put on the 
 
 This should be accompanied on the form by a link to the photography policy, using this link: [https://sedos.co.uk/policies#​photography-policy](https://sedos.co.uk/policies#photography-policy) 
 
-* Audition forms must be retained. Because of this release, they are official documents. Scanning them and putting them online in a shared folder, or using an online form throughout, is ideal.
-* Actors have the right to speak to any member of the production team (including the committee liaison) at any time regarding any images of them or any process involved in their creation. Sedos has the right to control the marketing for the show, but we all want the actors to feel comfortable and raise concerns. 
-* The production team must inform the actors how their image is being used. For most images, an introductory conversation is the only conversation that will inform them of how we’ll be using their photos. Only a simple conversation is needed for headshots, rehearsal shots, staged marketing shots, and dress rehearsal photos. For the most significant uses of actor images, such as if their faces are prominently displayed on the poster or other major advertising, the production team will give the actors the opportunity to be more directly involved.
-* We will be taking headshots, rehearsal shots and shots of the dress rehearsal. The actors should expect each of these, and we will communicate when those happen so they can prepare physically and mentally.
-* For the following types of edits (or similar), the photographers and/or production team does not need to inform the actors nor seek their approval:
-* * Filters, exposure or basic colour edits that change exposure, colour levels. 
-  * Changing of the environment, as long it is not controversial. This includes things like removing signage or marks on the wall, removing distracting items from the environment, editing lighting, etc. This might include edits such as cutting out their image and putting it into a different background (like a stage, a set, etc.).
-  * Minor blemish removal (pimples, hairs, minor cuts and scrapes).
-  * Minor effects on their personal image such as skin softening or localized lighting adjustments.
-* For the following types of edits (or similar), the photographers and/or production team will inform the actors (before publication), but will not seek their approval:
-* * Stylistic edits (such as edge sharpening) that cast them in a character-appropriate light, which might be unflattering (for an example of this, please see the [Gormenghast photos](https://photos.app.goo.gl/DKAvzZXM7iUWHHri7)). Such techniques include but are not limited to: HDR, edge detection, and an unpleasant or unfavourable countenance (smile, frown, menace, growl, etc.)
-  * Placing their image into new environments that are show-specific and not edgy (violent, sexual, etc.)
-* The photographers and/or production team will inform the actors and will seek their approval for the following types of edits before their publication. 
-* * If their image will be used in a non-group setting (fewer than 3 people) in major marketing materials such as the show poster (but not show imagery).
-  * If any image might be deemed sexual or violent in nature.
-  * If we will make significant changes to their person such as changing their facial or body shape, or changing their body. This includes removing things like scars and tattoos and anything else that the actor may feel is part of their “identity”.
-  * Placing their image into new environments that are show-specific and might be considered edgy (violent, sexual, etc.)
-* Actors should understand that informal photos may be taken by other cast members or production staff, and these may be used for marketing purposes. 
-* Actors do not retain the right to approve photos used of them – except in the specific cases mentioned above – but if an actor flags that they have a problem with an image, such a conversation should be taken seriously and action taken to remove or modify the photo(s) if possible. 
-* It is recommended that photographers and production teams take all skin colours into account for headshots, so the actors are best represented.
-* Before each photoshoot...
-* * The production team should notify the actors in advance so they can prepare themselves for the event, both physically and mentally. It may be difficult for actors if their photographs are taken immediately after a dance rehearsal; actors should be given the ability to look their best.
-  * Actors should understand how these images are to be used. If it’s just simple headshots, rehearsal photos and dress rehearsal photos, then just a quick overview will do. However, if this is an explicit complicated photoshoot (such as done with Pippin, Government Inspector, or similar), then please ensure the cast is aware of the vision, purpose and their role in that process.
-  * Photographers should be briefed on the editing policy and pointed to the online version.
-  * Photographers should be introduced to the cast to help put the actors at ease; a simple group introduction is all that’s needed. This is especially important during 1-on-1 shoots like headshots, but also important for dress and rehearsal shots. 
-  * Photographers should minimize their edits to the “first type” above (where we do not ask for actors’ permission). For further edits, or if there are any questions, please consult with the production team.
+Audition forms must be retained. Because of this release, they are official documents. Scanning them and putting them online in a shared folder, or using an online form throughout, is ideal.
+
+Actors have the right to speak to any member of the production team (including the committee liaison) at any time regarding any images of them or any process involved in their creation. Sedos has the right to control the marketing for the show, but we all want the actors to feel comfortable and raise concerns. 
+
+The production team must inform the actors how their image is being used. For most images, an introductory conversation is the only conversation that will inform them of how we’ll be using their photos. Only a simple conversation is needed for headshots, rehearsal shots, staged marketing shots, and dress rehearsal photos. For the most significant uses of actor images, such as if their faces are prominently displayed on the poster or other major advertising, the production team will give the actors the opportunity to be more directly involved.
+
+We will be taking headshots, rehearsal shots and shots of the dress rehearsal. The actors should expect each of these, and we will communicate when those happen so they can prepare physically and mentally.
+
+### C: PHOTO EDITS
+
+For the following types of edits (or similar), the photographers and/or production team does not need to inform the actors nor seek their approval:
+
+* Filters, exposure or basic colour edits that change exposure, colour levels. 
+* Changing of the environment, as long it is not controversial. This includes things like removing signage or marks on the wall, removing distracting items from the environment, editing lighting, etc. This might include edits such as cutting out their image and putting it into a different background (like a stage, a set, etc.).
+* Minor blemish removal (pimples, hairs, minor cuts and scrapes).
+* Minor effects on their personal image such as skin softening or localized lighting adjustments.
+
+For the following types of edits (or similar), the photographers and/or production team will inform the actors (before publication), but will not seek their approval:
+
+* Stylistic edits (such as edge sharpening) that cast them in a character-appropriate light, which might be unflattering (for an example of this, please see the [Gormenghast photos](https://photos.app.goo.gl/DKAvzZXM7iUWHHri7)). Such techniques include but are not limited to: HDR, edge detection, and an unpleasant or unfavourable countenance (smile, frown, menace, growl, etc.)
+* Placing their image into new environments that are show-specific and not edgy (violent, sexual, etc.)
+
+The photographers and/or production team will inform the actors and will seek their approval for the following types of edits before their publication. 
+
+* If their image will be used in a non-group setting (fewer than 3 people) in major marketing materials such as the show poster (but not show imagery).
+* If any image might be deemed sexual or violent in nature.
+* If we will make significant changes to their person such as changing their facial or body shape, or changing their body. This includes removing things like scars and tattoos and anything else that the actor may feel is part of their “identity”.
+* Placing their image into new environments that are show-specific and might be considered edgy (violent, sexual, etc.)
+
+Actors should understand that informal photos may be taken by other cast members or production staff, and these may be used for marketing purposes. 
+
+Actors do not retain the right to approve photos used of them – except in the specific cases mentioned above – but if an actor flags that they have a problem with an image, such a conversation should be taken seriously and action taken to remove or modify the photo(s) if possible. 
+
+It is recommended that photographers and production teams take all skin colours into account for headshots, so the actors are best represented.
+
+### D: PHOTOSHOOTS
+
+Before each photoshoot…
+
+* The production team should notify the actors in advance so they can prepare themselves for the event, both physically and mentally. It may be difficult for actors if their photographs are taken immediately after a dance rehearsal; actors should be given the ability to look their best.
+* Actors should understand how these images are to be used. If it’s just simple headshots, rehearsal photos and dress rehearsal photos, then just a quick overview will do. However, if this is an explicit complicated photoshoot (such as done with Pippin, Government Inspector, or similar), then please ensure the cast is aware of the vision, purpose and their role in that process.
+* Photographers should be briefed on the editing policy and pointed to the online version.
+* Photographers should be introduced to the cast to help put the actors at ease; a simple group introduction is all that’s needed. This is especially important during 1-on-1 shoots like headshots, but also important for dress and rehearsal shots. 
+* Photographers should minimize their edits to the “first type” above (where we do not ask for actors’ permission). For further edits, or if there are any questions, please consult with the production team.
+
+
+
+- - -
+
+# RISK MANAGEMENT POLICY
+
+### A: INTRODUCTION  
+
+The Sedos Trustees recognise that risk management is essential to Sedos’ governance and to Sedos’ continued and sustainable pursuit of its charitable objects, and is a mechanism to help Trustees fulfil their legal duties. Sedos’ approach to risk management is designed to ensure:- 
+
+* The identification, assessment and management of risk is linked to the achievement of the SEDOS's objectives;
+* All areas of risk are covered - for example, financial, governance, operational and reputational;
+* A risk exposure profile can be created that reflects the Sedos Trustees' views as to what levels of risk are acceptable;
+* The principal results of risk identification, evaluation and management are reviewed and considered by the Sedos Trustees on a regular basis; and
+* Risk management is ongoing and embedded in management and operational procedures.
+
+It is the responsibility of all Trustees, individually and collectively, to identify and manage risk. 
+
+The Trustees will regularly review and assess the risks faced by Sedos in all areas of its work and plan for the management of those risks. 
+
+There are risks associated with all Sedos’ activities: they can arise through things that are not done, as well as through ongoing and new initiatives. Risk exposure for Sedos will vary depending on circumstance. For example Sedos may be willing to expose itself to higher risks as the size of Sedos’ reserves increases. Risk tolerance may also be a factor in what activities are undertaken to achieve objectives. The Trustees will therefore ensure that there is an appropriate balance taken between higher and lower risk activities. 
+
+These considerations will inform the Trustees in their decision as to the levels of risk they are willing to accept.
+
+The Trustees must let the Sedos Management Committee and the Sedos volunteer community know the boundaries and limits set by their risk policies to make sure there is a clear understanding of the risks that can and cannot be accepted.
+
+### B: IDENTIFYING SEDOS RISKS
+
+As part of Sedos’ good governance, the Trustees will maintain a risk register. This register is a ‘living document’ and forms the baseline for further risk identification. 
+
+The  Trustees recognise that new risks will appear and other risks will become less or more severe or may disappear over time. Risk identification is therefore an ongoing process within Sedos. 
+
+When new risks are identified by a Trustee, a member of the Management Committee or a volunteer, these will be referred to the Secretary to the Board of Trustees who will, in consultation with the Chair of Trustees, update the risk register accordingly. The Trustees must review the risk register, and the risks identified in it, at least annually. Sub-Committees of the SEDOS Board may review aspects of risk in more detail from time to time, and will report to the Board of Trustees on any findings from such reviews.
+
+In undertaking this, the Trustees and the Management Committee will consider:
+
+* Sedos’s objectives, mission and business plan;
+* The nature and scale of Sedos’ productions and activities;
+* The outcomes that need to be achieved;
+* External factors that might affect Sedos such as legislation and regulation;
+* Sedos’ reputation with its major funders, supporters and volunteers;
+* Past mistakes and problems that Sedos has faced;
+* The governance and operating structure of Sedos;
+* Comparisons with other charities working in the same area or of similar size; and
+* Examples of risk management prepared by other charities or other organisations.
+
+In developing the Sedos risk register, the Trustees and the Management Committee will identify/update risks in the following areas:
+
+* Governance risk;
+* Operational risk; 
+* Financial risk; and
+* External factors.
+
+### C: ASSESSING, MONITORING AND EVALUATING RISK 
+
+Identified risks need to be put into perspective in terms of the potential severity of their impact and likelihood of their occurrence. Assessing and categorising risks helps in prioritising and filtering them, and in establishing whether any further action is required. 
+
+When a new risk arises, the Trustees in consultation with the Management Committee will then assess the risks identified by based on how likely they are to occur and how severe their impact using the methodology set out at Appendix 1.
+
+They will identify those risks that require further action and will propose appropriate actions to mitigate these risks. Mitigating actions will have clearly identified owners.
+
+The risk register can be updated or amended between meetings of the Trustees where agreed by the Trustees and in accordance with any constitutional requirements on decision making. 
+
+Examples of possible actions to mitigate risks are set out in Appendix 2.
+
+### D: SEDOS RISK REGISTER
+
+The SEDOS Risk Register is set out at Appendix 3.
+
+Approved 30 March 2020
+
+
+
+- - -
+
+# SAFEGUARDING POLICY
+
+### A: INTRODUCTION
+
+This document sets out the policy and procedure for safeguarding and managing safeguarding incidents within The Stock Exchange Dramatic And Operatic Society (Sedos).  This policy applies to all members, volunteers and contractors connected to Sedos projects, whether formal or informal.  This policy will be reviewed annually in line with industry best practice standards.
+
+Our policy is simple:
+
+●  every member should feel safe;
+
+●  every member should feel respected; and
+
+●  every member should feel supported.
+
+Where a member feels that this policy has been breached, they should report their concerns via the relevant process below.
+
+All incidents will be reported in accordance with this policy in a timely manner and documentation held confidentially for the time period required by law.
+
+Where an assessment is made that a membership may be revoked as a result of an incident this will be submitted to the Chair of the Board of Trustees for determination by the Board of Trustees in accordance with clause 9(4) of the Constitution of Sedos.
+
+It is the responsibility of each show’s Producer to make their cast and crew aware of the policy and reporting procedures.  Our policy will be displayed at any permanent rehearsal venue used by Sedos and shall be made available in a prominent place on the Sedos website.
+
+### B: DESIGNATED OFFICERS
+
+Sedos shall ensure that at all times a Principal Safeguarding Officer (PSO) and Welfare Officer are appointed from among its members.
+
+Appointments shall be proposed by the Management Committee and approved by the Board of Trustees. Appointments may be revoked by a resolution of the Board of Trustees. An officer may resign from their appointment in writing to the Chair of the Management Committee and Chair of the Board of Trustees.
+
+The Management Committee and Board of Trustees shall ensure that any member appointed to the role of PSO shall have adequate training and experience in performing such role including knowledge of all material statutory obligations of Sedos as it relates to safeguarding.
+
+The Management Committee and Board of Trustees shall ensure that they have confidence that any member appointed to the role of Welfare Officer shall be capable of fulfilling such role.
+
+The designated officers at the date of last revision of this policy (January 2021) are:
+
+* Chair of Board of Trustees: Dawn Harrison-Wallace
+* PSO: Robert J. Stanex
+* Welfare Officer: Dr Kimberly Barker
+
+### C: SAFEGUARDING CHILDREN
+
+Sedos believes that all children should be safe from harm and we understand our duty of care to safeguard their welfare.  While our membership is only open to those over the age of 16, certain projects may require children to preserve the authenticity of a story.
+
+Where a child (under 18) is required for a project, an assessment will be made by the Principal Safeguarding Officer (PSO) and a set of recommendations offered to the Producer prior to the audition notice being released.  Requirements for training, vetting, licensing and chaperoning will also be outlined at this time and must be adhered to.
+
+Where an allegation has been made regarding a child or a child makes a disclosure, this will be investigated following best practice standards.  Where additional consultancy and support is needed this will be sought from NSPCC as industry experts.
+
+### D: SAFEGUARDING ADULTS AT RISK
+
+The nature of our work means that it is highly unlikely we would have a direct service user who would be categorised as an Adult at Risk.  Where a member does meet this threshold, an assessment will be made by the PSO and a set of recommendations offered to the Producer of each show the member is involved with.
+
+Where an allegation has been made regarding an Adult at Risk, this will be investigated following best practice standards.  Where additional consultancy and support is needed this will be sought from Ann Craft Trust as industry experts.
+
+### E: SAFEGUARDING AGAINST SEXUAL HARASSMENT
+
+As a society we often produce works which explore sensitive themes.  We recognise our responsibility in both addressing these issues appropriately and ensuring our members feel safe during the process.  We promote a culture of open dialogue and mutual consent.
+
+Where an allegation has been made regarding Sexual Harassment the Welfare Officer will investigate following best practice standards and facilitate an appropriate intervention.
+
+### F: SAFEGUARDING AGAINST BULLYING BEHAVIOUR
+
+No member should be made to feel belittled or victimised by another member.  Those in positions of power including Directors, Producers and members of the Management Committee and Board of Trustees must be mindful of their added responsibility to create a positive environment and culture.
+
+Where an allegation has been made regarding Bullying the Welfare Officer will facilitate an appropriate mediation with all parties.
+
+### G: HISTORIC CASES
+
+Where an historic incident has been disclosed or uncovered this will be investigated by the relevant Officer in line with current legislation and guidance.
+
+### H: REPORTING AN INCIDENT
+
+Where an allegation is made concerning a child, this must be reported immediately to the PSO via safeguarding@sedos.co.uk.
+
+Where an allegation is made concerning an Adult at Risk, this must be reported immediately to the PSO via safeguarding@sedos.co.uk.
+
+Where an allegation is made concerning Sexual Harassment and-or Bullying within the context of a specific production, this must be reported to the relevant Committee Liaison in the first instance. Members will be informed of how to contact this person at the start of each project. The Committee Liaison will then report to the Welfare Officer as required. This shall not prevent any member from reporting directly to the attention of the Welfare Officer should they believe that it is necessary via \[●]@sedos.co.uk.
+
+Alternatively, or where an allegation is made outside of a production, this must be reported to the Welfare Officer via \[●]@sedos.co.uk.
+
+Allegations of incidents which occurred more than six months ago, should be reported directly to the Chair of the Board of Trustees via chair@sedos.co.uk.
+
+If an allegation is made regarding the PSO or Welfare Officer, it should be reported directly to the Chair of the Board of Trustees via chair@sedos.co.uk.
+
+### I: DESIGNATED OFFICERS
+
+Chair of Trustees                                                   Dawn Harrison-Wallace
+
+Principal Safeguarding Officer (PSO)                   Robert J. Stanex
+
+Welfare Officer                                                      Dr Kimberly Barker
+
+
+
+Approved: January 2021
