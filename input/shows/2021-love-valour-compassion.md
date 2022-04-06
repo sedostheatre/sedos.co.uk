@@ -33,7 +33,8 @@ sections:
 
       **DIRECTOR and DESIGNER** | Robert J. Stanex\
       **PRODUCER** | Rebecca Chisholm\
-      **MOVEMENT and INTIMACY DIRECTOR** | Kimberly Barker
+      **MOVEMENT and INTIMACY DIRECTOR** | Kimberly Barker\
+      **ASSISTANT DIRECTOR** | Louise Roberts
 metaTitle: Love! Valour! Compassion! plays at the Bridewell Theatre from 5-9 July 2022
 metaDescription: Love! Valour! Compassion! – part of Sedos’ 2022 London season –
   plays at the Bridewell Theatre from 5-9 July 2022. A monumental exploration
