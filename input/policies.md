@@ -219,693 +219,260 @@ Approved: 14 July 2020
 
 - - -
 
-## COVID-19 HEALTH AND SAFETY POLICY
+## HEALTH AND SAFETY POLICY
 
 ### A. INTRODUCTION
 
-This policy sets out:
+Sedos is committed to ensuring the HEALTH, SAFETY and WELFARE of its volunteer community and the visitors to any activity it hosts including the shows that it performs.  This commitment entails:
 
-* Sedos’ commitment to ensuring all of its shows and other activities are conducted in a COVID-19 secure manner;
-* The COVID-19 related requirements that must be complied with in respect of any rehearsals, shows, classes, meetings or other activities conducted by Sedos members in the furtherance of Sedos’ aims (“Sedos Activities”); and
-* The specific plan for people that need to self-isolate and/or are identified as symptomatic.
+* the provision and maintenance of a healthy and safe environment at the Sedos rehearsal, workshop and show production spaces (currently at the Bridewell Theatre and any other place where the society rehearses, operates or performs, together the ‘Sedos Premises’), as well as safe equipment, systems of operation and performing and rehearsing conditions;
+* compliance, where appropriate, with the Health and Safety at Work Act 1974;
+* the provision of appropriate and comprehensive information, instruction, training and supervision with the aim of producing safe theatre making methods and procedures and a safe show production environment;
+* making provision for first aid facilities;
+* ensuring adequate fire precautions are implemented and maintained;
+* providing arrangements for ensuring the safe use, handling, storage and movement of articles and substances;
+* making adequate provision for consultation and participation in measures aimed at promoting health and safety at the Sedos Premises;
+* ensuring that suitable risk assessments are undertaken so that hazards are identified and that associated risks are eliminated or controlled;
+* establishing procedures to monitor, review and, as necessary, amend this Policy and the health and safety arrangements;
+* ensuring that competent people are appointed to assist us in making the Sedos volunteer experience a safe and healthy one, including where appropriate bringing in specialists from outside Sedos; and
+* ensuring that every Sedos volunteer is expected to co-operate with us, to enable the goals and protections intended by this Policy to take effect.
+* This Policy will be reviewed annually or more frequently if there are significant changes to our work, activities or practices.
 
-This policy should be read in conjunction with the prevailing government guidance on COVID-19 for professional and non-professional performing arts organizations as it is updated from time to time (the “Guidance”). The links to the Guidance can be found at the end of this policy.
+ 
 
-Responsibility for compliance with this policy shall rest with the Management Committee (led by the COVID Compliance Officer) under the supervision and guidance of the Board of Trustees. The Management Committee and COVID Compliance Officer may delegate day-to-day responsibility for compliance with this policy in respect of a specific Sedos Activity to a Session Leader in accordance with section E of this policy but shall regularly monitor that Sedos Activity to ensure compliance is being met and if it is not shall either take steps to ensure compliance or stop the Sedos Activity from proceeding. 
+### B: RESPONSIBILITY
 
-The COVID Compliance Officer shall be nominated by the Management Committee and at the date of this policy is:
+The Trustees will:
 
-Adam Coppard [covid@sedos.co.uk](mailto:covid@sedos.co.uk)
+* be responsible for the effective implementation of this Policy; and
+* ensure that the implementation of this Policy (including training) receives financial support appropriate to the resources of Sedos.
 
-The COVID Compliance Officer shall be the first person contacted in the case of a COVID-19 outbreak, in line with section F of this policy.
+The Sedos Management Committee will:
 
-### B. SEDOS COMMITMENT
+* appoint and arrange requisite training for one or more “Competent Person(s)” in compliance with Section 2(c) below who may or may not be on the Management Committee. At the most recent update of this policy, the Competent Persons have not been specifically identified;
+* ensure this Policy is publicly available and brought to the attention of all Sedos volunteers;  
+* ensure the Sedos Premises are regularly inspected to check that the health and safety measures are being maintained (including the introduction of, as appropriate, any additional safety measures, repairs or remedial measures deemed to be necessary from these inspections); 
+* ensure that accidents and dangerous occurrences are reported and properly investigated;
+* ensure that an adequate supply of personal protective equipment is available when necessary;
+* identify where improvements such as further training or revision of current working practices may be appropriate to prevent recurrence.
 
-Sedos is committed to:
+The Competent Person(s):
 
-* maintaining and protecting the health, safety and welfare of its members and the audiences of the shows that it performs;
-* ensuring that any Sedos Activities are conducted in a COVID-19 secure manner and, at a minimum, in accordance with this policy and the Guidance;
-* ensuring that any venues or locations at which Sedos Activities are undertaken are COVID-19 Secure Venues and, at a minimum, comply with this policy, the Guidance and any other government guidance relevant to that venue; and
-* ensuring that its members, volunteers and non-professionals are afforded the same level of protection to their health and safety as employees and the self-employed.
+* accept their appointment as a Competent Person and be familiar with this Policy;
+* shall be responsible for keeping a log of all material accidents and incidents that occur at a Sedos Premises or that are directly related to a Sedos activity occurring outside of a Sedos Premises (the “Incident Logbook”) which shall be kept in electronic format on the Sedos Google sharefile;
+* should have the skills, knowledge and experience to be able to recognise hazards at the Sedos Premises and will take the lead on putting sensible controls in place to protect society members, audiences and others from harm; and
+* does not necessarily need to have formal qualifications or training save that relevant training should be made available to the Competent Persons at the cost of Sedos if requested or deemed required by the Management Committee or Trustees.
 
-### C. RISK ASSESSMENT
+In respect of a particular production or activity undertaken by Sedos (whether at a Sedos Premises or otherwise) the Management Committee shall ensure that the production team/activity organisers (being in the case of a Sedos show a “Director”, a “Producer” or a “Stage Manager” and in respect of any other Sedos activity, an “Organiser”):
 
-The COVID-19 risk assessment (attached at Annex 1) shall be reviewed and, if necessary, updated on a regular basis and the risk mitigating actions set out therein shall be put into practice by the Management Committee. A copy of the risk assessment and this policy shall be accessible on the Sedos website. 
+* are aware of the identity of the Competent Persons who can be consulted regarding any particular or unusual HSE risks; 
+* include such persons that the Management Committee reasonably considers are:
+* * competent to ensure compliance with this Policy in the performance of all aspects of that production/activity;
+  * have at a sufficient level of responsibility within such group to as to be able to direct others to comply with this Policy; and 
+  * that regularly attend such activities. 
 
-### D. VENUES
+Such persons do not need to be Competent Persons, however the Management Committee should have due regard to productions/activities with a heightened level of HSE risk, where appointing a Competent Person to oversee high risk activities may be appropriate.
 
-Sedos Activities are conducted at a number of venues. The two venues where Sedos Activities are most often conducted are Theatre Deli and the Bridewell Theatre. Although both of these venues are managed by third parties, the Management Committee, under the supervision of the Board of Trustees shall ensure that:
 
-* Theatre Deli is maintained as a COVID-19 Secure Venue so long as it is being used by Sedos;
-* the Bridewell Theatre and any other space where Sedos Activities take place are COVID-19 Secure Venues for so long as they are being used by Sedos; 
-* this policy is posted on the Sedos website; and
-* clear guidance on social distancing and hygiene is provided to audiences before arrival at any performance, for example by email when purchasing tickets, and on any digital marketing and websites.
 
-Before any Sedos Activities are conducted at venues other than Theatre Deli or the Bridewell Theatre, due diligence shall be done to ensure that such venue is a Covid-19 Secure Venue. Any Sedos Activities at such venue shall comply with the terms of this policy, any policy of that venue and the prevailing Guidance.
+### C: RISK ASSESSMENT
 
-### E. ACTIVITY BY ACTIVITY RISK ASSESSMENT AND COMPLIANCE
+As at the date of this Policy, Sedos has identified the following areas where there may be health and safety risks to Sedos volunteers and where Sedos owes a duty of care to the Sedos volunteers to take sensible measures to tackle those risks so far as reasonably practical:
 
-#### Session Leaders
+* Management of the Sedos Premises;
+* Running rehearsals for Sedos shows;
+* Running other Sedos events, such as SEDANCE, SECHOIR, SIMPROV and other performance workshops;
+* Set-building, prop building and costume making;
+* Organising get-ins and get-outs at the Sedos Premises; and
+* Performing Sedos shows.
 
-Whenever SEDOS undertakes a Sedos Activity, a separate COVID risk assessment shall be conducted for that Sedos Activity. Whilst the Management Committee will retain overall responsibility for ensuring that all Sedos Activities comply with this policy and the Guidance, a “Session Leader” shall be designated for each Sedos Activity who is delegated responsibility for ensuring the Sedos Activity complies with this policy and the Guidance. The Session Leader shall be a person (or persons) who is responsible for planning and conducting the Sedos Activity and is intended to be present at all or a majority of the in-person meetings for the Sedos Activity. For example, the director or producer of the relevant show or the person running the particular Sedos class.
+This Policy sets out the arrangements for implementing health and safety measures, in respect of potential risks for each of these identified areas of risk.  
 
-#### Activity Plan
 
-Before commencement of the Sedos Activity, the Session Leader shall meet with the COVID Compliance Officer or other suitable qualified members of the Management Committee responsible for policy compliance in order to:
 
-* demonstrate they have read and understood this policy and the Guidance; and
-* set out and agree a plan for ensuring their particular activity will comply with this policy and the Guidance (an “Activity Plan”). The activity plan need not be a  written plan so long as it is clearly expressed to the COVID Compliance Officer.
+### D: ARRANGEMENTS
 
-Unless otherwise agreed with the COVID Compliance Officer, the Activity Plan shall require all participants in a Sedos Activity (not including audiences at a Sedos performance but including volunteers at such performance such as FoH staff) to conduct a negative lateral flow test taken at least 48 hours prior to each in-person meeting to conduct a Sedos Activity which has a negative result. The Session Leader is required to monitor lateral flow tests in such a manner as may be reasonably required by the COVID Compliance Officer. As at the date of this policy, this is consistent with the practice of most London theatres.
+**Access/Egress**
 
-Repeated or flagrant failure of the participant to conduct lateral flow tests before a Sedos Activity may result in the participant being excluded from the Sedos Activity until compliance is met or, in extreme circumstances, indefinitely.
+* Safe and adequate access and egress will be maintained at all times at the Sedos Premises. 
+* Means of escape will be checked on a regular basis. 
+* Fire exits will be clearly marked and free from obstruction at all times.
+* The Management Committee or Producer/Organiser will be responsible for communicating basic security arrangements to any Sedos volunteers or members of the public who are using the Sedos Premises and ensuring that these are implemented, as far as is reasonably practicable.  
+* All Sedos volunteers will be responsible for the basic security of the Sedos Premises, whilst they are on the Sedos Premises including, as appropriate but not limited to, front door codes, internal door codes, building alarm codes, allocation of keys, closing and locking doors, closing windows, checking the identity of any person or persons before they enter the Sedos Premises.
 
-Repeated or flagrant failure of the Session Leader to police compliance may result in the Sedos Activity being suspended or the Session Leader being replaced.
+**Accident Investigation**
 
-If the Management Committee is satisfied that the Activity Plan properly mitigates any general and specific risks and that the Session Leader can reasonably ensure compliance with this policy and the Activity Plan by participants, the Sedos Activity may proceed in accordance with this policy and the Activity Plan. 
+* In all situations where an accident occurs, the accident shall be logged in the Incident Logbook by a Competent Person and an accident investigation will take place.
+* The most senior Sedos person on the Sedos Premises will collate an accurate and complete account of the incident which will include a clear description of the sequence of events, identifying the immediate and underlying causes of the incident, as well as notes of the immediate corrective action and provide this to the Competent Person.
+* The accident report will be presented to the Management Committee for review and subsequent corrective action (if needed), as soon as practically possible.
 
-In considering any Activity Plan where the Guidelines and this policy cannot be followed in full, the Management Committee shall consider whether that Sedos Activity needs to continue, and if so, take any additional actions possible to reduce the risk of transmission between participants and audiences.
+**Accident Prevention**
 
-The Session Leader, with the support of the Management Committee shall be responsible for ensuring that all participants comply with this policy and the Activity Plan. If the relevant Sedos Activity is a show, there may be separate Activity Plans for the rehearsal period and the performance period and the rehearsal period may proceed before the Activity Plan for the performances has been discussed and agreed.
+* The majority of injuries for those working in the theatre relate to work at height and manual handling. These are addressed below.
 
-### Specific Considerations to take into account for an Activity Plan
+**Control of Hazardous Substances**
 
-In developing and implementing an Activity Plan the Management Committee and the Session Leader should consider the following (on a non-exclusive basis):
+* All hazardous chemicals used for Sedos productions will be clearly labelled, shall be subject to regular assessment and shall be stored and handled in accordance with all relevant laws and best practice.
+* The Producer of each Sedos show (or where relevant the Organiser of a Sedos activity) will be responsible for the assessment and ensuring that the safe handling instructions (set out in Annex B) is brought to the attention of all Sedos volunteers working with such hazardous chemicals.
+* The safe handling instructions shall be prominently displayed on any cabinet in which hazardous chemicals are held.
+* All volunteers must read and understand the safe handling statement, before undertaking any activity involving any hazardous chemicals. Appropriate PPE shall be used if the relevant risks cannot otherwise be reduced to an acceptable level.
+* Any accident involving hazardous chemicals shall be logged in the Incident Logbook.
 
-* Maintaining social distancing wherever possible and reducing as far as possible any time that individuals are not able to maintain social distancing;
-* Limiting the number of performers as far as possible including conducting rehearsals and training in smaller fixed teams wherever possible;
-* Limiting the number of audience members, noting that capacity should be maintained at a level that allows social distancing to be maintained;
-* Limiting the duration of social interaction opportunities at break times as far as possible including:
-* * Staggering break times and using safe and separate outside areas for breaks;
-  * Encouraging participants to remain on-site during breaks and, when not possible, maintaining social distancing while off-site;
-* Encouraging participants to bring as few personal items with them as possible;
-* Taking steps to encourage audiences to support the overall safety of the event, including discouraging activities which can create aerosol (such as shouting, chanting and singing along), seating individuals rather than allowing them to stand (to help maintain social distancing);
-* Providing space for performers and other attendees to be socially distanced from each other and from any audience, production team members or other individuals, wherever possible during training, rehearsal, pre-production, performance and any other form of performing arts activity;
-* Working outdoors where possible. Where this is not possible, ensuring all rehearsal, training and performance areas, with particular regard to indoor and covered areas, have maximum ventilation whenever staff or audiences are present;
-* Organising and designing auditions, rehearsals, training and performance to avoid situations where performers cannot socially distance, wherever feasible;
-* Adapting live performing arts to ensure they are safe. If that is not possible, consider the use of technology solutions to reduce interactions and ensure social distancing (for example for auditions, rehearsals, production meetings, training and performance);
-* Using floor tape or paint to mark areas to help people maintain social distance, where possible;
-* Learning lines or parts in advance to avoid carrying scripts in rehearsal;
-* If performers are likely to spit during their performance, Session Leaders should consider additional mitigations such the use of face coverings or screens;
-* Performers attending rehearsals and performances only when required for their part and changing the call schedules so that only those required are on-site;
-* Considering contingency plans if a key performer or other participant becomes unable to participate in-person due to becoming symptomatic;
-* Where an individual is operating on a peripatetic basis, such as a teacher, director or choreographer, and operating across multiple groups or individuals: 
-* * Maintaining distancing requirements with each group; 
-  * Avoiding situations where distancing requirement is broken, for example demonstrating partnering work in dancing; and
-  * Making efforts to reduce the number of groups interacted with and locations worked in, to reduce the number of contacts made;
-* Take steps to minimise the risk of transmission playing in music groups including:
-* * Observing social distancing at all times whilst playing.
-  * Using back-to-back or side-to-side positioning (rather than face-to-face) or screens or barriers whenever possible.
-  * Playing outdoors wherever possible.
-  * If playing indoors, limiting the numbers to account for ventilation of the space and the ability to social distance.
-* Structuring auditions in a safe way including:
-* * Self-taping or online auditions to reduce numbers on-site;
-  * Removing waiting rooms where it is not possible to facilitate social distancing, asking people not to arrive ahead of their allocated time slot, and providing clear instruction not to congregate in other areas if waiting;
-  * Using screens to create a physical barrier between people, for example between casting team or accompanist and candidates;
-  * Considering how to appropriately protect any supporting creative team, for example by using screens or ensuring social distancing can be maintained;
-  * Considering the needs of disabled and deaf workers and participants in making adjustments to casting and auditions management;
-* Taking steps to reduce transmission and maintain social distancing where possible whilst designing and constructing the set;
-* Taking steps to reduce transmission through contact with objects such as props including:
-* * Encouraging increased handwashing;
-  * Avoiding sharing personal items such as phones, chargers, pens, and asking owners take responsibility for regularly disinfecting their own personal equipment;
-  * Avoiding sharing professional equipment, music scores, parts and scripts wherever possible;
-  * If equipment has to be shared, regularly disinfecting it and always between users;
-  * Cleaning hire equipment, tools or other equipment on arrival and before first use;
-  * Creating picking-up and dropping-off collection points where possible, rather than passing equipment such as props, scripts, scores and mics hand-to-hand.
+**Illness**
 
-The following are Activity Plan considerations specific to show performances:
+* Sedos has a commitment to taking reasonable and proportionate steps towards protecting the health of the volunteers and its audience.
+* Volunteers should not be compelled to attend in-person Sedos activities where they are sick or are at risk of making others sick and a culture should be fostered where refraining from attending in-person Sedos activities when sick is encouraged and supported. 
+* Where possible, reasonable steps should be put in place to allow those who are sick but are important to the conduct of the relevant Sedos activity to attend virtually. For example, video conferencing links into rehearsals or meetings.
+* Sedos shall at all times comply with government guidance with regards to health matters.
 
-* Considering contingency plans if a key performer or other participant becomes unable to participate in-person due to becoming symptomatic;
-* Taking steps to minimise transmission and maintain social distancing before, during and after live performances including:
-* * Conducting a specific risk assessment for each premises or venue and the proposed activities to identify: 
-  * * The number of people that can reasonably follow social distancing within the venue or premises, taking into account total space,   equipment as well as likely constraints (toilets and washrooms) and pinch points; 
-    * The ventilation rates that can be applied to the premises or venue and whether this can be adjusted sufficiently to deliver a safe environment for all those due to attend at any time (performers, producers, support teams and audience combined); 
-    * Which activities can be undertaken and which spaces can be used with specific measures to ensure social distancing and maintain cleaning;
-  * Limiting ticket sales to a volume which ensures social distancing can be maintained; 
-  * For performances or events where there is no ticketing, considering using other communications approaches, coupled with stewarding, to manage the numbers attending;
-  * Setting appropriate limits for the number of people in the venue or on the premises, overall and in any particular congestion areas, for example doorways between outside and inside spaces;
-  * Enabling a booking/seating system or other approaches to manage demand of spaces, and to record those attending, including their seating position which can be provided for contact tracing purposes in the event of a case of Covid-19 in a participant;
-* Considering using available spaces outdoors for performances with a live audience in attendance and if so considering
-* * The guidance on delivering outdoor events, particularly where such performances are not typical to their operations;
-  * Consulting with the relevant authorities and seeking specialist advice to best evaluate impact, developing mitigating strategies and coordinating relevant external agencies if required;
-  * The expected interactions among participants occurring during the event and implementing sufficient controls to ensure social distancing is maintained;
-  * Discouraging or avoiding activities or features that are likely to encourage audience behaviors increasing transmission risk;
-* Considering the expected interactions amongst audience members and making sure sufficient controls are in place to maintain social distancing, for example providing clear communication, demarcating spaces, using sufficient ushers;
-* Considering the particular needs of disabled audiences when making adjustments to venues or premises, and communicating these appropriately before any performance as well as when in the venue or premises;
-* Considering how front of house and back of house teams will operate during live performances, and between performers, crew members and audience members including considering;
-* * Creating front of house and back of house zones with people operating exclusively within each zone, where possible;
-  * Ensuring that members of fixed teams are particularly careful to maintain social distancing when interacting with audience members and others front of house and minimise time spent doing so;
-  * Identifying any roles that typically operate both front of house and back of house, and minimising these where possible;
-  * Identifying any roles that interact with audiences and manage transmission risk appropriately;
-  * Minimising interaction of back of house staff with the audience;
-* Considering the measures of the venue to maintain social distancing wherever possible when people move around the site, premises or venue during performances including queuing for tickets and the toilets, bar areas;
-* Considering seating arrangements for audiences in a way which ensures social distancing between individuals or groups in line with the Guidance including:
-* * Encouraging audience members not to bring bags and coats into auditoria where possible to reduce clutter at seats;
-  * Seating and space for those requiring disabled seating or wheelchair space should be considered within the social distancing arrangements with due regard to accessibility responsibilities under the Equality Act 2010;
-  * Having clearly designated positions from which site, premises or venue staff can provide advice or assistance to guests whilst maintaining social distance;
-  * Considering the needs of disabled audience members, for example access to captioning or audio description services, when managing seating;
-* Considering how guidance on social distancing and hygiene will be delivered to audience members including before arrival, for example by email when purchasing tickets, and on any digital marketing and websites and at the venue itself;
-* Considering steps to minimise the risk of transmission in changing rooms including:
-* * Ensuring they are kept clean and clear of personal items and that social distancing can be achieved as much as possible;
-  * Introducing enhanced cleaning of all facilities regularly during the day and at the end of the day.
-  * For additional reassurance, providing cleaning materials and hand sanitiser for use at touch points.
-  * Providing additional signposting in these areas to maintain social distancing.
-  * Considering creating additional dressing rooms in order to minimise contact between performers.
-  * Where dressing rooms are shared, minimise the number of objects in the room that could be shared between performers;
-* Considering steps to reduce transmission and maintain social distancing where possible whilst managing sound and lighting including:
-* * Creating a screen around sound and lighting desks to create a barrier which aerosols do not pass through between the sound team and audience or other crew;
-  * Where the sound desk is positioned close to audience seating, consider leaving empty the closest row of seats;
-  * Regularly cleaning desks, for example, sound, lighting, mics and battery packs;
-* Considering steps to reduce transmission and maintain social distancing where possible whilst managing the stage and back-stage including:
-* * Restricting workers allowed back-stage and on-stage to those who are essential;
-  * Not permitting visitors back-stage;
-  * Considering how wings can be used to allow for the minimum possible interaction between people, for example one-way systems, dedicated wings for stage managers and dressers;
-  * Reconfiguring back-stage to introduce one-way systems and use of green rooms and crew rooms by fixed teams;
-  * Limiting prop handling to the minimum possible number of people and clean after every performance, and where possible between uses if handled by different people;
-  * Limiting handling of key props on set to a dedicated crew member and relevant cast;
-* Considering the set-up of the band to reduce risk of working in band areas.
-* Considering costume quick changes and other costume change arrangements to reduce transmission and maintain social distancing where possible;
-* Considering steps to reduce transmission and maintain social distancing where possible whilst managing hair and make-up including:
-* * asking performers to do their own hair and make-up where appropriate;
-  * Where it is not possible for someone to do their own hair or makeup, following the [government guidance on working in close contact settings](https://www.gov.uk/guidance/working-safely-during-coronavirus-covid-19/close-contact-services) where relevant; 
-  * Limiting the time spent in a hair and make-up chair whenever possible;
-  * Not sharing makeup equipment; Allocating own makeup kit, brushes, hair products and equipment to each cast member, to be sterilized each day and only used on them;
-  * Increasing equipment and surface hygiene.
+**Driving Vehicles**
 
-### Accidents and other incidents
+* Where Sedos volunteers are driving vehicles for Sedos productions, they should only use vehicles which are properly licenced and safe and meet the requirements of the Road Traffic Act.
+* When moving scenery and related equipment, they should always ensure that the load is secure and stacked correctly.
+* They should not use a mobile phone while driving.
 
-In the event of emergency or accident, safety shall take precedence over COVID-19 security. In an emergency people do not have to social distance if it would be unsafe.
+**Electrical Equipment**
 
-### F. PROCESS AFTER COVID OUTBREAK
+* Particular care should be paid to the handling of any electrical equipment brought on to the Sedos Premises.
+* In particular, inspections and tests will be carried out by a qualified electrician, at suitable intervals, to ensure the safety and integrity of the installation.
+* Additionally, all portable electrical apparatus, plant, tools, extension leads, etc. will be labelled with a unique identification number and periodically examined and tested by a competent person, in accordance with Portable Appliance Testing (PAT).
+* Each Sedos Premises will keep a register of all examinations, tests and any necessary repairs carried out on both the installation and portable apparatus, which are owned or leased by Sedos.
 
-Individuals who:
+**Emergency Procedures**
 
-* have tested positive for COVID-19;
-* have symptoms of COVID-19 (a high temperature, new and persistent cough or anosmia, however mild) and have not shown a sufficient number of negative tests (including a PCR test) to the COVID Compliance Officer to satisfy the COVID Compliance Officer that their symptoms do not arise from COVID-19; or
-* are required to self-isolate as part of the government’s prevailing guidance,
+* The Management Committee will ensure all volunteers are informed about the procedures for evacuation of Sedos Premises in the event of an emergency, either directly or by requiring the Director, Producer or Organiser of any Sedos Activity explain those procedures to volunteers as and when appropriate.
+* The Director and Producer of any Sedos show will work with the Bridewell Theatre staff to ensure that all rules for the evacuation of the Bridewell Theatre, in the event of an emergency, are disseminated and observed.
+* The Sedos Front of House volunteers will also be briefed by the Bridewell Theatre staff on the procedures for evacuation of the Bridewell Theatre, in the event of an emergency during a public performance.
 
-shall not be permitted to take part in Sedos Activities until they have complied with this Section F (each an “Excluded Participant”).
+**Fire**
 
-In the event that an individual has been advised to self-isolate as part of the government’s track and trace or app system but is not mandatorily required to self-isolate pursuant to the prevailing government guidance, the following steps shall also be followed unless the COVID Compliance Officer is satisfied that following such steps is not required to: (a) meet Sedos’ legal obligations; and (b) meet Sedos’ commitments in Section B of this policy.  
+* The Management Committee will commission a fire risk assessment for any Sedos Premises that Sedos is primarily responsible which shall be reviewed annually. 
+* At least one Competent Person will receive Fire Prevention training from an appropriate external body, and this person or persons will become the designated Competent Person (or persons) for assessing fire prevention and procedures on any Sedos Premises that Sedos is primarily responsible. 
+* A Competent Person (or persons) would not be expected to fight a fire, unless they feel safe to do so.
+* The Competent Person (or persons), will monitor fire prevention procedures at Sedos Premises that Sedos is primarily responsible and make sure that these are being adhered to by all volunteers at all times, as far as is reasonably practicable.
+* The Competent Person (or persons) will oversee any changes to the fire prevention procedures and suggest any alterations that may need to be made and will arrange and implement all fire safety training and fire evacuation practises at regular intervals and when appropriate.
+* Directors, Producers, Stage Managers and Organisers shall be directed to ensure that participants in Sedos activities are aware of the emergency procedures, emergency exits and gathering points at any Sedos Premises in which a Sedos activity is conducted. Without limitation to the foregoing, the Stage Manager and Producer of each Sedos show will work with the Bridewell Theatre staff to ensure that fire safety disciplines and procedures are complied with, when participating in a show in the Bridewell Theatre.
+* All escape routes at any Sedos Premises that Sedos is primarily responsible will be clearly signed and kept free from obstructions at all times. 
+* All fire-related equipment at Sedos Premises that Sedos is primarily responsible will be regularly serviced and maintained. If any volunteer notices defective or missing equipment, they must report it immediately to a Competent Person or member of the Management Committee.
+* Any other safety systems will be checked regularly in conjunction with building management to ensure correct operation, where necessary, e.g. alarms, emergency lighting.
 
-If a participant becomes aware they are an Excluded Participant they should:
+**First Aid**
 
-* immediately inform the Session Leader(s) of any Sedos Activity they have taken part in over the previous 10 days;
-* self-isolate for at least 10 days from when their symptoms started OR if they are not experiencing symptoms but have tested positive for COVID-19 they should self-isolate for at least 10 days starting from the day the test was taken. If they have tested positive whilst not experiencing symptoms but develop symptoms during the isolation period, they should restart the 10 day isolation period from the day they develop symptoms;
-* if deemed necessary by the Management Committee, obtain the opinion of a doctor that it is safe to return to in-person activities before doing so.
+* Sedos will pay for any Competent Person who wishes to receive First Aid training (a three day course) from an appropriate external body in order to become the designated First Aider and deemed competent to administer First Aid at Sedos Premises, in the event of injury or illness to any person or persons. This does not require that a trained first aider be present at every Sedos activity.
+* Sedos will ensure that First Aid kits, which are fit for purpose, are fully stocked and available at the Sedos Premises for use by Sedos volunteers.
 
-If a Session Leader becomes or is made aware of a participant becoming an Excluded Participant they shall immediately:
+**‘Get in’ and ‘Get out’ rules for electrics**
 
-* inform the COVID Compliance Officer by email or phone (details in Section A);
-* inform all other participants in the Sedos Activity that a participant has become an Excluded Participant; and
-* comply with any instructions given by the COVID Compliance Officer.
+* All ‘get in’ and ‘get out’ activities in relation to electrical equipment (including but not limited to all lighting and sound equipment) shall be supervised by a competent and experienced person. 
+* All equipment should be checked and tested before rigging.
+* All equipment must be clamped to a bar with regulation fittings and chained.
+* All accessory equipment (i.e., barndoors and frames) used by Sedos on equipment that is owned by Sedos must be securely attached. To the extent that accessory equipment used by Sedos on equipment not owned by Sedos is not securely attached, extra care should be taken to ensure such equipment is used safely and the owner of such equipment should be informed of this. Sedos should not use any accessory equipment to the extent there is a material risk that using such accessory equipment may cause harm to any person.
+* Cabling should be taped to the bars and kept clear from the floors and flying equipment.
+* Phases must not be crossed on the bars and FOH positions.
+* All equipment below head height must be clearly marked with white tape.
+* Cabling must be kept clear of the audience and all exposed parts safely covered.
+* All flying of counterweights must be done by a person familiar with the system and the bars must never be under or over weighted.
+* No alcohol is allowed to be consumed by persons actively participating in a get in or get out.
+* All cables must be taped down.
 
-Promptly thereafter the Session Leader shall meet with the COVID Compliance Officer and other relevant members of the Management Committee to discuss:
+**Lone Working**
 
-* whether the Sedos Activity can continue; and
-* if it can continue, the terms on which it can continue, including investigating ways that the Excluded Participant can still participate from isolation.
+* Instances of working alone at a Sedos Premises will be exceptional and must be approved by the Management Committee or a Competent Person prior to each occurrence.
 
-The Management Committee shall reserve the right to suspend any Sedos Activity either temporarily or indefinitely if any participant in that Sedos Activity becomes an Excluded Participant.
+**Maintenance of equipment**
 
-### H. RELEVANT LINKS
+* All specialist systems (lifts, fire and security alarms, emergency lighting) will be maintained by an external specialist who will undertake all inspections and tests at regular intervals as contracted.
+* The Producer and/or Technical Supervisor, on any Sedos show, will be responsible for the maintenance of all equipment that has been categorised as ‘for use in the production’.
+* The Management Committee will be responsible for the maintenance of all equipment that has been categorised as Sedos property.
 
-<https://www.gov.uk/guidance/working-safely-during-coronavirus-covid-19/performing-arts>
+**Manual Handling**
 
-<https://www.gov.uk/government/publications/coronavirus-covid-19-meeting-with-others-safely-social-distancing/coronavirus-covid-19-meeting-with-others-safely-social-distancing>
+* Reducing the amount and severity of manual handling, as well as ensuring safe conditions for essential manual handling are key priorities for Sedos. Directors, Producers, Stage Managers and Organisers shall thoroughly assess situations in which manual handling and lifting are necessary and where necessary, will be responsible for making sure that all relevant Sedos volunteers have received basic instruction on manual handling techniques. 
+* Assessment will consider the tasks, the loads, the working environment and the volunteers involved and will endeavour to reduce the risk of injury so far as is reasonably practicable. Proper assistance and instruction will be present for any hazardous lifting operation.
+* Any Personal Protective Equipment that is requested in order to limit the risk of accident or injury during any manual handling task will be provided by Sedos. 
 
-Approved: 9 February 2022
+**Protective Equipment**
 
-# ANNEX 1 - COVID-19 Risk Assessment Register
+* All Sedos volunteers engaging in activities for Sedos or on Sedos Premises will be provided with Personal Protective Equipment (PPE) on request or when risk assessment of a task has deemed PPE to be essential.
+* Any person or persons who are asked to use PPE to perform any task or tasks must comply and use all PPE provided for the duration of that task.  
+* All PPE owned by Sedos must be kept in a reasonable condition for use, so it can be used to full effect as protective equipment.
 
-Company name: Stock Exchange Dramatic and Operatic Society (“SEDOS”)
+**Special Effects**
 
-Completed by: Dan Saunders (Trustee) /Adam Coppard (Management Committee) (“Reviewers”)
+* The Producer and/or Technical Supervisor on any given Sedos show will ensure that any special effects used in a show such as pyrotechnics and smoke are safe to handle, safely used under their guidelines (including storage) and cause no harm or side effects to public or Sedos volunteers.
 
-Date of next review: January 2023 Date assessment was carried out: January 2022
+**Power Tool and Work Equipment Use**
 
-How was the risk assessment done? 
+* The Management Committee shall ensure that all volunteers are fully informed of all working equipment and its use. All volunteers will be fully trained in respect of any particular work equipment before the use of such work equipment, including power tools. 
+* Risk assessments will be carried out to assess the hazards presented by the work equipment and identify any precautions which are needed to ensure the health and safety of volunteers. 
+* Volunteers must ensure that precautions required for the safe operation of work equipment are used in accordance with training or instructions received.
+* Volunteers shall ensure that work equipment shall be stored and handled in accordance with all relevant laws and best practice
+* Any accident involving work equipment must be logged in the Incident Logbook.
 
-The Reviewers followed the advice at www.hse.gov.uk/simple-health-safety/risk/. 
+**Working at Height**
+
+* Sedos recognises that nominated and approved volunteers may be required to work at height using equipment provided by the Theatre or, on occasion, during performance.
+* Sedos is aware that one of the major causes of injury is falls from height. Therefore no volunteer may work at height unless:
+
+  * safety checks on access equipment (ladders, scaffolding etc.) are carried out regularly and prior to each use; and
+  * use of working at height equipment is limited to those that are trained and competent in their use.
+*  If a performer is required to work at height as part of the performance then, in addition to the above:
+
+  * a Competent Person shall be engaged to discuss the particular work required to ensure such working at height is done safely as possible;
+  * the performer shall be properly advised by a Competent Person, Stage Manager or other relevant competent person of the risks involved with working at height in the manner intended; and
+  * all reasonable precautions should be taken to ensure the safety of the performer including giving the performer appropriate time to practice with appropriate PPE and other safety precautions and not requiring the performer to undertake any work at height that they are not comfortable with conducting.
+* Safety checks on access equipment (ladders, scaffolding) must be carried out regularly. 
+* Under no circumstances should any Sedos volunteer undertake any work at height whilst alone in a Sedos Premises.  
+* There is a legal hierarchy for selecting equipment for work at height, based on using the safest possible method of work that can reasonably and practicably be used in the circumstances:
+
+  * Do not work at height – use auto focus or bounce focus lights, bring scenery items down to ground level for adjustment etc
+  * Work from an existing place of work – use gantries, bridges or catwalks, a trampoline system or similar.
+  * Work positioning – use fixed length lines to prevent falls, MEWPs
+  * Fall mitigation – use airbags, nets, inertia reel harnesses (which require a rescue plan)
+  * Systems of work – use ladders, Tallescopes, Zargees etc
+  * Further information on working at height can be found in the ABTT [Code of Practice for the selection and use of temporary access equipment for working at heights in theatres](https://www.abtt.org.uk/).
+
+Special Groups at Risk
+
+* Sedos takes seriously the protection of special groups which may be at risk. All volunteers shall comply with the separate Sedos Safeguarding Policy.
+
+*Approved: 10 March 2022*
+
+
+
+
+
+### ANNEX A – RISK REGISTER
+
+**Significant Risk Assessment Register**
+
+**Company name:** Stock Exchange Dramatic and Operatic Society (“SEDOS”)
+
+**Premises:** N/A General Risk Register for Sedos Activities with consideration of Theatre Deli and the Bridewell Theatre (the “Premises”)
+
+**Completed by:** Dan Saunders (Trustee) & Adam Coppard (“Reviewers”)
+
+**Date assessment was carried ou**t: 24 January 2022
+
+**Date of next review:** January 2023
+
+#### How was the risk assessment done? 
+
+The Reviewers followed the advice at www.hse.gov.uk/simple-health-safety/risk/ 
 
 To identify the hazards, they: 
 
-\- considered the prevailing government guidance in force as at the date of the assessment; 
+* considered and walked around the premises currently regularly used by Sedos (Theatre Deli and Bridewell Theatre), noting things that might pose a risk and discussing mitigations; 
+* consulted other members of the Board of Trustees and Management Committee to obtain input of possible significant risks or past accidents; and
+* consulted risk registers of other performing arts organisations to identify risks specific to theatre rehearsal and performance.
 
-\- considered the primary premises that SEDOS operates in (being Theatre Deli and the Bridewell Theatre) and factors that need to be assessed in those locations in order to make them COVID-19 Secure Venues;
+They noted what was already being done to control the risks and recorded any further actions required. They published the following risk assessment to the SEDOS website to encourage members to help put the actions into practice. 
 
-\- considered the needs of those with protected characteristics in making those locations in order to make them COVID-19 Secure Venues’
+The Reviewers (or other suitable members of the Board of Trustees and/or Management Committee members) will review the risk assessment whenever there are any significant changes such as new equipment or activities.
 
-\- considered the range of activities that members of SEDOS engage in on a regular basis at SEDOS organised events; and
 
-\- consulted with members of the Board of Trustees and Management Committee as elected representatives of the membership of SEDOS to obtain input of possible significant risks and the effect of any mitigations.
 
-They noted what was already being done to control the risks and recorded any further actions required. 
 
-The Reviewers (or other suitable members of the Board of Trustees and/or Management Committee members) will review the risk assessment whenever there are any significant changes to the government guidance or the apparent risk.
-
-<table>
-<tbody>
-<tr>
-<td>
-<p><strong>Where does the risk lie?</strong></p>
-</td>
-<td>
-<p><strong>Who might be harmed and how?</strong></p>
-</td>
-<td>
-<p><strong>What are we doing to control and mitigate the risks?</strong></p>
-</td>
-</tr>
-<tr>
-<td colspan="3">
-<p><strong>AREAS WITH INCREASED RISK OF TRANSMISSION OF COVID-19</strong></p>
-</td>
-</tr>
-            <tr>
-                <td>
-                    <p dir="ltr">
-                        Attending rehearsals, meetings, classes and other
-                        activities at Theatre Deli
-                    </p>
-                </td>
-                <td>
-                    <p dir="ltr">
-                        Most of SEDOS’ rehearsal activities for 2022 are
-                        expected to take place at Theatre Deli. These include:
-                    </p>
-                    <ul>
-                        <li dir="ltr">
-                            <p dir="ltr">
-                                rehearsals,
-                            </p>
-                        </li>
-                        <li dir="ltr">
-                            <p dir="ltr">
-                                classes such as Sedance, Simprov, SeYoga,
-                                SeChoir.
-                            </p>
-                        </li>
-                    </ul>
-                    <br/>
-                    <p dir="ltr">
-                        The following activities may be undertaken at a variety
-                        of places around London:
-                    </p>
-                    <ul>
-                        <li dir="ltr">
-                            <p dir="ltr">
-                                set, prop and costume making;
-                            </p>
-                        </li>
-                        <li dir="ltr">
-                            <p dir="ltr">
-                                storage of equipment, set and costume; and
-                            </p>
-                        </li>
-                        <li dir="ltr">
-                            <p dir="ltr">
-                                production/committee meetings.
-                            </p>
-                        </li>
-                    </ul>
-                    <br/>
-                    <p dir="ltr">
-                        Continuing activities without taking measures to
-                        minimise the risk of the transmission of COVID-19 could
-                        lead to transmission among members and the people that
-                        they come into contact with.
-                    </p>
-                    <br/>
-                    <br/>
-                </td>
-                <td>
-                    <p dir="ltr">
-                        SEDOS has a COVID-19 policy drafted in line with
-                        prevailing government guidelines (the “Policy”) which
-                        must be complied with for any activity undertaken by
-                        SEDOS and its members, wherever it occurs.
-                    </p>
-                    <br/>
-                    <p dir="ltr">
-                        To promote and police compliance with this Policy in
-                        any location, before any activity is undertaken a
-                        “Session Leader” is appointed who is delegated
-                        responsibility for ensuring compliance with the Policy.
-                    </p>
-                    <br/>
-                    <p dir="ltr">
-                        Before commencement of the activity, the Session Leader
-                        is to meet with members of the Management Committee
-                        responsible for Policy compliance in order to:
-                    </p>
-                    <ul>
-                        <li dir="ltr">
-                            <p dir="ltr">
-                                demonstrate they have read and understood the
-                                Policy and any relevant government guidance
-                                applicable to their particular activity;
-                            </p>
-                        </li>
-                        <li dir="ltr">
-                            <p dir="ltr">
-                                set out a plan for ensuring their particular
-                                activity will comply with the Policy (an
-                                “Activity Plan”).
-                            </p>
-                        </li>
-                    </ul>
-                    <br/>
-                    <p dir="ltr">
-                        If the Management Committee is satisfied that the
-                        Activity Plan properly mitigates any specific risks and
-                        that the Session Leader can reasonably ensure
-                        compliance with the Policy and the Activity Plan by
-                        participants, they may proceed with the activity in
-                        accordance with the Policy and the Activity Plan and
-                        shall be responsible for ensuring that all participants
-                        in the activity comply with the Policy and the Activity
-                        Plan.
-                    </p>
-                    <br/>
-                    <p dir="ltr">
-                        Without limitation, any activity conducted by SEDOS
-                        shall:
-                    </p>
-                    <ul>
-                        <li dir="ltr">
-                            <p dir="ltr">
-                                adhere to the government guidance regarding
-                                non-professional theatre groups at all times;
-                            </p>
-                        </li>
-                        <li dir="ltr">
-                            <p dir="ltr">
-                                employ appropriate social distancing for
-                                participants in line with the prevailing
-                                guidance;
-                            </p>
-                        </li>
-                        <li dir="ltr">
-                            <p dir="ltr">
-                                limit the number of participants as far as
-                                possible and always within maximum limits
-                                prescribed by the government guidance;
-                            </p>
-                        </li>
-                        <li dir="ltr">
-                            <p dir="ltr">
-                                limit the duration of social interaction
-                                opportunities as far as possible;
-                            </p>
-                        </li>
-                        <li dir="ltr">
-                            <p dir="ltr">
-                                use face masks wherever use of face masks does
-                                not materially prevent efficacy of the
-                                activity;
-                            </p>
-                        </li>
-                        <li dir="ltr">
-                            <p dir="ltr">
-                                exclude any person that shows symptoms of
-                                COVID-19 or has shown symptoms in the previous
-                                10 days.
-                            </p>
-                        </li>
-                    </ul>
-                    <br/>
-                    <p dir="ltr">
-                        General mitigations measures employed within locations
-                        of activity include:
-                    </p>
-                    <ul>
-                        <li dir="ltr">
-                            <p dir="ltr">
-                                Hand sanitiser stations at key locations;
-                            </p>
-                        </li>
-                        <li dir="ltr">
-                            <p dir="ltr">
-                                Toilet facilities with anti-bacterial cleaning
-                                supplies and single use/non-contact hand drying
-                                facilities;
-                            </p>
-                        </li>
-                        <li dir="ltr">
-                            <p dir="ltr">
-                                Additional signage encouraging social
-                                distancing; and
-                            </p>
-                        </li>
-                    </ul>
-                    <p dir="ltr">
-                        Additional signage encouraging good hygiene practices.
-                    </p>
-                    <p dir="ltr">
-                        There are other specific limits and restrictions set
-                        out in the Policy. The relevant Activity Plan may have
-                        additional limits, restrictions and actions over and
-                        above what is set out in the Policy appropriate for
-                        that activity.
-                    </p>
-                    <br/>
-                    <p dir="ltr">
-                        The Policy also includes an up to date plan in case
-                        there is a COVID-19 outbreak.
-                    </p>
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    <p dir="ltr">
-                        Performing at the Bridewell Theatre (or any other
-                        performance venue)
-                    </p>
-                </td>
-                <td>
-                    <p dir="ltr">
-                        As an amateur dramatics society, SEDOS performs up to
-                        10 shows per year. Shows usually take place at the
-                        Bridewell Theatre although other venues are sometimes
-                        used.
-                    </p>
-                    <br/>
-                    <p dir="ltr">
-                        Performing in a theatre includes the additional risks
-                        (as compared to the risks outlined above) in the
-                        following areas:
-                    </p>
-                    <ul>
-                        <li dir="ltr">
-                            <p dir="ltr">
-                                limited space backstage and in dressing rooms;
-                            </p>
-                        </li>
-                        <li dir="ltr">
-                            <p dir="ltr">
-                                potential inability for performers to properly
-                                social distance as part of the performance;
-                            </p>
-                        </li>
-                        <li dir="ltr">
-                            <p dir="ltr">
-                                the attendance of audience members; and
-                            </p>
-                        </li>
-                        <li dir="ltr">
-                            <p dir="ltr">
-                                potential lack of adequate ventilation.
-                            </p>
-                        </li>
-                    </ul>
-                </td>
-                <td>
-                    <p dir="ltr">
-                        All SEDOS performances must comply with the Policy and
-                        a specific Activity Plan that takes into account the
-                        increased risks associated with performing in the
-                        particular performance space with a live audience.
-                    </p>
-                    <br/>
-                    <p dir="ltr">
-                        Without limitation, performance activity conducted in
-                        the Bridewell Theatre or any other performance space
-                        will:
-                    </p>
-                    <ul>
-                        <li dir="ltr">
-                            <p dir="ltr">
-                                adhere to the government guidance regarding
-                                non-professional theatre groups at all times;
-                            </p>
-                        </li>
-                        <li dir="ltr">
-                            <p dir="ltr">
-                                employ appropriate social distancing for both
-                                participants and audience members in line with
-                                the prevailing guidance;
-                            </p>
-                        </li>
-                        <li dir="ltr">
-                            <p dir="ltr">
-                                limit the number of performers and audience
-                                members to be within the maximum limits
-                                prescribed by the government guidance;
-                            </p>
-                        </li>
-                        <li dir="ltr">
-                            <p dir="ltr">
-                                limit the number of audience members, noting
-                                that capacity should be maintained at a level
-                                that allows social distancing to be maintained;
-                            </p>
-                        </li>
-                        <li dir="ltr">
-                            <p dir="ltr">
-                                limit the duration of performances as far as
-                                possible;
-                            </p>
-                        </li>
-                        <li dir="ltr">
-                            <p dir="ltr">
-                                take steps to improve ventilation as far as
-                                possible and whenever possible, both through
-                                the use of mechanical systems and opening
-                                windows and doors;
-                            </p>
-                        </li>
-                        <li dir="ltr">
-                            <p dir="ltr">
-                                take steps to encourage audiences to support
-                                the overall safety of the event, including
-                                discouraging activities which can create
-                                aerosol (such as shouting, chanting and singing
-                                along), seating individuals rather than
-                                allowing them to stand (to help maintain social
-                                distancing) and the other mitigations outlined
-                                in the government guidance; and
-                            </p>
-                        </li>
-                        <li dir="ltr">
-                            <p dir="ltr">
-                                comply with any specific guidelines and
-                                policies of the relevant performance venue to
-                                the extent they exceed the requirements of the
-                                Policy and the Activity Plan.
-                            </p>
-                        </li>
-                    </ul>
-                    <br/>
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    <p dir="ltr">
-                        Attending rehearsals, meetings, classes and other
-                        activities at any other venue other than Theatre Deli
-                        or the Bridewell Theatre
-                    </p>
-                </td>
-                <td>
-                    <p dir="ltr">
-                        From time to time SEDOS activities are conducted at
-                        third party controlled locations. There is a risk that
-                        such locations may not employ the same COVID-19
-                        standards set out in the Policy thus increasing the
-                        risk of transmission of COVID-19 among SEDOS members
-                        and audiences.
-                    </p>
-                    <br/>
-                </td>
-                <td>
-                    <p dir="ltr">
-                        When choosing any third party controlled venue to
-                        conduct activities a separate assessment shall be made
-                        as to whether such venue complies with its own
-                        government mandated requirements as to COVID-19
-                        security and as to whether the SEDOS activity can be
-                        conducted at that venue in adherence with the Policy
-                        and any Activity Plan.
-                    </p>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                    <p dir="ltr">
-                        COVID-19 Related Considerations for those with
-                        Protected Characteristics
-                    </p>
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    <p dir="ltr">
-                        Use of masks by participants
-                    </p>
-                </td>
-                <td>
-                    <p dir="ltr">
-                        The additional use of masks may prevent hearing
-                        impaired audiences from using lip reading techniques to
-                        understand what is being said in meetings, rehearsals
-                        or performances.
-                    </p>
-                </td>
-                <td>
-                    <p dir="ltr">
-                        Where possible separate, COVID-19 secure arrangements
-                        shall be made to ensure hearing impaired participants
-                        can fully participate in the activity and/or access the
-                        performance. This may include:
-                    </p>
-                    <ul>
-                        <li dir="ltr">
-                            <p dir="ltr">
-                                the preferred use of videoconferencing for any
-                                meetings even when in-person meeting would be
-                                COVID-19 secure;
-                            </p>
-                        </li>
-                        <li dir="ltr">
-                            <p dir="ltr">
-                                sur or sub titles/sign language for
-                                performances; and/or
-                            </p>
-                        </li>
-                        <li dir="ltr">
-                            <p dir="ltr">
-                                transparent face screens or masks being used
-                                instead of opaque masks.
-                            </p>
-                        </li>
-                    </ul>
-                </td>
-            </tr>
-            <tr>
-                <td>
-                    <p dir="ltr">
-                        Access to sanitation products by people with access
-                        issues
-                    </p>
-                </td>
-                <td>
-                    <p dir="ltr">
-                        If improperly located, additional sanitation equipment
-                        may not be acceptable to those with access issues.
-                    </p>
-                </td>
-                <td>
-                    <p dir="ltr">
-                        Due consideration is given to the location of hand
-                        sanitiser stations and toiletry products to ensure that
-                        there is easy access to those products by all people.
-                    </p>
-                </td>
-            </tr>
-        </tbody>
-    </table>
-
-The full SEDOS COVID-19 Policy and Risk Assessment can be found on the Sedos website at <https://sedos.co.uk/>
 
 - - -
 
