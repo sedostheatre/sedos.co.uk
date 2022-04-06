@@ -14,8 +14,6 @@ RedirectFrom:
 
 # CONFLICT OF INTEREST POLICY
 
-
-
 ### A: INTRODUCTION
 
 This policy applies to trustees of the Stock Exchange Dramatic and Operatic Society (‘Sedos Trustees’) and sets out guidelines and procedures for identifying, monitoring and managing actual and potential conflicts of interest by Sedos Trustees.
@@ -204,8 +202,6 @@ All newly appointed Sedos Trustees must receive training on this policy and on i
 Any Sedos Trustee who becomes aware of a breach of this policy must report it to the Secretary to the Sedos Trustees or the Chair as soon as possible. This policy shall be enforced by the Sedos Trustees as a body. This policy shall be made available to members of Sedos via the Sedos website. This policy will be reviewed annually in line with industry best practice standards and all relevant legislation and regulations.
 
 Approved: 14 July 2020
-
-
 
 - - -
 
@@ -452,7 +448,7 @@ The Reviewers (or other suitable members of the Board of Trustees and/or Managem
 
 - - -
 
-# **INVESTMENT POLICY** 
+# **INVESTMENT POLICY**
 
 ### A: INTRODUCTION
 
@@ -524,8 +520,6 @@ Performance of the investments will be measured against inflation +3% after fees
 ### H: APPROVAL AND REVIEW
 
 This Investment Policy Statement was prepared by the Board of Sedos to provide a framework for the management of its investments. It will be reviewed on an annual basis to ensure continuing appropriateness.
-
-
 
 Approved: 15 March 2021
 
@@ -721,8 +715,6 @@ If you have any question regarding our privacy policy, please contact us at [dat
 
 Adopted 11 June 2021
 
-
-
 - - -
 
 ## PHOTOGRAPHY POLICY
@@ -769,3 +761,78 @@ This should be accompanied on the form by a link to the photography policy, usin
   * Photographers should be briefed on the editing policy and pointed to the online version.
   * Photographers should be introduced to the cast to help put the actors at ease; a simple group introduction is all that’s needed. This is especially important during 1-on-1 shoots like headshots, but also important for dress and rehearsal shots. 
   * Photographers should minimize their edits to the “first type” above (where we do not ask for actors’ permission). For further edits, or if there are any questions, please consult with the production team.
+
+
+
+- - -
+
+# RISK MANAGEMENT POLICY
+
+### A: INTRODUCTION  
+
+The Sedos Trustees recognise that risk management is essential to Sedos’ governance and to Sedos’ continued and sustainable pursuit of its charitable objects, and is a mechanism to help Trustees fulfil their legal duties. Sedos’ approach to risk management is designed to ensure:- 
+
+* The identification, assessment and management of risk is linked to the achievement of the SEDOS's objectives;
+* All areas of risk are covered - for example, financial, governance, operational and reputational;
+* A risk exposure profile can be created that reflects the Sedos Trustees' views as to what levels of risk are acceptable;
+* The principal results of risk identification, evaluation and management are reviewed and considered by the Sedos Trustees on a regular basis; and
+* Risk management is ongoing and embedded in management and operational procedures.
+
+It is the responsibility of all Trustees, individually and collectively, to identify and manage risk. 
+
+The Trustees will regularly review and assess the risks faced by Sedos in all areas of its work and plan for the management of those risks. 
+
+There are risks associated with all Sedos’ activities: they can arise through things that are not done, as well as through ongoing and new initiatives. Risk exposure for Sedos will vary depending on circumstance. For example Sedos may be willing to expose itself to higher risks as the size of Sedos’ reserves increases. Risk tolerance may also be a factor in what activities are undertaken to achieve objectives. The Trustees will therefore ensure that there is an appropriate balance taken between higher and lower risk activities. 
+
+These considerations will inform the Trustees in their decision as to the levels of risk they are willing to accept.
+
+The Trustees must let the Sedos Management Committee and the Sedos volunteer community know the boundaries and limits set by their risk policies to make sure there is a clear understanding of the risks that can and cannot be accepted.
+
+### B: IDENTIFYING SEDOS RISKS
+
+As part of Sedos’ good governance, the Trustees will maintain a risk register. This register is a ‘living document’ and forms the baseline for further risk identification. 
+
+The  Trustees recognise that new risks will appear and other risks will become less or more severe or may disappear over time. Risk identification is therefore an ongoing process within Sedos. 
+
+When new risks are identified by a Trustee, a member of the Management Committee or a volunteer, these will be referred to the Secretary to the Board of Trustees who will, in consultation with the Chair of Trustees, update the risk register accordingly. The Trustees must review the risk register, and the risks identified in it, at least annually. Sub-Committees of the SEDOS Board may review aspects of risk in more detail from time to time, and will report to the Board of Trustees on any findings from such reviews.
+
+In undertaking this, the Trustees and the Management Committee will consider:
+
+* Sedos’s objectives, mission and business plan;
+* The nature and scale of Sedos’ productions and activities;
+* The outcomes that need to be achieved;
+* External factors that might affect Sedos such as legislation and regulation;
+* Sedos’ reputation with its major funders, supporters and volunteers;
+* Past mistakes and problems that Sedos has faced;
+* The governance and operating structure of Sedos;
+* Comparisons with other charities working in the same area or of similar size; and
+* Examples of risk management prepared by other charities or other organisations.
+
+In developing the Sedos risk register, the Trustees and the Management Committee will identify/update risks in the following areas:
+
+* Governance risk;
+* Operational risk; 
+* Financial risk; and
+* External factors.
+
+### C: ASSESSING, MONITORING AND EVALUATING RISK 
+
+Identified risks need to be put into perspective in terms of the potential severity of their impact and likelihood of their occurrence. Assessing and categorising risks helps in prioritising and filtering them, and in establishing whether any further action is required. 
+
+When a new risk arises, the Trustees in consultation with the Management Committee will then assess the risks identified by based on how likely they are to occur and how severe their impact using the methodology set out at Appendix 1.
+
+They will identify those risks that require further action and will propose appropriate actions to mitigate these risks. Mitigating actions will have clearly identified owners.
+
+The risk register can be updated or amended between meetings of the Trustees where agreed by the Trustees and in accordance with any constitutional requirements on decision making. 
+
+Examples of possible actions to mitigate risks are set out in Appendix 2.
+
+### D: SEDOS RISK REGISTER
+
+The SEDOS Risk Register is set out at Appendix 3.
+
+Approved 30 March 2020
+
+
+
+- - -
