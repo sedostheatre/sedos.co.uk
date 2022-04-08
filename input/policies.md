@@ -418,8 +418,6 @@ Special Groups at Risk
 
 * Sedos takes seriously the protection of special groups which may be at risk. All volunteers shall comply with the separate Sedos Safeguarding Policy.
 
-
-
 ### ANNEX A – RISK REGISTER
 
 **Significant Risk Assessment Register**
