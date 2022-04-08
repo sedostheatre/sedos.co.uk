@@ -5,12 +5,12 @@ RedirectFrom:
   - general/privacy.htm
 ---
 * [Conflict of Interest Policy](#conflict-of-interest-policy)
-* [Health & Safety Policy](#covid-19-health-and-safety-policy)
-* [Investment Policy](#investment-policy-statement)
+* [Health & Safety Policy](#health-and-safety-policy)
+* [Investment Policy](#investment-policy)
 * [Privacy and Data Protection Policy](#privacy-and-data-protection-policy)
 * [Photography policy](#photography-policy)
-* Risk Management policy
-* Safeguarding policy
+* [Risk Management policy](#Risk-Management-Policy)
+* [Safeguarding policy](#Safeguaring-policy)
 
 - - -
 
