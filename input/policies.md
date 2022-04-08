@@ -448,6 +448,8 @@ They noted what was already being done to control the risks and recorded any fur
 
 The Reviewers (or other suitable members of the Board of Trustees and/or Management Committee members) will review the risk assessment whenever there are any significant changes such as new equipment or activities.
 
+
+
 - - -
 
 # **INVESTMENT POLICY**
