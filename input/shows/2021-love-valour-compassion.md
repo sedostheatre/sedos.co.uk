@@ -2,7 +2,7 @@
 title: Love! Valour! Compassion!
 year: "2022"
 authors: By TERRENCE MCNALLY
-subtitle: A monumental exploration into life, love and loss at the end of the millennium
+subtitle: Eight gay men. Three long weekends. One last summer.
 showtimes:
   - time: 2022-07-05 19:30
   - time: 2022-07-06 19:30
