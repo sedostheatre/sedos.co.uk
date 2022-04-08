@@ -5,12 +5,12 @@ RedirectFrom:
   - general/privacy.htm
 ---
 * [Conflict of Interest Policy](#conflict-of-interest-policy)
-* [Health & Safety Policy](#covid-19-health-and-safety-policy)
-* [Investment Policy](#investment-policy-statement)
+* [Health & Safety Policy](#health-and-safety-policy)
+* [Investment Policy](#investment-policy)
 * [Privacy and Data Protection Policy](#privacy-and-data-protection-policy)
 * [Photography policy](#photography-policy)
-* Risk Management policy
-* Safeguarding policy
+* [Risk Management policy](#Risk-Management-Policy)
+* [Safeguarding policy](#Safeguaring-policy)
 
 - - -
 
@@ -203,7 +203,7 @@ All newly appointed Sedos Trustees must receive training on this policy and on i
 
 Any Sedos Trustee who becomes aware of a breach of this policy must report it to the Secretary to the Sedos Trustees or the Chair as soon as possible. This policy shall be enforced by the Sedos Trustees as a body. This policy shall be made available to members of Sedos via the Sedos website. This policy will be reviewed annually in line with industry best practice standards and all relevant legislation and regulations.
 
-Approved: 14 July 2020
+*Approved 14 July 2020*
 
 - - -
 
@@ -418,8 +418,6 @@ Special Groups at Risk
 
 * Sedos takes seriously the protection of special groups which may be at risk. All volunteers shall comply with the separate Sedos Safeguarding Policy.
 
-*Approved: 10 March 2022*
-
 ### ANNEX A – RISK REGISTER
 
 **Significant Risk Assessment Register**
@@ -447,6 +445,10 @@ To identify the hazards, they: 
 They noted what was already being done to control the risks and recorded any further actions required. They published the following risk assessment to the SEDOS website to encourage members to help put the actions into practice. 
 
 The Reviewers (or other suitable members of the Board of Trustees and/or Management Committee members) will review the risk assessment whenever there are any significant changes such as new equipment or activities.
+
+\[insert RISK REGISTER] \[insert SAFE HANDLING STATEMENT]
+
+*Approved 10 March 2022*
 
 - - -
 
@@ -523,7 +525,7 @@ Performance of the investments will be measured against inflation +3% after fees
 
 This Investment Policy Statement was prepared by the Board of Sedos to provide a framework for the management of its investments. It will be reviewed on an annual basis to ensure continuing appropriateness.
 
-Approved: 15 March 2021
+*Approved 15 March 2021*
 
 - - -
 
@@ -713,9 +715,7 @@ We may update this privacy policy from time to time as necessary. The terms that
 
 If you have any question regarding our privacy policy, please contact us at [dataprotection@sedos.co.uk](mailto:dataprotection@sedos.co.uk)
 
-
-
-Adopted 11 June 2021
+*Adopted 11 June 2021*
 
 - - -
 
@@ -786,8 +786,6 @@ Before each photoshoot…
 * Photographers should be introduced to the cast to help put the actors at ease; a simple group introduction is all that’s needed. This is especially important during 1-on-1 shoots like headshots, but also important for dress and rehearsal shots. 
 * Photographers should minimize their edits to the “first type” above (where we do not ask for actors’ permission). For further edits, or if there are any questions, please consult with the production team.
 
-
-
 - - -
 
 # RISK MANAGEMENT POLICY
@@ -855,9 +853,9 @@ Examples of possible actions to mitigate risks are set out in Appendix 2.
 
 The SEDOS Risk Register is set out at Appendix 3.
 
-Approved 30 March 2020
+\[insert APPENDIX 1-3]
 
-
+*Approved 30 March 2020*
 
 - - -
 
@@ -951,6 +949,4 @@ Principal Safeguarding Officer (PSO)                   Robert J. Stane
 
 Welfare Officer                                                      Dr Kimberly Barker
 
-
-
-Approved: January 2021
+*Approved January 2021*
