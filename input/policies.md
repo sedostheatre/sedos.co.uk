@@ -713,8 +713,6 @@ We may update this privacy policy from time to time as necessary. The terms that
 
 If you have any question regarding our privacy policy, please contact us at [dataprotection@sedos.co.uk](mailto:dataprotection@sedos.co.uk)
 
-
-
 Adopted 11 June 2021
 
 - - -
@@ -786,8 +784,6 @@ Before each photoshoot…
 * Photographers should be introduced to the cast to help put the actors at ease; a simple group introduction is all that’s needed. This is especially important during 1-on-1 shoots like headshots, but also important for dress and rehearsal shots. 
 * Photographers should minimize their edits to the “first type” above (where we do not ask for actors’ permission). For further edits, or if there are any questions, please consult with the production team.
 
-
-
 - - -
 
 # RISK MANAGEMENT POLICY
@@ -856,8 +852,6 @@ Examples of possible actions to mitigate risks are set out in Appendix 2.
 The SEDOS Risk Register is set out at Appendix 3.
 
 Approved 30 March 2020
-
-
 
 - - -
 
@@ -950,7 +944,5 @@ Chair of Trustees                                          
 Principal Safeguarding Officer (PSO)                   Robert J. Stanex
 
 Welfare Officer                                                      Dr Kimberly Barker
-
-
 
 Approved: January 2021
