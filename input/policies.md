@@ -448,7 +448,7 @@ They noted what was already being done to control the risks and recorded any fur
 
 The Reviewers (or other suitable members of the Board of Trustees and/or Management Committee members) will review the risk assessment whenever there are any significant changes such as new equipment or activities.
 
-
+\[insert RISK REGISTER] \[insert SAFE HANDLING STATEMENT]
 
 - - -
 
@@ -852,6 +852,8 @@ Examples of possible actions to mitigate risks are set out in Appendix 2.
 ### D: SEDOS RISK REGISTER
 
 The SEDOS Risk Register is set out at Appendix 3.
+
+\[insert APPENDIX 1-3]
 
 Approved 30 March 2020
 
