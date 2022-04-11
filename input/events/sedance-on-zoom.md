@@ -8,6 +8,9 @@ times:
   - time: 2022-04-13 19:30
   - time: 2022-04-20 19:30
   - time: 2022-04-27 19:30
+  - time: 2022-05-04 19:30
+  - time: 2022-05-11 19:30
+  - time: 2022-05-18 19:30
 image: /assets/48781085673_2a459c1bb7_c.jpg
 imageAlt: Rehearsal image from Dangerous Liaisons, which featured many Sedance members
 venue: Central School of Ballet
