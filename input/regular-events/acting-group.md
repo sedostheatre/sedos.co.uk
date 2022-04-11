@@ -4,7 +4,7 @@ image: /assets/51947468703_826d865d22_c.jpg
 venue: Theatre Deli, 2 Finsbury Ave, London, EC2M 2PF
 recurrence: First Wednesday of every month, 7-9pm
 ticket-prices: £5 per person (members and non-members alike)
-metaTitle: London Acting Group
+metaTitle: London Acting Group with Sedos
 metaDescription: The London Acting Group run by Sedos meets on the first
   Wednesday of every month. Find out how to sign up
 ---
@@ -22,10 +22,6 @@ Scripts should be approximately five minutes (no longer than eight minutes) and 
 
 There is a £5 payment for Sedos members and non-members alike at our London Acting Group. 
 
-Please sign up by:
-
-\- Emailing Helena and Lloyd at [membership@sedos.co.uk](mailto:[membership@sedos.co.uk](<>))\
-- State your name\
-- Any questions
+Please sign up by emailing Helena and Lloyd at [membership@sedos.co.uk](mailto:[membership@sedos.co.uk](<>)), stating your name and any questions. 
 
 That's it! We will reply confirming the studio number at Theatre Deli a few days ahead of the group.
