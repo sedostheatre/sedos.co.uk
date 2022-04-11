@@ -8,6 +8,9 @@ times:
   - time: 2022-04-15 12:42
   - time: 2022-04-22 12:42
   - time: 2022-04-29 12:42
+  - time: 2022-05-06 19:00
+  - time: 2022-05-13 19:00
+  - time: 2022-05-20 19:00
 image: /assets/simprov3-360.jpg
 imageAlt: Actors take part in improvisation with London group Simprov
 venue: Theatre Deli
