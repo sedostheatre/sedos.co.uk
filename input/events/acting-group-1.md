@@ -30,6 +30,8 @@ You can also bring your own script if you have a specific audition piece you wan
 
 Scripts should be approximately five minutes (no longer than eight minutes) and there will be a selection of 2-3 handers on the day to choose from (monologues are welcome too).
 
-There is a £5 payment for Sedos members and non-members alike. 
+There is a £5 payment for Sedos members and non-members alike.
+
+Please sign up by emailing Helena and Lloyd at [membership@sedos.co.uk](mailto:[membership@sedos.co.uk](<>)), stating your name and any questions.  
 
 That's it! We will reply confirming the studio number at Theatre Deli a few days ahead of the group.
