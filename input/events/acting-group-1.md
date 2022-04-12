@@ -32,6 +32,4 @@ Scripts should be approximately five minutes (no longer than eight minutes) and 
 
 There is a £5 payment for Sedos members and non-members alike. 
 
-Please sign up by emailing Helena and Lloyd at [membership@sedos.co.uk](mailto:[membership@sedos.co.uk](<>)), stating your name and any questions. 
-
 That's it! We will reply confirming the studio number at Theatre Deli a few days ahead of the group.
