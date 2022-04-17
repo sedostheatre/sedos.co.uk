@@ -28,24 +28,40 @@ sections:
       **CREATIVE TEAM**
 
 
-      **DIRECTOR** | Matt Hudson\
+      **DIRECTOR:** Matt Hudson (he/them)\
 
-      **PRODUCER** | Clare Harding
+      **PRODUCER:** Clare Harding (she/her)\
+
+      **CHOREOGRAPHER:** Mary Bennett (she/her)\
+
+      **ASSISTANT DIRECTORS:** Carrie Pennifer (she/her), Iacopo Farusi (he/him)\
+
+      **STAGE AND COSTUME DESIGN:** Peter Foster (he/him)\
+
+      **LIGHTING DESIGN:** Martin Walton (he/him)\
+
+      **SOUND DESIGN:** Henry Whittaker (he/him)\
+
+      **COSTUME SUPERVISOR:** we are looking for support in costume making, sourcing and organising\
+
+      **MUSIC PRODUCTION:** we are looking for someone to support us with music production and creating tracks\
+
+      **MUSIC SUPERVISOR:** we have three to five sung songs in the show and are looking for someone/people to teach the music and support the team
 
 
-      We are interested to hear from choreographers who have experience in commercial pop, and maybe voguing. Also, on the hunt for assistant directors from the LGBT+ community to come and get involved, no experience necessary. Please contact us on [midsummer@sedos.co.uk](mailto:midsummer@sedos.co.uk)\
-
-      \
-
-      We are also building out the technical creative team (LX, Sound and Staging) so get in touch on [midsummer@sedos.co.uk](mailto:midsummer@sedos.co.uk) if you are interested.
+      If you are interested in any roles on the team please message Clare and Matt at [midsummer@sedos.co.uk](mailto:midsummer@sedos.co.uk)
 metaTitle: A Midsummer Night’s Dream plays at the Bridewell Theatre from 14-24
   September 2022
 metaDescription: A Midsummer Night’s Dream, part of Sedos’ 2022 London season,
   plays at the Bridewell Theatre from 14-24 September 2022 – a queer look at
   Shakespeare’s classic play
 ---
-**A queer look at a classic.** 
+**A queer re-telling. Shakespeare meets gig theatre; live music, dance, lip-sync battles, classic text, all fused into one riotous night of theatrical comedy.**
 
-Gig theatre with live music, dance, lip sync battles and classic Shakespeare all fused into one riotous night of theatrical comedy.
+In this show we will have:
+
+Classic Shakespeare \* Lesbian Lovers \* Acoustic modern folk performances \* Lady Gaga songs \* Commercial Dance \* Ballroom and Voguing \* Funky Dungaree Dressed Mechanicals \* Drag Kings \* Slapstick \* AFAB Queens \* Non-Binary Babes \* Lip-Sync Battles \* A show that is different every night \* An Emcee that holds it together \* and much more!
+
+This show will be a chaotic delight that will hopefully explore all the edges of the characters, our performers and our audiences. It will not be a show for the faint-hearted, not from a physical energy perspective for all our company, but from the point of view of the capacity to think big, play big and push ourselves to play expansively.
 
 *A Midsummer Night’s Dream* plays at the [Bridewell Theatre](https://sedos.co.uk/venues/bridewell) from 14-24 September 2022.
