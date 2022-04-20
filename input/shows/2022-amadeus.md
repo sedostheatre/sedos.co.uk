@@ -36,6 +36,8 @@ sections:
       **COSTUMES, HAIR AND MAKE-UP** | Gill Daniell\
       **STAGE MANAGER** | Andrew Laidlaw\
       **PROPS** | Shiri Stern\
+      **ASSISTANT DIRECTOR** | Daniel Edge\
+      **ASSISTANT PRODUCER** | Valeria Oliveira\
       **MARKETING** | Stephen Beeny\
       **PHOTOGRAPHER** | David Ovenden
 metaTitle: Amadeus plays at the Bridewell Theatre from 23 November-3 December 2022
