@@ -50,7 +50,7 @@ We have a very open format to our casting with no pre-assigned racial identities
 **Gender identity**\
 Some of our roles are cis, some are non-binary/gender non-conforming, and many are flexible to what a performer brings to the table. We will share in the character breakdowns in the [full audition notice](https://drive.google.com/file/d/1-Qemw0eOQu5R6SwEJ5EXxC5jpM3vfMjj/view) our production point of view, but we are up for people to try things that are different to this and bring an audition that could change our perspective.
 
-**Playing Age**\
+**Playing age**\
 Some characters have a playing age in the breakdown below, some do not. If there is no age then we are open to any age from 18+.
 
 ## [FULL AUDITION NOTICE](https://drive.google.com/file/d/1-Qemw0eOQu5R6SwEJ5EXxC5jpM3vfMjj/view)
