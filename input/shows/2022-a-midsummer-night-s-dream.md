@@ -17,7 +17,7 @@ showtimes:
   - time: 2022-09-24 19:30
 showtime-summary: 14-24 SEPTEMBER 2022
 venue: bridewell
-primary-color: "#8cbea1"
+primary-color: "#FF00AA"
 header-image: /assets/copy-of-16x9poster-clean.jpg
 flyer: /assets/dream-holderposter-v2.jpg
 box-office-open: false
