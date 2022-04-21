@@ -64,4 +64,6 @@ Classic Shakespeare \* Lesbian Lovers \* Acoustic modern folk performances \* La
 
 This show will be a chaotic delight that will hopefully explore all the edges of the characters, our performers and our audiences. It will not be a show for the faint-hearted, not from a physical energy perspective for all our company, but from the point of view of the capacity to think big, play big and push ourselves to play expansively.
 
+Registration is now open for [A Midsummer Night’s Dream auditions](https://sedos.co.uk/events/a-midsummer-night-s-dream-workshop-and-auditions). 
+
 *A Midsummer Night’s Dream* plays at the [Bridewell Theatre](https://sedos.co.uk/venues/bridewell) from 14-24 September 2022.
