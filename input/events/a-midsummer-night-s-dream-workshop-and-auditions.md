@@ -14,7 +14,7 @@ metaTitle: A Midsummer Night’s Dream auditions, for Sedos 2022 production
 metaDescription: Find out about A Midsummer Night’s Dream auditions. Sedos
   production will take place 14-24 September at the Bridewell Theatre
 ---
-**Registration is now open for A Midsummer Night’s Dream auditions.**
+**Registration is now open for [A Midsummer Night’s Dream](https://sedos.co.uk/shows/2022-a-midsummer-night-s-dream) auditions.**
 
 **ABOUT THE SHOW**
 
