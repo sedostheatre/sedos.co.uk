@@ -2,14 +2,18 @@
 title: "Choose Your Own... Improv "
 year: "2022"
 authors: Sedos' in-house improv team the Banana Hut Gang
+authors2: "An ever changing improvised comedy play! "
+authors3: Keep the story on track, derail it completely, or start again... the
+  choice is yours!
 showtimes:
   - time: 2022-05-08 07:30
   - time: 2022-05-09 07:30
 showtime-summary: " Sunday 8 and Monday 9 May at 7.30pm"
 venue: "Bridewell Theatre "
 ticket-prices: £8 full price and £6 for Sedos members and concession
+primary-color: "#ca67a8"
 header-image: /assets/banana-hut-gang-improv.jpg
-header-image-contain: false
+header-image-contain: true
 flyer: /assets/bananahutgang.jpg
 box-office-open: false
 sections:
