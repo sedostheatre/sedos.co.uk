@@ -36,7 +36,7 @@ sections:
       **COSTUMES, HAIR AND MAKE-UP** | Gill Daniell\
       **STAGE MANAGER** | Andrew Laidlaw\
       **PROPS** | Shiri Stern\
-      **ASSISTANT DIRECTOR** | Daniel Edge\
+      **ASSISTANT DIRECTOR** | Dan Edge\
       **ASSISTANT PRODUCER** | Valeria Oliveira\
       **MARKETING** | Stephen Beeny\
       **PHOTOGRAPHER** | David Ovenden
