@@ -15,7 +15,7 @@ primary-color: "#ca67a8"
 header-image: /assets/banana-hut-gang-improv.jpg
 header-image-contain: true
 flyer: /assets/bananahutgang.jpg
-box-office-open: false
+box-office-open: true
 sections:
   - order: 1
     body: |-
