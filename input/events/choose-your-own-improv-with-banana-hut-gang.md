@@ -17,3 +17,5 @@ Keep the story on track, derail it completely, or start again... the choice is y
 *Choose Your Own... Improv* with Banana Hut Gang is at the [Bridewell Theatre](https://sedos.co.uk/venues/bridewell) on Sunday 8 and Monday 9 May at 7.30pm.
 
 Tickets to laugh-a-long with the Banana Hut Gang are £8 full price and £6 for Sedos members and concessions.
+
+[Book now](https://sedos.ticketsolve.com).
