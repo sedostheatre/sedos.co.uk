@@ -8,11 +8,13 @@
                 <div class="card-text text-light">
                     <small>
                         @{
+                            var eventTimes = Model.Get("times", Enumerable.Empty<DateTime>());
+                            var firstEventTime = eventTimes.Any(x => x > DateTime.Now)
+                                ? eventTimes.FirstOrDefault(x => x >= DateTime.Now)
+                                : eventTimes.OrderBy(x => x).FirstOrDefault();
                             var text = Model.ContainsKey("recurrence") && !string.IsNullOrWhiteSpace(Model.Get<string>("recurrence"))
-                            ? Model.Get("recurrence")
-                            : Model.Get("times", Enumerable.Empty<DateTime>())
-                                    .FirstOrDefault(x => x >= DateTime.Now)
-                                    .ToString("d MMMM");
+                                ? Model.Get("recurrence")
+                                : firstEventTime.ToString("d MMMM");
                         }
                         @text
                     </small>
