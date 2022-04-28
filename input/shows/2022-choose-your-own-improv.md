@@ -6,7 +6,8 @@ authors2: "An ever changing improvised comedy play! "
 authors3: Keep the story on track, derail it completely, or start again... the
   choice is yours!
 showtimes:
-  - time: 2022-05-08 07:30
+  - time: 2022-05-08 02:30
+  - time: 2022-05-08 05:00
   - time: 2022-05-09 07:30
 showtime-summary: " Sunday 8 and Monday 9 May at 7.30pm"
 venue: "Bridewell Theatre "
