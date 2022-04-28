@@ -5,11 +5,12 @@ authors: "An ever changing improvised comedy play! "
 authors2: By Sedos' in-house improv team the Banana Hut Gang
 authors3: Keep the story on track, derail it completely, or start again... the
   choice is yours!
+subtitle: "Sun 8 May 2.30pm (kid-friendly) & 5pm; Mon 9 May 7.30pm "
 showtimes:
   - time: 2022-05-08 02:30
   - time: 2022-05-08 05:00
   - time: 2022-05-09 07:30
-showtime-summary: Sun 8 May 2.30pm (kid-friendly) & 5pm; Mon 9 May 7.30pm
+showtime-summary: 8-9 MAY 2022
 venue: "Bridewell Theatre "
 ticket-prices: £8 full price and £6 for Sedos members and concession
 primary-color: "#ca67a8"
