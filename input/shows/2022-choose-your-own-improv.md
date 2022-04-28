@@ -20,6 +20,8 @@ box-office-open: true
 sections:
   - order: 1
     body: |-
+      **The Banana Hut Gang are**
+
       Laura Capaldi\
       Jess Rogers\
       Chris Warner\
