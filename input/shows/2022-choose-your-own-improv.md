@@ -1,8 +1,8 @@
 ---
 title: "Choose Your Own... Improv "
 year: "2022"
-authors: Sedos' in-house improv team the Banana Hut Gang
-authors2: "An ever changing improvised comedy play! "
+authors: "An ever changing improvised comedy play! "
+authors2: By Sedos' in-house improv team the Banana Hut Gang
 authors3: Keep the story on track, derail it completely, or start again... the
   choice is yours!
 showtimes:
