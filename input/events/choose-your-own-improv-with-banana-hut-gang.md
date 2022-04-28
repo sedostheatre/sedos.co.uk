@@ -3,7 +3,7 @@ title: Choose Your Own... Improv with Banana Hut Gang
 times:
   - time: 2022-05-08 19:30
   - time: 2022-05-09 19:30
-image: /assets/bananahutgang.jpg
+image: /assets/banana-hut-gang.png
 venue: Bridewell Theatre
 recurrence: Sunday 8 and Monday 9 May at 7.30pm
 ticket-prices: £8 full price and £6 for Sedos members and concessions
