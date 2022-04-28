@@ -13,7 +13,7 @@ showtime-summary: Sun 8 May 2.30pm (kid-friendly) & 5pm; Mon 9 May 7.30pm
 venue: "Bridewell Theatre "
 ticket-prices: £8 full price and £6 for Sedos members and concession
 primary-color: "#ca67a8"
-header-image: /assets/banana-hut-gang-bananas.jpg
+header-image: /assets/banana-hut-gang-bananas-2.jpg
 header-image-contain: true
 flyer: /assets/chooseyourown-gang-may22.jpg
 box-office-open: true
