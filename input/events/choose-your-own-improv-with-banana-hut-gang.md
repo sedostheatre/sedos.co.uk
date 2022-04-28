@@ -6,7 +6,7 @@ times:
   - time: 2022-05-09 19:30
 image: /assets/banana-hut-gang.png
 venue: Bridewell Theatre
-recurrence: Sunday 8 Mat 2.30pm (kid-friendly) & 5pm; Monday 9 May at 7.30pm
+recurrence: Sunday 8 May 2.30pm (kid-friendly) & 5pm; Monday 9 May at 7.30pm
 ticket-prices: £8 full price and £6 for Sedos members and concessions
 ---
 **After keeping us entertained online over lockdown, the indefatigable Banana Hut Gang (Sedos' in-house improv team) are delighted to be back in-person with their ever changing improvised comedy play, *Choose Your Own... Improv*, guaranteed to lift your spirits**!
