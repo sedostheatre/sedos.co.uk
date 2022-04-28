@@ -9,7 +9,7 @@ showtimes:
   - time: 2022-05-08 02:30
   - time: 2022-05-08 05:00
   - time: 2022-05-09 07:30
-showtime-summary: " Sunday 8 and Monday 9 May at 7.30pm"
+showtime-summary: Sun 8 May 2.30pm (kid-friendly) & 5pm; Mon 9 May 7.30pm
 venue: "Bridewell Theatre "
 ticket-prices: £8 full price and £6 for Sedos members and concession
 primary-color: "#ca67a8"
@@ -35,7 +35,7 @@ What do you want to see? A marriage or a funeral? An abandoned spaceship or a cr
 
 Keep the story on track, derail it completely, or start again... the choice is yours!
 
-*Choose Your Own... Improv* with Banana Hut Gang is at the [Bridewell Theatre](https://sedos.co.uk/venues/bridewell) on Sunday 8 and Monday 9 May at 7.30pm.
+*Choose Your Own... Improv* with Banana Hut Gang is at the [Bridewell Theatre](https://sedos.co.uk/venues/bridewell) on Sunday8 May 2.30pm (kid-friendly) & 5pm; plus Monday 9 May 7.30pm
 
 Tickets to laugh-a-long with the Banana Hut Gang are £8 full price and £6 for Sedos members and concessions.
 
