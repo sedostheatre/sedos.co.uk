@@ -57,7 +57,7 @@ Some characters have a playing age in the breakdown below, some do not. If there
 
 **HOW TO SIGN UP**
 
-Read the [full audition notice](https://drive.google.com/file/d/1-Qemw0eOQu5R6SwEJ5EXxC5jpM3vfMjj/view), then visit [membership.sedos.co.uk](membership.sedos.co.uk) to register to attend the workshop and sign up to audition. 
+Read the [full audition notice](https://drive.google.com/file/d/1-Qemw0eOQu5R6SwEJ5EXxC5jpM3vfMjj/view), then visit [](membership.sedos.co.uk)[membership.sedos.co.uk/signup](https://membership.sedos.co.uk/signup/) to register to attend the workshop and sign up to audition. 
 
 **More about Sedos auditions**
 
