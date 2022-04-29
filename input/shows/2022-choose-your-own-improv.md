@@ -17,6 +17,7 @@ header-image: /assets/banana-hut-gang-bananas-square.jpg
 header-image-contain: true
 flyer: /assets/chooseyourown-gang-may22-v2.jpg
 box-office-open: true
+box-office-link: https://sedos.ticketsolve.com/shows/1173611560
 sections:
   - order: 1
     body: |-
