@@ -3,8 +3,9 @@ title: Choose Your Own!
 year: "2022"
 authors: "An ever changing improvised comedy play! "
 authors2: By Sedos' in-house improv team the Banana Hut Gang
-authors3: "Keep the story on track, derail it completely, or start again... "
-subtitle: the choice is yours!
+authors3: Keep the story on track, derail it completely, or start again... the
+  choice is yours!
+subtitle: ""
 showtimes:
   - time: 2022-05-08 02:30
   - time: 2022-05-08 05:00
