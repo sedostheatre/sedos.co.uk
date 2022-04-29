@@ -44,3 +44,6 @@ Keep the story on track, derail it completely, or start again... the choice is y
 Tickets to laugh-a-long with the Banana Hut Gang are £8 full price and £6 for Sedos members and concessions.
 
 [Book now](https://sedos.ticketsolve.com).
+
+^^^ ![](/assets/banana-hut-gang.png)
+^^^
