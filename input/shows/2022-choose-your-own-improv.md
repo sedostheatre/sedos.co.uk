@@ -16,7 +16,7 @@ ticket-prices: £8 full price and £6 for Sedos members and concession
 primary-color: "#ca67a8"
 header-image: /assets/banana-hut-gang-bananas-square.jpg
 header-image-contain: true
-flyer: /assets/chooseyourown-gang-may22-v2.jpg
+flyer: /assets/chooseyourown-gang-may22-v3.jpg
 box-office-open: true
 box-office-link: https://sedos.ticketsolve.com/shows/1173611560
 sections:
