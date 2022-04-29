@@ -39,7 +39,7 @@ What do you want to see? A marriage or a funeral? An abandoned spaceship or a cr
 
 Keep the story on track, derail it completely, or start again... the choice is yours!
 
-*Choose Your Own!.* with Banana Hut Gang is at the [Bridewell Theatre](https://sedos.co.uk/venues/bridewell) on Sunday8 May 2.30pm (child friendly) & 5pm; plus Monday 9 May at 7.30pm
+*Choose Your Own!.* with Banana Hut Gang is at the [Bridewell Theatre](https://sedos.co.uk/venues/bridewell) on Sunday 8 May 2.30pm (child friendly) & 5pm; plus Monday 9 May at 7.30pm
 
 Tickets to laugh-a-long with the Banana Hut Gang are £8 full price and £6 for Sedos members and concessions.
 
