@@ -4,7 +4,7 @@ times: []
 image: /assets/Simprov-BHG-Gang.jpg
 header-image: assets/images/headers/SedosWebsite-Banner-Simprov.jpg
 venue: ""
-recurrence: Fridays at 7pm
+recurrence: Fridays, 7pm
 metaTitle: "London improvisation group: Simprov is run by amateur theatre company Sedos"
 metaDescription: Simprov is a London improvisation group run by theatre company
   Sedos. We let actors explore their spontaneous side
@@ -38,10 +38,13 @@ Formed from a collection of the most die-hard Simprov attendees, the group are t
 The Banana Hut Gang are:
 
 Laura Capaldi\
+Ellie Griffiths\
+Amir Hamza\
 Jess Rogers\
 Chris Warner\
 Alex Magliaro\
 Sam Pearce\
+Sam Roulston \
 James Stone\
 Jonathan Scott
 
