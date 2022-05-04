@@ -25,10 +25,13 @@ sections:
       **The Banana Hut Gang are**
 
       Laura Capaldi\
+      Ellie Griffiths\
+      Amir Hamza\
       Jess Rogers\
       Chris Warner\
       Alex Magliaro\
       Sam Pearce\
+      Sam Roulston \
       James Stone\
       Jonathan Scott
     title: IMPROV TEAM
