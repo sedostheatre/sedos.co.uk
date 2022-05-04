@@ -38,10 +38,13 @@ Formed from a collection of the most die-hard Simprov attendees, the group are t
 The Banana Hut Gang are:
 
 Laura Capaldi\
+Ellie Griffiths\
+Amir Hamza\
 Jess Rogers\
 Chris Warner\
 Alex Magliaro\
 Sam Pearce\
+Sam Roulston \
 James Stone\
 Jonathan Scott
 
