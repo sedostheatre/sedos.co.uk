@@ -5,6 +5,9 @@ times:
 image: /assets/sedos-agm.jpg
 venue: Passmore Edwards room at the St Bride Foundation, 7pm-8pm
 ---
+^^^ ![](/assets/aboutus-trustees-19-20.jpg)
+^^^ 
+
 ### **Your society needs you!**
 
 The Sedos Annual General meeting will take place on Thursday 9 June from 7pm-8pm in the Passmore Edwards room at the St Bride Foundation. 
@@ -16,8 +19,6 @@ The Board of Trustees and the Management Committee are RECRUITING; further detai
 We hope to see you all there!
 
 *The Trustees*
-
-
 
 ### **APPLY FOR THE BOARD OF TRUSTEES AND MANAGEMENT COMMITTEE**
 
