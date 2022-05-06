@@ -3,7 +3,7 @@ title: 2022 Sedos AGM
 times:
   - time: 2022-06-09 19:00
 image: /assets/sedos-agm.jpg
-venue: Venue TBC
+venue: Passmore Edwards room at the St Bride Foundation, 7pm-8pm
 ---
 ### **Your society needs you!**
 
