@@ -4,6 +4,11 @@ date: 2022-05-06
 image: /assets/sedoscommittee-june21.jpg
 extract: "Would you like to join the Sedos Trustees or Management Committee? "
 ---
+
+
+^^^ ![](/assets/sedoscommittee-june21.jpg)
+^^^ 
+
 *6 May March 2022*
 
 ### **APPLY FOR THE BOARD OF TRUSTEES AND MANAGEMENT COMMITTEE**
