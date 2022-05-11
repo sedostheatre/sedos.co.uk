@@ -2,7 +2,7 @@
 title: Sedos wins three NODA District Awards
 date: 2022-05-11
 image: /assets/nodaawardsmay2022.jpg
-imageAlt: Sedos NODA Awards
+imageAlt: "Sedos NODA Awards: four of our shows are recognised in the latest awards"
 metaTitle: "Sedos NODA Awards: Sedos has won three District Awards"
 metaDescription: In the latest Sedos NODA Awards news, Sedos has won three
   District Awards and two programmes have been shortlisted for an award
@@ -10,6 +10,9 @@ metaDescription: In the latest Sedos NODA Awards news, Sedos has won three
 *11 May 2022*
 
 **Sedos has won three NODA (National Operatic and Dramatic Association) District Awards and two of our programmes have been shortlisted for a programme award.** 
+
+^^^ ![Sedos NODA Awards: four of our shows are recognised in the latest awards](/assets/nodaawardsmay2022.jpg)
+^^^ 
 
 Our winners are:
 
