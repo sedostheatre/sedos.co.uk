@@ -9,7 +9,7 @@ key: bridewell
 ---
 ## The Bridewell Theatre
 
-Most of our [London musicals](https://sedos.co.uk/whats-on) and [London plays](https://sedos.co.uk/whats-on) take place at the Bridewell Theatre, where we are the resident theatre company. Our next shows at the Bridewell are *[American Idiot](https://sedos.co.uk/shows/2022-american-idiot)* (4-14 May 2022) and *[Love! Valour! Compassion!](https://sedos.co.uk/shows/2021-love-valour-compassion)* (5-9 July 2022). 
+Most of our [London musicals](https://sedos.co.uk/whats-on) and [London plays](https://sedos.co.uk/whats-on) take place at the Bridewell Theatre, where we are the resident theatre company. Our next shows at the Bridewell are *[Love! Valour! Compassion!](https://sedos.co.uk/shows/2021-love-valour-compassion)* (5-9 July 2022) and *[A Midsummer Night’s Dream](https://sedos.co.uk/shows/2022-a-midsummer-night-s-dream)* (14-24 September 2022). 
 
 * #### [Sedos shows: what’s on at the Bridewell Theatre?](https://sedos.co.uk/whats-on)
 * #### [Buy tickets to our shows at the Bridewell Theatre](https://sedos.ticketsolve.com/shows)
