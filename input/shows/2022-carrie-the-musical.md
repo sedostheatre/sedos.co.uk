@@ -17,7 +17,7 @@ showtime-summary: 25-29 OCTOBER 2022
 venue: Bridewell Theatre
 primary-color: "#2E0003"
 header-image: /assets/carriesquare.jpg
-flyer: ""
+flyer: /assets/carrie-posterteaser.jpg
 box-office-open: false
 sections:
   - order: 1
