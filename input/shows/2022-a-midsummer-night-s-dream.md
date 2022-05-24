@@ -19,7 +19,7 @@ showtime-summary: 14-24 SEPTEMBER 2022
 venue: Bridewell Theatre
 primary-color: "#00AAFF"
 header-image: /assets/copy-of-16x9poster-clean.jpg
-flyer: /assets/msnd-posterteaser-2.jpg
+flyer: /assets/msnd-posterteaser-3.jpg
 box-office-open: false
 sections:
   - order: 1
