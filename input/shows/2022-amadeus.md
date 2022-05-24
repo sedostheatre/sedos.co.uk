@@ -20,7 +20,7 @@ showtime-summary: 23 NOVEMBER-3 DECEMBER 2022
 venue: bridewell
 primary-color: "#b14bb1"
 header-image: /assets/amadeus-wigs-landscape.png
-flyer: ""
+flyer: /assets/amadeus-draft-withdates-lo-res-v2.jpg
 box-office-open: false
 sections:
   - order: 1
