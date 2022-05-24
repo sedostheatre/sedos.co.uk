@@ -13,9 +13,9 @@ showtime-summary: 5-9 JULY 2022
 venue: bridewell
 ticket-prices: From £10
 additional-ticket-info: "Gala night: Friday 8 July - tickets include a glass of fizz and programme"
-primary-color: "#fd8392"
-header-image: /assets/lvc-artworklandscape.jpg
-flyer: /assets/love-holderposter-v2.jpg
+primary-color: "#f38091"
+header-image: /assets/blank-image.jpg
+flyer: /assets/front-flyer.jpg
 box-office-open: true
 box-office-link: https://sedos.ticketsolve.com/shows/1173618467?_ga=2.141227634.1119549998.1649320790-1224974029.1649320790
 sections:
