@@ -57,7 +57,4 @@ As hilarious as it is heart-breaking, Terrence McNally’s seminal work captures
 
 Haze, smoke, strobe lighting and loud noises may be used.
 
-*Love! Valour! Compassion!* plays at the [Bridewell Theatre](https://sedos.co.uk/venues/bridewell) from 5-9 July 2022. 
-
-^^^ ![](/assets/lvc-artwork.jpg)
-^^^
+*Love! Valour! Compassion!* plays at the [Bridewell Theatre](https://sedos.co.uk/venues/bridewell) from 5-9 July 2022.
