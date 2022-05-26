@@ -5,7 +5,7 @@ times:
 image: /assets/sedos-agm.jpg
 imageAlt: Sedos AGM
 venue: Passmore Edwards room at the St Bride Foundation, 7pm-8pm
-metaTitle: "2022 Sedos AGM: when, where plus advance documents"
+metaTitle: "2022 Sedos AGM: when and where plus advance documents"
 metaDescription: The 2022 Sedos AGM will take place on 9 June. It’s your chance
   to hear how the society is performing
 ---
