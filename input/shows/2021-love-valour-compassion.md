@@ -57,4 +57,6 @@ As hilarious as it is heart-breaking, Terrence McNally’s seminal work captures
 
 Haze, smoke, strobe lighting and loud noises may be used.
 
+This amateur production is presented by arrangement with Josef Weinberger Ltd. 
+
 *Love! Valour! Compassion!* plays at the [Bridewell Theatre](https://sedos.co.uk/venues/bridewell) from 5-9 July 2022.
