@@ -59,6 +59,8 @@ A fictionalized account of the relationship between these two real life composer
 
 The full audition notice will be released in due course. More information about all Sedos’ [London auditions](https://sedos.co.uk/get-involved) is available [here](https://sedos.co.uk/get-involved). 
 
+This amateur production of “Amadeus” is presented by arrangement with Concord Theatricals Ltd. on behalf of Samuel French Ltd. www.concordtheatricals.co.uk
+
 *Amadeus* plays at the [Bridewell Theatre](https://sedos.co.uk/venues/bridewell) from 23 November-3 December 2022. 
 
 >Peter Shaffer's greatest play
