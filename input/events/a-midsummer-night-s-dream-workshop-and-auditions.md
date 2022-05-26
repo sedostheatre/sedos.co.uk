@@ -1,5 +1,5 @@
 ---
-title: A Midsummer Night’s Dream workshop and auditions
+title: A Midsummer Night’s Dream auditions and workshop
 times:
   - time: 2022-05-19 19:00
   - time: 2022-05-30 18:00
