@@ -1,5 +1,5 @@
 ---
-title: A Midsummer Night’s Dream workshop and auditions
+title: A Midsummer Night’s Dream auditions and workshop
 times:
   - time: 2022-05-19 19:00
   - time: 2022-05-30 18:00
@@ -10,8 +10,8 @@ image: /assets/copy-of-16x9poster-clean.jpg
 imageAlt: A Midsummer Night’s Dream auditions
 venue: Workshop at Old Diorama Arts Centre, Regent’s Place, 201 Drummond Street,
   NW1 3FE; auditions at Theatre Deli, 2 Finsbury Avenue, EC2M 2PM
-metaTitle: A Midsummer Night’s Dream auditions, for Sedos 2022 production
-metaDescription: Find out about A Midsummer Night’s Dream auditions. Sedos
+metaTitle: A Midsummer Night’s Dream auditions, for Sedos’ 2022 production
+metaDescription: Find out about A Midsummer Night’s Dream auditions. Sedos’
   production will take place 14-24 September at the Bridewell Theatre
 ---
 **Registration is now open for [A Midsummer Night’s Dream](https://sedos.co.uk/shows/2022-a-midsummer-night-s-dream) auditions.**
@@ -55,7 +55,7 @@ Some characters have a playing age in the breakdown below, some do not. If there
 
 ## [FULL AUDITION NOTICE](https://drive.google.com/file/d/1-Qemw0eOQu5R6SwEJ5EXxC5jpM3vfMjj/view)
 
-**HOW TO SIGN UP**
+**HOW TO SIGN UP FOR A MIDSUMMER NIGHT’s DREAM AUDITIONS**
 
 Read the [full audition notice](https://drive.google.com/file/d/1-Qemw0eOQu5R6SwEJ5EXxC5jpM3vfMjj/view), then visit [](membership.sedos.co.uk)[membership.sedos.co.uk/signup](https://membership.sedos.co.uk/signup/) to register to attend the workshop and sign up to audition. 
 
