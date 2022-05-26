@@ -1,5 +1,5 @@
 ---
-title: Carrie workshop and auditions
+title: Carrie auditions and workshop
 times:
   - time: 2022-06-29 19:00
   - time: 2022-07-11 19:00
