@@ -41,4 +41,6 @@ metaDescription: "Carrie: The Musical, part of Sedos’ 2022 London season, play
 
 Based on Stephen King's bestselling novel and the acclaimed movie starring Sissy Spacek, Carrie has been reinvented for our time in a new production sure to shake the Bridewell to its very core...
 
+This amateur production of *Carrie: The Musical* is presented by arrangement with Concord Theatricals Ltd. www.concordtheatricals.co.uk
+
 *Carrie: The Musical* plays at the [Bridewell Theatre](https://sedos.co.uk/venues/bridewell) from 25-29 October 2022.
