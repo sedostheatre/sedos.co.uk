@@ -7,8 +7,7 @@ times:
   - time: 2022-07-16 10:00
 image: /assets/carriesquare.jpg
 imageAlt: Carrie auditions
-venue: "Workshop: to be confirmed; auditions: Theatre Deli, 2 Finsbury Avenue,
-  EC2M 2PF"
+venue: "Workshop: to be confirmed; auditions: Theatre Deli (new address TBC)"
 metaTitle: Carrie auditions, for Sedos’ 2022 production
 metaDescription: Find out about Carrie auditions. Sedos’ production will take
   place 25-29 October at the Bridewell Theatre
