@@ -33,9 +33,9 @@ The Bridewell will be stripped back to its bare bones to throw audiences into th
 
 **KEY DATES**
 
-**Pre-audition workshop:** Wednesday 29 June**\
-Auditions:** Monday 11, Tuesday 12 and Saturday 16  July**\
-Recalls:** Saturday 23 July
+**Pre-audition workshop:** Wednesday 29 June\
+**Auditions:** Monday 11, Tuesday 12 and Saturday 16 July\
+**Recalls:** Saturday 23 July
 
 **EQUALITY, DIVERSITY AND INCLUSION | CASTING**
 
