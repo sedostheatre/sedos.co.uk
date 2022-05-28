@@ -14,6 +14,9 @@ metaDescription: Find out about Carrie auditions. Sedos’ production will take
 ---
 Registration is now open for *[Carrie](https://sedos.co.uk/shows/2022-carrie-the-musical)* auditions.
 
+*Update Saturday 28 May:*\
+**WE'RE AWARE THAT THERE ARE CURRENTLY VERY LIMITED AUDITION SLOTS REMAINING. WE ARE LOOKING AT INCREASING CAPACITY SO PLEASE EMAIL CARRIE@SEDOS.CO.UK TO BE KEPT INFORMED.**
+
 **ABOUT THE SHOW**
 
 > “If I could, I’d bring them all down to their knees!\
@@ -52,6 +55,9 @@ Aside from these requirements, we will consider anyone for any role, regardless 
 **HOW TO SIGN UP FOR CARRIE AUDITIONS**
 
 Read the [full audition notice](https://docs.google.com/document/d/1tBZGC5erP8yYSN-GJXR11TPhvIc746N0ZyU97deCyP4/edit), then visit [](membership.sedos.co.uk)[membership.sedos.co.uk/signup](https://membership.sedos.co.uk/signup/) to register to attend the workshop and sign up to audition.
+
+*Update Saturday 28 May:*\
+**WE'RE AWARE THAT THERE ARE CURRENTLY VERY LIMITED AUDITION SLOTS REMAINING. WE ARE LOOKING AT INCREASING CAPACITY SO PLEASE EMAIL CARRIE@SEDOS.CO.UK TO BE KEPT INFORMED.**
 
 **More about Sedos auditions**
 
