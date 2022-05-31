@@ -18,7 +18,8 @@ venue: Bridewell Theatre
 primary-color: "#2E0003"
 header-image: /assets/carriesquare.jpg
 flyer: /assets/carrie-posterteaser-v2.jpg
-box-office-open: false
+box-office-open: true
+box-office-link: https://sedos.ticketsolve.com/shows/1173626755/events
 sections:
   - order: 1
     title: CREATIVE TEAM
