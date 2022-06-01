@@ -51,13 +51,7 @@ metaDescription: Amadeus, part of Sedos’ 2022 London season, plays at the
 
 A fictionalized account of the relationship between these two real life composers, Peter Shaffer’s *Amadeus* takes us on a wild ride through the trials and tribulations of genius, jealousy and revenge.
 
-**AUDITION DATES**
-
-**Pre-audition workshop:** evening of Thursday 7 July\
-**First round auditions:** daytime of Saturday 16 July; evenings of Wednesday 20 and Thursday 21 July\
-**Recalls:** daytime of Saturday 30 July
-
-The full audition notice will be released in due course. More information about all Sedos’ [London auditions](https://sedos.co.uk/get-involved) is available [here](https://sedos.co.uk/get-involved). 
+Registration is now open for [*Amadeus* auditions](https://sedos.co.uk/events/amadeus-auditions-and-workshop). 
 
 This amateur production of *Amadeus* is presented by arrangement with Concord Theatricals Ltd. on behalf of Samuel French Ltd. www.concordtheatricals.co.uk
 
