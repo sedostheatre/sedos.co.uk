@@ -21,7 +21,8 @@ venue: bridewell
 primary-color: "#b14bb1"
 header-image: /assets/amadeus-wigs-landscape.png
 flyer: /assets/amadeus-draft-withdates-lo-res-v3.jpg
-box-office-open: false
+box-office-open: true
+box-office-link: https://sedos.ticketsolve.com/shows/1173626758/events
 sections:
   - order: 1
     title: CREATIVE TEAM

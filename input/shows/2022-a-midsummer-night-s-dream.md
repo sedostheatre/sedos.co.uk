@@ -13,14 +13,15 @@ showtimes:
   - time: 2022-09-21 19:30
   - time: 2022-09-22 19:30
   - time: 2022-09-23 19:30
-  - time: 2022-09-24 14:30
-  - time: 2022-09-24 19:30
+  - time: 2022-09-24 13:30
+  - time: 2022-09-24 18:00
 showtime-summary: 14-24 SEPTEMBER 2022
 venue: Bridewell Theatre
 primary-color: "#00AAFF"
 header-image: /assets/copy-of-16x9poster-clean.jpg
 flyer: /assets/msnd-posterteaser-3.jpg
-box-office-open: false
+box-office-open: true
+box-office-link: https://sedos.ticketsolve.com/shows/1173626762/events
 sections:
   - order: 1
     title: CREATIVE TEAM
@@ -56,7 +57,7 @@ metaDescription: A Midsummer Night’s Dream, part of Sedos’ 2022 London seaso
   plays at the Bridewell Theatre from 14-24 September 2022 – a queer look at
   Shakespeare’s classic play
 ---
-**A queer re-telling. Shakespeare meets gig theatre; live music, dance, lip-sync battles, classic text, all fused into one riotous night of theatrical comedy.**
+**A queer re-telling. Shakespeare meets gig theatre; dance, lip-sync battles, classic text, all fused into one riotous night of theatrical comedy.**
 
 In this show we will have:
 
