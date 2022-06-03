@@ -9,9 +9,9 @@ metaDescription: "Sedos ticket discount 2022: 10% off when you book A Midsummer
 ---
 *3 June 2022*
 
-**The box offices for our remaining 2022 shows are all now open and we’re offering a 10% discount when you book our final three shows of the year in one transaction.**
+**The box offices for our remaining 2022 shows are all now open and we’re offering a Sedos ticket discount: 10% off when you book our final three shows of the year in one transaction.**
 
-Simply head to the online box office, select your seats for *A Midsummer Night’s Dream*, *Carrie: The Musical* and *Amadeus* and the discount will be applied automatically.
+Simply head to the online box office, select your seats for *A Midsummer Night’s Dream*, *Carrie: The Musical* and *Amadeus* and this ticket discount will be applied automatically.
 
 ^^^ ![Sedos ticket discount 2022](/assets/threeshows.jpg)
 ^^^ 
