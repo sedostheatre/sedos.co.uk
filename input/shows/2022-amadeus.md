@@ -2,7 +2,7 @@
 title: Amadeus
 year: "2022"
 authors: By PETER SHAFFER
-authors2: ""
+authors2: Book our final three shows of 2022 together and receive 10% off
 subtitle: Genius, jealousy and revenge
 showtimes:
   - time: 2022-11-23 19:30
@@ -54,9 +54,15 @@ A fictionalized account of the relationship between these two real life composer
 
 Registration is now open for [*Amadeus* auditions](https://sedos.co.uk/events/amadeus-auditions-and-workshop). 
 
+*Amadeus* plays at the [Bridewell Theatre](https://sedos.co.uk/venues/bridewell) from 23 November-3 December 2022. 
+
+**Special offer:** book tickets for *A Midsummer Night’s Dream*, *Carrie: The Musical* and *Amadeus* simultaneously and receive 10% off. Discount will be automatically applied at the box office when booking all three shows in one transaction.
+
 This amateur production of *Amadeus* is presented by arrangement with Concord Theatricals Ltd. on behalf of Samuel French Ltd. www.concordtheatricals.co.uk
 
-*Amadeus* plays at the [Bridewell Theatre](https://sedos.co.uk/venues/bridewell) from 23 November-3 December 2022. 
+
+
+
 
 >Peter Shaffer's greatest play
 ><footer><cite>The Stage</cite></footer>
