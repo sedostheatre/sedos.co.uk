@@ -19,6 +19,6 @@ Based on Stephen King's bestselling novel and the acclaimed movie starring Sissy
 
 [*Amadeus* ](https://sedos.co.uk/shows/2022-amadeus)(23 November-3 December) is a fictionalized account of the relationship between two real life composers, Antonio Salieri and Wolfgang Amadeus Mozart. Peter Shaffer’s acclaimed play takes us on a wild ride through the trials and tribulations of genius, jealousy and revenge.
 
-All three shows play at the Bridewell Theatre and you can pop to the box office now.
+All three shows play at the Bridewell Theatre and you can [pop to the box office now.](https://sedos.ticketsolve.com/shows?_ga=2.21734520.2123882302.1654251454-1305180245.1654251454)
 
 Tomorrow is your final chance to audition for *A Midsummer Night’s Dream*, while the audition notices have recently been released for *Carrie: The Musical* and *Amadeus*. You can check out information about all Sedos’ [London auditions](https://sedos.co.uk/get-involved) here.
