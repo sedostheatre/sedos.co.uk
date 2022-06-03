@@ -3,7 +3,7 @@ title: "Carrie: The Musical"
 year: "2022"
 authors: Music by MICHAEL GORE | Lyrics by DEAN PITCHFORD
 authors2: Book by LAWRENCE D. COHEN | Based on the novel by STEPHEN KING
-authors3: ""
+authors3: Book our final three shows of 2022 together and receive 10% off
 subtitle: A cult musical based on Stephen King's bestselling novel and the
   acclaimed movie
 showtimes:
@@ -44,6 +44,8 @@ Based on Stephen King's bestselling novel and the acclaimed movie starring Sissy
 
 Registration is now open for [*Carrie* auditions](https://sedos.co.uk/events/carrie-workshop-and-auditions). 
 
-This amateur production of *Carrie: The Musical* is presented by arrangement with Concord Theatricals Ltd. www.concordtheatricals.co.uk
-
 *Carrie: The Musical* plays at the [Bridewell Theatre](https://sedos.co.uk/venues/bridewell) from 25-29 October 2022.
+
+**Special offer:** book tickets for *A Midsummer Night’s Dream*, *Carrie: The Musical* and *Amadeus* simultaneously and receive 10% off. Discount will be automatically applied at the box office when booking all three shows in one transaction.
+
+This amateur production of *Carrie: The Musical* is presented by arrangement with Concord Theatricals Ltd. www.concordtheatricals.co.uk
