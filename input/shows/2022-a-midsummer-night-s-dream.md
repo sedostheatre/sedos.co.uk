@@ -2,6 +2,7 @@
 title: A Midsummer Night’s Dream
 year: "2022"
 authors: By WILLIAM SHAKESPEARE
+authors2: Book our final three shows of 2022 together and receive 10% off
 subtitle: A queer look at a classic
 showtimes:
   - time: 2022-09-14 19:30
@@ -67,4 +68,8 @@ This show will be a chaotic delight that will hopefully explore all the edges of
 
 Registration is now open for [A Midsummer Night’s Dream auditions](https://sedos.co.uk/events/a-midsummer-night-s-dream-workshop-and-auditions). 
 
+This show contains adult content, and explores themes around sexuality.
+
 *A Midsummer Night’s Dream* plays at the [Bridewell Theatre](https://sedos.co.uk/venues/bridewell) from 14-24 September 2022.
+
+**Special offer:** book tickets for *A Midsummer Night’s Dream*, *Carrie: The Musical* and *Amadeus* simultaneously and receive 10% off. Discount will be automatically applied at the box office when booking all three shows in one transaction.
