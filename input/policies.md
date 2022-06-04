@@ -737,9 +737,7 @@ Audition forms must include a checkbox that reads as follows: 
 
 “Please initial/tick box:
 
-\[        ]  I acknowledge that Sedos and photographers assigned by Sedos, have the irrevocable and unrestricted right to use and publish photographs of me during auditions, rehearsal or performance of this production, for editorial, trade, advertising, and promotion of this show or the society, in any manner and medium; and to alter and composite the same. I hereby release the Photographer and Sedos and their legal representatives and assigns from all claims and liability relating to said photographs.
-
-This should be accompanied on the form by a link to the photography policy, using this link: [https://sedos.co.uk/policies#​photography-policy](https://sedos.co.uk/policies#photography-policy) 
+\[        ]  I acknowledge that Sedos and photographers assigned by Sedos, have the irrevocable and unrestricted right to use and publish photographs of me during auditions, rehearsal or performance of this production, for editorial, trade, advertising, and promotion of this show or the society, in any manner and medium; and to alter and composite the same. I hereby release the Photographer and Sedos and their legal representatives and assigns from all claims and liability relating to said photographs. You can view Sedos' photography policy at [sedos.co.uk/policies](http://sedos.co.uk/policies)​
 
 Audition forms must be retained. Because of this release, they are official documents. Scanning them and putting them online in a shared folder, or using an online form throughout, is ideal.
 
