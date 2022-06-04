@@ -37,7 +37,6 @@ Dan Saunders \
 Michael Smith\
 Robert J Stanex
 
-[Minutes](https://drive.google.com/drive/u/0/folders/13fa6XEho_8j5tAyxQX0wwuJ5HXOcRmjZ) \
 [Minutes of trustees’ meetings can be found here](https://www.dropbox.com/sh/pz59ex3iwl1dvtu/AABG_C87fxRnti2LwMAJe_gga?dl=0)
 
 ## Management committee
