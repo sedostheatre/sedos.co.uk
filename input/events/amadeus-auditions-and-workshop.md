@@ -19,17 +19,19 @@ Registration is now open for *[Amadeus](https://sedos.co.uk/shows/2022-amadeus)*
 
 In the court of the Austrian Emperor Joseph II, Antonio Salieri is the celebrated and established composer. Enter one of the greatest musical geniuses of all time: Wolfgang Amadeus Mozart. The Viennese court doesn’t recognise Mozart’s genius – “too many notes” – but Salieri does. Salieri is tortured by what he hears and suddenly becomes aware of his own mediocrity. He sets out to destroy the man he sees as God’s instrument on earth.  
 
-This multi-award winning play is a rich, exuberant portrayal of a God-like man among mortals; and lives destroyed by envy – all to the backing track of Mozart’s glorious music. While the backing track will be pre-recorded, we are looking for two performers to perform operatic arias live (one female and one male). If you would like to be considered for a singing role, please reach out directly on [amadeus@sedos.co.uk](mailto:amadeus@sedos.co.uk) for further details. 
+This multi-award winning play is a rich, exuberant portrayal of a God-like man among mortals; and lives destroyed by envy – all to the backing track of Mozart’s glorious music. While the backing track will be pre-recorded, we are looking for two performers to perform operatic arias live (one female and one male).
 
 We will be creating a timeless production; influenced by the historic period, but with modern twists and sensibilities. We want to lift the piece out of its historic period and find a way of connecting with audiences and telling the story in as engaging a way as possible. The costumes will be magnificent and entertaining; and the set will be fun and versatile. This won’t be a staid or traditional production! Oh - and it is of course fiction!
 
 # [FULL AUDITION NOTICE](https://docs.google.com/document/d/1njbKJQ_Vf7jmmZMJwUolxzeRWDvlOoJ_/edit)
 
-**KEY DATES[](https://docs.google.com/document/d/1njbKJQ_Vf7jmmZMJwUolxzeRWDvlOoJ_/edit)**
+**KEY DATES**[](https://docs.google.com/document/d/1njbKJQ_Vf7jmmZMJwUolxzeRWDvlOoJ_/edit)
 
 **Pre-audition workshop:** Thursday 7 July\
 **Auditions:** Saturday 16 July, Wednesday 20 and Thursday 21 July\
 **Recalls:** Saturday 30 July
+
+If you are auditioning for a singing role, please sign up for the 10.10-11.40am session or 11.40am-1.10pm session on Saturday 16 July. If you are only auditioning for non-singing roles, please do not sign up to these sessions.
 
 **CASTING | DIVERSITY AND INCLUSION**\
 \
