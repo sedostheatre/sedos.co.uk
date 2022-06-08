@@ -25,5 +25,5 @@ If you have any questions, contact pitches@sedos.co.uk
 
 We look forward to hearing from you!
 
-^^^ ![](/assets/pitch_question_curtain.jpg)
+^^^ ![A yellow question mark floats above a wooden stage with a red theatre curtain ](/assets/pitch_question_curtain.jpg)
 ^^^
