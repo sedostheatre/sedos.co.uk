@@ -10,7 +10,7 @@ metaDescription: Sedos is now accepting pitches for shows for the 2023 Sedos
 ---
 *10 June 2022*
 
-**We are now accepting applications for shows for the 2023 Sedos season, where we are intending to perform two two-week musicals; one two-week play; one one-week play; plus an additional week to be decided. These productions will take place at the [Bridewell Theatre](https://sedos.co.uk/venues/bridewell), central London, where we are the resident theatre company.** 
+**We are now accepting applications for shows for the 2023 Sedos Season, where we are intending to perform two two-week musicals; one two-week play; one one-week play; plus an additional week to be decided. These productions will take place at the [Bridewell Theatre](https://sedos.co.uk/venues/bridewell), central London, where we are the resident theatre company.** 
 
 If you are a director, producer, choreographer, musical director - or just have a great idea for a show that you want to suggest to us - please get your thinking caps on! Even if you are not attached to a specific pitch, then it's a great time to let us know that you would like to be involved in a creative team!
 
