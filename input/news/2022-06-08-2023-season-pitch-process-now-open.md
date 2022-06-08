@@ -15,7 +15,7 @@ The application form and guidance notes can be found at the links below:
 
 [sedos.co.uk/pitch-guidance](http://www.sedos.co.uk/pitch-guidance)
 
-[sedos.co.uk/pitch-form](http://sedos.co.uk/pitch-form) 
+[sedos.co.uk/pitch-form](http://www.sedos.co.uk/pitch-form) 
 
 The closing date for submissions is midnight on **Sunday 24 July 2022**.
 
