@@ -3,6 +3,8 @@ title: 2023 Season Pitch Process Deadline
 times:
   - time: 2022-07-24 12:59
 image: /assets/pitch_question_curtain.jpg
+imageAlt: "A yellow question mark floats above a wooden stage with a red theatre
+  curtain "
 recurrence: Sunday 24 July
 ---
 **We are now accepting applications for shows for the 2023 Sedos season, where we are intending to perform two two-week musicals; one two-week play; one one-week play; plus an additional week to be decided. These productions will take place at the Bridewell Theatre, where we are the resident theatre company.** 
