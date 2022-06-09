@@ -35,8 +35,8 @@ metaDescription: "Carrie: The Musical, part of Sedos’ 2022 London season, play
   at the Bridewell Theatre from 25-29 October 2022. A cult musical based on
   Stephen King's bestselling novel and the acclaimed movie"
 ---
-> “If I could, I’d bring them all down to their knees!\
-> I’d make them sorry forever for teasing Carrie!”
+> If I could, I’d bring them all down to their knees!\
+> I’d make them sorry forever for teasing Carrie!
 
 **Carrie White is a misfit. At school, she's an outcast who's bullied by the popular crowd, and virtually invisible to everyone else. At home, she's at the mercy of her over-protective, hyper-religious mother. But there’s something different about Carrie – she has a special power. A power that can be destructive. And if she’s pushed too far, she may have to use it…**
 
