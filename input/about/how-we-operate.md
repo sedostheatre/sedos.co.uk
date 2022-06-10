@@ -64,7 +64,7 @@ The management committee meets monthly.
 **Marketing group** | Stephen Beeny \
 **Production group** | Adam Coppard\
 Paul Caira\
-Tm Garrad\
+Tim Garrad\
 Adrian Hau\
 Jacob Hajjar\
 Olly Levett \
