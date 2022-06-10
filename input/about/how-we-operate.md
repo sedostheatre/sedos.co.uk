@@ -7,7 +7,7 @@ RedirectFrom:
   - aboutus/howweoperate.htm
 ---
 ^^^ ![12 members of the 2022/23 Sedos Trustees and Management Committee.standing in a line in front of a wall of bookcases. They are all smiling. ](/assets/2022sedostrusteesandcommittee-crop.jpg)
-^^^ Member sof the 2022/23 Sedos Trustees and Management Committee. [left to right:] Henry Whittaker, Adam Coppard, Stephen Beeny, Adrian Hau, Jack Brown, Tim Garrad, Paul Caira, Jessie Davidson, Daniel Saunders, Tess Robinson, Matt Gould, Mark Sidall
+^^^ Members of the 2022/23 Sedos Trustees and Management Committee. [left to right:] Henry Whittaker, Adam Coppard, Stephen Beeny, Adrian Hau, Jack Brown, Tim Garrad, Paul Caira, Jessie Davidson, Daniel Saunders, Tess Robinson, Matt Gould, Mark Sidall
 
 Sedos is a Charitable Incorporated Organisation.
 
@@ -71,7 +71,6 @@ Olly Levett \
 Tess Robinson\
 Mark Sidall\
 Kish Soni 
-
 
 ## Groups
 
