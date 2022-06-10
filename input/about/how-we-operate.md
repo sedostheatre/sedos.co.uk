@@ -2,10 +2,13 @@
 title: How we operate
 row: 2
 column: 3
-image: /assets/aboutus-trustees-19-20.jpg
+image: /assets/2022sedostrusteesandcommittee-crop.jpg
 RedirectFrom:
   - aboutus/howweoperate.htm
 ---
+^^^ ![12 members of the 2022/23 Sedos Trustees and Management Committee.standing in a line in front of a wall of bookcases. They are all smiling. ](/assets/2022sedostrusteesandcommittee-crop.jpg)
+^^^ Member sof the 2022/23 Sedos Trustees and Management Committee. [left to right:] Henry Whittaker, Adam Coppard, Stephen Beeny, Adrian Hau, Jack Brown, Tim Garrad, Paul Caira, Jessie Davidson, Daniel Saunders, Tess Robinson, Matt Gould, Mark Sidall
+
 Sedos is a Charitable Incorporated Organisation.
 
 **[Click here to read the constitution](/assets/SedosConstitution.pdf)**.
@@ -25,17 +28,18 @@ The trustees are elected by the members for three-year terms or co-opted in acco
 
 ### The trustees are:
 
-**Chair** | Dawn Harrison-Wallace\
 **Secretary** | Alex Baker\
-**Trustee with financial responsibility** | Michael Smith\
 **ex officio, Chair of the management committee** | Matt Gould\
-Ella Benson Roberts\
+Ella Benson-Roberts\
 Jack Brown\
-Jessie Davidson\
-Sara Rajeswaran\
-Dan Saunders \
-Michael Smith\
-Robert J Stanex
+Jessie Davidson \
+Nick Dore\
+Sara Rajeswaran \
+Daniel Saunders\
+Robert J Stanex\
+Graham White
+
+The positions of Chair and Trustee with financial responsibility will be appointed at the first Trustees meeting.
 
 [Minutes of trustees’ meetings can be found here](https://www.dropbox.com/sh/pz59ex3iwl1dvtu/AABG_C87fxRnti2LwMAJe_gga?dl=0)
 
@@ -53,21 +57,21 @@ The management committee meets monthly.
 
 [Minutes of the management committee’s meetings can be found here.](https://www.dropbox.com/sh/4k5xzud0xtt4nkv/AABLzsgMFefnoHVIol9sXx74a?dl=0)
 
-### Members of the management committee (2021/2022) are:
+### Members of the management committee are:
 
 **Chair** | Matt Gould \
-**Secretary** | Lizzie Levett \
 **Treasurer** | Henry Whittaker\
 **Marketing group** | Stephen Beeny \
 **Production group** | Adam Coppard\
-Karen Braganza \
-Peter Foster\
-Tim Garrad\
-Kate Gledhill\
-Steven King\
+Paul Caira\
+Tm Garrad\
+Adrian Hau\
+Jacob Hajjar\
 Olly Levett \
-Mark Siddall\
-Kish Soni
+Tess Robinson\
+Mark Sidall\
+Kish Soni 
+
 
 ## Groups
 
