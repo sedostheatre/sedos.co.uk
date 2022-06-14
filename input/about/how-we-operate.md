@@ -63,6 +63,7 @@ The management committee meets monthly.
 **Treasurer** | Henry Whittaker\
 **Marketing group** | Stephen Beeny \
 **Production group** | Adam Coppard\
+Karen Braganza\
 Paul Caira\
 Tim Garrad\
 Adrian Hau\
