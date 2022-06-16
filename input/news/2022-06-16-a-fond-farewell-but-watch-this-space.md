@@ -1,5 +1,5 @@
 ---
-title: A Fond Farewell, but watch this space!
+title: A fond farewell, but watch this space!
 date: 2022-06-16
 image: /assets/dawn-harrison-wallace-lo-res-.jpg
 ---
