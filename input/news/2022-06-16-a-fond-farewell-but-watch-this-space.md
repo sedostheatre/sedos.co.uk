@@ -3,8 +3,9 @@ title: A fond farewell, but watch this space!
 date: 2022-06-16
 image: /assets/dawn-harrison-wallace-lo-res-.jpg
 imageAlt: Retiring Sedos chair Dawn Harrison-Wallace
+metaTitle: Dawn Harrison-Wallace’s message as she steps down as Sedos chair
 metaDescription: A message from Dawn Harrison-Wallace as she steps down as chair
-  of Sedos’ board of trustees
+  of Sedos’ board of trustees, after many years of involvement with the society
 ---
 ^^^ ![](/assets/dawn-harrison-wallace-lo-res-.jpg)
 ^^^ Dawn Harrison-Wallace. Photo by Michael Smith.
