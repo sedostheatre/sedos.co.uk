@@ -50,5 +50,4 @@ And so as I sign off I’d like to thank all of those who have become good lifel
 
 So very Sedos and a very appropriate day to stand down!!
 
-^^^ ![](/assets/dawn-harrison-wallace-31-years-in-21-shows-lo-res-.jpg)
-^^^ At the 2022 Sedos AGM, Dawn was presented virtually with a montage of her time (so far) with Sedos. Poster by Stephen Beeny.
+![](/assets/dawn-harrison-wallace-31-years-in-21-shows-lo-res-.jpg "At the 2022 Sedos AGM, Dawn was presented virtually with a montage of her time (so far) with Sedos. Poster by Stephen Beeny. ")
