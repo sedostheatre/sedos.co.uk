@@ -3,11 +3,12 @@ title: A fond farewell, but watch this space!
 date: 2022-06-16
 image: /assets/dawn-harrison-wallace-lo-res-.jpg
 imageAlt: Retiring Sedos chair Dawn Harrison-Wallace
+metaTitle: Dawn Harrison-Wallace’s message as she steps down as Sedos chair
 metaDescription: A message from Dawn Harrison-Wallace as she steps down as chair
-  of Sedos’ board of trustees
+  of Sedos’ board of trustees, after many years of involvement with the society
 ---
 ^^^ ![](/assets/dawn-harrison-wallace-lo-res-.jpg)
-^^^ Dawn Harrison-Wallace. Photo by Michael Smith.
+^^^ Dawn Harrison-Wallace. Photo by Michael Smith
 
 *16 June 2022*
 
@@ -17,7 +18,7 @@ Dawn has been an unwavering advocate for Sedos and her knowledge and commitment 
 
 At the [2022 Sedos AGM](https://sedos.co.uk/news/2022-06-04-sedos-agm-2022), held on Thursday 9 June 2022, the following letter from Dawn was read out.
 
-**A Fond Farewell, but watch this space!**
+**A fond farewell, but watch this space!**
 
 As some of you may know, rather frustratingly, six weeks ago I was diagnosed with Bowel Cancer, though I’m pleased to say that it was caught early.  I won’t bore you with the details – although if you want to know more, please feel free to drop me a line – I’m very up for sharing and raising awareness – but in short, post-surgery, as we rebuild Dawn Mark II, my life has reverted to that of a six week old and currently all revolves around eating, pooping and sleeping every two hours!!!  And that is not yet conducive to a Sedos gathering!
 
