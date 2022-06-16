@@ -8,7 +8,7 @@ metaDescription: A message from Dawn Harrison-Wallace as she steps down as chair
   of Sedos’ board of trustees, after many years of involvement with the society
 ---
 ^^^ ![](/assets/dawn-harrison-wallace-lo-res-.jpg)
-^^^ Dawn Harrison-Wallace. Photo by Michael Smith.
+^^^ Dawn Harrison-Wallace. Photo by Michael Smith
 
 *16 June 2022*
 
