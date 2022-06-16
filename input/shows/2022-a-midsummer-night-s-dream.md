@@ -25,8 +25,50 @@ box-office-open: true
 box-office-link: https://sedos.ticketsolve.com/shows/1173626762/events
 sections:
   - order: 1
-    title: CREATIVE TEAM
+    title: CAST & CREATIVE TEAM
     body: >-
+      **CAST**
+
+
+      **EMCEE |** Lio Lylark
+
+      **THESEUS and HIPPOLYTA |** Robert J. Stanex and Katie Rennuit
+
+      **PHILOSTRATE |** Bella Muwanga
+
+      **EGEUS |** David Pearson
+
+      **HERMIA |** Katie Monk
+
+      **LYSANDRIA |** Ella Carter
+
+      **DEMETRIUS |** Alex Stephenson
+
+      **HELENUS |** Joe Clayton
+
+      **BOTTOM |** Zoë Thomas-Webb
+
+      **QUINCE |** Anthony Portsmouth
+
+      **SNUG |** Emma J. Leaver
+
+      **SNOUT |** KC Lylark
+
+      **STARVELING |** Carlito Reyes
+
+      **FLUTE |** Kimberly Barker
+
+      **FAIRY |** Olivier Namet
+
+      **PUCK |** Sarah Berryman
+
+      **TITANIA |** Sarah Beebe
+
+      **OBERON |** Sam Barnes
+
+      **FAIRY ENSEMBLE |** Alexandra Thomas, Anuli Changa, Chloe Wakefield, Ren Ramirez
+
+
       **CREATIVE TEAM**
 
 
@@ -59,14 +101,6 @@ metaDescription: A Midsummer Night’s Dream, part of Sedos’ 2022 London seaso
   Shakespeare’s classic play
 ---
 **A queer re-telling. Shakespeare meets gig theatre; dance, lip-sync battles, classic text, all fused into one riotous night of theatrical comedy.**
-
-In this show we will have:
-
-Classic Shakespeare \* Lesbian Lovers \* Acoustic modern folk performances \* Lady Gaga songs \* Commercial Dance \* Ballroom and Voguing \* Funky Dungaree Dressed Mechanicals \* Drag Kings \* Slapstick \* AFAB Queens \* Non-Binary Babes \* Lip-Sync Battles \* A show that is different every night \* An Emcee that holds it together \* and much more!
-
-This show will be a chaotic delight that will hopefully explore all the edges of the characters, our performers and our audiences. It will not be a show for the faint-hearted, not from a physical energy perspective for all our company, but from the point of view of the capacity to think big, play big and push ourselves to play expansively.
-
-Registration is now open for [A Midsummer Night’s Dream auditions](https://sedos.co.uk/events/a-midsummer-night-s-dream-workshop-and-auditions). 
 
 This show contains adult content, and explores themes around sexuality.
 
