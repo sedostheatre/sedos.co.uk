@@ -25,7 +25,7 @@ box-office-open: true
 box-office-link: https://sedos.ticketsolve.com/shows/1173626762/events
 sections:
   - order: 1
-    title: CREATIVE TEAM
+    title: CAST AND CREATIVE TEAM
     body: >-
       **CAST**
 
