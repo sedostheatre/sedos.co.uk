@@ -18,7 +18,7 @@ Dawn has been an unwavering advocate for Sedos and her knowledge and commitment 
 
 At the [2022 Sedos AGM](https://sedos.co.uk/news/2022-06-04-sedos-agm-2022), held on Thursday 9 June 2022, the following letter from Dawn was read out.
 
-**A Fond Farewell, but watch this space!**
+**A fond farewell, but watch this space!**
 
 As some of you may know, rather frustratingly, six weeks ago I was diagnosed with Bowel Cancer, though I’m pleased to say that it was caught early.  I won’t bore you with the details – although if you want to know more, please feel free to drop me a line – I’m very up for sharing and raising awareness – but in short, post-surgery, as we rebuild Dawn Mark II, my life has reverted to that of a six week old and currently all revolves around eating, pooping and sleeping every two hours!!!  And that is not yet conducive to a Sedos gathering!
 
