@@ -66,31 +66,37 @@ sections:
 
       **OBERON |** Sam Barnes\
 
-      **FAIRY ENSEMBLE |** Alexandra Thomas, Anuli Changa, Chloe Wakefield, Ren Ramirez
+      **FAIRY ENSEMBLE |** Alexandra Thomas, Anuli Changa, Chloe Wakefield
 
 
       **CREATIVE TEAM**
 
 
-      **DIRECTOR:** Matt Hudson (he/them)\
+      **DIRECTOR** | Matt Hudson (he/them)\
 
-      **PRODUCER:** Clare Harding (she/her)\
+      **PRODUCER** | Clare Harding (she/her)\
 
-      **CHOREOGRAPHER:** Mary Bennett (she/her)\
+      **CHOREOGRAPHER** | Mary Bennett (she/her)\
 
-      **ASSISTANT DIRECTORS:** Carrie Pennifer (she/her), Iacopo Farusi (he/him)\
+      **ASSISTANT DIRECTORS** | Carrie Pennifer (she/her), Iacopo Farusi (he/him)\
 
-      **STAGE AND COSTUME DESIGN:** Peter Foster (he/him)\
+      **MUSIC DIRECTOR** | Alex Dehn\
 
-      **LIGHTING DESIGN:** Martin Walton (he/him)\
+      **STAGE AND COSTUME DESIGN** | Peter Foster (he/him)\
 
-      **SOUND DESIGN:** Henry Whittaker (he/him)\
+      **LIGHTING DESIGN** | Martin Walton (he/him)\
 
-      **COSTUME SUPERVISOR:** we are looking for support in costume making, sourcing and organising\
+      **ASSISTANT LIGHTING DESIGNER** | Shiri Stern (she/her)\
 
-      **MUSIC PRODUCTION:** we are looking for someone to support us with music production and creating tracks\
+      **SOUND DESIGN** | Henry Whittaker (he/him)\
 
-      **MUSIC SUPERVISOR:** we have three to five sung songs in the show and are looking for someone/people to teach the music and support the team
+      **HAIR and MAKEUP DESIGN** | Jobina Hardy\
+
+      **STAGE MANAGER** | we are looking for a stage manager\
+
+      **ASSISTANT STAGE MANAGER** | Karen Grant-Davie (she/her)\
+
+      **COSTUME SUPERVISOR** | we are looking for support in costume making, sourcing and organising
 
 
       If you are interested in any roles on the team please message Clare and Matt at [midsummer@sedos.co.uk](mailto:midsummer@sedos.co.uk)
