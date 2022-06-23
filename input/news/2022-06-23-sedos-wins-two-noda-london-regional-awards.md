@@ -17,7 +17,7 @@ Huge congratulations to everyone involved in these award-winning productions, Se
 
 These London Regional Awards cover the period 1 April 2020 to 31 March 2022, a longer time period than normal because of the disruption caused by Covid-19. 
 
-The programme awards cover the period from 1 January to 31 December 2021.
+The programme awards cover the period from 1 January 2020 to 31 December 2021.
 
 Huge congratulations to all the NODA London Regional winners. You can see the full list on the [NODA website](https://www.noda.org.uk/regions/london/congratulations-to-our-regional-winners-2022).
 
