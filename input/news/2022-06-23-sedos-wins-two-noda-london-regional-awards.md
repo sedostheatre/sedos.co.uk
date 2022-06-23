@@ -1,6 +1,7 @@
 ---
 title: Sedos wins two NODA London Regional Awards
 date: 2022-06-20
+image: /assets/when-the-rain.png
 metaTitle: Sedos wins two NODA London Regional Awards
 ---
 *23 June 2022*
