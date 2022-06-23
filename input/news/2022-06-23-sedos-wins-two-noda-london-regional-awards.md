@@ -1,9 +1,13 @@
 ---
 title: Sedos wins two NODA London Regional Awards
 date: 2022-06-20
-image: /assets/when-the-rain.png
+image: /assets/when-the-rain-stops-falling-noda-square.jpg
+imageAlt: ""
 metaTitle: Sedos wins two NODA London Regional Awards
 ---
+^^^ ![The director and some of the cast of When the Rain Stops Falling at the 2022 NODA AGM and Celebration day.](/assets/when-the-rain-stops-falling-noda-square.jpg)
+^^^ 
+
 *23 June 2022*
 
 **Sedos has won two NODA (National Operatic and Dramatic Association) London Regional Awards at the NODA AGM and Celebration day on 19 June 2022 at The Radlett Centre. Congratulations!** 
