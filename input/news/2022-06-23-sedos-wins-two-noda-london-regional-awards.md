@@ -8,7 +8,7 @@ metaTitle: Sedos wins two NODA London Regional Awards
 
 **Sedos has won two NODA (National Operatic and Dramatic Association) London Regional Awards at the NODA AGM and Celebration day on 19 June 2022 at The Radlett Centre. Congratulations!** 
 
-Our NOA London Regional winners are:
+Our NODA London Regional winners are:
 
 * The Pat Redhead Award for Best Drama: *[When the Rain Stops Falling](https://sedos.co.uk/shows/2022-when-the-rain-stops-falling)*
 * June King Memorial Trophy for Programme Design (Basic Class): *[The Musical of Musicals (The Musical)](https://sedos.co.uk/shows/2020-the-musical-of-musicals-the-musical)*
@@ -24,8 +24,6 @@ Huge congratulations to all the NODA London Regional winners. You can see the fu
 In May 2022 Sedos won three NODA District Awards and our programme for Ophelia Thinks Harder was shortlisted for the June King Memorial Trophy for programme design (basic class).
 
 Find out more about [Sedos and the 2022 NODA District Awards](https://sedos.co.uk/news/2022-05-11-sedos-wins-three-noda-district-awards).
-
-
 
 ^^^ ![](/assets/when-the-rain.png)
 ^^^ 
