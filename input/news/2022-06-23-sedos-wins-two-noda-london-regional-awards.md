@@ -1,6 +1,7 @@
 ---
 title: Sedos wins two NODA London Regional Awards
 date: 2022-06-20
+metaTitle: Sedos wins two NODA London Regional Awards
 ---
 *23 June 2022*
 
@@ -22,3 +23,11 @@ Huge congratulations to all the NODA London Regional winners. You can see the fu
 In May 2022 Sedos won three NODA District Awards and our programme for Ophelia Thinks Harder was shortlisted for the June King Memorial Trophy for programme design (basic class).
 
 Find out more about [Sedos and the 2022 NODA District Awards](https://sedos.co.uk/news/2022-05-11-sedos-wins-three-noda-district-awards).
+
+
+
+^^^ ![](/assets/when-the-rain.png)
+^^^ 
+
+^^^ ![](/assets/Musicals-A5-flyer-FRONT-800.jpg)
+^^^
