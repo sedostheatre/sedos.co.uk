@@ -27,7 +27,7 @@ Our shortlisted programes are both up for the June King Memorial Trophy for prog
 ***[The Musical of Musicals (The Musical)](https://sedos.co.uk/shows/2020-the-musical-of-musicals-the-musical)* – designed by Clare Harding**\
 ***[Ophelia Thinks Harder](https://sedos.co.uk/shows/2020-ophelia-thinks-harder)* – designed by Olly Levett and Luke Phillippo**
 
-The programme awards cover the period from 1 January to 31 December 2021.
+The programme awards cover the period from 1 January 2020 to 31 December 2021.
 
 Huge congratulations to all our winners. [You can see all the winners here.](https://www.noda.org.uk/regions/london/noda-london-district-winners-list-2022?fbclid=IwAR0WIPQuhK82K7wgVHr8fez6-b0DDmxnKwFJNu0i6bOKurtnU_pq7FuxE7o)
 
