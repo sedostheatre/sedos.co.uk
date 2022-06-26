@@ -11,6 +11,17 @@ RedirectFrom:
 
 # 2022
 
+## *American Idiot*
+
+^^^ ![Dress rehearsal image from Sedos’ 2022 production of American Idiot](/assets/280252907_10159552835373267_4031461878592268506_n.jpeg)
+^^^ American Idiot
+
+>This is not a show for the faint hearted but one that should be seen. If you want a show with poignant commentary on society in an unapologetic bold manner then American Idiot by Sedos will be the show you are looking for. With a cast that have stunning rock vocal abilities and a staging that completes the rock vibe, Sedos have once again delivered.
+><footer><cite><a target="_blank" href="http://musicaltheatremusings.co.uk/american-idiot-sedos">American Idiot, 2022, Musical Theatre Musings</a></cite></footer>
+
+>The song performance aspects of the piece were met with the strong cast all round - many of which are destined for a bigger stage - who took them on with electric intensity… Having an incredible live band brought that extra dynamic that brought immense power when combined with the full company in particular. The choreography by Jen Bullock was enticing and worked well with the stage given, as well as the road cases used as the main props throughout. Furthermore, the lighting, designed by Olly Levett, was used effectively in conjunction with this… Loaded with the great track list including 'Jesus of Suburbia', 'Boulevard of Broken Dreams', 'Holiday', 'Wake Me Up When September Ends' and of course, 'American Idiot', plus an additional beautiful surprise encore, this show will undoubtedly leave you unapologetically humming them for at least a week afterwards. This version of American Idiot, directed by Matt Bentley, is one of Sedos’s best shows yet.
+><footer><cite><a target="_blank" href="https://www.watchthatscene.com/post/american-idiot-musical-review">American Idiot, 2022, Watch That Scene</a></cite></footer>
+
 ## *The Mystery of Edwin Drood*
 
 ^^^ ![Dress rehearsal image of Sedos’s 2022 production of The Mystery of Edwin Drood](/assets/51953767321_847a6c6949_c.jpg)
