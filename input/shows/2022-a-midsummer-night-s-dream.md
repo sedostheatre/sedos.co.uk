@@ -30,43 +30,43 @@ sections:
       **CAST**
 
 
-      **EMCEE |** Lio Lylark\
+      **EMCEE** | Lio Lylark\
 
-      **THESEUS and HIPPOLYTA |** Robert J. Stanex and Katie Rennuit\
+      **THESEUS and HIPPOLYTA** | Robert J. Stanex and Katie Rennuit\
 
-      **PHILOSTRATE |** Bella Muwanga\
+      **PHILOSTRATE** | Bella Muwanga\
 
-      **EGEUS |** David Pearson\
+      **EGEUS** | David Pearson\
 
-      **HERMIA |** Katie Monk\
+      **HERMIA** | Katie Monk\
 
-      **LYSANDRIA |** Ella Carter\
+      **LYSANDRIA** | Ella Carter\
 
-      **DEMETRIUS |** Alex Stephenson\
+      **DEMETRIUS** | Alex Stephenson\
 
-      **HELENUS |** Joe Clayton\
+      **HELENUS** | Joe Clayton\
 
-      **BOTTOM |** Zoë Thomas-Webb\
+      **BOTTOM** | Zoë Thomas-Webb\
 
-      **QUINCE |** Anthony Portsmouth\
+      **QUINCE** | Anthony Portsmouth\
 
-      **SNUG |** Emma J. Leaver\
+      **SNUG** | Emma J. Leaver\
 
-      **SNOUT |** KC Lylark\
+      **SNOUT** | KC Lylark\
 
-      **STARVELING |** Carlito Reyes\
+      **STARVELING** | Carlito Reyes\
 
-      **FLUTE |** Kimberly Barker\
+      **FLUTE** | Kimberly Barker\
 
-      **FAIRY |** Olivier Namet\
+      **FAIRY** | Olivier Namet\
 
-      **PUCK |** Sarah Berryman\
+      **PUCK** | Sarah Berryman\
 
-      **TITANIA |** Sarah Beebe\
+      **TITANIA** | Sarah Beebe\
 
-      **OBERON |** Sam Barnes\
+      **OBERON** | Sam Barnes\
 
-      **FAIRY ENSEMBLE |** Alexandra Thomas, Anuli Changa, Chloe Wakefield
+      **FAIRY ENSEMBLE** | Alexandra Thomas, Anuli Changa, Chloe Wakefield
 
 
       **CREATIVE TEAM**
