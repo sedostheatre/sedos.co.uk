@@ -68,7 +68,7 @@ sections:
       **PHOTOGRAPHER** | Stephen Russell\
       **VIDEOGRAPHER** | Joseph Henshaw\
       **COMMITTEE LIAISON** | Steven King
-  - order: 2
+  - order: 3
     title: REVIEWS
     body: >-
       >This is not a show for the faint hearted but one that should be seen. If
