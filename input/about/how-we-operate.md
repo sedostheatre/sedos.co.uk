@@ -28,18 +28,16 @@ The trustees are elected by the members for three-year terms or co-opted in acco
 
 ### The trustees are:
 
+**Chair** | Daniel Saunders\
 **Secretary** | Alex Baker\
+**Treasurer** | Nick Dore\
 **ex officio, Chair of the management committee** | Matt Gould\
 Ella Benson-Roberts\
 Jack Brown\
 Jessie Davidson \
-Nick Dore\
 Sara Rajeswaran \
-Daniel Saunders\
 Robert J Stanex\
 Graham White
-
-The positions of Chair and Trustee with financial responsibility will be appointed at the first Trustees meeting.
 
 [Minutes of trustees’ meetings can be found here](https://www.dropbox.com/sh/pz59ex3iwl1dvtu/AABG_C87fxRnti2LwMAJe_gga?dl=0)
 
