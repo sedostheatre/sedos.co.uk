@@ -17,7 +17,7 @@
                 @foreach (var link in footerModel.Get<IEnumerable<IDocument>>("internal-links"))
                 {
                     <div>
-                        <a href="@link["url"]" class="text-sedos-blue navigation-link">@link["name"]</a>
+                        <a href="@link["url"]" class="link-primary navigation-link">@link["name"]</a>
                     </div>
                 }
             </div>
