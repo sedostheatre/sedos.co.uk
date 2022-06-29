@@ -10,8 +10,8 @@
 
         <button class="navbar-toggler"
                 type="button"
-                data-toggle="collapse"
-                data-target="#topLevelNav"
+                data-bs-toggle="collapse"
+                data-bs-target="#topLevelNav"
                 aria-controls="topLevelNav"
                 aria-expanded="false"
                 aria-label="Toggle navigation">
@@ -26,7 +26,7 @@
                     <li class="nav-item">
                         <a class="nav-link @(active ? "active" : "")"
                            href="@navItem["url"]">
-                            @navItem["name"]<span class="sr-only">@(active ? "(current)" : "")</span>
+                            @navItem["name"]<span class="visually-hidden">@(active ? "(current)" : "")</span>
                         </a>
                     </li>
                 }
