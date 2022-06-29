@@ -12,6 +12,6 @@ describe("news pages", () => {
     it("can select more news from a news article", () => {
         cy.visit("http://localhost:5080/news");
         cy.get(".news-card").first().click();
-        cy.get(".news-article-details-column a h6").first().click();       
+        cy.get(".news-article-details-column a h6").first().should('be.visible');
     })
 });
