@@ -10,7 +10,6 @@ $lime: #d7dd33;
 $grey: #f2f2f2;
 $white: #fff;
 $primary: $sedos-blue;
-
 $custom-colors: (
     "sedos-blue": $sedos-blue,
     "light-blue": $light-blue,
@@ -22,12 +21,9 @@ $custom-colors: (
     "yellow": $yellow,
     "lime": $lime
 );
-
 $theme-colors: map-merge($theme-colors, $custom-colors);
-
 $card-border-radius: 0;
 $carousel-control-icon-width: 30px;
 $body-bg: $grey;
 $btn-border-radius: 0;
-
 $card-inner-border-radius: 0;
