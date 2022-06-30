@@ -17,7 +17,7 @@ showtimes:
   - time: 2022-09-24 13:30
   - time: 2022-09-24 18:00
 showtime-summary: 14-24 SEPTEMBER 2022
-venue: Bridewell Theatre
+venue: bridewell
 primary-color: "#00AAFF"
 header-image: /assets/copy-of-16x9poster-clean.jpg
 flyer: /assets/msnd-posterteaser-3.jpg
