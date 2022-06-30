@@ -45,7 +45,7 @@
     padding-top: 15px;
 
     .show-card {
-        @include media-breakpoint-down(sm) {
+        @include media-breakpoint-down(md) {
             max-height: 300px;
         }
 

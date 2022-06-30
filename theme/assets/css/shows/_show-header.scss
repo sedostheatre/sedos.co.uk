@@ -1,5 +1,5 @@
 .show-header {
-    @include media-breakpoint-down(md) {
+    @include media-breakpoint-down(lg) {
         .show-title {
             font-size: 1.75em;
             margin-bottom: 0;
@@ -30,7 +30,7 @@
         flex-direction: column;
         padding-top: 8em;
 
-        @include media-breakpoint-down(sm) {
+        @include media-breakpoint-down(md) {
             padding-top: 1em;
             padding-top: 0;
             text-align: center;
@@ -55,7 +55,7 @@
                 font-size: 1em;
             }
 
-            @include media-breakpoint-down(sm) {
+            @include media-breakpoint-down(lg) {
                 font-size: 1em;
             }
         }
@@ -68,11 +68,11 @@
         background-size: cover;
         min-height: 70vh;
 
-        @include media-breakpoint-down(sm) {
+        @include media-breakpoint-down(md) {
             min-height: 30vh;
         }
 
-        @include media-breakpoint-down(xs) {
+        @include media-breakpoint-down(sm) {
             min-height: 20vh;
         }
 
@@ -97,7 +97,7 @@
             font-size: 2em;
         }
 
-        @include media-breakpoint-down(sm) {
+        @include media-breakpoint-down(md) {
             font-size: 2em;
             padding-bottom: 0.25em;
         }
@@ -119,7 +119,7 @@
             font-size: 1.5em;
         }
 
-        @include media-breakpoint-down(sm) {
+        @include media-breakpoint-down(md) {
             font-size: 1em;
         }
     }
@@ -139,7 +139,7 @@
             font-size: 1.5em;
         }
 
-        @include media-breakpoint-down(sm) {
+        @include media-breakpoint-down(md) {
             font-size: 1.2em;
             max-width: 100%;
         }
