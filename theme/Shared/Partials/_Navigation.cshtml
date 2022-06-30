@@ -10,8 +10,8 @@
 
         <button class="navbar-toggler"
                 type="button"
-                data-toggle="collapse"
-                data-target="#topLevelNav"
+                data-bs-toggle="collapse"
+                data-bs-target="#topLevelNav"
                 aria-controls="topLevelNav"
                 aria-expanded="false"
                 aria-label="Toggle navigation">
@@ -19,20 +19,20 @@
         </button>
 
         <div class="collapse navbar-collapse" id="topLevelNav">
-            <ul class="navbar-nav mr-auto">
+            <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                 @foreach(var navItem in topLevelNav.Get<IEnumerable<IDocument>>("top-level-nav"))
                 {
                     var active = Context.GetLink(Model).Contains(navItem["url"].ToString());
                     <li class="nav-item">
-                        <a class="nav-link @(active ? "active" : "")"
+                        <a class="nav-link @(active ? "active" : "") fs-5 text-uppercase"
                            href="@navItem["url"]">
-                            @navItem["name"]<span class="sr-only">@(active ? "(current)" : "")</span>
+                            @navItem["name"]<span class="visually-hidden">@(active ? "(current)" : "")</span>
                         </a>
                     </li>
                 }
             </ul>
 
-            <a class="btn btn-sedos-blue my-2 my-sm-0" href="https://sedos.ticketsolve.com">Book tickets</a>
+            <a class="btn btn-sedos-blue my-2 my-sm-0 text-uppercase" href="https://sedos.ticketsolve.com">Book tickets</a>
         </div>
     </nav>
 </div>

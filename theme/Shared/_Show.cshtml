@@ -16,13 +16,13 @@
             <div class="col-md-8 pt-3" role="tabpanel">
                 <ul class="nav nav-tabs show-nav" role="tablist" id="showDetailsTab">
                     <li class="nav-item">
-                        <a class="nav-link active show-details-nav-header" id="details-tab" data-toggle="tab" href="#details" role="tab" aria-controls="details" aria-expanded="false">Details</a>
+                        <a class="nav-link active show-details-nav-header" id="details-tab" data-bs-toggle="tab" href="#details" role="tab" aria-controls="details" aria-expanded="false">Details</a>
                     </li>
                     @{
                         foreach (var document in Model.Get("sections", Enumerable.Empty<IDocument>()))
                         {
                             <li class="nav-item">
-                                <a class="nav-link show-details-nav-header" id="@document["title"]-tab" data-toggle="tab" href="#@document["title"]" role="tab" aria-controls="@document["title"]" aria-expanded="false">@document["title"]</a>
+                                <a class="nav-link show-details-nav-header" id="@document["title"]-tab" data-bs-toggle="tab" href="#@document["title"]" role="tab" aria-controls="@document["title"]" aria-expanded="false">@document["title"]</a>
                             </li>
                         }
                     }

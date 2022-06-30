@@ -6,7 +6,7 @@
 @model IDocument
 
 <div class="header-carousel">
-    <div class="carousel slide" data-ride="carousel" id="hero-carousel">
+    <div class="carousel slide" data-bs-ride="carousel" id="hero-carousel">
         @{
             var upcomingShows = Outputs.FromPipeline("AllShows")
                     .Where(doc => doc.Get("showtimes", Enumerable.Empty<IDocument>()).Any(time => time.Get<DateTime>("time") > DateTime.Now))
@@ -27,7 +27,7 @@
                     @{
                         foreach (var show in showsToDisplay.Select((value, i) => new { Image = Context.GetLink(value.Get<string>("header-image")), Index = i, ContainImage = value.Get("header-image-contain", false) }))
                         {
-                            <li data-target="#hero-carousel" data-slide-to="@show.Index" class="@(show.Index==0?"active":"") list-inline-item">
+                            <li data-bs-target="#hero-carousel" data-bs-slide-to="@show.Index" class="@(show.Index==0?"active":"") list-inline-item">
                                 <div class="hero-indicator-image @(show.ContainImage ? "contain-image" : "")" style="background-image: url(@show.Image)"></div>
                             </li>
                         }
@@ -51,13 +51,13 @@
                     }
                 }
             </div>
-            <a class="carousel-control-prev" href="#hero-carousel" role="button" data-slide="prev">
+            <a class="carousel-control-prev" href="#hero-carousel" role="button" data-bs-slide="prev">
                 <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-                <span class="sr-only">Previous</span>
+                <span class="visually-hidden">Previous</span>
             </a>
-            <a class="carousel-control-next" href="#hero-carousel" role="button" data-slide="next">
+            <a class="carousel-control-next" href="#hero-carousel" role="button" data-bs-slide="next">
                 <span class="carousel-control-next-icon" aria-hidden="true"></span>
-                <span class="sr-only">Next</span>
+                <span class="visually-hidden">Next</span>
             </a>
         }
     </div>
@@ -82,7 +82,7 @@
                 @Html.Raw(Model.Get("eventsText"))
             </div>
         </div>
-    
+
         <div class="row">
             <div class="event-card-container d-none d-md-block col-md-3">
                 @{
@@ -137,7 +137,7 @@
                 @Html.Raw(Model.Get("newsText"))
             </div>
         </div>
-        
+
         <div class="row">
             @{
                 var latestNews = Outputs.FromPipeline("News")

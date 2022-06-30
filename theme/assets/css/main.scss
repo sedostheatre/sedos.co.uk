@@ -1,6 +1,5 @@
 @import "bootstrap-overrides";
-@import "../../../node_modules/bootstrap/scss/bootstrap";
-@import "navigation";
+@import "../node_modules/bootstrap/scss/bootstrap";
 @import "layout";
 @import "header-carousel/header-carousel";
 @import "home-page/home-page";
@@ -11,3 +10,7 @@
 @import "about/about";
 @import "your-visit/your-visit";
 @import "header";
+
+a {
+    text-decoration: none;
+}
