@@ -45,8 +45,6 @@ Robert J Stanex
 
 Graham White
 
-
-
 [Minutes of trustees’ meetings can be found here](https://www.dropbox.com/sh/pz59ex3iwl1dvtu/AABG_C87fxRnti2LwMAJe_gga?dl=0)
 
 ## Management committee
@@ -61,7 +59,7 @@ To contact the management committee, please email [committee@sedos.co.uk](mailto
 
 The management committee meets monthly.
 
-[Minutes of the management committee’s meetings can be found here.](https://www.dropbox.com/sh/4k5xzud0xtt4nkv/AABLzsgMFefnoHVIol9sXx74a?dl=0)
+[Minutes of the management committee’s meetings can be found here.](https://drive.google.com/drive/folders/1cAe7KQ44n8LRwY99_qUxjfHZtoI7waGk?usp=sharing)
 
 ### Members of the management committee are:
 
