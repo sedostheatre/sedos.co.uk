@@ -45,7 +45,7 @@ Robert J Stanex
 
 Graham White
 
-[Minutes of trustees’ meetings can be found here](https://www.dropbox.com/sh/pz59ex3iwl1dvtu/AABG_C87fxRnti2LwMAJe_gga?dl=0)
+[Minutes of trustees’ meetings can be found here](https://drive.google.com/drive/folders/13fa6XEho_8j5tAyxQX0wwuJ5HXOcRmjZ?usp=sharing)
 
 ## Management committee
 
