@@ -23,7 +23,7 @@ Guare's witty play scratches beneath the surface of a world obsessed with money 
 
 Joseph is an award-winning performance poet, playwright and children’s author. He was presented with the bespoke silver Laureate medal by outgoing Waterstones Children’s Laureate, Cressida Cowell MBE, at a ceremony held at The Unicorn Theatre, London, on Monday 4 July 2022.
 
-At the ceremony, Joseph  who is acclaimed for his work including the Luna Loves picture books, middle grade series Fairy Tales Gone Bad, YA verse novel The Girl Who Became a Tree, as well as poetry collections for all ages including Overheard in a Tower Block and Poems Aloud – revealed that his tenure will celebrate the power of poetry, showcase new authors and illustrators to diversify bookshelves and inspire bookmakers of the future, and champion public libraries and the role they play in communities. 
+At the ceremony, Joseph  who is acclaimed for his work including the *Luna Loves* picture books, middle grade series *Fairy Tales Gone Bad*, YA verse novel *The Girl Who Became a Tre*e, as well as poetry collections for all ages including *Overheard in a Tower Block* and *Poems Aloud* – revealed that his tenure will celebrate the power of poetry, showcase new authors and illustrators to diversify bookshelves and inspire bookmakers of the future, and champion public libraries and the role they play in communities. 
 
 “Poetry is powerful, it is the medium we turn to at weddings, funerals and new births because it goes beyond mere words, poetry translates the soul. I want to use the prestigious platform of the Waterstones Children's Laureate to highlight and celebrate the power of poetry. To invite the nation, young and old, to write poems, to become poets,” said Joseph.
 
