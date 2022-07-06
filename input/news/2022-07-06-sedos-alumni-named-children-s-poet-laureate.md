@@ -21,6 +21,8 @@ Guare's witty play scratches beneath the surface of a world obsessed with money 
 
 *Six Degrees of Separation* also featured Tom Brennan, Bridget Cross, Jonathan Hyde, Helen McBain, Doug Smith and Dan Waters.
 
+Joseph also worked on four productions with Sedos' previous Charity of the Year, Half Moon Theatre. 
+
 Joseph is an award-winning performance poet, playwright and children’s author. He was presented with the bespoke silver Laureate medal by outgoing Waterstones Children’s Laureate, Cressida Cowell MBE, at a ceremony held at The Unicorn Theatre, London, on Monday 4 July 2022.
 
 At the ceremony, Joseph  who is acclaimed for his work including the *Luna Loves* picture books, middle grade series *Fairy Tales Gone Bad*, YA verse novel *The Girl Who Became a Tre*e, as well as poetry collections for all ages including *Overheard in a Tower Block* and *Poems Aloud* – revealed that his tenure will celebrate the power of poetry, showcase new authors and illustrators to diversify bookshelves and inspire bookmakers of the future, and champion public libraries and the role they play in communities. 
