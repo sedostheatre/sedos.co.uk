@@ -9,7 +9,7 @@ showtime-summary: 27 November 2011
 venue: bridewell
 primary-color: "#cb372f"
 header-image: /assets/feweremergencies.jpg
-flyer: /assets/flyer.jpg
+flyer: /assets/feweremerg.jpg
 box-office-open: false
 sections:
   - order: 1
