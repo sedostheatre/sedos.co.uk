@@ -1,10 +1,9 @@
-using Statiq.Common;
 using Schema.NET;
+using Statiq.Common;
 using System;
 using System.Linq;
-using System.Collections.Generic;
 
-namespace Sedos.Extensions
+namespace Sedos.Helpers
 {
     public class JsonLD
     {

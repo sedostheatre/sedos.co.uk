@@ -1,10 +1,9 @@
 using System;
 
-namespace Sedos.Extensions
+namespace Sedos.Helpers
 {
     public static class BoxOfficeUri
     {
-
         public static Uri FromBoxOfficeLink(string boxOfficeLink)
         {
             return new UriBuilder(boxOfficeLink)
