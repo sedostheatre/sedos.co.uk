@@ -7,8 +7,7 @@ times:
   - time: 2022-07-21 19:00
 image: /assets/amadeusauditions.png
 imageAlt: Amadeus auditions
-venue: "Workshop: Theatre Deli Studios, 2 Finsbury Avenue, London EC2M 2PF;
-  auditions: to be confirmed"
+venue: ""
 metaTitle: Amadeus auditions, for Sedos’ 2022 production
 metaDescription: Find out about Sedos’ Amadeus auditions – full audition notice
   and how to try out for our 2022 production of the show
