@@ -1,11 +1,10 @@
-﻿using System;
-using System.Linq;
-using Sedos.Extensions;
+﻿using Sedos.Helpers;
 using Statiq.Common;
 using Statiq.Core;
-using Statiq.Html;
 using Statiq.Razor;
 using Statiq.Yaml;
+using System;
+using System.Linq;
 
 namespace Sedos.Pipelines
 {

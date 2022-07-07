@@ -1,4 +1,4 @@
-﻿using Sedos.Extensions;
+﻿using Sedos.Helpers;
 using Statiq.Common;
 using Statiq.Core;
 using Statiq.Razor;

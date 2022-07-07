@@ -1,4 +1,4 @@
-﻿using Sedos.Extensions;
+﻿using Sedos.Helpers;
 using SixLabors.ImageSharp.Processing;
 using Statiq.Common;
 using Statiq.Core;

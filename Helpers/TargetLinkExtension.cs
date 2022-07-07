@@ -6,7 +6,7 @@ using Markdig.Syntax.Inlines;
 using System;
 using System.Collections.Generic;
 
-namespace Sedos.Extensions
+namespace Sedos.Helpers
 {
     public class TargetLinkExtension : IMarkdownExtension
     {
@@ -16,8 +16,7 @@ namespace Sedos.Extensions
 
         public void Setup(MarkdownPipeline pipeline, IMarkdownRenderer renderer)
         {
-            var htmlRenderer = renderer as HtmlRenderer;
-            if (htmlRenderer != null)
+            if (renderer is HtmlRenderer htmlRenderer)
             {
                 var inlineRenderer = htmlRenderer.ObjectRenderers.FindExact<LinkInlineRenderer>();
                 if (inlineRenderer != null)

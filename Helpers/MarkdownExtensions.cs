@@ -3,7 +3,7 @@ using Statiq.Markdown;
 using System.Linq;
 using System.Threading.Tasks;
 
-namespace Sedos.Extensions
+namespace Sedos.Helpers
 {
     public static class MarkdownExtensions
     {

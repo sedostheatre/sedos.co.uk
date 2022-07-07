@@ -1,4 +1,4 @@
-﻿namespace Sedos.Extensions
+﻿namespace Sedos.Helpers
 {
     public static class StringExtensions
     {

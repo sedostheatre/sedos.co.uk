@@ -1,7 +1,6 @@
-﻿using Sedos.Extensions;
+﻿using Sedos.Helpers;
 using Statiq.Common;
 using Statiq.Core;
-using Statiq.Html;
 using Statiq.Razor;
 using Statiq.Yaml;
 
@@ -16,7 +15,7 @@ namespace Sedos.Pipelines
             InputModules = new ModuleList
             {
                 new ReadFiles("news/*.md"),
-            };                        
+            };
 
             ProcessModules = new ModuleList
             {
