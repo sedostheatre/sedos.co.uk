@@ -5,7 +5,7 @@ times:
   - time: 2022-07-16 10:10
   - time: 2022-07-20 19:00
   - time: 2022-07-21 19:00
-image: /assets/amadeusauditions.png
+image: /assets/amadeus-wigs-landscape.png
 imageAlt: Amadeus auditions
 venue: ""
 metaTitle: Amadeus auditions, for Sedos’ 2022 production
