@@ -20,8 +20,8 @@ showtimes:
 showtime-summary: 27 June-1 July 2017
 venue: bridewell
 primary-color: "#f9c848"
-header-image: /assets/About-JoinUs.jpg
-flyer: /assets/drowsyfront-800.jpg
+header-image: /assets/images/about/About-JoinUs.jpg
+flyer: /assets/images/flyers/2017-drowsy.jpg
 sections:
   - title: CAST & CREATIVE TEAM
     body: |-
