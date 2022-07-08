@@ -1,15 +1,15 @@
 ---
-title: Sedos alumni named children’s poet laureate
+title: Sedos alumnus named children’s poet laureate
 date: 2022-07-05
 image: /assets/joseph-coelho.jpg
-metaTitle: Sedos alumni Joseph Coelho named Children’s Laureate 2022–2024.
+metaTitle: Sedos alumnus Joseph Coelho named Children’s Laureate 2022–2024.
 ---
 ^^^ ![](/assets/joseph-coelho.jpg)
 ^^^ Joseph Coelho. Photograph by David Bebber
 
 *5 July 2022*
 
-**Congratulations to Sedos alumni [Joseph Coelho](https://www.thepoetryofjosephcoelho.com/), who’s been announced as the 12th Waterstones Children’s Laureate 2022–2024.** 
+**Congratulations to Sedos alumnus [Joseph Coelho](https://www.thepoetryofjosephcoelho.com/), who’s been announced as the 12th Waterstones Children’s Laureate 2022–2024.** 
 
 Joseph joined Sedos in 2005 for S*ix Degrees of Separation*, by John Guare, part of our [centenary season](https://sedos.co.uk/2005-review). The show was part of sell-out two-week run at The Union Theatre,  before transferring to the Roman Eagle Lodge at the Edinburgh Fringe Festival. The play was part of a double bill of one-act plays, with *Sexual Perversity in Chicago* (also by Sedos) its companion piece. 
 
