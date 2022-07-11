@@ -2,11 +2,12 @@
 title: Sedos silk square given to society
 date: 2022-07-11
 image: /assets/20220625_140404.jpg
+imageAlt: Sedos silk square
 metaTitle: Sedos silk square given to society
 metaDescription: Sedos has recently been given a silk square embroidered with
   the society's old logo
 ---
-^^^ ![](/assets/20220625_140404.jpg)
+^^^ ![Sedos silk square](/assets/20220625_140404.jpg)
 ^^^ 
 
 *11 July 2022*
