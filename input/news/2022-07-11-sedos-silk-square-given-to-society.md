@@ -16,9 +16,9 @@ metaDescription: Sedos has recently been given a silk square embroidered with
 
 Vivienne played several leading roles in Sedos productions before World War II and into the 1950s.
 
-Richard’s parents met in the Sedos production of Chu Chin Chow in 1935, when Vivienne played Zahrat Al-Kulub and his father Derek was one of the chorus of 40 thieves. Derek’s brother Neil joined him in the chorus. Neil later served on the committee of Sedos and was production manager for several shows. 
+Richard’s parents met in the Sedos production of *Chu Chin Chow* in 1935, when Vivienne played Zahrat Al-Kulub and his father Derek was one of the chorus of 40 thieves. Derek’s brother Neil joined him in the chorus. Neil later served on the committee of Sedos and was production manager for several shows. 
 
-Richard also sent over a photograph of his mother in a dramatic pose in the production of Chu Chin Chow and a scan of the programme.
+Richard also sent over a photograph of his mother in a dramatic pose in the production of *Chu Chin Chow* and a scan of the programme.
 
 ^^^ ![Sedos’ 1935 production of Chu Chin Chow](/assets/chuchinchow-dec-1935.jpg)
 ^^^ Sedos’ 1935 production of Chu Chin Chow. Picture by The Central Photographic Service
