@@ -68,7 +68,7 @@ sections:
       **PHOTOGRAPHER** | Stephen Russell\
       **VIDEOGRAPHER** | Joseph Henshaw\
       **COMMITTEE LIAISON** | Steven King
-  - order: 3
+  - order: 4
     title: REVIEWS
     body: >-
       >This is not a show for the faint hearted but one that should be seen. If
@@ -83,7 +83,7 @@ sections:
       >The song performance aspects of the piece were met with the strong cast all round - many of which are destined for a bigger stage - who took them on with electric intensity… Having an incredible live band brought that extra dynamic that brought immense power when combined with the full company in particular. The choreography by Jen Bullock was enticing and worked well with the stage given, as well as the road cases used as the main props throughout. Furthermore, the lighting, designed by Olly Levett, was used effectively in conjunction with this… Loaded with the great track list including 'Jesus of Suburbia', 'Boulevard of Broken Dreams', 'Holiday', 'Wake Me Up When September Ends' and of course, 'American Idiot', plus an additional beautiful surprise encore, this show will undoubtedly leave you unapologetically humming them for at least a week afterwards. This version of American Idiot, directed by Matt Bentley, is one of Sedos’s best shows yet.
 
       ><footer><cite><a target="_blank" href="https://www.watchthatscene.com/post/american-idiot-musical-review">American Idiot, 2022, Watch That Scene</a></cite></footer>
-  - order: 2
+  - order: 3
     title: VIDEO
     body: |-
       <div class="video-responsive"><?# YouTube RRuLSZ6ZjgI /?></div>
@@ -91,6 +91,14 @@ sections:
       &nbsp;
 
       <div class="video-responsive"><?# YouTube mCC9ZDF_xAY /?></div>
+  - order: 2
+    title: GALLERY
+    body: <a data-flickr-embed="true"
+      href="https://www.flickr.com/photos/sedos/albums/72177720300448461"
+      title="American Idiot - 2022"><img
+      src="https://live.staticflickr.com/65535/52208362431_3484f71951_z.jpg"
+      width="640" height="480" alt="American Idiot - 2022"></a><script async
+      src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 metaTitle: American Idiot plays at the Bridewell Theatre from 4-14 May 2022
 metaDescription: American Idiot, part of Sedos' 2022 season of London musicals
   and plays, runs at the Bridewell Theatre from 4-14 May 2022. The show is an
