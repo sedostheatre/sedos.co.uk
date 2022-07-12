@@ -34,11 +34,11 @@ sections:
       **LIGHTING DESIGNER** | Olly Levett\
       **SOUND DESIGNER** | Adrian Jeakins\
       **SET DESIGNER AND BUILDER** | Steven King\
-      **COSTUMES, HAIR AND MAKE-UP** | Gill Daniell\
       **STAGE MANAGER** | Andrew Laidlaw\
       **PROPS** | Shiri Stern\
       **ASSISTANT DIRECTOR** | Dan Edge\
       **ASSISTANT PRODUCER** | Valeria Oliveira\
+      **OPERA CONSULTANT** | Charlotte Richardson\
       **MARKETING** | Stephen Beeny\
       **PHOTOGRAPHER** | David Ovenden
 metaTitle: Amadeus plays at the Bridewell Theatre from 23 November-3 December 2022
