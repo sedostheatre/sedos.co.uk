@@ -36,7 +36,7 @@ sections:
 
       **PHILOSTRATE** | Bella Muwanga\
 
-      **EGEUS** | David Pearson\
+      **EGEA** | Caitlin Homes\
 
       **HERMIA** | Katie Monk\
 
@@ -66,7 +66,7 @@ sections:
 
       **OBERON** | Sam Barnes\
 
-      **FAIRY ENSEMBLE** | Alexandra Thomas, Anuli Changa, Chloe Wakefield
+      **FAIRY ENSEMBLE** | Alexandra Thomas, Anuli Changa, Chloe Wakefield, Francesca Perselli, Rochelle Bison and Tracy Garcia
 
 
       **CREATIVE TEAM**
