@@ -1,10 +1,16 @@
 ---
 title: "Sedos on Tour: Choose Your Own"
 year: "2022"
-subtitle: The Banana Hut Gang are back with two pre-Edinburgh preview shows
+authors: The Banana Hut Gang are back with two pre-Edinburgh preview shows in
+  London Bridge
+authors2: ""
+authors3: ""
+subtitle: Will you keep the story on track, derail it completely, or make us
+  start again... the choice is yours!
 showtimes:
   - time: 2022-08-08 20:00
   - time: 2022-08-10 20:00
+showtime-summary: 8-10 AUGUST 2022
 venue: Hoopla Improv Theatre at The Miller
 ticket-prices: £8 tickets / £6 concession
 header-image: /assets/banana-hut-gang-improv.jpg
