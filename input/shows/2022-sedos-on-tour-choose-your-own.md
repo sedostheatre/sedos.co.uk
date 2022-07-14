@@ -24,4 +24,4 @@ In *Choose Your Own*, you decide! Join the Banana Hut Gang as they create a brav
 
 Will you keep the story on track, derail it completely, or make us start again... the choice is yours!
 
-Can't make it to London Bridge, but fancy a trip to Scotland? Full details about the Edinburgh run can be found on the [Edinburgh Fringe website](https://tickets.edfringe.com/whats-on/choose-your-own).
+Can't make it to London Bridge, but fancy a trip to Scotland? Full details about the Edinburgh run (15-27 August 2022) can be found on the [Edinburgh Fringe website](https://tickets.edfringe.com/whats-on/choose-your-own).
