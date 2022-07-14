@@ -9,7 +9,7 @@ subtitle: Will you keep the story on track, derail it completely, or make us
 showtimes:
   - time: 2022-08-08 20:00
   - time: 2022-08-10 20:00
-showtime-summary: 8-10 AUGUST 2022
+showtime-summary: 8 & 10 AUGUST 2022
 venue: Hoopla Improv Theatre at The Miller
 ticket-prices: £8 tickets / £6 concession
 header-image: /assets/banana-hut-gang-improv.jpg
