@@ -7,7 +7,9 @@ showtimes:
   - time: 2022-08-10 20:00
 venue: Hoopla Improv Theatre at The Miller
 ticket-prices: £8 tickets / £6 concession
+header-image: /assets/banana-hut-gang-improv.jpg
 header-image-contain: false
+flyer: /assets/banana-hut-gang-improv.jpg
 box-office-open: false
 sections:
   - order: 1
