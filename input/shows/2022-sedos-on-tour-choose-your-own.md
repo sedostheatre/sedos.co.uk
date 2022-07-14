@@ -1,8 +1,7 @@
 ---
 title: "Sedos on Tour: Choose Your Own"
 year: "2022"
-authors: The Banana Hut Gang are back with two pre-Edinburgh preview shows in
-  London Bridge
+authors: The Banana Hut Gang are back with pre-Edinburgh shows at London Bridge
 authors2: ""
 authors3: ""
 subtitle: Will you keep the story on track, derail it completely, or make us
