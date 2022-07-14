@@ -14,7 +14,7 @@ venue: Hoopla Improv Theatre at The Miller
 ticket-prices: £8 tickets / £6 concession
 header-image: /assets/banana-hut-gang-improv.jpg
 header-image-contain: false
-flyer: ""
+flyer: /assets/bananahutgang.jpg
 box-office-open: false
 sections:
   - order: 1
