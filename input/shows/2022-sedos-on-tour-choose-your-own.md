@@ -17,7 +17,7 @@ sections:
 
 Rocket into space or face the haunted mansion? Say "I do!" or murder the best man? Save the world or end it?
 
-In Choose Your Own, you decide! Join the Banana Hut Gang as they create a brave-new improvised world where the audience makes the big decisions.
+In *Choose Your Own*, you decide! Join the Banana Hut Gang as they create a brave-new improvised world where the audience makes the big decisions.
 
 Will you keep the story on track, derail it completely, or make us start again... the choice is yours!
 
