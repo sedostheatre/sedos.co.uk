@@ -13,6 +13,43 @@ flyer: /assets/banana-hut-gang-improv.jpg
 box-office-open: false
 sections:
   - order: 1
+    title: THE GANG
+    body: >-
+      ## **The Banana Hut Gang**
+
+
+      Our very own in-house improv group!
+
+
+      Formed from a collection of the most die-hard Simprov attendees, the group are there to design new shows and spread the improv love across London.
+
+
+      The Banana Hut Gang are:
+
+
+      Laura Capaldi\
+
+      Ellie Griffiths\
+
+      Amir Hamza\
+
+      Jess Rogers\
+
+      Chris Warner\
+
+      Alex Magliaro\
+
+      Sam Pearce\
+
+      Sam Roulston\
+
+      James Stone\
+
+      Jonathan Scott
+
+
+      The team went to the Edinburgh Fringe Festival in 2019 and sold out every show! They return to the Fringe in 2022.
+  - order: 1
     title: VIDEO
     body: <div class="video-responsive"><?# YouTube KFcFKufRXFA /?></div>
 ---
@@ -25,3 +62,5 @@ In *Choose Your Own*, you decide! Join the Banana Hut Gang as they create a brav
 Will you keep the story on track, derail it completely, or make us start again... the choice is yours!
 
 Can't make it to London Bridge, but fancy a trip to Scotland? Full details about the Edinburgh run (15-27 August 2022) can be found on the [Edinburgh Fringe website](https://tickets.edfringe.com/whats-on/choose-your-own).
+
+Follow the [Simprov Facebook page](https://www.facebook.com/groups/176792046058352/) and Sedos newsletters for more details on shows.
