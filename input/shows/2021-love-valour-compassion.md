@@ -21,23 +21,61 @@ box-office-link: https://sedos.ticketsolve.com/shows/1173618467?_ga=2.141227634.
 sections:
   - order: 1
     title: CAST & CREATIVE TEAM
-    body: |-
+    body: >-
       **CAST**
 
+
       **GREGORY** | James Daly\
+
       **ARTHUR** | Lewis McKenzie\
+
       **PERRY** | Robbie Fulford\
+
       **JOHN / JAMES** | Rob Ingham\
+
       **BUZZ** | Jacob Hajjar\
+
       **BOBBY** | Simon Brooke\
+
       **RAMON** | Fernando Cahnfeld
+
 
       **CREATIVE TEAM**
 
+
       **DIRECTOR and DESIGNER** | Robert J. Stanex\
+
       **PRODUCER** | Rebecca Chisholm\
+
       **MOVEMENT and INTIMACY DIRECTOR** | Kimberly Barker\
-      **ASSISTANT DIRECTOR** | Louise Roberts
+
+      **ASSISTANT DIRECTOR** | Louise Roberts\
+
+      **ASSISTANT MOVEMENT DIRECTOR** | Tom Leonard\
+
+      **STAGE MANAGEMENT** | Michael Pearce\
+
+      **SET ENGINEER and CONSTRUCTION** | Andrew Laidlaw\
+
+      **LIGHTING DESIGNER** | Ben Hussey\
+
+      **SOUND DESIGNER** | Adam Lockett\
+
+      **SOUND & LIGHTING OPERATOR** | Shiri Stern\
+
+      **TUTU DESIGNER |** Clare Harding\
+
+      **TUTU CONSTRUCTION** | Deborah Lean, Paula Mount, Marianne Moulder-McPhee\
+
+      **DIALECT COACH** | Jacob Hajjar\
+
+      **STUDIO PHOTOGRAPHY** | Paul Nicholas Dyke @PNDPhoto\
+
+      **THEATRE PHOTOGRAPHY** | Michael Smith\
+
+      **SPECIAL EFFECTS MAKE UP** | InkBound.co.uk Custom-made temporary tattoos\
+
+      **COMMITTEE LIAISON** | Tim Garrad
 metaTitle: Love! Valour! Compassion! plays at the Bridewell Theatre from 5-9 July 2022
 metaDescription: Love! Valour! Compassion! – part of Sedos’ 2022 London season –
   plays at the Bridewell Theatre from 5-9 July 2022. A monumental exploration
