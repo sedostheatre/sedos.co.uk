@@ -15,7 +15,8 @@ ticket-prices: £8 tickets / £6 concession
 header-image: /assets/banana-hut-gang-improv.jpg
 header-image-contain: false
 flyer: /assets/bananahutgang.jpg
-box-office-open: false
+box-office-open: true
+box-office-link: https://tickets.sedos.co.uk/ticketbooth/shows/1173630321
 sections:
   - order: 1
     title: THE GANG
