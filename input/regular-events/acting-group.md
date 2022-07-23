@@ -1,7 +1,7 @@
 ---
 title: Acting Group
 image: /assets/51947468703_826d865d22_c.jpg
-venue: Theatre Deli, 2 Finsbury Ave, London, EC2M 2PF
+venue: Theatre Deli Leadenhall Studios, 107 Leadenhall Street, London EC3A 4AF
 recurrence: First Wednesday of every month, 7-9pm
 ticket-prices: £5 per person (members and non-members alike)
 metaTitle: London Acting Group with Sedos
@@ -10,7 +10,7 @@ metaDescription: The London Acting Group run by Sedos meets on the first
 ---
 **The London Acting Group run by Sedos takes place on the first Wednesday of every month, re-starting from Wednesday 4 May 2022.** 
 
-Sessions take place at Theatre Deli, 2 Finsbury Ave, London, EC2M 2PF from 7-9pm.
+Sessions take place at Theatre Deli Leadenhall Studios, 107 Leadenhall Street, London EC3A 4AF from 7-9pm.
 
 Sedos’ Acting Group is a friendly, relaxed and supportive atmosphere for people who want to act... whether you want to brush up on your skills, prepare for an audition or simply 'have a go', you are welcome! We tackle everything from contemporary to classical, comedy to drama, and everything in-between. We encourage all levels of ability to take part, it doesn’t matter whether it’s your first time acting or your 50th time! 
 
