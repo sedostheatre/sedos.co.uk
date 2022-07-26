@@ -33,7 +33,7 @@ sections:
       **PRODUCER** | Lizzie Levett\
       **LIGHTING DESIGNER** | Ruth Luckins\
       **SOUND DESIGNER** | Adam Lockett\
-      **COMMITTEE LIASION** | Stephen Beeny
+      **COMMITTEE LIAISON** | Stephen Beeny
 metaTitle: "Carrie: The Musical plays at the Bridewell Theatre from 25-29 October 2022"
 metaDescription: "Carrie: The Musical, part of Sedos’ 2022 London season, plays
   at the Bridewell Theatre from 25-29 October 2022. A cult musical based on
