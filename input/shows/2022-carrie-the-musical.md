@@ -38,7 +38,7 @@ sections:
       **CAST**
 
       **CARRIE WHITE** | Sadie Kempner\
-      **MARGARET WHIT**E | Nina Zendejas\
+      **MARGARET WHITE** | Nina Zendejas\
       **SUE SNELL** | Ellie McWilliam\
       **MISS GARDNER** | Louise Roberts\
       **CHRIS HARGENSEN** | Heather Daniel\
