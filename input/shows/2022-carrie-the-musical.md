@@ -34,6 +34,23 @@ sections:
       **LIGHTING DESIGNER** | Ruth Luckins\
       **SOUND DESIGNER** | Adam Lockett\
       **COMMITTEE LIAISON** | Stephen Beeny
+
+      **CAST**
+
+      **CARRIE WHITE** | Sadie Kempner\
+      **MARGARET WHIT**E | Nina Zendejas\
+      **SUE SNELL** | Ellie McWilliam\
+      **MISS GARDNER** | Louise Roberts\
+      **CHRIS HARGENSEN** | Heather Daniel\
+      **TOMMY ROSS** | Adam Richardson\
+      **BILLY NOLAN** | Toby Chapman\
+      **MR STEPHENS** | Sam Sugarman\
+      **NORMA** | Tasha Msanide\
+      **FRIEDA** | Amy Foden\
+      **HELEN** | Katie Porter\
+      **GEORGE** | Chris Peters\
+      **STOKES** | Jake Comeau\
+      **FREDDY** | Nick Dore
 metaTitle: "Carrie: The Musical plays at the Bridewell Theatre from 25-29 October 2022"
 metaDescription: "Carrie: The Musical, part of Sedos’ 2022 London season, plays
   at the Bridewell Theatre from 25-29 October 2022. A cult musical based on
@@ -45,8 +62,6 @@ metaDescription: "Carrie: The Musical, part of Sedos’ 2022 London season, play
 **Carrie White is a misfit. At school, she's an outcast who's bullied by the popular crowd, and virtually invisible to everyone else. At home, she's at the mercy of her over-protective, hyper-religious mother. But there’s something different about Carrie – she has a special power. A power that can be destructive. And if she’s pushed too far, she may have to use it…**
 
 Based on Stephen King's bestselling novel and the acclaimed movie starring Sissy Spacek, Carrie has been reinvented for our time in a new production sure to shake the Bridewell to its very core...
-
-Registration is now open for [*Carrie* auditions](https://sedos.co.uk/events/carrie-workshop-and-auditions). 
 
 *Carrie: The Musical* plays at the [Bridewell Theatre](https://sedos.co.uk/venues/bridewell) from 25-29 October 2022.
 
