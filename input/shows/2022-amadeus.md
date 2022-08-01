@@ -31,11 +31,11 @@ sections:
 
       \
 
-      **SALIERI** | Chris de Pury \
+      **ANTONIO SALIERI** | Chris de Pury \
 
-      **MOZART** | Alex Johnston \
+      **WOLFGANG AMADEUS MOZART** | Alex Johnston \
 
-      **CONSTANZE** | Jamila Jennings-Grant \
+      **CONSTANZE MOZART** | Jamila Jennings-Grant \
 
       **JOSEPH II, EMPEROR OF AUSTRIA** | Adam Moulder \
 
@@ -45,7 +45,7 @@ sections:
 
       **VON STRACK** | Alison Du Cane \
 
-      **KATHERINA** | Holli Farr \
+      **KATHERINA CAVALIERI** | Holli Farr \
 
       **VENTICELLI** | Christian Brunskill, Jessica Dawes, Jacob Hajjar, Emily Hassan\
 
