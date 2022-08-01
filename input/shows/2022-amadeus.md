@@ -25,21 +25,58 @@ box-office-open: true
 box-office-link: https://sedos.ticketsolve.com/shows/1173626758/events
 sections:
   - order: 1
-    title: CREATIVE TEAM
-    body: |-
+    title: CAST & CREATIVE TEAM
+    body: >-
+      **CAST**\
+
+      \
+
+      **SALIERI** | Chris de Pury \
+
+      **MOZART** | Alex Johnston \
+
+      **CONSTANZE** | Jamila Jennings-Grant \
+
+      **JOSEPH II, EMPEROR OF AUSTRIA** | Adam Moulder \
+
+      **ORSINI-ROSENBERG** | Hannah Roberts \
+
+      **VAN SWIETEN** | Paul Caira \
+
+      **VON STRACK** | Alison Du Cane \
+
+      **KATHERINA** | Holli Farr \
+
+      **VENTICELLI** | Christian Brunskill, Jessica Dawes, Jacob Hajjar, Emily Hassan\
+
+      **CITIZENS OF VIENNA** | Sophie Goodman, Antonia Kasoulidou, Andy Lee (soloist), Dave McGroarty 
+
+
       **CREATIVE TEAM**
 
+
       **DIRECTOR** | Matt Gould\
+
       **PRODUCER** | Pippa Kyle\
+
       **LIGHTING DESIGNER** | Olly Levett\
+
       **SOUND DESIGNER** | Adrian Jeakins\
+
       **SET DESIGNER AND BUILDER** | Steven King\
+
       **STAGE MANAGER** | Andrew Laidlaw\
+
       **PROPS** | Shiri Stern\
+
       **ASSISTANT DIRECTOR** | Dan Edge\
+
       **ASSISTANT PRODUCER** | Valeria Oliveira\
+
       **OPERA CONSULTANT** | Charlotte Richardson\
+
       **MARKETING** | Stephen Beeny\
+
       **PHOTOGRAPHER** | David Ovenden
 metaTitle: Amadeus plays at the Bridewell Theatre from 23 November-3 December 2022
 metaDescription: Amadeus, part of Sedos’ 2022 London season, plays at the
