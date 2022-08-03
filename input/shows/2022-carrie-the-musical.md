@@ -18,7 +18,7 @@ venue: bridewell
 ticket-prices: Tickets from £10
 primary-color: "#2E0003"
 header-image: /assets/carriesquare.jpg
-flyer: /assets/carrie-posterteaser-v2.jpg
+flyer: /assets/carrie-posterteaser.jpg
 box-office-open: true
 box-office-link: https://sedos.ticketsolve.com/shows/1173626755/events
 sections:
