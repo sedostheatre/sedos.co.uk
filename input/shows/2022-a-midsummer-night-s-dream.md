@@ -21,7 +21,7 @@ venue: bridewell
 ticket-prices: Tickets from £10
 primary-color: "#00AAFF"
 header-image: /assets/copy-of-16x9poster-clean.jpg
-flyer: /assets/msnd-posterteaser-3.jpg
+flyer: /assets/slide1.jpg
 box-office-open: true
 box-office-link: https://sedos.ticketsolve.com/shows/1173626762/events
 sections:
