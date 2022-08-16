@@ -80,7 +80,7 @@ sections:
 
       **PHOTOGRAPHER** | David Ovenden
   - order: 1
-    title: TODAT IN HISTORY
+    title: TODAY IN HISTORY
     body: <a data-flickr-embed="true"
       href="https://www.flickr.com/photos/sedos/albums/72177720301337216"
       title="Amadeus - Today in History"><img
