@@ -79,6 +79,15 @@ sections:
       **MARKETING** | Stephen Beeny\
 
       **PHOTOGRAPHER** | David Ovenden
+  - order: 1
+    title: TODAT IN HISTORY
+    body: <a data-flickr-embed="true"
+      href="https://www.flickr.com/photos/sedos/albums/72177720301337216"
+      title="Amadeus - Today in History"><img
+      src="https://live.staticflickr.com/65535/52288631532_8598a75aae_z.jpg"
+      width="800" height="600" alt="Amadeus - Today in History"></a><script
+      async src="//embedr.flickr.com/assets/client-code.js"
+      charset="utf-8"></script>
 metaTitle: Amadeus plays at the Bridewell Theatre from 23 November-3 December 2022
 metaDescription: Amadeus, part of Sedos’ 2022 London season, plays at the
   Bridewell Theatre from 23 November-3 December 2022. Genius, jealousy and
