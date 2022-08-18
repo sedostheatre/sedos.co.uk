@@ -11,6 +11,14 @@ RedirectFrom:
 
 # 2022
 
+## *Love! Valour! Compassion*
+
+^^^ ![Dress rehearsal image from Sedos’ 2022 production of Love! Valour! Compassion](/assets/292890466_10159658189728267_990029358114865450_n.jpeg)
+^^^ Love! Valour! Compassion
+
+>It is a well-written piece that given everything the world has gone through in the last two years is very relevant and raises questions of worldwide healthcare priorities in relation to developing cures for pandemics. Sedos are to be congratulated for this production of Love! Valour! Compassion! which has been off the stage for way too long
+><footer><cite><a target="_blank" href="https://www.lastminutetheatretickets.com/love-valour-compassion-at-bridewell-theatre/">Love! Valour! Compassion!, 2022, Last Minute Theatre Tickets</a></cite></footer>
+
 ## *American Idiot*
 
 ^^^ ![Dress rehearsal image from Sedos’ 2022 production of American Idiot](/assets/280252907_10159552835373267_4031461878592268506_n.jpeg)
