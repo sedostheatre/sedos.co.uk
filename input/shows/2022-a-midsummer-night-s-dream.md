@@ -109,6 +109,12 @@ metaDescription: A Midsummer Night’s Dream, part of Sedos’ 2022 London seaso
 ---
 **A queer re-telling. Shakespeare meets gig theatre; dance, lip-sync battles, classic text, all fused into one riotous night of theatrical comedy.**
 
+In a seemingly liberal state, we are preparing for a royal wedding. The entertainment needs to be found and the Duke is keen on pomp and a party. However, homophobic parents are digging out old laws to oppress LGBTQ+ youth, which gets in the way of the fun. 
+
+The forest is the obvious place for all to run, where an amateur theatre group prepare a performance for the wedding and young lovers are running to evade antiquated laws. The forest is full of magic and powerful beings unlike any mortal can comprehend. In the forest, the mortals uncover more about themselves than they thought they could, and some of them make asses of themselves. 
+
+As dawn breaks and everyone arrives home, change has occurred and maybe love is clearer now than ever before and the state doesn’t need to police it. But regardless, we need a good wedding and celebration for all!
+
 This show contains adult content, and explores themes around sexuality.
 
 *A Midsummer Night’s Dream* plays at the [Bridewell Theatre](https://sedos.co.uk/venues/bridewell) from 14-24 September 2022.
