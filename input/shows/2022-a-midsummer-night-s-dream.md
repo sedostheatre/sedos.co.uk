@@ -79,7 +79,7 @@ sections:
 
       **CHOREOGRAPHER** | Mary Bennett (she/her)\
 
-      **ASSISTANT DIRECTORS** | Carrie Pennifer (she/her), Iacopo Farusi (he/him)\
+      **ASSISTANT DIRECTORS** | Carrie Pennifer (she/her), Iacopo Pozzana (he/him)\
 
       **MUSIC DIRECTOR** | Alex Dehn\
 
