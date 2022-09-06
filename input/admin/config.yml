@@ -57,8 +57,8 @@ collections:
             widget: datetime
             name: time
             format: YYYY-MM-DD HH:mm
-            dateFormat: DD-MM-YYYY
-            timeFormat: HH:mm
+            date_format: DD-MM-YYYY
+            time_format: HH:mm
       - name: showtime-summary
         label: Summary of show times, shown at the footer of the home page/show details header
         widget: string
@@ -126,7 +126,7 @@ collections:
             label: "Order"
             widget: "number"
             default: 1
-            valueType: "int"
+            value_type: "int"
             min: 1
             max: 100
             step: 1
@@ -300,8 +300,8 @@ collections:
     create: true
     fields:
       - {label: title, name: title, widget: string}
-      - {label: row, name: row, widget: number, valueType: int}
-      - {label: column, name: column, widget: number, valueType: int}
+      - {label: row, name: row, widget: number, value_type: int}
+      - {label: column, name: column, widget: number, value_type: int}
       - {label: image, name: image, widget: image}
       - {label: link, name: link, widget: string, required: false}
       - {label: Details, name: body, widget: markdown, required: false}
@@ -316,8 +316,8 @@ collections:
     create: true
     fields:
       - {label: title, name: title, widget: string}
-      - {label: row, name: row, widget: number, valueType: int}
-      - {label: column, name: column, widget: number, valueType: int}
+      - {label: row, name: row, widget: number, value_type: int}
+      - {label: column, name: column, widget: number, value_type: int}
       - {label: image, name: image, widget: image}
       - {label: link, name: link, widget: string, required: false}
       - {label: Details, name: body, widget: markdown, required: false}
