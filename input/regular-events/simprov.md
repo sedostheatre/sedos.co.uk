@@ -23,9 +23,9 @@ Perfect for the complete beginner as well as the hardened improv veteran, sessio
 
 Improv is a great way to build confidence and develop performance skills in a very fun and safe environment.
 
-The Simprov team are returning with live sessions from 8 April 2022, at 7pm on Fridays at Theatre Deli, Studio 0 (2 Finsbury Avenue, London EC2M 2PF). The cost will be £5 per person (members or non-members alike). There is no session on Good Friday.
+The Simprov team are returning with live sessions from 8 April 2022, at 7pm on Fridays at Theatre Deli (107 Leadenhall Street, EC3A 4AF). The cost will be £5 per person (members or non-members alike). There is no session on Good Friday.
 
-Come join the fun and participate. We are a collaborative group, so feel free to bring some games for the group to try or just enjoy what other people bring. 
+Come join the fun and participate. We are a collaborative group, so feel free to bring some games for the group to try or just enjoy what other people bring.
 
 For more info, head to the [Simprov Facebook page.](https://www.facebook.com/groups/176792046058352/)
 
