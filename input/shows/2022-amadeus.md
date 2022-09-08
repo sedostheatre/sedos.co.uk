@@ -21,7 +21,7 @@ venue: bridewell
 ticket-prices: Tickets from £10
 primary-color: "#b14bb1"
 header-image: /assets/amadeus-wigs-landscape.png
-flyer: /assets/amadeus-draft-withdates-lo-res-v3.jpg
+flyer: /assets/amadeus-poster-low-res.jpg
 box-office-open: true
 box-office-link: https://sedos.ticketsolve.com/shows/1173626758/events
 sections:
@@ -65,9 +65,9 @@ sections:
       **SOUND DESIGNER** | Adrian Jeakins\
 
       **SET DESIGNER AND BUILDER** | Steven King\
-      
+
       **COSTUME DESIGNER** | Callum Anderson\
-      
+
       **HAIR AND MAKE-UP** | Jobina Hardy\
 
       **STAGE MANAGER** | Andrew Laidlaw\
@@ -101,7 +101,7 @@ metaDescription: Amadeus, part of Sedos’ 2022 London season, plays at the
 
 A fictionalized account of the relationship between these two real life composers, Peter Shaffer’s *Amadeus* takes us on a wild ride through the trials and tribulations of genius, jealousy and revenge.
 
-*Amadeus* plays at the [Bridewell Theatre](https://sedos.co.uk/venues/bridewell) from 23 November-3 December 2022. 
+*Amadeus* plays at the [Bridewell Theatre](https://sedos.co.uk/venues/bridewell) from 23 November-3 December 2022.
 
 **Special offer:** book tickets for *A Midsummer Night’s Dream*, *Carrie: The Musical* and *Amadeus* simultaneously and receive 10% off. Discount will be automatically applied at the box office when booking all three shows in one transaction.
 
