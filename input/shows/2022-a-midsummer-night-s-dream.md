@@ -81,6 +81,8 @@ sections:
      
       **MUSICAL DIRECTOR** | Alex Dehn\
       
+      **CHOREOGRAPHER** | Mary Bennett\
+
       **ASSISTANT CHOREOGRAPHER** (let’s have a kiki) | Dmitry Devetyarov\
       
       **PRODUCER** | Clare Harding\
