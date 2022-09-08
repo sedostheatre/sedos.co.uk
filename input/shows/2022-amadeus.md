@@ -65,14 +65,16 @@ sections:
       **SOUND DESIGNER** | Adrian Jeakins\
 
       **SET DESIGNER AND BUILDER** | Steven King\
+      
+      **COSTUME DESIGNER** | Callum Anderson\
+      
+      **HAIR AND MAKE-UP** | Jobina Hardy\
 
       **STAGE MANAGER** | Andrew Laidlaw\
 
       **PROPS** | Shiri Stern\
 
       **ASSISTANT DIRECTOR** | Dan Edge\
-
-      **ASSISTANT PRODUCER** | Valeria Oliveira\
 
       **OPERA CONSULTANT** | Charlotte Richardson\
 
