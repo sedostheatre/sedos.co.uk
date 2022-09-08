@@ -31,11 +31,9 @@ sections:
       **CAST**
 
 
-      **EMCEE** | Lio Lylark\
+      **EMCEE and PHILOSTRATE** | Lio Lylark\
 
       **THESEUS and HIPPOLYTA** | Robert J. Stanex and Katie Rennuit\
-
-      **PHILOSTRATE** | Bella Muwanga\
 
       **EGEA** | Caitlin Homes\
 
@@ -73,34 +71,43 @@ sections:
       **CREATIVE TEAM**
 
 
-      **DIRECTOR** | Matt Hudson (he/them)\
+      **DIRECTOR** | Matt Hudson\
+      
+      **ASSISTANT DIRECTOR** | Carrie Pennifer\
+      
+      **ASSISTANT DIRECTOR** | Iacopo Farusi\
+      
+      **CHOREOGRAPHER** | Mary Bennett\
+     
+      **MUSICAL DIRECTOR** | Alex Dehn\
+      
+      **ASSISTANT CHOREOGRAPHER** (let’s have a kiki) | Dmitry Devetyarov\
+      
+      **PRODUCER** | Clare Harding\
 
-      **PRODUCER** | Clare Harding (she/her)\
+      **SET DESIGNER** | Peter Foster\
 
-      **CHOREOGRAPHER** | Mary Bennett (she/her)\
+      **LIGHTING DESIGNER** | Martin Walton\
 
-      **ASSISTANT DIRECTORS** | Carrie Pennifer (she/her), Iacopo Farusi (he/him)\
+      **ASSISTANT LIGHTING DESIGNER** | Shiri Stern \
 
-      **MUSIC DIRECTOR** | Alex Dehn\
+      **SOUND DESIGNERS** | Henry Whittaker and Matt Hudson\
+      
+      **VIDEO DESIGNERS** | Adrian Jeakins and Olivier Namet\
+      
+      **HAIR and MAKEUP DESIGNERS** | Jobina Hardy and Roo Gehring\
 
-      **STAGE AND COSTUME DESIGN** | Peter Foster (he/him)\
+      **STAGE MANAGERS** | Becky Chisholm and Clare Harding\
 
-      **LIGHTING DESIGN** | Martin Walton (he/him)\
-
-      **ASSISTANT LIGHTING DESIGNER** | Shiri Stern (she/her)\
-
-      **SOUND DESIGN** | Henry Whittaker (he/him)\
-
-      **HAIR and MAKEUP DESIGN** | Jobina Hardy\
-
-      **STAGE MANAGER** | we are looking for a stage manager\
-
-      **ASSISTANT STAGE MANAGER** | Karen Grant-Davie (she/her)\
-
-      **COSTUME SUPERVISOR** | we are looking for support in costume making, sourcing and organising
-
-
-      If you are interested in any roles on the team please message Clare and Matt at [midsummer@sedos.co.uk](mailto:midsummer@sedos.co.uk)
+      **ASSISTANT STAGE MANAGER** | Karen Grant-Davie\
+      
+      **PHOTOGRAPHY** | Adrian Hau\
+      
+      **SOCIAL MEDIA** | Tess Robinson\
+  - order: 2
+    title: GALLERY
+    body: >-
+      <a data-flickr-embed="true" href="https://www.flickr.com/photos/sedos/albums/72177720301436006" title="A Midsummer Night&#x27;s Dream - 2022"><img src="https://live.staticflickr.com/65535/52298704068_5ac9dfccf2.jpg" width="640" height="480" alt="A Midsummer Night&#x27;s Dream - 2022"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 metaTitle: A Midsummer Night’s Dream plays at the Bridewell Theatre from 14-24
   September 2022
 metaDescription: A Midsummer Night’s Dream, part of Sedos’ 2022 London season,
