@@ -105,7 +105,7 @@ sections:
       
       **PHOTOGRAPHY** | Adrian Hau\
       
-      **SOCIAL MEDIA** | Tess Robinson\
+      **SOCIAL MEDIA** | Tess Robinson
   - order: 2
     title: GALLERY
     body: >-
