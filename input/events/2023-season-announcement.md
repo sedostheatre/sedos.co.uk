@@ -12,5 +12,7 @@ Join us on Thursday 29 September, from 7pm, where we'll be announcing the 2023 S
 Come along and be among the first to know what's happening next year.
 
 WHAT: 2023 Season Launch
+
 WHEN: Thursday 29 September, from 7pm
+
 WHERE: TBC – watch this space
