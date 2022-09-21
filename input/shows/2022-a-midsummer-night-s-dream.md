@@ -126,6 +126,6 @@ As dawn breaks and everyone arrives home, change has occurred and maybe love is 
 
 This show contains adult content, and explores themes around sexuality.
 
-*A Midsummer Night’s Dream* plays at the [Bridewell Theatre](https://sedos.co.uk/venues/bridewell) from 14-24 September 2022.
-
 **Special offer:** book tickets for *A Midsummer Night’s Dream*, *Carrie: The Musical* and *Amadeus* simultaneously and receive 10% off. Discount will be automatically applied at the box office when booking all three shows in one transaction.
+
+*A Midsummer Night’s Dream* plays at the [Bridewell Theatre](https://sedos.co.uk/venues/bridewell) from 14-24 September 2022.
