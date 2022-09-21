@@ -34,6 +34,9 @@ sections:
       **PRODUCER** | Lizzie Levett\
       **LIGHTING DESIGNER** | Ruth Luckins\
       **SOUND DESIGNER** | Adam Lockett\
+      **SET DESIGNER** | Adam Coppard\
+      **COSTUME DESIGNER** | Nicki Massos\
+      **STAGE MANAGER** | Jessie Berman\
       **COMMITTEE LIAISON** | Stephen Beeny
 
       **CAST**
