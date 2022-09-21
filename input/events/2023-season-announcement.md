@@ -15,4 +15,7 @@ WHAT: 2023 Season Launch
 
 WHEN: Thursday 29 September, from 7pm
 
-WHERE: TBC – watch this space
+WHERE: Upstairs Room at St Brides Tavern (1 Bridewell Pl, London, EC4V 6AP)
+
+^^^ ![Season Announcement, 29 September, 7pm](/assets/images/events/2023SeasonAnnouncement.jpg)
+^^^
