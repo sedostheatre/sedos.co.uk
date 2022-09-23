@@ -11,11 +11,11 @@ RedirectFrom:
 
 **Are auditions open to everyone?**
 
-Absolutely! We welcome people of all levels, backgrounds, ages and experience. You do not have to be a Sedos member to audition for your shows. 
+Absolutely! We welcome people of all levels, backgrounds, ages and experience. You do not have to be a Sedos member to audition for your shows.
 
 **How do I find out about auditions?**
 
-Check out the latest [London auditions](https://sedos.co.uk/get-involved) online. 
+Check out the latest [London auditions](https://sedos.co.uk/get-involved) online.
 
 You can also sign up for our weekly newsletter so that you will receive all the latest news from Sedos, including about auditions. [Sign up here!](https://mailchi.mp/sedos.co.uk/newsletter-sign-up)
 
@@ -71,7 +71,7 @@ These benefits apply to the named member only. For the avoidance of doubt they a
 
 **Can I get involved backstage?**
 
-Absolutely! We are always keen to hear from anyone who is interested in getting involved on the production side. From props and set, sound and lighting designers and operators, costumes and makeup to stage managers and those backstage, our shows can only thrive with those willing to volunteer for these roles. All the benefits of being involved without having to learn your lines! 
+Absolutely! We are always keen to hear from anyone who is interested in getting involved on the production side. From props and set, sound and lighting designers and operators, costumes and makeup to stage managers and those backstage, our shows can only thrive with those willing to volunteer for these roles. All the benefits of being involved without having to learn your lines!
 
 For more information contact: [backstage@sedos.co.uk](mailto:backstage@sedos.co.uk)
 
@@ -85,13 +85,13 @@ Weekday rehearsals (generally two per week, but not everyone is called to all re
 
 **Where are rehearsals held?**
 
-We try to find free/cheap rehearsal space within easy reach of central London. Most of our auditions are currently at Theatre Deli Broadgate, 2 Finsbury Avenue, London EC2M 2PA.
+We try to find free/cheap rehearsal space within easy reach of central London. Most of our auditions and rehearsals are currently at Theatre Deli Leadenhall Studios, 107 Leadenhall Street, London EC3A 4AF.
 
 **Where do performances take place?**
 
 We are the resident theatre company at the [Bridewell Theatre](https://sedos.co.uk/venues/bridewell), just off Fleet Street in London, and we generally perform there for 10 weeks a year.
 
-We also perform at other venues from time to time, including at the Edinburgh Fringe and the Minack Theatre. 
+We also perform at other venues from time to time, including at the Edinburgh Fringe and the Minack Theatre.
 
 **How long is the performance period?**
 
@@ -103,7 +103,7 @@ All the friends, family and colleagues that you have sold tickets to! Yes, we do
 
 **Are the cast required to help with the get-in and get-out?**
 
-All cast, production teams and crew are required to help with the get-out. The cast are sometimes asked to help with the get-in, but not always. Production teams and crew are required to help with the get-in. 
+All cast, production teams and crew are required to help with the get-out. The cast are sometimes asked to help with the get-in, but not always. Production teams and crew are required to help with the get-in.
 
 If you want to find out more about Sedos, please email membership@sedos.co.uk for more details, and our membership secretary will be happy to get back to you.
 
