@@ -27,7 +27,7 @@ namespace Sedos.Pipelines
                     Task.WhenAll(doc.Get("sections", Enumerable.Empty<IDocument>())
                         .OrderBy(d => d.Get("order", 1))
                         .Select(d => MarkdownExtensions.ProcessMarkdownAsync(d, ctx))))),
-                new SetMetadata("jsonLd", Config.FromDocument(doc => JsonLD.Show(doc))),
+                new SetMetadata("jsonLd", Config.FromDocument((doc, ctx) => JsonLD.Show(doc, ctx.Outputs.FromPipeline(nameof(Venues))))),
                 MarkdownExtensions.MarkdownRenderer(),
                 new RenderRazor()
                     .WithViewStart("Layout/_ShowViewStart.cshtml"),
