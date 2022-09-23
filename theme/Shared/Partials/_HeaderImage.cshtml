@@ -1,23 +1,18 @@
 @{
-    var headerImagePath = "";
-    if (Model.Get<string>("header-image", null) != null)
-    {
-        headerImagePath = Context.GetLink(Model.Get<string>("header-image", null));
-    }
-    else
-    {
-        var headerImage = Outputs.FromPipeline("HeaderImages")
+    var headerImage = Model.Get<string>("header-image", null)
+        ?? Outputs.FromPipeline("HeaderImages")
            .Where(d => d.Get("key", "") == Model.Get<string>("category", null))
-           .Select(d => d.Get<IDocument>("image", null))
+           .Select(d => d.Get<string>("image-source", null))
            .FirstOrDefault()
        ?? Outputs.FromPipeline("HeaderImages")
            .Where(d => d.Get("key", "") == "fallback")
-           .Select(d => d.Get<IDocument>("image", null))
+           .Select(d => d.Get<string>("image-source", null))
            .First();
-        headerImagePath = Context.GetLink(headerImage);
-    }
+
+    var headerImagePath = Context.GetLink(headerImage);
 }
 
 <div class="static-header-image"
      style="background-image: url(@headerImagePath)">
 </div>
+
