@@ -21,7 +21,6 @@ namespace Sedos.Pipelines
             {
                 new ExtractFrontMatter(new ParseYaml()),
                 MarkdownExtensions.MarkdownRenderer(),
-                new SetMetadata("header-image", Config.FromDocument((doc, ctx) => HeaderImageExtensions.CopyAndResizeHeaderImage(doc,ctx))),
                 new SetMetadata("image",  Config.FromDocument((doc, ctx) => HeaderImageExtensions.CopyAndResizeImageFromMeta(doc, ctx, "image", 300, 300))),
                 new SetMetadata("page-title", "Regular Events"),
                 new SetMetadata("background-override", "bg-purple"),
