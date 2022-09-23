@@ -6,10 +6,11 @@ metaDescription: Sedos has been the resident company at the Bridewell Theatre
   since 2012, performing most of its London season at the venue
 name: Bridewell Theatre
 key: bridewell
+address: Bridewell Theatre, Bride Lane, Off Fleet Street, London, EC4Y 8EQ
 ---
 ## The Bridewell Theatre
 
-Most of our [London musicals](https://sedos.co.uk/whats-on) and [London plays](https://sedos.co.uk/whats-on) take place at the Bridewell Theatre, where we are the resident theatre company. Our next shows at the Bridewell are *[A Midsummer Night’s Dream](https://sedos.co.uk/shows/2022-a-midsummer-night-s-dream)* (14-24 September 2022) and *[Carrie: The Musical](https://sedos.co.uk/shows/2022-carrie-the-musical)* (25-29 October 2022). 
+Most of our [London musicals](https://sedos.co.uk/whats-on) and [London plays](https://sedos.co.uk/whats-on) take place at the Bridewell Theatre, where we are the resident theatre company. Our next shows at the Bridewell are *[A Midsummer Night’s Dream](https://sedos.co.uk/shows/2022-a-midsummer-night-s-dream)* (14-24 September 2022) and *[Carrie: The Musical](https://sedos.co.uk/shows/2022-carrie-the-musical)* (25-29 October 2022).
 
 * #### [Sedos shows: what’s on at the Bridewell Theatre?](https://sedos.co.uk/whats-on)
 * #### [Buy tickets to our shows at the Bridewell Theatre](https://sedos.ticketsolve.com/shows)
@@ -46,11 +47,11 @@ Thameslink, two-minute walk
 
 **Tickets and entering the theatre**
 
-Your tickets will be sent by email if you book online. You do not need to print your tickets – it's fine to show them on a mobile phone at the door. 
+Your tickets will be sent by email if you book online. You do not need to print your tickets – it's fine to show them on a mobile phone at the door.
 
-The theatre is usually open for audience members to take their seats 10-15 minutes before curtain up. 
+The theatre is usually open for audience members to take their seats 10-15 minutes before curtain up.
 
-If the performance is not sold out, tickets can be bought at the box office at the theatre from around 30 minutes before curtain up. 
+If the performance is not sold out, tickets can be bought at the box office at the theatre from around 30 minutes before curtain up.
 
 **Bar**
 
