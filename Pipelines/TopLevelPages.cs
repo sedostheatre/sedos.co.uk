@@ -20,7 +20,6 @@ namespace Sedos.Pipelines
             ProcessModules = new ModuleList
             {
                 new ExtractFrontMatter(new ParseYaml()),
-                new SetMetadata("header-image", Config.FromDocument((doc, ctx) => HeaderImageExtensions.CopyAndResizeHeaderImage(doc,ctx))),
                 new RenderRazor(),
                 new SetDestination(".html"),
             };

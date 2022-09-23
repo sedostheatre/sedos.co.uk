@@ -1,6 +1,12 @@
 @{
-    var headerImage = Model.Get<IDocument>("header-image", null)
-       ?? Outputs.FromPipeline("HeaderImages")
+    var headerImagePath = "";
+    if (Model.Get<string>("header-image", null) != null)
+    {
+        headerImagePath = Context.GetLink(Model.Get<string>("header-image", null));
+    }
+    else
+    {
+        var headerImage = Outputs.FromPipeline("HeaderImages")
            .Where(d => d.Get("key", "") == Model.Get<string>("category", null))
            .Select(d => d.Get<IDocument>("image", null))
            .FirstOrDefault()
@@ -8,14 +14,7 @@
            .Where(d => d.Get("key", "") == "fallback")
            .Select(d => d.Get<IDocument>("image", null))
            .First();
-
-
-    var headerImagePath = Context.GetLink(headerImage);
-    if (Model.Get<IDocument>("header-image", null) == null
-        && Model.Get<string>("header-image", null) != null
-    )
-    {
-        headerImagePath = Context.GetLink(Model.Get<string>("header-image", null));
+        headerImagePath = Context.GetLink(headerImage);
     }
 }
 

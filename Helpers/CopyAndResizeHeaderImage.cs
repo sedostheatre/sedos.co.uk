@@ -9,11 +9,6 @@ namespace Sedos.Helpers
 {
     public class HeaderImageExtensions
     {
-        public static async Task<IDocument> CopyAndResizeHeaderImage(IDocument doc, IExecutionContext ctx)
-        {
-            return await CopyAndResizeImageFromMeta(doc, ctx, "header-image", 1280, null, ResizeMode.Pad);
-        }
-
         public static async Task<IDocument> CopyAndResizeImageFromMeta(IDocument doc, IExecutionContext ctx, string fieldName, int? width, int? height, ResizeMode resizeMode = ResizeMode.Min)
         {
             var fileName = doc.Get<string>(fieldName).TrimIfStartsWith("/");
