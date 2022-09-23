@@ -28,7 +28,6 @@ namespace Sedos.Pipelines
                 new ProcessShortcodes(),
 
                 new SetMetadata("image",  Config.FromDocument((doc, ctx) => HeaderImageExtensions.CopyAndResizeImageFromMeta(doc, ctx, "image", 300, 300))),
-                new SetMetadata("header-image", Config.FromDocument((doc, ctx) => HeaderImageExtensions.CopyAndResizeHeaderImage(doc,ctx))),
                 new SetMetadata("category", "events"),
                 new SetMetadata("background-override", "bg-purple"),
                 new SetMetadata("times", Config.FromDocument((doc, ctx) => doc.Get("times", Enumerable.Empty<IDocument>()).Select(t => t.Get<DateTime>("time")))),
