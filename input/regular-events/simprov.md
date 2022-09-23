@@ -3,7 +3,7 @@ title: Simprov
 times: []
 image: /assets/Simprov-BHG-Gang.jpg
 header-image: assets/images/headers/SedosWebsite-Banner-Simprov.jpg
-venue: ""
+venue: theatre-deli
 recurrence: Fridays, 7pm
 metaTitle: "London improvisation group: Simprov is run by amateur theatre company Sedos"
 metaDescription: Simprov is a London improvisation group run by theatre company

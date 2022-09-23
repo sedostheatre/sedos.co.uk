@@ -1,14 +1,14 @@
 ---
 title: Acting Group
 image: /assets/51947468703_826d865d22_c.jpg
-venue: Theatre Deli Leadenhall Studios, 107 Leadenhall Street, London EC3A 4AF
+venue: theatre-deli
 recurrence: First Wednesday of every month, 7-9pm
 ticket-prices: £5 per person (members and non-members alike)
 metaTitle: London Acting Group with Sedos
 metaDescription: The London Acting Group run by Sedos meets on the first
   Wednesday of every month. Find out how to sign up
 ---
-**The London Acting Group run by Sedos takes place on the first Wednesday of every month, re-starting from Wednesday 4 May 2022.** 
+**The London Acting Group run by Sedos takes place on the first Wednesday of every month, re-starting from Wednesday 4 May 2022.**
 
 Sessions take place at Theatre Deli Leadenhall Studios, 107 Leadenhall Street, London EC3A 4AF from 7-9pm.
 
@@ -20,8 +20,8 @@ You can also bring your own script if you have a specific audition piece you wan
 
 Scripts should be approximately five minutes (no longer than eight minutes) and there will be a selection of 2-3 handers on the day to choose from (monologues are welcome too).
 
-There is a £5 payment for Sedos members and non-members alike at our London Acting Group. 
+There is a £5 payment for Sedos members and non-members alike at our London Acting Group.
 
-Please sign up by emailing Helena and Lloyd at [membership@sedos.co.uk](mailto:[membership@sedos.co.uk](<>)), stating your name and any questions. 
+Please sign up by emailing Helena and Lloyd at [membership@sedos.co.uk](mailto:[membership@sedos.co.uk](<>)), stating your name and any questions.
 
 That's it! We will reply confirming the studio number at Theatre Deli a few days ahead of the group.
