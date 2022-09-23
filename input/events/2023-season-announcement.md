@@ -3,7 +3,7 @@ title: 2023 Sedos Season Announcement
 times:
   - time: 2022-09-29T19:00:00.000Z
 image: assets/images/events/2023SeasonAnnouncement.jpg
-venue: ""
+venue: Upstairs Room at St Brides Tavern
 ---
 **The curtain rises on the 2023 Sedos Season and we can't wait to share it with you all.**
 
@@ -11,11 +11,9 @@ Join us on Thursday 29 September, from 7pm, where we'll be announcing the 2023 S
 
 Come along and be among the first to know what's happening next year.
 
-WHAT: 2023 Season Launch
-
-WHEN: Thursday 29 September, from 7pm
-
-WHERE: Upstairs Room at St Brides Tavern (1 Bridewell Pl, London, EC4V 6AP)
+**WHAT:** 2023 Season Launch\
+**WHEN:** Thursday 29 September, from 7pm\
+**WHERE:** Upstairs Room at St Brides Tavern (1 Bridewell Pl, London, EC4V 6AP)
 
 ^^^ ![Season Announcement, 29 September, 7pm](/assets/images/events/2023SeasonAnnouncement.jpg)
 ^^^
