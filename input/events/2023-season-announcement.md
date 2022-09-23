@@ -4,6 +4,7 @@ times:
   - time: 2022-09-29T19:00:00.000Z
 image: assets/images/events/2023SeasonAnnouncement.jpg
 venue: ""
+metaDescription: The 2023 Sedos Season Announcement will take place on 29 September 2022
 ---
 **The curtain rises on the 2023 Sedos Season and we can't wait to share it with you all.**
 
