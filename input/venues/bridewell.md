@@ -10,7 +10,7 @@ address: Bridewell Theatre, Bride Lane, Off Fleet Street, London, EC4Y 8EQ
 ---
 ## The Bridewell Theatre
 
-Most of our [London musicals](https://sedos.co.uk/whats-on) and [London plays](https://sedos.co.uk/whats-on) take place at the Bridewell Theatre, where we are the resident theatre company. Our next shows at the Bridewell are *[A Midsummer Night’s Dream](https://sedos.co.uk/shows/2022-a-midsummer-night-s-dream)* (14-24 September 2022) and *[Carrie: The Musical](https://sedos.co.uk/shows/2022-carrie-the-musical)* (25-29 October 2022).
+Most of our [London musicals](https://sedos.co.uk/whats-on) and [London plays](https://sedos.co.uk/whats-on) take place at the Bridewell Theatre, where we are the resident theatre company. Our next shows at the Bridewell are *[Carrie: The Musical](https://sedos.co.uk/shows/2022-carrie-the-musical)* (25-29 October 2022) and *[Amadeus](https://www.sedos.co.uk/shows/2022-amadeus)* (23 November-3 December 2022).
 
 * #### [Sedos shows: what’s on at the Bridewell Theatre?](https://sedos.co.uk/whats-on)
 * #### [Buy tickets to our shows at the Bridewell Theatre](https://sedos.ticketsolve.com/shows)
