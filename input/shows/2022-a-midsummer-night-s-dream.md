@@ -72,19 +72,17 @@ sections:
 
 
       **DIRECTOR** | Matt Hudson\
-      
+
       **ASSISTANT DIRECTOR** | Carrie Pennifer\
-      
+
       **ASSISTANT DIRECTOR** | Iacopo Farusi\
-      
-      **CHOREOGRAPHER** | Mary Bennett\
-     
+
       **MUSICAL DIRECTOR** | Alex Dehn\
-      
+
       **CHOREOGRAPHER** | Mary Bennett\
 
       **ASSISTANT CHOREOGRAPHER** (let’s have a kiki) | Dmitry Devetyarov\
-      
+
       **PRODUCER** | Clare Harding\
 
       **SET DESIGNER** | Peter Foster\
@@ -94,22 +92,27 @@ sections:
       **ASSISTANT LIGHTING DESIGNER** | Shiri Stern \
 
       **SOUND DESIGNERS** | Henry Whittaker and Matt Hudson\
-      
+
       **VIDEO DESIGNERS** | Adrian Jeakins and Olivier Namet\
-      
+
       **HAIR and MAKEUP DESIGNERS** | Jobina Hardy and Roo Gehring\
 
       **STAGE MANAGERS** | Becky Chisholm and Clare Harding\
 
       **ASSISTANT STAGE MANAGER** | Karen Grant-Davie\
-      
+
       **PHOTOGRAPHY** | Adrian Hau\
-      
+
       **SOCIAL MEDIA** | Tess Robinson
   - order: 2
     title: GALLERY
-    body: >-
-      <a data-flickr-embed="true" href="https://www.flickr.com/photos/sedos/albums/72177720301436006" title="A Midsummer Night&#x27;s Dream - 2022"><img src="https://live.staticflickr.com/65535/52298704068_5ac9dfccf2.jpg" width="640" height="480" alt="A Midsummer Night&#x27;s Dream - 2022"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+    body: <a data-flickr-embed="true"
+      href="https://www.flickr.com/photos/sedos/albums/72177720301436006"
+      title="A Midsummer Night&#x27;s Dream - 2022"><img
+      src="https://live.staticflickr.com/65535/52298704068_5ac9dfccf2.jpg"
+      width="640" height="480" alt="A Midsummer Night&#x27;s Dream -
+      2022"></a><script async src="//embedr.flickr.com/assets/client-code.js"
+      charset="utf-8"></script>
 metaTitle: A Midsummer Night’s Dream plays at the Bridewell Theatre from 14-24
   September 2022
 metaDescription: A Midsummer Night’s Dream, part of Sedos’ 2022 London season,
