@@ -2,7 +2,7 @@
 title: Amadeus
 year: "2022"
 authors: By PETER SHAFFER
-authors2: Book our final three shows of 2022 together and receive 10% off
+authors2: ""
 subtitle: Genius, jealousy and revenge
 showtimes:
   - time: 2022-11-23 19:30
@@ -60,6 +60,8 @@ sections:
 
       **PRODUCER** | Pippa Kyle\
 
+      **ASSISTANT DIRECTOR** | Dan Edge\
+
       **LIGHTING DESIGNER** | Olly Levett\
 
       **SOUND DESIGNER** | Adrian Jeakins\
@@ -73,8 +75,6 @@ sections:
       **STAGE MANAGER** | Andrew Laidlaw\
 
       **PROPS** | Shiri Stern\
-
-      **ASSISTANT DIRECTOR** | Dan Edge\
 
       **OPERA CONSULTANT** | Charlotte Richardson\
 
@@ -97,11 +97,11 @@ metaDescription: Amadeus, part of Sedos’ 2022 London season, plays at the
 ---
 > I looked on astounded as from his ordinary life he made his art. We were both ordinary men, he and I. Yet from the ordinary he created Legends - and I from Legends created only the ordinary!
 
-**In the court of the Austrian Emperor Joseph II, Antonio Salieri is the established composer. Enter the greatest musical genius of all time: Wolfgang Amadeus Mozart. Salieri has given himself to God so that he might realise his sole ambition, to be a great composer. Mozart is a foul-mouthed, graceless oaf who has that which is beyond Salieri’s envious grasp: genius.**
+**Music, genius, jealousy and revenge**
 
-A fictionalized account of the relationship between these two real life composers, Peter Shaffer’s *Amadeus* takes us on a wild ride through the trials and tribulations of genius, jealousy and revenge.
+Antonio Salieri is the established composer in the Austrian court. Enter the greatest musical genius of all time: Wolfgang Amadeus Mozart. Salieri has given himself to God so that he might realise his sole ambition, to be a great composer. Mozart is a foul-mouthed, graceless oaf, but he has something which is far beyond Salieri’s envious grasp: genius.
 
-**Special offer:** book tickets for *A Midsummer Night’s Dream*, *Carrie: The Musical* and *Amadeus* simultaneously and receive 10% off. Discount will be automatically applied at the box office when booking all three shows in one transaction.
+Peter Shaffer’s award-winning fictionalised account of the relationship between these two real life composers is a story for all time. Presented in a way which reaches far beyond the play’s historical roots, this production of Amadeus takes the audience on a wild ride through the trials and tribulations of music, genius, jealousy and revenge.
 
 *Amadeus* plays at the [Bridewell Theatre](https://sedos.co.uk/venues/bridewell) from 23 November-3 December 2022.
 
