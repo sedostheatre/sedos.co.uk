@@ -97,9 +97,11 @@ metaDescription: Amadeus, part of Sedos’ 2022 London season, plays at the
 ---
 > I looked on astounded as from his ordinary life he made his art. We were both ordinary men, he and I. Yet from the ordinary he created Legends - and I from Legends created only the ordinary!
 
-**Music, genius, jealousy and revenge**
 
-Antonio Salieri is the established composer in the Austrian court. Enter the greatest musical genius of all time: Wolfgang Amadeus Mozart. Salieri has given himself to God so that he might realise his sole ambition, to be a great composer. Mozart is a foul-mouthed, graceless oaf, but he has something which is far beyond Salieri’s envious grasp: genius.
+
+**Music, genius, jealousy and revenge.**
+
+**Antonio Salieri is the established composer in the Austrian court. Enter the greatest musical genius of all time: Wolfgang Amadeus Mozart. Salieri has given himself to God so that he might realise his sole ambition, to be a great composer. Mozart is a foul-mouthed, graceless oaf, but he has something which is far beyond Salieri’s envious grasp: genius.**
 
 Peter Shaffer’s award-winning fictionalised account of the relationship between these two real life composers is a story for all time. Presented in a way which reaches far beyond the play’s historical roots, this production of Amadeus takes the audience on a wild ride through the trials and tribulations of music, genius, jealousy and revenge.
 
