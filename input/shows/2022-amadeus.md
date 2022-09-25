@@ -3,7 +3,7 @@ title: Amadeus
 year: "2022"
 authors: By PETER SHAFFER
 authors2: ""
-subtitle: Genius, jealousy and revenge
+subtitle: Music, genius, jealousy and revenge
 showtimes:
   - time: 2022-11-23 19:30
   - time: 2022-11-24 19:30
