@@ -20,7 +20,7 @@ showtime-summary: 15-16 and 30 August 2012 in London; 19-27 August in Edinburgh
 venue: Winterflood Theatre, London Stock Exchange and Zoo
 primary-color: "#6e0001"
 header-image: /assets/7787685962_fe455a60a6_o.jpg
-flyer: /assets/slide1.jpg
+flyer: /assets/7745178658_44420cfefc_o.jpg
 box-office-open: false
 sections:
   - order: 1
