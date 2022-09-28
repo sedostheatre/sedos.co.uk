@@ -81,7 +81,15 @@ sections:
       **MARKETING** | Stephen Beeny\
 
       **PHOTOGRAPHER** | David Ovenden
-  - order: 1
+  - order: 2
+    title: GALLERY
+    body: <a data-flickr-embed="true"
+      href="https://www.flickr.com/photos/sedos/albums/72177720302460556"
+      title="Amadeus - 2022"><img
+      src="https://live.staticflickr.com/65535/52389362277_3d986ae894_c.jpg"
+      width="800" height="600" alt="Amadeus - 2022"></a><script async
+      src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+  - order: 3
     title: TODAY IN HISTORY
     body: <a data-flickr-embed="true"
       href="https://www.flickr.com/photos/sedos/albums/72177720301337216"
