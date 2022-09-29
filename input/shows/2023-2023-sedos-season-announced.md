@@ -72,7 +72,7 @@ A week of fun activities for Sedos members and their friends. More details will 
 *by George R. Sims*\
 An epic Victorian melodrama.
 
-Director | Peter Foster
+Director | **Peter Foster**
 
 \
 **TITANIC | 22 November-2 December 2023**\
@@ -90,7 +90,7 @@ As you'll no doubt be aware, Sedos set out its Commitment to Change in 2020 and 
 
 We are committed to diverse casting throughout our season, this will be made explicit in our audition notices, and we will be working with all the teams to ensure that we are reflecting the society we live in, both on and offstage. 
 
-If you’d like to discuss our Commitment to Change further, please email us at equality@sedos.co.uk. 
+If you’d like to discuss our Commitment to Change further, please email us at [equality@sedos.co.uk](mailto:equality@sedos.co.uk). 
 
 We look forward to seeing you all soon!
 
