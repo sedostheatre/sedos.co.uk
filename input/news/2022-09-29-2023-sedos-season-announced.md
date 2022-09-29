@@ -6,7 +6,6 @@ extract: We’re delighted to announce our new season of three musicals, two pla
   and a week of fun activities.
 metaTitle: London amateur theatre group Sedos announce 2023 Season of plays and musicals
 ---
-\
 *30 September 2023*
 
 **Thank you to everyone who joined us last night for the launch of the 2023 Sedos season.** 
