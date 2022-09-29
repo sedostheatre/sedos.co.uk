@@ -18,8 +18,10 @@ We were thrilled by the excitement in the room as we revealed the season and wer
 
 Some of the shows are still looking for people to join their production teams, so do let us know if you’d like to get involved — email [production@sedos.co.uk](mailto:production@sedos.co.uk)
 
-#### **SEDOS’ 2023 SEASON**
+\
+**SEDOS’ 2023 SEASON**
 
+\
 **THE EFFECT | 21-25 March 2023**\
 *by Lucy Prebble*\
 A clinical romance exploring questions of sanity, neurology and the limits of medicine, alongside ideas of fate, loyalty and the inevitability of physical attraction.
@@ -44,10 +46,11 @@ Choreographer | **Catherine Higgins**
 
 An intimate look at the Father of the Modern Musical, featuring new arrangements of his most beloved work.
 
-Co-Directors |  **Tess Robinson** and **Dan Saunders**
-Musical Director | **Adrian Hau**
+Co-Directors |  **Tess Robinson** and **Dan Saunders**\
+Musical Director | **Adrian Hau**\
 Producer | **Lizzie Levett**
 
+\
 **MEMBERS & FRIENDS WEEK | 17-23 September 2023**\
 A week of fun activities for Sedos members and their friends. More details will be announced in due course. 
 
@@ -56,7 +59,7 @@ A week of fun activities for Sedos members and their friends. More details will 
 *by George R. Sims*\
 An epic Victorian melodrama.
 
-Director | Peter Foster
+Director | **Peter Foster**
 
 \
 **TITANIC | 22 November-2 December 2023**\
@@ -74,7 +77,7 @@ As you'll no doubt be aware, Sedos set out its Commitment to Change in 2020 and 
 
 We are committed to diverse casting throughout our season, this will be made explicit in our audition notices, and we will be working with all the teams to ensure that we are reflecting the society we live in, both on and offstage. 
 
-If you’d like to discuss our Commitment to Change further, please email us at equality@sedos.co.uk. 
+If you’d like to discuss our Commitment to Change further, please email us at [equality@sedos.co.uk](mailto:equality@sedos.co.uk). 
 
 We look forward to seeing you all soon!
 
