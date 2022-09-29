@@ -1,6 +1,8 @@
 ---
 title: 2023 Sedos Season announced
 year: "2023"
+authors: Lucy Prebble, Stephen Greenhorn, The Proclaimers, Stephen Sondheim,
+  George R. Sims, Peter Stone and Maury Yeston
 subtitle: We’re delighted to announce our new season of three musicals, two
   plays and a week of fun activities
 showtimes:
