@@ -14,6 +14,7 @@ showtimes:
   - time: 2023-11-22 19:30
 show-on-homepage: true
 venue: Bridewell Theatre
+header-image: /assets/sedos-season-2023-v3b.png
 header-image-contain: false
 box-office-open: false
 sections: []
