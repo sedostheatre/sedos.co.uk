@@ -58,8 +58,8 @@ Choreographer | **Catherine Higgins**
 
 An intimate look at the Father of the Modern Musical, featuring new arrangements of his most beloved work.
 
-Co-Directors |  **Tess Robinson** and **Dan Saunders**
-Musical Director | **Adrian Hau**
+Co-Directors |  **Tess Robinson** and **Dan Saunders**\
+Musical Director | **Adrian Hau**\
 Producer | **Lizzie Levett**
 
 \
