@@ -84,8 +84,9 @@ Epic and majestic, with moments of heartbreaking intimacy, Titanic captures the 
 Directors | **Rob Archibald** and **Louise Roberts**\
 Musical Director | **Issie Osborne** \
 Choreographer | **Jen Bullock**\
-Producer | **Adam Coppard** 
+Producer | **Adam Coppard**
 
+\
 As you'll no doubt be aware, Sedos set out its Commitment to Change in 2020 and it has been a key factor in the pitch process (with all directors being asked to consider the diversity requirements of their shows), the decisions we have made on which new titles to programme (which we believe can be cast with diversity in mind), and this will continue to be the case.
 
 We are committed to diverse casting throughout our season, this will be made explicit in our audition notices, and we will be working with all the teams to ensure that we are reflecting the society we live in, both on and offstage. 
