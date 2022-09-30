@@ -21,8 +21,7 @@ We were thrilled by the excitement in the room as we revealed the season and wer
 
 Some of the shows are still looking for people to join their production teams, so do let us know if you’d like to get involved — email [production@sedos.co.uk](mailto:production@sedos.co.uk)
 
-#### \
-**2023 SEDOS SEASON**
+### **2023 SEDOS SEASON**
 
 \
 **THE EFFECT | 21-25 March 2023**\
