@@ -19,6 +19,9 @@ header-image-contain: false
 box-office-open: false
 sections: []
 ---
+^^^ ![](/assets/sedos-season-2023-v3-1500pixels.jpg)
+^^^ 
+
 *30 September 2023*
 
 **Thank you to everyone who joined us last night for the launch of the 2023 Sedos season.** 
@@ -31,8 +34,8 @@ We were thrilled by the excitement in the room as we revealed the season and wer
 
 Some of the shows are still looking for people to join their production teams, so do let us know if you’d like to get involved — email [production@sedos.co.uk](mailto:production@sedos.co.uk)
 
-\
-**SEDOS’ 2023 SEASON**
+#### \
+**2023 SEDOS SEASON**
 
 \
 **THE EFFECT | 21-25 March 2023**\
