@@ -76,7 +76,7 @@ sections:
       **SPECIAL EFFECTS MAKE UP** | InkBound.co.uk Custom-made temporary tattoos\
 
       **COMMITTEE LIAISON** | Tim Garrad
-  - order: 2
+  - order: 3
     title: REVIEWS
     body: >-
       >It is a well-written piece that given everything the world has gone
@@ -86,6 +86,15 @@ sections:
       Valour! Compassion! which has been off the stage for way too long
 
       ><footer><cite><a target="_blank" href="https://www.lastminutetheatretickets.com/love-valour-compassion-at-bridewell-theatre/">Love! Valour! Compassion!, 2022, Last Minute Theatre Tickets</a></cite></footer>
+  - order: 2
+    title: GALLERY
+    body: <a data-flickr-embed="true"
+      href="https://www.flickr.com/photos/sedos/albums/72177720302568412"
+      title="Love! Valour! Compassion - 2022"><img
+      src="https://live.staticflickr.com/65535/52399382036_980e9a9514.jpg"
+      width="640" height="480" alt="Love! Valour! Compassion - 2022"></a><script
+      async src="//embedr.flickr.com/assets/client-code.js"
+      charset="utf-8"></script>
 metaTitle: Love! Valour! Compassion! plays at the Bridewell Theatre from 5-9 July 2022
 metaDescription: Love! Valour! Compassion! – part of Sedos’ 2022 London season –
   plays at the Bridewell Theatre from 5-9 July 2022. A monumental exploration
