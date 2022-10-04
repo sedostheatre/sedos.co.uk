@@ -39,9 +39,9 @@ Membership fees are £30 a year if paid by direct debit, £35 otherwise. If you 
 
 See below for benefits of membership.
 
-Since 2020, there has been no participation fee to take part in a Sedos show, so the membership fee is the only cost.
+All cast members also pay a participation fee of £30 for a play or £40 for a musical.
 
-We would always be open to a discussion with anyone who found our membership fee a barrier to participation. 
+We would always be open to a discussion with anyone who found our membership or participation fees a barrier to taking part. 
 
 **What ability / experience is needed?**
 
