@@ -18,3 +18,6 @@ Netty was a larger than life character who always brought joy and laughter to ev
 
 ^^^ ![Annette Brown playing the trumpet in Sedos' 2019 production of A Swell Party at the Minack Theatre in Cornwall](/assets/nettytributeswellparty.jpg)
 ^^^ Netty playing the trumpet in Sedos' 2019 production of A Swell Party at the Minack Theatre in Cornwall. Photo by the Minack Theatre house photographer Lynn Batten
+
+^^^ ![Annette Brown playing the trumpet in Sedos' 2019 production of A Swell Party at the Minack Theatre in Cornwall](/assets/50532612542_f2f044cd4f_k.jpg)
+^^^ Another shot of Netty in action during A Swell Party. Photo by Alan Denison
