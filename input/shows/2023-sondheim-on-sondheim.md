@@ -26,6 +26,11 @@ sections:
       **CO-DIRECTORS** | Dan Saunders and Tess Robinson
       **MUSICAL DIRECTOR** | Adrian Hau
       **PRODUCER** | Lizzie Levett
+metaTitle: Sondheim on Sondheim plays at the Bridewell Theatre from 4-8 July 2023
+metaDescription: Sondheim on Sondheim is part of Sedos’ 2023 London season and
+  plays at the Bridewell Theatre from 4-8 July 2023. An intimate look at the
+  Father of the Modern Musical, featuring new arrangements of his most beloved
+  work.
 ---
 **An intimate look at the Father of the Modern Musical, featuring new arrangements of his most beloved work.**
 
