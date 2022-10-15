@@ -22,6 +22,12 @@ sections:
   - order: 1
     body: "**DIRECTOR** | Jonathon Harding-Cooper"
     title: CAST & CREATIVE TEAM
+metaTitle: The Effect, by Lucy Prebble, plays at the Bridewell Theatre from
+  21-25 March 2023
+metaDescription: The Effect, by Lucy Prebble, is part of Sedos’ 2023 London
+  season and plays at the Bridewell Theatre from 21-25 March 2023. A clinical
+  romance exploring the limits of medicine and the inevitability of physical
+  attraction
 ---
 **The Effect is a clinical romance.** 
 
