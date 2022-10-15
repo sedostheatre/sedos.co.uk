@@ -20,7 +20,10 @@ flyer: /assets/theeffect-posterholder.jpg
 box-office-open: false
 sections:
   - order: 1
-    body: "**DIRECTOR** | Jonathon Harding-Cooper"
+    body: |-
+      **CREATIVE TEAM**
+
+      **DIRECTOR** | Jonathon Harding-Cooper
     title: CAST & CREATIVE TEAM
 metaTitle: The Effect, by Lucy Prebble, plays at the Bridewell Theatre from
   21-25 March 2023
