@@ -43,6 +43,12 @@ metaDescription: Titanic is part of Sedos’ 2023 London season and plays at the
 ---
 **Epic and majestic, with moments of heartbreaking intimacy, *Titanic* captures the triumph and tragedy of the hopeful passengers on the ill-fated Ship of Dreams.**
 
+In the final hours of 14th April 1912 the RMS Titanic, on her maiden voyage from Southampton to New York, collided with an iceberg and ‘the unsinkable ship’ slowly sank. It was one of the most tragic disasters of the 20th Century. 1517 men, women and children lost their lives.
+
+Based on real people aboard the most legendary ship in the world, *Titanic The Musical* is a stunning and stirring production focusing on the hopes, dreams and aspirations of her passengers who each boarded with stories and personal ambitions of their own. All innocently unaware of the fate awaiting them, the Third Class immigrants dream of a better life in America, the Second Class imagine they too can join the lifestyles of the rich and famous, whilst the millionaire Barons of the First Class anticipate legacies lasting forever.
+
+With music and lyrics by Maury Yeston and a book by Peter Stone, the pair have collectively won an Academy Award, an Emmy Award, an Olivier Award and three Tony awards. The original Broadway production of T*itanic The Musical* won five Tony Awards including Best Musical, Best Score and Best Book. 
+
 >A modern musical theatre masterpiece.
 
 ><footer><cite>The Stage</cite></footer>
