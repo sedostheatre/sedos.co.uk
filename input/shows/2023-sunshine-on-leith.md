@@ -28,8 +28,10 @@ sections:
   - order: 1
     title: CAST & CREATIVE TEAM
     body: |-
-      **DIRECTOR** | Sorrel Brown
-      **MUSICAL DIRECTOR** | Oscar Denihan
+      **CREATIVE TEAM**
+
+      **DIRECTOR** | Sorrel Brown\
+      **MUSICAL DIRECTOR** | Oscar Denihan\
       **CHOREOGRAPHER** | Catherine Higgins
 metaTitle: Sunshine on Leith plays at the Bridewell Theatre from 10-20 May 2023
 metaDescription: Sunshine on Leith  is part of Sedos’ 2023 London season and
