@@ -31,8 +31,11 @@ sections:
       **DIRECTOR** | Sorrel Brown
       **MUSICAL DIRECTOR** | Oscar Denihan
       **CHOREOGRAPHER** | Catherine Higgins
-metaTitle: "Sunshine on Leith "
-metaDescription: Sunshine on Leith Musical Proclaimers
+metaTitle: Sunshine on Leith plays at the Bridewell Theatre from 10-20 May 2023
+metaDescription: Sunshine on Leith  is part of Sedos’ 2023 London season and
+  plays at the Bridewell Theatre from 10-20 May 20233. A jubilant, heartfelt
+  musical about the power of home, the hearth, family and love featuring songs
+  of The Proclaimers.
 ---
 **A jubilant, heartfelt musical about the power of home, the hearth, family and love featuring the songs of The Proclaimers.**
 
