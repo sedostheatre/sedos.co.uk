@@ -41,3 +41,8 @@ metaDescription: Titanic is part of Sedos’ 2023 London season and plays at the
   moments of heartbreaking intimacy, Titanic captures the triumph and tragedy of
   the hopeful passengers on the ill-fated Ship of Dreams.
 ---
+**Epic and majestic, with moments of heartbreaking intimacy, *Titanic* captures the triumph and tragedy of the hopeful passengers on the ill-fated Ship of Dreams.**
+
+>A modern musical theatre masterpiece.
+
+><footer><cite>The Stage</cite></footer>
