@@ -29,4 +29,5 @@ Two young volunteers, Tristan and Connie, agree to take part in a clinical drug 
 
 After staging Lucy Prebble's *[Enron](https://www.sedos.co.uk/shows/2013-enron)* to great acclaim in 2023, Sedos returns to the writer ten years on to stage her follow up play about medicine and the mind.
 
-> <em>The Effect</em></a> is a headlong delve into the mysteries of the human brain. And Prebble pulls it off with assurance, tickling our cerebellums in the first half, before tugging on our heartstrings in the second ... heartbreaking ... \[it has] a heart as well as a brain.
+><em>The Effect</em></a> is a headlong delve into the mysteries of the human brain. And Prebble pulls it off with assurance, tickling our cerebellums in the first half, before tugging on our heartstrings in the second ... heartbreaking ... \[it has] a heart as well as a brain.
+><footer><cite>Time Out</cite></footer>
