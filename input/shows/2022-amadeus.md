@@ -92,11 +92,9 @@ sections:
   - order: 3
     title: FLYER
     body: |-
-      ^^^ ![](/assets/amadeus-poster-low-res.jpg)
-      ^^^ 
+      ![](/assets/amadeus-poster-low-res.jpg)
 
-      ^^^ ![](/assets/amadeus-flyer-back-lo-res-.jpg)
-      ^^^
+      ![](/assets/amadeus-flyer-back-lo-res-.jpg)
   - order: 4
     title: TODAY IN HISTORY
     body: <a data-flickr-embed="true"
