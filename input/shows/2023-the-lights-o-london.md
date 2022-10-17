@@ -34,4 +34,4 @@ A wonderfully exciting mixture of melodrama, comedy and romance, *The Lights oâ€
 
 Although melodramas had been staged for the majority of the nineteenth century, *The Lights o' London* went beyond much of the shallow characterisation and stock situations with its life-like characters and fast-moving plot. The humour which runs through the play also stops it falling into sentimentality. 
 
-As one of the travelling players says of his wife, "If you see her play Lady Macbeth, she's that natural ... the audience sometimes go out and fetch the police."
+As one of the travelling players says of his wife, "If you see her play Lady Macbeth, she's that natural.the audience sometimes go out and fetch the police."
