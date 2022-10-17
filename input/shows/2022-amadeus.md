@@ -90,6 +90,14 @@ sections:
       width="800" height="600" alt="Amadeus - 2022"></a><script async
       src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
   - order: 3
+    title: FLYER
+    body: |-
+      ^^^ ![](/assets/amadeus-poster-low-res.jpg)
+      ^^^ 
+
+      ^^^ ![](/assets/amadeus-flyer-back-lo-res-.jpg)
+      ^^^
+  - order: 4
     title: TODAY IN HISTORY
     body: <a data-flickr-embed="true"
       href="https://www.flickr.com/photos/sedos/albums/72177720301337216"
