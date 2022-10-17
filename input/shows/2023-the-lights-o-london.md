@@ -28,7 +28,7 @@ metaDescription: "Epic Victorian melodrama The Lights O' London is part of
   Sedos’ 2023 London season and plays at the Bridewell Theatre from 26-30
   September 2023. "
 ---
-**After a successful Sedos Reads live performance in March 2021, we arw delighted to mount a full production of the epic Victorian melodrama *The Lights O' London*.**
+**After a successful Sedos Reads live performance in March 2021, we are delighted to mount a full production of the epic Victorian melodrama *The Lights O' London*.**
 
 A wonderfully exciting mixture of melodrama, comedy and romance, *The Lights o’ London* is the sort of thing we watch on tv or at the movies nowadays. It was written for the actor manager Wilson Barrett by one of the leading writers of the day, George R. Sims, in 188, a time of novelty, spectacle, and a theatre public comprising a growing and demanding middle class clientele.
 
