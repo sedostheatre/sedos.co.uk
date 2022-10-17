@@ -15,7 +15,7 @@ showtimes:
   - time: 2022-10-29 19:30
 showtime-summary: 25-29 OCTOBER 2022
 venue: bridewell
-ticket-prices: Tickets from £10
+ticket-prices: Tickets from £10 (no booking fee)
 primary-color: "#2E0003"
 header-image: /assets/carriesquare.jpg
 flyer: /assets/carrieflyer.jpg
