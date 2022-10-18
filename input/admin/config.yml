@@ -414,17 +414,6 @@ collections:
             description: Pages on the old site to redirect from
             widget: list
             required: false
-      - label: "Hires"
-        name: "hires"
-        file: "input/hires.md"
-        fields:
-          - {label: title, name: title, widget: string}
-          - {label: Details, name: body, widget: markdown, required: false}
-          - name: RedirectFrom
-            label: Redirect From
-            description: Pages on the old site to redirect from
-            widget: list
-            required: false
       - label: "Thanks"
         name: "thanks"
         file: "input/thanks.md"

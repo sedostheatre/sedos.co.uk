@@ -15,8 +15,6 @@ Sedos committee: [committee@sedos.co.uk](mailto:committee@sedos.co.uk)
 
 Marketing group and press enquiries: [marketing@sedos.co.uk](mailto:marketing@sedos.co.uk)
 
-Hire our set items, costumes or props: [hires@sedos.co.uk](mailto:hires@sedos.co.uk)
-
 Action group: [equality@sedos.co.uk](mailto:equality@sedos.co.uk)
 
 Production group: [production@sedos.co.uk](mailto:production@sedos.co.uk)
