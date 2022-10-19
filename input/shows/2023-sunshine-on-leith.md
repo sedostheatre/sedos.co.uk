@@ -1,8 +1,8 @@
 ---
 title: Sunshine on Leith
 year: "2023"
-authors: By Stephen Greenhorn
-authors2: Featuring songs of The Proclaimers
+authors: By STEPHEN GREENHORN
+authors2: Featuring songs of THE PROCLAIMERS
 subtitle: A jubilant, heartfelt musical about the power of home, the hearth,
   family and love.
 showtimes:
