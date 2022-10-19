@@ -113,6 +113,18 @@ sections:
       width="640" height="480" alt="A Midsummer Night&#x27;s Dream -
       2022"></a><script async src="//embedr.flickr.com/assets/client-code.js"
       charset="utf-8"></script>
+  - order: 3
+    title: REVIEWS
+    body: >-
+      >Every ingredient of the production… is of a high standard. A brave and
+      exciting show!  
+
+      ><footer><cite><a target="_blank" href="https://www.sardinesmagazine.co.uk/review/a-midsummer-nights-dream-a-queer-retelling/">A Midsummer Night’s Dream, 2022, Sardines (****)</a></cite></footer>
+
+
+      >This show fits no boxes – because it doesn’t have to – and almost creates its own theatre category. The only worry I had about it was that it might push the boundaries too much and end up being almost a panto. Luckily, it stays away from that. I believe Shakespeare, who was a visionary himself, would approve of this type of variation of his drama. It’s just a wild, frivolous show! 
+
+      ><footer><cite><a target="_blank" href="https://westendevenings.co.uk/2022/09/16/midsummer-nights-dream-bridewell-theatre/">A Midsummer Night’s Dream, 2022, West End Evenings (*****)</a></cite></footer>
 metaTitle: A Midsummer Night’s Dream plays at the Bridewell Theatre from 14-24
   September 2022
 metaDescription: A Midsummer Night’s Dream, part of Sedos’ 2022 London season,
