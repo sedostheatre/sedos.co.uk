@@ -11,10 +11,21 @@ RedirectFrom:
 
 # 2022
 
-## *Love! Valour! Compassion*
+## *A Midsummer Night’s Dream*
+
+^^^ ![Dress rehearsal image from Sedos’ 2022 production of A Midsummer Night’s Dream](/assets/52431130992_682c829f21_c.jpg)
+^^^ A Midsummer Night’s Dream
+
+>Every ingredient of the production… is of a high standard. A brave and exciting show!  
+><footer><cite><a target="_blank" href="https://www.sardinesmagazine.co.uk/review/a-midsummer-nights-dream-a-queer-retelling/">A Midsummer Night’s Dream, 2022, Sardines (****)</a></cite></footer>
+
+>This show fits no boxes – because it doesn’t have to – and almost creates its own theatre category. The only worry I had about it was that it might push the boundaries too much and end up being almost a panto. Luckily, it stays away from that. I believe Shakespeare, who was a visionary himself, would approve of this type of variation of his drama. It’s just a wild, frivolous show! 
+><footer><cite><a target="_blank" href="https://westendevenings.co.uk/2022/09/16/midsummer-nights-dream-bridewell-theatre/">A Midsummer Night’s Dream, 2022, West End Evenings (*****)</a></cite></footer>
+
+## *Love! Valour! Compassion!*
 
 ^^^ ![Dress rehearsal image from Sedos’ 2022 production of Love! Valour! Compassion](/assets/292890466_10159658189728267_990029358114865450_n.jpeg)
-^^^ Love! Valour! Compassion
+^^^ Love! Valour! Compassion!
 
 >It is a well-written piece that given everything the world has gone through in the last two years is very relevant and raises questions of worldwide healthcare priorities in relation to developing cures for pandemics. Sedos are to be congratulated for this production of Love! Valour! Compassion! which has been off the stage for way too long
 ><footer><cite><a target="_blank" href="https://www.lastminutetheatretickets.com/love-valour-compassion-at-bridewell-theatre/">Love! Valour! Compassion!, 2022, Last Minute Theatre Tickets</a></cite></footer>
