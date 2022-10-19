@@ -1,7 +1,7 @@
 ---
 title: The Effect
 year: "2023"
-authors: By Lucy Prebble
+authors: By LUCY PREBBLE
 subtitle: A clinical romance exploring the limits of medicine and the
   inevitability of physical attraction
 showtimes:
