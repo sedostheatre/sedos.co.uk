@@ -1,8 +1,8 @@
 ---
 title: Sondheim on Sondheim
 year: "2023"
-authors: Music and Lyrics by Stephen Sondheim
-authors2: Conceived and Originally Directed by James Lapine
+authors: Music and Lyrics by STEPHEN SONDHEIM
+authors2: Conceived and Originally Directed by JAMES LAPINE
 subtitle: An intimate look at the Father of the Modern Musical, featuring new
   arrangements of his most beloved work.
 showtimes:
