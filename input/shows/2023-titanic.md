@@ -1,8 +1,8 @@
 ---
 title: Titanic
 year: "2023"
-authors: Story and Book by Peter Stone
-authors2: Music and Lyrics by Maury Yeston
+authors: Story and Book by PETER STONE
+authors2: Music and Lyrics by MAURY YESTON
 subtitle: Epic and majestic, with moments of heartbreaking intimacy, this
   musical captures the triumph and tragedy of the hopeful passengers on the
   ill-fated Ship of Dreams.
@@ -49,6 +49,4 @@ Based on real people aboard the most legendary ship in the world, *Titanic The M
 
 With music and lyrics by Maury Yeston and a book by Peter Stone, the pair have collectively won an Academy Award, an Emmy Award, an Olivier Award and three Tony awards. The original Broadway production of T*itanic The Musical* won five Tony Awards including Best Musical, Best Score and Best Book. 
 
->A modern musical theatre masterpiece.
-
-><footer><cite>The Stage</cite></footer>
+> A modern musical theatre masterpiece.
