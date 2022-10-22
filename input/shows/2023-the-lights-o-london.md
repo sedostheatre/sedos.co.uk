@@ -56,7 +56,7 @@ A wonderfully exciting mixture of melodrama, comedy and romance, *The Lights o�
 
 Although melodramas had been staged for the majority of the nineteenth century, *The Lights o' London* goes beyond shallow characterisation and stock situations with its life-like characters and fast-moving plot. The humour which runs through the play also stops it falling into sentimentality.
 
-As one of the travelling players says of his wife, "If you see her play Lady Macbeth, she's that natural .\[no full stop]the audience sometimes go out and fetch the police."
+As one of the travelling players says of his wife, "If you see her play Lady Macbeth, she's that natural the audience sometimes go out and fetch the police."
 
 Audition details will be announced in April, as we look for a balanced ensemble cast of 16 players, performing 35 leading, supporting and featured roles, to be in place by mid June. Rehearsals start in mid July.
 
