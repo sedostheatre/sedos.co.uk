@@ -1,5 +1,5 @@
 ---
-title: "The Lights O' London "
+title: "The Lights o' London "
 year: "2023"
 authors: By GEORGE R. SIMS
 subtitle: An epic Victorian melodrama.
@@ -19,20 +19,45 @@ box-office-open: false
 sections:
   - order: 1
     title: CAST & CREATIVE TEAM
-    body: |-
+    body: >-
       **CREATIVE TEAM**
 
+
       **DIRECTOR** | Peter Foster\
-      **DESIGNER** | Miranda Melville
-metaTitle: The Lights O' London plays at the Bridewell Theatre from 26-30 September 2023
-metaDescription: "Epic Victorian melodrama The Lights O' London is part of
+
+      **DESIGNER** | Miranda Melville\
+
+      **LIGHTING DESIGNER** | Martin Walton \
+
+      **SOUND DESIGNER** | Henry Whittaker
+
+
+      We are keen to find the following people to join our team: 
+
+
+      Producer\
+
+      Movement/Assistant Director\
+
+      Stage Management team\
+
+      Wardrobe, hair and make-up team
+
+
+      If you are interested, please contact [peter@sedos.co.uk](mailto:peter@sedos.co.uk)
+metaTitle: The Lights o' London plays at the Bridewell Theatre from 26-30 September 2023
+metaDescription: "Epic Victorian melodrama The Lights o' London is part of
   Sedos’ 2023 London season and plays at the Bridewell Theatre from 26-30
   September 2023. "
 ---
-**After a successful Sedos Reads live performance in March 2021, we are delighted to mount a full production of the epic Victorian melodrama *The Lights O' London*.**
+**After a successful Sedos Reads live performance in March 2021, we are delighted to mount a full production of the epic Victorian melodrama The Lights o' London.**
 
-A wonderfully exciting mixture of melodrama, comedy and romance, *The Lights o’ London* is the sort of thing we watch on tv or at the movies nowadays. It was written for the actor manager Wilson Barrett by one of the leading writers of the day, George R. Sims, in 1881, a time of novelty, spectacle, and a theatre public comprising a growing and demanding middle class clientele.
+A wonderfully exciting mixture of melodrama, comedy and romance, *The Lights o’ London* is the sort of thing we enjoy on tv or at the movies nowadays. It was written for actor manager Wilson Barrett by the well-known, socially-reforming journalist and leading playwright of the day, George R. Sims, in 1881, a time of novelty, spectacle, and a theatre public comprising a growing and demanding middle class clientele.
 
-Although melodramas had been staged for the majority of the nineteenth century, *The Lights o' London* went beyond much of the shallow characterisation and stock situations with its life-like characters and fast-moving plot. The humour which runs through the play also stops it falling into sentimentality. 
+Although melodramas had been staged for the majority of the nineteenth century, *The Lights o' London* goes beyond shallow characterisation and stock situations with its life-like characters and fast-moving plot. The humour which runs through the play also stops it falling into sentimentality.
 
-As one of the travelling players says of his wife, "If you see her play Lady Macbeth, she's that natural.the audience sometimes go out and fetch the police."
+As one of the travelling players says of his wife, "If you see her play Lady Macbeth, she's that natural .\[no full stop]the audience sometimes go out and fetch the police."
+
+Audition details will be announced in April, as we look for a balanced ensemble cast of 16 players, performing 35 leading, supporting and featured roles, to be in place by mid June. Rehearsals start in mid July.
+
+For more details or with questions you may have, contact Director, Peter Foster: [peter@sedos.co.uk](mailto:peter@sedos.co.uk)
