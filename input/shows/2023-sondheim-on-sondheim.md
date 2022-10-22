@@ -10,7 +10,7 @@ showtimes:
   - time: 2023-07-05 19:30
   - time: 2023-07-06 19:30
   - time: 2023-07-07 19:30
-  - time: 2023-07-04 14:30
+  - time: 2023-07-08 14:30
   - time: 2023-07-08 19:30
 showtime-summary: 4-8 July 2023
 venue: Bridewell Theatre
