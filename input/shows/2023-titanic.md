@@ -49,4 +49,5 @@ Based on real people aboard the most legendary ship in the world, *Titanic The M
 
 With music and lyrics by Maury Yeston and a book by Peter Stone, the pair have collectively won an Academy Award, an Emmy Award, an Olivier Award and three Tony awards. The original Broadway production of T*itanic The Musical* won five Tony Awards including Best Musical, Best Score and Best Book. 
 
-> A modern musical theatre masterpiece.
+>A modern musical theatre masterpiece.
+><footer><cite>The Stage</cite></footer>
