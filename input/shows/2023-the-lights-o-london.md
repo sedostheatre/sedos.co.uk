@@ -10,6 +10,7 @@ showtimes:
   - time: 2023-09-29 19:30
   - time: 2023-09-30 14:30
   - time: 2023-09-30 19:30
+showtime-summary: 26-30 SEPTEMBER 2023
 venue: Bridewell Theatre
 primary-color: "#cb1313"
 header-image: /assets/lights-o-london.jpg
