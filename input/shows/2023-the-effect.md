@@ -14,7 +14,7 @@ showtimes:
 showtime-summary: 21-25 MARCH 2023
 venue: Bridewell Theatre
 primary-color: "#000000"
-header-image: /assets/the-effect.jpg
+header-image: /assets/the-effect-actual.jpg
 header-image-contain: false
 flyer: /assets/theeffect-posterholder.jpg
 box-office-open: false
