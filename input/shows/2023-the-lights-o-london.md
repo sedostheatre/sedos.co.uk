@@ -30,7 +30,9 @@ sections:
 
       **LIGHTING DESIGNER** | Martin Walton \
 
-      **SOUND DESIGNER** | Henry Whittaker
+      **SOUND DESIGNER** | Henry Whittaker\
+
+      **HAIR & MAKE-UP DESIGNER** | Jobina Hardy
 
 
       We are keen to find the following people to join our team: 
@@ -42,7 +44,7 @@ sections:
 
       Stage Management team\
 
-      Wardrobe, hair and make-up team
+      Wardrobe team
 
 
       If you are interested, please contact [peter@sedos.co.uk](mailto:peter@sedos.co.uk)
