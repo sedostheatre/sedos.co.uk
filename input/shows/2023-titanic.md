@@ -5,7 +5,7 @@ authors: Story and Book by PETER STONE
 authors2: Music and Lyrics by MAURY YESTON
 subtitle: Epic and majestic, with moments of heartbreaking intimacy, this
   musical captures the triumph and tragedy of the hopeful passengers on the
-  ill-fated Ship of Dreams.
+  ill-fated Ship of Dreams
 showtimes:
   - time: 2023-11-22 19:30
   - time: 2023-11-23 19:30
