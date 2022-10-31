@@ -4,7 +4,7 @@ year: "2023"
 authors: By STEPHEN GREENHORN
 authors2: Featuring songs of THE PROCLAIMERS
 subtitle: A jubilant, heartfelt musical about the power of home, the hearth,
-  family and love.
+  family and love
 showtimes:
   - time: 2023-05-10 19:30
   - time: 2023-05-11 19:30
