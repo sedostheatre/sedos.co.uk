@@ -2,7 +2,7 @@
 title: "The Lights o' London "
 year: "2023"
 authors: By GEORGE R. SIMS
-subtitle: An epic Victorian melodrama.
+subtitle: An epic Victorian melodrama
 showtimes:
   - time: 2023-09-26 19:30
   - time: 2023-09-27 19:30
