@@ -4,7 +4,7 @@ year: "2023"
 authors: Music and Lyrics by STEPHEN SONDHEIM
 authors2: Conceived and Originally Directed by JAMES LAPINE
 subtitle: An intimate look at the Father of the Modern Musical, featuring new
-  arrangements of his most beloved work.
+  arrangements of his most beloved work
 showtimes:
   - time: 2023-07-04 19:30
   - time: 2023-07-05 19:30
