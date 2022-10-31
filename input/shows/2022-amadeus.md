@@ -2,8 +2,9 @@
 title: Amadeus
 year: "2022"
 authors: By PETER SHAFFER
-authors2: ""
-subtitle: Music, genius, jealousy and revenge
+authors2: Music, genius, jealousy and revenge
+authors3: " \"Peter Shaffer's greatest play\", The Stage"
+subtitle: ""
 showtimes:
   - time: 2022-11-23 19:30
   - time: 2022-11-24 19:30
