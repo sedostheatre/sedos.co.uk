@@ -37,7 +37,7 @@ If we succeed in the show, the audience should leave reeling, challenged, and in
 **ETHNICITY**
 
 There are no characters of any specific ethnicity in the show, and we are keen to see a diverse group of auditionees for all the roles. In line with Sedos' desire
-to reflect our community as far as possible we would strongly encourage people to audition irrespective of their ethnic background
+to reflect our community as far as possible we would strongly encourage people to audition irrespective of their ethnic background.
 
 # [FULL AUDITION NOTICE](https://drive.google.com/file/d/1mrLGSUW4XOwhLkWnCu_UVazeXP9d2JKc/view)
 
