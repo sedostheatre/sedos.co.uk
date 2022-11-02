@@ -55,6 +55,15 @@ sections:
       **GEORGE** | Chris Peters\
       **STOKES** | Jake Comeau\
       **FREDDY** | Nick Dore
+  - order: 2
+    title: GALLERY
+    body: '<a data-flickr-embed="true"
+      href="https://www.flickr.com/photos/sedos/albums/72177720302397228"
+      title="Carrie: The Musical - 2022"><img
+      src="https://live.staticflickr.com/65535/52425013970_a87d1aea0d.jpg"
+      width="640" height="480" alt="Carrie: The Musical - 2022"></a><script
+      async src="//embedr.flickr.com/assets/client-code.js"
+      charset="utf-8"></script>'
 metaTitle: "Carrie: The Musical plays at the Bridewell Theatre from 25-29 October 2022"
 metaDescription: "Carrie: The Musical, part of Sedos’ 2022 London season, plays
   at the Bridewell Theatre from 25-29 October 2022. A cult musical based on
