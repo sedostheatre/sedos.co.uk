@@ -9,6 +9,9 @@ metaDescription: Audiences at Sedos’ production of Carrie gave £1000 for the
 ---
 **Last week Carrie became Sedos’ best selling one week show on record and thanks to the generosity of our audiences, we raised just over £1000 for Bloody Good Period.** 
 
+^^^ ![Bloody Good Period logo](/assets/bloodygoodperiodrectangle.jpg)
+^^^ 
+
 This charity, which the cast and team chose to support given the themes raised in the show, gives period products to those who can’t afford them, and provides menstrual education to those less likely to access it.
 
 £1000 is enough to 
