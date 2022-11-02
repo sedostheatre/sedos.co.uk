@@ -46,3 +46,5 @@ metaDescription: Sunshine on Leith  is part of Sedos’ 2023 London season and
 Ally's marriage proposal is rejected by his childhood sweetheart, a nurse disillusioned with the part-privatised NHS, moves to the US to seek career fulfilment instead. Meanwhile, Davy gets a job in a call centre while his parents war over the discovery, years on, of father's infidelity.
 
 *Sunshine on Leith* is a vibrant, energetic piece of musical theatre, loved by audiences and critics alike which had a successful film adaptation released in 2013 starring Jane Horrocks.
+
+*Sunshine on Leith* plays at the [Bridewell Theatre](https://sedos.co.uk/venues/bridewell) from 10-20 May 2023.
