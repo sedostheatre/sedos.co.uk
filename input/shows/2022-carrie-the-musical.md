@@ -64,6 +64,28 @@ sections:
       width="640" height="480" alt="Carrie: The Musical - 2022"></a><script
       async src="//embedr.flickr.com/assets/client-code.js"
       charset="utf-8"></script>'
+  - order: 3
+    title: REVIEWS
+    body: >-
+      >The displays of telekinesis in action are worth seeing, as are the prom
+      costumes. This is amateur dramatics at its finest: forget backing tracks –
+      Rob Archibald leads a seven-piece band – and it’s difficult to pick a
+      stand-out performance in a cast so finely balanced. The shock horror
+      factor may not be prevalent, but the portrayal of bullying, intimidation
+      and a sense of not fitting in is more than sufficiently disconcerting. Not
+      one for the fainthearted.
+
+      ><footer><cite><a target="_blank" href="https://www.londontheatre1.com/reviews/carrie-the-musical-bridewell-theatre/">Carrie: The Musical, 2022, London Theatre 1 (****)</a></cite></footer>
+
+
+      >There are clearly many technical elements needed for a show like Carrie in order to display her telekinesis and whilst I do not want to give any spoilers away Sedos interpretation of this was exceptional. It meant that Carrie’s moments where her telekinesis flared up were some of my highlights of the show. I must commend Chris Adams and Paul Brookland Williams (director and movement director) for the courage to take this route as well as Polly Hayes for her vital part in it. Other elements such as flashing lights and windows slamming shut were all well thought out and timed well to add to the suspense of the show. Once again Sedos have presented a rarely performed musical to a wider audience and judging from the sell out audiences I was not the only one excited by this. With a talented cast and a strong direction for the piece Sedos have once again presented a show that I would urge people to see….. if it wasn’t sold out already! 
+
+      ><footer><cite><a target="_blank" href="https://musicaltheatremusings.co.uk/carrie">Carrie: The Musical, 2022, Musical Theatre Musings</a></cite></footer>
+
+
+      >Just as you think you’ve seen the very best Sedos has to offer they give us something even better. It’s a good musical but Sedos has turned it into something extraordinary. Brilliant! The audience were gripped from the opening moment to the final curtain calls.
+
+      ><footer><cite><a target="_blank" href="https://discover.hubpages.com/entertainment/Carrie-The-Musical-A-Sedos-Production-at-the-Bridewell-Theatre-London">Carrie: The Musical, 2022, Hub Pages</a></cite></footer>
 metaTitle: "Carrie: The Musical plays at the Bridewell Theatre from 25-29 October 2022"
 metaDescription: "Carrie: The Musical, part of Sedos’ 2022 London season, plays
   at the Bridewell Theatre from 25-29 October 2022. A cult musical based on
