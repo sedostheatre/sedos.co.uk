@@ -24,6 +24,9 @@ RedirectFrom:
 >Just as you think you’ve seen the very best Sedos has to offer they give us something even better. It’s a good musical but Sedos has turned it into something extraordinary. Brilliant! The audience were gripped from the opening moment to the final curtain calls.
 ><footer><cite><a target="_blank" href="https://discover.hubpages.com/entertainment/Carrie-The-Musical-A-Sedos-Production-at-the-Bridewell-Theatre-London">Carrie: The Musical, 2022, Hub Pages</a></cite></footer>
 
+>As ever, Sedos bring their customary skill and ability to the performance, the ensemble songs in particular being tightly controlled, crisply delivered and well sung, with excellent work from Movement Director Paul Brookland Williams.
+><footer><cite><a target="_blank" href="https://www.sardinesmagazine.co.uk/review/carrie-the-musical">Carrie: The Musical, 2022, Sardines (****)</a></cite></footer>
+
 ## *A Midsummer Night’s Dream*
 
 ^^^ ![Dress rehearsal image from Sedos’ 2022 production of A Midsummer Night’s Dream](/assets/52431130992_682c829f21_c.jpg)
