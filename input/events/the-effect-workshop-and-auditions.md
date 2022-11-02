@@ -43,7 +43,7 @@ to reflect our community as far as possible we would strongly encourage people t
 
 **HOW TO SIGN UP FOR *THE EFFECT* AUDITIONS**
 
-Read the [full audition notice](https://drive.google.com/file/d/1mrLGSUW4XOwhLkWnCu_UVazeXP9d2JKc/view), then visit [](membership.sedos.co.uk)[membership.sedos.co.uk/signup](https://membership.sedos.co.uk/signup/105) to register to attend the workshop and sign up to audition.
+Read the [full audition notice](https://drive.google.com/file/d/1mrLGSUW4XOwhLkWnCu_UVazeXP9d2JKc/view), then visit [](membership.sedos.co.uk)[membership.sedos.co.uk/signup](https://membership.sedos.co.uk/signup/) to register to attend the workshop and sign up to audition.
 
 **MORE ABOUT SEDOS AUDITIONS**
 
