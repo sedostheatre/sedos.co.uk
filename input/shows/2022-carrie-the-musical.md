@@ -54,7 +54,8 @@ sections:
       **HELEN** | Katie Porter\
       **GEORGE** | Chris Peters\
       **STOKES** | Jake Comeau\
-      **FREDDY** | Nick Dore
+      **FREDDY** | Nick Dore\
+      **THE POWER** | Polly Hayes
   - order: 2
     title: GALLERY
     body: '<a data-flickr-embed="true"
