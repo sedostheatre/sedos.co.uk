@@ -3,6 +3,8 @@ title: Sunshine on Leith
 year: "2023"
 authors: By STEPHEN GREENHORN
 authors2: Featuring songs of THE PROCLAIMERS
+authors3: Created and produced by DUNDEE REP THEATRE, Scotland’s leading
+  production theatre
 subtitle: A jubilant, heartfelt musical about the power of home, the hearth,
   family and love
 showtimes:
@@ -48,3 +50,5 @@ Ally's marriage proposal is rejected by his childhood sweetheart, a nurse disill
 *Sunshine on Leith* is a vibrant, energetic piece of musical theatre, loved by audiences and critics alike which had a successful film adaptation released in 2013 starring Jane Horrocks.
 
 *Sunshine on Leith* plays at the [Bridewell Theatre](https://sedos.co.uk/venues/bridewell) from 10-20 May 2023.
+
+This amateur production is presented by arrangement with Music Theatre International. All authorised performance materials are also supplied by MTI. [www.mtishows.co.uk](http://www.mtishows.co.uk/)
