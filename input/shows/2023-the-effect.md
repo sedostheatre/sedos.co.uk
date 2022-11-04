@@ -16,7 +16,7 @@ venue: Bridewell Theatre
 primary-color: "#000000"
 header-image: /assets/the-effect-actual.jpg
 header-image-contain: false
-flyer: /assets/theeffect-posterholder.jpg
+flyer: /assets/the-effect-flyer-poster.jpg
 box-office-open: false
 sections:
   - order: 1
@@ -32,11 +32,11 @@ metaDescription: The Effect, by Lucy Prebble, is part of Sedos’ 2023 London
   romance exploring the limits of medicine and the inevitability of physical
   attraction
 ---
-**The Effect is a clinical romance.** 
+**Part psychological thriller, part chemical romance, *The Effect* is a play that can truly challenge an audience.**
+
+After staging Lucy Prebble’s sold-out *[Enron](https://www.sedos.co.uk/shows/2013-enron)* to great acclaim in 2023, Sedos returns to the writer 10 years on to tackle her follow up play about medicine and the mind.
 
 Two young volunteers, Tristan and Connie, agree to take part in a clinical drug trial. Succumbing to the gravitational pull of attraction and love, however, Tristan and Connie manage to throw the trial off-course, much to the frustration of the clinicians involved. This funny, moving and perhaps surprisingly human play explores questions of sanity, neurology and the limits of medicine, alongside ideas of fate, loyalty and the inevitability of physical attraction.
-
-After staging Lucy Prebble's *[Enron](https://www.sedos.co.uk/shows/2013-enron)* to great acclaim in 2023, Sedos returns to the writer 10 years on to stage her follow up play about medicine and the mind.
 
 Registration is now open for [*The Effect* auditions](https://www.sedos.co.uk/events/the-effect-workshop-and-auditions).
 
