@@ -51,5 +51,7 @@ With music and lyrics by Maury Yeston and a book by Peter Stone, the pair have c
 
 *Titanic* plays at the [Bridewell Theatre](https://sedos.co.uk/venues/bridewell) from 22 November-2 December 2023.
 
+This amateur production of *Titanic* is presented by arrangement with Concord Theatricals Ltd. on behalf of Tams-Witmark LLC. [www.concordtheatricals.co.uk](http://www.concordtheatricals.co.uk/)
+
 >A modern musical theatre masterpiece.
 ><footer><cite>The Stage</cite></footer>
