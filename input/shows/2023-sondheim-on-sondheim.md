@@ -2,7 +2,7 @@
 title: Sondheim on Sondheim
 year: "2023"
 authors: Music and Lyrics by STEPHEN SONDHEIM
-authors2: Conceived and Originally Directed by JAMES LAPINE
+authors2: Conceived and directed on Broadway by JAMES LAPINE
 subtitle: An intimate look at the Father of the Modern Musical, featuring new
   arrangements of his most beloved work
 showtimes:
@@ -27,7 +27,8 @@ sections:
 
       **CO-DIRECTORS** | Dan Saunders and Tess Robinson\
       **MUSICAL DIRECTOR** | Adrian Hau\
-      **PRODUCER** | Lizzie Levett
+      **PRODUCER** | Lizzie Levett\
+      **VIDEO CREATED AND DESIGNED BY** Peter Flaherty
 metaTitle: Sondheim on Sondheim plays at the Bridewell Theatre from 4-8 July 2023
 metaDescription: Sondheim on Sondheim is part of Sedos’ 2023 London season and
   plays at the Bridewell Theatre from 4-8 July 2023. An intimate look at the
@@ -41,3 +42,11 @@ Hailed as a "revelatory revue full of wonderful moments" and a "funny, affection
 His story. His inspiration. His genius. The tapestry of creativity that characterizes Stephen Sondheim remained largely undiscussed, especially by the man himself, until the creation of *Sondheim on Sondheim*. Ranging from the beloved to the obscure, the carefully selected two-dozen songs hang from a framework of in-depth video interviews, delving into Sondheim's personal life and artistic process.
 
 *Sondheim on Sondheim* plays at the [Bridewell Theatre](https://sedos.co.uk/venues/bridewell) from 4-8 July 2023.
+
+Music and Lyrics by Stephen Sondheim\
+Conceived and directed on Broadway by James Lapine\
+Inspired by a concept by David Kernan\
+Originally produced on Broadway by Roundabout Theatre Company\
+Todd Haimes, Artistic Director, Harold Wolpert, Managing Director, Julia C. Levy, Executive Director
+
+This amateur production is presented by arrangement with Music Theatre International. All authorised performance materials are also supplied by MTI. www.mtishows.co.uk
