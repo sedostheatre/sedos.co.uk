@@ -49,4 +49,4 @@ Inspired by a concept by David Kernan\
 Originally produced on Broadway by Roundabout Theatre Company\
 Todd Haimes, Artistic Director, Harold Wolpert, Managing Director, Julia C. Levy, Executive Director
 
-This amateur production is presented by arrangement with Music Theatre International. All authorised performance materials are also supplied by MTI. www.mtishows.co.uk
+This amateur production is presented by arrangement with Music Theatre International. All authorised performance materials are also supplied by MTI. [www.mtishows.co.uk](www.mtishows.co.uk)
