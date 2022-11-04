@@ -23,7 +23,10 @@ sections:
     body: |-
       **CREATIVE TEAM**
 
-      **DIRECTOR** | Jonathon Harding-Cooper
+      **DIRECTOR** | Jonathon Harding-Cooper\
+      **PRODUCER** | Ben Hussey\
+      **SET REALISATION** | Andrew Laidlaw\
+      **MARKETING** | Natalie Harding-Cooper
     title: CAST & CREATIVE TEAM
 metaTitle: The Effect, by Lucy Prebble, plays at the Bridewell Theatre from
   21-25 March 2023
