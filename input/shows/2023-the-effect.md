@@ -41,6 +41,8 @@ After staging Lucy Prebble’s sold-out *[Enron](https://www.sedos.co.uk/shows/
 
 Two young volunteers, Tristan and Connie, agree to take part in a clinical drug trial. Succumbing to the gravitational pull of attraction and love, however, Tristan and Connie manage to throw the trial off-course, much to the frustration of the clinicians involved. This funny, moving and perhaps surprisingly human play explores questions of sanity, neurology and the limits of medicine, alongside ideas of fate, loyalty and the inevitability of physical attraction.
 
+This show contains references to mental illness, and sexual language and actions.
+
 Registration is now open for [*The Effect* auditions](https://www.sedos.co.uk/events/the-effect-workshop-and-auditions).
 
 *The Effect* plays at the [Bridewell Theatre](https://sedos.co.uk/venues/bridewell) from 21-25 March 2023. 
