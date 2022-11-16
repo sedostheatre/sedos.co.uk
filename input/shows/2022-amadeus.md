@@ -94,12 +94,18 @@ sections:
     title: TRAILER
     body: <div class="video-responsive"><?# YouTube Ovg_-Yb1DG4 /?></div>
   - order: 4
+    title: VOX POPS
+    body: |-
+      <div class="video-responsive"><?# YouTube 3AF-rc7Gacw /?></div>
+
+      <div class="video-responsive"><?# YouTube qRtX4HB4eX0 /?></div>
+  - order: 5
     title: FLYER
     body: |-
       ![](/assets/amadeus-poster-low-res.jpg)
 
       ![](/assets/amadeus-flyer-back-lo-res-.jpg)
-  - order: 5
+  - order: 6
     title: TODAY IN HISTORY
     body: <a data-flickr-embed="true"
       href="https://www.flickr.com/photos/sedos/albums/72177720301337216"
