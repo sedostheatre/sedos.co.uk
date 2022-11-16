@@ -1,9 +1,9 @@
 ---
-title: Sedos trustees half year report released
+title: Sedos trustees release half year report
 date: 2022-11-16
 image: /assets/52208629274_c15a7d1a13_c.jpg
 imageAlt: Dress rehearsal image from Sedos’ 2022 production of American Idiot
-metaTitle: Sedos trustees half year report released (November 2022)
+metaTitle: Sedos trustees release half year report (November 2022)
 metaDescription: The Sedos trustees have released a half year report dated
   November 2022, including updates from various sub-committees
 ---
