@@ -39,7 +39,7 @@ jobs:
         start: 'npx serve -p 5080 output'
         wait-on: 'http://localhost:5080'
     - name: Deploy
-      uses: s0/git-publish-subdir-action@v2.5.1
+      uses: s0/git-publish-subdir-action@v2.6.0
       env:
         REPO: self
         BRANCH: gh-pages
