@@ -107,6 +107,8 @@ sections:
       <div class="video-responsive"><?# YouTube 7W7Twp6SOXU /?></div>
 
       <div class="video-responsive"><?# YouTube Rc0eQ-B-tNQ /?></div>
+
+      <div class="video-responsive"><?# YouTube gdmFqT7Ezqw /?></div>
   - order: 5
     title: FLYER
     body: |-
