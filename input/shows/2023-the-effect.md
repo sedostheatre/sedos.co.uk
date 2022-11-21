@@ -55,5 +55,5 @@ Registration is now open for [*The Effect* auditions](https://www.sedos.co.uk/ev
 
 This amateur production of The Effect is presented by arrangement with Concord Theatricals Ltd. on behalf of Samuel French Ltd. ww.concordtheatricals.co.uk
 
-><em>The Effect</em></a> is a headlong delve into the mysteries of the human brain. And Prebble pulls it off with assurance, tickling our cerebellums in the first half, before tugging on our heartstrings in the second ... heartbreaking ... \[it has] a heart as well as a brain.
+><em>The Effect</em></a> is a headlong delve into the mysteries of the human brain. And Prebble pulls it off with assurance, tickling our cerebellums in the first half, before tugging on our heartstrings in the second ... heartbreaking ... [it has] a heart as well as a brain.
 ><footer><cite>Time Out</cite></footer>
