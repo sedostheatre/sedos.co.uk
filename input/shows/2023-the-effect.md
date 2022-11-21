@@ -16,7 +16,7 @@ venue: Bridewell Theatre
 primary-color: "#000000"
 header-image: /assets/the-effect-actual.jpg
 header-image-contain: false
-flyer: /assets/the-effect-flyer-poster.jpg
+flyer: /assets/the-effect-flyer-web.png
 box-office-open: false
 sections:
   - order: 1
