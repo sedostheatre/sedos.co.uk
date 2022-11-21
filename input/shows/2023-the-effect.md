@@ -28,6 +28,12 @@ sections:
       **SET REALISATION** | Andrew Laidlaw\
       **MARKETING** | Natalie Harding-Cooper
     title: CAST & CREATIVE TEAM
+  - order: 2
+    title: FLYER
+    body: |-
+      ![](/assets/the-effect-flyer-web.png)
+
+      ![](/assets/the-effect-flyer-back-web.png)
 metaTitle: The Effect, by Lucy Prebble, plays at the Bridewell Theatre from
   21-25 March 2023
 metaDescription: The Effect, by Lucy Prebble, is part of Sedos’ 2023 London
