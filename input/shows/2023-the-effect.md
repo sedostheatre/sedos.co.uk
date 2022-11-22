@@ -17,7 +17,8 @@ primary-color: "#000000"
 header-image: /assets/the-effect-actual.jpg
 header-image-contain: false
 flyer: /assets/the-effect-flyer-web.png
-box-office-open: false
+box-office-open: true
+box-office-link: https://sedos.ticketsolve.com/ticketbooth/shows/1173635529
 sections:
   - order: 1
     body: |-
