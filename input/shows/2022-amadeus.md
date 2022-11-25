@@ -127,6 +127,27 @@ sections:
       width="800" height="600" alt="Amadeus - Today in History"></a><script
       async src="//embedr.flickr.com/assets/client-code.js"
       charset="utf-8"></script>
+  - order: 1
+    title: REVIEWS
+    body: >-
+      >***** Sedos is one of those theatre companies that never seem to
+      disappoint and their current production of Amadeus, running at The
+      Bridewell Theatre, is no exception. Sedos once again show their skill in
+      taking a well-loved play and presenting it in an innovative and
+      entertaining fashion.... Excellent production by the talented members of
+      Sedos.
+
+      ><footer><cite><a target="_blank" href="Amadeus, 2022, HuSardines Magazine">https://www.sardinesmagazine.co.uk/review/amadeus-2/#.Y4AnsEnYWH8.twitter</a></cite></footer>
+
+
+      >**** Chris de Pury gives a masterful and word-perfect performance
+
+      ><footer><cite><a target="_blank" href="Amadeus, 2022, Spy in the Stalls ">https://thespyinthestalls.com/2022/11/amadeus/</a></cite></footer>
+
+
+      >This is an outstanding production by this super-talented company.... They certainly have nailed it. It was right every time. Exciting, intriguing, a snappy production with never a dull moment. Brilliant!
+
+      ><footer><cite><a target="_blank" href="https://hubpages.com/entertainment/Amadeus-A-Sedos-Production-at-the-Bridewell-Theatre-London">Amadeus, 2022, HubPages</a></cite></footer>
 metaTitle: Amadeus plays at the Bridewell Theatre from 23 November-3 December 2022
 metaDescription: Amadeus, part of Sedos’ 2022 London season, plays at the
   Bridewell Theatre from 23 November-3 December 2022. Genius, jealousy and
