@@ -97,37 +97,6 @@ sections:
 
       <div class="video-responsive"><?# YouTube Ovg_-Yb1DG4 /?></div>
   - order: 4
-    title: VOX POPS
-    body: |-
-      <div class="video-responsive"><?# YouTube 3AF-rc7Gacw /?></div>
-
-      <div class="video-responsive"><?# YouTube qRtX4HB4eX0 /?></div>
-
-      <div class="video-responsive"><?# YouTube eKNmuNVNH74 /?></div>
-
-      <div class="video-responsive"><?# YouTube 5tvx10_vDzg /?></div>
-
-      <div class="video-responsive"><?# YouTube 7W7Twp6SOXU /?></div>
-
-      <div class="video-responsive"><?# YouTube Rc0eQ-B-tNQ /?></div>
-
-      <div class="video-responsive"><?# YouTube gdmFqT7Ezqw /?></div>
-  - order: 5
-    title: FLYER
-    body: |-
-      ![](/assets/amadeus-poster-low-res.jpg)
-
-      ![](/assets/amadeus-flyer-back-lo-res-.jpg)
-  - order: 6
-    title: TODAY IN HISTORY
-    body: <a data-flickr-embed="true"
-      href="https://www.flickr.com/photos/sedos/albums/72177720301337216"
-      title="Amadeus - Today in History"><img
-      src="https://live.staticflickr.com/65535/52288631532_8598a75aae_z.jpg"
-      width="800" height="600" alt="Amadeus - Today in History"></a><script
-      async src="//embedr.flickr.com/assets/client-code.js"
-      charset="utf-8"></script>
-  - order: 1
     title: REVIEWS
     body: >-
       >***** Sedos is one of those theatre companies that never seem to
@@ -148,6 +117,37 @@ sections:
       >This is an outstanding production by this super-talented company.... They certainly have nailed it. It was right every time. Exciting, intriguing, a snappy production with never a dull moment. Brilliant!
 
       ><footer><cite><a target="_blank" href="https://hubpages.com/entertainment/Amadeus-A-Sedos-Production-at-the-Bridewell-Theatre-London">Amadeus, 2022, HubPages</a></cite></footer>
+  - order: 5
+    title: VOX POPS
+    body: |-
+      <div class="video-responsive"><?# YouTube 3AF-rc7Gacw /?></div>
+
+      <div class="video-responsive"><?# YouTube qRtX4HB4eX0 /?></div>
+
+      <div class="video-responsive"><?# YouTube eKNmuNVNH74 /?></div>
+
+      <div class="video-responsive"><?# YouTube 5tvx10_vDzg /?></div>
+
+      <div class="video-responsive"><?# YouTube 7W7Twp6SOXU /?></div>
+
+      <div class="video-responsive"><?# YouTube Rc0eQ-B-tNQ /?></div>
+
+      <div class="video-responsive"><?# YouTube gdmFqT7Ezqw /?></div>
+  - order: 6
+    title: FLYER
+    body: |-
+      ![](/assets/amadeus-poster-low-res.jpg)
+
+      ![](/assets/amadeus-flyer-back-lo-res-.jpg)
+  - order: 7
+    title: TODAY IN HISTORY
+    body: <a data-flickr-embed="true"
+      href="https://www.flickr.com/photos/sedos/albums/72177720301337216"
+      title="Amadeus - Today in History"><img
+      src="https://live.staticflickr.com/65535/52288631532_8598a75aae_z.jpg"
+      width="800" height="600" alt="Amadeus - Today in History"></a><script
+      async src="//embedr.flickr.com/assets/client-code.js"
+      charset="utf-8"></script>
 metaTitle: Amadeus plays at the Bridewell Theatre from 23 November-3 December 2022
 metaDescription: Amadeus, part of Sedos’ 2022 London season, plays at the
   Bridewell Theatre from 23 November-3 December 2022. Genius, jealousy and
