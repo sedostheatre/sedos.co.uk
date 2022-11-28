@@ -122,6 +122,8 @@ sections:
     body: |-
       <div class="video-responsive"><?# YouTube 3AF-rc7Gacw /?></div>
 
+      <div class="video-responsive"><?# YouTube undefined /?></div>
+
       <div class="video-responsive"><?# YouTube qRtX4HB4eX0 /?></div>
 
       <div class="video-responsive"><?# YouTube eKNmuNVNH74 /?></div>
@@ -133,6 +135,10 @@ sections:
       <div class="video-responsive"><?# YouTube Rc0eQ-B-tNQ /?></div>
 
       <div class="video-responsive"><?# YouTube gdmFqT7Ezqw /?></div>
+
+      <div class="video-responsive"><?# YouTube fdMVIg328z4 /?></div>
+
+      <div class="video-responsive"><?# YouTube xPzR7Me8QJw /?></div>
   - order: 6
     title: FLYER
     body: |-
