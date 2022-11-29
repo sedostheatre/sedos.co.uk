@@ -13,7 +13,8 @@ RedirectFrom:
 
 ## *Amadeus*
 
-![Dress rehearsal image of Sedos’ production of Amadeus](/assets/dress15.jpg "Amadeus")
+^^^ ![Dress rehearsal image of Sedos’ production of Amadeus](/assets/dress15.jpg)
+^^^ Amadeus
 
 >Sedos is one of those theatre companies that never seem to disappoint and their current production of Amadeus, running at The Bridewell Theatre, is no exception. Sedos once again show their skill in taking a well-loved play and presenting it in an innovative and entertaining fashion.... Excellent production by the talented members of Sedos.
 ><footer><cite><a target="_blank" href="https://www.sardinesmagazine.co.uk/review/amadeus-2/">Amadeus, 2022, Sardines (*****)</a></cite></footer>
@@ -26,7 +27,8 @@ RedirectFrom:
 
 ## *Carrie: The Musical*
 
-![Dress rehearsal image of Sedos’ production of Carrie: The Musical](/assets/52454932043_a295b07e05_c.jpg "Carrie: The Musical")
+^^^ ![Dress rehearsal image of Sedos’ production of Carrie: The Musical](/assets/52454932043_a295b07e05_c.jpg)
+^^^ Carrie: The Musical
 
 >The displays of telekinesis in action are worth seeing, as are the prom costumes. This is amateur dramatics at its finest: forget backing tracks – Rob Archibald leads a seven-piece band – and it’s difficult to pick a stand-out performance in a cast so finely balanced. The shock horror factor may not be prevalent, but the portrayal of bullying, intimidation and a sense of not fitting in is more than sufficiently disconcerting. Not one for the fainthearted.
 ><footer><cite><a target="_blank" href="https://www.londontheatre1.com/reviews/carrie-the-musical-bridewell-theatre/">Carrie: The Musical, 2022, London Theatre 1 (****)</a></cite></footer>
