@@ -127,7 +127,7 @@ sections:
       play and presenting it in an innovative and entertaining fashion....
       Excellent production by the talented members of Sedos.
 
-      ><footer><cite><a target="_blank" href="https://www.sardinesmagazine.co.uk/review/amadeus-2/#.Y4AnsEnYWH8.twitter">Amadeus, 2022, Sardines (*****)</a></cite></footer>
+      ><footer><cite><a target="_blank" href="https://www.sardinesmagazine.co.uk/review/amadeus-2/">Amadeus, 2022, Sardines (*****)</a></cite></footer>
 
 
       >Chris de Pury gives a masterful and word-perfect performance
