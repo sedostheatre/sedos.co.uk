@@ -36,7 +36,7 @@ category: your-visit
                                         <div class="card-header">
                                             <h4 class="card-title">@yourVisitSection["title"]</h4>
                                         </div>
-                                        <img class="card-img-top" src="@Context.GetLink(yourVisitSection.Get<IDocument>("image"))">
+                                        <img class="card-img-top" src="@Context.GetLink(yourVisitSection.Get<IDocument>("image"))" alt="@yourVisitSection["title"]">
                                     </div>
                                 </a>
                             </div>
