@@ -23,7 +23,7 @@ jobs:
     - name: Build
       run: dotnet build /p:RestorePackagesWithLockFile=true
     - name: Run
-      run: dotnet run
+      run: dotnet run deploy
     - name: Node Install
       run: 'npm ci'
     - name: Lint Styles
