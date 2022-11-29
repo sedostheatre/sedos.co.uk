@@ -4,6 +4,7 @@
     ],
     "rules": {
         "void-style": "off",
-        "no-trailing-whitespace": "warn"
+        "no-trailing-whitespace": "warn",
+        "no-inline-style": "warn"
     }
 }
