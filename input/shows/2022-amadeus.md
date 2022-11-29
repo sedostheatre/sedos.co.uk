@@ -96,28 +96,7 @@ sections:
       <div class="video-responsive"><?# YouTube Jz039-6iUjQ /?></div>
 
       <div class="video-responsive"><?# YouTube Ovg_-Yb1DG4 /?></div>
-  - order: 4
-    title: REVIEWS
-    body: >-
-      >***** Sedos is one of those theatre companies that never seem to
-      disappoint and their current production of Amadeus, running at The
-      Bridewell Theatre, is no exception. Sedos once again show their skill in
-      taking a well-loved play and presenting it in an innovative and
-      entertaining fashion.... Excellent production by the talented members of
-      Sedos.
-
-      ><footer><cite><a target="_blank" href="Amadeus, 2022, HuSardines Magazine">https://www.sardinesmagazine.co.uk/review/amadeus-2/#.Y4AnsEnYWH8.twitter</a></cite></footer>
-
-
-      >**** Chris de Pury gives a masterful and word-perfect performance
-
-      ><footer><cite><a target="_blank" href="Amadeus, 2022, Spy in the Stalls ">https://thespyinthestalls.com/2022/11/amadeus/</a></cite></footer>
-
-
-      >This is an outstanding production by this super-talented company.... They certainly have nailed it. It was right every time. Exciting, intriguing, a snappy production with never a dull moment. Brilliant!
-
-      ><footer><cite><a target="_blank" href="https://hubpages.com/entertainment/Amadeus-A-Sedos-Production-at-the-Bridewell-Theatre-London">Amadeus, 2022, HubPages</a></cite></footer>
-  - order: 5
+  - order: 2
     title: VOX POPS
     body: |-
       <div class="video-responsive"><?# YouTube 3AF-rc7Gacw /?></div>
@@ -139,6 +118,26 @@ sections:
       <div class="video-responsive"><?# YouTube fdMVIg328z4 /?></div>
 
       <div class="video-responsive"><?# YouTube xPzR7Me8QJw /?></div>
+  - order: 5
+    title: REVIEWS
+    body: >-
+      >Sedos is one of those theatre companies that never seem to disappoint and
+      their current production of Amadeus, running at The Bridewell Theatre, is
+      no exception. Sedos once again show their skill in taking a well-loved
+      play and presenting it in an innovative and entertaining fashion....
+      Excellent production by the talented members of Sedos.
+
+      ><footer><cite><a target="_blank" href="https://www.sardinesmagazine.co.uk/review/amadeus-2/#.Y4AnsEnYWH8.twitter">Amadeus, 2022, Sardines (*****)</a></cite></footer>
+
+
+      >Chris de Pury gives a masterful and word-perfect performance
+
+      ><footer><cite><a target="_blank" href="https://thespyinthestalls.com/2022/11/amadeus/">Amadeus, 2022, The Spy in the Stalls (****)</a></cite></footer>
+
+
+      >This is an outstanding production by this super-talented company.... They certainly have nailed it. It was right every time. Exciting, intriguing, a snappy production with never a dull moment. Brilliant!
+
+      ><footer><cite><a target="_blank" href="https://hubpages.com/entertainment/Amadeus-A-Sedos-Production-at-the-Bridewell-Theatre-London">Amadeus, 2022, HubPages</a></cite></footer>
   - order: 6
     title: FLYER
     body: |-
