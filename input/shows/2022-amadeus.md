@@ -101,8 +101,6 @@ sections:
     body: |-
       <div class="video-responsive"><?# YouTube 3AF-rc7Gacw /?></div>
 
-      <div class="video-responsive"><?# YouTube undefined /?></div>
-
       <div class="video-responsive"><?# YouTube qRtX4HB4eX0 /?></div>
 
       <div class="video-responsive"><?# YouTube eKNmuNVNH74 /?></div>
