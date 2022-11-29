@@ -79,7 +79,7 @@ sections:
       width="640" height="480" alt="The Mystery of Edwin Drood -
       2022"></a><script async src="//embedr.flickr.com/assets/client-code.js"
       charset="utf-8"></script>
-metaTitle: The Mystery of Edwin Drood plays at the Bridewell Theatre from 22-26 March 2022
+metaTitle: The Mystery of Edwin Drood
 metaDescription: The Mystery of Edwin Drood, part of Sedos’ 2022 London season,
   plays at the Bridewell Theatre from 22-26 March 2022. The show is a hilarious
   musical whodunnit based on Charles Dickens’ unfinished novel
