@@ -23,5 +23,6 @@ Please wear something comfortable that allows you freedom of movement and shoes 
 
 Make sure you join the **[Sedance Facebook group](https://www.facebook.com/groups/328763023951811/)** to stay up-to-date! Just search “Sedance” on Facebook to find it. Feel free to email sedance@sedos.co.uk if you have any questions
 
-^^^ ![](/assets/48781085673_2a459c1bb7_c.jpg)
+^^^
+![](/assets/48781085673_2a459c1bb7_c.jpg)
 ^^^ Rehearsals for Sedos' 2019 original dance adaptation, Dangerous Liaisons

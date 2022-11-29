@@ -13,7 +13,8 @@ RedirectFrom:
 
 ## *Amadeus*
 
-^^^ ![Dress rehearsal image of Sedos’ production of Amadeus](/assets/dress15.jpg)
+^^^
+![Dress rehearsal image of Sedos’ production of Amadeus](/assets/dress15.jpg)
 ^^^ Amadeus
 
 >Sedos is one of those theatre companies that never seem to disappoint and their current production of Amadeus, running at The Bridewell Theatre, is no exception. Sedos once again show their skill in taking a well-loved play and presenting it in an innovative and entertaining fashion.... Excellent production by the talented members of Sedos.
@@ -27,13 +28,14 @@ RedirectFrom:
 
 ## *Carrie: The Musical*
 
-^^^ ![Dress rehearsal image of Sedos’ production of Carrie: The Musical](/assets/52454932043_a295b07e05_c.jpg)
+^^^
+![Dress rehearsal image of Sedos’ production of Carrie: The Musical](/assets/52454932043_a295b07e05_c.jpg)
 ^^^ Carrie: The Musical
 
 >The displays of telekinesis in action are worth seeing, as are the prom costumes. This is amateur dramatics at its finest: forget backing tracks – Rob Archibald leads a seven-piece band – and it’s difficult to pick a stand-out performance in a cast so finely balanced. The shock horror factor may not be prevalent, but the portrayal of bullying, intimidation and a sense of not fitting in is more than sufficiently disconcerting. Not one for the fainthearted.
 ><footer><cite><a target="_blank" href="https://www.londontheatre1.com/reviews/carrie-the-musical-bridewell-theatre/">Carrie: The Musical, 2022, London Theatre 1 (****)</a></cite></footer>
 
->There are clearly many technical elements needed for a show like Carrie in order to display her telekinesis and whilst I do not want to give any spoilers away Sedos interpretation of this was exceptional. It meant that Carrie’s moments where her telekinesis flared up were some of my highlights of the show. I must commend Chris Adams and Paul Brookland Williams (director and movement director) for the courage to take this route as well as Polly Hayes for her vital part in it. Other elements such as flashing lights and windows slamming shut were all well thought out and timed well to add to the suspense of the show. Once again Sedos have presented a rarely performed musical to a wider audience and judging from the sell out audiences I was not the only one excited by this. With a talented cast and a strong direction for the piece Sedos have once again presented a show that I would urge people to see….. if it wasn’t sold out already! 
+>There are clearly many technical elements needed for a show like Carrie in order to display her telekinesis and whilst I do not want to give any spoilers away Sedos interpretation of this was exceptional. It meant that Carrie’s moments where her telekinesis flared up were some of my highlights of the show. I must commend Chris Adams and Paul Brookland Williams (director and movement director) for the courage to take this route as well as Polly Hayes for her vital part in it. Other elements such as flashing lights and windows slamming shut were all well thought out and timed well to add to the suspense of the show. Once again Sedos have presented a rarely performed musical to a wider audience and judging from the sell out audiences I was not the only one excited by this. With a talented cast and a strong direction for the piece Sedos have once again presented a show that I would urge people to see….. if it wasn’t sold out already!
 ><footer><cite><a target="_blank" href="https://musicaltheatremusings.co.uk/carrie">Carrie: The Musical, 2022, Musical Theatre Musings</a></cite></footer>
 
 >Just as you think you’ve seen the very best Sedos has to offer they give us something even better. It’s a good musical but Sedos has turned it into something extraordinary. Brilliant! The audience were gripped from the opening moment to the final curtain calls.
@@ -44,18 +46,20 @@ RedirectFrom:
 
 ## *A Midsummer Night’s Dream*
 
-^^^ ![Dress rehearsal image from Sedos’ 2022 production of A Midsummer Night’s Dream](/assets/52431130992_682c829f21_c.jpg)
+^^^
+![Dress rehearsal image from Sedos’ 2022 production of A Midsummer Night’s Dream](/assets/52431130992_682c829f21_c.jpg)
 ^^^ A Midsummer Night’s Dream
 
->Every ingredient of the production… is of a high standard. A brave and exciting show!  
+>Every ingredient of the production… is of a high standard. A brave and exciting show!
 ><footer><cite><a target="_blank" href="https://www.sardinesmagazine.co.uk/review/a-midsummer-nights-dream-a-queer-retelling/">A Midsummer Night’s Dream, 2022, Sardines (****)</a></cite></footer>
 
->This show fits no boxes – because it doesn’t have to – and almost creates its own theatre category. The only worry I had about it was that it might push the boundaries too much and end up being almost a panto. Luckily, it stays away from that. I believe Shakespeare, who was a visionary himself, would approve of this type of variation of his drama. It’s just a wild, frivolous show! 
+>This show fits no boxes – because it doesn’t have to – and almost creates its own theatre category. The only worry I had about it was that it might push the boundaries too much and end up being almost a panto. Luckily, it stays away from that. I believe Shakespeare, who was a visionary himself, would approve of this type of variation of his drama. It’s just a wild, frivolous show!
 ><footer><cite><a target="_blank" href="https://westendevenings.co.uk/2022/09/16/midsummer-nights-dream-bridewell-theatre/">A Midsummer Night’s Dream, 2022, West End Evenings (*****)</a></cite></footer>
 
 ## *Love! Valour! Compassion!*
 
-^^^ ![Dress rehearsal image from Sedos’ 2022 production of Love! Valour! Compassion](/assets/292890466_10159658189728267_990029358114865450_n.jpeg)
+^^^
+![Dress rehearsal image from Sedos’ 2022 production of Love! Valour! Compassion](/assets/292890466_10159658189728267_990029358114865450_n.jpeg)
 ^^^ Love! Valour! Compassion!
 
 >It is a well-written piece that given everything the world has gone through in the last two years is very relevant and raises questions of worldwide healthcare priorities in relation to developing cures for pandemics. Sedos are to be congratulated for this production of Love! Valour! Compassion! which has been off the stage for way too long
@@ -63,7 +67,8 @@ RedirectFrom:
 
 ## *American Idiot*
 
-^^^ ![Dress rehearsal image from Sedos’ 2022 production of American Idiot](/assets/280252907_10159552835373267_4031461878592268506_n.jpeg)
+^^^
+![Dress rehearsal image from Sedos’ 2022 production of American Idiot](/assets/280252907_10159552835373267_4031461878592268506_n.jpeg)
 ^^^ American Idiot
 
 >This is not a show for the faint hearted but one that should be seen. If you want a show with poignant commentary on society in an unapologetic bold manner then American Idiot by Sedos will be the show you are looking for. With a cast that have stunning rock vocal abilities and a staging that completes the rock vibe, Sedos have once again delivered.
@@ -74,7 +79,8 @@ RedirectFrom:
 
 ## *The Mystery of Edwin Drood*
 
-^^^ ![Dress rehearsal image of Sedos’s 2022 production of The Mystery of Edwin Drood](/assets/51953767321_847a6c6949_c.jpg)
+^^^
+![Dress rehearsal image of Sedos’s 2022 production of The Mystery of Edwin Drood](/assets/51953767321_847a6c6949_c.jpg)
 ^^^ The Mystery of Edwin Drood
 
 >This marvellous production demonstrates beyond doubt that the depth of talent we have in London is astonishing. Sedos (the Stock Exchange Dramatic and Operatic Society, founded in 1905) have put together a show of West End quality. The self-confidence, versatility and sheer joy of performing shown by every cast member is inspiring and uplifting. With very limited resources they turn minuses into pluses, overcome every challenge with aplomb and deliver entertainment with an unmatched joie de vivre… It would be hard to improve on this. Catch it if you can.
@@ -85,13 +91,14 @@ RedirectFrom:
 
 ## *When the Rain Stops Falling*
 
-^^^ ![Dress rehearsal image of Sedos’ 2022 production of When the Rain Stops Falling](/assets/51897470424_dbf4c3c68a_knew.jpg)
+^^^
+![Dress rehearsal image of Sedos’ 2022 production of When the Rain Stops Falling](/assets/51897470424_dbf4c3c68a_knew.jpg)
 ^^^ When the Rain Stops Falling
 
 >Sedos have once again managed to gather a group of talented performers who embrace the challenges of this complex narrative where younger and older versions of the same character share the acting space… this is an ensemble piece, with all cast on stage at all times. Their seamless joining up of the scenes as they move through time and space is brilliantly executed and allows the audience to follow the complexity of the plot with ease… The multifunctional set with hanging window, large oval table and useful blocks either side of the stage, provide the perfect vehicle to allow the scenes to flow seamlessly between past and present. The beautifully choreographed opening when the cast move from the gallery, armed with umbrellas and coats that are deposited on a hat stand, the simplicity of the costumes which suit the period and keep the audience aware as the scenes move through time, all worked together to help create a show that totally engages the audience… It is the sound and lighting, however, that really draw together the different threads and keep us aware of the fact that this is a play whose themes resonate through the generations… Bovell’s play is not for the faint hearted and it is to the credit of the performers, director Helena Bumpus and assistant director, Lloyd Smith, that by the end of the production, as all the characters gather together, the loose ends have been woven in and we see the complete picture
 ><footer><cite><a target="_blank" href="https://www.sardinesmagazine.co.uk/review/when-the-rain-stops-falling/">When the Rain Stops Falling, 2022, Sardines (*****)</a></cite></footer>
 
->Sedos’ production does a wonderful job leading us through the puzzle, ensuring the experience treads the right line of mystery without confusion… Of particular note is the immense production value of this ‘amateur’ show. The borderless set supports well the fluidity of the piece as it drifts across time and space. The lighting is inventive and atmospheric, accenting the narrative structure with flickering lights as we cross a boundary into a different storyline and providing starry nights in the Australian outback. Music is used deftly throughout the piece, binding the different worlds with a perpetual stormy underscore and swelling cinematically at key moments. These all came together well to elevate the show into the relatively cavernous space at the Bridewell… this was a solid production of a challenging play. 
+>Sedos’ production does a wonderful job leading us through the puzzle, ensuring the experience treads the right line of mystery without confusion… Of particular note is the immense production value of this ‘amateur’ show. The borderless set supports well the fluidity of the piece as it drifts across time and space. The lighting is inventive and atmospheric, accenting the narrative structure with flickering lights as we cross a boundary into a different storyline and providing starry nights in the Australian outback. Music is used deftly throughout the piece, binding the different worlds with a perpetual stormy underscore and swelling cinematically at key moments. These all came together well to elevate the show into the relatively cavernous space at the Bridewell… this was a solid production of a challenging play.
 ><footer><cite><a target="_blank" href="https://everything-theatre.co.uk/2022/02/review-when-the-rain-stops-falling-bridewell-theatre.html">When the Rain Stops Falling, 2022, Everything Theatre</a></cite></footer>
 
 >Transitions between scenes, and discipline with regards to the movement of characters in and out of their parts is highly commendable, which is directed by Kimberly Barker, along with the lighting use that faultlessly works in conjunction with this. To imitate snow or stars, and with other appearances throughout, lighting designer, Olly Levett, does a lovely job with navigating these. The thunder and lightning that accompany the constant rainfall is a fitting addition too.
@@ -101,7 +108,8 @@ RedirectFrom:
 
 ## *Dirty Rotten Scoundrels*
 
-^^^ ![](/assets/51701944688_ec50b5fc1e_c.jpg)
+^^^
+![](/assets/51701944688_ec50b5fc1e_c.jpg)
 ^^^ Dirty Rotten Scoundrels
 
 >The production reaches the extremely high standard I have come to expect from Sedos with a cast of 20 and a 15-piece band really bringing the story out in fine style. There was a lovely chemistry between the leads which made their interactions feel natural and real… Sedos have been one of my favourite production companies for a long while and after the last months of lockdown and online material, it was wonderful to see them come back with a bang with this production. Director Zoë Thomas-Webb, Choreographers Jonathon Grant & Fiona McConachie along with Musical Director Chris Nelson, ensured everything ran smoothly and the highly energetic pace of the show was maintained throughout
@@ -115,7 +123,8 @@ RedirectFrom:
 
 ## *Working*
 
-^^^ ![](/assets/working.jpg)
+^^^
+![](/assets/working.jpg)
 ^^^ Working
 
 >Sedos, one of London’s best-loved community theatre companies, has given us numerous highly successful award-winning productions including "Pippin", "Urinetown" and "Earthquakes in London". This latest venture must surely be a powerful contender for further awards… I absolutely loved this show! It has everything you could wish for in a musical. Good stage direction combined with excellent vocals and great choreography make for an excellent production.A great evening out – another night to remember for all the very best reasons!
@@ -132,7 +141,8 @@ RedirectFrom:
 
 ## *Ophelia Thinks Harder*
 
-^^^ ![](/assets/51534883511_1022fe22eb_k.jpg)
+^^^
+![](/assets/51534883511_1022fe22eb_k.jpg)
 ^^^ Ophelia Thinks Harder
 
 >Ophelia Thinks Harder is the most grown up, clever – and very thoughtful – play I’ve seen in a long time. Full marks to Sedos for staging it with such aplomb – and under such difficult circumstances… The script is as good as anything by Stoppard.... A challengingly ambitious play for a non-professional company but this is Sedos...and it comes off very successfully.... Harding-Moore is a fine actor in a huge role who really makes you think about the plight of women at all points in history. And I’ve left Josh Beckman as Hamlet until last because he is outstanding… Definitely one to catch if you can.
@@ -148,7 +158,8 @@ RedirectFrom:
 
 ## *The Musical of Musicals (The Musical!)*
 
-^^^ ![](/assets/49584512558_d82c077fa4_c.jpg)
+^^^
+![](/assets/49584512558_d82c077fa4_c.jpg)
 ^^^ The Musical of Musicals (The Musical!)
 
 >On any level Sedos production of *The Musical of Musicals, The Musical* at the Bridewell, is a fantastic night out, whether you are a musical aficionado or just someone looking for an evening’s entertainment… Ultimately the strength of this show lies with the six cast members. Emma J Leaver, the director, has found performers with confidence in their own versatility, who really throw themselves into the range of styles and characterisation needed to play all these parts… This show is a great way to forget about storms, elections and coronavirus and just lose yourselves in the magic of the musicals on a wintery February evening.
@@ -167,7 +178,8 @@ RedirectFrom:
 
 ## *Ragtime*
 
-^^^ ![](/assets/49059373836_90a6c5fb2d_c.jpg)
+^^^
+![](/assets/49059373836_90a6c5fb2d_c.jpg)
 ^^^ Ragtime
 
 >Many groups would not be able to cast this show, let alone put it on stage, but Sedos can do so and with verve and invention in Matt Gould’s pacy and intelligent production, managing his cast of 32 well and ensuring that the complex storyline is at all times as clear as possible. MD Ryan Macaulay conducts an 18-piece orchestra and it is a delight to hear this score played so well and in these orchestrations. Choreography from Victoria Louise-Currie and Rachel Elfassy-Bitoun is nicely differentiated for the various groups and makes good use of the multi-layered set.
@@ -287,7 +299,8 @@ RedirectFrom:
 
 ## *Pippin*
 
-^^^ ![](/assets/41992373771_f06cfe1c8d_c.jpg)
+^^^
+![](/assets/41992373771_f06cfe1c8d_c.jpg)
 ^^^ Pippin
 
 >It’s 45 years since I saw *Pippin* in the West End, and while the themes are certainly still current, the style and the devices can feel a little dated. Chris Adams’ compelling production, especially at the end, cuts through the tricks and the whimsy to achieve a genuinely moving piece of drama.
@@ -372,7 +385,8 @@ RedirectFrom:
 
 ## *Frankenstein*
 
-^^^ ![](/assets/37705654016_b820d8a35e_c.jpg)
+^^^
+![](/assets/37705654016_b820d8a35e_c.jpg)
 ^^^ Frankenstein
 
 >Watching [Jonathon] Cooper’s character progression and journey throughout the whole show was, I felt, a master class in acting.
@@ -401,7 +415,8 @@ RedirectFrom:
 
 ## *Such Stuff As Dreams Are Made On*
 
-^^^ ![](/assets/26633088111_b3a35b54e9_c.jpg)
+^^^
+![](/assets/26633088111_b3a35b54e9_c.jpg)
 ^^^ Such Stuff As Dreams Are Made On
 
 >I would give the show as many stars as possible and think everyone in London should see this show… I encourage, urge and plead with you to go, because I guarantee you will not have seen anything like this before. Whoever is in charge of awards that the folks at Sedos would be eligible for, book your ticket now!
@@ -464,7 +479,8 @@ RedirectFrom:
 
 ## *Legally Blonde*
 
-^^^ ![](/assets/17317383118_0142e7a575_c.jpg)
+^^^
+![](/assets/17317383118_0142e7a575_c.jpg)
 ^^^ Legally Blonde
 
 >Sedos represents everything an amateur society should be and we can unanimously say this is the best amateur musical we have seen. Ever. (And we’ve seen rather a lot...).
@@ -480,7 +496,8 @@ RedirectFrom:
 >The whole production was visually stunning… Director Matt Gould gave us a production that had a good pace, plenty of humour, some original touches and a brooding sense of menace…Each actor gives an outstanding individual performance but the sense of the cast working as a team is never lost… truly impressive performances all round… Sedos certainly lived up to their premier status with a production that leads you on a fabulous journey down a twisted path to a breathtaking conclusion.
 ><footer><cite><a target="_blank" href="https://www.sardinesmagazine.co.uk/review/into-the-woods-2/">Into the Woods, 2014, Sardines Magazine</a></cite></footer>
 
-^^^ ![](/assets/13601504703_f940777794_c.jpg)
+^^^
+![](/assets/13601504703_f940777794_c.jpg)
 ^^^ Into the Woods
 
 >If Sedos has taught us one thing, a tall order is never impossible for them... Sedos has created here a hugely fun production, combining experienced directing (Matthew Gould), excellent musical direction (Ryan Macaulay) and fantastic casting... Like a fairy-tale playground in a deep dark forest, set designer Steven King’s creation was astounding. Along with production designer Rebecca Turner, costume designer Deborah Lean and the team that put everything together this production was nothing short of visually spectacular.
@@ -518,7 +535,8 @@ RedirectFrom:
 
 ## *Macbeth*
 
-^^^ ![](/assets/10556024264_8bbe512951_c.jpg)
+^^^
+![](/assets/10556024264_8bbe512951_c.jpg)
 ^^^ Macbeth
 
 >As soon as the play began the commitment of every actor hit you in the face with every inch of stage swarming with character, character that as the play progressed and actors doubled up on parts, was never lost. Every line, every performer… absolutely deserved their every moment and created a performance well beyond the level of the amateur theatre… So many performances stood out… All the costumes were beyond fantastic and Deborah Lean’s mixing of military, Scottish and the Elizabethan was seamlessly done, including the translation of set design to costume… Final praise, however, has to go to Chloë Faine’s directing. Also credited as designer, her vision is seamlessly woven through performance, costume, blocking, set design and everything else. This production was meticulously thought out, and it shows… Sedos has set theMacbethbar exceptionally high.
@@ -563,7 +581,8 @@ RedirectFrom:
 
 ## *Guys and Dolls*
 
-^^^ ![](/assets/8472503957_d261e79e00_c.jpg)
+^^^
+![](/assets/8472503957_d261e79e00_c.jpg)
 ^^^ Guys and Dolls
 
 >In the grand scheme of amateur, fringe and professional musicals, this cast perform to the absolute max with passion and humour throughout. Moreover, everyone looks like they’re having a great time doing it. London audiences should take notice of Sedos, as its creatives are clearly more than capable of giving their professional neighbours a run for their money.
@@ -620,7 +639,8 @@ RedirectFrom:
 
 ## *A Little Night Music*
 
-^^^ ![](/assets/6898876725_1108119837_o.jpg)
+^^^
+![](/assets/6898876725_1108119837_o.jpg)
 ^^^ A Little Night Music
 
 >[Sedos] should be credited as one of the premier [amateur] companies in the country, as their track record for staging professional-standard shows proves… it was a genius stroke by co-directors Roger Harwood and Dawn Harrison-Wallace to stage the entire show as a flashback… the casting was difficult to fault… [the cast] all did a great job of bringing the show to life… top marks must go to the costume team for their fantastic work… [musical director] David Griffiths and his musicians gave a performance grander than many of those you'd hear in West End theatres… Congratulations again to Sedos for another great production…
@@ -680,7 +700,8 @@ RedirectFrom:
 
 ## *Parade*
 
-^^^ ![](/assets/4842714345_743f8f6805_c.jpg)
+^^^
+![](/assets/4842714345_743f8f6805_c.jpg)
 ^^^ Parade
 
 > This production boasts a cast who are able to hold together a stirling ensemble and a rapturous vocal performance.... the vocalists of Sedos are easily able to match the force and accuracy of any West End ensemble, and with rousing flair.... A wonderful set of costumes are atmospherically lit by fiercely stark beams and the band is simply superb.

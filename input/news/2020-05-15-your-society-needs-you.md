@@ -3,8 +3,9 @@ title: " Your society needs you!"
 date: 2020-04-02T00:00:00.000Z
 image: /assets/sedos-members.jpg
 ---
-^^^ ![](/assets/aboutus-trustees-19-20.jpg)
-^^^ 
+^^^
+![](/assets/aboutus-trustees-19-20.jpg)
+^^^
 
 **At the forthcoming AGM on Thursday 4 June 2020, there will be a number of vacancies on the Sedos board of trustees and also on the management committee.**
 

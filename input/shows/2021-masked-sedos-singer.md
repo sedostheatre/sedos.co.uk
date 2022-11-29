@@ -99,5 +99,6 @@ There will be two heats on Tuesday 16 and Wednesday 17 February leading up to a 
 
 Ultimately, it's the audience's decision who makes it through to the final – and who is crowned the winner – so get ready to vote for your favourite.
 
-^^^ ![](/assets/judgeshost3.jpg)
+^^^
+![](/assets/judgeshost3.jpg)
 ^^^

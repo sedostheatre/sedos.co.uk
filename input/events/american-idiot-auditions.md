@@ -18,7 +18,7 @@ An energy-fuelled rock opera, *American Idiot*, features little dialogue and ins
 
 ##### **AUDITIONS & AUDITION WORKSHOP**
 
-Two in-person audition workshops will be available on 11 December. Attendance at the workshop is optional and will not impact casting decisions. If you are planning on attending the workshop you must sign up at [https://membership.sedos.co.uk/signup/94](https://membership.sedos.co.uk/signup/94) as we have limited capacity. You'll get the chance to meet the team, learn the audition dance and sing through something from the show. 
+Two in-person audition workshops will be available on 11 December. Attendance at the workshop is optional and will not impact casting decisions. If you are planning on attending the workshop you must sign up at [https://membership.sedos.co.uk/signup/94](https://membership.sedos.co.uk/signup/94) as we have limited capacity. You'll get the chance to meet the team, learn the audition dance and sing through something from the show.
 
 In person auditions will be held on 12th January (evening) and 15 & 16 January (daytime). Recalls will be held on 22 January (daytime). Slots can be booked for auditions here: [https://membership.sedos.co.uk/signup/93](https://membership.sedos.co.uk/signup/93).
 
@@ -41,5 +41,6 @@ Performances take place at the Bridewell Theatre, Bride Lane, EC4Y 8EQ
 
 Sedos seeks to build and sustain a membership that is reflective of the diverse communities within London. We actively encourage performers to audition for the roles which they feel best suit their skills. Please check the casting breakdown for any specific requirements.
 
-^^^ ![](/assets/americanidiot_full_4c.png)
+^^^
+![](/assets/americanidiot_full_4c.png)
 ^^^

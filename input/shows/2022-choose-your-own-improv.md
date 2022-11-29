@@ -48,5 +48,6 @@ Tickets to laugh-a-long with the Banana Hut Gang are £8 full price and £6 for 
 
 [Book now](https://sedos.ticketsolve.com).
 
-^^^ ![](/assets/banana-hut-gang.png)
+^^^
+![](/assets/banana-hut-gang.png)
 ^^^

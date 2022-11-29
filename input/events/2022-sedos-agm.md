@@ -9,12 +9,13 @@ metaTitle: "2022 Sedos AGM: when and where plus advance documents"
 metaDescription: The 2022 Sedos AGM will take place on 9 June. It’s your chance
   to hear how the society is performing
 ---
-^^^ ![New Sedos trustees will be confirmed at the 2022 Sedos AGM ](/assets/aboutus-trustees-19-20.jpg)
-^^^ 
+^^^
+![New Sedos trustees will be confirmed at the 2022 Sedos AGM ](/assets/aboutus-trustees-19-20.jpg)
+^^^
 
-**The Sedos Annual General Meeting will take place on Thursday 9 June from 7-8pm in the Passmore Edwards room at the St Bride Foundation, 14 Bride Lane, Fleet Street, EC4Y 8EQ.** 
+**The Sedos Annual General Meeting will take place on Thursday 9 June from 7-8pm in the Passmore Edwards room at the St Bride Foundation, 14 Bride Lane, Fleet Street, EC4Y 8EQ.**
 
-In advance of the meeting, you will find the following documents in [this folder](https://drive.google.com/drive/u/2/folders/1a20Nx5FurDh1RhyY_XofBkbKaWSwfhtx?mc_cid=9114d1fda6&mc_eid=UNIQID): 
+In advance of the meeting, you will find the following documents in [this folder](https://drive.google.com/drive/u/2/folders/1a20Nx5FurDh1RhyY_XofBkbKaWSwfhtx?mc_cid=9114d1fda6&mc_eid=UNIQID):
 
 * Agenda
 * Annual report

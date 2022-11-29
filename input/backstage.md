@@ -11,5 +11,6 @@ Some backstage roles require previous experience or certain skills, but lots of 
 
 For more information contact: backstage@sedos.co.uk
 
-^^^ ![](/assets/8119013834_92dfdaa97c_c.jpg) 
+^^^
+![](/assets/8119013834_92dfdaa97c_c.jpg)
 ^^^ The set for Garden, from Sedos' 2012 production of House/Garden

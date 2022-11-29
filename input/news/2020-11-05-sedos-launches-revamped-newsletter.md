@@ -15,5 +15,6 @@ If you'd like to receive the newsletter and hear about all our auditions, events
 
 Do you have feedback on the newsletter? Let us know your thoughts by emailing [marketing@sedos.co.uk](mailto:marketing@sedos.co.uk)
 
-^^^ ![](/assets/newsletter.jpg)
+^^^
+![](/assets/newsletter.jpg)
 ^^^

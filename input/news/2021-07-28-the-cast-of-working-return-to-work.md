@@ -14,5 +14,6 @@ Sabrina Edwards and Georgia Blessitt join Adrian Hau, Jack Brown, Kate Gledhill,
 *Working* will be performed at the Bridewell from 26-30 October 2021. Tickets on sale now via the **[Sedos box office](https://sedos.ticketsolve.com)**.
 
 
-^^^ ![](/assets/working-skyline.jpg)
+^^^
+![](/assets/working-skyline.jpg)
 ^^^

@@ -11,5 +11,6 @@ We started the week with our Acting Group; giggled with our improv troupe the Ba
 
 Look out for some exciting news next week about more activities to get involved with.
 
-^^^ ![](/assets/membersweekjuly2021montage-800.jpg)
+^^^
+![](/assets/membersweekjuly2021montage-800.jpg)
 ^^^

@@ -17,5 +17,6 @@ Alternatively, grab a drink and catch-up with friends while listening to some gr
 
 The Piano Night Social is free to attend, but please register on our box office so we know how many people to expect!
 
-^^^ ![](/assets/SedosWebsite-Banner-sechoir.jpg)
+^^^
+![](/assets/SedosWebsite-Banner-sechoir.jpg)
 ^^^

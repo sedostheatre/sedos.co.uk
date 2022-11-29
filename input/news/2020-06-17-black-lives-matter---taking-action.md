@@ -85,5 +85,6 @@ We want to get better at representing and supporting all of the black, Asian and
 
 We’ve come a long way since 1905 but I’m confident that we can continue to learn and grow.”
 
-^^^ ![](/assets/blacklivesmatter-small.jpg)
+^^^
+![](/assets/blacklivesmatter-small.jpg)
 ^^^

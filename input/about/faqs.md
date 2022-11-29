@@ -41,7 +41,7 @@ See below for benefits of membership.
 
 All cast members also pay a participation fee of £30 for a play or £40 for a musical.
 
-We would always be open to a discussion with anyone who found our membership or participation fees a barrier to taking part. 
+We would always be open to a discussion with anyone who found our membership or participation fees a barrier to taking part.
 
 **What ability / experience is needed?**
 
@@ -115,5 +115,6 @@ Yes! Sedos is a founder member of [London Drama Societies](https://www.londondra
 
 “We will identify and remove barriers to create a safe and inclusive environment. We want everyone to feel empowered to participate, on stage or off. We want stories to be told authentically.”
 
-^^^ ![Sedos' 2017 production of Priscilla Queen of the Desert: The Musical](/assets/39596528731_3d13b47b95_c.jpg)
+^^^
+![Sedos' 2017 production of Priscilla Queen of the Desert: The Musical](/assets/39596528731_3d13b47b95_c.jpg)
 ^^^ Sedos' 2017 production of Priscilla Queen of the Desert: The Musical

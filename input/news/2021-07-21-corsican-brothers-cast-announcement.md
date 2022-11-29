@@ -11,7 +11,7 @@ Dion Bouccicault's *The Corsican Brothers,* one of Queen Victoria's favourite pl
 
 It’s free for friends and family to attend, though audiences do need to register via our box office, **<https://sedos.ticketsolve.com>**. The running time is approximately 60 minutes.
 
-*Play in a Day: The Corsican Brothers* is part of our ***[Welcome Back Members' Week](https://sedos.co.uk/shows/2021-welcome-back-members-week)*** celebrations. Find out more. 
+*Play in a Day: The Corsican Brothers* is part of our ***[Welcome Back Members' Week](https://sedos.co.uk/shows/2021-welcome-back-members-week)*** celebrations. Find out more.
 
 **FABIEN and LOUIS DEI FRANCHI** | Paul Matania\
 **M. DE CHATEAU RENAUD** | Peter Cabrera\
@@ -33,5 +33,6 @@ It’s free for friends and family to attend, though audiences do need to regist
 **SURGEON** | Tim Perkin
 **BOISSEC** | Morgane Lafrance
 
-^^^ ![](/assets/corsican-brothers-poster.jpg)
+^^^
+![](/assets/corsican-brothers-poster.jpg)
 ^^^

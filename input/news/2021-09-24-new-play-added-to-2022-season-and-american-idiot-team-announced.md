@@ -5,8 +5,9 @@ image: /assets/americanidiot2.jpg
 ---
 *24 September 2021*
 
-^^^ ![](/assets/when-the-rain-stops-falling-1-.jpg)
-^^^ 
+^^^
+![](/assets/when-the-rain-stops-falling-1-.jpg)
+^^^
 
 **NEW PLAY ADDED TO 2022 SEASON**
 
@@ -24,7 +25,7 @@ In-person auditions will be held on Saturday 23 Oct and Monday 25 October (video
 
 **AMERICAN IDIOT PRODUCTION TEAM ANNOUNCED**
 
-We’re delighted to announce the creative team for Green Day's *[American Idiot](https://sedos.co.uk/shows/2022-american-idiot)*, which we’re performing in May 2022. The energy-fuelled rock opera will be directed by Matt Bentley with Musical Direction by Oscar Denihan. 
+We’re delighted to announce the creative team for Green Day's *[American Idiot](https://sedos.co.uk/shows/2022-american-idiot)*, which we’re performing in May 2022. The energy-fuelled rock opera will be directed by Matt Bentley with Musical Direction by Oscar Denihan.
 
 The Creative Producers are Adam Coppard and Oliver Levett. The production team are looking for a Choreographer to join them. Interested? Email [idiot@sedos.co.uk](mailto:idiot@sedos.co.uk).
 

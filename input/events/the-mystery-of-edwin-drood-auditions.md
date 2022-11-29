@@ -4,20 +4,21 @@ times:
   - time: 2022-01-28 17:00
 image: /assets/droodrectangle.jpg
 ---
-^^^ ![](/assets/droodrectangle.jpg)
-^^^ 
+^^^
+![](/assets/droodrectangle.jpg)
+^^^
 
 #### **TWO ENSEMBLE MEMBERS NEEDED**
 
-Due to a change in circumstances, Sedos are looking for two additional ensemble members (one male, one female) to join the cast of *The Mystery of Edwin Drood*. 
+Due to a change in circumstances, Sedos are looking for two additional ensemble members (one male, one female) to join the cast of *The Mystery of Edwin Drood*.
 
-If you previously auditioned for the show and would like to be considered again, please email to let us know. Otherwise, we welcome keen singers and dancers to submit a video of ‘Never The Luck’ (male) or ‘Moonfall’ (female) to [edwin.drood@sedos.co.uk](mailto:edwin.drood@sedos.co.uk) by **5pm on Friday 28 January**. 
+If you previously auditioned for the show and would like to be considered again, please email to let us know. Otherwise, we welcome keen singers and dancers to submit a video of ‘Never The Luck’ (male) or ‘Moonfall’ (female) to [edwin.drood@sedos.co.uk](mailto:edwin.drood@sedos.co.uk) by **5pm on Friday 28 January**.
 
 A backing track can be found at: [](https://drive.google.com/drive/folders/1_lsb7IC08KOVMxRQv9DYEP8ELz9aomcb?usp=sharing)<https://drive.google.com/drive/folders/1_lsb7IC08KOVMxRQv9DYEP8ELz9aomcb>
 
 #### **ABOUT THE SHOW**
 
-*[The Mystery of Edwin Drood](https://sedos.co.uk/shows/2022-the-mystery-of-edwin-drood)* is a hilarious musical whodunit loosely based on Charles Dickens’ famous unfinished novel. 
+*[The Mystery of Edwin Drood](https://sedos.co.uk/shows/2022-the-mystery-of-edwin-drood)* is a hilarious musical whodunit loosely based on Charles Dickens’ famous unfinished novel.
 
 This wildly warm-hearted theatrical experience kicks off when the Music Hall Royale (a hilariously raucous Victorian musical troupe) “puts on” its flamboyant rendition of an unfinished Dickens mystery. This framing of the show allows for much more comedy and melodrama than if the original text were played straight.
 

@@ -16,5 +16,6 @@ Please fill in either or both of the forms linked below.
 * Masked Sedos Singer Season 2 [singer expression of interest](https://docs.google.com/forms/d/1ss4IFCQbuj0Zh_Q3HldjQrpIR6JYwCR-MxJNBAhuX8g/viewform?ts=603bcbb9&gxids=7628&edit_requested=true)
 * Masked Sedos Singer [audience survey](https://docs.google.com/forms/d/1WRyUZNt8QMfNYPjjYhVe1K4nnGXp2EjleV9UMB35G-k/viewform?edit_requested=true&gxids=7628)
 
-^^^ ![](/assets/sedosmaskedsinger-season2-landscape.jpg)
+^^^
+![](/assets/sedosmaskedsinger-season2-landscape.jpg)
 ^^^

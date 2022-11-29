@@ -18,11 +18,11 @@ Our [London auditions](https://sedos.co.uk/get-involved) are free for members an
 
 **Backstage and production**
 
-We always strive for a professional standard, both on stage and behind. Sedos offers the chance to broaden your skills in lighting, sound design, set design, marketing, costumes, crewing and a host of other non-performance skill. [Find out more about getting involved backstage.](https://sedos.co.uk/backstage) 
+We always strive for a professional standard, both on stage and behind. Sedos offers the chance to broaden your skills in lighting, sound design, set design, marketing, costumes, crewing and a host of other non-performance skill. [Find out more about getting involved backstage.](https://sedos.co.uk/backstage)
 
 **Socials**
 
-We put together regular and varied social events for our members, from play-readings to pub quizzes and karaoke nights. [Information about our socials is posted here.](https://sedos.co.uk/get-involved) 
+We put together regular and varied social events for our members, from play-readings to pub quizzes and karaoke nights. [Information about our socials is posted here.](https://sedos.co.uk/get-involved)
 
 **Workshops**
 
@@ -46,7 +46,7 @@ In addition, members have the right to stand for election to the trustees and ma
 
 **Membership fees**
 
-Membership fees are £30 a year if a recurring payment is setup, £35 otherwise. We would always be open to a discussion with anyone who found our membership fee a barrier to participation. 
+Membership fees are £30 a year if a recurring payment is setup, £35 otherwise. We would always be open to a discussion with anyone who found our membership fee a barrier to participation.
 
 **Sedos Membership application**
 
@@ -62,5 +62,6 @@ Plus, don’t forget to follow us on social media:
 * [twitter.com/sedos](https://twitter.com/sedos)
 * [instagram.com/sedoslondon](https://www.instagram.com/sedoslondon/)
 
-^^^ ![Sedos’ 2019 production of Ragtime](/assets/49121272153_64e8315ba0_k.jpg)
+^^^
+![Sedos’ 2019 production of Ragtime](/assets/49121272153_64e8315ba0_k.jpg)
 ^^^ Sedos’ 2019 production of Ragtime

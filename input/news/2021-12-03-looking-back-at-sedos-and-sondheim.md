@@ -7,7 +7,7 @@ image: /assets/6898848545_d6498ab5b3_o.jpg
 
 **Following [the death of Stephen Sondheim last Friday](https://www.bbc.co.uk/news/entertainment-arts-59440642) (26 November), we decided to take a look back at Sedos’ relationship with the legendary composer.**
 
-Sedos has staged eight productions of Sondheim musicals, making him our most performed author. 
+Sedos has staged eight productions of Sondheim musicals, making him our most performed author.
 
 Our previous Sondheim shows are:
 
@@ -21,8 +21,10 @@ Our previous Sondheim shows are:
 
 In the programme for our 2014 production of *Into the Woods*, we ran a two-page feature celebrating Sedos’ previous Sondheim shows. We have dug it out of the archives for you to enjoy again here…
 
-^^^ ![](/assets/sondheim1.png)
-^^^ 
+^^^
+![](/assets/sondheim1.png)
+^^^
 
-^^^ ![](/assets/sondheim2.png)
+^^^
+![](/assets/sondheim2.png)
 ^^^

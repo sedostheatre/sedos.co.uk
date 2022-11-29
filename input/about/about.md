@@ -15,7 +15,7 @@ Sedos is an amateur company, but we strive for professional standards in both pe
 
 In addition, we do everything in our power to ensure everyone involved in our shows, on stage and backstage, enjoys themselves and has a good experience – we are all volunteers, after all.
 
-All our [London auditions](https://sedos.co.uk/get-involved) are open to everyone, members and non-members, and are free to attend. 
+All our [London auditions](https://sedos.co.uk/get-involved) are open to everyone, members and non-members, and are free to attend.
 
 Sedos is a founder member of [London Drama Societies](https://www.londondramasocieties.co.uk), which commits each member society to the following statement:
 
@@ -23,11 +23,11 @@ Sedos is a founder member of [London Drama Societies](https://www.londondramaso
 
 “We will identify and remove barriers to create a safe and inclusive environment. We want everyone to feel empowered to participate, on stage or off. We want stories to be told authentically.”
 
-Sedos is a registered charity (no. 1173896) with elected trustees and members of a management committee. Find out more about [how Sedos operates and who currently serves on the trustees and management committee.](https://sedos.co.uk/about/how-we-operate) 
+Sedos is a registered charity (no. 1173896) with elected trustees and members of a management committee. Find out more about [how Sedos operates and who currently serves on the trustees and management committee.](https://sedos.co.uk/about/how-we-operate)
 
 ### A potted history of Sedos
 
-Sedos stands for the Stock Exchange Dramatic and Operatic Society. The society was founded in 1905 by senior members of the stock exchange, but the membership now includes an eclectic mix from all over London. 
+Sedos stands for the Stock Exchange Dramatic and Operatic Society. The society was founded in 1905 by senior members of the stock exchange, but the membership now includes an eclectic mix from all over London.
 
 The senior members of the stock exchange who founded Sedos in 1905 were led by Charles Dickinson and Cyril Bathurst. Their principal aims were twofold:
 
@@ -42,5 +42,6 @@ More recently television luminaries such as [Nicholas Parsons](https://en.wikipe
 
 **If you want to find out more about Sedos, please email** [membership@sedos.co.uk](mailto:membership@sedos.co.uk) **for more details, and our membership secretary will be happy to get back to you!**
 
-^^^ ![Sedos' 2019 production of A Swell Party at the Minack Theatre](/assets/48114677321_bd0b9e8b25_c.jpg)
+^^^
+![Sedos' 2019 production of A Swell Party at the Minack Theatre](/assets/48114677321_bd0b9e8b25_c.jpg)
 ^^^ Sedos' 2019 production of A Swell Party at the Minack Theatre

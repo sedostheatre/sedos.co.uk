@@ -10,11 +10,11 @@ metaTitle: "London dance class: Sedance is a Monday evening class "
 metaDescription: Sedance is a London dance class held on a Monday evening and
   run by theatre company Sedos
 ---
-**SEDANCE IS CURRENTLY ON A BREAK – CLASSES RETURN ON MONDAY EVENINGS FROM 12 SEPTEMBER.** 
+**SEDANCE IS CURRENTLY ON A BREAK – CLASSES RETURN ON MONDAY EVENINGS FROM 12 SEPTEMBER.**
 
-**Sedance is Sedos’ London dance class, running every Monday night at 7.15pm.** 
+**Sedance is Sedos’ London dance class, running every Monday night at 7.15pm.**
 
-Classes take place at Central School of Ballet, 21-22 Hatfields, Paris Garden, London, SE1 8DJ 
+Classes take place at Central School of Ballet, 21-22 Hatfields, Paris Garden, London, SE1 8DJ
 
 The class is in the “Weston” studio on level minus 2. Access to the changing rooms on level minus 1 is possible before class so you can be ready to go at 7.15pm.
 
@@ -34,7 +34,7 @@ Make sure you join the Facebook group to stay up-to-date! Just search “Sedance
 
 PRICES (card and contactless payments only):
 
-You can either pay a drop-in price each week or pay for a block of classes in advance, which works out cheaper. 
+You can either pay a drop-in price each week or pay for a block of classes in advance, which works out cheaper.
 
 **Sedos members**
 
@@ -54,5 +54,6 @@ Drop-in price - £8 per class
 
 *We look forward to seeing you there!*
 
-^^^ ![Rehearsals for Sedos’ 2019 original dance adaptation, Dangerous Liaisons, which featured many regulars from Sedance, Sedos’ London dance class](/assets/48781085673_2a459c1bb7_c.jpg)
+^^^
+![Rehearsals for Sedos’ 2019 original dance adaptation, Dangerous Liaisons, which featured many regulars from Sedance, Sedos’ London dance class](/assets/48781085673_2a459c1bb7_c.jpg)
 ^^^ Rehearsals for Sedos’ 2019 original dance adaptation, Dangerous Liaisons

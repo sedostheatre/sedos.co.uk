@@ -31,5 +31,6 @@ Audience can watch this fast-paced ensemble show FREE at 7.30pm on Saturday 25 S
 
 It’s free for friends and family to attend, though audiences do need to register via our box office, <https://sedos.ticketsolve.com> (opening soon). The running time is approximately 45 minutes with no interval.
 
-^^^ ![](/assets/dna_poster_landscape.jpg)
+^^^
+![](/assets/dna_poster_landscape.jpg)
 ^^^

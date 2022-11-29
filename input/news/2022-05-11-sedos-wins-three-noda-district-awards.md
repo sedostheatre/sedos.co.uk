@@ -9,10 +9,11 @@ metaDescription: In the latest Sedos NODA Awards news, Sedos has won three
 ---
 *11 May 2022*
 
-**Sedos has won three NODA (National Operatic and Dramatic Association) District Awards and two of our programmes have been shortlisted for a programme award.** 
+**Sedos has won three NODA (National Operatic and Dramatic Association) District Awards and two of our programmes have been shortlisted for a programme award.**
 
-^^^ ![Sedos NODA Awards: four of our shows are recognised in the latest awards](/assets/nodaawardsmay2022.jpg)
-^^^ 
+^^^
+![Sedos NODA Awards: four of our shows are recognised in the latest awards](/assets/nodaawardsmay2022.jpg)
+^^^
 
 Our winners are:
 
@@ -31,14 +32,18 @@ The programme awards cover the period from 1 January 2020 to 31 December 2021.
 
 Huge congratulations to all our winners. [You can see all the winners here.](https://www.noda.org.uk/regions/london/noda-london-district-winners-list-2022?fbclid=IwAR0WIPQuhK82K7wgVHr8fez6-b0DDmxnKwFJNu0i6bOKurtnU_pq7FuxE7o)
 
-^^^ ![Sedos NODA Awards: When the Rain Stops Falling takes the best drama prize in district 1](/assets/when-the-rain.png)
-^^^ 
+^^^
+![Sedos NODA Awards: When the Rain Stops Falling takes the best drama prize in district 1](/assets/when-the-rain.png)
+^^^
 
-^^^ ![Sedos NODA Awards: Sam Barnes takes the best male in a play award in district 1](/assets/sam.png)
-^^^ 
+^^^
+![Sedos NODA Awards: Sam Barnes takes the best male in a play award in district 1](/assets/sam.png)
+^^^
 
-^^^ ![Sedos NODA Awards: Kate Gledhill takes the comedy award in district 1](/assets/kate.png)
-^^^ 
+^^^
+![Sedos NODA Awards: Kate Gledhill takes the comedy award in district 1](/assets/kate.png)
+^^^
 
-^^^ ![Sedos NODA Awards: our shortlisted programmes](/assets/programme.png)
+^^^
+![Sedos NODA Awards: our shortlisted programmes](/assets/programme.png)
 ^^^
