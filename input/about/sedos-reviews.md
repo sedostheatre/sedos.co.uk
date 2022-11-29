@@ -11,6 +11,19 @@ RedirectFrom:
 
 # 2022
 
+## *Amadeus*
+
+![Dress rehearsal image of Sedos’ production of Amadeus](/assets/dress15.jpg "Amadeus")
+
+>Sedos is one of those theatre companies that never seem to disappoint and their current production of Amadeus, running at The Bridewell Theatre, is no exception. Sedos once again show their skill in taking a well-loved play and presenting it in an innovative and entertaining fashion.... Excellent production by the talented members of Sedos.
+><footer><cite><a target="_blank" href="https://www.sardinesmagazine.co.uk/review/amadeus-2/">Amadeus, 2022, Sardines (*****)</a></cite></footer>
+
+>Chris de Pury gives a masterful and word-perfect performance
+><footer><cite><a target="_blank" href="https://thespyinthestalls.com/2022/11/amadeus/">Amadeus, 2022, The Spy in the Stalls (****)</a></cite></footer>
+
+>This is an outstanding production by this super-talented company.... They certainly have nailed it. It was right every time. Exciting, intriguing, a snappy production with never a dull moment. Brilliant!
+><footer><cite><a target="_blank" href="https://hubpages.com/entertainment/Amadeus-A-Sedos-Production-at-the-Bridewell-Theatre-London">Amadeus, 2022, HubPages</a></cite></footer>
+
 ## *Carrie: The Musical*
 
 ![Dress rehearsal image of Sedos’ production of Carrie: The Musical](/assets/52454932043_a295b07e05_c.jpg "Carrie: The Musical")
