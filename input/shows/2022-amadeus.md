@@ -138,7 +138,9 @@ sections:
       ><footer><cite><a target="_blank" href="https://hubpages.com/entertainment/Amadeus-A-Sedos-Production-at-the-Bridewell-Theatre-London">HubPages</a></cite></footer>
 
 
-      > Impressively large-scale production...with outstanding performances by the lead actors
+      > >Impressively large-scale production...with outstanding performances
+
+      > ><footer><cite><a target="_blank" href="https://westendevenings.co.uk/2022/11/28/amadeus-bridewell-theatre-sedos-review/">West End Evenings</a></cite></footer>
   - order: 6
     title: FLYER
     body: |-
