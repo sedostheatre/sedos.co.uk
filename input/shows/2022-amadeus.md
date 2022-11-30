@@ -135,7 +135,13 @@ sections:
 
       >This is an outstanding production by this super-talented company.... They certainly have nailed it. It was right every time. Exciting, intriguing, a snappy production with never a dull moment. Brilliant!
 
-      ><footer><cite><a target="_blank" href="https://hubpages.com/entertainment/Amadeus-A-Sedos-Production-at-the-Bridewell-Theatre-London">Amadeus, 2022, HubPages</a></cite></footer>
+      ><footer><cite><a target="_blank" href="https://hubpages.com/entertainment/Amadeus-A-Sedos-Production-at-the-Bridewell-Theatre-London">HubPages</a></cite></footer>
+
+
+      >Impressively large-scale production...with outstanding performances by the lead actors
+
+
+      ><footer><cite><a target="_blank" href="o">Amadeus, 2022, West End Evenings</a></cite></footer>
   - order: 6
     title: FLYER
     body: |-
