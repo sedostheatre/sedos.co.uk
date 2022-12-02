@@ -8,7 +8,7 @@ metaTitle: London Acting Group with Sedos
 metaDescription: The London Acting Group run by Sedos meets on the first
   Wednesday of every month. Find out how to sign up
 ---
-**The London Acting Group run by Sedos takes place on the first Wednesday of every month, re-starting from Wednesday 4 May 2022.**
+**The London Acting Group run by Sedos takes place on the first Wednesday of every month.**
 
 Sessions take place at Theatre Deli Leadenhall Studios, 107 Leadenhall Street, London EC3A 4AF from 7-9pm.
 
