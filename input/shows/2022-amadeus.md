@@ -61,27 +61,31 @@ sections:
 
       **PRODUCER** | Pippa Kyle\
 
-      **ASSISTANT DIRECTOR** | Dan Edge\
+      **SET DESIGNER** | Steven King\
 
       **LIGHTING DESIGNER** | Olly Levett\
 
       **SOUND DESIGNER** | Adrian Jeakins\
 
-      **SET DESIGNER AND BUILDER** | Steven King\
-
       **COSTUME DESIGNER** | Callum Anderson\
 
-      **HAIR AND MAKE-UP** | Jobina Hardy\
+      **HAIR AND MAKE-UP DESIGNER** | Jobina Hardy\
+
+      **ASSISTANT DIRECTOR** | Dan Edge\
 
       **STAGE MANAGER** | Andrew Laidlaw\
 
       **PROPS** | Shiri Stern\
 
-      **OPERA CONSULTANT** | Charlotte Richardson\
+      **HAIR ASSISTANT** | Candice Zen\
 
       **MARKETING** | Stephen Beeny\
 
-      **PHOTOGRAPHER** | David Ovenden
+      **PHOTOGRAPHER** | David Ovenden\
+
+      **FLYER ARTWORK** | Gill Daniell\
+
+      **COMMITTEE LIAISON and TECHNICAL ASSISTANCE** | Adam Coppard
   - order: 2
     title: GALLERY
     body: <a data-flickr-embed="true"
