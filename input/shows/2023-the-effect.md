@@ -22,6 +22,15 @@ box-office-link: https://sedos.ticketsolve.com/ticketbooth/shows/1173635529
 sections:
   - order: 1
     body: |-
+      **C﻿AST**
+
+      **CONNIE**  |  Ellie McWilliam\
+      **TRISTAN**  |  Joel Arnold\
+      **LORNA**  |  Jessica Dawes\
+      **TOBY**  |  Daniel Saunders\
+      **NURSE**  |  Anie Hu\
+      **NURSE**  |  Sophie Goodman
+
       **CREATIVE TEAM**
 
       **DIRECTOR** | Jonathon Harding-Cooper\
