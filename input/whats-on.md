@@ -13,7 +13,7 @@ metaDescription: Find out about the London musicals and London plays produced by
 ---
 ### London plays, London musicals – and beyond
 
-Sedos is a [London amateur theatre](https://sedos.co.uk/) company which produces seven to 10 shows every year. We have been resident at the [Bridewell Theatre](https://sedos.co.uk/venues/bridewell) (just off Fleet Street) since 2012 and most of our London musicals and plays take place there.
+Sedos is a [London amateur theatre](https://sedos.co.uk/) company which produces five to 10 shows every year. We have been resident at the [Bridewell Theatre](https://sedos.co.uk/venues/bridewell) (just off Fleet Street) since 2012 and most of our London musicals and plays take place there.
 
 The society aims to programme a wide range of London plays and musicals, presenting new twists on old classics as well as staging new work and rarely-performed pieces. We also sometimes put on cabarets, dance shows and improv, and we have in the past collaborated with other London societies on joint projects.
 
