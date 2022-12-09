@@ -7,6 +7,9 @@ on:
     - main
   schedule:
     - cron:  '30 0 * * *'
+    
+concurrency:
+  group: deploy
 
 jobs:
   build:
