@@ -20,6 +20,8 @@ namespace Sedos.Pipelines
                 { "carrie/materials", "https://drive.google.com/drive/folders/1IUe23s-DjXNRFFgZ_NvrSvpiC_QPq_83?usp=sharing" },
                 { "pitch-guidance", "https://docs.google.com/document/d/1VmBuK-rIYb5z8f3G-pqA5W31GD68Z-HT57vnOg2KX2o/edit?usp=sharing" },
                 { "pitch-form", "https://docs.google.com/document/d/1cOV5QL3hYRbeBl7Zhm9HoreyuYjutE1XhILiNgYujpI/edit?usp=sharing" },
+                { "sunshine/material", "https://drive.google.com/drive/folders/1eMb1eu5-fZxbYa3fpgw10hoGoDrpsrD3?usp=sharing" },
+                { "sunshine/form", "https://forms.gle/59bymGMZ791kArsp8" }
             };
 
             ProcessModules = new ModuleList
