@@ -23,7 +23,7 @@ pageFooter: >-
   ### About Sedos
 
 
-  Sedos is a London amateur theatre company which produces [seven to 10 shows](https://sedos.co.uk/whats-on) every year. We have been the resident theatre company at the [Bridewell Theatre](https://sedos.co.uk/venues/bridewell) (just off Fleet Street) since 2012 and most of our season takes place there. We also perform in other venues, including touring to the Edinburgh Festival and the Minack Theatre in Cornwall.
+  Sedos is a London amateur theatre company which produces [five to 10 shows](https://sedos.co.uk/whats-on) every year. We have been the resident theatre company at the [Bridewell Theatre](https://sedos.co.uk/venues/bridewell) (just off Fleet Street) since 2012 and most of our season takes place there. We also perform in other venues, including touring to the Edinburgh Festival and the Minack Theatre in Cornwall.
 
 
   We hold open [London auditions](https://sedos.co.uk/get-involved) for all our shows so both members and non-members can put themselves forward for roles. Additionally we have a thriving community of people who work behind the scenes on our productions in a wide variety of roles. 
