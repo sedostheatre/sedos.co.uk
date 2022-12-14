@@ -6,7 +6,7 @@ times:
   - time: 2023-01-23 19:00
   - time: 2023-01-25 19:00
   - time: 2023-01-28 14:00
-image: /assets/screenshot-2022-12-14-at-18.21.20.png
+image: /assets/sunshineonleith.jpeg
 imageAlt: Sunshine on Leith auditions
 recurrence: "Workshop: 14 January | Auditions: 23,  25 and 28 January"
 metaTitle: Sunshine on Leith auditions
