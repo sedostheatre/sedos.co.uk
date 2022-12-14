@@ -1,7 +1,7 @@
 ---
-title: Sunshine on Leith auditions
+title: Sunshine on Leith workshop and auditions
 times:
-  - time: 2023-01-14 12:00
+  - time: 2023-01-14 14:00
   - time: 2023-01-23 19:00
   - time: 2023-01-25 19:00
   - time: 2023-01-28 14:00
