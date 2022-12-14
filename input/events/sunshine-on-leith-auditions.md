@@ -29,7 +29,7 @@ Originally a stage musical before being transformed into the 2013 feature film a
 
 *Sunshine on Leith* is a show about the importance of connections with people and places, and we wish to emphasise this as much as possible within our production. Our production will remain true to focusing on the relationships between our characters first and foremost, utilising a multi-functional set, innovative lighting and sound design, a large, multi-roling ensemble, and the politically-charged songs of The Proclaimers to keep the triumphs and struggles of our characters and the people of Leith at the centre of the story. 
 
-# [FULL AUDITION NOTICE]([https://www.sedos.co.uk/​sunshine/notice](https://www.sedos.co.uk/sunshine/notice))
+# [FULL AUDITION NOTICE](https://drive.google.com/file/d/1lfh7yP1i_8OmpmQeSJR_CyTglQ2V3J_G/view)
 
 **KEY DATES**
 
@@ -53,11 +53,11 @@ We have no preconceived ideas as to the ethnicity of any role and ethnicity will
 \
 We will consider performers with a disability for any role and would actively encourage disabled performers to audition. If you have any access requirements for the audition process, rehearsal process, or performances, please let us know and we will make any reasonable adjustments.  If you have any further queries around the production, please feel free to get in touch ([sunshine@sedos.co.uk](mailto:sunshine@sedos.co.uk)) and will do our best to assist.
 
-# [FULL AUDITION NOTICE]([https://www.sedos.co.uk/​sunshine/notice](https://www.sedos.co.uk/sunshine/notice))
+# [FULL AUDITION NOTICE](https://drive.google.com/file/d/1lfh7yP1i_8OmpmQeSJR_CyTglQ2V3J_G/view)
 
 **HOW TO SIGN UP FOR SUNSHINE ON LEITH AUDITIONS**\
 \
-Read the [full audition notice](https://www.sedos.co.uk/sunshine/notice), then visit [membership.sedos.co.uk/signup](http://membership.sedos.co.uk/signup) to register to attend the workshop and sign up to audition.
+Read the [full audition notice](https://drive.google.com/file/d/1lfh7yP1i_8OmpmQeSJR_CyTglQ2V3J_G/view), then visit [membership.sedos.co.uk/signup](http://membership.sedos.co.uk/signup) to register to attend the workshop and sign up to audition.
 
 **JOIN THE TEAM**
 
