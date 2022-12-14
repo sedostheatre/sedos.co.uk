@@ -1,7 +1,16 @@
 ---
 title: Sunshine on Leith auditions
+times:
+  - time: 2023-01-14 12:00
+  - time: 2023-01-23 19:00
+  - time: 2023-01-25 19:00
+  - time: 2023-01-28 14:00
 image: /assets/screenshot-2022-12-14-at-18.21.20.png
 imageAlt: Sunshine on Leith auditions
+recurrence: "Workshop: 14 January | Auditions: 23,  25 and 28 January"
+metaTitle: Sunshine on Leith auditions
+metaDescription: Sunshine on Leith auditions, for Sedos’ production in May 2023,
+  will take place in January 2023. Find out how to sign up
 ---
 Registration is now open for *[Sunshine on Leith](https://www.sedos.co.uk/shows/2023-sunshine-on-leith)* auditions.
 
@@ -53,15 +62,15 @@ Read the [full audition notice](https://www.sedos.co.uk/sunshine/notice), then v
 
 There are a number of opportunities to get involved behind the scenes too! We are looking to fill a variety of roles including:
 
-\- Assistant producer\
-- Stage manager\
-- Costume designer\
-- Hair and make-up designer\
-- Props sourcer\
+* Assistant producer
+* Stage manager
+* Costume designer
+* Hair and make-up designer
+* Props sourcer
+
+We will also be looking for volunteers to get involved throughout the show process, including set builders, stage crew, Front of House and Box Office help.\
 \
-We will also be looking for volunteers to get involved throughout the show process, including set builders, stage crew, front of house and box office help.\
-\
-To express interest in any of the above please email sunshine@sedos.co.uk
+To express interest in any of the above please email [sunshine@sedos.co.uk](mailto:sunshine@sedos.co.uk)
 
 **MORE ABOUT SEDOS AUDITIONS**
 
