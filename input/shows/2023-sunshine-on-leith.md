@@ -52,4 +52,6 @@ Originally a stage musical before being transformed into the 2013 feature film a
 
 *Sunshine on Leith* plays at the [Bridewell Theatre](https://sedos.co.uk/venues/bridewell) from 10-20 May 2023.
 
+Registration is open for [*Sunshine on Leith* auditions](https://www.sedos.co.uk/events/sunshine-on-leith-auditions). 
+
 This amateur production is presented by arrangement with Music Theatre International. All authorised performance materials are also supplied by MTI. [www.mtishows.co.uk](http://www.mtishows.co.uk/)
