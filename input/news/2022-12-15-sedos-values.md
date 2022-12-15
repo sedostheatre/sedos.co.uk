@@ -19,9 +19,9 @@ During this time, there have been numerous workshops and focus groups to glean i
 
 So, without further ado, we would like to unveil our Sedos values to you all as an early Christmas present (some might say a Christmas miracle!)
 
-* We want our people to feel supported and at home, to be included and treated fairly.
-* We want our people to feel empowered, giving them the platforms and the tools to be bold, take risks, and innovate.
-* We want to be ambitious in our pursuit of creating high quality theatre, and our desire to continuously improve as a society.
+* We want our people to feel **supported** and **at home**, to be **included** and treated **fairly**.
+* We want our people to feel **empowered**, giving them the platforms and the tools to be **bold**, take risks, and **innovate**.
+* We want to be **ambitious** in our pursuit of creating **high quality** theatre, and our desire to continuously improve as a society.
 
 So there you have it! We have lots planned over the coming months and beyond to help share and embed the values, so stay on the lookout for more updates in the new year.
 
