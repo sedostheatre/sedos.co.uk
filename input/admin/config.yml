@@ -138,7 +138,7 @@ collections:
         description: Pages on the old site to redirect from
         widget: list
         required: false
-      - {label: "Meta Title", name: metaTitle, widget: string, required: false}
+      - {label: "Meta Title", name: metaTitle, widget: string, required: false, pattern: ['.{0,70}', "Must be less than 70 characters" ]}
       - name: metaDescription
         widget: string
         required: false
@@ -178,7 +178,7 @@ collections:
         description: Pages on the old site to redirect from
         widget: list
         required: false
-      - {label: "Meta Title", name: metaTitle, widget: string, required: false}
+      - {label: "Meta Title", name: metaTitle, widget: string, required: false, pattern: ['.{0,70}', "Must be less than 70 characters" ]}
       - name: metaDescription
         widget: string
         required: false
@@ -223,7 +223,7 @@ collections:
       - label: Event details
         name: body
         widget: markdown
-      - {label: "Meta Title", name: metaTitle, widget: string, required: false}
+      - {label: "Meta Title", name: metaTitle, widget: string, required: false, pattern: ['.{0,70}', "Must be less than 70 characters" ]}
       - name: metaDescription
         widget: string
         required: false
@@ -275,7 +275,7 @@ collections:
         description: Pages on the old site to redirect from
         widget: list
         required: false
-      - {label: "Meta Title", name: metaTitle, widget: string, required: false}
+      - {label: "Meta Title", name: metaTitle, widget: string, required: false, pattern: ['.{0,70}', "Must be less than 70 characters" ]}
       - name: metaDescription
         width: string
         required: false
@@ -286,7 +286,7 @@ collections:
     slug: "{{key}}"
     fields:
       - {label: "Content Title", name: title, widget: string}
-      - {label: "Meta Title", name: metaTitle, widget: string, required: false}
+      - {label: "Meta Title", name: metaTitle, widget: string, required: false, pattern: ['.{0,70}', "Must be less than 70 characters" ]}
       - {label: "Redirect From", name: RedirectFrom,  description: "Pages on the old site to redirect from", widget: list, required: false}
       - {label: "meta description", name: metaDescription, widget: string, required: false}
       - {label: name, name: name, widget: string}
@@ -452,7 +452,7 @@ collections:
         file: "input/whats-on.md"
         fields:
           - {label: "Content Title", name: title, widget: string}
-          - {label: "Meta Title", name: metaTitle, widget: string, required: false}
+          - {label: "Meta Title", name: metaTitle, widget: string, required: false, pattern: ['.{0,70}', "Must be less than 70 characters" ]}
           - {label: Details, name: body, widget: markdown, required: false}
           - {label: Category, name: category, widget: hidden}
           - {label: ViewStart, name: view-start, widget: hidden}
@@ -469,7 +469,7 @@ collections:
         file: "input/get-involved.md"
         fields:
           - {label: "Content Title", name: title, widget: string}
-          - {label: "Meta Title", name: metaTitle, widget: string, required: false}
+          - {label: "Meta Title", name: metaTitle, widget: string, required: false, pattern: ['.{0,70}', "Must be less than 70 characters" ]}
           - {label: Details, name: body, widget: markdown, required: false}
           - {label: Category, name: category, widget: hidden}
           - {label: ViewStart, name: view-start, widget: hidden}
@@ -537,7 +537,7 @@ collections:
           - {label: title, name: title, widget: string}
           - {label: floatNav, name: float-nav, widget: hidden}
           - {label: Details, name: body, widget: hidden}
-          - {label: "Meta Title", name: metaTitle, widget: string, required: false}
+          - {label: "Meta Title", name: metaTitle, widget: string, required: false, pattern: ['.{0,70}', "Must be less than 70 characters" ]}
           - {name: metaDescription, widget: string, required: false}
           - name: RedirectFrom
             label: Redirect From

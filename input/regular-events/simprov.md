@@ -54,5 +54,6 @@ The Banana Hut Gang are regular attendees at the Simprov drop in, so say hi to J
 
 Follow the [Simprov Facebook page](https://www.facebook.com/groups/176792046058352/) and Sedos newsletters for more details on shows.
 
-^^^ ![The Banana Hut Gang, a London improvisation group run by theatre company Sedos](/assets/Simprov-BHG-Gang.jpg)
+^^^
+![The Banana Hut Gang, a London improvisation group run by theatre company Sedos](/assets/Simprov-BHG-Gang.jpg)
 ^^^ The Banana Hut Gang

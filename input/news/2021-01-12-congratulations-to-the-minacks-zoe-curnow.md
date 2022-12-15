@@ -11,7 +11,8 @@ image: /assets/48114350876_bfba0dbe61_k.jpg
 
 "For 2021, the list has been re-imagined to celebrate individuals who have gone above and beyond in helping theatre survive the biggest crisis the industry has ever faced. This year’s list is not ranked by order of power or influence, but is instead divided into five areas. These areas represent the ways in which theatre has responded to the Coronavirus pandemic. The five areas are: Putting on Shows, Lobbying and Campaigning, Fundraising, Serving the Community and Support and Development."
 
-Zoe, who played the double bass in [Sedos' production of *A Swell Party*](https://sedos.co.uk/shows/2019-a-swell-party) at the Minack in June 2019, is recognised in the area of Putting on Shows. 
+Zoe, who played the double bass in [Sedos' production of *A Swell Party*](https://sedos.co.uk/shows/2019-a-swell-party) at the Minack in June 2019, is recognised in the area of Putting on Shows.
 
-^^^ ![](/assets/48114350876_bfba0dbe61_k.jpg)
+^^^
+![](/assets/48114350876_bfba0dbe61_k.jpg)
 ^^^ The band of A Swell Party: Matt Gould, Zoe Curnow, Annette Brown and Ryan Macaulay

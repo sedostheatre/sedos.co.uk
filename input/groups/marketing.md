@@ -7,5 +7,6 @@ The marketing group's remit includes areas such as the Sedos website and social 
 
 The marketing group meets approximately every six to eight weeks and we are always pleased to welcome new members. Email [marketing@sedos.co.uk](mailto:marketing@sedos.co.uk) to contact the marketing group.
 
-^^^ ![](/assets/5509599096_4137cc836d_b.jpg)
+^^^
+![](/assets/5509599096_4137cc836d_b.jpg)
 ^^^ Sedos' 2011 production of Romeo and Juliet

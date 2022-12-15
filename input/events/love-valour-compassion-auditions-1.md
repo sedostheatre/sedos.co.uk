@@ -24,15 +24,15 @@ The team are looking to cast seven actors who all identify or present as male an
 
 **When are the auditions?**
 
-There will be an an online pre-audition event at 7pm on Thursday 27 January. This will be an opportunity to meet the team, and ask any questions you may have. The event is free and open to all. Sign up [here](https://membership.sedos.co.uk/signup/95) or to join the eevent on the day [click here](https://meet.google.com/jhw-aopo-wbk?pli=1). 
+There will be an an online pre-audition event at 7pm on Thursday 27 January. This will be an opportunity to meet the team, and ask any questions you may have. The event is free and open to all. Sign up [here](https://membership.sedos.co.uk/signup/95) or to join the eevent on the day [click here](https://meet.google.com/jhw-aopo-wbk?pli=1).
 
-The first-round auditions are on Tuesday 8 and Sunday 13 February. 
+The first-round auditions are on Tuesday 8 and Sunday 13 February.
 
 Recalls are on the morning of Saturday 26 February.
 
 **Equality, inclusion and diversity**
 
-*Love! Valour! Compassion!* explores sensitive issues which you shoould be mindful of before auditioning – more information in the [full audition notice](https://drive.google.com/file/d/1SwfAR58kquVFSB8r38rwjsRiDazGfWlD/view).  
+*Love! Valour! Compassion!* explores sensitive issues which you shoould be mindful of before auditioning – more information in the [full audition notice](https://drive.google.com/file/d/1SwfAR58kquVFSB8r38rwjsRiDazGfWlD/view).
 
 Sedos seeks to build and sustain a membership that is reflective of the diverse communities within London. We actively encourage performers to audition for the roles which they feel best suit their skills. We will consider actors of all ethnicities for all roles, except for the role of Ramon, where we will only consider actors of Hispanic or Latin-American heritage.
 
@@ -49,5 +49,6 @@ Contact the team on [love@sedos.co.uk](mailto:love@sedos.co.uk)
 
 ## **[FULL AUDITION NOTICE](https://drive.google.com/file/d/1SwfAR58kquVFSB8r38rwjsRiDazGfWlD/view)**
 
-^^^ ![](/assets/audition-image-ls.jpg)
+^^^
+![](/assets/audition-image-ls.jpg)
 ^^^

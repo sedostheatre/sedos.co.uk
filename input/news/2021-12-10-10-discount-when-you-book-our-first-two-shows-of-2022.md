@@ -13,5 +13,6 @@ We are offering a 10% discount if you book a ticket to *When The Rain Stops Fal
 \
 *[The Mystery of Edwin Drood](https://sedos.co.uk/shows/2022-the-mystery-of-edwin-drood?mc_cid=c24ce53dfd&mc_eid=UNIQID)* is a hilarious musical whodunit loosely based on Charles Dickens' unfinished novel – and you, the audience, have the power to decide the outcome.
 
-^^^ ![](/assets/newsletterdiscount.jpg)
+^^^
+![](/assets/newsletterdiscount.jpg)
 ^^^

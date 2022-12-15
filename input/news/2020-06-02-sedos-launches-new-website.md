@@ -19,5 +19,6 @@ Sedos will also be launching a new box office system when we open bookings for o
 
 Particular thanks go to Olly Levett for building the site and to Stephen Beeny for leading the project, as well as to Pippa Kyle and Adam Coppard for their assistance and everyone who was on the initial new website and box office working group.
 
-^^^ ![](/assets/sedoswebsite.jpg)
+^^^
+![](/assets/sedoswebsite.jpg)
 ^^^

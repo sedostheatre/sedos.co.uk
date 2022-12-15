@@ -13,8 +13,9 @@ metaDescription: "Sedos ticket discount 2022: 10% off when you book A Midsummer
 
 Simply head to the online box office, select your seats for *A Midsummer Night’s Dream*, *Carrie: The Musical* and *Amadeus* and this ticket discount will be applied automatically.
 
-^^^ ![Sedos ticket discount 2022](/assets/threeshows.jpg)
-^^^ 
+^^^
+![Sedos ticket discount 2022](/assets/threeshows.jpg)
+^^^
 
 This will be a queer re-telling of *[A Midsummer Night’s Dream](https://sedos.co.uk/shows/2022-a-midsummer-night-s-dream)* (14-24 September) – Shakespeare meets gig theatre; dance, lip-sync battles, classic text, all fused into one riotous night of theatrical comedy.
 

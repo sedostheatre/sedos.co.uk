@@ -3,8 +3,9 @@ title: "Isolation project: When the Party's Over"
 date: 2020-11-19
 image: /assets/will-whentheparty-sover.jpg
 ---
-^^^ ![](/assets/will-whentheparty-sover.jpg)
-^^^ 
+^^^
+![](/assets/will-whentheparty-sover.jpg)
+^^^
 
 *19 November 2020*
 
@@ -14,11 +15,11 @@ image: /assets/will-whentheparty-sover.jpg
 
 When asked to describe the monologue in more detail, Michael told us: "I’m mostly a poet, and my writing is often centred on a particular emotion or snapshot in time. With *When the Party’s Over*, I wanted to explore how we see someone who doesn’t know they’re being observed - for example, when they suddenly find themselves alone. I also tried to leave the monologue open to interpretation with an apparently light-hearted tone but hints of an underlying darkness. Hopefully that comes across in these two versions!"
 
-Michael has been an audience member for a number of Sedos shows, but this is the first time he has actively been involved. 
+Michael has been an audience member for a number of Sedos shows, but this is the first time he has actively been involved.
 
-In a survey on our weekly newsletter, 75% of viewers said they preferred the darker interpretation. 
+In a survey on our weekly newsletter, 75% of viewers said they preferred the darker interpretation.
 
-If you participated in our Isolation project but your video hasn't appeared yet, please contact [marketing@sedos.co.uk](mailto:marketing@sedos.co.uk) so we can make sure everything is shared!   
+If you participated in our Isolation project but your video hasn't appeared yet, please contact [marketing@sedos.co.uk](mailto:marketing@sedos.co.uk) so we can make sure everything is shared!
 
 <div class="video-responsive"><?# YouTube RNbN9_KpllI /?></div>
 

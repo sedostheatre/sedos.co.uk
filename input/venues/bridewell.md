@@ -67,5 +67,6 @@ Certain shows may not be able to admit latecomers at all or not until the interv
 
 The Bridewell Theatre is accessible through the main entrance via a portable ramp over a threshold stone with a riser height ranging from 110-150mm from right to left. Access from the threshold to the auditorium is via a stairlift (230kg weight load) and to the theatre bar and lavatories via a platform lift (340kg weight load).
 
-^^^ ![Bridewell Theatre: set for Sedos’ 2014 production of Into the Woods](/assets/14516771093_8396f98cf1_c.jpg)
+^^^
+![Bridewell Theatre: set for Sedos’ 2014 production of Into the Woods](/assets/14516771093_8396f98cf1_c.jpg)
 ^^^ The award-winning set for Sedos’ 2014 production of Into the Woods at the Bridewell

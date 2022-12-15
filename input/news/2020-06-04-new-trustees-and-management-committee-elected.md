@@ -37,5 +37,6 @@ Many thanks to those who have stepped down from the trustees (Mark Macey, Charlo
 
 Thanks also to James Franey for running the quiz and congrats to the winning team, The Quarantinies!
 
-^^^ ![](/assets/quiz.jpg)
+^^^
+![](/assets/quiz.jpg)
 ^^^

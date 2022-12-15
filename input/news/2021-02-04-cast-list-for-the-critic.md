@@ -7,7 +7,7 @@ RedirectFrom:
 ---
 *4 February 2021*
 
-**The cast list has been released for our upcoming online production of *The Critic*.** 
+**The cast list has been released for our upcoming online production of *The Critic*.**
 
 The show is on Thursday 18 February at 7.30pm. To be part of the audience, contact [audience@sedos.co.uk](mailto:mailto:audience@sedos.co.uk)
 
@@ -36,5 +36,6 @@ The show is on Thursday 18 February at 7.30pm. To be part of the audience, conta
 **CONSTABLE** | James Newall\
 **NIECES OF RALEIGH AND HATTON** | Anie Hu and Lydia Waller
 
-^^^ ![](/assets/the-critic-cast.jpg)
+^^^
+![](/assets/the-critic-cast.jpg)
 ^^^

@@ -6,12 +6,13 @@ extract: We’re delighted to announce our new season of three musicals, two pla
   and a week of fun activities.
 metaTitle: London amateur theatre group Sedos announce 2023 Season of plays and musicals
 ---
-^^^ ![](/assets/sedos-season-2023-v3-1500pixels.jpg)
-^^^ 
+^^^
+![](/assets/sedos-season-2023-v3-1500pixels.jpg)
+^^^
 
 *30 September 2023*
 
-**Thank you to everyone who joined us last night for the launch of the 2023 Sedos season.** 
+**Thank you to everyone who joined us last night for the launch of the 2023 Sedos season.**
 
 We’re delighted to announce that the new season consists of three musicals, two plays and a week of fun activities for our members and friends.
 
@@ -28,7 +29,7 @@ Some of the shows are still looking for people to join their production teams, s
 *by Lucy Prebble*\
 A clinical romance exploring questions of sanity, neurology and the limits of medicine, alongside ideas of fate, loyalty and the inevitability of physical attraction.
 
-Director | **Jonathon Harding-Cooper**  
+Director | **Jonathon Harding-Cooper**
 
 \
 **SUNSHINE ON LEITH | 10-20 May 2023**\
@@ -39,7 +40,7 @@ A jubilant, heartfelt musical about the power of home, the hearth, family and lo
 
 Director | **Sorrel Brown**\
 Musical Director | **Oscar Denihan**\
-Choreographer | **Catherine Higgins** 
+Choreographer | **Catherine Higgins**
 
 \
 **SONDHEIM ON SONDHEIM | 4-8 July 2023**\
@@ -54,7 +55,7 @@ Producer | **Lizzie Levett**
 
 \
 **MEMBERS & FRIENDS WEEK | 17-23 September 2023**\
-A week of fun activities for Sedos members and their friends. More details will be announced in due course. 
+A week of fun activities for Sedos members and their friends. More details will be announced in due course.
 
 \
 **THE LIGHTS O' LONDON | 26-30 September 2023**\
@@ -73,17 +74,18 @@ Epic and majestic, with moments of heartbreaking intimacy, Titanic captures the 
 Directors | **Rob Archibald** and **Louise Roberts**\
 Musical Director | **Issie Osborne** \
 Choreographer | **Jen Bullock**\
-Producer | **Adam Coppard** 
+Producer | **Adam Coppard**
 
 As you'll no doubt be aware, Sedos set out its Commitment to Change in 2020 and it has been a key factor in the pitch process (with all directors being asked to consider the diversity requirements of their shows), the decisions we have made on which new titles to programme (which we believe can be cast with diversity in mind), and this will continue to be the case.
 
-We are committed to diverse casting throughout our season, this will be made explicit in our audition notices, and we will be working with all the teams to ensure that we are reflecting the society we live in, both on and offstage. 
+We are committed to diverse casting throughout our season, this will be made explicit in our audition notices, and we will be working with all the teams to ensure that we are reflecting the society we live in, both on and offstage.
 
-If you’d like to discuss our Commitment to Change further, please email us at [equality@sedos.co.uk](mailto:equality@sedos.co.uk). 
+If you’d like to discuss our Commitment to Change further, please email us at [equality@sedos.co.uk](mailto:equality@sedos.co.uk).
 
 We look forward to seeing you all soon!
 
 *Sedos management committee*
 
-^^^ ![](/assets/sedos-season-2023-v3-1500pixels.jpg)
+^^^
+![](/assets/sedos-season-2023-v3-1500pixels.jpg)
 ^^^

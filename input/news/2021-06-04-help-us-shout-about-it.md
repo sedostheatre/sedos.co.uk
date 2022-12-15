@@ -13,7 +13,8 @@ The marketing group is a great way to get to know people in Sedos, be creative, 
 
 We'll having our first post-Covid meeting on 29 June – in-person if restrictions allow but with the opportunity for some people to be remote if they'd prefer.
 
-If you're interested in joining the marketing group, please do email Pippa on [pippa@sedos.co.uk](mailto:pippa@sedos.co.uk) to find out more. 
+If you're interested in joining the marketing group, please do email Pippa on [pippa@sedos.co.uk](mailto:pippa@sedos.co.uk) to find out more.
 
-^^^ ![](/assets/img_8772-2.jpg)
+^^^
+![](/assets/img_8772-2.jpg)
 ^^^ Shout about it! Like Joe Thompson-Oubari in our 2018 production of Pippin

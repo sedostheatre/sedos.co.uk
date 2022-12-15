@@ -5,8 +5,9 @@ times:
 image: /assets/dna_poster_landscape.jpg
 venue: Brewers' Hall Garden, off Basinghall Street, London EC2V 5DX
 ---
-^^^ ![](/assets/dna_poster_landscape.jpg)
-^^^ 
+^^^
+![](/assets/dna_poster_landscape.jpg)
+^^^
 
 **Sedos are proud to announce the second *Play in a Day* event for 2021, *DNA* by Dennis Kelly, which forms part of our *September Festival* (19-25 September 2021). We'll be rehearsing and performing a play in a single day on Saturday 25 September 2021**
 

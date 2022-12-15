@@ -18,5 +18,6 @@ Come along and be among the first to know what's happening next year.
 **WHEN:** Thursday 29 September, from 7pm\
 **WHERE:** Upstairs Room at St Brides Tavern (1 Bridewell Pl, London, EC4V 6AP)
 
-^^^ ![Season Announcement, 29 September, 7pm](/assets/images/events/2023SeasonAnnouncement.jpg)
+^^^
+![Season Announcement, 29 September, 7pm](/assets/images/events/2023SeasonAnnouncement.jpg)
 ^^^

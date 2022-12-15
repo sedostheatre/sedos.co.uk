@@ -28,7 +28,9 @@ namespace Sedos.Pipelines
             ProcessModules = new ModuleList
             {
                 new ReplaceDocuments(nameof(AboutSections), nameof(AllShows), nameof(News), nameof(Index), nameof(RegularEvents), nameof(TopLevelPages), nameof(MarkdownPages)),
-                new GenerateRedirects().WithAdditionalOutput("_redirects", redirects =>
+                new GenerateRedirects()
+                    .WithMetaRefreshPages(false)
+                    .WithAdditionalOutput("_redirects", redirects =>
                     string.Join(Environment.NewLine, redirects.OrderBy(r => r.Key).Select(r => $"/{r.Key} {r.Value} 301")
                         .Append(string.Join(Environment.NewLine, temporaryCustomRedirects.Select(r => $"/{r.Key} {r.Value} 302"))))),
             };

@@ -22,5 +22,6 @@ The meetings between Queen Elizabeth II, and Margaret Thatcher became infamous i
 
 We would love to have a large audience for this one, so please email [readings@sedos.co.uk](mailto:readings@sedos.co.uk) for the Zoom link if you would like to join us. The reading will take place at 7.30pm on Thursday 26 November.
 
-^^^ ![](/assets/pexels-pixabay-260024.jpg)
+^^^
+![](/assets/pexels-pixabay-260024.jpg)
 ^^^

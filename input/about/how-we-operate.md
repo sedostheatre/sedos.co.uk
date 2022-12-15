@@ -6,7 +6,8 @@ image: /assets/2022sedostrusteesandcommittee-crop.jpg
 RedirectFrom:
   - aboutus/howweoperate.htm
 ---
-^^^ ![12 members of the 2022/23 Sedos Trustees and Management Committee.standing in a line in front of a wall of bookcases. They are all smiling. ](/assets/2022sedostrusteesandcommittee-crop.jpg)
+^^^
+![12 members of the 2022/23 Sedos Trustees and Management Committee.standing in a line in front of a wall of bookcases. They are all smiling. ](/assets/2022sedostrusteesandcommittee-crop.jpg)
 ^^^ Members of the 2022/23 Sedos Trustees and Management Committee. [left to right:] Henry Whittaker, Adam Coppard, Stephen Beeny, Adrian Hau, Jack Brown, Tim Garrad, Paul Caira, Jessie Davidson, Daniel Saunders, Tess Robinson, Matt Gould, Mark Sidall
 
 Sedos is a Charitable Incorporated Organisation.
@@ -20,9 +21,9 @@ Sedos' charitable objects are:
 
 ## Trustees
 
-The trustees are ultimately responsible for the long-term financial health of the society and ensuring that the charity complies with its legal responsibilities and acts in accordance with the constitution. They keep an eye on the management committee and provide guidance as to the day-to-day operations of the society. 
+The trustees are ultimately responsible for the long-term financial health of the society and ensuring that the charity complies with its legal responsibilities and acts in accordance with the constitution. They keep an eye on the management committee and provide guidance as to the day-to-day operations of the society.
 
-The trustees' particular focus is ensuring that our financial reserves are prudently managed; we have long-term performance, rehearsal and build space and that the society is acting at all times in the best interests of our members. 
+The trustees' particular focus is ensuring that our financial reserves are prudently managed; we have long-term performance, rehearsal and build space and that the society is acting at all times in the best interests of our members.
 
 The trustees are elected by the members for three-year terms or co-opted in accordance with the society’s constitution. The trustees meet every three months.
 
@@ -75,7 +76,7 @@ Jacob Hajjar\
 Olly Levett \
 Tess Robinson\
 Mark Sidall\
-Kish Soni 
+Kish Soni
 
 ## Groups
 

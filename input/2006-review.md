@@ -11,19 +11,20 @@ RedirectFrom:
 By Charles Mee\
 12-18 March 2006
 
-*Big Love* was a modern retelling of Aeschylus' *Suppliant Women*, with all the moral richness of the original, but only half the calories. When Lydia and her 49 sisters decide to flee their arranged marriage to Nikos and his 49 brothers, they land on the shores of Italy, where Piero and his extended family welcome them with open arms - until the men arrive to claim contractual rights to the (mostly) unwilling brides. 
+*Big Love* was a modern retelling of Aeschylus' *Suppliant Women*, with all the moral richness of the original, but only half the calories. When Lydia and her 49 sisters decide to flee their arranged marriage to Nikos and his 49 brothers, they land on the shores of Italy, where Piero and his extended family welcome them with open arms - until the men arrive to claim contractual rights to the (mostly) unwilling brides.
 
-Director Mickey Killaney’s version of Charles Mee's (re)making of this classic work was a wily, raw combination of music, circus acrobatics, talk-show confrontations and confessions with the reverence of a Prom Season and the continuity of Monty Python's Flying Circus. This romantic tale reminded us that love is so much bigger than any wedding vow, family bond, or lustful urge. 
+Director Mickey Killaney’s version of Charles Mee's (re)making of this classic work was a wily, raw combination of music, circus acrobatics, talk-show confrontations and confessions with the reverence of a Prom Season and the continuity of Monty Python's Flying Circus. This romantic tale reminded us that love is so much bigger than any wedding vow, family bond, or lustful urge.
 
-This was no everyday love story - this was Big Love. 
+This was no everyday love story - this was Big Love.
 
-^^^ ![](/assets/biglove3.jpg)
+^^^
+![](/assets/biglove3.jpg)
 ^^^ Big Love
 
-## *Merrily We Roll Along* 
+## *Merrily We Roll Along*
 
 By Stephen Sondheim\
-31 May-10 June 2006 
+31 May-10 June 2006
 
 After the huge success of Sondheim’s return to the Bridewell with *Company* in 2005, Roger Harwood returned with another Sondheim classic. Regarded as one of Sondheim's most eloquent and accessible scores, Merrily had been hugely successful around the world, despite initially lasting just two weeks on Broadway in 1981. Two decades on, after various revisions to the script and the score, it made a triumphant return to the Bridewell to sell out houses for two weeks.
 
@@ -33,7 +34,8 @@ After the huge success of Sondheim’s return to the Bridewell with *Company* in
 >Mickey Killianey was a convincingly likeable and human Franklin Shepherd - oxymora, if ever two were more apparent! This was no mean feat and also overcame one of the difficulties of the piece: that we meet the main characters at their worst and so do not find it easy to empathise with them as, or until, they become nicer/younger in the second act… For me the hero(ine) of the piece is Mary. Mary is the glue that makes sense of the relationships and really breaks your heart with Not a Day Goes By, even though you think Beth (Bridget Cross) had already done that on the steps of the divorce court. And here Chloë Faine got my vote from the opening; here was a woman who had been on a journey and I wanted to witness it. Right on cue my heart was duly broken - again.
 ><footer><cite>Sondheim Magazine on Merrily We Roll Along</cite></footer>
 
-^^^ ![](/assets/merrily2.jpg)
+^^^
+![](/assets/merrily2.jpg)
 ^^^ Merrily We Roll Along
 
 ## *The Shape of Things* and *Bash*
@@ -54,7 +56,8 @@ In July Sedos brought a powerful and mesmerising evening of plays written by one
 >Dark, shocking and compelling - I loved this play! The performances were outstanding - which helped create the desired audience involvement in an almost voyeuristic way! Very clever, and thoroughly enjoyable!
 ><footer><cite>Tammy Capaldi for whatsonstage.com on Bash</cite></footer>
 
-^^^ ![](/assets/bash1.jpg)
+^^^
+![](/assets/bash1.jpg)
 ^^^ Bash
 
 ## *The Shape of Things*
@@ -68,20 +71,22 @@ In July Sedos brought a powerful and mesmerising evening of plays written by one
 >Superb show! One of the best things I have seen in London for some time. Pitched perfectly, and cleverly reworked for a British audience. Great performances all round, with special mentions for Jenny, played with a bubby sexiness, and a phenomenal Adam, who was played with a subtlety and likability that made the final scene absolutely heart wrenching. I was riveted throughout - and I only found out afterwards, that this was an amateur company! The west end better pull its socks up!
 ><footer><cite>Stephanie - whatsonstage.com on The Shape of Things</cite></footer>
 
-^^^ ![](/assets/shapeofthings1.jpg)
+^^^
+![](/assets/shapeofthings1.jpg)
 ^^^ The Shape of Things
 
 ## *Much Ado About Nothing*
 
 11-21 September 2006\
-Shakespeare in the City 
+Shakespeare in the City
 
 Once again Sedos toured the city of London with a modern version of a Shakespeare classic. A re-imagining of the Bard’s classic comedy as a Thursday evening sitcom, brought audiences across several of the City’s best know institutions into their boardroom for a quick fix of Shakespeare and a glass or two of champagne. Directed by Rebecca Smith, and starring Tom Brennan and Juliette Chrisman, this Shakespearian sitcom impressed audiences across the city.
 
 >Clever and funny
 ><footer><cite>Whatsonstage.com on Much Ado About Nothing</cite></footer>
 
-^^^ ![](/assets/muchado.jpg)
+^^^
+![](/assets/muchado.jpg)
 ^^^ Much Ado About Nothing
 
 ## *City of Angels*
@@ -98,5 +103,6 @@ City of Angels played a sell-out two week run at the Bridewell theatre, and rece
 >Absolutely Fantastic - only found out in the interval it was an amateur production! I'd have never realised otherwise! All performances were excellent, but especially impressed with Bobbi and Buddy. Brilliant!
 ><footer><cite>James – whatsonstage.com on City of Angels, 5 stars</cite></footer>
 
-^^^ ![](/assets/cityofangels3.jpg)
+^^^
+![](/assets/cityofangels3.jpg)
 ^^^ City of Angels

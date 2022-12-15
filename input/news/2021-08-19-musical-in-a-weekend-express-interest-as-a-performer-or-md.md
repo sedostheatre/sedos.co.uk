@@ -20,5 +20,6 @@ In addition to expressions of interest from performers we are looking for music 
 
 To express your interest, please email [weekendmusical@sedos.co.uk](mailto:weekendmusical@sedos.co.uk) – at this stage we are seeking to find out if there is enough interest for this to go ahead and the formal sign-up process for performers will come later.
 
-^^^ ![](/assets/pirates.jpg)
+^^^
+![](/assets/pirates.jpg)
 ^^^

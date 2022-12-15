@@ -31,9 +31,7 @@
                 </ul>
                 <div class="tab-content" id="showDetailsTabContent">
                     <div role="tabpanel" class="tab-pane fade active show" id="details" aria-labelledby="details-tab">
-                        <p>
-                            @RenderBody()
-                        </p>
+                        @RenderBody()
                     </div>
                     @{
                         foreach (var document in Model.Get("sections", Enumerable.Empty<IDocument>()))

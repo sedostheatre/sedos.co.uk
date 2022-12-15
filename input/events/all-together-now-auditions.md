@@ -8,9 +8,9 @@ venue: Bishopsgate Institute, 230 Bishopsgate, London EC2M 4QH
 ---
 **ALL TOGETHER NOW!**\
 \
-To celebrate the return of live theatre, we are joining forces with our friends at Centre Stage, Geoids and Bishopsgate Institute to stage the unique new revue, *All Together Now!*. 
+To celebrate the return of live theatre, we are joining forces with our friends at Centre Stage, Geoids and Bishopsgate Institute to stage the unique new revue, *All Together Now!*.
 
-The show is a global celebration of musical theatre put together by Music Theatre International (MTI) packed full of numbers from their beloved shows. Amateur groups and schools across the world will all be performing this show on the same weekend and we are excited to be part of it. 
+The show is a global celebration of musical theatre put together by Music Theatre International (MTI) packed full of numbers from their beloved shows. Amateur groups and schools across the world will all be performing this show on the same weekend and we are excited to be part of it.
 
 **Auditions**
 
@@ -18,7 +18,7 @@ Auditions will be held on Friday 8 and Sunday 10 October. The show is made up o
 
 See our [audition notice](https://docs.google.com/document/d/1pSEUex-eKejCAzho10dR8vs73MUqpgkErZ7lensyQtg/edit) for full details.
 
-Performances will be on 12 and 13 November in the Great Hall at Bishopsgate Institute. 
+Performances will be on 12 and 13 November in the Great Hall at Bishopsgate Institute.
 
 **Diversity and inclusion**
 
@@ -28,8 +28,9 @@ We actively encourage performers to audition for the roles which best suit their
 
 [Discover more about the show, rehearsals and what to prepare for auditions in the audition notice.](https://docs.google.com/document/d/1pSEUex-eKejCAzho10dR8vs73MUqpgkErZ7lensyQtg/edit)
 
-^^^ ![](/assets/gold_onbackground_horizontal_1500px.jpg)
-^^^ 
+^^^
+![](/assets/gold_onbackground_horizontal_1500px.jpg)
+^^^
 
 *All Together Now!* is presented through special arrangement with Music Theatre International (MTI).
 
