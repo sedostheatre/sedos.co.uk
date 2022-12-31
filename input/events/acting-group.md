@@ -3,6 +3,7 @@ title: Acting group
 times:
   - time: 2022-12-07 19:00
   - time: 2023-02-08 19:00
+  - time: 2023-01-04 19:00
 image: /assets/play-reading-landscape.jpg
 ---
 **The London Acting Group run by Sedos takes place on the first Wednesday of every month.**
