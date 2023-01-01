@@ -9,9 +9,9 @@ metaDescription: The Sedos trustees have released a half year report dated
 ---
 *18 November 2022*
 
-**The Sedos trustees have released a [half year report](https://docs.google.com/document/d/15CiRAtINaSxgXW-H07QKLPUdVdWViNmA/edit), giving updates from the finance, spaces, diversity & inclusion, governance and investment sub-committees, as well as information about the ongoing values project and the Jeremy Lewis Fund. The report also includes details on what the trustees do and how you can join.**
+**The Sedos trustees have released a [half year report](/assets/2022-sedos-trustees-half-year-report.pdf), giving updates from the finance, spaces, diversity & inclusion, governance and investment sub-committees, as well as information about the ongoing values project and the Jeremy Lewis Fund. The report also includes details on what the trustees do and how you can join.**
 
-### **[READ THE FULL REPORT](https://docs.google.com/document/d/15CiRAtINaSxgXW-H07QKLPUdVdWViNmA/edit)**
+### **[READ THE FULL REPORT](/assets/2022-sedos-trustees-half-year-report.pdf)**
 
 **MESSAGE FROM THE CHAIRPERSON**
 
@@ -34,4 +34,4 @@ All the best,
 Daniel Saunders\
 Chair of Sedos Board of Trustees
 
-### **[READ THE FULL REPORT](https://docs.google.com/document/d/15CiRAtINaSxgXW-H07QKLPUdVdWViNmA/edit)**
+### **[READ THE FULL REPORT](/assets/2022-sedos-trustees-half-year-report.pdf)**
