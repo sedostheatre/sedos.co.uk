@@ -1,5 +1,5 @@
 ---
-title: Sunshine on Leith workshop and auditions
+title: Sunshine on Leith auditions
 times:
   - time: 2023-01-14 14:15
   - time: 2023-01-14 16:00
@@ -8,7 +8,7 @@ times:
   - time: 2023-01-28 14:00
 image: /assets/sunshineonleith.jpeg
 imageAlt: Sunshine on Leith auditions
-recurrence: "Workshop: 14 January | Auditions: 23,  25 and 28 January"
+recurrence: "Auditions: 23,  25 and 28 January"
 metaTitle: Sunshine on Leith auditions
 metaDescription: Sunshine on Leith auditions, for Sedos’ production in May 2023,
   will take place in January 2023. Find out how to sign up
