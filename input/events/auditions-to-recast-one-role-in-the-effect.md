@@ -9,7 +9,12 @@ recurrence: First round by selftape by 10am Friday 27 January
 metaTitle: Auditions to recast one role in The Effect
 metaDescription: Sedos is recasting for the role of Tristan in The Effect
 ---
-Due to unforeseen circumstances, we are recasting the role of Tristan in *[The Effect](https://www.sedos.co.uk/shows/2023-the-effect?mc_cid=288bc18fd7&mc_eid=UNIQID)*, our March show which plays at the Bridewell Theatre from 21-25 March.\
+Due to unforeseen circumstances, we are recasting the role of Tristan in *[The Effect](https://www.sedos.co.uk/shows/2023-the-effect?mc_cid=288bc18fd7&mc_eid=UNIQID)*, our March show which plays at the Bridewell Theatre from 21-25 March.
+
+^^^
+![Recasting one role in The Effect](/assets/whatsapp-image-2023-01-25-at-15.26.50.jpeg)
+^^^ 
+
 \
 The **first round of auditions is via selftape only and is due by 10am this Friday** (27 January).\
 \
