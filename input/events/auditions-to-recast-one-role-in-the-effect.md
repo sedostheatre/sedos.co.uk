@@ -17,7 +17,7 @@ The **recalls will take place this Saturday** (28 January), by invitation, bet
 
 For full details on how this recasting process will work:\
 \
-(1) Please watch this video message from director Jonathon Harding-Cooper.\
+(1) Please watch [this video message](https://vimeo.com/792429370) from director Jonathon Harding-Cooper.\
 \
 (2) Please read the [audition instructions document](https://docs.google.com/document/d/1k5CB1mOlxCTpNMagwoBDph7hJyXdiTyNQQ0z5-4Sp44/edit).\
 \
