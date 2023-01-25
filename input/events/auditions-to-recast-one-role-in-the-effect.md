@@ -5,7 +5,7 @@ times:
 image: /assets/whatsapp-image-2023-01-25-at-15.26.50.jpeg
 imageAlt: Auditions to recast one role in The Effect
 venue: ""
-recurrence: First round by selftape; recalls on Saturday 28 January
+recurrence: First round by selftape by 10am Friday 27 January
 metaTitle: Auditions to recast one role in The Effect
 metaDescription: Sedos is recasting for the role of Tristan in The Effect
 ---
