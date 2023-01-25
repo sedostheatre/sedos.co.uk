@@ -1,7 +1,7 @@
 ---
 title: Auditions to recast one role in The Effect
 date: 2023-01-25
-image: /assets/screenshot-2023-01-25-at-15.11.59.png
+image: /assets/whatsapp-image-2023-01-25-at-15.26.50.jpeg
 imageAlt: The Effect auditions – recasting one role
 metaTitle: The Effect auditions – recasting one role
 metaDescription: Sedos are holding extra auditions for The Effect, recasting the role of Joel
