@@ -22,10 +22,10 @@ box-office-link: https://sedos.ticketsolve.com/ticketbooth/shows/1173635529
 sections:
   - order: 1
     body: |-
-      **C﻿AST**
+      **CAST**
 
-      **CONNIE**  |  Ellie McWilliam\
-      **TRISTAN**  |  Joel Arnold\
+      **CONNIE**  |  Jess Rogers\
+      **TRISTAN**  |  Omar Aga\
       **LORNA**  |  Jessica Dawes\
       **TOBY**  |  Daniel Saunders\
       **NURSE**  |  Anie Hu\
@@ -35,7 +35,9 @@ sections:
 
       **DIRECTOR** | Jonathon Harding-Cooper\
       **PRODUCER** | Ben Hussey\
+      **ASSISTANT PRODUCER** | Sukhi Bains\
       **SET REALISATION** | Andrew Laidlaw\
+      **INTIMACY COORDINATOR** | Kim Barker\
       **MARKETING** | Natalie Harding-Cooper
     title: CAST & CREATIVE TEAM
   - order: 2
