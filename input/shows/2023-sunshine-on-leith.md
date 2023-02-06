@@ -22,7 +22,7 @@ showtimes:
 showtime-summary: 10-20 May 2023
 venue: Bridewell Theatre
 primary-color: "#FECC32"
-header-image: /assets/sunshineonleith.jpg
+header-image: /assets/sol-hero.png
 header-image-contain: false
 flyer: /assets/sol-poster.png
 box-office-open: true
