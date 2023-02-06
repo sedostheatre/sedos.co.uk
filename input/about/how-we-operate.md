@@ -2,7 +2,7 @@
 title: How we operate
 row: 2
 column: 3
-image: /assets/2022sedostrusteesandcommittee-croppedmore.jpg
+image: /assets/2022sedostrusteesandcommittee-croppedagain.jpg
 RedirectFrom:
   - aboutus/howweoperate.htm
 ---
