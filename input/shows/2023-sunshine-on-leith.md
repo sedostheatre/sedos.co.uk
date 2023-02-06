@@ -57,7 +57,7 @@ sections:
       **CREATIVE TEAM**
 
       **DIRECTOR** | Sorrel Brown\
-      **MUSICAL DIRECTOR** | Oscar Dennihan\
+      **MUSICAL DIRECTOR** | Oscar Denihan\
       **CHOREOGRAPHER** | Catherine "Chiggins" Higgins\
       **ASSISTANT DIRECTOR** | Jack Brown\
       **PRODUCERS** | Adam Coppard and Amy Newell\
