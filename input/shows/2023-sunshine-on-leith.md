@@ -24,7 +24,7 @@ venue: Bridewell Theatre
 primary-color: "#fba946"
 header-image: /assets/sunshineonleith.jpg
 header-image-contain: false
-flyer: /assets/sunshine-posterholder.jpg
+flyer: /assets/sol-poster.png
 box-office-open: true
 box-office-link: https://sedos.ticketsolve.com/ticketbooth/shows/1173636617
 sections:
