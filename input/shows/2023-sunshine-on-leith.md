@@ -25,17 +25,49 @@ primary-color: "#fba946"
 header-image: /assets/sunshineonleith.jpg
 header-image-contain: false
 flyer: /assets/sunshine-posterholder.jpg
-box-office-open: false
+box-office-open: true
+box-office-link: https://sedos.ticketsolve.com/ticketbooth/shows/1173636617
 sections:
   - order: 1
     title: CAST & CREATIVE TEAM
     body: |-
+      **CAST**
+
+      **DAVY** | Joe McWilliam\
+      **ALLY** | Adam Richardson\
+      **LIZ** | Ruth Granton\
+      **JEAN** | Audrey Lindsay\
+      **RAB** |  Gerard Martin\
+      **YVONNE** | Eilish Mulvihill\
+      **EILIDH** | Katie Sterland
+
+      **BUSKER / ENSEMBLE** | Ross McNeil\
+      **BARMAN / ENSEMBLE** |  James McKendrick\
+      **INSTRUCTOR/ENSEMBLE** | Chris Peters\
+      **MOIRA / ENSEMBLE** | Katie Fozzard\
+      **KAREN / ENSEMBLE** | Livvy Perrett\
+      **ANDY / ENSEMBLE** | Alex Johnston\
+      **INNES / ENSEMBLE** | Dave McGroarty\
+      **WEDDING SINGER / ENSEMBLE** | Ema-Mae West\
+      **CELEBRITY CHEF / ENSEMBLE** | Connie McFarlane\
+      **HAZEL / ENSEMBLE** | Natalie Emden\
+      **YOUNG JEAN / ENSEMBLE** | Justine Matthew\
+      **YOUNG RAB / ENSEMBLE** | Calum Shiels
+
       **CREATIVE TEAM**
 
       **DIRECTOR** | Sorrel Brown\
-      **MUSICAL DIRECTOR** | Oscar Denihan\
-      **CHOREOGRAPHER** | Catherine Higgins\
-      **PRODUCER** | Adam Coppard
+      **MUSICAL DIRECTOR** | Oscar Dennihan\
+      **CHOREOGRAPHER** | Catherine "Chiggins" Higgins\
+      **ASSISTANT DIRECTOR** | Jack Brown\
+      **PRODUCERS** | Adam Coppard and Amy Newell\
+      **SET DESIGNER** | George Langdown\
+      **LIGHTING DESIGNER** | Shiri Stern\
+      **SOUND DESIGNER** | Adam Coppard\
+      **COSTUME DESIGNER** | Rachel Beggs\
+      **STAGE MANAGER** | Charlotte Murray\
+      **MARKETING** | Tess Robinson, Ellie McWilliam, Tasha Msanide\
+      **COMMITTEE LIAISONS** | Adrian Hau and Jacob Hajjar
 metaTitle: Sunshine on Leith plays at the Bridewell Theatre from 10-20 May 2023
 metaDescription: Sunshine on Leith  is part of Sedos’ 2023 London season and
   plays at the Bridewell Theatre from 10-20 May 20233. A jubilant, heartfelt
