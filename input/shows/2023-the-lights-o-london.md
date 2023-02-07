@@ -17,37 +17,7 @@ header-image: /assets/lights-o-london.jpg
 header-image-contain: false
 flyer: /assets/lightolondon-postedrholder.jpg
 box-office-open: false
-sections:
-  - order: 1
-    title: CAST & CREATIVE TEAM
-    body: >-
-      **CREATIVE TEAM**
-
-
-      **DIRECTOR** | Peter Foster\
-
-      **DESIGNER** | Miranda Melville\
-
-      **LIGHTING DESIGNER** | Martin Walton \
-
-      **SOUND DESIGNER** | Henry Whittaker\
-
-      **HAIR & MAKE-UP DESIGNER** | Jobina Hardy
-
-
-      We are keen to find the following people to join our team: 
-
-
-      Producer\
-
-      Movement/Assistant Director\
-
-      Stage Management team\
-
-      Wardrobe team
-
-
-      If you are interested, please contact [peter@sedos.co.uk](mailto:peter@sedos.co.uk)
+sections: []
 metaTitle: The Lights o' London plays at the Bridewell Theatre from 26-30 September 2023
 metaDescription: "Epic Victorian melodrama The Lights o' London is part of
   Sedos’ 2023 London season and plays at the Bridewell Theatre from 26-30
