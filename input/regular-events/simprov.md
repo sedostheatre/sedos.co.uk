@@ -29,7 +29,7 @@ Secure your place by [booking online](https://sedos.ticketsolve.com/ticketbooth/
 
 For more info, head to the [Simprov Facebook page.](https://www.facebook.com/groups/176792046058352/)
 
-After four years we have decided to bring our support of in-house improv group The Banana Hut Gang, which was formed from a collection of the most die-hard Simprov attendees, to an end. This will allow the group to go their own way and flourish outside of our organisation. You can still follow the group on their [Facebook page](https://www.facebook.com/bananahutgang/).”
+After four years we have decided to bring our support of in-house improv group The Banana Hut Gang, which was formed from a collection of the most die-hard Simprov attendees, to an end. This will allow the group to go their own way and flourish outside of our organisation. You can still follow the group on their [Facebook page](https://www.facebook.com/bananahutgang/).
 
 ^^^
 ![Simprov is a drop-in London improvisation group run by theatre company Sedos](/assets/simprov3-360.jpg)
