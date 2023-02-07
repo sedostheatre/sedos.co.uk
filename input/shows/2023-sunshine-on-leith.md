@@ -82,6 +82,8 @@ Originally a stage musical before being transformed into the 2013 feature film a
 \
 *Sunshine on Leith* is a vibrant, energetic piece of musical theatre, originally developed by the Dundee Rep Theatre and loved by audiences and critics alike.
 
-*Sunshine on Leith* plays at the [Bridewell Theatre](https://sedos.co.uk/venues/bridewell) from 10-20 May 2023. This show is suitable for audiences aged 12+. Contains use of strobe lighting, depictions of war, depictions of illness/hospitalisation, and occasional strong language.
+This show is suitable for audiences aged 12+. Contains use of strobe lighting, depictions of war, depictions of illness/hospitalisation, and occasional strong language.
+
+*Sunshine on Leith* plays at the [Bridewell Theatre](https://sedos.co.uk/venues/bridewell) from 10-20 May 2023. 
 
 This amateur production is presented by arrangement with Music Theatre International. All authorised performance materials are also supplied by MTI. [www.mtishows.co.uk](http://www.mtishows.co.uk/)
