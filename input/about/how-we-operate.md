@@ -34,16 +34,10 @@ The trustees are elected by the members for three-year terms or co-opted in acco
 **Trustee with financial responsibility** | Nick Dore\
 **ex officio, Chair of the management committee** | Matt Gould
 
-Alex Baker
-
-Ella Benson-Roberts
-
-Jack Brown
-
-Sara Rajeswaran
-
-Robert J Stanex
-
+Alex Baker\
+Jack Brown\
+Sara Rajeswaran\
+Robert J Stanex\
 Graham White
 
 [Minutes of trustees’ meetings can be found here](https://drive.google.com/drive/folders/13fa6XEho_8j5tAyxQX0wwuJ5HXOcRmjZ?usp=sharing)
