@@ -8,7 +8,7 @@ metaTitle: London amateur theatre group Sedos announce 2023 Season of plays and 
 ---
 ^^^
 ![](/assets/sedos-season-2023-v3-1500pixels.jpg)
-^^^
+^^^ 
 
 *30 September 2023*
 
@@ -61,8 +61,6 @@ A week of fun activities for Sedos members and their friends. More details will 
 **THE LIGHTS O' LONDON | 26-30 September 2023**\
 *by George R. Sims*\
 An epic Victorian melodrama.
-
-Director | **Peter Foster**
 
 \
 **TITANIC | 22 November-2 December 2023**\
