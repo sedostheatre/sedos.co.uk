@@ -34,5 +34,3 @@ As one of the travelling players says of his wife, "If you see her play Lady Mac
 *The Lights o' London* plays at the [Bridewell Theatre](https://sedos.co.uk/venues/bridewell) from 26-30 September 2023.
 
 Audition details will be announced in April, as we look for a balanced ensemble cast of 16 players, performing 35 leading, supporting and featured roles, to be in place by mid June. Rehearsals start in mid July.
-
-For more details or with questions you may have, contact Director, Peter Foster: [peter@sedos.co.uk](mailto:peter@sedos.co.uk)
