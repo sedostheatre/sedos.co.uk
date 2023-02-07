@@ -42,7 +42,7 @@ sections:
       **EILIDH** | Katie Sterland
 
       **BUSKER / ENSEMBLE** | Ross McNeil\
-      **BARMAN / ENSEMBLE** |  James McKendrick\
+      **BARMAN / ENSEMBLE** | James McKendrick\
       **INSTRUCTOR/ENSEMBLE** | Chris Peters\
       **MOIRA / ENSEMBLE** | Katie Fozzard\
       **KAREN / ENSEMBLE** | Livvy Perrett\
