@@ -37,7 +37,7 @@ sections:
       **ALLY** | Adam Richardson\
       **LIZ** | Ruth Granton\
       **JEAN** | Audrey Lindsay\
-      **RAB** | Gerard Martin\
+      **RAB** | Gerard Toner-Martin\
       **YVONNE** | Eilish Mulvihill\
       **EILIDH** | Katie Sterland
 
