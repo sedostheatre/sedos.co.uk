@@ -32,4 +32,4 @@ We know that, if we want to be accountable for the steps we are taking to improv
 
 Our work on diversity and inclusion is an ongoing project, with much more to do.
 
-If you would like to get involved in this work, or if you have any other comments you would like to send us, please email equality@sedos.co.uk
+If you would like to get involved in this work, or if you have any other comments you would like to send us, please email [equality@sedos.co.uk](mailto:equality@sedos.co.uk).
