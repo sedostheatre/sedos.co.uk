@@ -1,6 +1,6 @@
 ---
 title: About Sedos
-row: 1
+row: 2
 column: 1
 image: /assets/earthquakes-aboutus.jpg
 RedirectFrom:

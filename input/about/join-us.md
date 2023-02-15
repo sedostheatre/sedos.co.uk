@@ -1,10 +1,13 @@
 ---
 title: Join us
 row: 1
-column: 2
+column: 1
 image: /assets/aboutus-ragtime-2.jpg
 RedirectFrom:
   - aboutus/joinus.htm
+  - aboutus/faq.htm
+  - pitchprocess.htm
+  - about/faqs
 ---
 ## **Join Sedos**
 
@@ -12,7 +15,7 @@ Sedos is a [London amateur theatre](https://sedos.co.uk) company, bringing toget
 
 Membership fees are £30 a year if paid by direct debit, £35 otherwise. We would always be open to a discussion with anyone who found our membership fee a barrier to participation.
 
-If you’d like to find out more about joining Sedos please email [membership@sedos.co.uk](mailto:membership@sedos.co.uk) for more details, and our membership secretary will be happy to get back to you or visit [membership.sedos.co.uk](https://membership.sedos.co.uk) to join. 
+If you’d like to find out more about joining Sedos please email [membership@sedos.co.uk](mailto:membership@sedos.co.uk) for more details, and our membership secretary will be happy to get back to you or visit [membership.sedos.co.uk](https://membership.sedos.co.uk) to join.
 
 **Shows**
 
@@ -50,7 +53,7 @@ We put together regular and varied social events for our members, from play-read
 
 To make sure our members stay at the top of their game, we regularly offer professional-standard performance workshops to improve their skills across the board.
 
-We also have pre-audition workshops where auditionees can meet the team, find out more about the show and probably run through some of the audition material in a relaxed atmosphere. 
+We also have pre-audition workshops where auditionees can meet the team, find out more about the show and probably run through some of the audition material in a relaxed atmosphere.
 
 **Our commitment to diversity**
 
