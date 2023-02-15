@@ -5,7 +5,7 @@ column: 2
 image: /assets/working-about-crop.jpg
 ---
 
-## Diversity and Inclusion
+## Diversity and inclusion
 Sedos is proud to be a founder member of [London Drama Societies](https://www.londondramasocieties.co.uk/home), which commits each member society to the following statement:
 
 >Collectively, we commit to take constant steps to be more inclusive and attract members and audiences reflecting London's diversity.
