@@ -14,7 +14,7 @@ showtimes:
 showtime-summary: 17-21 October 2017
 venue: bridewell
 primary-color: "#d41946"
-header-image: /assets/37705654016_75bc500039_k.jpg
+header-image: /assets/frankenstein-monster.jpg
 flyer: /assets/frankenstein-a5-flyerfront-final-1000.jpg
 sections:
   - title: CAST & CREATIVE TEAM

@@ -386,7 +386,7 @@ RedirectFrom:
 ## *Frankenstein*
 
 ^^^
-![](/assets/37705654016_b820d8a35e_c.jpg)
+![](/assets/frankenstein-monster.jpg)
 ^^^ Frankenstein
 
 >Watching [Jonathon] Cooper’s character progression and journey throughout the whole show was, I felt, a master class in acting.
