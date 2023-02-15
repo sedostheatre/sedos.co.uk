@@ -2,7 +2,7 @@
 title: Diversity and Inclusion
 row: 1
 column: 2
-image: /assets/working.jpg
+image: /assets/working-about-crop.jpg
 ---
 
 ## Diversity and Inclusion
