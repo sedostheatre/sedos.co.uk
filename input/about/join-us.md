@@ -71,7 +71,7 @@ Sedos is a founder member of [London Drama Societies](https://www.londondramasoc
 
 In addition, members have the right to stand for election to the trustees and management committee and to vote at General Meetings.
 
-## **More about auditions, rehearsals and show week**
+### **More about auditions, rehearsals and show week**
 
 **What will be in the audition?**
 
