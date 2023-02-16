@@ -55,7 +55,7 @@ To make sure our members stay at the top of their game, we regularly offer profe
 
 We also have pre-audition workshops where auditionees can meet the team, find out more about the show and probably run through some of the audition material in a relaxed atmosphere.
 
-**Our commitment to diversity**
+**Our commitment to [diversity and inclusion](https://www.sedos.co.uk/about/diversity-and-inclusion)**
 
 Sedos is a founder member of [London Drama Societies](https://www.londondramasocieties.co.uk), which commits each member society to the following statement:
 
