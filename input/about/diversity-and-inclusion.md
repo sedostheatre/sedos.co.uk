@@ -1,19 +1,19 @@
 ---
-title: Diversity and Inclusion
+title: Diversity and inclusion
 row: 1
 column: 2
 image: /assets/working-about-crop.jpg
 ---
-
 ## Diversity and inclusion
+
 Sedos is proud to be a founder member of [London Drama Societies](https://www.londondramasocieties.co.uk/home), which commits each member society to the following statement:
 
->Collectively, we commit to take constant steps to be more inclusive and attract members and audiences reflecting London's diversity.
->We will identify and remove barriers to create a safe and inclusive environment. We want everyone to feel empowered to participate, on stage or off. We want stories to be told authentically.
+> Collectively, we commit to take constant steps to be more inclusive and attract members and audiences reflecting London's diversity.
+> We will identify and remove barriers to create a safe and inclusive environment. We want everyone to feel empowered to participate, on stage or off. We want stories to be told authentically.
 
 ### What is London Drama Societies?
 
-In June 2020, in the wake of the death of George Floyd and the surge of the Black Lives Matter movement, Sedos published a [Commitment to Change]( https://sedos.co.uk/news/2020-06-17-black-lives-matter---taking-action?mc_cid=1e3299df0b&mc_eid=74edd08618).
+In June 2020, in the wake of the death of George Floyd and the surge of the Black Lives Matter movement, Sedos published a [Commitment to Change](https://sedos.co.uk/news/2020-06-17-black-lives-matter---taking-action?mc_cid=1e3299df0b&mc_eid=74edd08618).
 
 Sedos then joined with representatives from the leadership of Centre Stage and Geoids Musical Theatre to discuss ways we could make conscious and concrete steps to improve diversity and inclusion in our societies.
 
@@ -32,3 +32,7 @@ We know that, if we want to be accountable for the steps we are taking to improv
 Our work on diversity and inclusion is an ongoing project, with much more to do.
 
 If you would like to get involved in this work, or if you have any other comments you would like to send us, please email [equality@sedos.co.uk](mailto:equality@sedos.co.uk).
+
+^^^
+![Diversity and inclusion: the cast of Sedos’ 2021 production of Working](/assets/51630411608_a2d8c045e8_k.jpg)
+^^^ The cast of Sedos’ 2021 production of Working
