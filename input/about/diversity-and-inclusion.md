@@ -29,9 +29,11 @@ We know that, if we want to be accountable for the steps we are taking to improv
 
 ### Get involved in our diversity and inclusion work or give us feedback
 
-Our work on diversity and inclusion is an ongoing project, with much more to do.
+Our work on diversity and inclusion is an ongoing project, with much more to do.  
 
 If you would like to get involved in this work, or if you have any other comments you would like to send us, please email [equality@sedos.co.uk](mailto:equality@sedos.co.uk).
+
+You can read Sedos’ full equality, diversity and inclusion policy [here](https://www.sedos.co.uk/assets/policies/2022-10-edi-policy.pdf).
 
 ^^^
 ![Diversity and inclusion: the cast of Sedos’ 2021 production of Working](/assets/51630411608_a2d8c045e8_k.jpg)
