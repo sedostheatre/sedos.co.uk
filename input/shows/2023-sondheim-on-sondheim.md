@@ -43,6 +43,8 @@ His story. His inspiration. His genius. The tapestry of creativity that characte
 
 *Sondheim on Sondheim* plays at the [Bridewell Theatre](https://sedos.co.uk/venues/bridewell) from 4-8 July 2023.
 
+Information about [*Sondheim on Sondheim* auditions](https://www.sedos.co.uk/events/sondheim-on-sondheim-auditions) has now been released. 
+
 Music and Lyrics by Stephen Sondheim\
 Conceived and directed on Broadway by James Lapine\
 Inspired by a concept by David Kernan\
