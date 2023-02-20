@@ -52,7 +52,7 @@ You can read Sedos’s Equality, Diversity and Inclusion policy in full [here](h
 
 **FIND OUT MORE**
 
-Read the[ full audition notice](https://docs.google.com/document/d/1RD9SOqRRVF3bC-uQwdlbeW5kawro4Lb8aOQnyLQvvHM/edit) to find out how to submit a self-tape for the first round of auditions. 
+Read the [full audition notice](https://docs.google.com/document/d/1RD9SOqRRVF3bC-uQwdlbeW5kawro4Lb8aOQnyLQvvHM/edit) to find out how to submit a self-tape for the first round of auditions. 
 
 **MORE ABOUT SEDOS AUDITIONS**
 
