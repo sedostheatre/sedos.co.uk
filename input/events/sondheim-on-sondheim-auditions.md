@@ -14,7 +14,7 @@ Information has now been released about *[Sondheim on Sondheim](https://www.sedo
 
 **ABOUT THE SHOW**
 
-Hailed as a "revelatory revue full of wonderful moments" and a "funny, affectionate and revealing tribute to musical theatre’s greatest living composer and lyricist", Sondheim on Sondheim is an intimate portrait of the famed songwriter in his own words and music. Through the use of exclusive interview footage, audiences get an inside look at the personal life and artistic process of famed composer, Stephen Sondheim.
+Hailed as a “revelatory revue full of wonderful moments” and a “funny, affectionate and revealing tribute to musical theatre’s greatest living composer and lyricist”, Sondheim on Sondheim is an intimate portrait of the famed songwriter in his own words and music. Through the use of exclusive interview footage, audiences get an inside look at the personal life and artistic process of famed composer, Stephen Sondheim.
 
 His story. His inspiration. His genius. The tapestry of creativity that characterises Stephen Sondheim remained largely undiscussed, especially by the man himself, until the creation of *Sondheim on Sondheim*. Ranging from the beloved to the obscure, the carefully selected two-dozen songs hang from a framework of in-depth video interviews, delving into Sondheim’s personal life and artistic process.
 
