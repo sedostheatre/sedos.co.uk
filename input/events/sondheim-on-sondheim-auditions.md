@@ -42,7 +42,7 @@ Our aim is to place the focus of the music and performances themselves. The set 
 
 Our intention is to replicate the traditional casting of eight core performers with an additional cast of four ensemble members making a total cast of 12. We intend to cast a mixture of genders. Casting will primarily be based on voice type and we are looking for a range of ages. There is a large quantity of numbers in the show so everyone will be kept very busy!
 
-**DIVERSITY AND INCLUSION IN CASTING**
+**[DIVERSITY AND INCLUSION](https://www.sedos.co.uk/about/diversity-and-inclusion) IN CASTING**
 
 We are committed to ensuring *Sondheim on Sondheim*, and Sedos activities generally, are equally accessible to any person irrespective of race, colour, creed, ethnic or national origin, disability, religious belief, age, gender, sexual orientation, marital status, or class/socio-economic group. This is especially true of *Sondheim on Sondheim* where the only consideration in casting is whether an auditionee is able to learn and perform the music required for the show and demonstrates they are willing to work hard to support and cooperate with the overall team.
 
