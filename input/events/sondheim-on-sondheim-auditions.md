@@ -1,6 +1,14 @@
 ---
-title: Sondheim on Sondheim auditions
+title: Sondheim on Sondheim workshop and auditions
+times:
+  - time: 2023-03-05 13:00
+  - time: 2023-03-16 23:59
 image: /assets/sos-image.png
+imageAlt: Sondheim on Sondheim auditions
+recurrence: Workshop 5 March; self-tape auditions – deadline 16 March
+metaTitle: Sondheim on Sondheim auditions
+metaDescription: Find out how to sing up for Sedos’ Sondheim on Sondheim
+  auditions for our production in July 2023
 ---
 Information has now been released about *[Sondheim on Sondheim](https://www.sedos.co.uk/shows/2023-sondheim-on-sondheim)* auditions.
 
