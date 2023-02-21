@@ -25,7 +25,7 @@ sections:
     body: |-
       **CREATIVE TEAM**
 
-      **CO-DIRECTORS** | Dan Saunders and Tess Robinson\
+      **DIRECTOR** | Tess Robinson\
       **MUSICAL DIRECTOR** | Adrian Hau\
       **PRODUCER** | Lizzie Levett\
       **VIDEO CREATED AND DESIGNED BY** Peter Flaherty
