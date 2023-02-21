@@ -30,7 +30,7 @@ Our aim is to place the focus of the music and performances themselves. The set 
 
 # [FULL AUDITION NOTICE](https://docs.google.com/document/d/1RD9SOqRRVF3bC-uQwdlbeW5kawro4Lb8aOQnyLQvvHM/edit)
 
-**KEY DATES**
+**KEY DATES FOR SONDHEIM ON SONDHEIM AUDITIONS**
 
 **Workshop:** Sunday 5 March \
 **Self-tape first round auditions:** submission deadline 16 March\
