@@ -21,6 +21,9 @@ showtimes:
   - time: 2023-05-20 19:30
 showtime-summary: 10-20 May 2023
 venue: Bridewell Theatre
+additional-ticket-info: >
+  Gala nights: Friday 12 and Friday 19 May - tickets include a drink and
+  programme
 primary-color: "#FECC32"
 header-image: /assets/sol-hero.png
 header-image-contain: false
