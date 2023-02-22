@@ -13,6 +13,8 @@ showtimes:
   - time: 2023-03-25 19:30
 showtime-summary: 21-25 MARCH 2023
 venue: Bridewell Theatre
+additional-ticket-info: |
+  Gala night: Friday 24 March - tickets include a drink and programme
 primary-color: "#000000"
 header-image: /assets/the-effect-actual.jpg
 header-image-contain: false
