@@ -59,5 +59,5 @@ Read the [full audition notice](https://docs.google.com/document/d/1RD9SOqRRVF3b
 Information about all our [London auditions](https://www.sedos.co.uk/get-involved).
 
 ^^^
-![Sondheim on Sondheim auditions](/assets/sos-image.png)
+![Sondheim on Sondheim auditions](/assets/sondheim-long.png)
 ^^^
