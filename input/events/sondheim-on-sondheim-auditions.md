@@ -3,7 +3,7 @@ title: Sondheim on Sondheim workshop and auditions
 times:
   - time: 2023-03-05 13:00
   - time: 2023-03-16 23:59
-image: /assets/sos-image.png
+image: /assets/sondheim-long.png
 imageAlt: Sondheim on Sondheim auditions
 recurrence: Workshop 5 March; self-tape auditions – deadline 16 March
 metaTitle: Sondheim on Sondheim auditions
@@ -59,5 +59,5 @@ Read the [full audition notice](https://docs.google.com/document/d/1RD9SOqRRVF3b
 Information about all our [London auditions](https://www.sedos.co.uk/get-involved).
 
 ^^^
-![Sondheim on Sondheim auditions](/assets/sos-image.png)
+![Sondheim on Sondheim auditions](/assets/sondheim-long.png)
 ^^^
