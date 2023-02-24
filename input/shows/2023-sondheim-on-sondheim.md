@@ -28,6 +28,7 @@ sections:
       **DIRECTOR** | Tess Robinson\
       **MUSICAL DIRECTOR** | Adrian Hau\
       **PRODUCER** | Lizzie Levett\
+      **ASSOCIATE MUSICAL DIRECTOR** | Isaac Bartels\
       **VIDEO CREATED AND DESIGNED BY** Peter Flaherty
 metaTitle: Sondheim on Sondheim plays at the Bridewell Theatre from 4-8 July 2023
 metaDescription: Sondheim on Sondheim is part of Sedos’ 2023 London season and
