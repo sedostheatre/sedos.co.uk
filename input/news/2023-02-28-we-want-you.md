@@ -6,7 +6,7 @@ imageAlt: "Sedos members, trustees and committee members at the 2022 AGM "
 ---
 ^^^
 ![](/assets/sedosagm-22-crop.jpg)
-^^^ Sedos members, trustees and committee members at the 2022 AGM 
+^^^ Sedos members, trustees and committee members at the 2022 AGM
 
 *28 February 2023*
 
@@ -15,7 +15,7 @@ Sedos is run primarily by two bodies:
 * A **Management Committee** that helps run the day-to-day (assists with selecting and putting on shows, making day-to-day payments and budgets, dealing with box office, organising member events etc.); and
 * A **Board of Trustees** that supervises the Management Committee and makes overarching strategic and financial decisions (decides on policies and the overall direction of the society, administers special projects, considers and reacts to risks to the society etc.).
 
-Our AGM this year will be on the 8 of June 2023 and a number of positions on both the Management Committee and the Board of Trustees will come up for election. We are always looking for new and diverse voices, different skill sets and people with the energy to take action on the behind-the-scenes administration of Sedos.
+Our AGM this year will be on **Thursday 8 June 2023** and a number of positions on both the Management Committee and the Board of Trustees will come up for election. We are always looking for new and diverse voices, different skill sets and people with the energy to take action on the behind-the-scenes administration of Sedos.
 
 Given the current make-up of the Board of Trustees, in particular we are currently looking for:
 
