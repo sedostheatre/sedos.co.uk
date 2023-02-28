@@ -7,6 +7,10 @@ venue: Venue TBA
 metaTitle: 2023 Sedos AGM
 metaDescription: ""
 ---
+^^^
+![](/assets/sedosagm-22-crop.jpg)
+^^^ Sedos members, trustees and committee members at the 2022 AGM
+
 **Save the date! The 2023 Sedos AGM will take place on Thursday 8 June.** 
 
 Venue, timings and more information will be released nearer the time, but please put the date in your diary.
