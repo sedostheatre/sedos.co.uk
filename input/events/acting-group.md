@@ -22,6 +22,6 @@ Scripts should be approximately five minutes (no longer than eight minutes) and 
 
 **There is a £5 payment for Sedos members and non-members alike at our London Acting Group.**
 
-Please sign up by emailing Helena and Lloyd at [](mailto:[membership@sedos.co.uk](<>))[acting@sedos.co.uk](mailto:acting@sedos.co.uk) stating your name and any questions.
+Please sign up by emailing Helena and Lloyd at [](mailto:[acting@sedos.co.uk](<>))[acting@sedos.co.uk](mailto:acting@sedos.co.uk) stating your name and any questions.
 
 That's it! We will reply confirming the studio number at Theatre Deli a few days ahead of the group.
