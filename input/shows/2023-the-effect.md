@@ -37,10 +37,14 @@ sections:
 
       **DIRECTOR** | Jonathon Harding-Cooper\
       **PRODUCER** | Ben Hussey\
-      **ASSISTANT PRODUCER** | Sukhi Bains\
+      **LIGHTING DESIGN** | Rhona Sampson\
       **SET REALISATION** | Andrew Laidlaw\
-      **INTIMACY COORDINATOR** | Kim Barker\
-      **MARKETING** | Natalie Harding-Cooper
+      **STAGE MANAGER** | Laura Martin\
+      **ASSISTANT PRODUCER** | Sukhi Bains\
+      **PROPS** | Aimee Parnell\
+      **WELL-BEING COORDINATOR** | Kim Barker\
+      **MARKETING and COSTUMES** | Natalie Harding-Cooper\
+      **PHOTOGRAPHY** | Stephen Russell
     title: CAST & CREATIVE TEAM
   - order: 2
     title: FLYER
