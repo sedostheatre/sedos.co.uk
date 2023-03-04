@@ -25,9 +25,10 @@ sections:
     body: |-
       **CREATIVE TEAM**
 
-      **CO-DIRECTORS** | Dan Saunders and Tess Robinson\
+      **DIRECTOR** | Tess Robinson\
       **MUSICAL DIRECTOR** | Adrian Hau\
       **PRODUCER** | Lizzie Levett\
+      **ASSOCIATE MUSICAL DIRECTOR** | Isaac Bartels\
       **VIDEO CREATED AND DESIGNED BY** Peter Flaherty
 metaTitle: Sondheim on Sondheim plays at the Bridewell Theatre from 4-8 July 2023
 metaDescription: Sondheim on Sondheim is part of Sedos’ 2023 London season and
@@ -42,6 +43,8 @@ Hailed as a "revelatory revue full of wonderful moments" and a "funny, affection
 His story. His inspiration. His genius. The tapestry of creativity that characterizes Stephen Sondheim remained largely undiscussed, especially by the man himself, until the creation of *Sondheim on Sondheim*. Ranging from the beloved to the obscure, the carefully selected two-dozen songs hang from a framework of in-depth video interviews, delving into Sondheim's personal life and artistic process.
 
 *Sondheim on Sondheim* plays at the [Bridewell Theatre](https://sedos.co.uk/venues/bridewell) from 4-8 July 2023.
+
+Information about [*Sondheim on Sondheim* auditions](https://www.sedos.co.uk/events/sondheim-on-sondheim-auditions) has now been released. 
 
 Music and Lyrics by Stephen Sondheim\
 Conceived and directed on Broadway by James Lapine\

@@ -13,6 +13,8 @@ showtimes:
   - time: 2023-03-25 19:30
 showtime-summary: 21-25 MARCH 2023
 venue: Bridewell Theatre
+additional-ticket-info: |
+  Gala night: Friday 24 March - tickets include a drink and programme
 primary-color: "#000000"
 header-image: /assets/the-effect-actual.jpg
 header-image-contain: false
@@ -61,11 +63,9 @@ Two young volunteers, Tristan and Connie, agree to take part in a clinical drug 
 
 This show contains references to mental illness, and sexual language and actions.
 
-Registration is now open for [*The Effect* auditions](https://www.sedos.co.uk/events/the-effect-workshop-and-auditions).
-
 *The Effect* plays at the [Bridewell Theatre](https://sedos.co.uk/venues/bridewell) from 21-25 March 2023. 
 
-This amateur production of The Effect is presented by arrangement with Concord Theatricals Ltd. on behalf of Samuel French Ltd. ww.concordtheatricals.co.uk
+This amateur production of The Effect is presented by arrangement with Concord Theatricals Ltd. on behalf of Samuel French Ltd. [www.concordtheatricals.co.uk](https://www.concordtheatricals.co.uk)
 
 ><em>The Effect</em></a> is a headlong delve into the mysteries of the human brain. And Prebble pulls it off with assurance, tickling our cerebellums in the first half, before tugging on our heartstrings in the second ... heartbreaking ... [it has] a heart as well as a brain.
 ><footer><cite>Time Out</cite></footer>
