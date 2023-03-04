@@ -47,7 +47,7 @@ sections:
       Scripts should be approx. 5 minutes (no longer than 8 minutes) and there will be a selection of 2-3 handers on the day to choose from (monologues are welcome too).
 
 
-      The group is free for members but please sign up by emailing Helena at [membership@sedos.co.uk](mailto:membership@sedos.co.uk) stating your name so we have an idea of numbers.
+      The group is free for members but please sign up by emailing Helena at [acting@sedos.co.uk](mailto:acting@sedos.co.uk) stating your name so we have an idea of numbers.
 
 
       That's it! We won't reply unless you ask us a specific question.
