@@ -23,7 +23,9 @@ namespace Sedos.Pipelines
                 { "sunshine/material", "https://drive.google.com/drive/folders/1eMb1eu5-fZxbYa3fpgw10hoGoDrpsrD3?usp=sharing" },
                 { "sunshine/form", "https://forms.gle/59bymGMZ791kArsp8" },
                 { "sunshine/notice", "https://drive.google.com/file/d/1lfh7yP1i_8OmpmQeSJR_CyTglQ2V3J_G/view?usp=share_link" },
-                { "sunshine/recall", "https://drive.google.com/drive/folders/12XZ-xPPgOEVmxaChH51V_mHw9u8KOTZ2?usp=sharing" }
+                { "sunshine/recall", "https://drive.google.com/drive/folders/12XZ-xPPgOEVmxaChH51V_mHw9u8KOTZ2?usp=sharing" },
+                { "september-2023-pitch-form", "https://docs.google.com/document/d/1Tu7-F-i1KQNtF72sZz4p_Xp1xisqESj4BAriVLXxp2Q/edit" },
+                { "september-2023-pitch-guidance", "https://docs.google.com/document/d/1fPWJSJ7tM6FzxCI7Xsw3qZ8hN78nqCUod525xa7lzqM/edit" }
             };
 
             ProcessModules = new ModuleList
