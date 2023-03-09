@@ -4,6 +4,8 @@ date: 2023-03-09
 ---
 *9﻿ March 2023*
 
+![](/assets/pitch_question_curtain.jpg)
+
 **We are now inviting applications for a one week play to be performed as part of the 2023 Sedos Season. This production will take place at the Bridewell Theatre where we are the resident theatre company.**
 
 We’d love to receive pitches from anyone who wants to apply, no matter their background. As a society, we are committed to being as inclusive as possible and therefore are looking for a truly diverse range of people to come forward to be involved both on stage and off.
