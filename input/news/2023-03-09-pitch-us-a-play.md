@@ -17,7 +17,7 @@ Even if you are not attached to a specific pitch, now is also a great time to le
 
 The application form and guidance notes can be found at the links below:
 
-sedos.co.uk/september-2023-pitch-guidance
+[sedos.co.uk/september-2023-pitch-guidance ](http://sedos.co.uk/september-2023-pitch-guidance)\
 [sedos.co.uk/september-2023-pitch-form](http://sedos.co.uk/september-2023-pitch-form)
 
 **The closing date for submissions is 11pm on Friday 31 March.**
