@@ -1,6 +1,7 @@
 ---
 title: Pitch us a play!
 date: 2023-03-09
+image: /assets/pitch_question_curtain.jpg
 ---
 *9﻿ March 2023*
 
