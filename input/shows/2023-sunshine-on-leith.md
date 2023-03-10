@@ -21,6 +21,7 @@ showtimes:
   - time: 2023-05-20 19:30
 showtime-summary: 10-20 May 2023
 venue: Bridewell Theatre
+ticket-prices: From £11.50
 additional-ticket-info: >
   Gala nights: Friday 12 and Friday 19 May - tickets include a drink and
   programme
