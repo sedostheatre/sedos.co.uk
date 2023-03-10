@@ -47,6 +47,9 @@ sections:
       **PHOTOGRAPHY** | Stephen Russell
     title: CAST & CREATIVE TEAM
   - order: 2
+    title: TRAILER
+    body: <div class="video-responsive"><?# YouTube NTJRynyaHhw /?></div>
+  - order: 3
     title: FLYER
     body: |-
       ![](/assets/the-effect-flyer-web.png)
@@ -60,10 +63,6 @@ metaDescription: The Effect, by Lucy Prebble, is part of Sedos’ 2023 London
   attraction
 ---
 **Part psychological thriller, part chemical romance, *The Effect* is a play that can truly challenge an audience.**
-
-<div class="video-responsive">
-  <?# YouTube NTJRynyaHhw /?>
-</div>
 
 After staging Lucy Prebble’s sold-out *[Enron](https://www.sedos.co.uk/shows/2013-enron)* to great acclaim, in 2023 Sedos returns to the writer 10 years on to tackle her follow up play about medicine and the mind.
 
