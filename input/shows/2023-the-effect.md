@@ -31,7 +31,6 @@ sections:
       **TRISTAN**  |  Omar Aga\
       **LORNA**  |  Jessica Dawes\
       **TOBY**  |  Daniel Saunders\
-      **NURSE**  |  Anie Hu\
       **NURSE**  |  Sophie Goodman
 
       **CREATIVE TEAM**
