@@ -13,6 +13,7 @@ showtimes:
   - time: 2023-03-25 19:30
 showtime-summary: 21-25 MARCH 2023
 venue: Bridewell Theatre
+ticket-prices: From £10
 additional-ticket-info: |
   Gala night: Friday 24 March - tickets include a drink and programme
 primary-color: "#000000"
@@ -47,6 +48,9 @@ sections:
       **PHOTOGRAPHY** | Stephen Russell
     title: CAST & CREATIVE TEAM
   - order: 2
+    title: TRAILER
+    body: <div class="video-responsive"><?# YouTube NTJRynyaHhw /?></div>
+  - order: 3
     title: FLYER
     body: |-
       ![](/assets/the-effect-flyer-web.png)
