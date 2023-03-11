@@ -44,7 +44,8 @@ sections:
       **PROPS** | Aimee Parnell\
       **WELL-BEING COORDINATOR** | Kim Barker\
       **MARKETING and COSTUMES** | Natalie Harding-Cooper\
-      **PHOTOGRAPHY** | Stephen Russell
+      **PHOTOGRAPHY** | Stephen Russell\
+      **COMMITTEE LIAISON** | Tess Robinson
     title: CAST & CREATIVE TEAM
   - order: 2
     title: TRAILER
