@@ -81,3 +81,9 @@ This amateur production of The Effect is presented by arrangement with Concord T
 
 ><em>The Effect</em></a> is a headlong delve into the mysteries of the human brain. And Prebble pulls it off with assurance, tickling our cerebellums in the first half, before tugging on our heartstrings in the second ... heartbreaking ... [it has] a heart as well as a brain.
 ><footer><cite>Time Out</cite></footer>
+
+The Effect team is proud and excited to be supporting CALM - the Campaign Against Living Miserably.
+
+Some of the complex themes in The Effect surrounding mental illness and its treatment will be all too familiar to so many people. Because of that, as a team, we have decided to raise funds for CALM – a leading movement against suicide in the UK.
+
+You can learn more about the fantastic work CALM is doing and how you can show your support [here](https://www.justgiving.com/page/the-effect2023).
