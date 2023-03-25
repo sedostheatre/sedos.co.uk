@@ -10,7 +10,7 @@ address: Bridewell Theatre, Bride Lane, Off Fleet Street, London, EC4Y 8EQ
 ---
 ## The Bridewell Theatre
 
-Most of our [London musicals](https://sedos.co.uk/whats-on) and [London plays](https://sedos.co.uk/whats-on) take place at the Bridewell Theatre, where we are the resident theatre company. Our next shows at the Bridewell are *[The Effect](https://www.sedos.co.uk)* (21-25 March 2023) and *[Sunshine on Leith](https://www.sedos.co.uk/shows/2023-sunshine-on-leith)* (10-20 May 2023). 
+Most of our [London musicals](https://sedos.co.uk/whats-on) and [London plays](https://sedos.co.uk/whats-on) take place at the Bridewell Theatre, where we are the resident theatre company. Our next shows at the Bridewell are *[Sunshine on Leith](https://www.sedos.co.uk/shows/2023-sunshine-on-leith)* (10-20 May 2023) and *[Sondheim on Sondheim](https://www.sedos.co.uk/shows/2023-sondheim-on-sondheim)* (4-8 July 2023). 
 
 * #### [Sedos shows: what’s on at the Bridewell Theatre?](https://sedos.co.uk/whats-on)
 * #### [Buy tickets to our shows at the Bridewell Theatre](https://sedos.ticketsolve.com/shows)
