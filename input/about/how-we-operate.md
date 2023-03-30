@@ -69,8 +69,7 @@ Adrian Hau (he/him)\
 Jacob Hajjar (he/they)\
 Olly Levett (he/him)\
 Tess Robinson (she/her)\
-Mark Sidall (he/him)\
-Kish Soni
+Mark Sidall (he/him)
 
 ## Groups
 
