@@ -29,16 +29,16 @@ The trustees are elected by the members for three-year terms or co-opted in acco
 
 ### The trustees are:
 
-**Chair** | Daniel Saunders\
-**Secretary** | Jessie Davidson\
-**Trustee with financial responsibility** | Nick Dore\
-**ex officio, Chair of the management committee** | Matt Gould
+**Chair** | Daniel Saunders (he/him)\
+**Secretary** | Jessie Davidson (she/her)\
+**Trustee with financial responsibility** | Nick Dore (he/him)\
+**ex officio, Chair of the management committee** | Matt Gould (he/him)
 
-Alex Baker\
-Jack Brown\
-Sara Rajeswaran\
-Robert J Stanex\
-Graham White
+Alex Baker (he/him)\
+Jack Brown (he/him)\
+Sara Rajeswaran (she/her)\
+Robert J Stanex (he/him)\
+Graham White (he/him)
 
 [Minutes of trustees’ meetings can be found here](https://drive.google.com/drive/folders/13fa6XEho_8j5tAyxQX0wwuJ5HXOcRmjZ?usp=sharing)
 
@@ -58,18 +58,18 @@ The management committee meets monthly.
 
 ### Members of the management committee are:
 
-**Chair** | Matt Gould \
-**Treasurer** | Henry Whittaker\
+**Chair** | Matt Gould (he/him) \
+**Treasurer** | Henry Whittaker (he/him)\
 **Marketing group** | Stephen Beeny \
-**Production group** | Adam Coppard\
-Karen Braganza\
+**Production group** | Adam Coppard (he/him)\
+Karen Braganza (she/her)\
 Paul Caira\
-Tim Garrad\
-Adrian Hau\
-Jacob Hajjar\
-Olly Levett \
-Tess Robinson\
-Mark Sidall\
+Tim Garrad (he/him)\
+Adrian Hau (he/him)\
+Jacob Hajjar (he/they)\
+Olly Levett (he/him)\
+Tess Robinson (she/her)\
+Mark Sidall (he/him)\
 Kish Soni
 
 ## Groups
