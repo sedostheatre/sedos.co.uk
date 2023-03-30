@@ -9,7 +9,7 @@ metaDescription: Sedos is updating its policy on use of pronouns to mark
 ---
 *30 March 2022*
 
-**We want to make sure Sedos continues to be a safe, inclusive, diverse and respectful place for all our members and friends. To mark International Transgender Day of Visibility (31 March) our Trustees and Management Committee have added their pronouns to the website.** 
+**We want to make sure Sedos continues to be a safe, inclusive, diverse and respectful place for all our members and friends. To mark International Transgender Day of Visibility (31 March) our Trustees and Management Committee have added [their pronouns to the website](https://www.sedos.co.uk/about/how-we-operate).** 
 
 It is a small but easy way to be more inclusive and normalise discussions surrounding gender. In particular, it allows transgender and non-binary people to let others know which pronouns they’d like to be used, and therefore avoids them being misgendered. 
 
