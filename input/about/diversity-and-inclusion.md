@@ -27,6 +27,14 @@ In June 2021, we also launched Sedos’ first equality monitoring form, which wa
 
 We know that, if we want to be accountable for the steps we are taking to improve our diversity, we need to be able to demonstrate if these steps deliver progress. We are committed to publishing data on our diversity at future AGMs so our members can hold us to account.
 
+### Pronouns
+
+Our Trustees and Management Committee [include their pronouns on the website](https://www.sedos.co.uk/about/how-we-operate) and we encourage production teams to include pronouns on show pages, audition notices, cast reveals and programmes.
+
+It is a small but easy way to be more inclusive and normalise discussions surrounding gender. In particular, it allows transgender and non-binary people to let others know which pronouns they’d like to be used, and therefore avoids them being misgendered. 
+
+It is a personal choice whether or not to use pronouns and we will never force anyone to share theirs if they don’t feel able, safe, or ready to do so. If someone lets you know the pronouns they’d like you to use to refer to them, please be respectful of this. And if you’re unsure when you first meet someone, it’s ok to ask.
+
 ### Get involved in our diversity and inclusion work or give us feedback
 
 Our work on diversity and inclusion is an ongoing project, with much more to do.  
