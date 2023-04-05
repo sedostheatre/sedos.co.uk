@@ -18,7 +18,8 @@ primary-color: "#45576c"
 header-image: /assets/sondheim-piano.jpg
 header-image-contain: false
 flyer: /assets/sondheimonsondheim-posterholder.jpg
-box-office-open: false
+box-office-open: true
+box-office-link: https://sedos.ticketsolve.com/ticketbooth/shows/1173636618
 sections:
   - order: 1
     title: CAST & CREATIVE TEAM
