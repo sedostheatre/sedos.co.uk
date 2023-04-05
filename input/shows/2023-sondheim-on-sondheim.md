@@ -31,6 +31,26 @@ sections:
       **PRODUCER** | Lizzie Levett\
       **ASSOCIATE MUSICAL DIRECTOR** | Isaac Bartels\
       **VIDEO CREATED AND DESIGNED BY** Peter Flaherty
+
+      **CAST**
+
+      Adrianna Cordero-Marino\
+      Andrea Civera\
+      Britt Lewis\
+      Connor Guffogg\
+      Esther Morris\
+      Holli Farr\
+      James Daly\
+      Laura Ellis\
+      Michael Pandazis\
+      Michael Smith\
+      Nick Dore\
+      Nicole Murray\
+      Olga Marie Pratt\
+      Robert. J Stanex\
+      Sadie Kempner\
+      Sam Sugarman\
+      Victoria Basten
 metaTitle: Sondheim on Sondheim plays at the Bridewell Theatre from 4-8 July 2023
 metaDescription: Sondheim on Sondheim is part of Sedos’ 2023 London season and
   plays at the Bridewell Theatre from 4-8 July 2023. An intimate look at the
