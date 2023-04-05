@@ -5,7 +5,11 @@ times:
 image: /assets/little-earth-globe-world-landscape.jpg
 venue: Location TBC but likely in Zone 1/2
 ---
-Friend of Sedos and professional producer Oli Sones is looking for members interested in a reading of a brand new musical. 
+^^^
+![](/assets/little-earth-globe-world-landscape.jpg)
+^^^ 
+
+**Friend of Sedos and professional producer Oli Sones is looking for members interested in a reading of a brand new musical.** 
 
 *Little Earth* is based on the songs of Gilbert and Sullivan, but set in a Sci-Fi world (think *Return to the Forbidden Planet* but operetta!).
 
