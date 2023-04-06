@@ -14,6 +14,9 @@ showtimes:
   - time: 2023-07-08 19:30
 showtime-summary: 4-8 July 2023
 venue: Bridewell Theatre
+ticket-prices: From £11.50
+additional-ticket-info: "Gala night: Fri 17 July – tickets include a glass of
+  fizz and panel discussion with the Sondheim Society"
 primary-color: "#45576c"
 header-image: /assets/sondheim-piano.jpg
 header-image-contain: false
