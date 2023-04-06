@@ -17,4 +17,4 @@ The dream is for the show to be performed by amateur groups all over the world a
 
 The show is looking for 13 people aged 18 and over. There are no specific requirements for casting and we would encourage all to apply.
 
-If you'd like to take part - please e-mail a short CV (not more than 100 words) to [membership@sedos.co.uk](email:membership@sedos.co.uk) - The script read is scheduled for the evening of 25 April (Location TBC but likely in Zone 1/2)
+If you'd like to take part - please e-mail a short CV (not more than 100 words) to [membership@sedos.co.uk](email:membership@sedos.co.uk) - The script read is scheduled for the evening of Tuesday 25 April (Location TBC but likely in Zone 1/2)
