@@ -58,7 +58,12 @@ sections:
       ![](/assets/the-effect-flyer-back-web.png)
   - order: 4
     title: GALLERY
-    body: <a data-flickr-embed="true" href="https://www.flickr.com/photos/sedos/albums/72177720306705993" title="The Effect - 2023"><img src="https://live.staticflickr.com/65535/52745055962_8c39587a23_z.jpg" width="640" height="480" alt="The Effect - 2023"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+    body: <a data-flickr-embed="true"
+      href="https://www.flickr.com/photos/sedos/albums/72177720306705993"
+      title="The Effect - 2023"><img
+      src="https://live.staticflickr.com/65535/52745055962_8c39587a23_z.jpg"
+      width="640" height="480" alt="The Effect - 2023"/></a><script async
+      src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 metaTitle: The Effect, by Lucy Prebble, plays at the Bridewell Theatre from
   21-25 March 2023
 metaDescription: The Effect, by Lucy Prebble, is part of Sedos’ 2023 London
@@ -67,10 +72,6 @@ metaDescription: The Effect, by Lucy Prebble, is part of Sedos’ 2023 London
   attraction
 ---
 **Part psychological thriller, part chemical romance, *The Effect* is a play that can truly challenge an audience.**
-
-<div class="video-responsive">
-  <?# YouTube NTJRynyaHhw /?>
-</div>
 
 After staging Lucy Prebble’s sold-out *[Enron](https://www.sedos.co.uk/shows/2013-enron)* to great acclaim, in 2023 Sedos returns to the writer 10 years on to tackle her follow up play about medicine and the mind.
 
