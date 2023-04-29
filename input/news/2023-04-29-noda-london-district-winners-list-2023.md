@@ -1,6 +1,11 @@
 ---
-title: NODA London District Winners list 2023
+title: Sedos wins five NODA district awards
 date: 2023-04-29
+image: /assets/nodadistrict2023landscape.jpg
+imageAlt: "NODA district awards 2023: Sedos’ winners"
+metaTitle: "NODA district awards 2023: Sedos wins five awards"
+metaDescription: Sedos has won five NODA district awards 2023, been shortlisted
+  for a programme award and received a nomination for a Flame Award
 ---
 *29 April 2022*
 
