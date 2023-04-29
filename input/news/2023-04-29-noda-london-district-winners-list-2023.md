@@ -10,17 +10,17 @@ These awards cover the period 1 April 2022 to 31 March 2023 and all district win
 
 **Our winners are:**
 
-The Sybil Conway Award for Best Female Character in a Play: Jess Rogers as Connie in *The Effect*
+The Sybil Conway Award for best female character in a play: Jess Rogers as Connie in *[The Effect](https://www.sedos.co.uk/shows/2023-the-effect)*
 
-The Charles Sumner Award for the Best Male Character in a Play: Chris de Pury as Antonio Salieri in *Amadeus*
+The Charles Sumner Award for the best male character in a play: Chris de Pury as Antonio Salieri in *[Amadeus](https://www.sedos.co.uk/shows/2022-amadeus)*
 
-The Pat Redhead Award for Best Drama: *Amadeus*
+The Pat Redhead Award for best drama: *Amadeus*
 
-The Joe Putnam Award for Best Musical: *Carrie*
+The Joe Putnam Award for best musical: *[Carrie](https://www.sedos.co.uk/shows/2022-carrie-the-musical)*
 
 **Nomination for:**
 
-NODA London Flame Awards for Inspirational Contribution to the Pursuit of Excellence in Theatre and Enhancement of the overall Theatrical experience: Sedos
+NODA London Flame Awards for inspirational contribution to the pursuit of excellence in Theatre and enhancement of the overall theatrical experience: Sedos
 
 **Shortlisted for:**
 
