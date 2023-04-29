@@ -23,11 +23,11 @@ The Pat Redhead Award for best drama: *Amadeus*
 
 The Joe Putnam Award for best musical: *[Carrie](https://www.sedos.co.uk/shows/2022-carrie-the-musical)*
 
-The NODA London Innovation Trophy: Sedos
+The NODA London Innovation Trophy: for The Power in *Carrie*
 
 **Nomination for:**
 
-NODA London Flame Awards for inspirational contribution to the pursuit of excellence in Theatre and enhancement of the overall theatrical experience: Sedos
+NODA London Flame Awards for inspirational contribution to the pursuit of excellence in Theatre and enhancement of the overall theatrical experience: for the commitment to diversity and inclusion in *[A Midsummer Night’s Dream](https://www.sedos.co.uk/shows/2022-a-midsummer-night-s-dream)*.
 
 **Shortlisted for:**
 
