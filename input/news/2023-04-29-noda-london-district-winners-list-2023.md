@@ -32,3 +32,7 @@ NODA London Flame Awards for inspirational contribution to the pursuit of excel
 **Shortlisted for:**
 
 Programme competition: *Carrie*
+
+^^^
+![NODA district awards 2023: Sedos’ winners](/assets/nodadistrict2023landscape.jpg)
+^^^
