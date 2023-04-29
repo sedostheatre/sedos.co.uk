@@ -7,7 +7,7 @@ metaTitle: "NODA district awards 2023: Sedos wins five awards"
 metaDescription: Sedos has won five NODA district awards 2023, been shortlisted
   for a programme award and received a nomination for a Flame Award
 ---
-*29 April 2022*
+*29 April 2023*
 
 **Sedos has won five NODA district awards for 2023, been shortlisted for a programme award and received a nomination for a Flame Award.**
 
