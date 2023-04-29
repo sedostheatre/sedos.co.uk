@@ -1,7 +1,7 @@
 ---
 title: Sedos wins five NODA district awards
 date: 2023-04-29
-image: /assets/nodadistrict2023landscape.jpg
+image: /assets/nodadistrict2023landscapev2.jpg
 imageAlt: "NODA district awards 2023: Sedos’ winners"
 metaTitle: "NODA district awards 2023: Sedos wins five awards"
 metaDescription: Sedos has won five NODA district awards 2023, been shortlisted
@@ -34,5 +34,5 @@ NODA London Flame Awards for inspirational contribution to the pursuit of excel
 Programme competition: *Carrie*
 
 ^^^
-![NODA district awards 2023: Sedos’ winners](/assets/nodadistrict2023landscape.jpg)
+![NODA district awards 2023: Sedos’ winners](/assets/nodadistrict2023landscapev2.jpg)
 ^^^
