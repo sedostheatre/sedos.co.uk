@@ -47,11 +47,11 @@
             padding-bottom: 0.5em;
             text-transform: uppercase;
 
-            @media (max-height: 60rem) {
+            @media (height <= 60rem) {
                 font-size: 1.5em;
             }
 
-            @media (max-height: 40rem) {
+            @media (height <= 40rem) {
                 font-size: 1em;
             }
 
@@ -89,11 +89,11 @@
         font-weight: 900;
         margin-bottom: 0;
 
-        @media (max-height: 60rem) {
+        @media (height <= 60rem) {
             font-size: 3em;
         }
 
-        @media (max-height: 40rem) {
+        @media (height <= 40rem) {
             font-size: 2em;
         }
 
@@ -111,11 +111,11 @@
         font-size: 2em;
         font-weight: 700;
 
-        @media (max-height: 60rem) {
+        @media (height <= 60rem) {
             font-size: 1.7em;
         }
 
-        @media (max-height: 40rem) {
+        @media (height <= 40rem) {
             font-size: 1.5em;
         }
 
@@ -131,11 +131,11 @@
         font-weight: 300;
         max-width: 80%;
 
-        @media (max-height: 60rem) {
+        @media (height <= 60rem) {
             font-size: 1.7em;
         }
 
-        @media (max-height: 40rem) {
+        @media (height <= 40rem) {
             font-size: 1.5em;
         }
 
