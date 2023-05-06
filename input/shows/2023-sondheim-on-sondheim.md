@@ -18,9 +18,9 @@ ticket-prices: From £11.50
 additional-ticket-info: "Gala night: Friday 7 July – tickets include a glass of
   fizz and panel discussion with the Sondheim Society"
 primary-color: "#45576c"
-header-image: /assets/sondheim-piano.jpg
+header-image: /assets/website-hero.png
 header-image-contain: false
-flyer: /assets/sondheimonsondheim-posterholder.jpg
+flyer: /assets/sondheim-poster.png
 box-office-open: true
 box-office-link: https://sedos.ticketsolve.com/ticketbooth/shows/1173636618
 sections:
