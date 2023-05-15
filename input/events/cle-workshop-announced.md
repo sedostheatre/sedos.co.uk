@@ -1,5 +1,5 @@
 ---
-title: Cle workshop announced
+title: Clue workshop announced
 times:
   - time: 2023-06-03 10:30
 image: /assets/clue-magnifying-glass.jpg
