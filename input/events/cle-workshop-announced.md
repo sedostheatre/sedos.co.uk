@@ -4,7 +4,7 @@ times:
   - time: 2023-06-03 10:30
 image: /assets/clue-magnifying-glass.jpg
 ---
-**Follow the clues and discover the mysterious facts surrounding our September show, *[Clue](https://www.sedos.co.uk/shows/2023-clue)*, in a morning workshop for the hilarious farce-meets-murder mystery on Saturday 3 June, 10.30am-11.45am, at Theatre Deli.** 
+**Follow the clues and discover the mysterious facts surrounding our September show, *[Clue](https://www.sedos.co.uk/shows/2023-clue)*, in a morning workshop for the hilarious farce-meets-murder mystery on Saturday 3 June, 10.30am-12pm, at Theatre Deli.** 
 
 It’s a great way to uncover the truth about this comedy whodunit and meet the team – before the body count stacks up! WHO did it, WHERE, and with WHAT!
 
