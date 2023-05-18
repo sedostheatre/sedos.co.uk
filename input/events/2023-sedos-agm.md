@@ -3,7 +3,8 @@ title: 2023 Sedos AGM
 times:
   - time: 2023-06-08 19:00
 image: /assets/agm-logo.gif
-venue: Venue TBA
+venue: "Theatre Deli, Leadenhall Street "
+ticket-prices: From 7pm
 metaTitle: 2023 Sedos AGM
 metaDescription: ""
 ---
@@ -11,7 +12,7 @@ metaDescription: ""
 ![](/assets/sedosagm-22-crop.jpg)
 ^^^ Sedos members, trustees and committee members at the 2022 AGM
 
-**Save the date! The 2023 Sedos Annual General Meeting will take place on Thursday 8 June.** 
+**Save the date! The 2023 Sedos Annual General Meeting will take place at Theatre Deli on Leadenhall Street at 7pm on Thursday 8 June 2023.**
 
 Venue, timings and more information will be released nearer the time, but please put the date in your diary.
 
