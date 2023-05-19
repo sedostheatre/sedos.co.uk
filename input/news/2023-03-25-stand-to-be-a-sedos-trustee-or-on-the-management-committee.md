@@ -12,7 +12,7 @@ metaDescription: Find out how to stand to be a Sedos Trustee or on the Managemen
 
 **Sedos Elections**
 
-The AGM on 8 June 2023 (Theatre Deli, Leadenhall Street, from 7pm) is a chance for members to:
+The AGM on 8 June 2023 (Theatre Deli, 107 Leadenhall St, London EC3A 4AF)from 7pm) is a chance for members to:
 
 * hear a report from the Chair of the Board of Trustees (Daniel Saunders) and Chair of the Management Committee (Matt Gould) regarding the financial year ending 31 December 2022;
 * hear about upcoming plans for the society;
