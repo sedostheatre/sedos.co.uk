@@ -1,13 +1,13 @@
 ---
-title: Clue workshop announced
+title: Clue pre-audition workshop announced
 times:
   - time: 2023-06-03 10:30
 image: /assets/clue-magnifying-glass.jpg
 venue: Theatre Deli
-recurrence: Saturday 03 June 2023, 10.30am
+recurrence: Saturday 3 June 2023, 10.30am
 ticket-prices: ""
 ---
-**Follow the clues and discover the mysterious facts surrounding our September show, *Clue*, in a morning workshop for the hilarious farce-meets-murder mystery on Saturday 3 June, 10.30am-12pm, at Theatre Deli.**
+**Follow the clues and discover the mysterious facts surrounding our September show, *Clue*, in a morning pre-audition workshop for the hilarious farce-meets-murder mystery on Saturday 3 June, 10.30am-12pm, at Theatre Deli.**
 
 It’s a great way to uncover the truth about this comedy whodunit and meet the team – before the body count stacks up! WHO did it, WHERE, and with WHAT!
 
