@@ -15,6 +15,8 @@ The tale begins at a remote mansion, where six mysterious guests - all with dast
 
 *Clue* is based on the iconic 1985 Paramount movie which was inspired by the classic Hasbro board game.
 
+Audition dates will be released soon!
+
 ^^^
 ![](/assets/clue-magnifying-glass.jpg)
 ^^^
