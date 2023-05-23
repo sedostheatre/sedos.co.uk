@@ -72,7 +72,7 @@ sections:
       **STAGE MANAGER** | Charlotte Murray\
       **MARKETING** | Tess Robinson, Ellie McWilliam, Tasha Msanide\
       **COMMITTEE LIAISONS** | Adrian Hau and Jacob Hajjar
-  - order: 2
+  - order: 3
     title: REVIEWS
     body: >-
       >Sedos have really succeeded in getting across the theme of community in
@@ -85,6 +85,9 @@ sections:
       >As we’ve come to expect from Sedos, the show is slickly and imaginatively staged
 
       ><footer><cite><a target="_blank" href="https://www.sardinesmagazine.co.uk/review/sunshine-on-leith/">Sunshine on Leith, 2023, Sardines (****)</a></cite></footer>
+  - order: 2
+    title: VIDEO
+    body: <div class="video-responsive"><?# YouTube z9fXJ_WvjO0 /?></div>
 metaTitle: Sunshine on Leith plays at the Bridewell Theatre from 10-20 May 2023
 metaDescription: Sunshine on Leith  is part of Sedos’ 2023 London season and
   plays at the Bridewell Theatre from 10-20 May 20233. A jubilant, heartfelt
