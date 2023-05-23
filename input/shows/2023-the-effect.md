@@ -48,7 +48,7 @@ sections:
       **COMMITTEE LIAISON** | Tess Robinson
     title: CAST & CREATIVE TEAM
   - order: 4
-    title: TRAILER
+    title: VIDEO
     body: <div class="video-responsive"><?# YouTube NTJRynyaHhw /?></div>
   - order: 2
     title: FLYER
