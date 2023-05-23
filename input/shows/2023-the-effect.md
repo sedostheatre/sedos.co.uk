@@ -47,7 +47,7 @@ sections:
       **PHOTOGRAPHY** | Stephen Russell\
       **COMMITTEE LIAISON** | Tess Robinson
     title: CAST & CREATIVE TEAM
-  - order: 4
+  - order: 3
     title: VIDEO
     body: <div class="video-responsive"><?# YouTube NTJRynyaHhw /?></div>
   - order: 2
@@ -64,7 +64,7 @@ sections:
       src="https://live.staticflickr.com/65535/52745055962_8c39587a23_z.jpg"
       width="640" height="480" alt="The Effect - 2023"/></a><script async
       src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-  - order: 3
+  - order: 4
     title: REVIEWS
     body: >-
       >This production of The Effect is a definition of an intelligent,
