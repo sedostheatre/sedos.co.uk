@@ -9,6 +9,22 @@ RedirectFrom:
 ---
 ## Sedos reviews
 
+# 2023
+
+## *Sunshine on Leith*
+
+^^^
+![Dress rehearsal image of Sedos’ production of Sunshine on Leith](/assets/347800768_561235919495685_6970938954161189105_n.jpeg)
+^^^ Sunshine on Leith
+
+>Sedos have really succeeded in getting across the theme of community in Sunshine on Leith, with rich harmonies and strong performances, this is a great chance to see this underperformed show.
+><footer><cite><a target="_blank" href="https://musicaltheatremusings.co.uk/sunshine-on-leith">Sunshine on Leith, 2023, Musical Theatre Musings</a></cite></footer>
+
+>As we’ve come to expect from Sedos, the show is slickly and imaginatively staged
+><footer><cite><a target="_blank" href="https://www.sardinesmagazine.co.uk/review/sunshine-on-leith/">Sunshine on Leith, 2023, Sardines (****)</a></cite></footer>
+
+## *The Effect*
+
 # 2022
 
 ## *Amadeus*
