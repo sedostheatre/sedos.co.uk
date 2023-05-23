@@ -47,16 +47,16 @@ sections:
       **PHOTOGRAPHY** | Stephen Russell\
       **COMMITTEE LIAISON** | Tess Robinson
     title: CAST & CREATIVE TEAM
-  - order: 2
+  - order: 4
     title: TRAILER
     body: <div class="video-responsive"><?# YouTube NTJRynyaHhw /?></div>
-  - order: 3
+  - order: 2
     title: FLYER
     body: |-
       ![](/assets/the-effect-flyer-web.png)
 
       ![](/assets/the-effect-flyer-back-web.png)
-  - order: 4
+  - order: 3
     title: GALLERY
     body: <a data-flickr-embed="true"
       href="https://www.flickr.com/photos/sedos/albums/72177720306705993"
@@ -64,6 +64,32 @@ sections:
       src="https://live.staticflickr.com/65535/52745055962_8c39587a23_z.jpg"
       width="640" height="480" alt="The Effect - 2023"/></a><script async
       src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+  - order: 3
+    title: REVIEWS
+    body: >-
+      >This production of The Effect is a definition of an intelligent,
+      emotionally invested drama sprinkled with plenty of laughs and deep
+      reflection on the human mind and depression. As a whole, it achieves the
+      difficult task to keep the complex general output on an emotionally
+      balanced level… The Effect creates a deeply moving experience for its
+      audience.
+
+      ><footer><cite><a target="_blank" href="https://westendevenings.co.uk/2023/03/23/the-effect-bridewell-theatre-sedos-review/">The Effect, 2023, West End Evenings (*****)</a></cite></footer>
+
+
+      >Within reviews there are often small moments in the show, ranging from the book, the performances or the technical side of things that I try to provide some sort of constructive criticism on where appropriate. However in Sedos’ production of The Effect there are no areas of the show that I could legitimately suggest an improvement on, a unusual thing in professional work, let alone amateur theatre. The Effect is a rare treat where the book, the performance and the technical elements merge together perfectly to create an outstanding night at the theatre.
+
+      ><footer><cite><a target="_blank" href="https://musicaltheatremusings.co.uk/the-effect">The Effect, 2023, Musical Theatre Musings</a></cite></footer>
+
+
+      >As you take your seat forget the word “amateur”. It has no place here. A small cast of five take on the full weight of this powerful play and its complex topics giving us a presentation as good as any professional theatre.
+
+      ><footer><cite><a target="_blank" href="https://discover.hubpages.com/entertainment/The-Effect-A-Sedos-Production-at-the-Bridewell-Theatre-London">The Effect, 2023, Hub Pages</a></cite></footer>
+
+
+      >We have an excellent story, so the big question is, did Sedos deliver it? The answer is a spectacular yes, they did in every way possible. From Andrew Laidlaw’s very clinical set to Natalie Harding-Cooper’s costumes, Rhona Sampson’s lighting, and Jonathan Harding-Cooper’s direction, the company broke the story down to its constituent parts and gave the audience a perfect visual setting to enjoy the words which were delivered by an outstanding cast.
+
+      ><footer><cite><a target="_blank" href="https://www.londontheatre1.com/reviews/the-effect-by-lucy-prebble-at-bridewell-theatre/">The Effect, 2023, London Theatre 1 (*****)</a></cite></footer>
 metaTitle: The Effect, by Lucy Prebble, plays at the Bridewell Theatre from
   21-25 March 2023
 metaDescription: The Effect, by Lucy Prebble, is part of Sedos’ 2023 London
