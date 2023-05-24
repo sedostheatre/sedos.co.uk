@@ -14,3 +14,7 @@ metaDescription: Sedos has joined forces with Centre Stage and Geoids, under the
 London Pride is a fantastic opportunity to **maximise visibility**, to **show unity**, and to **promote equality** – something that Sedos wholly believes is the way forward to reflect and encourage diversity in our membership. As part of this commitment, all of the societies have agreed to make this a completely free event for our members so that everyone feels able to participate. That said, places in the parade are limited so if demand is high we plan to hold a blind ballot to keep things as fair as possible.
 
 Sign ups will go live on Friday 2nd June on our membership portal - [membership.sedos.co.uk](http://membership.sedos.co.uk/). If you have any questions please e-mail us at [pride@sedos.co.uk](mailto:pride@sedos.co.uk).
+
+^^^
+![Sedos members at Pride in 2022. Join us at Pride London 2023](/assets/img-20230524-wa0008.jpg)
+^^^ Sedos members at Pride in 2022
