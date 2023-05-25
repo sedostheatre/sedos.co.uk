@@ -8,6 +8,7 @@ times:
   - time: 2023-11-01 19:00
   - time: 2023-12-06 19:00
 image: /assets/play-reading-landscape.jpg
+recurrence: First Wednesday of every month
 ---
 **The London Acting Group run by Sedos takes place on the first Wednesday of every month.** 
 
