@@ -4,6 +4,7 @@ times:
   - time: 2023-06-08 19:00
 image: /assets/agm-logo.gif
 venue: "Theatre Deli, Leadenhall Street "
+recurrence: 8 June 2023
 ticket-prices: From 7pm
 metaTitle: 2023 Sedos AGM
 metaDescription: ""
