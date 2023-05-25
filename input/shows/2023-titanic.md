@@ -31,8 +31,7 @@ sections:
       **CREATIVE TEAM**
 
       **Directors** | Rob Archibald & Louise Roberts\
-      **Musical Director** | Issie Osborne \
-      **Choreographer |** Jen Bullock\
+      **Musical Director** | Ryan Macaulay\
       **Producer** | Adam Coppard
     title: CAST & CREATIVE TEAM
 metaTitle: Titanic plays at the Bridewell Theatre from 22 November-2 December 2023
