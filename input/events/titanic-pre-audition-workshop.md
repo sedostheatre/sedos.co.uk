@@ -15,6 +15,8 @@ The pre-audition workshop for our end-of-year musical, *[Titanic](https://www.se
 
 The workshop is a chance to learn more about our vision for this show and meet the team, including our directors Rob Archibald and Louise Roberts, musical director Ryan Macaulay and producer Adam Coppard. You’ll have the chance to hear about our vision for the production, along with working through a song from the show with Ryan.
 
+The full audition notice will be released soon.
+
 **KEY INFO**
 
 **When:** 29 June, 7-8pm or 8.15-9.15pm (the two sessions are the same so please sign up to attend one or the other)\
