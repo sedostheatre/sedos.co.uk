@@ -52,5 +52,7 @@ With music and lyrics by Maury Yeston and a book by Peter Stone, the pair have c
 
 This amateur production of *Titanic* is presented by arrangement with Concord Theatricals Ltd. on behalf of Tams-Witmark LLC. [www.concordtheatricals.co.uk](http://www.concordtheatricals.co.uk/)
 
+Find out about the [*Titanic* pre-audition workshop](https://www.sedos.co.uk/events/titanic-pre-audition-workshop).
+
 >A modern musical theatre masterpiece.
 ><footer><cite>The Stage</cite></footer>
