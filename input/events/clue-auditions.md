@@ -22,7 +22,7 @@ innocent butler.
 
 What follows is a madcap, slapstick evening full of murder, mystery, and laughs as they seek to puzzle out the culprit amongst criminals. Clue is the comedy whodunit that will leave both cult-fans and newcomers in stitches as they try to figure out...WHO did it, WHERE, and with WHAT!
 
-# [FULL AUDITION NOTICE](https://sedos.co.uk/clue/​notice)
+# [FULL AUDITION NOTICE](https://drive.google.com/file/d/12ZJ4Tvzu_7pEEgPLnhiq4fIcSkSy1IP9/view)
 
 **KEY DATES**
 
@@ -40,7 +40,7 @@ Once your audition has been confirmed, you will be sent the audition materials t
 
 There is no fee to audition and you are not required to be a Sedos member to audition.
 
-# [FULL AUDITION NOTICE](https://sedos.co.uk/clue/​notice)
+# [FULL AUDITION NOTICE](https://drive.google.com/file/d/12ZJ4Tvzu_7pEEgPLnhiq4fIcSkSy1IP9/view)
 
 **[DIVERSITY AND INCLUSION](https://www.sedos.co.uk/about/diversity-and-inclusion) IN CASTING**
 
@@ -54,9 +54,9 @@ We will consider performers with disabilities for any role and would actively en
 
 We are unable to cast anyone under the age of 18. Playing age of all characters is 18 - 60+.
 
-**[](https://www.sedos.co.uk/about/diversity-and-inclusion)SIGN UP**
+[](https://www.sedos.co.uk/about/diversity-and-inclusion)**SIGN UP**
 
-Please read the [full audition notice](https://sedos.co.uk/clue/​notice) before booking an audition slot at [https://membership.sedos.​co.uk/signup/113](https://membership.sedos.co.uk/signup/113).
+Please read the [full audition notice](https://drive.google.com/file/d/12ZJ4Tvzu_7pEEgPLnhiq4fIcSkSy1IP9/view) before booking an audition slot at [membership.sedos.​co.uk](https://membership.sedos.co.uk/signup/113).
 
 **MORE AUDITIONS**
 
