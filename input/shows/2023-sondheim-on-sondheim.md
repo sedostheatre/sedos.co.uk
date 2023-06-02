@@ -68,6 +68,8 @@ His story. His inspiration. His genius. The tapestry of creativity that characte
 
 *Sondheim on Sondheim* plays at the [Bridewell Theatre](https://sedos.co.uk/venues/bridewell) from 4-8 July 2023.
 
+**Gala night (Friday 7 July, entry with a ticket for this performance):** join us immediately after the curtain falls when we’ll welcome Alex Young (*Follies*, National Theatre, *Into The Woods*, Theatre Royal, *Standing at the Sky’s Edge*, National Theatre), Susannah Fellows (West end casts of: *Chicago*, *City of Angels*, *Aspects of Love*, *Nine*, *Evita*), Tim Sawers (former executive director, The Bridewell Theatre), David Lardi (Sondheim Society trustee) and Craig Glenday (chairman of Sondheim Society). You’ll hear all about Sondheim’s history with the Bridewell Theatre from those who were there as well as insights into his work. Plus video messages from even more special guests!
+
 Music and Lyrics by Stephen Sondheim\
 Conceived and directed on Broadway by James Lapine\
 Inspired by a concept by David Kernan\
