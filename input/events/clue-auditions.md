@@ -1,5 +1,8 @@
 ---
 title: Clue auditions
+times:
+  - time: 2023-07-06 19:00
+  - time: 2023-07-08 10:00
 image: /assets/clue-logo-wide.jpg
 imageAlt: Clue auditions
 venue: Theatre Deli
