@@ -56,7 +56,7 @@ We are unable to cast anyone under the age of 18. Playing age of all characters 
 
 [](https://www.sedos.co.uk/about/diversity-and-inclusion)**SIGN UP**
 
-Please read the [full audition notice](https://drive.google.com/file/d/12ZJ4Tvzu_7pEEgPLnhiq4fIcSkSy1IP9/view) before booking an audition slot at [https://membership.sedos.​co.uk/signup/113](https://membership.sedos.co.uk/signup/113).
+Please read the [full audition notice](https://drive.google.com/file/d/12ZJ4Tvzu_7pEEgPLnhiq4fIcSkSy1IP9/view) before booking an audition slot at [membership.sedos.​co.uk](https://membership.sedos.co.uk/signup/113).
 
 **MORE AUDITIONS**
 
