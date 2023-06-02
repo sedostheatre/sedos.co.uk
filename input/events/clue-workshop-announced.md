@@ -13,11 +13,11 @@ It’s a great way to uncover the truth about this comedy whodunit and meet the 
 
 The tale begins at a remote mansion, where six mysterious guests - all with dastardly secrets of their own - assemble for an unusual dinner party where murder and blackmail are on the menu. When their host turns up dead, they all become suspects. Led by Wadsworth – the butler, Miss Scarlett, Professor Plum, Mrs. White, Mr. Green, Mrs. Peacock and Colonel Mustard race to find the killer as the body count stacks up.
 
-To sign up for the *Clue* workshop, please register at [https://membership.sedos.co.uk/signup/110 ](https://membership.sedos.co.uk/signup/110)
-
 *Clue* is based on the iconic 1985 Paramount movie which was inspired by the classic Hasbro board game.
 
-Audition dates will be released soon!
+The Clue workshop is now full – please email [clue@sedos.co.uk](mailto:clue@sedos.co.uk) to be added to the waiting list. 
+
+Find out about [*Clue* auditions](https://www.sedos.co.uk/events/clue-auditions). 
 
 ^^^
 ![](/assets/clue-magnifying-glass.jpg)
