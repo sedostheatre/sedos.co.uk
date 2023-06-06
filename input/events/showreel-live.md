@@ -1,5 +1,5 @@
 ---
-title: Showreel live
+title: Showreel Live
 times:
   - time: 2023-06-20 19:10
 image: /assets/showreel-live.jpg
@@ -13,3 +13,5 @@ We've managed to secure a Sedos group booking on **Tuesday 20 June at 7PM**. Sp
 Even if you prefer not to sing, why not come along and cheer your friends smashing out some Sondheim, Schwartz or Schönberg and catch up over a drink? The whole evening is also streamed live so that even Mum and Dad can watch you sing 'on a West End stage'
 
 ### [B﻿OOK YOUR PLACE](https://sedos.ticketsolve.com/ticketbooth/shows/1173643884)
+
+![](/assets/showreel-live.jpg)
