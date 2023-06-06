@@ -1,7 +1,7 @@
 ---
 title: Showreel Live
 times:
-  - time: 2023-06-20 19:10
+  - time: 2023-06-20 19:00
 image: /assets/showreel-live.jpg
 venue: The Phoenix Arts Club
 ticket-prices: £5
