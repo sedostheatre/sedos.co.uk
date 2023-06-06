@@ -1,5 +1,5 @@
 ---
-title: Showreel live
+title: Showreel Live
 times:
   - time: 2023-06-20 19:10
 image: /assets/showreel-live.jpg
