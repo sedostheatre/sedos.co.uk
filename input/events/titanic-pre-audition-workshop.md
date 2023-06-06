@@ -26,6 +26,8 @@ The full audition notice will be released soon.
 
 Secure your place at the workshop by signing up at [membership.sedos.co.uk](https://membership.sedos.co.uk/signup/111)
 
+**Update:** the Titanic workshop is now full but you can join the waiting list by emailing [titanic@sedos.co.uk](mailto:titanic@sedos.co.uk) - please note, attendance at the workshop is not a compulsory part of auditioning and does not affect whether we cast you or not. You will still be able to audition if there is not space for you to attend the workshop. 
+
 **SHOW DATES**
 
 *Titanic* plays at the Bridewell Theatre from 22 November-2 December 2023. 
