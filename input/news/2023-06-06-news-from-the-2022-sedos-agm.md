@@ -3,7 +3,7 @@ title: News from the 2022 Sedos AGM
 date: 2023-06-06
 image: /assets/sedos-agm-2023.jpg
 ---
-\[Picture credit] Some of the attendees of the 2023 Sedos AGM, held at Theatre Deli, Leadenhall Street.#
+![](/assets/sedos-agm-2023-crop.jpg " Some of the attendees of the 2023 Sedos AGM, held at Theatre Deli, Leadenhall Street.")
 
 *9﻿ June 2023*
 
@@ -11,11 +11,13 @@ image: /assets/sedos-agm-2023.jpg
 
 During the AGM we heard about the on-going impact of losing our rehearsal and storage space and the financial pressures that has put on the society. However, there was some exciting news about potential new spaces, which hopefully will move forward in the next few months.
 
-We also learned about the strategic priorities for Trustees in the year ahead: spaces, values, diversity and inclusion and financial stability.
+We also learned about the key development areas the Trustees have been focusing on: diversity and inclusion, financial stability, governance and values.
 
 After 13 years on the Management Committee, the last five as chair of the Management Committee, we learnt that Matt Gould was stepping down from this role. However, he was welcomed as an elected Trustee, having previously been a co-opted Trustee, and we are delighted that his historical knowledge of the society will be put to future use.
 
-Long-standing Trustees Alex Baker and Robert J Stanex, plus Management Committee member Stephen Beeny also stepped down. They have 30 years of Sedos experience between them and their commitment and dedication to Sedos will be missed. Thank you. However, we know they will continue to be heavily involved in the society.
+Long-standing Trustees Alex Baker and Robert J Stanex, plus Management Committee member Stephen Beeny also stepped down. They have over 30 years of Sedos experience between them and their commitment and dedication to Sedos will be missed. Thank you. However, we know they will continue to be heavily involved in the society.
+
+Stephen was also presented with a Sedos Golden Ticket in recognition of his work with the society and becomes the fourth person to be given the accolade.
 
 Many thanks to Ella Benson-Roberts and Jessie Davidson who stepped down from the Board of Trustees and Kish Soni from the Management Committee at the AGM or earlier this year - your contribution and hard work is very much appreciated!
 
