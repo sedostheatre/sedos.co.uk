@@ -2,13 +2,13 @@
 title: How we operate
 row: 2
 column: 3
-image: /assets/2022sedostrusteesandcommittee-croppedagain.jpg
+image: /assets/sedos-agm-2023.jpg
 RedirectFrom:
   - aboutus/howweoperate.htm
 ---
 ^^^
-![12 members of the 2022/23 Sedos Trustees and Management Committee.standing in a line in front of a wall of bookcases. They are all smiling. ](/assets/2022sedostrusteesandcommittee-crop.jpg)
-^^^ Members of the 2022/23 Sedos Trustees and Management Committee. [left to right:] Henry Whittaker, Adam Coppard, Stephen Beeny, Adrian Hau, Jack Brown, Tim Garrad, Paul Caira, Jessie Davidson, Daniel Saunders, Tess Robinson, Matt Gould, Mark Sidall
+![](/assets/sedos-agm-2023.jpg)
+^^^ Members of the 2023/24 Sedos Trustees and Management Committee along with Sedos members who attended the 2023 Seods AGM.
 
 Sedos is a Charitable Incorporated Organisation.
 
@@ -30,14 +30,12 @@ The trustees are elected by the members for three-year terms or co-opted in acco
 ### The trustees are:
 
 **Chair** | Daniel Saunders (he/him)\
-**Secretary** | Jessie Davidson (she/her)\
-**Trustee with financial responsibility** | Nick Dore (he/him)\
-**ex officio, Chair of the management committee** | Matt Gould (he/him)
+**Trustee with financial responsibilit**y | Nick Dore (he/him)\
+**ex officio, Chair of the management committee** | Adrian Hau (he/him)
 
-Alex Baker (he/him)\
 Jack Brown (he/him)\
+Matt Gould (he/him)\
 Sara Rajeswaran (she/her)\
-Robert J Stanex (he/him)\
 Graham White (he/him)
 
 [Minutes of trustees’ meetings can be found here](https://drive.google.com/drive/folders/13fa6XEho_8j5tAyxQX0wwuJ5HXOcRmjZ?usp=sharing)
@@ -58,18 +56,19 @@ The management committee meets monthly.
 
 ### Members of the management committee are:
 
-**Chair** | Matt Gould (he/him) \
+**Chair** | Adrian Hau (he/him)\
 **Treasurer** | Henry Whittaker (he/him)\
-**Marketing group** | Stephen Beeny \
 **Production group** | Adam Coppard (he/him)\
 Karen Braganza (she/her)\
 Paul Caira\
-Tim Garrad (he/him)\
-Adrian Hau (he/him)\
+Tim Garrad (he/him) \
+Ruth Granton \
 Jacob Hajjar (he/they)\
 Olly Levett (he/him)\
+Olivia Perrett \
 Tess Robinson (she/her)\
-Mark Sidall (he/him)
+Mark Sidall (he/him)\
+Sam Sugarman
 
 ## Groups
 
