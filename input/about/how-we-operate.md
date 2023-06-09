@@ -2,13 +2,13 @@
 title: How we operate
 row: 2
 column: 3
-image: /assets/2022sedostrusteesandcommittee-croppedagain.jpg
+image: /assets/sedos-agm-2023.jpg
 RedirectFrom:
   - aboutus/howweoperate.htm
 ---
 ^^^
-![12 members of the 2022/23 Sedos Trustees and Management Committee.standing in a line in front of a wall of bookcases. They are all smiling. ](/assets/2022sedostrusteesandcommittee-crop.jpg)
-^^^ Members of the 2022/23 Sedos Trustees and Management Committee. [left to right:] Henry Whittaker, Adam Coppard, Stephen Beeny, Adrian Hau, Jack Brown, Tim Garrad, Paul Caira, Jessie Davidson, Daniel Saunders, Tess Robinson, Matt Gould, Mark Sidall
+![](/assets/sedos-agm-2023.jpg)
+^^^ Members of the 2022/23 Sedos Trustees and Management Committee along with Sedos members who attended the 2023 Seods AGM.
 
 Sedos is a Charitable Incorporated Organisation.
 
