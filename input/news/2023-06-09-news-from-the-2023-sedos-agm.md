@@ -44,7 +44,7 @@ Graham White (re-elected)
 Karen Braganza (re-appointed)\
 Paul Caira\
 Adam Coppard (re-appointed)\
-Tim Garrard\
+Tim Garrad\
 Ruth Granton (appointed)\
 Jacob Hajjar\
 Adrian Hau (chair)\
