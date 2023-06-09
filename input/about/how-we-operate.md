@@ -8,7 +8,7 @@ RedirectFrom:
 ---
 ^^^
 ![](/assets/sedos-agm-2023.jpg)
-^^^ Members of the 2022/23 Sedos Trustees and Management Committee along with Sedos members who attended the 2023 Seods AGM.
+^^^ Members of the 2023/24 Sedos Trustees and Management Committee along with Sedos members who attended the 2023 Seods AGM.
 
 Sedos is a Charitable Incorporated Organisation.
 
