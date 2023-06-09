@@ -1,7 +1,12 @@
 ---
 title: News from the 2023 Sedos AGM
 date: 2023-06-09
+image: /assets/sedos-agm-2023.jpg
 ---
+![](/assets/sedos-agm-2023.jpg "Some of the attendees of the 2023 Sedos AGM, held at Theatre Deli, Leadenhall Street.")
+
+*Some of the attendees of the 2023 Sedos AGM, held at Theatre Deli, Leadenhall Street.*\
+\
 *9﻿ June 2023*
 
 **Thank you to everyone who attended the Sedos Annual General Meeting last night at Theatre Deli, Leadenhall Street. It was wonderful to see so many passionate people interested in the future of the society and to have the opportunity to reflect on all the great things that have been achieved in 2022/23. Highlights included winning five NODA district awards for 2023 (amongst them the double whammy of Best Drama and Best Musical for *[Amadeus](https://www.sedos.co.uk/shows/2022-amadeus)* and [Carrie](https://www.sedos.co.uk/shows/2022-carrie-the-musical)), the launch of the Sedos values and our continuing commitment to diversity and inclusion.**
