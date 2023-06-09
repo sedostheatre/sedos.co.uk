@@ -2,7 +2,7 @@
 title: How we operate
 row: 2
 column: 3
-image: /assets/sedos-agm-2023.jpg
+image: /assets/sedos-agm-2023-header.jpg
 RedirectFrom:
   - aboutus/howweoperate.htm
 ---
