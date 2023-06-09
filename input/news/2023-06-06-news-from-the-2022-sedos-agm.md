@@ -47,7 +47,7 @@ Ruth Granton (appointed)\
 Jacob Hajjar\
 Adrian Hau (chair)\
 Olly Levett (re-appointed)\
-Olivia Perrett (appointed)
+Olivia Perrett (appointed)\
 Mark Sidall\
 Sam Sugarman (appointed)\
 Tess Robinson\
