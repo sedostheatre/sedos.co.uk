@@ -1,6 +1,7 @@
 ---
 title: News from the 2022 Sedos AGM
 date: 2023-06-06
+image: /assets/sedos-agm-2023.jpg
 ---
 \[Picture credit] Some of the attendees of the 2023 Sedos AGM, held at Theatre Deli, Leadenhall Street.#
 
