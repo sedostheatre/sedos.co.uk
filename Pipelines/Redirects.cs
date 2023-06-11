@@ -13,7 +13,7 @@ namespace Sedos.Pipelines
             Dependencies.AddRange(nameof(AboutSections), nameof(AllShows), nameof(News), nameof(Index), nameof(RegularEvents), nameof(TopLevelPages), nameof(MarkdownPages));
 
             var temporaryCustomRedirects = new Dictionary<string, string>() {
-                { "deiform", "https://forms.gle/MjYUCXrfMByr8D55A" },
+                { "deiform", "https://docs.google.com/forms/d/e/1FAIpQLSeYkPb8xUk6aWLo-ndd68Rs2k-YA5NQWcd3A5rMP5tGVXK-yw/viewform" },
                 { "newsletter", "https://mailchi.mp/sedos.co.uk/newsletter-sign-up" },
                 { "carrie/form", "https://docs.google.com/forms/d/e/1FAIpQLSdQciQq-Wmwivokfr1krlR4cMH8iR6O1rwkl6205R0gBlf6TQ/viewform?usp=sf_link" },
                 { "carrie/notice", "https://docs.google.com/document/d/1tBZGC5erP8yYSN-GJXR11TPhvIc746N0ZyU97deCyP4/edit?usp=sharing" },
@@ -29,7 +29,9 @@ namespace Sedos.Pipelines
                 { "clue/notice", "https://drive.google.com/file/d/12ZJ4Tvzu_7pEEgPLnhiq4fIcSkSy1IP9/view?usp=share_link" },
                 { "clue/material", "https://drive.google.com/drive/folders/19uECe0mFu9Q4-qrOJrenqSEZDkfx9ckE?usp=sharing" },
                 { "clue/form", "https://docs.google.com/forms/d/e/1FAIpQLSfHJd2PXh-YJypneFsrinoSAdc1-IE9U4-Sd7pIl0govmcp1g/viewform?usp=sf_link" },
-                { "calendar", "https://calendar.google.com/calendar/u/1?cid=bXlzZWRvcy5jby51a19ib3Z1OWprZDNxYjlsbmM3ZDhrOTc2bHQ1Y0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t" }
+                { "calendar", "https://calendar.google.com/calendar/u/1?cid=bXlzZWRvcy5jby51a19ib3Z1OWprZDNxYjlsbmM3ZDhrOTc2bHQ1Y0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t" },
+                { "titanic/material", "https://drive.google.com/drive/folders/1_lJ2JBdruZ_Pd5JSyZsaID1sGdooI4hI?usp=sharing" },
+                { "titanic/form", "https://forms.gle/hVyeGJebqC8cYTyV7" }
             };
 
             ProcessModules = new ModuleList
