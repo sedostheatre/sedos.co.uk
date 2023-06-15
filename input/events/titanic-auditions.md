@@ -10,7 +10,7 @@ imageAlt: Titanic auditions
 venue: Theatre Deli, 107 Leadenhall St, EC3A 4AF
 metaTitle: "Titanic auditions: full info about taking part in Sedos’ production"
 metaDescription: Find out more about the Titanic auditions for Sedos’s
-  production – auditions on 18, 19, 20 and 22 July 202
+  production – auditions on 18, 19, 20 and 22 July 2023
 ---
 Registration is now open for *Titanic* auditions.
 
@@ -64,4 +64,12 @@ The team are currently inviting expressions of interest for a movement director 
 
 We will also be looking for volunteers to get involved throughout the show process, including set builders, stage crew, Front of House and Box Office help
 
-To express interest in any of the roles above please email [titanic@sedos.co.uk](mailto:titanic@sedos.co.uk)
+To express interest in any of the roles above please email [titanic@sedos.co.uk](mailto:titanic@sedos.co.uk)\
+\
+**MORE AUDITIONS**
+
+Info about all Sedos’s [London auditions](https://www.sedos.co.uk/get-involved).
+
+^^^
+![Titanic auditions](/assets/unnamed-3.jpg)
+^^^
