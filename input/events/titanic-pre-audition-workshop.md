@@ -11,11 +11,9 @@ metaTitle: Titanic pre-audition workshop ahead of Sedos’s production
 metaDescription: Attend the Titanic pre-audition workshop – meet the team and
   find out more about the vision for the show
 ---
-The pre-audition workshop for our end-of-year musical, *[Titanic](https://www.sedos.co.uk/shows/2023-titanic)*, will take place on Thursday 29 June.
+The pre-audition workshop for our end-of-year musical, *[Titanic](https://www.sedos.co.uk/shows/2023-titanic)*, will take place on Thursday 29 June, ahead of **[*Titanic* auditions](https://www.sedos.co.uk/events/titanic-auditions)**.
 
 The workshop is a chance to learn more about our vision for this show and meet the team, including our directors Rob Archibald and Louise Roberts, musical director Ryan Macaulay and producer Adam Coppard. You’ll have the chance to hear about our vision for the production, along with working through a song from the show with Ryan.
-
-The full audition notice will be released soon.
 
 **KEY INFO**
 
