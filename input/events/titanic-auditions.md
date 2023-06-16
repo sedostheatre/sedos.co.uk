@@ -24,7 +24,7 @@ Whilst being terrified and excited in equal measure, we thought why not try the 
 
 We are looking to cast a large ensemble of performers in the show. Unlike a certain movie, the musical doesn't focus on a single pair of characters. In short, it's an ensemble piece where everybody has great moments in the proverbial spotlight. The cast will not only be imperative in capturing the many stories of those on board, but also in creating the action of the story. Given that the structure of the show is based on one character’s memories of the events, we hope to utilise stylised storytelling at points, to not only overcome the challenges of staging the sinking of the ‘ship of dreams’, but also create an exciting ensemble approach to the piece.
 
-# [FULL AUDITION NOTICE](https://drive.google.com/file/d/1mGqSJ4oplGMGNqe8z2FysYYTLo2dA43B/view)
+# [FULL AUDITION NOTICE](https://www.sedos.co.uk/titanic/notice)
 
 **KEY DATES**
 
@@ -52,11 +52,11 @@ If you have any access requirements for the audition process, rehearsal process,
 
 To read Sedos’ Equality, Diversity and Inclusion policy in full [click here](https://www.sedos.co.uk/assets/policies/2022-10-edi-policy.pdf).
 
-# [FULL AUDITION NOTICE](https://drive.google.com/file/d/1mGqSJ4oplGMGNqe8z2FysYYTLo2dA43B/view)
+# [FULL AUDITION NOTICE](https://www.sedos.co.uk/titanic/notice)
 
 **HOW TO SIGN UP FOR TITANIC AUDITIONS**
 
-Read the [full audition notice](https://drive.google.com/file/d/1mGqSJ4oplGMGNqe8z2FysYYTLo2dA43B/view), then visit [membership.sedos.co.uk/signup](http://membership.sedos.co.uk/signup) to register to attend the workshop and sign up to audition.
+Read the [full audition notice](https://www.sedos.co.uk/titanic/notice), then visit [membership.sedos.co.uk/signup](http://membership.sedos.co.uk/signup) to register to attend the workshop and sign up to audition.
 
 **JOIN THE CREW**
 
