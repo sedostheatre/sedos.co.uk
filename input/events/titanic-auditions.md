@@ -69,7 +69,3 @@ To express interest in any of the roles above please email [titanic@sedos.co.uk]
 **MORE AUDITIONS**
 
 Info about all Sedos’s [London auditions](https://www.sedos.co.uk/get-involved).
-
-^^^
-![Titanic auditions](/assets/unnamed-3.jpg)
-^^^
