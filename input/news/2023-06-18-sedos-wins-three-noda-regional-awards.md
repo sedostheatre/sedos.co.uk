@@ -1,7 +1,7 @@
 ---
 title: Sedos wins three NODA regional awards
 date: 2023-06-18
-image: /assets/regionalwinners2023.jpg
+image: /assets/landscaperegional2023.jpg
 imageAlt: NODA regional winners 2023
 metaTitle: "NODA regional winners 2023: Sedos wins three awards"
 metaDescription: Sedos took three NODA regional awards today, including best drama for Amadeus
