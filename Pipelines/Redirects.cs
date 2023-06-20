@@ -29,6 +29,7 @@ namespace Sedos.Pipelines
                 { "clue/notice", "https://drive.google.com/file/d/12ZJ4Tvzu_7pEEgPLnhiq4fIcSkSy1IP9/view?usp=share_link" },
                 { "clue/material", "https://drive.google.com/drive/folders/19uECe0mFu9Q4-qrOJrenqSEZDkfx9ckE?usp=sharing" },
                 { "clue/form", "https://docs.google.com/forms/d/e/1FAIpQLSfHJd2PXh-YJypneFsrinoSAdc1-IE9U4-Sd7pIl0govmcp1g/viewform?usp=sf_link" },
+                { "clue/waitlist", "https://forms.gle/htQbDmYtUfNT55kc9" },
                 { "calendar", "https://calendar.google.com/calendar/u/1?cid=bXlzZWRvcy5jby51a19ib3Z1OWprZDNxYjlsbmM3ZDhrOTc2bHQ1Y0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t" },
                 { "titanic/material", "https://drive.google.com/drive/folders/1_lJ2JBdruZ_Pd5JSyZsaID1sGdooI4hI?usp=sharing" },
                 { "titanic/form", "https://forms.gle/hVyeGJebqC8cYTyV7" },
