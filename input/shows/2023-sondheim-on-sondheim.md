@@ -54,6 +54,9 @@ sections:
       Sadie Kempner\
       Sam Sugarman\
       Victoria Basten
+  - order: 1
+    title: TRAILER
+    body: <div class="video-responsive"><?# YouTube v1vC7PfF_vY /?></div>
 metaTitle: Sondheim on Sondheim plays at the Bridewell Theatre from 4-8 July 2023
 metaDescription: Sondheim on Sondheim is part of Sedos’ 2023 London season and
   plays at the Bridewell Theatre from 4-8 July 2023. An intimate look at the
