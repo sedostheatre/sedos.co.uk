@@ -42,11 +42,9 @@ sections:
       Britt Lewis\
       Connor Guffogg\
       Esther Morris\
-      Holli Farr\
       James Daly\
       Laura Ellis\
       Michael Pandazis\
-      Michael Smith\
       Nick Dore\
       Nicole Murray\
       Olga Marie Pratt\
