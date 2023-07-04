@@ -33,7 +33,8 @@ namespace Sedos.Pipelines
                 { "calendar", "https://calendar.google.com/calendar/u/1?cid=bXlzZWRvcy5jby51a19ib3Z1OWprZDNxYjlsbmM3ZDhrOTc2bHQ1Y0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t" },
                 { "titanic/material", "https://drive.google.com/drive/folders/1_lJ2JBdruZ_Pd5JSyZsaID1sGdooI4hI?usp=sharing" },
                 { "titanic/form", "https://forms.gle/hVyeGJebqC8cYTyV7" },
-                { "titanic/notice", "https://drive.google.com/file/d/1mGqSJ4oplGMGNqe8z2FysYYTLo2dA43B/view?usp=drive_link" }
+                { "titanic/notice", "https://drive.google.com/file/d/1mGqSJ4oplGMGNqe8z2FysYYTLo2dA43B/view?usp=drive_link" },
+                { "sondheim/programme", "https://marvelapp.com/prototype/jhg003h" }
             };
 
             ProcessModules = new ModuleList
