@@ -34,6 +34,7 @@ namespace Sedos.Pipelines
                 { "titanic/material", "https://drive.google.com/drive/folders/1_lJ2JBdruZ_Pd5JSyZsaID1sGdooI4hI?usp=sharing" },
                 { "titanic/form", "https://forms.gle/hVyeGJebqC8cYTyV7" },
                 { "titanic/notice", "https://drive.google.com/file/d/1mGqSJ4oplGMGNqe8z2FysYYTLo2dA43B/view?usp=drive_link" },
+                { "titanic/waitlist", "https://forms.gle/MzNetGH44eHHJXdcA" },
                 { "sondheim/programme", "https://marvelapp.com/prototype/jhg003h" }
             };
 
