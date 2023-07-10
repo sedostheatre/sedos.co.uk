@@ -13,6 +13,10 @@ RedirectFrom:
 
 ## *Sondheim on Sondheim*
 
+^^^
+![Dress rehearsal image of Sedos’ production of Sondheim on Sondheim](/assets/53023520654_796f018d1f_k.jpg)
+^^^ Sondheim on Sondheim
+
 >It was a pleasure to return to the Bridewell Theatre with a friend to enjoy their current production of Sondheim on Sondheim… The band were excellent, they sounded so good… The minimalist set with use of a split level stage and multiple entrances all contributed to smooth transitions between numbers… Lighting was effective and worked very well – there were many lighting cues which must have been very hard work for the technical crew…This was a 15 strong cast, and they all had ample opportunity to shine, both in ensemble and individually. There were no weak links in the cast…This was a high quality production with a strong ensemble cast who blended very well.   
 ><footer><cite><a target="_blank" href="https://www.sardinesmagazine.co.uk/review/sondheim-on-sondheim/">Sondheim on Sondheim, 2023, Sardines (****)</a></cite></footer>
 
