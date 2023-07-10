@@ -52,9 +52,38 @@ sections:
       Sadie Kempner\
       Sam Sugarman\
       Victoria Basten
-  - order: 1
+  - order: 3
     title: TRAILER
     body: <div class="video-responsive"><?# YouTube v1vC7PfF_vY /?></div>
+  - order: 2
+    title: GALLERY
+    body: <a data-flickr-embed="true"
+      href="https://www.flickr.com/photos/sedos/albums/72177720308759741"
+      title="Sondheim on Sondheim - 2023"><img
+      src="https://live.staticflickr.com/65535/53023325891_b8b1d536cb_z.jpg"
+      width="640" height="480" alt="Sondheim on Sondheim - 2023"/></a><script
+      async src="//embedr.flickr.com/assets/client-code.js"
+      charset="utf-8"></script>
+  - order: 4
+    title: REVIEWS
+    body: >-
+      >It was a pleasure to return to the Bridewell Theatre with a friend to
+      enjoy their current production of Sondheim on Sondheim… The band were
+      excellent, they sounded so good… The minimalist set with use of a split
+      level stage and multiple entrances all contributed to smooth transitions
+      between numbers… Lighting was effective and worked very well – there were
+      many lighting cues which must have been very hard work for the technical
+      crew…This was a 15 strong cast, and they all had ample opportunity to
+      shine, both in ensemble and individually. There were no weak links in the
+      cast…This was a high quality production with a strong ensemble cast who
+      blended very well.   
+
+      ><footer><cite><a target="_blank" href="https://www.sardinesmagazine.co.uk/review/sondheim-on-sondheim/">Sondheim on Sondheim, 2023, Sardines (****)</a></cite></footer>
+
+
+      > It was wonderful to hear songs sung in harmony that are normally sung as solos and it was this area in particular that Sedos excelled at. The moments when the entire cast were on stage, singing in harmony, were my highlights of the night. The MD, Adrian Hau must be commended on the hard work that must have gone into getting such a glorious sound from the cast… Whilst talking about Adrian Hau I must also commend the band. Playing Sondheim is no easy task but this 8 piece band managed to make it sound seamless. Combined with a great sound design by Adam Coppard which ensured that the band and vocals were well balanced and the harmonies blended it was a professional sounding show… The show was directed by Tess Robinson and she ensured that the production was exceedingly slick… The set was simple but well utilised… The cast was made up of 15 very strong performers resulting in the aforementioned wonderful choral singing however there were also some moments where the soloists got a chance to shine.
+
+      ><footer><cite><a target="_blank" href="https://musicaltheatremusings.co.uk/sondheim-on-sondheim">Sondheim on Sondheim, 2023, Musical Theatre Musings</a></cite></footer>
 metaTitle: Sondheim on Sondheim plays at the Bridewell Theatre from 4-8 July 2023
 metaDescription: Sondheim on Sondheim is part of Sedos’ 2023 London season and
   plays at the Bridewell Theatre from 4-8 July 2023. An intimate look at the
