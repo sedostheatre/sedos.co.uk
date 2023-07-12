@@ -84,6 +84,19 @@ sections:
       > It was wonderful to hear songs sung in harmony that are normally sung as solos and it was this area in particular that Sedos excelled at. The moments when the entire cast were on stage, singing in harmony, were my highlights of the night. The MD, Adrian Hau must be commended on the hard work that must have gone into getting such a glorious sound from the cast… Whilst talking about Adrian Hau I must also commend the band. Playing Sondheim is no easy task but this 8 piece band managed to make it sound seamless. Combined with a great sound design by Adam Coppard which ensured that the band and vocals were well balanced and the harmonies blended it was a professional sounding show… The show was directed by Tess Robinson and she ensured that the production was exceedingly slick… The set was simple but well utilised… The cast was made up of 15 very strong performers resulting in the aforementioned wonderful choral singing however there were also some moments where the soloists got a chance to shine.
 
       ><footer><cite><a target="_blank" href="https://musicaltheatremusings.co.uk/sondheim-on-sondheim">Sondheim on Sondheim, 2023, Musical Theatre Musings</a></cite></footer>
+  - order: 5
+    title: DIGITAL PROGRAMME
+    body: >-
+      Check out the [digital
+      programme](https://marvelapp.com/prototype/jhg003h/screen/92183407) for
+      *Sondheim on Sondheim*. 
+
+
+      ^^^
+
+      ![Sondheim on Sondheim digital programme](/assets/screenshot-2023-07-12-at-08.58.46.png)
+
+      ^^^
 metaTitle: Sondheim on Sondheim plays at the Bridewell Theatre from 4-8 July 2023
 metaDescription: Sondheim on Sondheim is part of Sedos’ 2023 London season and
   plays at the Bridewell Theatre from 4-8 July 2023. An intimate look at the
