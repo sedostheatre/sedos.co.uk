@@ -2,15 +2,23 @@
 
 The website for [Sedos](https://www.sedos.co.uk), built using Statiq.
 
-## Developing
+## Dev environment setup
+
+### VSCode/Devcontainers/Codespaces
+
+Configuration files exist to automatically spin up a working dev environment, so the easiest option is to use those
+
+### Alternatives
+
+You'll need to have dotnet 6, and a recent version of nodejs installed.
+
+## Running
 
 To run locally:
 
 ```shell
 dotnet run preview
 ```
-
-You'll need to have dotnet 5, and a recent version of nodejs installed.
 
 ## Testing
 
@@ -40,7 +48,7 @@ Changes will be rebuilt and the page should update in sync.
   - Because it's easy :)
 - GitHub actions for CI
 - [Netlify](https://www.netlify.com/) for hosting
-- [NetlifyCMS](https://www.netlifycms.org/) for content management
+- [DecapCMS](https://decapcms.org/) for content management (formerly known as NetlifyCMS)
 
 ### Sub-pages architecture
 Basic process: cs file pipelines process md files.
