@@ -30,13 +30,13 @@ The trustees are elected by the members for three-year terms or co-opted in acco
 ### The trustees are:
 
 **Chair** | Daniel Saunders (he/him)\
+**Secretary** | Graham White (he/him)\
 **Trustee with financial responsibilit**y | Nick Dore (he/him)\
 **ex officio, Chair of the management committee** | Adrian Hau (he/him)
 
 Jack Brown (he/him)\
 Matt Gould (he/him)\
-Sara Rajeswaran (she/her)\
-Graham White (he/him)
+Sara Rajeswaran (she/her)
 
 [Minutes of trustees’ meetings can be found here](https://drive.google.com/drive/folders/13fa6XEho_8j5tAyxQX0wwuJ5HXOcRmjZ?usp=sharing)
 
