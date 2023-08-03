@@ -7,18 +7,18 @@ subtitle: Epic and majestic, with moments of heartbreaking intimacy, this
   musical captures the triumph and tragedy of the hopeful passengers on the
   ill-fated Ship of Dreams
 showtimes:
-  - time: 2023-11-22 19:30
   - time: 2023-11-23 19:30
   - time: 2023-11-24 19:30
   - time: 2023-11-25 14:30
   - time: 2023-11-25 19:30
+  - time: 2023-11-27 19:30
   - time: 2023-11-28 19:30
   - time: 2023-11-29 19:30
   - time: 2023-11-30 19:30
   - time: 2023-12-01 19:30
-  - time: 2023-11-28 14:30
+  - time: 2023-12-02 14:30
   - time: 2023-12-02 19:30
-showtime-summary: 22 November-2 December 2023
+showtime-summary: 23 November-2 December 2023
 venue: Bridewell Theatre
 primary-color: "#27598a"
 header-image: /assets/titanic-holder.jpg
@@ -28,15 +28,61 @@ box-office-open: false
 sections:
   - order: 1
     body: |-
+      **CAST**
+
+      **Thomas Andrews** | Luke Leahy (he/him)\
+      **Captain E.J. Smith** | Daniel Saunders (he/him)\
+      **J. Bruce Ismay** | Richard Upton (he/him)\
+      **First Officer Murdoch** | Jack Brown (he/him)\
+      **Second Officer Lightoller / Quartermaster Hitchens** | Jacob Lloyd (he/him)\
+      **Third Officer Pitman / John J. Astor** | Andrew Caruso (he/him)\
+      **Harold Bride** | James Daly (he/him)\
+      **Frederick Barrett** | Toby Chapman (he/him)\
+      **Frederick Fleet** | Toby Churchley (he/him)\
+      **Henry Etches** | James Franey (he/him)\
+      **Isidor Straus** | Tony Rosenberg\
+      **Ida Straus** | Annie Houseago\
+      **George Widener / Frank Carlson** | Steven Ryall (he/him)\
+      **Charlotte Cardoza** | Deborah Lean (she/her)\
+      **Alice Beane** | Tess Robinson (she/her)\
+      **Edgar Beane** | Josh Yard (he/him)\
+      **Charles Clark** | Robert J. Stanex (he/him)\
+      **Caroline Neville** | Jessie Davidson (she/her)\
+      **Jim Farrell / Andrew Latimer** | Joe Dickens (he/him)\
+      **Kate McGowan** | Nicole Murray (she/her)\
+      **Kate Mullins** | Heidi Delve (she/her)\
+      **Kate Murphey** | Lora Jones (she/her)\
+      **Bandmaster Wallace Hartley** | Nick Dore (he/him)
+
+      **Additional Roles to be played by**\
+      Sarah Berryman (she/her)\
+      Victoria Greenway (she/her)\
+      Kate Gledhill (she/her)\
+      Adrian Hau (he/him)\
+      Charlie Houseago (he/him)\
+      Sam Kennard (he/him)\
+      Charlotte Levy (she/her)\
+      Toni MacFarlane (she/her)\
+      Paula Mount (she/her)\
+      Bridget Mylecharane (she/her)
+
       **CREATIVE TEAM**
 
-      **Directors** | Rob Archibald & Louise Roberts\
-      **Musical Director** | Ryan Macaulay\
-      **Producer** | Adam Coppard
+      **Directors** | Rob Archibald (he/him) & Louise Roberts (she/her)\
+      **Musical Director** | Ryan Macaulay (he/him)\
+      **Producer** | Adam Coppard (he/him)\
+      **Set Design** | Andrew Laidlaw (he/him)\
+      **Costume Design** | Callum Anderson (he/him)\
+      **Props** | Pippa Kyle (she/her)\
+      **Lighting Design** | Olly Levett (he/him)\
+      **Sound Design** | Adam Coppard (he/him)\
+      **Graphic Design** | Tess Robinson (she/her)\
+      **Committee Liaisons** | Ruth Granton (she/her) and Jacob Hajjar (he/they)
+      
     title: CAST & CREATIVE TEAM
-metaTitle: Titanic plays at the Bridewell Theatre from 22 November-2 December 2023
+metaTitle: Titanic plays at the Bridewell Theatre from 23 November-2 December 2023
 metaDescription: Titanic is part of Sedos’ 2023 London season and plays at the
-  Bridewell Theatre from 22 November-2 December 2023. Epic and majestic, with
+  Bridewell Theatre from 23 November-2 December 2023. Epic and majestic, with
   moments of heartbreaking intimacy, Titanic captures the triumph and tragedy of
   the hopeful passengers on the ill-fated Ship of Dreams.
 ---
@@ -48,7 +94,7 @@ Based on real people aboard the most legendary ship in the world, *Titanic The M
 
 With music and lyrics by Maury Yeston and a book by Peter Stone, the pair have collectively won an Academy Award, an Emmy Award, an Olivier Award and three Tony awards. The original Broadway production of T*itanic The Musical* won five Tony Awards including Best Musical, Best Score and Best Book. 
 
-*Titanic* plays at the [Bridewell Theatre](https://sedos.co.uk/venues/bridewell) from 22 November-2 December 2023.
+*Titanic* plays at the [Bridewell Theatre](https://sedos.co.uk/venues/bridewell) from 23 November-2 December 2023.
 
 This amateur production of *Titanic* is presented by arrangement with Concord Theatricals Ltd. on behalf of Tams-Witmark LLC. [www.concordtheatricals.co.uk](http://www.concordtheatricals.co.uk/)
 
