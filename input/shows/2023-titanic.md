@@ -45,7 +45,7 @@ sections:
 
       **HAROLD BRIDE** | James Daly (he/him)\
 
-      **FREDERICK BARRETT** |Toby Chapman (he/him)\
+      **FREDERICK BARRETT** | Toby Chapman (he/him)\
 
       **FREDERICK FLEET** | Toby Churchley (he/him)\
 
