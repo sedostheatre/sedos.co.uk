@@ -27,58 +27,102 @@ flyer: /assets/titanic-posterholder.jpg
 box-office-open: false
 sections:
   - order: 1
-    body: |-
+    body: >-
       **CAST**
 
-      **Thomas Andrews** | Luke Leahy (he/him)\
-      **Captain E.J. Smith** | Daniel Saunders (he/him)\
-      **J. Bruce Ismay** | Richard Upton (he/him)\
-      **First Officer Murdoch** | Jack Brown (he/him)\
-      **Second Officer Lightoller / Quartermaster Hitchens** | Jacob Lloyd (he/him)\
-      **Third Officer Pitman / John J. Astor** | Andrew Caruso (he/him)\
-      **Harold Bride** | James Daly (he/him)\
-      **Frederick Barrett** | Toby Chapman (he/him)\
-      **Frederick Fleet** | Toby Churchley (he/him)\
-      **Henry Etches** | James Franey (he/him)\
-      **Isidor Straus** | Tony Rosenberg\
-      **Ida Straus** | Annie Houseago\
-      **George Widener / Frank Carlson** | Steven Ryall (he/him)\
-      **Charlotte Cardoza** | Deborah Lean (she/her)\
-      **Alice Beane** | Tess Robinson (she/her)\
-      **Edgar Beane** | Josh Yard (he/him)\
-      **Charles Clark** | Robert J. Stanex (he/him)\
-      **Caroline Neville** | Jessie Davidson (she/her)\
-      **Jim Farrell / Andrew Latimer** | Joe Dickens (he/him)\
-      **Kate McGowan** | Nicole Murray (she/her)\
-      **Kate Mullins** | Heidi Delve (she/her)\
-      **Kate Murphey** | Lora Jones (she/her)\
-      **Bandmaster Wallace Hartley** | Nick Dore (he/him)
 
-      **Additional Roles to be played by**\
+      **THOMAS ANDREWS** | Luke Leahy (he/him)\
+
+      **CAPTAIN E.J. SMITH** | Daniel Saunders (he/him)\
+
+      **J. BRUCE ISMAY** | Richard Upton (he/him)\
+
+      **FIRST OFFICER MURDOCH** | Jack Brown (he/him)\
+
+      **SECOND OFFICER LIGHTOLLER / QUARTERMASTER HITCHENS** | Jacob Lloyd (he/him)\
+
+      **THIRD OFFICER PITMAN / JOHN J. ASTOR** | Andrew Caruso (he/him)\
+
+      **HAROLD BRIDE** | James Daly (he/him)\
+
+      **FREDERICK BARRETT** |Toby Chapman (he/him)\
+
+      **FREDERICK FLEET** | Toby Churchley (he/him)\
+
+      **HENRY ETCHES** | James Franey (he/him)\
+
+      **ISIDOR STRAUS** | Tony Rosenberg\
+
+      **IDA STRAUS** | Annie Houseago\
+
+      **GEORGE WIDENER / FRANK CARLSON** | Steven Ryall (he/him)\
+
+      **CHARLOTTE CARDOZA** | Deborah Lean (she/her)\
+
+      **ALICE BEANE** | Tess Robinson (she/her)\
+
+      **EDGAR BEANE** | Josh Yard (he/him)\
+
+      **CHARLES CLARK** | Robert J. Stanex (he/him)\
+
+      **CAROLINE NEVILLE** | Jessie Davidson (she/her)\
+
+      **JIM FARRELL / ANDREW LATIMER** | Joe Dickens (he/him)\
+
+      **KATE McGOWAN** | Nicole Murray (she/her)\
+
+      **KATE MULLINS** | Heidi Delve (she/her)\
+
+      **KATE MURPHEY** | Lora Jones (she/her)\
+
+      **BANDMASTER WALLACE HARTLEY** | Nick Dore (he/him)
+
+
+      **ADDITIONAL ROLES TO BE PLAYED BY:**\
+
       Sarah Berryman (she/her)\
+
       Victoria Greenway (she/her)\
+
       Kate Gledhill (she/her)\
+
       Adrian Hau (he/him)\
+
       Charlie Houseago (he/him)\
+
       Sam Kennard (he/him)\
+
       Charlotte Levy (she/her)\
+
       Toni MacFarlane (she/her)\
+
       Paula Mount (she/her)\
+
       Bridget Mylecharane (she/her)
+
 
       **CREATIVE TEAM**
 
-      **Directors** | Rob Archibald (he/him) & Louise Roberts (she/her)\
-      **Musical Director** | Ryan Macaulay (he/him)\
-      **Producer** | Adam Coppard (he/him)\
-      **Set Design** | Andrew Laidlaw (he/him)\
-      **Costume Design** | Callum Anderson (he/him)\
-      **Props** | Pippa Kyle (she/her)\
-      **Lighting Design** | Olly Levett (he/him)\
-      **Sound Design** | Adam Coppard (he/him)\
-      **Graphic Design** | Tess Robinson (she/her)\
-      **Committee Liaisons** | Ruth Granton (she/her) and Jacob Hajjar (he/they)
-      
+
+      **DIRECTORS** | Rob Archibald (he/him) & Louise Roberts (she/her)\
+
+      **MUSICAL DIRECTOR** | Ryan Macaulay (he/him)\
+
+      **PRODUCER** | Adam Coppard (he/him)\
+
+      **SET DESIGN** | Andrew Laidlaw (he/him)\
+
+      **COSTUME DESIGN** | Callum Anderson (he/him)\
+
+      **PROPS** | Pippa Kyle (she/her)\
+
+      **LIGHTING DESIGN** | Olly Levett (he/him)\
+
+      **SOUND DESIGN** | Adam Coppard (he/him)\
+
+      **GRAPHIC DESIGN** | Tess Robinson (she/her)\
+
+      **COMMITTEE LIAISONS** | Ruth Granton (she/her) and Jacob Hajjar (he/they)
     title: CAST & CREATIVE TEAM
 metaTitle: Titanic plays at the Bridewell Theatre from 23 November-2 December 2023
 metaDescription: Titanic is part of Sedos’ 2023 London season and plays at the
