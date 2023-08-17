@@ -30,8 +30,14 @@ We are committed to ensuring *Gatsby and Fay*, and Sedos activities generally, a
 
 You can read Sedos’s Equality, Diversity and Inclusion policy in full [here](https://www.sedos.co.uk/assets/policies/2022-10-edi-policy.pdf).
 
-# [FULL AUDITION NOTICE](https://docs.google.com/document/d/1yrtevFT2ZgtrW6X_b2M5dvf6ryPHg1ihlZ_zLP86FoA/edit#heading=h.s5ioqqbe41ko)
+**HOW TO AUDITION**
+
+Auditions are via a self-taped monologue. Find out all the details in the [full audition notice](https://docs.google.com/document/d/1yrtevFT2ZgtrW6X_b2M5dvf6ryPHg1ihlZ_zLP86FoA/edit#heading=h.s5ioqqbe41ko). 
 
 **MORE AUDITIONS**
 
 Info about all Sedos’s [London auditions](https://www.sedos.co.uk/get-involved)
+
+^^^
+![Gatsby and Fay auditions](/assets/screenshot-2023-08-17-at-15.05.03.png)
+^^^
