@@ -5,7 +5,7 @@ subtitle: A week at the Bridewell packed with events for everyone who wants to
   get involved
 showtimes:
   - time: 2023-09-17 14:00
-showtime-summary: 17-23 AUGUST 2023
+showtime-summary: 17-23 SEPTEMBER 2023
 show-on-homepage: true
 venue: Bridewell Theatre
 primary-color: "#feb800"
