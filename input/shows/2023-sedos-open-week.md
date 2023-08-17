@@ -11,7 +11,7 @@ venue: Bridewell Theatre
 primary-color: "#feb800"
 header-image: /assets/openweek.jpg
 header-image-contain: false
-flyer: /assets/openweekcalendar.jpg
+flyer: /assets/sedos-open-week-poster-holder.jpg
 box-office-open: false
 sections: []
 metaTitle: Sedos Open Week
