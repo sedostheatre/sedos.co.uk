@@ -18,7 +18,7 @@ metaTitle: Sedos Open Week
 metaDescription: Sedos Open Week – seven days of events at the Bridewell
   Theatre, with something for everyone who wants to get involved
 ---
-A week at the Bridewell packed with events for everyone who wants to get involved. 
+A week at the [Bridewell Theatre](https://www.sedos.co.uk/venues/bridewell) packed with events for everyone who wants to get involved. 
 
 ^^^
 ![](/assets/openweekcalendar.jpg)
