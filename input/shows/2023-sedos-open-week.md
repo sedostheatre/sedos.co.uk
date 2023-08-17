@@ -1,0 +1,24 @@
+---
+title: Sedos Open Week
+year: "2023"
+subtitle: A week at the Bridewell packed with events for everyone who wants to
+  get involved
+showtime-summary: 17-23 AUGUST 2023
+venue: Bridewell Theatre
+primary-color: "#feb800"
+header-image: /assets/openweek.jpg
+header-image-contain: false
+flyer: /assets/open-week-calendar-1x.jpg
+box-office-open: false
+sections: []
+metaTitle: Sedos Open Week
+metaDescription: Sedos Open Week – seven days of events at the Bridewell
+  Theatre, with something for everyone who wants to get involved
+---
+A week at the Bridewell packed with events for everyone who wants to get involved. 
+
+
+
+^^^
+![](/assets/open-week-calendar-1x.jpg)
+^^^
