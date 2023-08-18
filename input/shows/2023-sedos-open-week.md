@@ -20,6 +20,8 @@ metaDescription: Sedos Open Week – seven days of events at the Bridewell
 ---
 A week at the [Bridewell Theatre](https://www.sedos.co.uk/venues/bridewell) packed with events for everyone who wants to get involved. 
 
+Check out the full details of [Gatsby and Fay auditions](https://www.sedos.co.uk/events/gatsby-and-fay-auditions). 
+
 ^^^
 ![](/assets/openweekcalendar.jpg)
 ^^^
