@@ -8,7 +8,7 @@
     "postcss": "8.4.27",
     "purgecss": "5.0.0",
     "serve": "14.2.0",
-    "stylelint": "15.10.2",
+    "stylelint": "15.10.3",
     "stylelint-config-standard-scss": "10.0.0"
   },
   "dependencies": {
