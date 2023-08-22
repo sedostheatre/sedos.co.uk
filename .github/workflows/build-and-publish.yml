@@ -37,7 +37,7 @@ jobs:
     - name: purgecss
       run: 'npx purgecss -c ./purgecss.config.js'
     - name: Cypress tests
-      uses: cypress-io/github-action@v5
+      uses: cypress-io/github-action@v6
       with:
         start: 'npx serve -p 5080 output'
         wait-on: 'http://localhost:5080'
