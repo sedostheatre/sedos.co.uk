@@ -62,13 +62,12 @@ The management committee meets monthly.
 Karen Braganza (she/her)\
 Paul Caira\
 Tim Garrad (he/him) \
-Ruth Granton \
+Ruth Granton (she/her)\
 Jacob Hajjar (he/they)\
 Olly Levett (he/him)\
 Olivia Perrett \
 Tess Robinson (she/her)\
-Mark Sidall (he/him)\
-Sam Sugarman
+Mark Sidall (he/him)
 
 ## Groups
 
