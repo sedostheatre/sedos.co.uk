@@ -63,6 +63,10 @@ In general, audience members arriving late for a Sedos show will be held outside
 
 Certain shows may not be able to admit latecomers at all or not until the interval, so you are advised to arrive in good time for curtain up.
 
+**Cashless**
+
+Please note, Sedos is now a cashless operation so we will only take card payments for programmes and ticket sales on the door. The Bridewell Theatre also operates cashless, so all bar sales are made by card payments. 
+
 **Accessibility**
 
 The Bridewell Theatre is accessible through the main entrance via a portable ramp over a threshold stone with a riser height ranging from 110-150mm from right to left. Access from the threshold to the auditorium is via a stairlift (230kg weight load) and to the theatre bar and lavatories via a platform lift (340kg weight load).
