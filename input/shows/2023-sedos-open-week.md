@@ -37,10 +37,13 @@ sections:
       Certified. Bangers. Guaranteed!
 
 
-      **Cost: £10**
+      **Date and time:** Sunday 17 September, 9am
 
 
-      [Book here](https://sedos.ticketsolve.com/ticketbooth/shows/1173648134)
+      **Cost:** £10
+
+
+      **[Book here](https://sedos.ticketsolve.com/ticketbooth/shows/1173648134)**
 
 
       ^^^
