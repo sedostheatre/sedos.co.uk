@@ -155,7 +155,7 @@ sections:
       🎭 Actor-director collaboration: explore what communication is needed for a harmonious director-actor relationship. 
 
 
-      🎯 Problem solving in real-time: dDevelop the ability to think on your feet and overcome challenges during a mock-rehearsal. 
+      🎯 Problem solving in real-time: develop the ability to think on your feet and overcome challenges during a mock-rehearsal. 
 
 
       📣 Watch your work come to life: sit back and relax as you watch your scene performed in the Bridewell theatre. 
@@ -164,10 +164,10 @@ sections:
       🔎 Save your questions for the end: stay for a Q&A with a mix of experienced Sedos directors and those working in the industry.
 
 
-      **Date and time: Thursday 21 September, 7pm**
+      **Date and time:** Thursday 21 September, 7pm
 
 
-      **Cost:** £5 to observe (who don’t feel like acting or directing, but want to observe so they can learn)); £10 for assistant directors (who want to shadow another director and contribute); £10 for directors (who want to direct and have a specific scene to bring)
+      **Cost:** £5 to observe (for those who don’t feel like acting or directing, but want to observe so they can learn)); £10 for assistant directors (who want to shadow another director and contribute); £10 for directors (who want to direct and have a specific scene to bring)
 
 
       **[Book here](https://sedos.ticketsolve.com/ticketbooth/shows/1173648135)**
