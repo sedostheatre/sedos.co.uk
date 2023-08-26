@@ -179,6 +179,44 @@ sections:
       ![Open Week: Directors’ Workshop](/assets/directors.jpeg)
 
       ^^^
+  - order: 5
+    title: SIMPROV & OPEN MIC SOCIAL
+    body: >-
+      **Simprov Live! 7.30pm-8.30pm**
+
+
+      For one night only, Simprov trades their Friday night site for the Friday night lights of the Bridewell stage.
+
+
+      We’ll take your wild and wacky suggestions and turn them into the latest three minute (unscripted!) epic to hit an off-west end stage.
+
+
+      **Open Mic Social! 8.45pm-11pm**
+
+
+      Friday night fun with the chance to sing the song you’ve always wanted to sing on the Bridewell stage. 
+
+
+      We've teamed up with a West End pianist to accompany you as you show us the latest addition to your rep folder or maybe just an old favourite that you love to whip out at any opportunity!
+
+
+      Singing spaces limited – once you’ve [booked](https://sedos.ticketsolve.com/ticketbooth/shows/1173648133), sign up to sing by sending your sheet music to [openmic@sedos.co.uk](mailto:openmic@sedos.co.uk) 
+
+
+      **Date and time:** Friday 22 September, 7.30pm
+
+
+      **Tickets:** £10
+
+
+      **[Book here](https://sedos.ticketsolve.com/ticketbooth/shows/1173648133)**
+
+
+      ^^^
+
+      ![Open Week: Simprov & Open Mic Social](/assets/simprovsocial.jpeg)
+
+      ^^^
 metaTitle: Sedos Open Week
 metaDescription: Sedos Open Week – seven days of events at the Bridewell
   Theatre, with something for everyone who wants to get involved
