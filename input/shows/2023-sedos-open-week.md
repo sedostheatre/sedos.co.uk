@@ -51,6 +51,93 @@ sections:
       ![Open Week: Big Sunday Sing-Along](/assets/singalong.jpeg)
 
       ^^^
+  - order: 2
+    body: >-
+      **Join production group in the Bridewell as we look into the world of
+      lighting.**
+
+
+      We'll work through some common tasks with the lighting desks (running Eos) that we use in our productions to go through items like: 
+
+
+      * Powering on the lighting infrastructure and desk and making sure you are show ready 
+
+      * How to op a show on the desk 
+
+      * What to do in the event something goes wrong while op-ing a show 
+
+
+      In addition, we’ll run through some basic steps that would be used in a focus or to build out the basis of a show including:
+
+
+      * Turning lights on and off 
+
+      * Recording scenes 
+
+      * Controlling advanced features of lights
+
+
+      This workshop is aimed at people who are beginners in the world of lighting and Eos desks. However, if you would like to go through any more intermediate / advanced features, please email us on [production@sedos.co.uk](mailto:production@sedos.co.uk) and we’ll look to put something together for you. 
+
+
+      While this workshop is going on, some other production group members will be looking at maintenance and preparing for Gatsby and Fay which you are also welcome to take part in.
+
+
+      **Date and time:** Monday 18 September, 9pm
+
+
+      **Cost:** this is a free event, but it is essential to sign up by booking a free ticket
+
+
+      **[Book here](https://sedos.ticketsolve.com/ticketbooth/shows/1173648131)**
+
+
+      ^^^
+
+      ![Open Week: Lighting Technical Workshop](/assets/lighting.jpeg)
+
+      ^^^
+    title: LIGHTING TECHNICAL WORKSHOP
+  - order: 3
+    title: Gatsby and Fay
+    body: >-
+      **Gatsby and Fay is a radical queer retelling of the Great Gatsby that’s
+      grimmer, glammer, and gayer than ever. Jay Gatsby is the enigmatic trans
+      host of London’s most outrageously queer parties. They’re desperate to win
+      back their bisexual ex-girlfriend, Daisy Fay Buchanan, five years after
+      transphobia drove them apart. But her abusive husband isn’t going to let
+      her go.** 
+
+
+      This play is a celebration of queer growth full of laughter, tears, and a personal look at abuse. 
+
+
+      Gatsby and Fay is about love. How we idealise our loved ones, how we make excuses for a lover’s bad behaviour, how we value certain types of love over others. And above all, Gatsby and Fay is about what happens when love goes wrong.
+
+
+      This is a script-in-hand performance after one evening of rehearsal. 
+
+
+      Check out the full details of [Gatsby and Fay auditions](https://www.sedos.co.uk/events/gatsby-and-fay-auditions). 
+
+
+      **Date and time:** rehearsal on Tuesday 19 September 7-11pm; performanceWednesday 20 September, 8pm
+
+
+      **Cost:** free to take part if you are cast
+
+
+      **Tickets to watch on Wednesday 20 September:** £5
+
+
+      **[Book here](https://sedos.ticketsolve.com/ticketbooth/shows/1173648021)**
+
+
+      ^^^
+
+      ![Gatsby and Fay](/assets/g-f.jpeg)
+
+      ^^^
 metaTitle: Sedos Open Week
 metaDescription: Sedos Open Week – seven days of events at the Bridewell
   Theatre, with something for everyone who wants to get involved
@@ -58,8 +145,6 @@ metaDescription: Sedos Open Week – seven days of events at the Bridewell
 A week at the [Bridewell Theatre](https://www.sedos.co.uk/venues/bridewell) packed with events for everyone who wants to get involved. 
 
 [Book all the events here](https://sedos.ticketsolve.com/ticketbooth/shows). 
-
-Check out the full details of [Gatsby and Fay auditions](https://www.sedos.co.uk/events/gatsby-and-fay-auditions). 
 
 ^^^
 ![](/assets/openweekcalendar.jpg)
