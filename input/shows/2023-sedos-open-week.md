@@ -99,7 +99,7 @@ sections:
       ^^^
     title: LIGHTING TECHNICAL WORKSHOP
   - order: 3
-    title: Gatsby and Fay
+    title: GATSBY AND FAY
     body: >-
       **Gatsby and Fay is a radical queer retelling of the Great Gatsby that’s
       grimmer, glammer, and gayer than ever. Jay Gatsby is the enigmatic trans
@@ -136,6 +136,47 @@ sections:
       ^^^
 
       ![Gatsby and Fay](/assets/g-f.jpeg)
+
+      ^^^
+  - order: 4
+    title: DIRECTORS’ WORKSHOP
+    body: >-
+      **Calling all aspiring theatre directors! Join us for an in-person
+      workshop designed to provide a low-pressure learning environment to
+      practise your directorial style. Interact with fellow directors, actors,
+      and industry experts.** 
+
+
+      🌟 **Workshop highlights:** 
+
+
+      🎬 Hands-on scene analysis: dive deep into dissecting a script, unraveling layers, and discovering new perspectives to bring out the essence of every character. 
+
+
+      🎭 Actor-director collaboration: explore what communication is needed for a harmonious director-actor relationship. 
+
+
+      🎯 Problem solving in real-time: dDevelop the ability to think on your feet and overcome challenges during a mock-rehearsal. 
+
+
+      📣 Watch your work come to life: sit back and relax as you watch your scene performed in the Bridewell theatre. 
+
+
+      🔎 Save your questions for the end: stay for a Q&A with a mix of experienced Sedos directors and those working in the industry.
+
+
+      **Date and time: Thursday 21 September, 7pm**
+
+
+      **Cost:** £5 to observe (who don’t feel like acting or directing, but want to observe so they can learn)); £10 for assistant directors (who want to shadow another director and contribute); £10 for directors (who want to direct and have a specific scene to bring)
+
+
+      **[Book here](https://sedos.ticketsolve.com/ticketbooth/shows/1173648135)**
+
+
+      ^^^
+
+      ![Open Week: Directors’ Workshop](/assets/directors.jpeg)
 
       ^^^
 metaTitle: Sedos Open Week
