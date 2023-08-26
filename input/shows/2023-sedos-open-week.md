@@ -4,10 +4,16 @@ year: "2023"
 subtitle: A week at the Bridewell packed with events for everyone who wants to
   get involved
 showtimes:
-  - time: 2023-09-17 14:00
+  - time: 2023-09-17 09:00
+  - time: 2023-09-18 19:00
+  - time: 2023-09-20 20:00
+  - time: 2023-09-21 19:00
+  - time: 2023-09-22 19:30
+  - time: 2023-09-23 10:00
 showtime-summary: 17-23 SEPTEMBER 2023
 show-on-homepage: true
 venue: Bridewell Theatre
+ticket-prices: Tickets for Open Week events range from free to £10
 primary-color: "#feb800"
 header-image: /assets/openweek.jpg
 header-image-contain: false
