@@ -155,7 +155,7 @@ sections:
       🎭 Actor-director collaboration: explore what communication is needed for a harmonious director-actor relationship. 
 
 
-      🎯 Problem solving in real-time: dDevelop the ability to think on your feet and overcome challenges during a mock-rehearsal. 
+      🎯 Problem solving in real-time: develop the ability to think on your feet and overcome challenges during a mock-rehearsal. 
 
 
       📣 Watch your work come to life: sit back and relax as you watch your scene performed in the Bridewell theatre. 
