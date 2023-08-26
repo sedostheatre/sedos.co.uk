@@ -83,7 +83,7 @@ sections:
       While this workshop is going on, some other production group members will be looking at maintenance and preparing for Gatsby and Fay which you are also welcome to take part in.
 
 
-      **Date and time:** Monday 18 September, 9pm
+      **Date and time:** Monday 18 September, 7pm
 
 
       **Cost:** this is a free event, but it is essential to sign up by booking a free ticket
