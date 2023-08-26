@@ -164,7 +164,7 @@ sections:
       🔎 Save your questions for the end: stay for a Q&A with a mix of experienced Sedos directors and those working in the industry.
 
 
-      **Date and time: Thursday 21 September, 7pm**
+      **Date and time:** Thursday 21 September, 7pm
 
 
       **Cost:** £5 to observe (who don’t feel like acting or directing, but want to observe so they can learn)); £10 for assistant directors (who want to shadow another director and contribute); £10 for directors (who want to direct and have a specific scene to bring)
