@@ -217,6 +217,44 @@ sections:
       ![Open Week: Simprov & Open Mic Social](/assets/simprovsocial.jpeg)
 
       ^^^
+  - order: 6
+    title: RELAXED GET-IN
+    body: >-
+      **Join production group for a relaxed get in ahead of our September show,
+      *[Clue](https://www.sedos.co.uk/shows/2023-clue)*.** 
+
+
+      This is the ideal opportunity to come along and get an in-depth look at some of the common get in tasks – including learning how to: 
+
+
+      * Safely build the scaffold tower 
+
+      * Securely rig lighting lighting fixtures 
+
+      * Successfully focus a variety of fixtures 
+
+      * Setup the plotting desk 
+
+      * A guide to the Bridewells patch bays for audio 
+
+
+      If there is anything you would like to specifically learn how to do, drop us an email on [production@sedos.co.uk](mailto:production@sedos.co.uk) and we’ll look at including this in the session for you!
+
+
+      **Date and time:** Saturday 23 September, 10am
+
+
+      **Cost:** this is a free event, but it is essential to sign up by booking a free ticket
+
+
+      **[Book here](https://sedos.ticketsolve.com/ticketbooth/shows/1173648132)**
+
+
+      ^^^
+
+      ![Open Week: Relaxed Get-In for Clue](/assets/get-in.jpeg)
+
+      ^^^
 metaTitle: Sedos Open Week
 metaDescription: Sedos Open Week – seven days of events at the Bridewell
   Theatre, with something for everyone who wants to get involved
