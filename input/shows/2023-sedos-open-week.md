@@ -101,31 +101,30 @@ sections:
   - order: 3
     title: GATSBY AND FAY
     body: >-
-      **Gatsby and Fay is a radical queer retelling of the Great Gatsby that’s
-      grimmer, glammer, and gayer than ever. Jay Gatsby is the enigmatic trans
-      host of London’s most outrageously queer parties. They’re desperate to win
-      back their bisexual ex-girlfriend, Daisy Fay Buchanan, five years after
-      transphobia drove them apart. But her abusive husband isn’t going to let
-      her go.** 
+      ***Gatsby and Fay* is a radical queer retelling of *The Great Gatsby*
+      that’s grimmer, glammer, and gayer than ever. Jay Gatsby is the enigmatic
+      trans host of London’s most outrageously queer parties. They’re desperate
+      to win back their bisexual ex-girlfriend, Daisy Fay Buchanan, five years
+      after transphobia drove them apart. But her abusive husband isn’t going to
+      let her go.** 
 
 
       This play is a celebration of queer growth full of laughter, tears, and a personal look at abuse. 
 
 
-      Gatsby and Fay is about love. How we idealise our loved ones, how we make excuses for a lover’s bad behaviour, how we value certain types of love over others. And above all, Gatsby and Fay is about what happens when love goes wrong.
+      *Gatsby and Fay* is about love. How we idealise our loved ones, how we make excuses for a lover’s bad behaviour, how we value certain types of love over others. And above all, *Gatsby and Fay* is about what happens when love goes wrong.
 
 
       This is a script-in-hand performance after one evening of rehearsal. 
 
 
-      Check out the full details of [Gatsby and Fay auditions](https://www.sedos.co.uk/events/gatsby-and-fay-auditions). 
+      Check out the full details of [*Gatsby and Fay* auditions](https://www.sedos.co.uk/events/gatsby-and-fay-auditions). 
 
 
-      **Date and time:** rehearsal on Tuesday 19 September 7-11pm; performanceWednesday 20 September, 8pm
+      **Date and time:** rehearsal on Tuesday 19 September 7-11pm; performance on Wednesday 20 September, 8pm
 
 
-      **Cost:** free to take part if you are cast
-
+      **Cost:** free to take part if you are cast\
 
       **Tickets to watch on Wednesday 20 September:** £5
 
