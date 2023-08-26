@@ -20,7 +20,34 @@ header-image-contain: false
 flyer: /assets/sedos-open-week-poster-holder-2.jpg
 box-office-open: true
 box-office-link: https://sedos.ticketsolve.com/ticketbooth/shows
-sections: []
+sections:
+  - order: 1
+    title: BIG SUNDAY SING-ALONG
+    body: >-
+      **Come and join us for our biggest sing-along of the season from 9am to
+      9pm!** 
+
+
+      We’ve assembled a squad of musical directors to lead our biggest cast yet (yes that's you!) through a selection of favourites over the course of a Sunday. You’ll learn all of the numbers throughout the day before we put you all together with a live band to enjoy the numbers in their full glory. 
+
+
+      Whether you’d like to sing in the chorus or perhaps even fancy a cheeky solo line – we’d love to hear from you!
+
+
+      Certified. Bangers. Guaranteed!
+
+
+      **Cost: £10**
+
+
+      [Book here](https://sedos.ticketsolve.com/ticketbooth/shows/1173648134)
+
+
+      ^^^
+
+      ![Open Week: Big Sunday Sing-Along](/assets/singalong.jpeg)
+
+      ^^^
 metaTitle: Sedos Open Week
 metaDescription: Sedos Open Week – seven days of events at the Bridewell
   Theatre, with something for everyone who wants to get involved
