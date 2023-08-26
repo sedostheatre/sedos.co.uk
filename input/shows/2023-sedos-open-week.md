@@ -124,7 +124,8 @@ sections:
       **Date and time:** rehearsal on Tuesday 19 September 7-11pm; performance on Wednesday 20 September, 8pm
 
 
-      **Cost:** free to take part if you are cast\
+      **Cost:** If you are cast in *Gatsby and Fay*, there is a participation fee of £10. If you are a member of Sedos (membership is currently £30 per year if paid by direct debit; £35 if paid as a one-off), this fee is waived. [Info on joining Sedos](https://www.sedos.co.uk/about/join-us)
+
 
       **Tickets to watch on Wednesday 20 September:** £5
 
