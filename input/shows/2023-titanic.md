@@ -23,7 +23,7 @@ venue: Bridewell Theatre
 primary-color: "#27598a"
 header-image: /assets/titanic-holder.jpg
 header-image-contain: false
-flyer: /assets/titanic-flyerholder-v2.jpg
+flyer: /assets/titanic-poster-800.png
 box-office-open: false
 sections:
   - order: 1
