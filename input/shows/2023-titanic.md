@@ -22,6 +22,8 @@ showtime-summary: 23 November-2 December 2023
 order-on-homepage: -3
 venue: Bridewell Theatre
 ticket-prices: From £11.50
+additional-ticket-info: "Gala nights on Friday 24 November and Friday 1
+  December: ticket price includes a free glass of fizz and programme"
 primary-color: "#27598a"
 header-image: /assets/titanic-holder.jpg
 header-image-contain: false
