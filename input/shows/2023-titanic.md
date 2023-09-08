@@ -19,12 +19,14 @@ showtimes:
   - time: 2023-12-02 14:30
   - time: 2023-12-02 19:30
 showtime-summary: 23 November-2 December 2023
+order-on-homepage: -3
 venue: Bridewell Theatre
 primary-color: "#27598a"
 header-image: /assets/titanic-holder.jpg
 header-image-contain: false
 flyer: /assets/titanic-poster-800.png
-box-office-open: false
+box-office-open: true
+box-office-link: https://sedos.ticketsolve.com/ticketbooth/shows/1173636620
 sections:
   - order: 1
     body: >-
