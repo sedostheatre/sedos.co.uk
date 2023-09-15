@@ -118,19 +118,47 @@ sections:
       This is a script-in-hand performance after one evening of rehearsal. 
 
 
-      Check out the full details of [*Gatsby and Fay* auditions](https://www.sedos.co.uk/events/gatsby-and-fay-auditions). 
-
-
       **Date and time:** rehearsal on Tuesday 19 September 7-11pm; performance on Wednesday 20 September, 8pm
-
-
-      **Cost:** If you are cast in *Gatsby and Fay*, there is a participation fee of £10. If you are a member of Sedos (membership is currently £30 per year if paid by direct debit; £35 if paid as a one-off), this fee is waived. [Info on joining Sedos](https://www.sedos.co.uk/about/join-us)
 
 
       **Tickets to watch on Wednesday 20 September:** £5
 
 
       **[Book here](https://sedos.ticketsolve.com/ticketbooth/shows/1173648021)**
+
+
+      **CAST**
+
+
+      **JAY GATSBY** | Tatenda Shamiso (he/him)
+
+      **DAISY FAY BUCHANAN** | Anuli Changa (she/her)
+
+      **NICK CARRAWAY** | Ell Thompson (they/them)
+
+      **JORDAN BAKER** | Sakshi Verman (she/her)
+
+      **TOM BUCHANAN** | Sylvian Lockwood (he/him)
+
+      **MCKEE** | Matisse Ciel Pagès (they/them)
+
+      **CATHERINE WILSON** | Blair Heinz (she/her)
+
+      **MYRTLE WILSON** | Naomi Bowman (she/her)
+
+      **LUCILLE** | Anoä-Kanelle Calpas (she/they)
+
+      **GILDA** | Freya Dawes (she/her)
+
+      **OWL EYES** | Owain Jones (he/him)
+
+      **BAEDEKER** | Bobby Brill (he/they)
+
+      **MR SLOANE** | Harry Jefferies (he/him)
+
+      **MRS SLOANE** | Sarah Beebe (she/her)\
+
+      **NARRATOR** | Emma Jaggs (she/her)
 
 
       ^^^
