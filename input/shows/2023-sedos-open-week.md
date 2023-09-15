@@ -130,31 +130,31 @@ sections:
       **CAST**
 
 
-      **JAY GATSBY** | Tatenda Shamiso (he/him)
+      **JAY GATSBY** | Tatenda Shamiso (he/him)\
 
-      **DAISY FAY BUCHANAN** | Anuli Changa (she/her)
+      **DAISY FAY BUCHANAN** | Anuli Changa (she/her)\
 
-      **NICK CARRAWAY** | Ell Thompson (they/them)
+      **NICK CARRAWAY** | Ell Thompson (they/them)\
 
-      **JORDAN BAKER** | Sakshi Verman (she/her)
+      **JORDAN BAKER** | Sakshi Verman (she/her)\
 
-      **TOM BUCHANAN** | Sylvian Lockwood (he/him)
+      **TOM BUCHANAN** | Sylvian Lockwood (he/him)\
 
-      **MCKEE** | Matisse Ciel Pagès (they/them)
+      **MCKEE** | Matisse Ciel Pagès (they/them)\
 
-      **CATHERINE WILSON** | Blair Heinz (she/her)
+      **CATHERINE WILSON** | Blair Heinz (she/her)\
 
-      **MYRTLE WILSON** | Naomi Bowman (she/her)
+      **MYRTLE WILSON** | Naomi Bowman (she/her)\
 
-      **LUCILLE** | Anoä-Kanelle Calpas (she/they)
+      **LUCILLE** | Anoä-Kanelle Calpas (she/they)\
 
-      **GILDA** | Freya Dawes (she/her)
+      **GILDA** | Freya Dawes (she/her)\
 
-      **OWL EYES** | Owain Jones (he/him)
+      **OWL EYES** | Owain Jones (he/him)\
 
-      **BAEDEKER** | Bobby Brill (he/they)
+      **BAEDEKER** | Bobby Brill (he/they)\
 
-      **MR SLOANE** | Harry Jefferies (he/him)
+      **MR SLOANE** | Harry Jefferies (he/him)\
 
       **MRS SLOANE** | Sarah Beebe (she/her)\
 
