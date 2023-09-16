@@ -196,7 +196,7 @@ sections:
       **Date and time:** Thursday 21 September, 7pm
 
 
-      **Cost:** £5 to observe (for those who don’t feel like acting or directing, but want to observe so they can learn)); £10 for assistant directors (who want to shadow another director and contribute); £10 for directors (who want to direct and have a specific scene to bring)
+      **Cost:** £5 to observe (for those who don’t feel like acting or directing, but want to observe so they can learn) or for actors to take part; £10 for assistant directors (who want to shadow another director and contribute); £10 for directors (who want to direct and have a specific scene to bring)
 
 
       **[Book here](https://sedos.ticketsolve.com/ticketbooth/shows/1173648135)**
