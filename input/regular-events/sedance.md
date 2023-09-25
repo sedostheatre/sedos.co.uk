@@ -10,8 +10,6 @@ metaTitle: "London dance class: Sedance is a Monday evening class "
 metaDescription: Sedance is a London dance class held on a Monday evening and
   run by theatre company Sedos
 ---
-**SEDANCE IS CURRENTLY ON A BREAK – CLASSES RETURN ON MONDAY EVENINGS FROM 12 SEPTEMBER.**
-
 **Sedance is Sedos’ London dance class, running every Monday night at 7.15pm.**
 
 Classes take place at Central School of Ballet, 21-22 Hatfields, Paris Garden, London, SE1 8DJ
