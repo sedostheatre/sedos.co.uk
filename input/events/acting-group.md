@@ -12,8 +12,6 @@ recurrence: First Wednesday of every month
 ---
 **The London Acting Group run by Sedos takes place on the first Wednesday of every month.** 
 
-**Please note there is no Acting group session in June and in July, it will take place on Tuesday 4.**
-
 *Sessions take place at Theatre Deli Leadenhall Studios, 107 Leadenhall Street, London EC3A 4AF from 7-9pm.*
 
 Sedos’ Acting Group is a friendly, relaxed and supportive atmosphere for people who want to act... whether you want to brush up on your skills, prepare for an audition or simply 'have a go', you are welcome! We tackle everything from contemporary to classical, comedy to drama, and everything in-between. We encourage all levels of ability to take part, it doesn’t matter whether it’s your first time acting or your 50th time! 
