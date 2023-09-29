@@ -10,7 +10,7 @@ Configuration files exist to automatically spin up a working dev environment, so
 
 ### Alternatives
 
-You'll need to have dotnet 6, and a recent version of nodejs installed.
+You'll need to have dotnet 7, and a recent version of nodejs installed.
 
 ## Running
 
