@@ -1,0 +1,23 @@
+name: Automatically lint files
+
+on:
+  workflow_dispatch:
+  pull_request:
+
+jobs:
+  format:
+    name: Format files
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout Repo
+        uses: actions/checkout@v4
+      - name: Node Install
+        run: 'npm ci'
+      - name: Lint Styles
+        run: 'npx stylelint **/*.scss --fix'
+      - uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: 'chore: Automatically lint files'
+          file_pattern: '**/*.scss'
