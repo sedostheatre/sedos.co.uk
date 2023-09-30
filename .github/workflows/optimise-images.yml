@@ -1,16 +1,15 @@
-name: Compress Images
+name: Optimise Images
 on:
   workflow_dispatch:
   schedule:
     - cron: '00 23 * * *'
 jobs:
   build:
-    name: calibreapp/image-actions
     runs-on: ubuntu-latest
     steps:
       - name: Checkout Repo
         uses: actions/checkout@v4
-      - name: Compress Images
+      - name: Optimise Images
         id: calibre
         uses: calibreapp/image-actions@main
         with:
@@ -20,6 +19,6 @@ jobs:
         if: steps.calibre.outputs.markdown != ''
         uses: peter-evans/create-pull-request@v5
         with:
-          title: 'chore: compressed images nightly'
-          commit-message: 'chore: nightly image compression'
+          title: 'chore: Aautomatically optimise images'
+          commit-message: 'chore: Aautomatically optimise images'
           body: ${{ steps.calibre.outputs.markdown }}
