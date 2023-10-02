@@ -6,7 +6,7 @@ image: /assets/simprov3-360.jpg
 venue: Online via Zoom
 recurrence: Mondays at 7.30pm
 ---
-#### [For current information on Simprov, please look at the Simprov page](https://www.sedos.co.uk/regular-events/simprov)
+[For current information on Simprov, please look at the Simprov page](https://www.sedos.co.uk/regular-events/simprov)
 
 **Simprov is the Sedos group that lets members and non-members explore their spontaneous side!**
 
