@@ -5,7 +5,7 @@ image: /assets/simprov3-360.jpg
 header-image: /assets/simprov3-360.jpg
 venue: Theatre Deli
 recurrence: Fridays, 7pm
-metaTitle: "3ondon improvisation group: Simprov is run by amateur theatre company Sedos"
+metaTitle: "London improvisation group: Simprov is run by amateur theatre company Sedos"
 metaDescription: Simprov is a drop-in London improvisation group run by theatre
   company Sedos. We let actors explore their spontaneous side
 ---
