@@ -10,6 +10,8 @@ metaDescription: "If you fancy trying out your spontaneous side, why not try a
 ---
 *31 March 2022*
 
+### [For current information on Simprov, please look at the Simprov page](https://www.sedos.co.uk/regular-events/simprov)
+
 **Simprov is back in-person for the first time since before the first Covid-19 lockdown, with drop-in improvisation sessions back on the schedule.**
 
 The team behind Simprov, our [London improvisation group](https://sedos.co.uk/regular-events/simprov), are returning with live sessions from 8 April 2022.
