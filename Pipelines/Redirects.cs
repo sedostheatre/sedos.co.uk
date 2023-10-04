@@ -38,7 +38,8 @@ namespace Sedos.Pipelines
                 { "titanic/waitlist", "https://forms.gle/MzNetGH44eHHJXdcA" },
                 { "sondheim/programme", "https://marvelapp.com/prototype/jhg003h" },
                 { "donate", "https://sedos.ticketsolve.com/ticketbooth/products/donation" },
-                { "production/community", "https://chat.whatsapp.com/J3QApbmJlMZ9oYrlVGGkGU" }
+                { "production/community", "https://chat.whatsapp.com/J3QApbmJlMZ9oYrlVGGkGU" },
+                { "justso/material", "https://drive.google.com/drive/folders/12jf3KdeXp0iSfh9rsE5Nd2Lo62lzzCNX" },
             };
 
             ProcessModules = new ModuleList
