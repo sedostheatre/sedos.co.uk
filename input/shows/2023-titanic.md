@@ -128,12 +128,21 @@ sections:
 
       **COMMITTEE LIAISONS** | Ruth Granton (she/her) and Jacob Hajjar (he/they)
     title: CAST & CREATIVE TEAM
-  - order: 1
+  - order: 2
     title: FLYER
     body: |-
       ![](/assets/titanic-poster-800.png)
 
       ![](/assets/titanic-flyer-back-800.jpg)
+  - order: 3
+    title: GALLERY
+    body: <a data-flickr-embed="true"
+      href="https://www.flickr.com/photos/sedos/albums/72177720311840144"
+      title="Titanic The Musical - 2023"><img
+      src="https://live.staticflickr.com/65535/53247679851_8593c90d55_z.jpg"
+      width="640" height="480" alt="Titanic The Musical - 2023"/></a><script
+      async src="//embedr.flickr.com/assets/client-code.js"
+      charset="utf-8"></script>
 metaTitle: Titanic plays at the Bridewell Theatre from 23 November-2 December 2023
 metaDescription: Titanic is part of Sedos’ 2023 London season and plays at the
   Bridewell Theatre from 23 November-2 December 2023. Epic and majestic, with
