@@ -31,7 +31,7 @@ The workshop is an opportunity to meet the creative team and learn more about *J
 \
 The team will talk about their vision for the production, before a chance to sing through a number from the show with our musical director to get a feel for the music. Our choreographer will also teach the audition movement, so come along for a little bop!\
 \
-The movement isn't too strenuous but we would recommend shoes and clothing that you are comfortable dancing in.
+The movement isn’t too strenuous but we would recommend shoes and clothing that you are comfortable dancing in.
 
 You don’t need to prepare anything for the workshop and it is free to attend. Attendance is not compulsory and will not affect your chances of being cast.\
 \
