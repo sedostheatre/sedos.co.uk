@@ -10,7 +10,7 @@ metaTitle: Just So pre-audition workshop
 metaDescription: "Just So pre-audition workshop: find out more about how to
   audition for Sedos’ 2024 production"
 ---
-Registration is now open for the *Just So* pre-audition workshop. *Just So* is Sedos’ first production of 2024, with the show being staged 5–9 March at the Bridewell Theatre. 
+Registration is now open for the *Just So* pre-audition workshop. *Just So* is the first production of [Sedos’ 2024 season](https://www.sedos.co.uk/news/2023-09-14-sedos-2024-season) with the show being staged 5–9 March at the [Bridewell Theatre](https://www.sedos.co.uk/venues/bridewell). 
 
 **KEY INFO**
 
@@ -25,7 +25,7 @@ Being so far from home, the Elephant’s Child needs a sidekick who can navigate
 
 [Read more in the full audition notice](https://drive.google.com/drive/folders/12jf3KdeXp0iSfh9rsE5Nd2Lo62lzzCNX?usp=drive_link)
 
-**[](https://drive.google.com/drive/folders/12jf3KdeXp0iSfh9rsE5Nd2Lo62lzzCNX?usp=drive_link)MORE ABOUT THE WORKSHOP**
+[](https://drive.google.com/drive/folders/12jf3KdeXp0iSfh9rsE5Nd2Lo62lzzCNX?usp=drive_link)**MORE ABOUT THE WORKSHOP**
 
 The workshop is an opportunity to meet the creative team and learn more about *Just S*o, as well as ask any questions. \
 \
@@ -39,13 +39,13 @@ We’ll be opening our audition bookings after the workshop so you haven’t mis
 
 ### [FULL AUDITION NOTICE](https://drive.google.com/drive/folders/12jf3KdeXp0iSfh9rsE5Nd2Lo62lzzCNX?usp=drive_link)
 
-**[](https://drive.google.com/drive/folders/12jf3KdeXp0iSfh9rsE5Nd2Lo62lzzCNX?usp=drive_link)SIGN UP**
+[](https://drive.google.com/drive/folders/12jf3KdeXp0iSfh9rsE5Nd2Lo62lzzCNX?usp=drive_link)**SIGN UP**
 
 You can sign up for the workshop at [membership.sedos.co.uk/signup/115](https://membership.sedos.co.uk/signup/115)
 
 **MORE AUDITIONS**
 
-Info about all Sedos’ [London auditions](https://www.sedos.co.uk/get-involved)
+Info about all Sedos’ [London auditions](https://www.sedos.co.uk/get-involved).
 
 ^^^
 ![Just So pre-audition workshop](/assets/post-size-just-so.jpg)
