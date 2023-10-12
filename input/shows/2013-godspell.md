@@ -18,7 +18,7 @@ showtimes:
   - time: 2013-04-13 14:30
   - time: 2013-04-13 19:30
 showtime-summary: 3-13 April 2013
-venue: bridewell
+venue: Bridewell Theatre
 primary-color: "#b1977c"
 header-image: /assets/8631276496_e4d87a50f7_k.jpg
 flyer: /assets/godspell-flyerfront-final_600.jpg

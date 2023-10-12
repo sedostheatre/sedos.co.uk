@@ -14,7 +14,7 @@ showtimes:
   - time: 2022-10-29 14:30
   - time: 2022-10-29 19:30
 showtime-summary: 25-29 OCTOBER 2022
-venue: bridewell
+venue: Bridewell Theatre
 ticket-prices: Tickets from £10 (no booking fee)
 primary-color: "#2E0003"
 header-image: /assets/carriesquare.jpg
@@ -79,7 +79,7 @@ sections:
       ><footer><cite><a target="_blank" href="https://www.londontheatre1.com/reviews/carrie-the-musical-bridewell-theatre/">Carrie: The Musical, 2022, London Theatre 1 (****)</a></cite></footer>
 
 
-      >There are clearly many technical elements needed for a show like Carrie in order to display her telekinesis and whilst I do not want to give any spoilers away Sedos interpretation of this was exceptional. It meant that Carrie’s moments where her telekinesis flared up were some of my highlights of the show. I must commend Chris Adams and Paul Brookland Williams (director and movement director) for the courage to take this route as well as Polly Hayes for her vital part in it. Other elements such as flashing lights and windows slamming shut were all well thought out and timed well to add to the suspense of the show. Once again Sedos have presented a rarely performed musical to a wider audience and judging from the sell out audiences I was not the only one excited by this. With a talented cast and a strong direction for the piece Sedos have once again presented a show that I would urge people to see….. if it wasn’t sold out already! 
+      >There are clearly many technical elements needed for a show like Carrie in order to display her telekinesis and whilst I do not want to give any spoilers away Sedos interpretation of this was exceptional. It meant that Carrie’s moments where her telekinesis flared up were some of my highlights of the show. I must commend Chris Adams and Paul Brookland Williams (director and movement director) for the courage to take this route as well as Polly Hayes for her vital part in it. Other elements such as flashing lights and windows slamming shut were all well thought out and timed well to add to the suspense of the show. Once again Sedos have presented a rarely performed musical to a wider audience and judging from the sell out audiences I was not the only one excited by this. With a talented cast and a strong direction for the piece Sedos have once again presented a show that I would urge people to see….. if it wasn’t sold out already!
 
       ><footer><cite><a target="_blank" href="https://musicaltheatremusings.co.uk/carrie">Carrie: The Musical, 2022, Musical Theatre Musings</a></cite></footer>
 

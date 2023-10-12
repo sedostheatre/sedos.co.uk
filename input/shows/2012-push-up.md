@@ -11,7 +11,7 @@ showtimes:
   - time: 2012-07-07 14:30
   - time: 2012-07-07 19:30
 showtime-summary: 3-7 JULY 2012
-venue: bridewell
+venue: Bridewell Theatre
 primary-color: "#595176"
 header-image: /assets/7493697712_a5cc311ae8_k.jpg
 flyer: /assets/pushup.jpg

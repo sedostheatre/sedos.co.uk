@@ -12,7 +12,7 @@ showtimes:
   - time: 2008-04-12 15:00
   - time: 2008-04-12 19:30
 showtime-summary: 8-12 April 008
-venue: bridewell
+venue: Bridewell Theatre
 primary-color: "#b9132a"
 header-image: /assets/5506160443_8c815d34fe_o.jpg
 flyer: /assets/4907683376_027fe266d2_o.jpg

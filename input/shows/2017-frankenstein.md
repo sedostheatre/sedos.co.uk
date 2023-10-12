@@ -12,7 +12,7 @@ showtimes:
   - time: 2017-10-21 14:30
   - time: 2017-10-21 19:30
 showtime-summary: 17-21 October 2017
-venue: bridewell
+venue: Bridewell Theatre
 primary-color: "#d41946"
 header-image: /assets/frankenstein-monster.jpg
 flyer: /assets/frankenstein-a5-flyerfront-final-1000.jpg

@@ -10,7 +10,7 @@ showtimes:
   - time: 2022-07-08 19:30
   - time: 2022-07-09 17:00
 showtime-summary: 5-9 JULY 2022
-venue: bridewell
+venue: Bridewell Theatre
 ticket-prices: From £10
 additional-ticket-info: "Gala night: Friday 8 July - tickets include a glass of fizz and programme"
 primary-color: "#f38091"
@@ -114,6 +114,6 @@ Haze, smoke, strobe lighting and loud noises may be used.
 
 
 
-This amateur production is presented by arrangement with Josef Weinberger Ltd. 
+This amateur production is presented by arrangement with Josef Weinberger Ltd.
 
 *Love! Valour! Compassion!* plays at the [Bridewell Theatre](https://sedos.co.uk/venues/bridewell) from 5-9 July 2022.

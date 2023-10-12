@@ -11,7 +11,7 @@ showtimes:
   - time: 2019-07-13 16:00
   - time: 2019-07-13 20:00
 showtime-summary: 10-13 July 2019
-venue: bridewell
+venue: Bridewell Theatre
 primary-color: "#e42780"
 header-image: /assets/soho-cinders-2.jpg
 flyer: /assets/SohoCindersFlyerFront-800.jpg

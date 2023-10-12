@@ -11,7 +11,7 @@ showtimes:
   - time: 2013-07-20 14:30
   - time: 2013-07-20 19:30
 showtime-summary: 16-20 July 2013
-venue: bridewell
+venue: Bridewell Theatre
 primary-color: "#dd7739"
 header-image: /assets/9349023341_94803c7506_b.jpg
 flyer: /assets/autobahn-poster-final-600.jpg

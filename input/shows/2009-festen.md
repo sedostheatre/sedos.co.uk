@@ -11,7 +11,7 @@ showtimes:
   - time: 2009-02-27 19:30
   - time: 2009-02-28 19:30
 showtime-summary: 24-28 February 2009
-venue: bridewell
+venue: Bridewell Theatre
 primary-color: "#81705c"
 header-image: /assets/4924197939_9cee57fd6c_o.jpg
 flyer: /assets/festenposter_360.jpg

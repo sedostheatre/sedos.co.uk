@@ -15,7 +15,7 @@ showtimes:
 showtime-summary: 26-30 OCTOBER 2021
 show-on-homepage: false
 order-on-homepage: ""
-venue: bridewell
+venue: Bridewell Theatre
 ticket-prices: From £13.50
 additional-ticket-info: "Gala night: Friday 29 October - tickets include a drink and programme"
 primary-color: "#fc8d00"

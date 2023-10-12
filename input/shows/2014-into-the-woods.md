@@ -17,7 +17,7 @@ showtimes:
   - time: 2014-04-12 14:30
   - time: 2014-04-12 19:30
 showtime-summary: 2-12 April 2014
-venue: bridewell
+venue: Bridewell Theatre
 primary-color: "#929239"
 header-image: /assets/13601504703_f940777794_c.jpg
 flyer: /assets/itw-final_flyer_front-600.png

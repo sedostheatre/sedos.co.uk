@@ -18,7 +18,7 @@ showtimes:
   - time: 2015-12-05 14:30
   - time: 2015-12-05 19:30
 showtime-summary: 25 November-5 December 2015
-venue: bridewell
+venue: Bridewell Theatre
 primary-color: "#144d5e"
 header-image: /assets/23542675956_54c287ee09_k.jpg
 flyer: /assets/manoflamancha-flyerfront-600.jpg

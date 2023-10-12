@@ -18,7 +18,7 @@ showtimes:
   - time: 2009-12-05 14:30
   - time: 2009-12-05 19:30
 showtime-summary: 25 November-5 December 2009
-venue: bridewell
+venue: Bridewell Theatre
 primary-color: "#a02823"
 header-image: /assets/4842723399_ecdeea39c1_o.jpg
 flyer: /assets/4907127265_d291bfc3e0_o.jpg

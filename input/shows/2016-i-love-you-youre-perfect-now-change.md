@@ -13,7 +13,7 @@ showtimes:
   - time: 2020-03-12 14:30
   - time: 2016-03-12 19:30
 showtime-summary: " 8-12 March 2016"
-venue: bridewell
+venue: Bridewell Theatre
 primary-color: "#ffc102"
 header-image: /assets/24985108603_5c365e5ffe_k.jpg
 flyer: /assets/i-love-you-poster-front-print-600.jpg

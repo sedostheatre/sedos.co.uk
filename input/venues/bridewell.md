@@ -6,11 +6,14 @@ metaDescription: Sedos has been the resident company at the Bridewell Theatre
   since 2012, performing most of its London season at the venue
 name: Bridewell Theatre
 key: bridewell
-address: Bridewell Theatre, Bride Lane, Off Fleet Street, London, EC4Y 8EQ
+streetAddress: 14 Bride Lane
+city: London
+postCode: EC4Y 8EQ
+country: GB
 ---
 ## The Bridewell Theatre
 
-Most of our [London musicals](https://sedos.co.uk/whats-on) and [London plays](https://sedos.co.uk/whats-on) take place at the Bridewell Theatre, where we are the resident theatre company. Our next show at the Bridewell is *[Titanic](https://www.sedos.co.uk/shows/2023-titanic)* (23 November-2 December 2023). 
+Most of our [London musicals](https://sedos.co.uk/whats-on) and [London plays](https://sedos.co.uk/whats-on) take place at the Bridewell Theatre, where we are the resident theatre company. Our next show at the Bridewell is *[Titanic](https://www.sedos.co.uk/shows/2023-titanic)* (23 November-2 December 2023).
 
 * #### [Sedos shows: what’s on at the Bridewell Theatre?](https://sedos.co.uk/whats-on)
 * #### [Buy tickets to our shows at the Bridewell Theatre](https://sedos.ticketsolve.com/shows)
@@ -65,7 +68,7 @@ Certain shows may not be able to admit latecomers at all or not until the interv
 
 **Cashless**
 
-Please note, Sedos is now a cashless operation so we will only take card payments for programmes and ticket sales on the door. The Bridewell Theatre also operates cashless, so all bar sales are made by card payments. 
+Please note, Sedos is now a cashless operation so we will only take card payments for programmes and ticket sales on the door. The Bridewell Theatre also operates cashless, so all bar sales are made by card payments.
 
 **Accessibility**
 

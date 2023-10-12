@@ -18,7 +18,7 @@ showtimes:
   - time: 2016-12-03 14:30
   - time: 2016-12-03 19:30
 showtime-summary: 23 November-3 December 2016
-venue: bridewell
+venue: Bridewell Theatre
 header-image: /assets/30866902520_d6ba9b9dcb_k.jpg
 flyer: /assets/candude-flyerfront-800-3.jpg
 box-office-open: false

@@ -291,7 +291,18 @@ collections:
       - {label: "meta description", name: metaDescription, widget: string, required: false}
       - {label: name, name: name, widget: string}
       - {label: key, name: key, widget: string}
-      - {label: address, name: address, widget: string}
+      - label: "Street Address"
+        name: streetAddress
+        widget: string
+      - label: "City"
+        name: city
+        widget: string
+      - label: "Post Code"
+        name: postCode
+        widget: string
+      - label: "Country"
+        name: country
+        widget: string
       - label: details
         name: body
         widget: markdown

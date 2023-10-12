@@ -18,7 +18,7 @@ showtimes:
   - time: 2022-12-03 14:30
   - time: 2022-12-03 19:30
 showtime-summary: 23 NOVEMBER-3 DECEMBER 2022
-venue: bridewell
+venue: Bridewell Theatre
 ticket-prices: Tickets from £10 (no booking fee)
 primary-color: "#f084a4"
 header-image: /assets/amadeus-wigs-landscape.png

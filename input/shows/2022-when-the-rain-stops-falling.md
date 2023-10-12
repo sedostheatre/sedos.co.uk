@@ -12,7 +12,7 @@ showtimes:
   - time: 2022-02-26 14:30
   - time: 2022-02-26 19:30
 showtime-summary: 22-26 FEBRUARY 2022
-venue: bridewell
+venue: Bridewell Theatre
 ticket-prices: From £10.50
 additional-ticket-info: "Gala night: Friday 25 February - tickets include a drink and programme"
 primary-color: "#735943"
@@ -101,7 +101,7 @@ sections:
       ><footer><cite><a target="_blank" href="https://www.sardinesmagazine.co.uk/review/when-the-rain-stops-falling/">When the Rain Stops Falling, 2022, Sardines (*****)</a></cite></footer>
 
 
-      >Sedos’ production does a wonderful job leading us through the puzzle, ensuring the experience treads the right line of mystery without confusion… Of particular note is the immense production value of this ‘amateur’ show. The borderless set supports well the fluidity of the piece as it drifts across time and space. The lighting is inventive and atmospheric, accenting the narrative structure with flickering lights as we cross a boundary into a different storyline and providing starry nights in the Australian outback. Music is used deftly throughout the piece, binding the different worlds with a perpetual stormy underscore and swelling cinematically at key moments. These all came together well to elevate the show into the relatively cavernous space at the Bridewell… this was a solid production of a challenging play. 
+      >Sedos’ production does a wonderful job leading us through the puzzle, ensuring the experience treads the right line of mystery without confusion… Of particular note is the immense production value of this ‘amateur’ show. The borderless set supports well the fluidity of the piece as it drifts across time and space. The lighting is inventive and atmospheric, accenting the narrative structure with flickering lights as we cross a boundary into a different storyline and providing starry nights in the Australian outback. Music is used deftly throughout the piece, binding the different worlds with a perpetual stormy underscore and swelling cinematically at key moments. These all came together well to elevate the show into the relatively cavernous space at the Bridewell… this was a solid production of a challenging play.
 
       ><footer><cite><a target="_blank" href="https://everything-theatre.co.uk/2022/02/review-when-the-rain-stops-falling-bridewell-theatre.html">When the Rain Stops Falling, 2022, Everything Theatre</a></cite></footer>
 
@@ -137,6 +137,6 @@ This award-winning play received its European premiere at the Almeida Theatre, L
 >Extraordinary... grabs you by its imagination, its heartrending originality, its tragic vision
 ><footer><cite>The Sunday Telegraph</cite></footer>
 
-*Includes strong language and sensitive subject matter, including reference to paedophilia, alcoholism, suicide, dementia and memory loss.* 
+*Includes strong language and sensitive subject matter, including reference to paedophilia, alcoholism, suicide, dementia and memory loss.*
 
 An amateur production by arrangement with Nick Hern Books

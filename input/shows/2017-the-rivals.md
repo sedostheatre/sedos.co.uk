@@ -11,7 +11,7 @@ showtimes:
   - time: 2017-09-23 14:30
   - time: 2017-09-23 19:30
 showtime-summary: 19-23 September 2017
-venue: bridewell
+venue: Bridewell Theatre
 primary-color: "#b7322b"
 header-image: /assets/therivals-header.jpg
 flyer: /assets/flyer-the-rivals-front-1000.jpg

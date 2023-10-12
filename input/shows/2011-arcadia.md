@@ -11,7 +11,7 @@ showtimes:
   - time: 2011-07-23 14:30
   - time: 2011-07-23 19:30
 showtime-summary: 19-23 July 2011
-venue: bridewell
+venue: Bridewell Theatre
 primary-color: "#286228"
 header-image: /assets/5953818337_bc7fadf34c_k.jpg
 flyer: /assets/arcadia-front_a6_final_600.jpg

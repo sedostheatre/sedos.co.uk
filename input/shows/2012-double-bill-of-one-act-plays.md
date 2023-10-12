@@ -12,7 +12,7 @@ showtimes:
   - time: 2012-07-21 14:30
   - time: 2012-07-21 19:30
 showtime-summary: 17-21 July 2012
-venue: bridewell
+venue: Bridewell Theatre
 primary-color: "#8a5e55"
 header-image: /assets/double-bill.jpg
 flyer: /assets/doublebill.jpg

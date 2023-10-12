@@ -11,7 +11,7 @@ showtimes:
   - time: 2016-06-25 14:30
   - time: 2016-06-25 19:30
 showtime-summary: 21–25 June 2016
-venue: bridewell
+venue: Bridewell Theatre
 primary-color: "#056fb6"
 header-image: /assets/whose-life-header.jpg
 flyer: /assets/whoselifeflyer_a5_front-final-final-800.jpg

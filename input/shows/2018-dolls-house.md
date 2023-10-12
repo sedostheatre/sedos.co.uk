@@ -13,7 +13,7 @@ showtimes:
   - time: 2018-01-27 14:30
   - time: 2018-01-27 19:30
 showtime-summary: 23-27 January 2018
-venue: bridewell
+venue: Bridewell Theatre
 primary-color: "#B1D1FC"
 header-image: /assets/dolls-house-header.jpg
 flyer: /assets/dolls-house-flyer-front.jpg

@@ -11,7 +11,7 @@ showtimes:
   - time: 2009-07-24 19:30
   - time: 2009-07-25 19:30
 showtime-summary: 21-25 July 2009
-venue: bridewell
+venue: Bridewell Theatre
 primary-color: "#61473a"
 header-image: /assets/5464108561_769494f2ba_o.jpg
 flyer: /assets/antigone_front_screen-1.jpg

@@ -9,7 +9,7 @@ showtimes:
   - time: 2013-10-02 19:30
   - time: 2013-10-03 19:30
 showtime-summary: 1-3 October 2013
-venue: bridewell
+venue: Bridewell Theatre
 primary-color: "#30878c"
 header-image: /assets/10144824123_ddc0ea22a7_k.jpg
 flyer: /assets/njalsposterfinal_360.jpg

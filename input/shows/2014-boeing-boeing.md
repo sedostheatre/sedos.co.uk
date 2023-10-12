@@ -12,7 +12,7 @@ showtimes:
   - time: 2014-11-01 14:30
   - time: 2014-11-01 19:30
 showtime-summary: 28 October-1 November 2014
-venue: bridewell
+venue: Bridewell Theatre
 primary-color: "#36afcc"
 header-image: /assets/boeingboeing.jpg
 flyer: /assets/bb_a5_front_3-final-600_000.jpg

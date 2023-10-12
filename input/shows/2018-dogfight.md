@@ -14,7 +14,7 @@ showtimes:
   - time: 2018-03-10 14:30
   - time: 2018-03-10 19:30
 showtime-summary: 6-10 March 2018
-venue: bridewell
+venue: Bridewell Theatre
 flyer: /assets/dogfight-a5-flyer_02-02-01-800.jpg
 sections:
   - title: CAST & CREATIVE TEAM

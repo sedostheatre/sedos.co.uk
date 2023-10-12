@@ -12,7 +12,7 @@ showtimes:
   - time: 2018-09-22 14:30
   - time: 2018-09-22 19:30
 showtime-summary: 18-22 September 2018
-venue: bridewell
+venue: Bridewell Theatre
 primary-color: "#f38825"
 header-image: /assets/lucky-stiff.jpg
 flyer: /assets/LuckyStiffFlyerFront-14June-800.jpg

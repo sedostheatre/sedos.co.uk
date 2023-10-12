@@ -17,7 +17,7 @@ showtimes:
   - time: 2018-05-19 14:30
   - time: 2018-05-19 19:30
 showtime-summary: 9-19 May 2018
-venue: bridewell
+venue: Bridewell Theatre
 ticket-prices: ""
 primary-color: "#0b0f18"
 header-image: /assets/pippin-header.jpg

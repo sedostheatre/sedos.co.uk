@@ -5,7 +5,7 @@ authors: By TERRENCE MCNALLY
 subtitle: A monumental exploration into life, love and loss at the end of the millennium
 showtimes: []
 showtime-summary: THIS SHOW HAS BEEN POSTPONED
-venue: bridewell
+venue: Bridewell Theatre
 primary-color: "#f35892"
 header-image: /assets/lovevalourcompassion-landscape.jpg
 flyer: /assets/lovevalourcompassion-portrait-2.jpg

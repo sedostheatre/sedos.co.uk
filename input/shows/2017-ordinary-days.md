@@ -11,7 +11,7 @@ showtimes:
   - time: 2017-09-30 14:30
   - time: 2017-09-30 19:30
 showtime-summary: 27-30 September 2017
-venue: bridewell
+venue: Bridewell Theatre
 primary-color: "#6b6f94"
 header-image: /assets/ordinarydaysheader.jpg
 flyer: /assets/ordinarydays-quickfront.jpg

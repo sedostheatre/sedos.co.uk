@@ -11,7 +11,7 @@ showtimes:
   - time: 2014-07-05 15:00
   - time: 2014-07-05 19:30
 showtime-summary: 1-5 July 2014
-venue: bridewell
+venue: Bridewell Theatre
 primary-color: "#003399"
 header-image: /assets/14549801685_9da1507ff2_k.jpg
 flyer: /assets/14425032409_23d8292be8_k.jpg

@@ -1,7 +1,10 @@
 ---
 name: BHG
 key: bhg
-address: 1 Brewers' Hall Garden, London, EC2V 5DX
+streetAddress: 1 Brewers' Hall Garden
+city: London
+postCode: EC2V 5DX
+country: GB
 ---
 ## 1 Brewers' Hall Garden
 

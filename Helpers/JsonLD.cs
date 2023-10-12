@@ -8,6 +8,16 @@ namespace Sedos.Helpers
 {
     public class JsonLD
     {
+        private static Organization SedosOrganization = new()
+        {
+            Name = Constants.Sedos,
+            Url = new UriBuilder(Constants.Domain)
+            {
+                Scheme = Uri.UriSchemeHttps,
+                Port = -1
+            }.Uri
+        };
+
         public static string Show(IDocument doc, IReadOnlyCollection<IDocument> venues)
         {
             DateTimeOffset? startDate = doc.Get("showtimes", Enumerable.Empty<IDocument>()).Any()
@@ -15,17 +25,24 @@ namespace Sedos.Helpers
                 : null;
 
             var location = GeneratePlace(doc.GetString("venue"), venues);
+            var flyer = GenerateImage(doc.GetString("flyer"));
 
             return new TheaterEvent()
             {
                 Name = doc.Get("title", ""),
                 StartDate = startDate,
                 Location = location,
+                Description = doc.Get("metaDescription", ""),
+                Organizer = SedosOrganization,
+                Image = flyer,
                 SubEvent = new OneOrMany<IEvent>(doc.Get("showtimes", Enumerable.Empty<IDocument>()).Select(x => x.Get<DateTimeOffset>("time")).Select(x => new TheaterEvent()
                 {
                     Name = doc.GetString("title", ""),
                     StartDate = x,
-                    Location = new Place() { Address = doc.GetString("venue", ""), Name = doc.GetString("venue", "") }
+                    Location = location,
+                    Description = doc.Get("metaDescription", ""),
+                    Organizer = SedosOrganization,
+                    Image = flyer
                 }))
             }.ToHtmlEscapedString();
         }
@@ -34,10 +51,16 @@ namespace Sedos.Helpers
         {
             if (venueName != null)
             {
-                var venue = venues.FirstOrDefault(x => x["key"].ToString().Equals(venueName));
+                var venue = venues.FirstOrDefault(x => x["name"].ToString().Equals(venueName));
                 if (venue != null)
                 {
-                    return new Place() { Address = venue.GetString("address"), Name = venue.GetString("name") };
+                    return new Place() { Address = new PostalAddress
+                    {
+                        AddressCountry = venue.GetString("country"),
+                        StreetAddress = venue.GetString("streetAddress"),
+                        AddressLocality = venue.GetString("city"),
+                        PostalCode = venue.GetString("postCode")
+                    }, Name = venue.GetString("name") };
                 }
                 else
                 {
@@ -45,6 +68,16 @@ namespace Sedos.Helpers
                 }
             }
             return null;
+        }
+
+        private static Uri GenerateImage(string flyer)
+        {
+            if (flyer == null) return null;
+            return new UriBuilder(String.Concat(Constants.Domain, flyer))
+            {
+                Scheme = Uri.UriSchemeHttps,
+                Port = -1
+            }.Uri;
         }
     }
 }

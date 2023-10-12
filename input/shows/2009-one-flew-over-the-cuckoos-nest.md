@@ -12,7 +12,7 @@ showtimes:
   - time: 2009-09-12 14:30
   - time: 2009-09-12 19:30
 showtime-summary: 8-12 September 2009
-venue: bridewell
+venue: Bridewell Theatre
 primary-color: "#f46924"
 header-image: /assets/4924203985_160d972bfc_o.jpg
 flyer: /assets/4924797772_640ed7dd9e_o.jpg

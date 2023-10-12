@@ -3,7 +3,7 @@ title: "Play in a Day: The Corsican Brothers"
 times:
   - time: 2021-07-31 19:30
 image: /assets/corsican-brothers.jpg
-venue: bridewell
+venue: Bridewell Theatre
 recurrence: Saturday 31 July
 ---
 **SATURDAY 31 JULY | Rehearsals all day; performance 7.30pm**\

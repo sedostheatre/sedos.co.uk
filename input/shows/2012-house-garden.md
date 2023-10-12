@@ -16,7 +16,7 @@ showtimes:
   - time: 2012-11-02 19:30
   - time: 2012-11-03 19:30
 showtime-summary: 24 October-3 November 2012
-venue: bridewell
+venue: Bridewell Theatre
 ticket-prices: ""
 primary-color: "#627234"
 header-image: /assets/8119000541_29a204ca5c_k.jpg
