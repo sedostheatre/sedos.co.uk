@@ -108,23 +108,31 @@ sections:
       **CREATIVE TEAM**
 
 
-      **DIRECTORS** | Rob Archibald (he/him) & Louise Roberts (she/her)\
+      **DIRECTORS** | Rob Archibald (he/him) & Louise Roberts (she/her)
 
-      **MUSICAL DIRECTOR** | Ryan Macaulay (he/him)\
+      **MUSICAL DIRECTOR** | Ryan Macaulay (he/him)
 
-      **PRODUCER** | Adam Coppard (he/him)\
+      **CHOREOGRAPHER** | Philip Michael Thomas (he/him)
 
-      **SET DESIGN** | Andrew Laidlaw (he/him)\
+      **PRODUCER** | Adam Coppard (he/him)
 
-      **COSTUME DESIGN** | Callum Anderson (he/him)\
+      **STAGE MANAGER** | Rebecca Lillie (she/her)
 
-      **PROPS** | Pippa Kyle (she/her)\
+      **SET DESIGN** | Andrew Laidlaw (he/him)
 
-      **LIGHTING DESIGN** | Olly Levett (he/him)\
+      **COSTUME DESIGN** | Callum Anderson (he/him)
 
-      **SOUND DESIGN** | Adam Coppard (he/him)\
+      **LIGHTING DESIGN** | Olly Levett (he/him)
 
-      **GRAPHIC DESIGN** | Tess Robinson (she/her)\
+      **SOUND DESIGN** | Adam Coppard (he/him)
+
+      **PROPS** | Pippa Kyle (she/her)
+
+      **MARKETING** | Tess Robinson (she/her) and Pippa Kyle (she/her)
+
+      **GRAPHIC DESIGN** | Tess Robinson (she/her)
+
+      **PHOTOGRAPHER** | Elizabeth Grace (she/her)
 
       **COMMITTEE LIAISONS** | Ruth Granton (she/her) and Jacob Hajjar (he/they)
     title: CAST & CREATIVE TEAM
