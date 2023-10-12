@@ -17,7 +17,7 @@ showtimes:
   - time: 2015-05-16 14:30
   - time: 2015-05-11 19:30
 showtime-summary: 7-16 May 2015
-venue: bridewell
+venue: Bridewell Theatre
 primary-color: "#e3078b"
 header-image: /assets/legaly-blonde-header.jpg
 flyer: /assets/legally-blonde-800.jpg

@@ -11,7 +11,7 @@ showtimes:
   - time: 2016-10-08 14:30
   - time: 2016-10-08 19:30
 showtime-summary: 4-8 October 2016
-venue: bridewell
+venue: Bridewell Theatre
 primary-color: "#070707"
 header-image: /assets/onman2.jpg
 flyer: /assets/om2g-flyerfront-600.jpg

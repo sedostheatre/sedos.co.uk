@@ -13,7 +13,7 @@ showtimes:
   - time: 2013-03-02 14:30
   - time: 2013-03-02 19:30
 showtime-summary: 26 February-2 March 2013
-venue: bridewell
+venue: Bridewell Theatre
 primary-color: "#0371b9"
 header-image: /assets/8509937079_c7827b5d6e_b.jpg
 flyer: /assets/8511067144_2d9b50898e_k.jpg

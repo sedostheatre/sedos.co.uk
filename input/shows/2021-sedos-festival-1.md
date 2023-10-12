@@ -9,10 +9,10 @@ showtimes:
   - time: 2021-09-22 19:30
   - time: 2021-09-23 19:30
   - time: 2021-09-25 19:30
-venue: bridewell
+venue: Bridewell Theatre
 additional-ticket-info: >-
   Tickets to laugh-a-long with Simprov and The Banana Hut Gang are £8 full price
-  and £6 for Sedos members and concessions. 
+  and £6 for Sedos members and concessions.
 
 
   The performance of DNA, plus the Social Event, are free to attend, but please reserve your place via our box office so we know how many people to expect.
@@ -36,16 +36,16 @@ sections:
       After keeping us entertained online over lockdown, the indefatigable Banana Hut Gang, Sedos' in-house improv team, are delighted to be back in-person with their ever changing improvised comedy play, *Choose Your Own... Improv*, guaranteed to lift your spirits!
 
 
-      What do you want to see? A marriage or a funeral? An abandoned spaceship or a creepy dungeon? A murder or a resurrection? In Choose Your Own... Improv!, you decide. Join the Banana Hut Gang as they create a brave new improvised world where you get to call the shots. 
+      What do you want to see? A marriage or a funeral? An abandoned spaceship or a creepy dungeon? A murder or a resurrection? In Choose Your Own... Improv!, you decide. Join the Banana Hut Gang as they create a brave new improvised world where you get to call the shots.
 
 
       Keep the story on track, derail it completely, or start again... the choice is yours!
 
 
-      Tickets to laugh-a-long with the Banana Hut Gang are £8 full price and £6 for Sedos members and concessions. Book via the box office. 
+      Tickets to laugh-a-long with the Banana Hut Gang are £8 full price and £6 for Sedos members and concessions. Book via the box office.
 
 
-      PLEASE NOTE: *Choose Your Own...Improv!* was originally scheduled to take place on Wednesday 22 September. 
+      PLEASE NOTE: *Choose Your Own...Improv!* was originally scheduled to take place on Wednesday 22 September.
 
 
       ^^^ ![](/assets/banana-hut-gang-improv.jpg)
@@ -60,7 +60,7 @@ sections:
       #### **Improv Double Bill: Simprov and The Banana Hut Gang Together**
 
 
-      We’ve a double bill of comedy on Wednesday 22 September as Sedos’ two improvisation groups, Simprov and The Banana Hut Gang come together for a evening of laughter and spontaneous fun. 
+      We’ve a double bill of comedy on Wednesday 22 September as Sedos’ two improvisation groups, Simprov and The Banana Hut Gang come together for a evening of laughter and spontaneous fun.
 
 
       Simprov is the Sedos group that lets members and non-members explore their impulsive side and learn about the art of improvisation. During their show they’ll be taking inspiration from the audience as well as showing some of the comic set-ups and games they play to come up with comedy gold .
@@ -72,10 +72,10 @@ sections:
       What do you want to see? A marriage or a funeral? An abandoned spaceship or a creepy dungeon? A murder or a resurrection? In Choose Your Own... Improv!, you decide. Join the Banana Hut Gang as they create a brave new improvised world where you get to call the shots. Keep the story on track, derail it completely, or start again... the choice is yours!
 
 
-      Tickets to laugh-a-long with Simprov and The Banana Hut Gang are £8 full price and £6 for Sedos members and concessions. Book via the box office. 
+      Tickets to laugh-a-long with Simprov and The Banana Hut Gang are £8 full price and £6 for Sedos members and concessions. Book via the box office.
 
 
-      PLEASE NOTE: The *Improv Double Bill* was originally scheduled to take place on Monday 20 September. 
+      PLEASE NOTE: The *Improv Double Bill* was originally scheduled to take place on Monday 20 September.
 
 
       ^^^ ![](/assets/simprov3-360.jpg)
@@ -153,7 +153,7 @@ sections:
       ^^^
     title: PLAY IN A DAY
 ---
-Sedos are proud to announce the Sedos Festival, a six day celebration of theatre with an exciting variety of events and activities for everyone to get involved with, whether as participant or audience member. 
+Sedos are proud to announce the Sedos Festival, a six day celebration of theatre with an exciting variety of events and activities for everyone to get involved with, whether as participant or audience member.
 
 You’ll find more information on the tabs above, but here’s a summary of what to expect.
 
@@ -162,7 +162,7 @@ You’ll find more information on the tabs above, but here’s a summary of what
 **THURSDAY 23 SEPTEMBER** | *Everyone Welcome Sedos Social with Open Mic,* from 7.30pm (free welcome drink!)\
 **SATURDAY 25 SEPTEMBER** | *Play in a Day: DNA,* 7.30pm
 
-Tickets to laugh-a-long with Simprov and The Banana Hut Gang are £8 full price and £6 for Sedos members and concessions. Book via the box office. 
+Tickets to laugh-a-long with Simprov and The Banana Hut Gang are £8 full price and £6 for Sedos members and concessions. Book via the box office.
 
 The *Everyone Welcome Sedos Social* and the *Play in a Day: DNA* show are both free to attend, but please reserve your place via our box office so we know how many people to expect.
 

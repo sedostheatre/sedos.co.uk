@@ -7,7 +7,7 @@ showtimes:
   - time: 2014-07-19 14:30
   - time: 2014-07-19 19:30
 showtime-summary: 19 July 2019
-venue: bridewell
+venue: Bridewell Theatre
 primary-color: "#ff6d69"
 header-image: /assets/img_0714.jpg
 flyer: /assets/showoff360-upright.jpg

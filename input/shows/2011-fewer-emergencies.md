@@ -6,7 +6,7 @@ subtitle: Weekend workshop culminating in a performance
 showtimes:
   - time: 2011-11-27 18:00
 showtime-summary: 27 November 2011
-venue: bridewell
+venue: Bridewell Theatre
 primary-color: "#cb372f"
 header-image: /assets/feweremergencies.jpg
 flyer: /assets/feweremerg.jpg

@@ -13,7 +13,7 @@ showtimes:
   - time: 2013-07-27 19:30
   - time: 2013-07-27 14:30
 showtime-summary: 23-27 July 2013
-venue: bridewell
+venue: Bridewell Theatre
 primary-color: "#456c35"
 header-image: /assets/9348959835_a9f2bcc147_k.jpg
 flyer: /assets/amoni-poster-final-600.jpg

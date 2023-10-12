@@ -17,7 +17,7 @@ showtimes:
   - time: 2018-12-01 19:30
   - time: 2018-12-01 14:30
 showtime-summary: 21 November-1 December 2018
-venue: bridewell
+venue: Bridewell Theatre
 ticket-prices: ""
 primary-color: "#e4c97a"
 header-image: /assets/urinetown-small-header-2.jpg

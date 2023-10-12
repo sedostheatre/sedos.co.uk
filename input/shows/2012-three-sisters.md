@@ -12,7 +12,7 @@ showtimes:
   - time: 2012-03-03 14:30
   - time: 2012-03-03 19:30
 showtime-summary: 28 FEBRUARY-3 MARCH 2012
-venue: bridewell
+venue: Bridewell Theatre
 primary-color: "#83161b"
 header-image: /assets/6937065947_55dde59967_k.jpg
 flyer: /assets/3sisterssedosflyerfront_600_2.jpg

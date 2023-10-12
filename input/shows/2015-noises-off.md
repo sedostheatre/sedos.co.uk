@@ -15,7 +15,7 @@ showtimes:
   - time: 2015-10-24 14:30
   - time: 2015-10-24 19:30
 showtime-summary: "15-24 October 2015 "
-venue: bridewell
+venue: Bridewell Theatre
 primary-color: "#731015"
 header-image: /assets/22370390395_c6d424dd1c_k.jpg
 flyer: /assets/sedos-noisesoff_a5_front-final-forprint-600.jpg

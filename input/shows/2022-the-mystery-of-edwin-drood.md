@@ -12,7 +12,7 @@ showtimes:
   - time: 2022-03-26 19:30
   - time: 2022-03-26 14:30
 showtime-summary: 22-26 MARCH 2022
-venue: bridewell
+venue: Bridewell Theatre
 ticket-prices: From £13.50
 primary-color: "#765991"
 header-image: /assets/droodrectangle.jpg

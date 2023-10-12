@@ -11,7 +11,7 @@ showtimes:
   - time: 2008-10-04 15:00
   - time: 2008-10-04 19:30
 showtime-summary: 30 September-4 October 2008
-venue: bridewell
+venue: Bridewell Theatre
 primary-color: "#97191d"
 header-image: /assets/steppingout2.jpg
 flyer: /assets/steppingout.jpg

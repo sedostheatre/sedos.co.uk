@@ -12,7 +12,7 @@ showtimes:
   - time: 2014-09-20 14:30
   - time: 2014-09-20 19:30
 showtime-summary: 16-20 September 2014
-venue: bridewell
+venue: Bridewell Theatre
 primary-color: "#8b8764"
 header-image: /assets/15256449315_2acb3e2106_k.jpg
 flyer: /assets/ilybflyerfront-600.jpg

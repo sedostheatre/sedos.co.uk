@@ -17,7 +17,7 @@ showtimes:
   - time: 2022-09-24 13:30
   - time: 2022-09-24 18:00
 showtime-summary: 14-24 SEPTEMBER 2022
-venue: bridewell
+venue: Bridewell Theatre
 ticket-prices: Tickets from £10
 primary-color: "#00AAFF"
 header-image: /assets/copy-of-16x9poster-clean.jpg
@@ -117,12 +117,12 @@ sections:
     title: REVIEWS
     body: >-
       >Every ingredient of the production… is of a high standard. A brave and
-      exciting show!  
+      exciting show!
 
       ><footer><cite><a target="_blank" href="https://www.sardinesmagazine.co.uk/review/a-midsummer-nights-dream-a-queer-retelling/">A Midsummer Night’s Dream, 2022, Sardines (****)</a></cite></footer>
 
 
-      >This show fits no boxes – because it doesn’t have to – and almost creates its own theatre category. The only worry I had about it was that it might push the boundaries too much and end up being almost a panto. Luckily, it stays away from that. I believe Shakespeare, who was a visionary himself, would approve of this type of variation of his drama. It’s just a wild, frivolous show! 
+      >This show fits no boxes – because it doesn’t have to – and almost creates its own theatre category. The only worry I had about it was that it might push the boundaries too much and end up being almost a panto. Luckily, it stays away from that. I believe Shakespeare, who was a visionary himself, would approve of this type of variation of his drama. It’s just a wild, frivolous show!
 
       ><footer><cite><a target="_blank" href="https://westendevenings.co.uk/2022/09/16/midsummer-nights-dream-bridewell-theatre/">A Midsummer Night’s Dream, 2022, West End Evenings (*****)</a></cite></footer>
 metaTitle: A Midsummer Night’s Dream plays at the Bridewell Theatre from 14-24
@@ -133,9 +133,9 @@ metaDescription: A Midsummer Night’s Dream, part of Sedos’ 2022 London seaso
 ---
 **A queer re-telling. Shakespeare meets gig theatre; dance, lip-sync battles, classic text, all fused into one riotous night of theatrical comedy.**
 
-In a seemingly liberal state, we are preparing for a royal wedding. The entertainment needs to be found and the Duke is keen on pomp and a party. However, homophobic parents are digging out old laws to oppress LGBTQ+ youth, which gets in the way of the fun. 
+In a seemingly liberal state, we are preparing for a royal wedding. The entertainment needs to be found and the Duke is keen on pomp and a party. However, homophobic parents are digging out old laws to oppress LGBTQ+ youth, which gets in the way of the fun.
 
-The forest is the obvious place for all to run, where an amateur theatre group prepare a performance for the wedding and young lovers are running to evade antiquated laws. The forest is full of magic and powerful beings unlike any mortal can comprehend. In the forest, the mortals uncover more about themselves than they thought they could, and some of them make asses of themselves. 
+The forest is the obvious place for all to run, where an amateur theatre group prepare a performance for the wedding and young lovers are running to evade antiquated laws. The forest is full of magic and powerful beings unlike any mortal can comprehend. In the forest, the mortals uncover more about themselves than they thought they could, and some of them make asses of themselves.
 
 As dawn breaks and everyone arrives home, change has occurred and maybe love is clearer now than ever before and the state doesn’t need to police it. But regardless, we need a good wedding and celebration for all!
 

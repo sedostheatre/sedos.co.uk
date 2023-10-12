@@ -11,7 +11,7 @@ showtimes:
   - time: 2011-03-12 14:30
   - time: 2011-03-12 19:30
 showtime-summary: 8-12 March 2011
-venue: bridewell
+venue: Bridewell Theatre
 primary-color: "#f1521a"
 header-image: /assets/5509599096_4137cc836d_b.jpg
 flyer: /assets/randj-front_600.jpg

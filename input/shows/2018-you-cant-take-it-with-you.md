@@ -11,7 +11,7 @@ showtimes:
   - time: 2018-04-14 14:30
   - time: 2018-04-14 19:30
 showtime-summary: 9-14 April 2018
-venue: bridewell
+venue: Bridewell Theatre
 ticket-prices: ""
 primary-color: "#a42c2b"
 header-image: /assets/you-can-t-take-it-with-you.jpg

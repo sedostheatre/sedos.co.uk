@@ -12,7 +12,7 @@ showtimes:
   - time: 2019-01-30 14:30
   - time: 2019-01-30 19:30
 showtime-summary: 26-30 January 2016
-venue: bridewell
+venue: Bridewell Theatre
 primary-color: "#900000"
 header-image: /assets/24267419889_2d3b9b7918_c.jpg
 flyer: /assets/simonstephens-flyerfront-600.jpg

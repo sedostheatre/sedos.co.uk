@@ -18,7 +18,7 @@ showtimes:
   - time: 2017-05-13 14:30
   - time: 2017-05-13 19:30
 showtime-summary: 27 June-1 July 2017
-venue: bridewell
+venue: Bridewell Theatre
 primary-color: "#f9c848"
 header-image: /assets/images/about/About-JoinUs.jpg
 flyer: /assets/images/flyers/2017-drowsy.jpg

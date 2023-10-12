@@ -13,7 +13,7 @@ showtimes:
   - time: 2017-07-01 14:30
   - time: 2017-07-01 19:30
 showtime-summary: 27 June-1 July 2017
-venue: bridewell
+venue: Bridewell Theatre
 primary-color: "#838860"
 header-image: /assets/little-women-header.jpg
 flyer: /assets/lw-poster-800.jpg

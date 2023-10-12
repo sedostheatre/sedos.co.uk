@@ -11,7 +11,7 @@ showtimes:
   - time: 2015-07-04 14:30
   - time: 2015-07-04 19:30
 showtime-summary: 30 June-4 July 2015
-venue: bridewell
+venue: Bridewell Theatre
 primary-color: "#7f7872"
 header-image: /assets/serial-killers.jpg
 flyer: /assets/serialflyer-front-600.jpg

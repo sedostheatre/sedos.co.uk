@@ -12,7 +12,7 @@ showtimes:
   - time: 2015-03-21 14:30
   - time: 2015-03-21 19:30
 showtime-summary: 17-21 March 2015
-venue: bridewell
+venue: Bridewell Theatre
 primary-color: "#000000"
 header-image: /assets/the-devils-header.jpg
 flyer: /assets/the-devils.jpg

@@ -12,7 +12,7 @@ showtimes:
   - time: 2019-03-09 14:30
   - time: 2019-03-09 19:30
 showtime-summary: 5-9 March 2019
-venue: bridewell
+venue: Bridewell Theatre
 ticket-prices: ""
 primary-color: "#750630"
 header-image: /assets/bar-2209813.jpg

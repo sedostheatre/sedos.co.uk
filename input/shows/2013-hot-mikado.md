@@ -19,7 +19,7 @@ showtimes:
   - time: 2013-12-07 14:30
   - time: 2013-12-07 19:30
 showtime-summary: 27 November-7 December 2013
-venue: bridewell
+venue: Bridewell Theatre
 ticket-prices: ""
 primary-color: "#bd096a"
 header-image: /assets/11086260666_d3ec8764cc_k.jpg

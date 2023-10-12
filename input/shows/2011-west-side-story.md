@@ -18,7 +18,7 @@ showtimes:
   - time: 2011-04-16 14:30
   - time: 2011-04-16 19:30
 showtime-summary: 6-16 April 2011
-venue: bridewell
+venue: Bridewell Theatre
 primary-color: "#37396a"
 header-image: /assets/5595065048_c7db39a5e9_h.jpg
 flyer: /assets/wssflyerfronta6_600.jpg

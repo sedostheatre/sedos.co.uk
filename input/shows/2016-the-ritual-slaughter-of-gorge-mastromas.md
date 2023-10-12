@@ -10,7 +10,7 @@ showtimes:
   - time: 2016-10-01 14:30
   - time: 2016-10-01 19:30
 showtime-summary: 27 September-1 October 2016
-venue: bridewell
+venue: Bridewell Theatre
 primary-color: "#5e4e4f"
 header-image: /assets/ritslaughter.jpg
 flyer: /assets/ritual-slaughter-flyerfront-600.jpg

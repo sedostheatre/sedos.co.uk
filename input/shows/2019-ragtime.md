@@ -18,7 +18,7 @@ showtimes:
   - time: 2019-11-23 14:30
   - time: 2019-11-23 19:30
 showtime-summary: 13-23 November 2019
-venue: bridewell
+venue: Bridewell Theatre
 primary-color: "#a51d31"
 header-image: /assets/ragtime-header-2.jpg
 flyer: /assets/ragtime-a5-flyer-front-800_000.jpg

@@ -11,7 +11,7 @@ showtimes:
   - time: 2010-11-20 14:30
   - time: 2010-11-20 19:30
 showtime-summary: 16-20 November 2010
-venue: bridewell
+venue: Bridewell Theatre
 primary-color: "#3c3c3c"
 header-image: /assets/5180817915_4fbabb4e2f_k.jpg
 flyer: /assets/hapgood-a5-front_final_600.jpg

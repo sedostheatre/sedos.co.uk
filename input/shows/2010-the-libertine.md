@@ -12,7 +12,7 @@ showtimes:
   - time: 2010-03-06 14:30
   - time: 2010-03-06 19:30
 showtime-summary: 2-6 March 2010
-venue: bridewell
+venue: Bridewell Theatre
 primary-color: "#9e5020"
 header-image: /assets/libertine.jpg
 flyer: /assets/4907682456_065f925eb6_o.jpg

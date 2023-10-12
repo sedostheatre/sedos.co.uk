@@ -17,7 +17,7 @@ showtimes:
   - time: 2019-05-25 14:30
   - time: 2019-05-25 19:30
 showtime-summary: 15-25 May 2019
-venue: bridewell
+venue: Bridewell Theatre
 primary-color: "#d63228"
 header-image: /assets/49846536666_43b67728d4_k.jpg
 flyer: /assets/htswrt-flyerfront.jpg

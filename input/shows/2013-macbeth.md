@@ -12,7 +12,7 @@ showtimes:
   - time: 2013-11-02 14:30
   - time: 2013-11-02 19:30
 showtime-summary: "29 October-2 November 2013 "
-venue: bridewell
+venue: Bridewell Theatre
 primary-color: "#27275d"
 header-image: /assets/10556024264_8bbe512951_c.jpg
 flyer: /assets/macbeth-flyer-finalfront_600.jpg

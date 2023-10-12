@@ -12,7 +12,7 @@ showtimes:
   - time: 2020-02-29 14:30
   - time: 2020-02-29 19:30
 showtime-summary: 25-29 February 2020
-venue: bridewell
+venue: Bridewell Theatre
 primary-color: "#ff0085"
 header-image: /assets/musicals-header.jpg
 flyer: /assets/Musicals-A5-flyer-FRONT-800.jpg

@@ -10,7 +10,7 @@ showtimes:
   - time: 2017-09-29 19:00
   - time: 2017-09-30 17:00
 showtime-summary: 26-30 September 2017
-venue: bridewell
+venue: Bridewell Theatre
 primary-color: "#079e8d"
 header-image: /assets/37303376032_2940499ece_k.jpg
 flyer: /assets/thenether-poster.jpg

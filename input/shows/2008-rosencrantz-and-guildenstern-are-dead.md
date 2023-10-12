@@ -11,7 +11,7 @@ showtimes:
   - time: 2008-07-19 15:00
   - time: 2008-07-19 19:30
 showtime-summary: 15-19 July 2008
-venue: bridewell
+venue: Bridewell Theatre
 primary-color: "#43070f"
 header-image: /assets/4875896009_05cbb51c43_o.jpg
 flyer: /assets/4875939227_fd320e465b_o.jpg

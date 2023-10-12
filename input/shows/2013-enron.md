@@ -11,7 +11,7 @@ showtimes:
   - time: 2013-07-13 19:30
   - time: 2013-07-14 14:30
 showtime-summary: 10-14 July 2013
-venue: bridewell
+venue: Bridewell Theatre
 primary-color: "#949493"
 header-image: /assets/9285015387_fff673f470_k.jpg
 flyer: /assets/9069973749_cb89e8d6f7_k.jpg

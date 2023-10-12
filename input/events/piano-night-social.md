@@ -3,7 +3,7 @@ title: Piano Night Social
 times:
   - time: 2021-07-28 19:30
 image: /assets/SedosWebsite-Banner-sechoir.jpg
-venue: bridewell
+venue: Bridewell Theatre
 ticket-prices: Free
 ---
 **WEDNESDAY 28 JULY | From 7.30pm**\

@@ -17,7 +17,7 @@ showtimes:
   - time: 2012-12-15 14:30
   - time: 2012-12-15 19:30
 showtime-summary: 5-15 DECEMBER 2012
-venue: bridewell
+venue: Bridewell Theatre
 primary-color: "#030303"
 header-image: /assets/8473637668_d61fb0ebc0_k.jpg
 flyer: /assets/gandd-flyerfront-600.jpg

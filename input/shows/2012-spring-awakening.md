@@ -17,7 +17,7 @@ showtimes:
   - time: 2012-05-19 14:30
   - time: 2012-05-19 19:30
 showtime-summary: 9-19 MAY 2012
-venue: bridewell
+venue: Bridewell Theatre
 primary-color: "#b456b6"
 header-image: /assets/7170355850_c428a447f9_k.jpg
 flyer: /assets/7983102596_0880491123_k.jpg
