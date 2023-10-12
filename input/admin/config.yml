@@ -291,7 +291,6 @@ collections:
       - {label: "meta description", name: metaDescription, widget: string, required: false}
       - {label: name, name: name, widget: string}
       - {label: key, name: key, widget: string}
-      - {label: address, name: address, widget: string}
       - label: "Street Address"
         name: streetAddress
         widget: string

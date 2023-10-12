@@ -10,7 +10,6 @@ streetAddress: 14 Bride Lane
 city: London
 postCode: EC4Y 8EQ
 country: GB
-address: Bridewell Theatre, Bride Lane, Off Fleet Street, London, EC4Y 8EQ
 ---
 ## The Bridewell Theatre
 

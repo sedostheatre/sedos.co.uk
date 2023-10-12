@@ -8,10 +8,14 @@ namespace Sedos.Helpers
 {
     public class JsonLD
     {
-        private static Organization _sedosOrganization = new()
+        private static Organization SedosOrganization = new()
         {
-            Name = "Sedos",
-            Url = new Uri("https://www.sedos.co.uk")
+            Name = Constants.Sedos,
+            Url = new UriBuilder(Constants.Domain)
+            {
+                Scheme = Uri.UriSchemeHttps,
+                Port = -1
+            }.Uri
         };
 
         public static string Show(IDocument doc, IReadOnlyCollection<IDocument> venues)
@@ -29,7 +33,7 @@ namespace Sedos.Helpers
                 StartDate = startDate,
                 Location = location,
                 Description = doc.Get("metaDescription", ""),
-                Organizer = _sedosOrganization,
+                Organizer = SedosOrganization,
                 Image = flyer,
                 SubEvent = new OneOrMany<IEvent>(doc.Get("showtimes", Enumerable.Empty<IDocument>()).Select(x => x.Get<DateTimeOffset>("time")).Select(x => new TheaterEvent()
                 {
@@ -37,7 +41,7 @@ namespace Sedos.Helpers
                     StartDate = x,
                     Location = location,
                     Description = doc.Get("metaDescription", ""),
-                    Organizer = _sedosOrganization,
+                    Organizer = SedosOrganization,
                     Image = flyer
                 }))
             }.ToHtmlEscapedString();
