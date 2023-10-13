@@ -4,6 +4,7 @@ float-nav: true
 metaDescription: Sedos | London amateur theatre company
 RedirectFrom:
   - index.htm
+supportUsButton: Support Sedos
 carouselFooter: >-
   Sedos is an ambitious, vibrant and inclusive London theatre society, striving
   for excellence and creativity in our productions for over 100 years. As a busy

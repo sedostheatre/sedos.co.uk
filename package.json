@@ -20,12 +20,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/olevett/sedos.co.uk.git"
+    "url": "git+https://github.com/sedostheatre/sedos.co.uk.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/olevett/sedos.co.uk/issues"
+    "url": "https://github.com/sedostheatre/sedos.co.uk/issues"
   },
-  "homepage": "https://github.com/olevett/sedos.co.uk#readme"
+  "homepage": "https://github.com/sedostheatre/sedos.co.uk#readme"
 }
