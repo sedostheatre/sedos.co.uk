@@ -50,38 +50,6 @@ Changes will be rebuilt and the page should update in sync.
 - [Netlify](https://www.netlify.com/) for hosting
 - [DecapCMS](https://decapcms.org/) for content management (formerly known as NetlifyCMS)
 
-### Sub-pages architecture
-Basic process: cs file pipelines process md files.
-Metadata in md files is used as variables in text, headers, navigation, etc.
-Variables include things like title, times, venue.
-
-#### Events
-- md files from input/events/*.md processed by Pipelines/Events.cs
-- maps to [schema.org PlayAction](https://schema.org/PlayAction)
-- Metadata key, description : ordinality --> schema.org value
-  - title, PlayAction/Name : 1  -->  PlayAction/Name
-  - times : 1
-    - time, the individual start times : 1..n --> for schema.org, see below
-        - first time is PlayAction/startTime
-        - all times are in PlayAction/event/eventSchedule (https://schema.org/eventSchedule)
-  - image, the image in the page : 1
-  - header-image, the image for the header, if different than the main image : 0..1
-  - recurrence, when the event regularly recurs : 1
-  - venue : 0..1
-  - ticket-prices: 0..1
-
-#### Show
-TO DO - AllShows
-
-#### News
-TO DO
-
-#### Venues
-TO DO
-
-#### RegularEvents
-TO DO
-
 ## Local Netlify Dev
 
 - run `npx decap-server`
