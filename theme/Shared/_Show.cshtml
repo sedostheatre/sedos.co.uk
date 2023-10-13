@@ -50,7 +50,7 @@
                 @{
                     if (Model.ContainsKey("venue"))
                     {
-                        var venue = Outputs.FromPipeline("Venues").FirstOrDefault(x => x["key"].ToString().Equals(Model["venue"].ToString()));
+                        var venue = Outputs.FromPipeline("Venues").FirstOrDefault(x => x["name"].ToString().Equals(Model["venue"].ToString()));
                         if (venue != null)
                         {
                             <h4><a href="@Context.GetLink(venue)">@venue["name"]</a></h4>
