@@ -83,13 +83,16 @@ TO DO
 TO DO
 
 ## Local Netlify Dev
-- run `npx netlify-cms-proxy-server`
+
+- run `npx decap-server`
 - add `local_backend: true` to `config.yml`
+- run the development server `dotnet run preview`
 - visit [](http://localhost:5080/admin/#/)
 
 ## Linting
 
 ### SCSS
+
 `stylelint` is used to lint the `**/*.scss` files on build.
 
 This can be run locally (and automatically fix errors) with `npx stylelint --fix **/*.scss`
