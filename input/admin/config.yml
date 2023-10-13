@@ -73,7 +73,11 @@ collections:
         required: false
       - label: Venue
         name: venue
-        widget: string
+        widget: relation
+        collection: venues
+        search_fields: ["name", "key"]
+        value_field: "name"
+        display_fields: ["name"]
         required: false
       - label: Ticket Prices
         name: ticket-prices
@@ -208,9 +212,13 @@ collections:
         label: Image alt text
         widget: string
         required: false
-      - name: venue
-        label: Venue
-        widget: string
+      - label: Venue
+        name: venue
+        widget: relation
+        collection: venues
+        search_fields: ["name", "key"]
+        value_field: "name"
+        display_fields: ["name"]
         required: false
       - name: recurrence
         label: Event recurrence (e.g. every Tuesday) shown on the event sidebar, also shown on the home page/upcoming events cards
@@ -255,9 +263,13 @@ collections:
         label: Header Image
         widget: image
         required: false
-      - name: venue
-        label: Venue
-        widget: string
+      - label: Venue
+        name: venue
+        widget: relation
+        collection: venues
+        search_fields: ["name", "key"]
+        value_field: "name"
+        display_fields: ["name"]
         required: false
       - name: recurrence
         label: Event recurrence (e.g. every Tuesday) shown on the event sidebar, also shown on the home page/upcoming events cards
