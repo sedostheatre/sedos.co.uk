@@ -29,6 +29,7 @@ namespace Sedos.Pipelines
                 MarkdownExtensions.MarkdownRenderer("eventsText"),
                 MarkdownExtensions.MarkdownRenderer("newsText"),
                 MarkdownExtensions.MarkdownRenderer("carouselFooter"),
+                MarkdownExtensions.MarkdownRenderer("supportUsMessage"),
                 MarkdownExtensions.MarkdownRenderer("pageFooter"),
                 new RenderRazor()
                     .WithViewStart("Layout/_IndexViewStart.cshtml"),
