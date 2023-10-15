@@ -151,6 +151,9 @@ sections:
       width="640" height="480" alt="Titanic The Musical - 2023"/></a><script
       async src="//embedr.flickr.com/assets/client-code.js"
       charset="utf-8"></script>
+  - order: 4
+    title: VIDEO
+    body: <div class="video-responsive"><?# YouTube NkBXqJTXkM0 /?></div>
 metaTitle: Titanic plays at the Bridewell Theatre from 23 November-2 December 2023
 metaDescription: Titanic is part of Sedos’ 2023 London season and plays at the
   Bridewell Theatre from 23 November-2 December 2023. Epic and majestic, with
