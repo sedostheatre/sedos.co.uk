@@ -35,6 +35,7 @@ namespace Sedos.Helpers
                 Description = doc.Get("metaDescription", ""),
                 Organizer = SedosOrganization,
                 Image = flyer,
+                Offers = GenerateOffer(doc),
                 SubEvent = new OneOrMany<IEvent>(doc.Get("showtimes", Enumerable.Empty<IDocument>()).Select(x => x.Get<DateTimeOffset>("time")).Select(x => new TheaterEvent()
                 {
                     Name = doc.GetString("title", ""),
@@ -78,6 +79,25 @@ namespace Sedos.Helpers
                 Scheme = Uri.UriSchemeHttps,
                 Port = -1
             }.Uri;
+        }
+
+        private static Offer GenerateOffer(IDocument show)
+        {
+            DateTimeOffset? endDate = show.Get("showtimes", Enumerable.Empty<IDocument>()).Any()
+                ? show.Get("showtimes", Enumerable.Empty<IDocument>()).Select(x => x.Get<DateTimeOffset>("time")).OrderBy(x => x).Reverse().FirstOrDefault()
+                : null;
+
+            if (endDate >= DateTime.Today && show.GetBool("box-office-open", false))
+            {
+                var bookingLink = BoxOfficeUri.FromBoxOfficeLink(show.GetString("box-office-link"));
+                return new Offer
+                {
+                    Url = bookingLink,
+                    PriceCurrency = "GBP"
+                };
+            }
+
+            return null;
         }
     }
 }
