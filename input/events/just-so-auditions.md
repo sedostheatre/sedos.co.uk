@@ -14,7 +14,7 @@ Registration is now open for *Just So* auditions. *Just So* is the first product
 
 **KEY INFO**
 
-**Auditions:** Thursday 9 November (evening), Friday 10 November (evening), Sunday 12 November
+**Auditions:** Thursday 9 November (evening), Friday 10 November (evening), Sunday 12 November\
 **Recalls:** Friday 17 November (evening)
 
 **ABOUT THE SHOW**
