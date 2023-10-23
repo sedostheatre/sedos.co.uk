@@ -41,6 +41,7 @@ namespace Sedos.Pipelines
                 { "donate/programme", "https://www.sedos.co.uk/donate?utm_source=programme&utm_medium=qrcode&utm_campaign=supportus" },
                 { "production/community", "https://chat.whatsapp.com/J3QApbmJlMZ9oYrlVGGkGU" },
                 { "justso/material", "https://drive.google.com/drive/folders/12jf3KdeXp0iSfh9rsE5Nd2Lo62lzzCNX" },
+                { "justso/form", "https://docs.google.com/forms/d/e/1FAIpQLSdAtaSZ4AoiN_x_ilttVSq-wJthyeCCHxBaS9IxrpFm9GGhZQ/viewform" },
             };
 
             ProcessModules = new ModuleList
