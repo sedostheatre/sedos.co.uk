@@ -19,6 +19,6 @@ jobs:
         if: steps.calibre.outputs.markdown != ''
         uses: peter-evans/create-pull-request@v5
         with:
-          title: 'chore: Aautomatically optimise images'
-          commit-message: 'chore: Aautomatically optimise images'
+          title: 'chore: Automatically optimise images'
+          commit-message: 'chore: Automatically optimise images'
           body: ${{ steps.calibre.outputs.markdown }}
