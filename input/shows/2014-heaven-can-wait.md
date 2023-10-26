@@ -36,7 +36,7 @@ sections:
       **CREATIVE TEAM**
 
       **DIRECTOR** | Peter Bryans\
-      **ASSISTANT DIRECTOR** | James Franey\
+      **ASSISTANT DIRECTOR** | James Franey\t
       **PRODUCER** | Phillip Deppeller
   - order: 2
     title: GALLERY
@@ -64,6 +64,7 @@ sections:
       ><footer><cite>Heaven Can Wait, 2014, InfoBarrel</cite></footer>
 RedirectFrom:
   - 2014/heavencanwait.htm
+venue: Bridewell Theatre
 ---
 **Heaven can wait, but can Joe Pendleton?**
 
