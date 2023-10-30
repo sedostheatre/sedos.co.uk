@@ -29,4 +29,4 @@ In the past we have staged shows at the Edinburgh Fringe, including a sell-out r
 
 In 2019 Sedos staged [its first show at Cornwall's beautiful outdoor theatre, the Minack,](https://sedos.co.uk/shows/2019-a-swell-party) and we hope very much to return there in the future.
 
-Sedos holds free, open auditions for all its shows – find out about our [London auditions](https://sedos.co.uk/get-involved).
+Sedos holds free, open auditions for all its shows (£10 reservation fee for non-members, refunded if you attend the audition or give 72 hours notice of cancellation) – find out about our [London auditions](https://sedos.co.uk/get-involved).
