@@ -13,7 +13,7 @@ RedirectFrom:
 
 Sedos is a [London amateur theatre](https://sedos.co.uk) company, bringing together people with a passion for the theatre. Spanning a range of ages, backgrounds, professions and personalities, our members enjoy a vibrant and varied Sedos life both on and off stage.
 
-Membership fees are £30 a year if paid by direct debit, £35 otherwise. We would always be open to a discussion with anyone who found our membership fee a barrier to participation.
+Membership fees are £30 a year if paid by direct debit, £40 otherwise. We would always be open to a discussion with anyone who found our membership fee a barrier to participation.
 
 If you’d like to find out more about joining Sedos please email [membership@sedos.co.uk](mailto:membership@sedos.co.uk) for more details, and our membership secretary will be happy to get back to you or visit [membership.sedos.co.uk](https://membership.sedos.co.uk) to join.
 
@@ -21,13 +21,13 @@ If you’d like to find out more about joining Sedos please email [membership@se
 
 Whether you’re a singer, a dancer, an actor or all three, there are plentiful opportunities to tread the boards at several of London’s best fringe venues. We present a varied season every year, with large-scale musicals, cabarets, modern and classical dramas and new writing.
 
-Our [London auditions](https://sedos.co.uk/get-involved) are free for members and non-members. We are committed to casting the best person for the role regardless of membership status. 
+Our [London auditions](https://sedos.co.uk/get-involved) are free for members and non-members (£10 reservation fee for non-members, refunded if you attend the audition or give 72 hours notice of cancellation). We are committed to casting the best person for the role regardless of membership status. 
 
 Sedos seeks to build and sustain a membership that is reflective of the diverse communities within our city and we love to see a diverse range of auditionees at our London auditions. We actively encourage performers to audition for the roles which they feel best suit their skills. Any specific requirements will be detailed in the casting breakdown on individual shows’ auditions notices. 
 
 **Show costs**
 
-All performers and core production team members (directors, musical directors, choreographers and producers) must be members of Sedos. All cast members also pay a participation fee of £30 for a play or £40 for a musical.
+All performers and core production team members (directors, musical directors, choreographers and producers) must be members of Sedos. All cast members also pay a participation fee of £50-80, depending on whether the show is a play or musical and whether there are one or two weeks of performances.
 
 We would always be open to a discussion with anyone who found our membership or participation fees a barrier to taking part.
 
