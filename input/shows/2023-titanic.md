@@ -108,7 +108,7 @@ sections:
       **CREATIVE TEAM**
 
 
-      **DIRECTORS** | Rob Archibald (he/him) & Louise Roberts (she/her)\
+      **DIRECTORS** | Rob Archibald (he/him) and Louise Roberts (she/her)\
 
       **MUSICAL DIRECTOR** | Ryan Macaulay (he/him)\
 
