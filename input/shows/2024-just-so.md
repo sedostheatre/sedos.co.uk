@@ -43,9 +43,9 @@ Let the Eldest Magician take you on this wondrous tale through lush jungles, dus
 
 Music by George Stiles\
 Lyrics by Anthony Drewe\
-Inspired by the Stories of Rudyard Kipling\
+Inspired by the stories of Rudyard Kipling\
 Orchestrations by Christopher Jahnke\
-Associate Orchestrator John Clancy\
+Associate orchestrator John Clancy\
 Originally produced by Cameron Mackintosh
 
 This amateur production is presented by arrangement with Music Theatre International. All authorised performance materials are also supplied by MTI.
