@@ -6,7 +6,16 @@ authors2: Lyrics by ANTHONY DREWE
 authors3: "Inspired by the stories of RUDYARD KIPLING "
 subtitle: Set to an eclectic, upbeat score, Kipling’s famous tales are woven
   with wit and imagination into a song-filled journey through the jungle
+showtimes:
+  - time: 2024-03-05 19:30
+  - time: 2024-03-06 19:30
+  - time: 2024-03-07 19:30
+  - time: 2024-03-08 19:30
+  - time: 2024-03-09 14:30
+  - time: 2024-03-09 19:30
+showtime-summary: 5-9 MARCH 2024
 venue: Bridewell Theatre
+primary-color: "#fd2efe"
 header-image: /assets/just-so-web-header.png
 header-image-contain: false
 box-office-open: false
@@ -17,6 +26,10 @@ sections:
       **CHOREOGRAPHER** | Sam Ferguson\
       **MUSICAL DIRECTOR** | Adrian Hau
     title: CREATIVE TEAM
+metaTitle: Just So plays at the Bridewell Theatre from 5-9 March 2024
+metaDescription: Just So, an upbeat musical based on Rudyard Kipling’s stories
+  of the same name, is part of Sedos’ 2024 season and plays at the Bridewell
+  Theatre from 5-9 March 2024
 ---
 **Five of Rudyard Kipling’s Just So Stories come together into a wondrous tale of personal courage, individuality and friendship. Set to an eclectic, upbeat score, Kipling’s famous tales are woven with wit and imagination into a song-filled journey through the jungle.**\
 \
