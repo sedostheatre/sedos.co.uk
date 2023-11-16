@@ -37,9 +37,9 @@ Join us on this journey with the young, effervescent and inquisitive Elephant’
 
 On our journey through this magical tale, we’ll meet a wide array of fun loving characters, from a Kangaroo who is shocked to see the rate at which his legs have grown, to a Parsee Man who lives seemingly alone with his seemingly inanimate stove…
 
-Let the Eldest Magician take you on this wondrous tale through lush jungles, dusty savannahs and the ever looming great, grey and greasy Limpopo River in “Just So” this March. 
+Let the Eldest Magician take you on this wondrous tale through lush jungles, dusty savannahs and the ever looming great, grey and greasy Limpopo River in *Just So* this March. 
 
-Just So plays at the [Bridewell Theatre](https://www.sedos.co.uk/venues/bridewell) from 5-9 March 2024. 
+*Just So* plays at the [Bridewell Theatre](https://www.sedos.co.uk/venues/bridewell) from 5-9 March 2024. 
 
 Music by George Stiles\
 Lyrics by Anthony Drewe\
