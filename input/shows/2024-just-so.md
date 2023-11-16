@@ -18,6 +18,7 @@ venue: Bridewell Theatre
 primary-color: "#fd2efe"
 header-image: /assets/just-so-web-header.png
 header-image-contain: false
+flyer: /assets/just-so-web-header-hq.jpg
 box-office-open: false
 sections:
   - order: 1
