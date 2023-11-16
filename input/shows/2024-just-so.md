@@ -7,6 +7,7 @@ authors3: "Inspired by the stories of RUDYARD KIPLING "
 subtitle: Set to an eclectic, upbeat score, Kipling’s famous tales are woven
   with wit and imagination into a song-filled journey through the jungle
 venue: Bridewell Theatre
+header-image: /assets/just-so-web-header.png
 header-image-contain: false
 box-office-open: false
 sections:
