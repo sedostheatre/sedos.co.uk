@@ -6,6 +6,14 @@ authors2: Lyrics by ANTHONY DREWE
 authors3: "Inspired by the stories of RUDYARD KIPLING "
 subtitle: Set to an eclectic, upbeat score, Kipling’s famous tales are woven
   with wit and imagination into a song-filled journey through the jungle
+showtimes:
+  - time: 2024-03-05 19:30
+  - time: 2024-03-06 19:30
+  - time: 2024-03-07 19:30
+  - time: 2024-03-08 19:30
+  - time: 2024-03-09 14:30
+  - time: 2024-03-09 19:30
+showtime-summary: 5-9 MARCH 2024
 venue: Bridewell Theatre
 primary-color: "#fd2efe"
 header-image: /assets/just-so-web-header.png
