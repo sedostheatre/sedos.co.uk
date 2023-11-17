@@ -13,7 +13,7 @@ country: GB
 ---
 ## The Bridewell Theatre
 
-Most of our [London musicals](https://sedos.co.uk/whats-on) and [London plays](https://sedos.co.uk/whats-on) take place at the Bridewell Theatre, where we are the resident theatre company. Our next show at the Bridewell is *[Titanic](https://www.sedos.co.uk/shows/2023-titanic)* (23 November-2 December 2023).
+Most of our [London musicals](https://sedos.co.uk/whats-on) and [London plays](https://sedos.co.uk/whats-on) take place at the Bridewell Theatre, where we are the resident theatre company. Our next shows at the Bridewell are *[Titanic](https://www.sedos.co.uk/shows/2023-titanic)* (23 November-2 December 2023) and* [Just So](https://www.sedos.co.uk/shows/2024-just-so)* (5-9 March 2024).
 
 * #### [Sedos shows: what’s on at the Bridewell Theatre?](https://sedos.co.uk/whats-on)
 * #### [Buy tickets to our shows at the Bridewell Theatre](https://sedos.ticketsolve.com/shows)
