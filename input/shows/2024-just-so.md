@@ -63,7 +63,9 @@ sections:
 
       **CHOREOGRAPHER** | Sam Ferguson\
 
-      **MUSICAL DIRECTOR** | Adrian Hau
+      **MUSICAL DIRECTOR** | Adrian Hau\
+
+      **PRODUCER** | Jon Haines
     title: CAST AND CREATIVE TEAM
 metaTitle: Just So plays at the Bridewell Theatre from 5-9 March 2024
 metaDescription: Just So, an upbeat musical based on Rudyard Kipling’s stories
