@@ -192,6 +192,16 @@ sections:
       >Sedos have succeeded in taking the epic piece of history and transforming it into a moving and often personal piece of theatre whilst maintaining the impressive ensemble sound and feel to the show.
 
       ><footer><cite><a target="_blank" href="https://musicaltheatremusings.co.uk/titanic-sedos">Titanic, 2023, Musical Theatre Musings</a></cite></footer>
+
+
+      >This is a superbly accomplished production, proving what satisfying results am-dram can achieve with this level of talent and commitment. 
+
+      ><footer><cite><a target="_blank" href="https://everything-theatre.co.uk/2023/11/review-titanic-bridewell-theatre/">Titanic, 2023, Everything Theatre</a></cite></footer>
+
+
+      >Having seen Titanic The Musical several times before, I was keen to see how Sedos’ would create this production on a small stage and with a more modest budget than the current tour. But create and deliver they did. Congratulations to the entire company on an excellent production, both onstage and backstage, on producing a moving, stunning show of a legend. 
+
+      ><footer><cite><a target="_blank" href="https://www.beyondthecurtain.co.uk/2023/11/titanic-musical-sedos-review.html?m=1">Titanic, 2023, Beyond The Curtain (****)</a></cite></footer>
 metaTitle: Titanic plays at the Bridewell Theatre from 23 November-2 December 2023
 metaDescription: Titanic is part of Sedos’ 2023 London season and plays at the
   Bridewell Theatre from 23 November-2 December 2023. Epic and majestic, with
