@@ -56,9 +56,7 @@ sections:
       **ENSEMBLE** 
 
 
-      François Vanhoutte, Natasha Jeffrey, Emma Miller, Isabella Farrell, Lissy Foyle, Connie McFarlane, Eilish Mulvihill, Sophie Wheale, Katy Robinson and Ella Josey
-
-
+      Isabella Farrell, Lissy Foyle, Natasha Jeffrey, Ella Josey, Connie McFarlane, Emma Miller, Eilish Mulvihill, Katy Robinson, François Vanhoutte and Sophie Wheale
 
 
       **DIRECTOR** | Glen Jordan\
@@ -66,7 +64,7 @@ sections:
       **CHOREOGRAPHER** | Sam Ferguson\
 
       **MUSICAL DIRECTOR** | Adrian Hau
-    title: CREATIVE TEAM
+    title: CAST AND CREATIVE TEAM
 metaTitle: Just So plays at the Bridewell Theatre from 5-9 March 2024
 metaDescription: Just So, an upbeat musical based on Rudyard Kipling’s stories
   of the same name, is part of Sedos’ 2024 season and plays at the Bridewell
