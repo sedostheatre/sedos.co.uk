@@ -22,9 +22,49 @@ flyer: /assets/just-so-l-poster-final-sedos-800.jpg
 box-office-open: false
 sections:
   - order: 1
-    body: |-
+    body: >-
+      **CAST LIST**
+
+
+      **ELDEST MAGICIAN** | Joe McWilliam\
+
+      **ELEPHANT'S CHILD** | Dylan Evans\
+
+      **KOLOKOLO BIRD** | Kate Gledhill\
+
+      **PARSEE MAN** | Freddie Tibbs\
+
+      **COOKING STOVE** | Thomas Outhwaite\
+
+      **RHINO** | Will Hunkin\
+
+      **ZEBRA** | Eleanor Leaper\
+
+      **GIRAFFE** | Ellie McWilliam\
+
+      **JAGUAR** | Thomas Riggs\
+
+      **LEOPARD** | James Davies\
+
+      **KANGAROO** | Jac Norris\
+
+      **DINGO DOG** | Heather Daniel\
+
+      **CROCODILE** | Will Hunkin
+
+
+      **ENSEMBLE** 
+
+
+      François Vanhoutte, Natasha Jeffrey, Emma Miller, Isabella Farrell, Lissy Foyle, Connie McFarlane, Eilish Mulvihill, Sophie Wheale, Katy Robinson and Ella Josey
+
+
+
+
       **DIRECTOR** | Glen Jordan\
+
       **CHOREOGRAPHER** | Sam Ferguson\
+
       **MUSICAL DIRECTOR** | Adrian Hau
     title: CREATIVE TEAM
 metaTitle: Just So plays at the Bridewell Theatre from 5-9 March 2024
