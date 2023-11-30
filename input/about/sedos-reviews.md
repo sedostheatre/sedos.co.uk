@@ -20,8 +20,8 @@ RedirectFrom:
 >A triumph. Somehow, Directors Louise Roberts and Rob Archibald have managed to move their 33 strong cast around this small space with great stagecraft and not a little ingenuity, making good use of an entrance created from an opening in the seating block… There are no weak performances here… It is a privilege to hear this score sung and played so well, and to see the piece produced so impressively in a small space. Highly recommended.
 ><footer><cite><a target="_blank" href="https://www.sardinesmagazine.co.uk/review/titanic-the-musical-3/">Titanic, 2023, Sardines (*****)</a></cite></footer>
 
->undefined
-><footer><cite></cite></footer>
+>With a sprawling cast of over 30, crafting individual characters that strongly resonate is no easy feat. Yet, the talented ensemble manages the extraordinary, making you care deeply about characters, regardless of their social class and time spent on stage. The cast’s singing skills are absolutely astounding, mastering intricate harmonies and lightning-fast lyrics that elevate the musical score to remarkable heights… The talent on display is nothing short of insane… “Titanic: The Musical” is well-deservedly almost sold out for this run, but if you manage to book one of the tickets still left, there’s a possibility this may just become your new favourite musical. Don’t tell me I didn’t warn you!
+><footer><cite><a target="_blank" href="https://westendevenings.co.uk/2023/11/26/titanic-the-musical-bridewell-theatre-review/">Titanic, 2023, West End Evenings (*****)</a></cite></footer>
 
 ## *Sondheim on Sondheim*
 
