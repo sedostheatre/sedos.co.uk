@@ -181,6 +181,12 @@ sections:
       >So rarely seen in amateur productions, every member of this company is a skilled vocalist, with some performances that would not be out of place on a professional West End stage (and no, I do not say that lightly). What is most impressive is the rousing ensemble numbers – never missing a harmony, Ryan Macaulay’s musical direction brings out the very best in this talented troupe, actors and band alike.  
 
       ><footer><cite><a target="_blank" href="https://www.londontheatrereviews.co.uk/post.cfm?p=18195">Titanic, 2023, London Theatre Reviews</a></cite></footer>
+
+
+      >It was a pleasure to revisit this exquisite piece of theatre, reimagined for a smaller space. It’s a familiar musical (at least to me) of a familiar story, but its emotional impact remains undimmed.
+
+
+      ><footer><cite><a target="_blank" href="https://www.londontheatre1.com/reviews/titanic-the-musical-at-the-bridewell-theatre-review/">Titanic, 2023, London Theatre 1 (****)</a></cite></footer>
 metaTitle: Titanic plays at the Bridewell Theatre from 23 November-2 December 2023
 metaDescription: Titanic is part of Sedos’ 2023 London season and plays at the
   Bridewell Theatre from 23 November-2 December 2023. Epic and majestic, with
