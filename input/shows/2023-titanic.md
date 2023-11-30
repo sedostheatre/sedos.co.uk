@@ -159,6 +159,18 @@ sections:
       <div class="video-responsive"><?# YouTube 8ErF0q2cc9I /?></div>
 
       <div class="video-responsive"><?# YouTube vApAK6Iz7iw /?></div>
+  - order: 5
+    title: REVIEWS
+    body: >-
+      >A triumph. Somehow, Directors Louise Roberts and Rob Archibald have
+      managed to move their 33 strong cast around this small space with great
+      stagecraft and not a little ingenuity, making good use of an entrance
+      created from an opening in the seating block… There are no weak
+      performances here… It is a privilege to hear this score sung and played so
+      well, and to see the piece produced so impressively in a small space.
+      Highly recommended.
+
+      ><footer><cite><a target="_blank" href="https://www.sardinesmagazine.co.uk/review/titanic-the-musical-3/">Titanic, 2023, Sardines (*****)</a></cite></footer>
 metaTitle: Titanic plays at the Bridewell Theatre from 23 November-2 December 2023
 metaDescription: Titanic is part of Sedos’ 2023 London season and plays at the
   Bridewell Theatre from 23 November-2 December 2023. Epic and majestic, with
