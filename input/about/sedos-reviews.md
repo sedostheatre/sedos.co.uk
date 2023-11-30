@@ -23,6 +23,9 @@ RedirectFrom:
 >With a sprawling cast of over 30, crafting individual characters that strongly resonate is no easy feat. Yet, the talented ensemble manages the extraordinary, making you care deeply about characters, regardless of their social class and time spent on stage. The cast’s singing skills are absolutely astounding, mastering intricate harmonies and lightning-fast lyrics that elevate the musical score to remarkable heights… The talent on display is nothing short of insane… “Titanic: The Musical” is well-deservedly almost sold out for this run, but if you manage to book one of the tickets still left, there’s a possibility this may just become your new favourite musical. Don’t tell me I didn’t warn you!
 ><footer><cite><a target="_blank" href="https://westendevenings.co.uk/2023/11/26/titanic-the-musical-bridewell-theatre-review/">Titanic, 2023, West End Evenings (*****)</a></cite></footer>
 
+>So rarely seen in amateur productions, every member of this company is a skilled vocalist, with some performances that would not be out of place on a professional West End stage (and no, I do not say that lightly). What is most impressive is the rousing ensemble numbers – never missing a harmony, Ryan Macaulay’s musical direction brings out the very best in this talented troupe, actors and band alike.  
+><footer><cite><a target="_blank" href="https://www.londontheatrereviews.co.uk/post.cfm?p=18195">Titanic, 2023, London Theatre Reviews</a></cite></footer>
+
 ## *Sondheim on Sondheim*
 
 ^^^
