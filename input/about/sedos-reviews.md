@@ -11,6 +11,18 @@ RedirectFrom:
 
 # 2023
 
+## *Titanic*
+
+^^^
+![Dress rehearsal image from Sedos’ production of Titanic The Musical](/assets/53362470435_08b0191594_k.jpg)
+^^^ Titanic
+
+>A triumph. Somehow, Directors Louise Roberts and Rob Archibald have managed to move their 33 strong cast around this small space with great stagecraft and not a little ingenuity, making good use of an entrance created from an opening in the seating block… There are no weak performances here… It is a privilege to hear this score sung and played so well, and to see the piece produced so impressively in a small space. Highly recommended.
+><footer><cite><a target="_blank" href="https://www.sardinesmagazine.co.uk/review/titanic-the-musical-3/">Titanic, 2023, Sardines (*****)</a></cite></footer>
+
+>undefined
+><footer><cite></cite></footer>
+
 ## *Sondheim on Sondheim*
 
 ^^^
