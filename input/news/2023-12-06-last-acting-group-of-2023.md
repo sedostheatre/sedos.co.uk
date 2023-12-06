@@ -9,7 +9,7 @@ extract: We'd like to extend a huge thank you to both Helena and Lloyd for all
 
 *6 December 2023*
 
-**As the year draws to a close, we had our final acting group of 2023 meet last Wednesday. The Acting Group has become a regularly attended, welcoming space for actors to hone their craft and to work on scripts in a safe environment.**
+**As the year draws to a close, we had our final Acting Group of 2023 meet last Wednesday. The Acting Group has become a regularly attended, welcoming space for actors to hone their craft and to work on scripts in a safe environment.**
 
 The Acting Group has been run for the last few years by long-standing Sedos members Helena Bumpus and Lloyd Smith but they've unfortunately decided to step down at the end of this year. On behalf of all at Sedos we'd like to extend a huge thank you to both Helena and Lloyd for all their hard work.
 
