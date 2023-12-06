@@ -2,6 +2,8 @@
 title: Last Acting Group of 2023
 date: 2023-12-06
 image: /assets/play-reading-landscape.jpg
+extract: n behalf of all at Sedos we'd like to extend a huge thank you to both
+  Helena and Lloyd for all their hard work.
 ---
 ![](/assets/play-reading-landscape.jpg)
 
