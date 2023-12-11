@@ -2,7 +2,7 @@
 title: Acting Group
 image: /assets/51947468703_826d865d22_c.jpg
 venue: theatre-deli
-recurrence: First Wednesday of every month, 7-9pm
+recurrence: Could you take over the running of the Acting Group?
 ticket-prices: £5 per person (members and non-members alike)
 metaTitle: London Acting Group with Sedos
 metaDescription: The London Acting Group run by Sedos meets on the first
