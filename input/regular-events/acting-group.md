@@ -10,6 +10,8 @@ metaDescription: The London Acting Group run by Sedos meets on the first
 ---
 **After three brilliant years, our final acting group with Helena and Lloyd is taking place on Wednesday 6 December. We're hoping that someone else will be taking over the running of the Acting Group in the new year, so watch this space for further announcements. Huge thanks to Helena and Lloyd for creating and running this group so successfully.**
 
+We're actively speaking to people who have worked with us before to organise the return of the group in 2024, but we're always keen to hear from experienced directors and acting aficionados - **if you do have an interest in directing and managing this class please do get in touch with us at [acting@sedos.co.uk](mailto:acting@sedos.co.uk)**
+
 Sessions take place at Theatre Deli Leadenhall Studios, 107 Leadenhall Street, London EC3A 4AF from 7-9pm.
 
 Sedos’ Acting Group is a friendly, relaxed and supportive atmosphere for people who want to act... whether you want to brush up on your skills, prepare for an audition or simply 'have a go', you are welcome! We tackle everything from contemporary to classical, comedy to drama, and everything in-between. We encourage all levels of ability to take part, it doesn’t matter whether it’s your first time acting or your 50th time! 
