@@ -46,3 +46,5 @@ Our production will do away with the duels and pitched battles - with grandly dr
 Focussing on the the wake of the Brexit Referendum and the leadership of Brois Johnson, the play's themes of ambition, betrayal, political machination, appearance versus reality and the accrual of personal power are reflected in the politics of the British Government and the Conservative Party. 
 
 With this modern, political setting allied with ambitious technical elements, we hope to tell the old story of Richard III in a new way.
+
+*Richard III* plays at the [Bridewell Theatre](https://www.sedos.co.uk/venues/bridewell) from 8-18 May 2024.
