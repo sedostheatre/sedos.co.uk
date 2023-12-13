@@ -33,7 +33,7 @@ sections:
       **MARKETING** | Pippa Kyle\
       **COMMITTEE LIAISON** | Olly Levett and Henry Whittaker
     title: CREATIVE TEAM
-metaTitle: Richard III by William Shakespeare plays at the Bridewell Theatre
+metaTitle: Richard III, by William Shakespeare plays, at the Bridewell Theatre
   from 58-18 May2024
 metaDescription: " Richard III, by William Shakespeare, is one of Shakespeare’s
   most famous history plays. It is part of Sedos’ 2024 season and plays at the
