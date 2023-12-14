@@ -21,7 +21,7 @@ venue: Bridewell Theatre
 primary-color: "#7183b8"
 header-image: /assets/unnamed-richard.jpg
 header-image-contain: false
-flyer: /assets/richard-iii-mock-beige-800.jpg
+flyer: /assets/richard-iii-poster-holder-v2-800.jpg
 box-office-open: false
 sections:
   - order: 1
@@ -34,10 +34,10 @@ sections:
       **COMMITTEE LIAISON** | Olly Levett and Henry Whittaker
     title: CREATIVE TEAM
 metaTitle: Richard III, by William Shakespeare plays, at the Bridewell Theatre
-  from 58-18 May2024
+  from 9-18 May2024
 metaDescription: " Richard III, by William Shakespeare, is one of Shakespeare’s
   most famous history plays. It is part of Sedos’ 2024 season and plays at the
-  Bridewell Theatre from 8-18 May 2024"
+  Bridewell Theatre from 9-18 May 2024"
 ---
 ***Richard III* is one of Shakespeare’s most famous history plays and follows the machinations of Richard, Duke of Gloucester, as he attempts to clear the obstacles between himself and the throne of England in the years following the War of the Roses.**
 
@@ -47,7 +47,7 @@ Real life has provided our inspiration for the character of Richard III - we wil
 
 With this modern, political setting allied with ambitious technical elements, we hope to tell the old story of Richard III in a new way, one that allows the audience and cast to connect with this story. At the same time, this interpretation will allow us to pass comment on the politics of our time, but using Shakespeare’s extraordinary prose - to also tell a modern story in a traditional way.
 
-*Richard III* plays at the [Bridewell Theatre](https://www.sedos.co.uk/venues/bridewell) from 8-18 May 2024.
+*Richard III* plays at the [Bridewell Theatre](https://www.sedos.co.uk/venues/bridewell) from 9-18 May 2024.
 
 **RICHARD III AUDITIONS**
 
