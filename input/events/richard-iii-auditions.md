@@ -13,9 +13,9 @@ Sedos’ first play of the [2024 season](https://www.sedos.co.uk/news/2023-09-14
 
 **KEY INFO**
 
-**Pre-audition workshop:** Sat 6 Jan (1-1pm)
-**Auditions:** Tue 9 Jan (7pm-10pm), Wed 10 Jan (7pm-10pm), Sat 13 Jan (10am-5pm)
-**Recalls:** Sat 20 Jan (10am-5pm)
+**Pre-audition workshop:** Sat 6 Jan (1-1pm)\
+**Auditions:** Tue 9 Jan (7pm-10pm), Wed 10 Jan (7pm-10pm), Sat 13 Jan (10am-5pm)\
+**Recalls:** Sat 20 Jan (10am-5pm)\
 **Rehearsals:** Mon (7-10pm), Wed (7pm-10pm) and Sat (10am-5pm) from Sat 10 Feb
 
 Read the full audition notice, then sign up at [membership.sedos.co.uk](https://membership.sedos.co.uk/signup/)
