@@ -18,7 +18,7 @@ Sedos’ first play of the [2024 season](https://www.sedos.co.uk/news/2023-09-14
 **Recalls:** Sat 20 Jan (10am-5pm)\
 **Rehearsals:** Mon (7-10pm), Wed (7pm-10pm) and Sat (10am-5pm) from Sat 10 Feb
 
-Read the full audition notice, then sign up at [membership.sedos.co.uk](https://membership.sedos.co.uk/signup/)
+Read the [full audition notice](https://drive.google.com/file/d/1XyyHw5lHuV4i7lYDXKCsrzFmHsOhqC25/view?usp=sharing), then sign up at [membership.sedos.co.uk](https://membership.sedos.co.uk/signup/)
 
 Any queries? Please email us at [richard3@sedos.co.uk](mailto:richard3@sedos.co.uk)
 
@@ -36,7 +36,7 @@ Our production will do away with the duels and pitched battles, with grandly dre
 
 With this modern, political setting allied with ambitious technical elements, we hope to tell the old story of Richard III in a new way, one that allows the audience and cast to connect with this story. At the same time, this interpretation will allow us to pass comment on the politics of our time, but using Shakespeare’s extraordinary prose - to also tell a modern story in a traditional way.
 
-Read more in the full audition notice
+Read more in the [full audition notice](https://drive.google.com/file/d/1XyyHw5lHuV4i7lYDXKCsrzFmHsOhqC25/view?usp=sharing)
 
 **WHO WE ARE LOOKING FOR**
 
@@ -50,13 +50,13 @@ Productions of *Richard III* have often had an able-bodied actor directed to use
 
 We will consider performers with a disability for any role and actively encourage disabled performers to audition. If you would like to discuss further, including how the audition process might work and practicalities in the rehearsal or performance, please do get in touch.
 
-Read more in the full audition notice about diversity and inclusion in *Richard III*.
+Read more in the [full audition notic](https://drive.google.com/file/d/1XyyHw5lHuV4i7lYDXKCsrzFmHsOhqC25/view?usp=sharing)e about diversity and inclusion in *Richard III*.
 
 **SIGN UP**
 
 Read the full audition notice, then sign up at [membership.sedos.co.uk](https://membership.sedos.co.uk/signup/)
 
-**FULL AUDITION NOTICE**
+**[FULL AUDITION NOTICE](https://drive.google.com/file/d/1XyyHw5lHuV4i7lYDXKCsrzFmHsOhqC25/view?usp=sharing)**
 
 **ANY QUESTIONS?**
 \
