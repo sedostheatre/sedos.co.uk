@@ -21,7 +21,7 @@ venue: Bridewell Theatre
 primary-color: "#7183b8"
 header-image: /assets/unnamed-richard.jpg
 header-image-contain: false
-flyer: /assets/richard-iii-mock-beige-800.jpg
+flyer: /assets/richard-iii-poster-holder-v2-800.jpg
 box-office-open: false
 sections:
   - order: 1
