@@ -3,7 +3,7 @@ title: Richard III
 year: "2024"
 authors: by William Shakespeare
 subtitle: One of Shakespeare’s most famous history plays about ambition,
-  betrayal and the accrual of personal power.
+  betrayal and the accrual of personal power
 showtimes:
   - time: 2024-05-09 19:30
   - time: 2024-05-10 19:30
