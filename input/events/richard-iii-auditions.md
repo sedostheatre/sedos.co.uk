@@ -64,7 +64,7 @@ Read the full audition notice, then sign up at [membership.sedos.co.uk](https://
 
 **ANY QUESTIONS?**
 \
-Please email the team at [richard3@sedos.co.u](mailto:richard3@sedos.co.u)k if you have any questions.
+Please email the team at [richard3@sedos.co.uk](mailto:richard3@sedos.co.u) if you have any questions.
 
 **MORE AUDITIONS**
 
