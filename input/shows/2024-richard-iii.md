@@ -31,7 +31,7 @@ sections:
       **CREATIVE TECHNICAL DIRECTOR** | Adrian Jeakins\
       **LIGHTING DESIGNER** | Will Lake\
       **MARKETING** | Pippa Kyle\
-      **COMMITTEE LIAISON** | Olly Levett and Henry Whittaker
+      **COMMITTEE LIAISONS** | Olly Levett and Henry Whittaker
     title: CREATIVE TEAM
 metaTitle: Richard III, by William Shakespeare, plays at the Bridewell Theatre
   from 9-18 May 2024
