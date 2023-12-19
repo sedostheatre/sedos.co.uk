@@ -51,7 +51,7 @@ With this modern, political setting allied with ambitious technical elements, we
 
 **RICHARD III AUDITIONS**
 
-Registration is now open for *Richard III* auditions.
+Registration is now open for [*Richard III* auditions](https://www.sedos.co.uk/events/richard-iii-auditions).
 
 Read the [full audition notice](https://drive.google.com/file/d/1XyyHw5lHuV4i7lYDXKCsrzFmHsOhqC25/view?usp=sharing), then sign up at [membership.sedos.co.uk](https://membership.sedos.co.uk/signup/)
 
