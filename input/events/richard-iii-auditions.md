@@ -13,7 +13,7 @@ metaDescription: Registration is open for Richard III auditions. This modern
 ---
 Registration is now open for *[Richard III](https://www.sedos.co.uk/shows/2024-richard-iii)* auditions. 
 
-Sedos’ first play of the [2024 season](https://www.sedos.co.uk/news/2023-09-14-sedos-2024-season) will be a two-week production of *Richard III*, by William Shakespeare, which will be staged at the [Bridewell Theatre](https://www.sedos.co.uk/venues/bridewell) from 8-18 May 2024. 
+Sedos’ first play of the [2024 season](https://www.sedos.co.uk/news/2023-09-14-sedos-2024-season) will be a two-week production of *Richard III*, by William Shakespeare, which will be staged at the [Bridewell Theatre](https://www.sedos.co.uk/venues/bridewell) from 9-18 May 2024. 
 
 **KEY INFO**
 
