@@ -1,7 +1,7 @@
 ---
 title: Richard III auditions
 times:
-  - time: 2024-01-06 13:00
+  - time: 2024-01-06 11:00
   - time: 2024-01-09 19:00
   - time: 2024-01-10 19:00
   - time: 2024-01-13 10:00
@@ -17,7 +17,7 @@ Sedos’ first play of the [2024 season](https://www.sedos.co.uk/news/2023-09-14
 
 **KEY INFO**
 
-**Pre-audition workshop:** Sat 6 Jan (1-1pm)\
+**Pre-audition workshop:** Sat 6 Jan (11am-1pm)\
 **Auditions:** Tue 9 Jan (7pm-10pm), Wed 10 Jan (7pm-10pm), Sat 13 Jan (10am-5pm)\
 **Recalls:** Sat 20 Jan (10am-5pm)\
 **Rehearsals:** Mon (7-10pm), Wed (7pm-10pm) and Sat (10am-5pm) from Sat 10 Feb
