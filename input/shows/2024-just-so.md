@@ -22,7 +22,8 @@ primary-color: "#fd2efe"
 header-image: /assets/just-so-web-header.png
 header-image-contain: false
 flyer: /assets/just-so-l-poster-final-sedos-800.jpg
-box-office-open: false
+box-office-open: true
+box-office-link: https://sedos.ticketsolve.com/ticketbooth/shows/1173652423
 sections:
   - order: 1
     body: >-
