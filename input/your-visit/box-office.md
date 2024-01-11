@@ -22,10 +22,6 @@ In general, audience members arriving late for a Sedos show will be held outside
 
 Certain shows may not be able to admit latecomers at all or not until the interval, so you are advised to arrive in good time for curtain up.
 
-**Concession**
-
-Sedos members, seniors and OAPs, children, students over 16 with valid identification, registered disabled and registered unemployed unless otherwise stated, for example Gala Nights.
-
 **Venue**
 
 Most of our shows are performed at the [Bridewell Theatre,](https://sedos.co.uk/venues/bridewell) Bride Lane, London EC4Y 8EQ.
