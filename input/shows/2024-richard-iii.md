@@ -2,8 +2,8 @@
 title: Richard III
 year: "2024"
 authors: by William Shakespeare
-subtitle: One of Shakespeare’s most famous history plays about ambition,
-  betrayal and the accrual of personal power
+subtitle: A fresh retelling of this Shakespeare classic which will connect to
+  new audiences and delight old fans
 showtimes:
   - time: 2024-05-09 19:30
   - time: 2024-05-10 19:30
