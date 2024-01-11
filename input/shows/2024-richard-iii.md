@@ -39,13 +39,13 @@ metaDescription: " Richard III, by William Shakespeare, is one of Shakespeare’
   most famous history plays. It is part of Sedos’ 2024 season and plays at the
   Bridewell Theatre from 9-18 May 2024"
 ---
-***Richard III* is one of Shakespeare’s most famous history plays and follows the machinations of Richard, Duke of Gloucester, as he attempts to clear the obstacles between himself and the throne of England in the years following the War of the Roses.**
+**Richard, Duke of Gloucester. Boris Johnson. Ambitious, manipulative, ruthless men, scheming to reach the height of power.**
 
-Our production will do away with the duels and pitched battles, with grandly dressed kings, queens, and nobles and instead takes us to the modern seat of power in the United Kingdom: Westminster. We will take the themes of Richard III, namely ambition, betrayal, political machination, appearance versus reality and the accrual of personal power, and see them reﬂected in the politics of the British Government and the Conservative Party over the last few years in the wake of the Brexit Referendum. 
+This retelling of one of Shakespeare’s most popular history plays does away with duels, grandly dressed nobles and pitched battles, taking us instead to the current seat of power in the United Kingdom: Westminster. 
 
-Real life has provided our inspiration for the character of Richard III - we will explore the parallels between the machiavellian scheming of Richard during his rise and his increasing desperation to cling to power during his fall through the recent career of Boris Johnson.
+The green benches and corridors buzz with betrayal, deception and plots as our protagonist tries to clear the obstacles blocking his route to the ultimate prize – and then to cling desperately to his position.
 
-With this modern, political setting allied with ambitious technical elements, we hope to tell the old story of Richard III in a new way, one that allows the audience and cast to connect with this story. At the same time, this interpretation will allow us to pass comment on the politics of our time, but using Shakespeare’s extraordinary prose - to also tell a modern story in a traditional way.
+Combining a modern political setting with innovative technical elements and Shakespeare’s timeless prose, this fresh production will tell the old story of Richard III in a new way, connecting with those seeing the story for the first time and delighting abiding fans.
 
 *Richard III* plays at the [Bridewell Theatre](https://www.sedos.co.uk/venues/bridewell) from 9-18 May 2024.
 
