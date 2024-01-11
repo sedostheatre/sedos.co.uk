@@ -18,11 +18,15 @@ showtimes:
   - time: 2024-05-18 19:30
 showtime-summary: 9-18 MAY 2024
 venue: Bridewell Theatre
+ticket-prices: From £12.50
+additional-ticket-info: "Gala nights on Friday 10 and Friday 17 May: ticket
+  price includes a free glass of fizz and programme"
 primary-color: "#7183b8"
 header-image: /assets/unnamed-richard.jpg
 header-image-contain: false
 flyer: /assets/richard-iii-poster-holder-v2-800.jpg
-box-office-open: false
+box-office-open: true
+box-office-link: https://sedos.ticketsolve.com/ticketbooth/shows/1173652515/events/428647272
 sections:
   - order: 1
     body: |-
