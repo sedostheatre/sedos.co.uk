@@ -15,6 +15,9 @@ showtimes:
   - time: 2024-03-09 19:30
 showtime-summary: 5-9 MARCH 2024
 venue: Bridewell Theatre
+ticket-prices: From £14
+additional-ticket-info: "Gala night on Friday 8 March: ticket price includes a
+  free glass of fizz and programme"
 primary-color: "#fd2efe"
 header-image: /assets/just-so-web-header.png
 header-image-contain: false
