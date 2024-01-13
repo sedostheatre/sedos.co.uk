@@ -67,7 +67,7 @@ Jacob Hajjar (he/they)\
 Olly Levett (he/him)\
 Olivia Perrett \
 Tess Robinson (she/her)\
-Mark Sidall (he/him)
+Mark Siddall (he/him)
 
 ## Groups
 
