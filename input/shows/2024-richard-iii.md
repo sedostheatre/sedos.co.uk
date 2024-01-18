@@ -1,7 +1,7 @@
 ---
 title: Richard III
 year: "2024"
-authors: by William Shakespeare
+authors: by WILLIAM SHAKESPEARE
 subtitle: A fresh retelling of this Shakespeare classic which will connect to
   new audiences and delight old fans
 showtimes:
