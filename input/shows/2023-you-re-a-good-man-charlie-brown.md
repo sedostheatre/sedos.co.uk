@@ -25,6 +25,12 @@ sections:
       **PRODUCER** | Ben Hussey (he/him)\
       **ASSISTANT MUSICAL DIRECTOR** | Mike Cannon (he/him)\
       **ASSISTANT DIRECTOR & PRODUCER** | Gemma Evans (she/her)
+metaTitle: You're A Good Man, Charlie Brown plays at the Bridewell Theatre from
+  9-13 July 2024.
+metaDescription: You're A Good Man, Charlie Brown is part of Sedos’ 2024 London
+  season and plays at the Bridewell Theatre from 9-13 July 2024..With charm, wit
+  and heart, You're A Good Man, Charlie Brown explores life through the eyes of
+  Charlie Brown and his friends in the Peanuts gang.
 ---
 **With charm, wit and heart, *You're A Good Man, Charlie Brown* explores life through the eyes of Charlie Brown and his friends in the Peanuts gang.**
 
