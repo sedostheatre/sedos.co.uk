@@ -1,8 +1,8 @@
 ---
 title: You’re A Good Man, Charlie Brown
 year: "2023"
-authors: Based on the Comic Strip ‘Peanuts’ by Charles M. Schulz
-authors2: Book, Music and Lyrics by Clark Gesner
+authors: Based on the Comic Strip ‘Peanuts’ by CHARLES M. SCHULZ
+authors2: Book, Music and Lyrics by CLARK GESNER
 subtitle: A musical with charm, wit and heart
 showtimes:
   - time: 2024-07-09 19:30
