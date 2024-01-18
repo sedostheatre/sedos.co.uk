@@ -13,7 +13,7 @@ showtimes:
   - time: 2024-07-13 19:30
 showtime-summary: 9-13 JULY 2024
 venue: Bridewell Theatre
-primary-color: "#fed700"
+primary-color: "#92c165"
 header-image: /assets/charlie-brown-teaser-header.jpg
 header-image-contain: false
 flyer: /assets/charlie-brown-teaser-800.jpg
@@ -43,9 +43,9 @@ Charlie Brown, who has never been able to keep a kite in the air, wonders what i
 
 **Audition details to be announced soon.**
 
-Based on the Comic Strip ‘Peanuts’ by Charles M. Schulz
-Book, Music and Lyrics by Clark Gesner
-Additional Dialogue by Michael Mayer
+Based on the Comic Strip ‘Peanuts’ by Charles M. Schulz\
+Book, Music and Lyrics by Clark Gesner\
+Additional Dialogue by Michael Mayer\
 Additional Music and Lyrics by Andrew Lippa
 
 *You're A Good Man, Charlie Brown* plays at the [Bridewell Theatre](https://sedos.co.uk/venues/bridewell) from 9-13 July 2024.
