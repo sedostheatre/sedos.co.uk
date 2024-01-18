@@ -13,6 +13,10 @@ showtimes:
   - time: 2024-07-13 19:30
 showtime-summary: 9-13 JULY 2024
 venue: Bridewell Theatre
+additional-ticket-info: |-
+  Show times TBC
+
+  The box office will open soon
 primary-color: "#ff9046"
 header-image: /assets/charlie-brown-teaser-header.jpg
 header-image-contain: false
