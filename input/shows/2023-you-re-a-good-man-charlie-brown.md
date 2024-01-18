@@ -9,7 +9,7 @@ showtimes:
   - time: 2024-07-10 19:30
   - time: 2024-07-11 19:30
   - time: 2024-07-12 19:30
-  - time: 2024-07-09 14:30
+  - time: 2024-07-13 14:30
   - time: 2024-07-13 19:30
 showtime-summary: 9-13 JULY 2024
 venue: Bridewell Theatre
