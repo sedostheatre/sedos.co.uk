@@ -14,6 +14,7 @@ showtimes:
 showtime-summary: 9-13 JULY 2024
 venue: Bridewell Theatre
 header-image-contain: false
+flyer: /assets/charlie-brown-teaser-800.jpg
 box-office-open: false
 sections:
   - order: 1
