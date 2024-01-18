@@ -63,9 +63,7 @@ Karen Braganza (she/her)\
 Paul Caira\
 Tim Garrad (he/him) \
 Ruth Granton (she/her)\
-Jacob Hajjar (he/they)\
 Olly Levett (he/him)\
-Olivia Perrett \
 Tess Robinson (she/her)\
 Mark Siddall (he/him)
 
