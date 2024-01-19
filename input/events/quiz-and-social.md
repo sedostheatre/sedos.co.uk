@@ -21,7 +21,7 @@ Assemble your teams (of up to six people) and get thinking of a prizeworthy tren
 All proceeds go towards supporting Sedos and our upcoming production of* [Just So](https://www.sedos.co.uk/shows/2024-just-so)*.
 
 **Where:** Wheatsheaf Hall, Wheatsheaf Lane, SW8 2UP\
-**When**: Saturday 3 February, cash bar open from 6pm, quiz 7-10pm\
+**When**: Saturday 3 February, bar open from 6pm (cards only), quiz 7-10pm\
 **Tickets:** £10
 
 **Buy your ticket**
