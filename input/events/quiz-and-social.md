@@ -18,7 +18,7 @@ Serving more than just brain teasers over five rounds… we’ll be serving refr
 
 Assemble your teams (of up to six people) and get thinking of a prizeworthy trendy team name to register on the night - solo brainboxes are also welcome to join a team on arrival.
 
-All proceeds go towards supporting Sedos and our upcoming production of* [Just So](https://www.sedos.co.uk/shows/2024-just-so)*.
+All proceeds go towards supporting Sedos and our upcoming production of *[Just So](https://www.sedos.co.uk/shows/2024-just-so)*.
 
 **Where:** Wheatsheaf Hall, Wheatsheaf Lane, SW8 2UP\
 **When**: Saturday 3 February, bar open from 6pm (cards only), quiz 7-10pm\
