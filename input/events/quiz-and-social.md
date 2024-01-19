@@ -26,4 +26,4 @@ All proceeds go towards supporting Sedos and our upcoming production of [Just So
 
 **[Buy your ticket](https://sedos.ticketsolve.com/ticketbooth/shows/1173652799)**
 
-![February 2024 social](/assets/fundraiser-social-graphic.png)
+![February 2024 social](/assets/screenshot-2024-01-19-at-17.10.00.png)
