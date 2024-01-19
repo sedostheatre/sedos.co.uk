@@ -13,7 +13,7 @@
     <PackageReference Include="Statiq.App" Version="1.0.0-beta.71" />
     <PackageReference Include="Statiq.Images" Version="1.0.0-beta.72" />
     <PackageReference Include="Statiq.Web" Version="1.0.0-beta.59" />
-    <PackageReference Include="Schema.NET" Version="12.0.0" />
+    <PackageReference Include="Schema.NET" Version="13.0.0" />
   </ItemGroup>
 
   <ItemGroup>
