@@ -3,6 +3,7 @@ title: Quiz and social
 image: /assets/screenshot-2024-01-19-at-11.24.34.png
 imageAlt: February 2024 social
 venue: ""
+ticket-prices: £10
 metaTitle: "February 2024 social: join Sedos for a quiz"
 metaDescription: Join your fellow Sedos members for our February 2024 social –
   it’s a quiz hosted by Sedos quizzing legend James Franey
@@ -16,5 +17,11 @@ Serving more than just brain teasers over five rounds - we’ll be serving refre
 Assemble your teams (of up to six people) and get thinking of a prizeworthy trendy team name to register on the night - solo brainboxes are also welcome to join a team on arrival.
 
 All proceeds go towards supporting Sedos and our upcoming production of Just So.
+
+**Where:** Wheatsheaf Hall, Wheatsheaf Lane, SW8 2UP\
+**When**: Saturday 3 February, cash bar open from 6pm, quiz 7-10pm\
+**Tickets:** £10
+
+**Buy your ticket**
 
 ![February 2024 social](/assets/fundraiser-social-graphic.png)
