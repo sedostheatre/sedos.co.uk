@@ -24,6 +24,6 @@ All proceeds go towards supporting Sedos and our upcoming production of* [Just S
 **When**: Saturday 3 February, bar open from 6pm (cards only), quiz 7-10pm\
 **Tickets:** £10
 
-**Buy your ticket**
+**[Buy your ticket](https://sedos.ticketsolve.com/ticketbooth/shows/1173652799)**
 
 ![February 2024 social](/assets/fundraiser-social-graphic.png)
