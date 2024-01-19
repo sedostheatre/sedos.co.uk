@@ -4,7 +4,7 @@ times:
   - time: 2024-02-03 18:00
 image: /assets/screenshot-2024-01-19-at-11.24.34.png
 imageAlt: February 2024 social
-venue: ""
+venue: Wheatsheaf Hall
 ticket-prices: £10
 metaTitle: "February 2024 social: join Sedos for a quiz"
 metaDescription: Join your fellow Sedos members for our February 2024 social –
