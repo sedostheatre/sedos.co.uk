@@ -1,5 +1,7 @@
 ---
 title: Quiz and social
+times:
+  - time: 2024-02-03 18:00
 image: /assets/screenshot-2024-01-19-at-11.24.34.png
 imageAlt: February 2024 social
 venue: ""
