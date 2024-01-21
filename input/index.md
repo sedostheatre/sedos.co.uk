@@ -4,7 +4,6 @@ float-nav: true
 metaDescription: Sedos | London amateur theatre company
 RedirectFrom:
   - index.htm
-supportUsButton: Support Sedos
 carouselFooter: >-
   Sedos is an ambitious, vibrant and inclusive London theatre society, striving
   for excellence and creativity in our productions for over 100 years. As a busy
@@ -24,6 +23,7 @@ carouselFooter: >-
 
 
   The [Sedos values](https://www.sedos.co.uk/news/2022-12-15-sedos-values) help guide the society’s decision making, how we behave and interact with each other, and how we represent ourselves to the London theatre community and beyond - both as a reflection of who Sedos are, and who we aspire to be.
+supportUsButton: Support Sedos
 eventsText: >-
   ### Get involved in London amateur theatre
 
@@ -44,7 +44,7 @@ pageFooter: >-
   We hold open [London auditions](https://sedos.co.uk/get-involved) for all our shows so both members and non-members can put themselves forward for roles. Additionally we have a thriving community of people who work behind the scenes on our productions in a wide variety of roles. 
 
 
-  Sedos is proud to be a founder member of [London Drama Societies](https://www.londondramasocieties.co.uk), which commits each member society to the following statement:
+  Sedos is proud to be a founder member of London Drama Societies, which commits each member society to the following statement:
 
 
   “Collectively, we commit to take constant steps to be more inclusive and attract members and audiences reflecting London’s diversity.
