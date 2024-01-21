@@ -17,7 +17,7 @@ In addition, we do everything in our power to ensure everyone involved in our sh
 
 All our [London auditions](https://sedos.co.uk/get-involved) are open to everyone, members and non-members, and are free to attend.
 
-Sedos is a founder member of [London Drama Societies](https://www.londondramasocieties.co.uk), which commits each member society to the following statement:
+Sedos is a founder member of London Drama Societies, which commits each member society to the following statement:
 
 “Collectively, we commit to take constant steps to be more inclusive and attract members and audiences reflecting London’s diversity.
 
