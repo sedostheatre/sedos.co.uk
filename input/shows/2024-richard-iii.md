@@ -30,12 +30,12 @@ box-office-link: https://sedos.ticketsolve.com/ticketbooth/shows/1173652515/even
 sections:
   - order: 1
     body: |-
-      **DIRECTOR** | Dan Edge\
-      **PRODUCER** | Clare Harding\
-      **CREATIVE TECHNICAL DIRECTOR** | Adrian Jeakins\
-      **LIGHTING DESIGNER** | Will Lake\
-      **MARKETING** | Pippa Kyle\
-      **COMMITTEE LIAISONS** | Olly Levett and Henry Whittaker
+      **DIRECTOR** | Dan Edge (he/him)\
+      **PRODUCER** | Clare Harding (she/her)\
+      **CREATIVE TECHNICAL DIRECTOR** | Adrian Jeakins (he/him)\
+      **LIGHTING DESIGNER** | Will Lake (he/him)\
+      **MARKETING** | Pippa Kyle (she/her)\
+      **COMMITTEE LIAISONS** | Olly Levett (he/him) and Henry Whittaker (he/her)
     title: CREATIVE TEAM
 metaTitle: Richard III, by William Shakespeare, plays at the Bridewell Theatre
   from 9-18 May 2024
@@ -52,18 +52,3 @@ The green benches and corridors buzz with betrayal, deception and plots as our p
 Combining a modern political setting with innovative technical elements and Shakespeare’s timeless prose, this fresh production will tell the old story of Richard III in a new way, connecting with those seeing the story for the first time and delighting abiding fans.
 
 *Richard III* plays at the [Bridewell Theatre](https://www.sedos.co.uk/venues/bridewell) from 9-18 May 2024.
-
-**RICHARD III AUDITIONS**
-
-Registration is now open for [*Richard III* auditions](https://www.sedos.co.uk/events/richard-iii-auditions).
-
-Read the [full audition notice](https://drive.google.com/file/d/1XyyHw5lHuV4i7lYDXKCsrzFmHsOhqC25/view?usp=sharing), then sign up at [membership.sedos.co.uk](https://membership.sedos.co.uk/signup/)
-
-**KEY INFO**
-
-**Pre-audition workshop:** Sat 6 Jan (1-1pm)\
-**Auditions:** Tue 9 Jan (7pm-10pm), Wed 10 Jan (7pm-10pm), Sat 13 Jan (10am-5pm)\
-**Recalls:** Sat 20 Jan (10am-5pm)\
-**Rehearsals:** Mon (7-10pm), Wed (7pm-10pm) and Sat (10am-5pm) from Sat 10 Feb
-
-Any queries? Please email us at [richard3@sedos.co.uk](mailto:richard3@sedos.co.uk)
