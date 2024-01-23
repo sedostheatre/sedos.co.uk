@@ -27,7 +27,7 @@ box-office-link: https://sedos.ticketsolve.com/ticketbooth/shows/1173652423
 sections:
   - order: 1
     body: >-
-      **CAST LIST**
+      **CAST**
 
 
       **ELDEST MAGICIAN** | Joe McWilliam\
@@ -61,6 +61,9 @@ sections:
 
 
       Isabella Farrell, Lissy Foyle, Natasha Jeffrey, Ella Josey, Connie McFarlane, Emma Miller, Eilish Mulvihill, Katy Robinson, François Vanhoutte and Sophie Wheale
+
+
+      **CREATIVE TEAM**
 
 
       **DIRECTOR** | Glen Jordan\
