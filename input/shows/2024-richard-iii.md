@@ -41,7 +41,7 @@ sections:
       **DUCHESS OF YORK** | Mary Helen Wright (she/her)\
       **EDWARD** | Elizabeth Elstub (she/her)\
       **ELIZABETH** | Sarah Fowkes (she/her)\
-      **HASTINGS** | Dave Wainwright\
+      **HASTINGS** | Dave Wainwright (he/him)\
       **RICHMOND** | Ingrid Miller\
       \
       **ALL OTHER PARTS PLAYED BY:**
