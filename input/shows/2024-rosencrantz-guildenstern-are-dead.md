@@ -2,8 +2,8 @@
 title: Rosencrantz & Guildenstern Are Dead
 year: "2024"
 authors: by TOM STOPPARD
-subtitle: "Tom Stoppard at his most mischievous and playful.  A ridiculously
-  inventive retelling of Hamlet as told from the worm's-eye view. "
+subtitle: Tom Stoppard at his most mischievous and playful.  A ridiculously
+  inventive retelling of Hamlet as told from the worm's-eye view
 showtimes:
   - time: 2024-09-24 19:30
   - time: 2024-09-25 19:30
@@ -45,5 +45,7 @@ The National Theatre production in April 1967 made Tom Stoppard’s reputation v
 
 >Very funny, very brilliant, very chilling; it has the dust of thought about it and the particles glitter excitingly in the theatrical air.
 ><footer><cite>The New York Times</cite></footer>
+
+*Rosencrantz & Guildenstern Are Dead* plays at the [Bridewell Theatre](https://www.sedos.co.uk/venues/bridewell) from 24-28 September 2024. 
 
 *Rosencrantz & Guildenstern Are Dead* is presented by arrangement with Concord Theatricals Ltd. on behalf of Tams-Witmark LLC.
