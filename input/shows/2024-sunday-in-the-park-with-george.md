@@ -3,8 +3,8 @@ title: Sunday In The Park With George
 year: "2024"
 authors: Music and Lyrics by STEPHEN SONDHEIM
 authors2: Book by JAMES LAPINE
-subtitle: Inspired by George Seurat's famous painting, this poetic masterpiece
-  explores the challenges in understanding life and art.
+subtitle: Inspired by George Seurat’s famous painting, this poetic masterpiece
+  explores the challenges in understanding life and art
 showtimes:
   - time: 2024-06-20 19:30
   - time: 2024-06-21 19:30
@@ -54,7 +54,7 @@ metaDescription: Sunday In The Park With George, by Stephen Sondheim and James
 
 One of the most acclaimed musicals of our time, this moving study of the enigmatic painter Georges Seurat won a Pulitzer Prize and was nominated for an astounding 10 Tony Awards including Best Musical.
 
-The days leading up to the completion of his most famous painting, A Sunday Afternoon on the Island of La Grande Jatte, Georges Seurat is struggling to make meaningful art and maintaining a relationship with his lover Dot. Amid the scorn of the artistic community, Seurat's artistic ability thrives while his love diminishes. A century later, Seurat's descendant - named George and also an artist - finds himself burnt out and in search of what artistic path to follow, but he finds the answer to his future in the past.
+The days leading up to the completion of his most famous painting, A Sunday Afternoon on the Island of La Grande Jatte, Georges Seurat is struggling to make meaningful art and maintaining a relationship with his lover Dot. Amid the scorn of the artistic community, Seurat’s artistic ability thrives while his love diminishes. A century later, Seurat’s descendant - named George and also an artist – finds himself burnt out and in search of what artistic path to follow, but he finds the answer to his future in the past.
 
 **WORKSHOP** | 7 February 2024\
 **AUDITIONS** | 4-9 March 2024\
