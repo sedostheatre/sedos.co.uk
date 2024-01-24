@@ -20,7 +20,7 @@ showtimes:
   - time: 2024-06-30 14:30
   - time: 2024-07-28 14:30
   - time: 2024-08-04 14:30
-showtime-summary: 20-30 JUNE 2024
+showtime-summary: 20-30 JUNE, 28 JULY and 4 AUGUST 2024
 venue: ""
 additional-ticket-info: |-
   WHEATSHEAF HALL | 20-30 June 2024
