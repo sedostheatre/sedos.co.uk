@@ -30,13 +30,41 @@ box-office-link: https://sedos.ticketsolve.com/ticketbooth/shows/1173652515/even
 sections:
   - order: 1
     body: |-
+      **CAST**
+
+      **RICHARD** | Sam Sugarman (he/him)\
+      **BUCKINGHAM** | Audrey Lindsay (she/her)\
+      **ANNE** | Antonia Kasoulidou (she/her)\
+      **CATESBY** | Kay Zakharyan (they/them)\
+      **CLARENCE** | Elliot Archer (he/him)\
+      **DERBY** | Paul Caira\
+      **DUCHESS OF YORK** | Mary Helen Wright (she/her)\
+      **EDWARD** | Elizabeth Elstub (she/her)\
+      **ELIZABETH** | Sarah Fowkes (she/her)\
+      **HASTINGS** | Dave Wainwright (he/him)\
+      **RICHMOND** | Ingrid Miller\
+      \
+      **ALL OTHER PARTS PLAYED BY:**
+
+      Carl Reyes (he/him)\
+      Carole Stewart (she/her)\
+      Charlie O'Reardon (he/him)\
+      Em Oliver (they/them)\
+      Isobel Lawson (she/her)\
+      James McKendrick (he/him)\
+      Jess Hearn (she/her)\
+      Liam Wells (he/him)\
+      Livvy Perrett (she/them)
+
+      **CREATIVE TEAM**
+
       **DIRECTOR** | Dan Edge (he/him)\
       **PRODUCER** | Clare Harding (she/her)\
       **CREATIVE TECHNICAL DIRECTOR** | Adrian Jeakins (he/him)\
       **LIGHTING DESIGNER** | Will Lake (he/him)\
       **MARKETING** | Pippa Kyle (she/her)\
       **COMMITTEE LIAISONS** | Olly Levett (he/him) and Henry Whittaker (he/her)
-    title: CREATIVE TEAM
+    title: CAST AND CREATIVE TEAM
 metaTitle: Richard III, by William Shakespeare, plays at the Bridewell Theatre
   from 9-18 May 2024
 metaDescription: " Richard III, by William Shakespeare, is one of Shakespeare’s
