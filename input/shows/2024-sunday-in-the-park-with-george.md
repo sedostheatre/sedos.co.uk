@@ -11,7 +11,8 @@ venue: ""
 additional-ticket-info: |-
   WHEATSHEAF HALL | 20-30 June 2024
   THORINGTON THEATRE | 28 July and 4 August 2024
-primary-color: "#e1d8c7"
+primary-color: "#727f54"
+header-image: /assets/sunday-teaser-header.jpg
 header-image-contain: false
 flyer: /assets/sunday-poster-holder.jpg
 box-office-open: false
