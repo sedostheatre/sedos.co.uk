@@ -8,6 +8,7 @@ subtitle: Inspired by George Seurat's famous painting, this poetic masterpiece
 showtimes: []
 showtime-summary: 20-30 JUNE 2024
 venue: Wheatsheaf Hall
+primary-color: "#e1d8c7"
 header-image-contain: false
 flyer: /assets/sunday-poster-holder.jpg
 box-office-open: false
