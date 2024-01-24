@@ -5,7 +5,21 @@ authors: Music and Lyrics by STEPHEN SONDHEIM
 authors2: Book by JAMES LAPINE
 subtitle: Inspired by George Seurat's famous painting, this poetic masterpiece
   explores the challenges in understanding life and art.
-showtimes: []
+showtimes:
+  - time: 2024-06-20 19:30
+  - time: 2024-06-21 19:30
+  - time: 2024-06-22 14:30
+  - time: 2024-06-22 19:30
+  - time: 2024-06-24 19:30
+  - time: 2024-06-25 19:30
+  - time: 2024-06-26 19:30
+  - time: 2024-06-27 19:30
+  - time: 2024-06-28 19:30
+  - time: 2024-06-29 14:30
+  - time: 2024-06-29 19:30
+  - time: 2024-06-30 14:30
+  - time: 2024-07-28 14:30
+  - time: 2024-08-04 14:30
 showtime-summary: 20-30 JUNE 2024
 venue: ""
 additional-ticket-info: |-
