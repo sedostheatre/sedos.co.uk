@@ -15,7 +15,14 @@ box-office-open: false
 sections:
   - order: 1
     title: CREATIVE TEAM
-    body: "**D﻿IRECTOR** |"
+    body: |-
+      **DIRECTOR and DESIGNER** | Robert J. Stanex (he/him)\
+      **MUSICAL DIRECTOIR** | Isaac Bartels (he/him)\
+      **MOVEMENT DIRECTOR** | Kimberly Barker (she/her)\
+      **COSTUMIER** | Deborah Lean (she/her)\
+      **PRODUCER** | Rebecca Chisholm (she/her)\
+      **ASSISTANT DIRECTOR** | Olivier Namet (he/him)\
+      **SCENIC CARPENTER** | Matthew Ferris (he/him)
 metaTitle: Sunday In The Park With George, by Stephen Sondheim and James Lapine,
   plays at the Wheatsheaf  Hall from 20-30 June 2024
 metaDescription: Sunday In The Park With George, by Stephen Sondheim and James
@@ -29,7 +36,11 @@ One of the most acclaimed musicals of our time, this moving study of the enigmat
 
 The days leading up to the completion of his most famous painting, A Sunday Afternoon on the Island of La Grande Jatte, Georges Seurat is struggling to make meaningful art and maintaining a relationship with his lover Dot. Amid the scorn of the artistic community, Seurat's artistic ability thrives while his love diminishes. A century later, Seurat's descendant - named George and also an artist - finds himself burnt out and in search of what artistic path to follow, but he finds the answer to his future in the past.
 
+**WHEATSHEAF HALL** | 20-30 June 2024\
+**THORINGTON THEATRE |** 28 July and 4 August 2024
+
 Originally Directed on Broadway by James Lapine
+
 Originally Produced on Broadway by The Shubert Organization and Emanuel Azenberg
 
 By arrangement with Playwrights Horizon, Inc. New York City which produced the original production of Sunday in The Park With George in 1983.
