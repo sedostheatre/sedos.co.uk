@@ -31,8 +31,6 @@ metaDescription: Rosencrantz & Guildenstern Are Dead, by Tom Stoppard, is a
   It is part of Sedos’ 2024 season and plays at the Bridewell Theatre from 24-28
   September 2024
 ---
-
-
 **Tom Stoppard at his most mischievous and playful, *Rosencrantz & Guildenstern Are Dead* is a ridiculously inventive retelling of Hamlet as told from the worm's-eye view.** 
 
 The bewildered Rosencrantz and Guildenstern, two of the minor characters in Shakespeare's play, stumble their way in and out of the action of Shakespeare’s iconic drama, increasingly finding themselves out of their depth as their version of the story unfolds.
@@ -41,10 +39,10 @@ In Tom Stoppard's best-known work, this Shakespearean Laurel and Hardy finally g
 
 The National Theatre production in April 1967 made Tom Stoppard’s reputation virtually overnight. Its wit, stagecraft and verbal verve remain as exhilarating as they were then and the play has become a contemporary classic. 
 
->“A stimulating, funny, imaginative comedy.”
+>A stimulating, funny, imaginative comedy.
 ><footer><cite>The New York Daily News</cite></footer>
 
->“Very funny, very brilliant, very chilling; it has the dust of thought about it and the particles glitter excitingly in the theatrical air.”
+>Very funny, very brilliant, very chilling; it has the dust of thought about it and the particles glitter excitingly in the theatrical air.
 ><footer><cite>The New York Times</cite></footer>
 
 *Rosencrantz & Guildenstern Are Dead* is presented by arrangement with Concord Theatricals Ltd. on behalf of Tams-Witmark LLC.
