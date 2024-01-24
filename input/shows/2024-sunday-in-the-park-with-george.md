@@ -62,7 +62,7 @@ The days leading up to the completion of his most famous painting, A Sunday Afte
 \
 More information coming soon.
 
-**WHEATSHEAF HALL** | 20-30 June 2024\
+**[WHEATSHEAF HALL](https://www.sedos.co.uk/venues/wheatsheaf-hall)** | 20-30 June 2024\
 **THORINGTON THEATRE |** 28 July and 4 August 2024
 
 Originally Directed on Broadway by James Lapine
