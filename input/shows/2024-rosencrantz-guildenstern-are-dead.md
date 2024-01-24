@@ -12,6 +12,7 @@ showtimes:
   - time: 2024-09-28 14:30
   - time: 2024-09-28 19:30
 showtime-summary: 24-28 SEPTERMBER 2024
+venue: Bridewell Theatre
 primary-color: "#cab343"
 header-image: /assets/rozencrantz-header-holder.jpg
 header-image-contain: false
