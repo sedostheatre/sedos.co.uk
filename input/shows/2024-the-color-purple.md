@@ -56,9 +56,9 @@ The story weaves an intricate mosaic of women joined by their love for each othe
 
 Exact audition dates are still to be confirmed, but [you can register your interest in auditioning or in backstage roles via this form](https://forms.gle/Xs8xDapxMhkE9gyy7). 
 
-We will be hosting free pre-audition workshops for The Color Purple on 18 May (North London) and 25 May (South London), more details on how to sign up for the workshops will be announced soon.
+We will be hosting free pre-audition workshops for *The Color Purple* on 18 May (North London) and 25 May (South London), more details on how to sign up for the workshops will be announced soon.
 
-The Color Purple plays at the [Bridewell Theatre](https://sedos.co.uk/venues/bridewell) from 20-30 November 2024.
+*The Color Purple* plays at the [Bridewell Theatre](https://sedos.co.uk/venues/bridewell) from 20-30 November 2024.
 
 Based upon the novel written by Alice Walker and the Warner Bros./Amblin Entertainment motion picture. \
 Book by Marsha Norman.\
@@ -66,4 +66,4 @@ Music and Lyrics by Brenda Russell, Allee Willis and Stephen Bray.
 
 *The Color Purple* was produced on Broadway at the Broadway Theater by Oprah Winfrey, Scott Sanders, Roy Furman, and Quincy Jones. The world premiere of *The Color Purple* was produced by the Alliance Theatre, Atlanta, Georgia.
 
-The Color Purple is presented through special arrangement with and all authorised performance materials are supplied by Theatrical Rights Worldwide (TRW), www.theatricalrights.co.uk
+*The Color Purple* is presented through special arrangement with and all authorised performance materials are supplied by Theatrical Rights Worldwide (TRW), www.theatricalrights.co.uk
