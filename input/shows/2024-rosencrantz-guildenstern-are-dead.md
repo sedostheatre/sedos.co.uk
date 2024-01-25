@@ -16,7 +16,7 @@ venue: Bridewell Theatre
 primary-color: "#cab343"
 header-image: /assets/rozencrantz-header-holder.jpg
 header-image-contain: false
-flyer: /assets/rosencrantz-poster-holder.jpg
+flyer: /assets/rosencrantz-poster-holder-v2.jpg
 box-office-open: false
 sections:
   - order: 1
