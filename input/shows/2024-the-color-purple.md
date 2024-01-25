@@ -66,4 +66,4 @@ Music and Lyrics by Brenda Russell, Allee Willis and Stephen Bray.
 
 *The Color Purple* was produced on Broadway at the Broadway Theater by Oprah Winfrey, Scott Sanders, Roy Furman, and Quincy Jones. The world premiere of *The Color Purple* was produced by the Alliance Theatre, Atlanta, Georgia.
 
-The Color Purple is presented through special arrangement with and all authorised performance materials are supplied by Theatrical Rights Worldwide (TRW), www.theatricalrights.co.uk
+*The Color Purple* is presented through special arrangement with and all authorised performance materials are supplied by Theatrical Rights Worldwide (TRW), www.theatricalrights.co.uk
