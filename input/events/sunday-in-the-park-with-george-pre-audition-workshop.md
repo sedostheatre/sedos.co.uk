@@ -19,6 +19,10 @@ The workshop is an opportunity to meet the team and learn more about the show, a
 
 You don’t need to prepare anything for the workshop and it is free to attend. Attendance is not compulsory and will not affect your chances of being cast.
 
+**REGISTER FOR THE WORKSHOP**
+
+[Sign up to attend the workshop here.](https://membership.sedos.co.uk/signup/121)
+
 **ABOUT THE SHOW**
 
 Inspired by the painting A Sunday Afternoon on the Island of La Grande Jatte by Georges Seurat, Stephen Sondheim and James Lapine's stunning masterpiece *Sunday In The Park With George* merges past and present into beautiful, poignant truths about life, love and the creation of art. One of the most acclaimed musicals of our time, this moving study of the enigmatic painter Georges Seurat won a Pulitzer Prize and was nominated for an astounding 10 Tony Awards including Best Musical.
