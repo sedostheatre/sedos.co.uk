@@ -1,5 +1,7 @@
 ---
 title: "Sunday In The Park With George pre-audition workshop "
+times:
+  - time: 2024-02-07 19:30
 image: /assets/screenshot-2024-01-24-at-18.45.29.png
 imageAlt: "Sunday In The Park With George pre-audition workshop "
 venue: Wheatsheaf Hall
