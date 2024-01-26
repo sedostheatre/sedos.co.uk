@@ -60,7 +60,7 @@ The days leading up to the completion of his most famous painting, A Sunday Afte
 **AUDITIONS** | 4-9 March 2024\
 **RECALLS** | 16 March 2024\
 \
-More information coming soon.
+[Register for the workshop here](https://membership.sedos.co.uk/signup/121). More information on auditions coming soon.
 
 **[WHEATSHEAF HALL](https://www.sedos.co.uk/venues/wheatsheaf-hall)** | 20-30 June 2024\
 **THORINGTON THEATRE |** 28 July and 4 August 2024
