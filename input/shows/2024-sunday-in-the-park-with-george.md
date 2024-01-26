@@ -6,11 +6,12 @@ authors2: Book by JAMES LAPINE
 subtitle: Inspired by George Seurat’s famous painting, this poetic masterpiece
   explores the challenges in understanding life and art
 showtimes:
-  - time: 2024-06-20 19:30
-showtime-summary: 20-30 JUNE, 28 JULY and 4 AUGUST 2024
+  - time: 2024-07-28 14:30
+  - time: 2024-08-04 14:30
+showtime-summary: 20-30 JUNE (TBC), 28 JULY and 4 AUGUST 2024
 venue: ""
 additional-ticket-info: |-
-  WHEATSHEAF HALL | 20-30 June 2024
+  WHEATSHEAF HALL | 20-30 June 2024 (exact dates and times TBC)
   THORINGTON THEATRE | 28 July and 4 August 2024
 primary-color: "#727f54"
 header-image: /assets/sunday-teaser-header.jpg
@@ -49,7 +50,7 @@ The days leading up to the completion of his most famous painting, A Sunday Afte
 \
 [Register for the workshop here](https://membership.sedos.co.uk/signup/121). More information on auditions coming soon.
 
-**[WHEATSHEAF HALL](https://www.sedos.co.uk/venues/wheatsheaf-hall)** | 20-30 June 2024\
+**[WHEATSHEAF HALL](https://www.sedos.co.uk/venues/wheatsheaf-hall)** | 20-30 June 2024 (exact dates and times TBC)\
 **[THORINGTON THEATRE](https://www.thoringtontheatre.co.uk/) |** 28 July and 4 August 2024
 
 Originally Directed on Broadway by James Lapine
