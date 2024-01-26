@@ -50,7 +50,7 @@ metaDescription: Sunday In The Park With George, by Stephen Sondheim and James
   of Sedos’ 2024 season and plays at the Wheatsheaf Hall from 20-30 June 2024
   and Thorrington Theatre on 28 July and 4 August 2024
 ---
-**Inspired by the painting A Sunday Afternoon on the Island of La Grande Jatte by Georges Seurat, *Sunday In The Park With George*, Stephen Sondheim and James Lapine's stunning masterpiece merges past and present into beautiful, poignant truths about life, love and the creation of art.** 
+**Inspired by the painting A Sunday Afternoon on the Island of La Grande Jatte by Georges Seurat, Stephen Sondheim and James Lapine’s stunning masterpiece *Sunday In The Park With George* merges past and present into beautiful, poignant truths about life, love and the creation of art.** 
 
 One of the most acclaimed musicals of our time, this moving study of the enigmatic painter Georges Seurat won a Pulitzer Prize and was nominated for an astounding 10 Tony Awards including Best Musical.
 
