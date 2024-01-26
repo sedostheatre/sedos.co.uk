@@ -15,7 +15,7 @@ additional-ticket-info: |-
 primary-color: "#727f54"
 header-image: /assets/sunday-teaser-header.jpg
 header-image-contain: false
-flyer: /assets/sunday-poster-holder.jpg
+flyer: /assets/sunday-poster-holder-v2.jpg
 box-office-open: false
 sections:
   - order: 1
@@ -50,7 +50,7 @@ The days leading up to the completion of his most famous painting, A Sunday Afte
 [Register for the workshop here](https://membership.sedos.co.uk/signup/121). More information on auditions coming soon.
 
 **[WHEATSHEAF HALL](https://www.sedos.co.uk/venues/wheatsheaf-hall)** | 20-30 June 2024\
-**THORINGTON THEATRE |** 28 July and 4 August 2024
+**[THORINGTON THEATRE](https://www.thoringtontheatre.co.uk/) |** 28 July and 4 August 2024
 
 Originally Directed on Broadway by James Lapine
 
