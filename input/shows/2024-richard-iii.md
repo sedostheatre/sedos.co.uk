@@ -26,7 +26,7 @@ header-image: /assets/unnamed-richard.jpg
 header-image-contain: false
 flyer: /assets/richard-iii-poster-holder-v2-800.jpg
 box-office-open: true
-box-office-link: https://sedos.ticketsolve.com/ticketbooth/shows/1173652515/events/428647272
+box-office-link: https://sedos.ticketsolve.com/ticketbooth/shows/1173652515
 sections:
   - order: 1
     body: |-
