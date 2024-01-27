@@ -35,10 +35,10 @@ sections:
       **RICHARD** | Sam Sugarman (he/him)\
       **BUCKINGHAM** | Audrey Lindsay (she/her)\
       **ANNE** | Antonia Kasoulidou (she/her)\
-      **CATESBY** | Kay Zakharyan (they/them)\
+      **CATESBY** | Karina Zakharyan (they/them)\
       **CLARENCE** | Elliot Archer (he/him)\
       **DERBY** | Paul Caira\
-      **DUCHESS OF YORK** | Mary Helen Wright (she/her)\
+      **DUCHESS OF YORK** | Mary Wright (she/her)\
       **EDWARD** | Elizabeth Elstub (she/her)\
       **ELIZABETH** | Sarah Fowkes (she/her)\
       **HASTINGS** | Dave Wainwright (he/him)\
