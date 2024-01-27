@@ -23,9 +23,9 @@ Improv is a great way to build confidence and develop performance skills in a ve
 
 Come join the fun and participate. We are a collaborative group, so feel free to bring some games for the group to try or just enjoy what other people bring.
 
-Simprov takes place at Theatre Deli, Studio 8, 107 Leadenhall Street, EC3A 4AF. The cost is £5 per person to pay for the room rental (members and non-members alike). See you there! 
+Simprov takes place at Theatre Deli, Studio 8, 107 Leadenhall Street, EC3A 4AF. The cost is £7 per person (£5 for Sedos members) to pay for the room rental (members and non-members alike). See you there! 
 
-Secure your place by [booking online](https://sedos.ticketsolve.com/ticketbooth/products/regular?fbclid=IwAR0GMqj8gy0kRQ8TC1GWMESHzbp-e0YPhj2XMkUGL1xCXA7lmS-sFugh9Hw).
+Secure your place by [booking online](https://sedos.ticketsolve.com/ticketbooth/shows/1173652905).
 
 For more info, head to the [Simprov Facebook page.](https://www.facebook.com/groups/176792046058352/)
 
