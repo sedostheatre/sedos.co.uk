@@ -57,7 +57,7 @@ We also have pre-audition workshops where auditionees can meet the team, find ou
 
 **Our commitment to [diversity and inclusion](https://www.sedos.co.uk/about/diversity-and-inclusion)**
 
-Sedos is a founder member of [London Drama Societies](https://www.londondramasocieties.co.uk), which commits each member society to the following statement:
+Sedos is a founder member of London Drama Societies, which commits each member society to the following statement:
 
 “Collectively, we commit to take constant steps to be more inclusive and attract members and audiences reflecting London’s diversity.
 
