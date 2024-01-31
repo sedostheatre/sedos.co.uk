@@ -27,7 +27,7 @@ RedirectFrom:
 ><footer><cite><a target="_blank" href="https://www.londontheatrereviews.co.uk/post.cfm?p=18195">Titanic, 2023, London Theatre Reviews</a></cite></footer>
 
 >It was a pleasure to revisit this exquisite piece of theatre, reimagined for a smaller space. It’s a familiar musical (at least to me) of a familiar story, but its emotional impact remains undimmed.
-><footer><cite><a target="_blank" href="https://www.londontheatre1.com/reviews/titanic-the-musical-at-the-bridewell-theatre-review/">Titanic, 2023, London Theatre 1</a></cite></footer>
+><footer><cite><a target="_blank" href="https://www.londontheatre1.com/reviews/titanic-the-musical-at-the-bridewell-theatre-review/">Titanic, 2023, London Theatre 1 (****)</a></cite></footer>
 
 >Sedos have succeeded in taking the epic piece of history and transforming it into a moving and often personal piece of theatre whilst maintaining the impressive ensemble sound and feel to the show.
 ><footer><cite><a target="_blank" href="https://musicaltheatremusings.co.uk/titanic-sedos">Titanic, 2023, Musical Theatre Musings</a></cite></footer>
