@@ -77,7 +77,7 @@ This retelling of one of Shakespeare’s most popular history plays does away wi
 
 The green benches and corridors buzz with betrayal, deception and plots as our protagonist tries to clear the obstacles blocking his route to the ultimate prize – and then to cling desperately to his position.
 
-Combining a modern political setting with innovative technical elements and Shakespeare’s timeless prose, this fresh production will tell the old story of Richard III in a new way, connecting with those seeing the story for the first time and delighting abiding fans.
+Combining a modern political setting with innovative technical elements and Shakespeare’s timeless prose, this fresh production will tell the old story of Richard III in a new way, connecting with those seeing the show for the first time and delighting abiding fans.
 
 *Richard III* includes themes of death, murder and drug use
 
