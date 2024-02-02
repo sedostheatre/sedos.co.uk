@@ -39,10 +39,6 @@ The photo archive also includes a picture of Annie in a 1927 production of *The 
 ![Sedos archive: Ambrose Applejohn’s Adventure](/assets/john-freeman-cohen-in-ambrose-applejohn-s-adventure-1926-autocorrected-.jpg)
 ^^^ 
 
-^^^
-![Sedos archive: Ambrose Applejohn’s Adventure](/assets/john-freeman-anne-catherine-cohen-in-ambrose-applejohn-s-adventure-1926-autocorrected-.jpg)
-^^^ 
-
 ### *The Best People* (1928)
 
 ^^^
