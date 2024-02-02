@@ -1,15 +1,15 @@
 ---
-title: New photos from productions from 1908-1948 added to archive
+title: New photos from productions from 1926-1948 added to archive
 date: 2024-02-01
 image: /assets/john-freeman-anne-catherine-cohen-in-the-best-people-1928-autocorrected-.jpg
 imageAlt: "Sedos archive: The Best People"
 metaTitle: "Sedos archive: 10 new photos given to the society"
-metaDescription: 10 new photos of productions between 1908 and 1948 have been
+metaDescription: 10 new photos of productions between 1926 and 1948 have been
   given to the Sedos archive
 ---
 *1 February 2024*
 
-**Sedos was recently given copies of 10 photographs of productions which took place between 1908 and 1948.**
+**Sedos was recently given copies of photographs of productions which took place between 1926 and 1948.**
 
 William Molesworth kindly sent in the photos, which feature his grandparents, John Cohen and Annie Kelham.
 
@@ -21,15 +21,9 @@ William gave us the following information about the actors:
 
 "By this time he had been a member of the Stock Exchange for 63 years, but still visited every department each morning. As on stage, he believed success required collective effort: on one of his daily rounds a young man told him, ‘I have done a lot of business today’ to which he rejoined, ‘No, we have done it’. 
 
-"Anne, who was known as ‘Nan’, came from Welsh Baptist stock but was born in Los Angeles. A gifted singer-actress, she sang to the wounded during World War One to lift their spirits and appeared in Sedos’ 1908 production of *The Duchess of Dantzic*. Together with John, whom she had married in 1910, they appeared in *Ambrose Applejohn’s Adventure* (1926), *The Best People* (1928), *Road House* (1934) and *Arsenic and Old Lace* (1948)."
+"Anne, who was known as ‘Nan’, came from Welsh Baptist stock but was born in Los Angeles. A gifted singer-actress, she sang to the wounded during World War One to lift their spirits. Together with John, whom she had married in 1910, they appeared in *Ambrose Applejohn’s Adventure* (1926), *The Best People* (1928), *Road House* (1934) and *Arsenic and Old Lace* (1948)."
 
-The photo archive also includes a couple of shots of Annie’s sister Avice in a production of *Gipsy Love* in 1912. We don’t believe this was a Sedos show, cross-referencing to our [complete list of productions](https://www.sedos.co.uk/all-shows), but if anyone has any more infomation, please do get in touch on [admin@sedos.co.uk](mailto:admin@sedos.co.uk).
-
-### *The Duchess of Dantzic* (1908)
-
-^^^
-![](/assets/annie-catherine-nan-kelham-mrs.-john-cohen-in-duchess-of-danzig-1927-autocorrected-.jpg)
-^^^ 
+The photo archive also includes a picture of Annie in a 1927 production of *The Duchess of Danzig* and a couple of shots of Annie’s sister Avice in a production of *Gipsy Love* in 1912. We don’t believe these were Sedos shows, cross-referencing to our [complete list of productions ](https://www.sedos.co.uk/all-shows)(although Sedos did stage *The Duchess of Dantzic* in 1908), but if anyone has any more infomation, please do get in touch on [admin@sedos.co.uk](mailto:admin@sedos.co.uk).
 
 ### *Ambrose Applejohn’s Adventure* (1926)
 
@@ -65,6 +59,12 @@ The photo archive also includes a couple of shots of Annie’s sister Avice in a
 
 ^^^
 ![Sedos archive: Arsenic and Old Lace](/assets/annie-catherine-cohen-in-arsenic-old-lace-1948-.jpg)
+^^^ 
+
+### *The Duchess of Danzig* (1927, not believed to be a Sedos production)
+
+^^^
+![The Duchess of Danzig](/assets/annie-catherine-nan-kelham-mrs.-john-cohen-in-duchess-of-danzig-1927-autocorrected-.jpg)
 ^^^ 
 
 ### *Gipsy Love* (1912, not believed to be a Sedos production)
