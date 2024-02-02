@@ -3,9 +3,9 @@ title: New photos from productions from 1926-1948 added to archive
 date: 2024-02-01
 image: /assets/john-freeman-anne-catherine-cohen-in-the-best-people-1928-autocorrected-.jpg
 imageAlt: "Sedos archive: The Best People"
-metaTitle: "Sedos archive: 10 new photos given to the society"
-metaDescription: 10 new photos of productions between 1926 and 1948 have been
-  given to the Sedos archive
+metaTitle: "Sedos archive: new photos given to the society"
+metaDescription: New photos of productions between 1926 and 1948 have been given
+  to the Sedos archive
 ---
 *1 February 2024*
 
