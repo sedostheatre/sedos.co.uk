@@ -71,7 +71,7 @@ metaDescription: " Richard III, by William Shakespeare, is one of Shakespeare’
   most famous history plays. It is part of Sedos’ 2024 season and plays at the
   Bridewell Theatre from 9-18 May 2024"
 ---
-**Richard, Duke of Gloucester. Boris Johnson. Ambitious, manipulative, ruthless men, scheming to reach the height of power.**
+**Richard, Duke of Gloucester. An ambitious, manipulative, ruthless man, scheming to reach the height of power.**
 
 This retelling of one of Shakespeare’s most popular history plays does away with duels, grandly dressed nobles and pitched battles, taking us instead to the current seat of power in the United Kingdom: Westminster. 
 
