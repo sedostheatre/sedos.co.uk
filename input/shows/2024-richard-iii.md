@@ -24,7 +24,7 @@ additional-ticket-info: "Gala nights on Friday 10 and Friday 17 May: ticket
 primary-color: "#747474"
 header-image: /assets/richardimage.jpg
 header-image-contain: false
-flyer: /assets/richardflyerback.jpg
+flyer: /assets/richardflyerfront.jpg
 box-office-open: true
 box-office-link: https://sedos.ticketsolve.com/ticketbooth/shows/1173652515
 sections:
