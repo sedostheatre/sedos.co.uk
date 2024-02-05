@@ -22,7 +22,7 @@ ticket-prices: From £12.50
 additional-ticket-info: "Gala nights on Friday 10 and Friday 17 May: ticket
   price includes a free glass of fizz and programme"
 primary-color: "#747474"
-header-image: /assets/richardimagenoborder.jpg
+header-image: /assets/richardimage.jpg
 header-image-contain: false
 flyer: /assets/richard-iii-poster-holder-v2-800.jpg
 box-office-open: true
