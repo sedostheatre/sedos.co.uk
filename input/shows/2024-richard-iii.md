@@ -79,6 +79,6 @@ The green benches and corridors buzz with betrayal, deception and plots as our p
 
 Combining a modern political setting with innovative technical elements and Shakespeare’s timeless prose, this fresh production will tell the old story of Richard III in a new way, connecting with those seeing the show for the first time and delighting abiding fans.
 
-*Richard III* includes themes of death, murder and drug use
+*Richard III* includes themes of death, murder and drug use.
 
 *Richard III* plays at the [Bridewell Theatre](https://www.sedos.co.uk/venues/bridewell) from 9-18 May 2024.
