@@ -44,11 +44,10 @@ One of the most acclaimed musicals of our time, this moving study of the enigmat
 
 The days leading up to the completion of his most famous painting, A Sunday Afternoon on the Island of La Grande Jatte, Georges Seurat is struggling to make meaningful art and maintaining a relationship with his lover Dot. Amid the scorn of the artistic community, Seurat’s artistic ability thrives while his love diminishes. A century later, Seurat’s descendant - named George and also an artist – finds himself burnt out and in search of what artistic path to follow, but he finds the answer to his future in the past.
 
-**WORKSHOP** | 7 February 2024\
 **AUDITIONS** | 4-9 March 2024\
 **RECALLS** | 16 March 2024\
 \
-[Register for the workshop here](https://membership.sedos.co.uk/signup/121). More information on auditions coming soon.
+More information on auditions coming soon.
 
 **[WHEATSHEAF HALL](https://www.sedos.co.uk/venues/wheatsheaf-hall)** | 20-30 June 2024 (exact dates and times TBC)\
 **[THORINGTON THEATRE](https://www.thoringtontheatre.co.uk/)** | 28 July and 4 August 2024
