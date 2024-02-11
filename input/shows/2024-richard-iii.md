@@ -65,6 +65,9 @@ sections:
       **MARKETING** | Pippa Kyle (she/her)\
       **COMMITTEE LIAISONS** | Olly Levett (he/him) and Henry Whittaker (he/her)
     title: CAST AND CREATIVE TEAM
+  - order: 1
+    title: VIDEO
+    body: <div class="video-responsive"><?# YouTube 6RDWhx4YPJk /?></div>
 metaTitle: Richard III, by William Shakespeare, plays at the Bridewell Theatre
   from 9-18 May 2024
 metaDescription: " Richard III, by William Shakespeare, is one of Shakespeare’s
