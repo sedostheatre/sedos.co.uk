@@ -1,6 +1,8 @@
 ---
 title: Pitch us a September show
 date: 2024-02-14
+image: /assets/51973578458_24d2d26399_c.jpg
+imageAlt: Pitch September slot
 metaTitle: Pitch a September show for Sedos
 metaDescription: Sedos is inviting applications to fill a September slot at the
   Bridewell Theatre – find out more
