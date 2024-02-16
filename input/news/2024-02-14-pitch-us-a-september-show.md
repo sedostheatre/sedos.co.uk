@@ -9,7 +9,7 @@ metaDescription: Sedos is inviting applications to fill a September slot at the
 ---
 *16 February 2024*
 
-**We are now inviting applications to fill our September slot as part of our 2024 season. Successful pitches will take place at the Bridewell Theatre in September, where we are the resident theatre company.**
+**We are now inviting applications to fill our September slot as part of our 2024 season. Successful pitches will take place in September at the Bridewell Theatre, where we are the resident theatre company.**
 
 We’d love to receive pitches from anyone who wants to apply, no matter their background. As a society, we are committed to being [as inclusive as possible](https://www.sedos.co.uk/about/diversity-and-inclusion) and therefore are looking for a truly diverse range of people to come forward to be involved both on stage and off.
 
