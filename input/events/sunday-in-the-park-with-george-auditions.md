@@ -40,7 +40,7 @@ Inspired by the little-known life of Georges Seurat and his pioneering painting 
 
 of La Grande Jatte”, *Sunday In The Park With George* explores love, loss, and what it means to sacrifice ones self for art.
 
-OUR PRODUCTION
+**OUR PRODUCTION**
 
 Sunday can be, and has been staged in a variety of ways from the small and simple, to the large and lavish. Our production, whilst simple and stripped back in premise, we hope will bring something fresh and truly magical to the piece. We can’t say much more than that because that’s the play, and he wouldn’t want us to give it away... sorry - wrong Sondheim!
 
