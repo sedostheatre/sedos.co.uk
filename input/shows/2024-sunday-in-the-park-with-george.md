@@ -3,8 +3,8 @@ title: Sunday In The Park With George
 year: "2024"
 authors: Music and Lyrics by STEPHEN SONDHEIM
 authors2: Book by JAMES LAPINE
-subtitle: Inspired by George Seurat’s famous painting, this poetic masterpiece
-  explores the challenges in understanding life and art
+subtitle: Sondheim’s Pulitzer Prize-winning masterpiece comes to life this
+  summer at two charming new venues
 showtimes:
   - time: 2024-07-28 15:00
   - time: 2024-08-04 15:00
@@ -38,11 +38,16 @@ metaDescription: Sunday In The Park With George, by Stephen Sondheim and James
   of Sedos’ 2024 season and plays at the Wheatsheaf Hall from 20-30 June 2024
   and Thorrington Theatre on 28 July and 4 August 2024
 ---
-**Inspired by the painting A Sunday Afternoon on the Island of La Grande Jatte by Georges Seurat, Stephen Sondheim and James Lapine’s stunning masterpiece *Sunday In The Park With George* merges past and present into beautiful, poignant truths about life, love and the creation of art.** 
+**White. A blank page or canvas. The challenge: bring order to the whole.**\
+**Through design. Composition. Tension. Balance. Light. And harmony.**
 
-One of the most acclaimed musicals of our time, this moving study of the enigmatic painter Georges Seurat won a Pulitzer Prize and was nominated for an astounding 10 Tony Awards including Best Musical.
+In 1883 immersed in his studio, eccentric artist, George, attempts to capture the characters he sees around him through pointed spots of colour, much to the bemusement of local critics.
 
-The days leading up to the completion of his most famous painting, A Sunday Afternoon on the Island of La Grande Jatte, Georges Seurat is struggling to make meaningful art and maintaining a relationship with his lover Dot. Amid the scorn of the artistic community, Seurat’s artistic ability thrives while his love diminishes. A century later, Seurat’s descendant - named George and also an artist – finds himself burnt out and in search of what artistic path to follow, but he finds the answer to his future in the past.
+100 years later history repeats itself when his great-grandson, George, reveals his latest work, Chromoloume #7, to mixed reviews.
+
+Is his career finished? Or can his beloved muse, Dot, bring him to life as he did her?
+
+Inspired by the little-known life of Georges Seurat and his pioneering painting “A Sunday Afternoon on the Island of La Grande Jatte”, *Sunday In The Park With* George explores love, loss, and what it means to sacrifice ones self for art.
 
 **AUDITIONS** | 4-9 March 2024\
 **RECALLS** | 16 March 2024\
