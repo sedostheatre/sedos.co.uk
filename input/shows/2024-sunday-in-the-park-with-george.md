@@ -49,10 +49,9 @@ Is his career finished? Or can his beloved muse, Dot, bring him to life as he di
 
 Inspired by the little-known life of Georges Seurat and his pioneering painting “A Sunday Afternoon on the Island of La Grande Jatte”, *Sunday In The Park With* George explores love, loss, and what it means to sacrifice ones self for art.
 
-**AUDITIONS** | 4-9 March 2024\
-**RECALLS** | 16 March 2024\
-\
-More information on auditions coming soon.
+Find out more about [Sunday In The Park With George auditions](https://www.sedos.co.uk/events/sunday-in-the-park-with-george-auditions).
+
+**PERFORMANCES**
 
 **[WHEATSHEAF HALL](https://www.sedos.co.uk/venues/wheatsheaf-hall)** | 20-30 June 2024 (exact dates and times TBC)\
 **[THORINGTON THEATRE](https://www.thoringtontheatre.co.uk/)** | 28 July and 4 August 2024
