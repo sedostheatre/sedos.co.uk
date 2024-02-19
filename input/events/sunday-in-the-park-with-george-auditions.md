@@ -27,7 +27,7 @@ Registration is now open for *[Sunday In The Park With George](https://www.sedos
 
 **ABOUT THE SHOW**
 
-White. A blank page or canvas. The challenge: bring order to the whole.
+White. A blank page or canvas. The challenge: bring order to the whole.\
 Through design. Composition. Tension. Balance. Light. And harmony.
 
 In 1883 immersed in his studio, eccentric artist, George, attempts to capture the characters he sees around him through pointed spots of colour, much to the bemusement of local critics.
