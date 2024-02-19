@@ -36,9 +36,7 @@ In 1883 immersed in his studio, eccentric artist, George, attempts to capture th
 
 Is his career finished? Or can his beloved muse, Dot, bring him to life as he did her?
 
-Inspired by the little-known life of Georges Seurat and his pioneering painting “A Sunday Afternoon on the Island
-
-of La Grande Jatte”, *Sunday In The Park With George* explores love, loss, and what it means to sacrifice ones self for art.
+Inspired by the little-known life of Georges Seurat and his pioneering painting “A Sunday Afternoon on the Island of La Grande Jatte”, *Sunday In The Park With George* explores love, loss, and what it means to sacrifice ones self for art.
 
 **OUR PRODUCTION**
 
