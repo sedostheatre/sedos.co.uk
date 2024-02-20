@@ -63,7 +63,7 @@ sections:
       **CREATIVE TECHNICAL DIRECTOR** | Adrian Jeakins (he/him)\
       **LIGHTING DESIGNER** | Will Lake (he/him)\
       **MARKETING** | Pippa Kyle (she/her)\
-      **COMMITTEE LIAISONS** | Olly Levett (he/him) and Henry Whittaker (he/her)
+      **COMMITTEE LIAISONS** | Olly Levett (he/him) and Henry Whittaker (he/him)
     title: CAST AND CREATIVE TEAM
   - order: 1
     title: VIDEO
