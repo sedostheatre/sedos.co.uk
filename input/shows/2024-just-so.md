@@ -74,6 +74,9 @@ sections:
 
       **PRODUCER** | Jon Haines
     title: CAST AND CREATIVE TEAM
+  - order: 2
+    title: VIDEO
+    body: <div class="video-responsive"><?# YouTube vCR2J6UK44Q /?></div>
 metaTitle: Just So plays at the Bridewell Theatre from 5-9 March 2024
 metaDescription: Just So, an upbeat musical based on Rudyard Kipling’s stories
   of the same name, is part of Sedos’ 2024 season and plays at the Bridewell
