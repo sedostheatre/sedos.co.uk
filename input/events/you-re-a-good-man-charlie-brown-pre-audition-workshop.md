@@ -18,11 +18,13 @@ The creative team or our July musical *[You’re A Good Man, Charlie Brown](http
 **When:** Tuesday 12 March, 7pm\
 **Where:** Theatre Deli, Leadenhall Studios, 107 Leadenhall Street, London, EC3A 4AF
 
-The workshop offers an opportunity to ask any questions you may have about the show’s characters, music and dance content.
+The workshop offers an opportunity to ask any questions you may have about the show’s characters, music and dance content. It will be an easy, no-pressure evening where you'll have lots of fun learning some of the songs and choreography from the show before our auditions. 
+
+The workshop is open to all and it is free to take part. You do not have to attend the workshop in order to audition and whether you attend will not affect whether you are cast. 
 
 Audition dates will be announced soon.
 
-Book your place at the workshop.
+**[Book your place at the workshop.](https://membership.sedos.co.uk/signup/124)**
 
 **ABOUT THE SHOW**
 
