@@ -1,6 +1,5 @@
 ---
-title: You’re A Good Man, Charlie Brown auditionsYou’re A Good Man, Charlie
-  Brown auditions
+title: You’re A Good Man, Charlie Brown auditions
 times:
   - time: 2024-04-01 19:00
   - time: 2024-04-03 19:00
