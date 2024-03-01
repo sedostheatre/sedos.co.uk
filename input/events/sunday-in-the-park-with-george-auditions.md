@@ -1,23 +1,19 @@
 ---
-title: Sunday In The Park With George auditions
+title: Sunday in the Park with George auditions
 times:
   - time: 2024-03-04 18:30
   - time: 2024-03-07 18:30
   - time: 2024-03-08 18:30
   - time: 2024-03-09 10:30
 image: /assets/sunday.jpeg
-imageAlt: Sunday In The Park With George auditions
+imageAlt: Sunday in the Park with George auditions
 venue: Theatre Deli
 recurrence: 4, 7, 8 and 9 March 2024
-metaTitle: Sunday In The Park With George auditions for Sedos’ 2024 production
-metaDescription: Registration is open for Sunday In The Park With George
+metaTitle: Sunday in the Park with George auditions for Sedos’ 2024 production
+metaDescription: Registration is open for Sunday in the Park with George
   auditions for Sedos’ 2024 production – find out how to sign up here
 ---
-Registration is now open for *[Sunday In The Park With George](https://www.sedos.co.uk/shows/2024-sunday-in-the-park-with-george)* auditions. The show, with music and lyrics by Stephen Sondheim and book by James Lapine, will play 20-30 June at [Wheatsheaf Hall](https://www.sedos.co.uk/venues/wheatsheaf-hall) near Vauxhall and 28 July and 4 August at [Thoringon Theatre](https://www.thoringtontheatre.co.uk), Suffolk. 
-
-**UPDATE**
-
-*Sunday In The Park With George* auditions are now fully booked. Email [sunday@sedos.co.uk](mailto:sunday@sedos.co.uk) to join the waiting list in case of cancellations. 
+Registration is now open for *[Sunday in the Park with George](https://www.sedos.co.uk/shows/2024-sunday-in-the-park-with-george)* auditions. The show, with music and lyrics by Stephen Sondheim and book by James Lapine, will play 20-30 June at [Wheatsheaf Hall](https://www.sedos.co.uk/venues/wheatsheaf-hall) near Vauxhall and 28 July and 4 August at [Thoringon Theatre](https://www.thoringtontheatre.co.uk), Suffolk. 
 
 **KEY INFO**
 
@@ -40,7 +36,7 @@ In 1883 immersed in his studio, eccentric artist, George, attempts to capture th
 
 Is his career finished? Or can his beloved muse, Dot, bring him to life as he did her?
 
-Inspired by the little-known life of Georges Seurat and his pioneering painting “A Sunday Afternoon on the Island of La Grande Jatte”, *Sunday In The Park With George* explores love, loss, and what it means to sacrifice ones self for art.
+Inspired by the little-known life of Georges Seurat and his pioneering painting “A Sunday Afternoon on the Island of La Grande Jatte”, *Sunday in the Park with George* explores love, loss, and what it means to sacrifice ones self for art.
 
 **OUR PRODUCTION**
 
@@ -71,5 +67,5 @@ Where an age range is listed in the character breakdown we will aim to cast age 
 Info about all Sedos’ [London auditions](https://www.sedos.co.uk/get-involved).
 
 ^^^
-![Sunday In The Park With George auditions](/assets/sunday.jpeg)
+![Sunday in the Park with George auditions](/assets/sunday.jpeg)
 ^^^
