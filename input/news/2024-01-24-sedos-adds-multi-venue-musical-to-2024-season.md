@@ -2,15 +2,15 @@
 title: Sedos adds multi-venue musical to 2024 season
 date: 2024-01-24
 image: /assets/screenshot-2024-01-24-at-18.45.29.png
-imageAlt: "Sedos 2024 season: Sunday In The Park With George"
-metaTitle: "A new show has been added to the Sedos 2024 season: Sunday In The
-  Park With George"
+imageAlt: "Sedos 2024 season: Sunday in the Park with George"
+metaTitle: "A new show has been added to the Sedos 2024 season: Sunday in the
+  Park with George"
 metaDescription: The Sedos 2024 season has been bolstered with the addition of a
   multi-venue Sondheim musical, including two outdoor performances
 ---
 *24 January 2024*
 
-**An extra show has been added to the 2024 Sedos season – Stephen Sondheim and James Lapine’s masterpiece *[Sunday In The Park With George](https://www.sedos.co.uk/shows/2024-sunday-in-the-park-with-george)* will have a 10-day run at [Wheatsheaf Hall](https://www.sedos.co.uk/venues/wheatsheaf-hall) in Vauxhall (20-30 June) and two outdoor performances at [Thorington Theatre](https://www.thoringtontheatre.co.uk) in Suffolk (28 July and 4 August).** 
+**An extra show has been added to the 2024 Sedos season – Stephen Sondheim and James Lapine’s masterpiece *[Sunday in the Park with George](https://www.sedos.co.uk/shows/2024-sunday-in-the-park-with-george)* will have a 10-day run at [Wheatsheaf Hall](https://www.sedos.co.uk/venues/wheatsheaf-hall) in Vauxhall (20-30 June) and two outdoor performances at [Thorington Theatre](https://www.thoringtontheatre.co.uk) in Suffolk (28 July and 4 August).** 
 
 The Sunday team is headed up by experienced director and designer Robert J. Stanex and producer Rebecca Chisholm with support from Isaac Bartels (musical director), Kimberly Barker (musical director), Deborah Lean (costumier), Olivier Namet (assistant director) and Matthew Ferris (scenic carpenter). 
 
