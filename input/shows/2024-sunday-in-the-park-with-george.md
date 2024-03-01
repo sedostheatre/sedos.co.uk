@@ -1,5 +1,5 @@
 ---
-title: Sunday In The Park With George
+title: Sunday in the Park with George
 year: "2024"
 authors: Music and Lyrics by STEPHEN SONDHEIM
 authors2: Book by JAMES LAPINE
@@ -29,10 +29,10 @@ sections:
       **PRODUCER** | Rebecca Chisholm (she/her)\
       **ASSISTANT DIRECTOR** | Olivier Namet (he/him)\
       **SCENIC CARPENTER** | Matthew Ferris (he/him)
-metaTitle: Sunday In The Park With George, by Stephen Sondheim and James Lapine,
+metaTitle: Sunday in the Park with George, by Stephen Sondheim and James Lapine,
   plays at the Wheatsheaf  Hall from 20-30 June 2024 and Thorrington Theatre on
   28 July and 4 August 2024
-metaDescription: Sunday In The Park With George, by Stephen Sondheim and James
+metaDescription: Sunday in the Park with George, by Stephen Sondheim and James
   Lapine, is inspired by George Seurat's famous painting. This poetic musical
   masterpiece explores the challenges in understanding life and art. It is part
   of Sedos’ 2024 season and plays at the Wheatsheaf Hall from 20-30 June 2024
@@ -49,7 +49,7 @@ Is his career finished? Or can his beloved muse, Dot, bring him to life as he di
 
 Inspired by the little-known life of Georges Seurat and his pioneering painting “A Sunday Afternoon on the Island of La Grande Jatte”, *Sunday In The Park With* George explores love, loss, and what it means to sacrifice ones self for art.
 
-Find out more about [Sunday In The Park With George auditions](https://www.sedos.co.uk/events/sunday-in-the-park-with-george-auditions).
+Find out more about [Sunday in the Park with George auditions](https://www.sedos.co.uk/events/sunday-in-the-park-with-george-auditions).
 
 **PERFORMANCES**
 
@@ -62,4 +62,4 @@ Originally Produced on Broadway by The Shubert Organization and Emanuel Azenberg
 
 By arrangement with Playwrights Horizon, Inc. New York City which produced the original production of Sunday in The Park With George in 1983.
 
-This amateur production of *Sunday In The Park With George* is presented by arrangement with Music Theatre International. All authorised performance materials are also supplied by MTI www.MTIShows.co.uk
+This amateur production of *Sunday in the Park with George* is presented by arrangement with Music Theatre International. All authorised performance materials are also supplied by MTI www.MTIShows.co.uk
