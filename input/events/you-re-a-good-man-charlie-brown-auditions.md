@@ -51,7 +51,7 @@ This is a small cast ensemble show, and all performers will have plenty to do - 
 
 **BOOK AN AUDITION**
 
-Visit [membership.sedos.co.uk/signup/ ](https://membership.sedos.co.uk/signup/)to book
+Visit [membership.sedos.co.uk/signup/ ](https://membership.sedos.co.uk/signup/123)to book
 
 **MORE AUDITIONS**\
 \
