@@ -1,16 +1,16 @@
 ---
-title: "Sunday In The Park With George pre-audition workshop "
+title: "Sunday in the Park with George pre-audition workshop "
 times:
   - time: 2024-02-07 19:30
 image: /assets/screenshot-2024-01-24-at-18.45.29.png
-imageAlt: "Sunday In The Park With George pre-audition workshop "
+imageAlt: "Sunday in the Park with George pre-audition workshop "
 venue: Wheatsheaf Hall
 recurrence: 7 February 2024
-metaTitle: "Sunday In The Park With George pre-audition workshop "
-metaDescription: "Registration is open for the Sunday In The Park With George
+metaTitle: "Sunday in the Park with George pre-audition workshop "
+metaDescription: "Registration is open for the Sunday in the Park with George
   pre-audition workshop. The show plays 20-30 June and 28 July and 4 August. "
 ---
-Registration is open for the *[Sunday In The Park With George](https://www.sedos.co.uk/shows/2024-sunday-in-the-park-with-george)* pre-audition workshop.
+Registration is open for the *[Sunday in the Park with George](https://www.sedos.co.uk/shows/2024-sunday-in-the-park-with-george)* pre-audition workshop.
 
 **WHEN:** 7.30-9pm, 7 February\
 **WHERE:** [Wheatsheaf Hall](https://www.sedos.co.uk/venues/wheatsheaf-hall), Wheatsheaf Lane, London SW8 2UP
@@ -25,7 +25,7 @@ You don’t need to prepare anything for the workshop and it is free to attend. 
 
 **ABOUT THE SHOW**
 
-Inspired by the painting A Sunday Afternoon on the Island of La Grande Jatte by Georges Seurat, Stephen Sondheim and James Lapine's stunning masterpiece *Sunday In The Park With George* merges past and present into beautiful, poignant truths about life, love and the creation of art. One of the most acclaimed musicals of our time, this moving study of the enigmatic painter Georges Seurat won a Pulitzer Prize and was nominated for an astounding 10 Tony Awards including Best Musical.
+Inspired by the painting A Sunday Afternoon on the Island of La Grande Jatte by Georges Seurat, Stephen Sondheim and James Lapine's stunning masterpiece *Sunday in the Park with George* merges past and present into beautiful, poignant truths about life, love and the creation of art. One of the most acclaimed musicals of our time, this moving study of the enigmatic painter Georges Seurat won a Pulitzer Prize and was nominated for an astounding 10 Tony Awards including Best Musical.
 
 **MORE INFO ABOUT OUR AUDITIONS**
 
