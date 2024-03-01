@@ -15,6 +15,10 @@ metaDescription: Registration is open for Sunday In The Park With George
 ---
 Registration is now open for *[Sunday In The Park With George](https://www.sedos.co.uk/shows/2024-sunday-in-the-park-with-george)* auditions. The show, with music and lyrics by Stephen Sondheim and book by James Lapine, will play 20-30 June at [Wheatsheaf Hall](https://www.sedos.co.uk/venues/wheatsheaf-hall) near Vauxhall and 28 July and 4 August at [Thoringon Theatre](https://www.thoringtontheatre.co.uk), Suffolk. 
 
+**UPDATE**
+
+*Sunday In The Park With George* auditions are now fully booked. Email [sunday@sedos.co.uk](mailto:sunday@sedos.co.uk) to join the waiting list in case of cancellations. 
+
 **KEY INFO**
 
 **Auditions:** 4, 7, 8 and 9 March ([Theatre Deli](https://www.sedos.co.uk/venues/theatre-deli))
