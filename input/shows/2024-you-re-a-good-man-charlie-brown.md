@@ -45,7 +45,7 @@ Based on the beloved Charles Schulz comic strip, Charlie Brown and the entire Pe
 
 Charlie Brown, who has never been able to keep a kite in the air, wonders what it takes to be a ‘good man’ as he sees Schroeder’s passion for Beethoven, Lucy’s psychiatrist booth, Linus’ complex about his blanket, Sally’s new philosophy and Snoopy’s ace flying ability. With the help of his friends, Charlie comes to realise what makes them all truly happy.
 
-*[You’re A Good Man, Charlie Brown auditions](https://www.sedos.co.uk/events/you-re-a-good-man-charlie-brown-auditions)* are now open for registration.
+[*You’re A Good Man, Charlie Brown* auditions](https://www.sedos.co.uk/events/you-re-a-good-man-charlie-brown-auditions) are now open for registration.
 
 Based on the Comic Strip ‘Peanuts’ by Charles M. Schulz\
 Book, Music and Lyrics by Clark Gesner\
