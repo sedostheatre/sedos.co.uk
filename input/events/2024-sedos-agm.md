@@ -22,3 +22,7 @@ The AGM is a chance for members to:
 * socialise with other members.
 
 More information, including how to stand for the Board of Trustees and Management Committee, coming soon.
+
+^^^
+![2024 Sedos AGM](/assets/agmsquare.jpg)
+^^^
