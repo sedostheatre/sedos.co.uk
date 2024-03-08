@@ -17,9 +17,9 @@ Whether you want to get stuck into a full-on game or pull the odd giant Jenga br
 
 Come with friends or come alone and bond over a dice, a jigsaw piece or a beer. 
 
-**When:** Saturday 13 April, bar open from 6pm (card only) 
-**Where:** Wheatsheaf Hall, Wheatsheaf Lane, London SW8 2UP
-**Cost:** £10 
+**When:** Saturday 13 April, bar open from 6pm (card only) \
+**Where:** Wheatsheaf Hall, Wheatsheaf Lane, London SW8 2UP\
+**Cost:** £10 \
 **Tickets:** [buy here](https://sedos.ticketsolve.com/ticketbooth/shows/1173654193)
 
 ![Sedos social: games night](/assets/gameslandscapetitle.jpg)
