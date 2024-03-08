@@ -39,7 +39,7 @@ sections:
       **CLARENCE** | Elliot Archer (he/him)\
       **DERBY** | Paul Caira\
       **DUCHESS OF YORK** | Mary Wright (she/her)\
-      **EDWARD** | Elizabeth Elstub (she/her)\
+      **THE KING**| Elizabeth Elstub (she/her)\
       **ELIZABETH** | Sarah Fowkes (she/her)\
       **HASTINGS** | Dave Wainwright (he/him)\
       **RICHMOND** | Ingrid Miller\
