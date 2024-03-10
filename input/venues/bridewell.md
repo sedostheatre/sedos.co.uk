@@ -13,7 +13,7 @@ country: GB
 ---
 ## The Bridewell Theatre
 
-Most of our [London musicals](https://sedos.co.uk/whats-on) and [London plays](https://sedos.co.uk/whats-on) take place at the Bridewell Theatre, where we are the resident theatre company. Our next shows at the Bridewell are *[Just So](https://www.sedos.co.uk/shows/2024-just-so)* (5-9 March 2024) and *[Richard III](https://www.sedos.co.uk/shows/2024-richard-iii)* (9-18 May 2024).
+Most of our [London musicals](https://sedos.co.uk/whats-on) and [London plays](https://sedos.co.uk/whats-on) take place at the Bridewell Theatre, where we are the resident theatre company. Our next shows at the Bridewell are and *[Richard III](https://www.sedos.co.uk/shows/2024-richard-iii)* (9-18 May 2024) and *[You’re A Good Man, Charlie Brown](https://www.sedos.co.uk/shows/2024-you-re-a-good-man-charlie-brown)* (9-13 July).
 
 * #### [Sedos shows: what’s on at the Bridewell Theatre?](https://sedos.co.uk/whats-on)
 * #### [Buy tickets to our shows at the Bridewell Theatre](https://sedos.ticketsolve.com/shows)
