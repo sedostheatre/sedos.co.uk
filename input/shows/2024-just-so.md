@@ -82,7 +82,13 @@ sections:
       <div class="video-responsive"><?# YouTube cM3pNiqgvnU /?></div>
   - order: 2
     title: GALLERY
-    body: https://flic.kr/s/aHBqjBhatF
+    body: <a data-flickr-embed="true"
+      href="https://www.flickr.com/photos/sedos/albums/72177720315381241"
+      title="Just So The Musical - 2024"><img
+      src="https://live.staticflickr.com/65535/53582206329_2849bbcdc2.jpg"
+      width="640" height="480" alt="Just So The Musical - 2024"/></a><script
+      async src="//embedr.flickr.com/assets/client-code.js"
+      charset="utf-8"></script>
 metaTitle: Just So plays at the Bridewell Theatre from 5-9 March 2024
 metaDescription: Just So, an upbeat musical based on Rudyard Kipling’s stories
   of the same name, is part of Sedos’ 2024 season and plays at the Bridewell
