@@ -20,8 +20,40 @@ flyer: /assets/sunday-poster-holder-v2.jpg
 box-office-open: false
 sections:
   - order: 1
-    title: CREATIVE TEAM
+    title: CAST & CREATIVE TEAM
     body: |-
+      **CAST**
+
+      **GEORGE** | Will de Renzy-Martin (he/him)\
+      **DOT/MARIE** | Sadie Kempner                  \
+      **OLD LADY** | Susan Booth (she/her)\
+      **NURSE** | Danielle Solomon (she/her)\
+      **CELESE #1** | Helen Parsons (she/her)\
+      **CELESTE #2** | Ruth Granton (she/her)\
+      **SOLDIER** | Connor Guffogg (he/him)\
+      **LOUIS** | Carl Reyes (he/him)\
+      **MR** | David Phipps-Davis (he/him)\
+      **MRS** | Jaime Finch                          \
+      **JULES** | Max Wilson                          \
+      **YVONNE** | Sara Rajeswaran                \
+      **LOUISE** | Olivia Spillane                     \
+      **FRANZ** | Cormac Gleeson (he/him)\
+      **FRIEDA** | Elysia Boyle                          \
+      **BOATMA** | Rob Levy (he/him)\
+      **DENNIS** | Lewis McKenzie                 \
+      **BOB GREENBERG** |  James Taverner (he/him)\
+      **NAOMI EISEN** | Katie Melton (she/her)\
+      **CHARLES REDMOND** | Jesse Pincombe  (he/him)\
+      **LEE RANDOLPH** | Julian Silverman                 \
+      **BLAIR DANIELS** | Jo Webber                           \
+      **ELAINE** | Mariana Alfaro (she/her)\
+      **HARRIET PAWLING** |  Leanne Sedin                      \
+      **BETTY** | Helena Busiakiewicz         \
+      **ALEX** |  Matt Morden (he/him)\
+      **BILLY WEBSTER** | James Warner (he/him)
+
+      **CREATIVE TEAM**
+
       **DIRECTOR and DESIGNER** | Robert J. Stanex (he/him)\
       **MUSICAL DIRECTOIR** | Isaac Bartels (he/him)\
       **MOVEMENT DIRECTOR** | Kimberly Barker (she/her)\
