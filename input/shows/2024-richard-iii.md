@@ -2,8 +2,7 @@
 title: Richard III
 year: "2024"
 authors: by WILLIAM SHAKESPEARE
-subtitle: A sharp, modern retelling of this Shakespearean drama. Concise.
-  Approachable. Innovative.
+subtitle: A sharp new retelling of this Shakespearean drama. Concise. Modern. Innovative.
 showtimes:
   - time: 2024-05-09 19:30
   - time: 2024-05-10 19:30
