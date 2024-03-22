@@ -28,7 +28,7 @@ sections:
       **DOT/MARIE** | Sadie Kempner                  \
       **OLD LADY** | Susan Booth (she/her)\
       **NURSE** | Danielle Solomon (she/her)\
-      **CELESE #1** | Helen Parsons (she/her)\
+      **CELESTE #1** | Helen Parsons (she/her)\
       **CELESTE #2** | Ruth Granton (she/her)\
       **SOLDIER** | Connor Guffogg (he/him)\
       **LOUIS** | Carl Reyes (he/him)\
@@ -39,7 +39,7 @@ sections:
       **LOUISE** | Olivia Spillane                     \
       **FRANZ** | Cormac Gleeson (he/him)\
       **FRIEDA** | Elysia Boyle                          \
-      **BOATMA** | Rob Levy (he/him)\
+      **BOATMAN** | Rob Levy (he/him)\
       **DENNIS** | Lewis McKenzie                 \
       **BOB GREENBERG** |  James Taverner (he/him)\
       **NAOMI EISEN** | Katie Melton (she/her)\
