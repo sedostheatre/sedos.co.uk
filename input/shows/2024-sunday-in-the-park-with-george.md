@@ -55,7 +55,7 @@ sections:
       **CREATIVE TEAM**
 
       **DIRECTOR and DESIGNER** | Robert J. Stanex (he/him)\
-      **MUSICAL DIRECTOIR** | Isaac Bartels (he/him)\
+      **MUSICAL DIRECTOR** | Isaac Bartels (he/him)\
       **MOVEMENT DIRECTOR** | Kimberly Barker (she/her)\
       **COSTUMIER** | Deborah Lean (she/her)\
       **PRODUCER** | Rebecca Chisholm (she/her)\
