@@ -72,6 +72,14 @@ sections:
       <div class="video-responsive"><?# YouTube VISEJ0pRqrs /?></div>
 
       <div class="video-responsive"><?# YouTube ouM0Sn0n6Ck /?></div>
+  - order: 2
+    title: GALLERY
+    body: <a data-flickr-embed="true"
+      href="https://www.flickr.com/photos/sedos/albums/72177720315726789"
+      title="Richard III - 2024"><img
+      src="https://live.staticflickr.com/65535/53614340453_dff29dd954_z.jpg"
+      width="640" height="480" alt="Richard III - 2024"/></a><script async
+      src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 metaTitle: Richard III, by William Shakespeare, plays at the Bridewell Theatre
   from 9-18 May 2024
 metaDescription: " Richard III, by William Shakespeare, is one of Shakespeare’s
