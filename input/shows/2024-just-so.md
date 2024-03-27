@@ -89,6 +89,25 @@ sections:
       width="640" height="480" alt="Just So The Musical - 2024"/></a><script
       async src="//embedr.flickr.com/assets/client-code.js"
       charset="utf-8"></script>
+  - order: 4
+    title: REVIEWS
+    body: >-
+      >I don’t speak any ancient languages, but in my mind, the word Sedos
+      doesn’t stand for the Stock Exchange Dramatic and Operatic Society but is,
+      in fact, the Greek word for ‘Really Delivers’ because that’s what they
+      have done once again. I really loved this production of Just So from start
+      to finish… Was there anything about the show I didn’t like, or thought
+      could be improved? Well, no. The show worked on every level and hearing
+      one of the few pieces of poetry I like “If” being put to music was really
+      the icing on the cake. Another superb production and a fabulous night out
+      brought to you by this most unamateur of Amdram companies.
+
+      ><footer><cite><a target="_blank" href="https://www.londontheatre1.com/reviews/just-so-at-the-bridewell-theatre-review/">Just So, 2024, London Theatre 1 (*****)</a></cite></footer>
+
+
+      >Overall Just So was another Sedos success, an incredibly strong cast combined with a well executed creative vision ensured that I left the theatre grinning from ear to ear.
+
+      ><footer><cite><a target="_blank" href="https://musicaltheatremusings.co.uk/just-so">Just So, 2024, Musical Theatre Musings</a></cite></footer>
 metaTitle: Just So plays at the Bridewell Theatre from 5-9 March 2024
 metaDescription: Just So, an upbeat musical based on Rudyard Kipling’s stories
   of the same name, is part of Sedos’ 2024 season and plays at the Bridewell
