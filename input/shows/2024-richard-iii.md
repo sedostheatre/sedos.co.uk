@@ -64,7 +64,7 @@ sections:
       **MARKETING** | Pippa Kyle (she/her)\
       **COMMITTEE LIAISONS** | Olly Levett (he/him) and Henry Whittaker (he/him)
     title: CAST AND CREATIVE TEAM
-  - order: 2
+  - order: 3
     title: VIDEO
     body: |-
       <div class="video-responsive"><?# YouTube 6RDWhx4YPJk /?></div>
