@@ -20,7 +20,7 @@ additional-ticket-info: |-
 primary-color: "#ff9046"
 header-image: /assets/charlie-brown-teaser-header.jpg
 header-image-contain: false
-flyer: /assets/charlie-brown-teaser-800.jpg
+flyer: /assets/charliebrown_flyerfrontbfinal.png
 box-office-open: false
 sections:
   - order: 1
