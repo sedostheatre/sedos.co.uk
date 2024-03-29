@@ -54,9 +54,9 @@ In 2024 the musical was made into a movie for the big screen where it has swept 
 
 The story weaves an intricate mosaic of women joined by their love for each other, the men who abuse them, and the children they care for.
 
-Exact audition dates are still to be confirmed, but [you can register your interest in auditioning or in backstage roles via this form](https://forms.gle/Xs8xDapxMhkE9gyy7). 
+[Find out about the free pre-audition workshops on 18 and 25 May.](https://www.sedos.co.uk/events/the-color-purple-pre-audition-workshops) 
 
-We will be hosting free pre-audition workshops for *The Color Purple* on 18 May (North London) and 25 May (South London), more details on how to sign up for the workshops will be announced soon.
+[You can register your interest in auditioning or in backstage roles via this form](https://forms.gle/Xs8xDapxMhkE9gyy7).
 
 *The Color Purple* plays at the [Bridewell Theatre](https://sedos.co.uk/venues/bridewell) from 20-30 November 2024.
 
