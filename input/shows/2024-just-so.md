@@ -105,6 +105,11 @@ sections:
       ><footer><cite><a target="_blank" href="https://www.londontheatre1.com/reviews/just-so-at-the-bridewell-theatre-review/">Just So, 2024, London Theatre 1 (*****)</a></cite></footer>
 
 
+      >I never fail to note the strong ensemble work of Sedos’ shows and this is no exception. There isn’t a single weak link in the cast… The production is also blessed with some simple but clever design work… Whilst some critics delight in subtracting stars for their personal reservations with ‘books’, I prefer to concentrate on the quality of, in this case, a highly inventive, charming and polished revival of an unusual British musical. 
+
+      ><footer><cite><a target="_blank" href="https://www.sardinesmagazine.co.uk/review/just-so/">Just So, 2024, Sardines (*****)</a></cite></footer>
+
+
       >Overall Just So was another Sedos success, an incredibly strong cast combined with a well executed creative vision ensured that I left the theatre grinning from ear to ear.
 
       ><footer><cite><a target="_blank" href="https://musicaltheatremusings.co.uk/just-so">Just So, 2024, Musical Theatre Musings</a></cite></footer>
