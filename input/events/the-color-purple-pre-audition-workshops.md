@@ -13,7 +13,7 @@ Save the dates for *[The Color Purple](https://www.sedos.co.uk/shows/2024-the-co
 
 **KEY INFO**
 
-**Pre-audition workshops:** 18 May, 2-4pm, Bernie Grant Arts Centre and 25 May, 2-4pm, Brixton House\
+**Pre-audition workshops:** 18 May, 2-4pm, [Bernie Grant Arts Centre](https://www.berniegrantcentre.co.uk) and 25 May, 2-4pm, [Brixton House](https://brixtonhouse.co.uk)\
 **Auditions:** 3, 7, 10 and 13 July\
 **Recalls:** 20 July \
 **Performances:** 20-30 November
