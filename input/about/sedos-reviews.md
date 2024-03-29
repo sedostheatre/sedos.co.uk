@@ -20,6 +20,9 @@ RedirectFrom:
 >I don’t speak any ancient languages, but in my mind, the word Sedos doesn’t stand for the Stock Exchange Dramatic and Operatic Society but is, in fact, the Greek word for ‘Really Delivers’ because that’s what they have done once again. I really loved this production of Just So from start to finish… Was there anything about the show I didn’t like, or thought could be improved? Well, no. The show worked on every level and hearing one of the few pieces of poetry I like “If” being put to music was really the icing on the cake. Another superb production and a fabulous night out brought to you by this most unamateur of Amdram companies.
 ><footer><cite><a target="_blank" href="https://www.londontheatre1.com/reviews/just-so-at-the-bridewell-theatre-review/">Just So, 2024, London Theatre 1 (*****)</a></cite></footer>
 
+>I never fail to note the strong ensemble work of Sedos’ shows and this is no exception. There isn’t a single weak link in the cast… The production is also blessed with some simple but clever design work… Whilst some critics delight in subtracting stars for their personal reservations with ‘books’, I prefer to concentrate on the quality of, in this case, a highly inventive, charming and polished revival of an unusual British musical. 
+><footer><cite><a target="_blank" href="https://www.sardinesmagazine.co.uk/review/just-so/">Just So, 2024, Sardines (*****)</a></cite></footer>
+
 >Overall Just So was another Sedos success, an incredibly strong cast combined with a well executed creative vision ensured that I left the theatre grinning from ear to ear.
 ><footer><cite><a target="_blank" href="https://musicaltheatremusings.co.uk/just-so">Just So, 2024, Musical Theatre Musings</a></cite></footer>
 
