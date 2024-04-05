@@ -67,11 +67,15 @@ sections:
   - order: 3
     title: VIDEO
     body: |-
-      <div class="video-responsive"><?# YouTube 6RDWhx4YPJk /?></div>
+      <div class="video-responsive"><?# YouTube g-ZhDzTowXA /?></div>
 
-      <div class="video-responsive"><?# YouTube VISEJ0pRqrs /?></div>
+      <div class="video-responsive"><?# YouTube DqTZQlq0AVI /?></div>
 
-      <div class="video-responsive"><?# YouTube ouM0Sn0n6Ck /?></div>
+      <div class="video-responsive"><?# YouTube VISEJ0pRqrs   /?></div>
+
+      <div class="video-responsive"><?# YouTube ouM0Sn0n6Ck  /?></div>
+
+      <div class="video-responsive"><?# YouTube 6RDWhx4YPJk  /?></div>
   - order: 2
     title: GALLERY
     body: <a data-flickr-embed="true"
