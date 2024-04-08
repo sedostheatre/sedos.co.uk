@@ -34,7 +34,8 @@ sections:
       Alan Maddrell\
       Paula Mount\
       Jordanna Tin\
-      Alexander Gordon Wood
+      Alexander Gordon Wood\
+      James McKendrick
 
       **TRAGEDIAN BAND**
 
