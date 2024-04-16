@@ -38,15 +38,15 @@ sections:
       **CLARENCE** | Elliot Archer (he/him)\
       **DERBY** | Paul Caira\
       **DUCHESS OF YORK** | Mary Wright (she/her)\
-      **THE KING** | Elizabeth Elstub (she/her)\
       **ELIZABETH** | Sarah Fowkes (she/her)\
       **HASTINGS** | Dave Wainwright (he/him)\
       **RICHMOND** | Ingrid Miller\
+      **RIVERS** | Carole Stewart (she/her)\
+      **THE KING** | Elizabeth Elstub (she/her)\
       \
       **ALL OTHER PARTS PLAYED BY:**
 
       Carl Reyes (he/him)\
-      Carole Stewart (she/her)\
       Charlie O'Reardon (he/him)\
       Em Oliver (they/them)\
       Isobel Lawson (she/her)\
