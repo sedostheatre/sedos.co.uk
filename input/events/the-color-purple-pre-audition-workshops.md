@@ -30,7 +30,9 @@ The musical was first performed in 2005 and was nominated for 11 Tony Awards in 
 
 The workshops are an opportunity to meet the team and learn more about *The Color Purple*. The team will talk about their vision for this production before working as a group to learn some of the singing and choreography from the show. This is also a very good opportunity to ask any questions you may have.
 
-You don’t need to prepare anything for the workshop and it is free to attend. Attendance is not compulsory and will not affect your chances of being cast. Make sure you wear or bring loose clothing that is appropriate for moving or dancing in. Please note: workshops are free, but sign-up is mandatory. Sign-up is not open yet. To be the first to hear about sign-ups for *The Color Purple* workshops, [register your interest here](https://docs.google.com/forms/d/e/1FAIpQLSercq4K4Zgq9G_Y6_i7qW6CXTJd3ahARNHke66Mv9ks7PLB4A/viewform).
+You don’t need to prepare anything for the workshop and it is free to attend. Attendance is not compulsory and will not affect your chances of being cast. Make sure you wear or bring loose clothing that is appropriate for moving or dancing in. Please note: workshops are free, but sign-up is mandatory. 
+
+[Sign up for a workshop here](https://membership.sedos.co.uk/signup/)
 
 **DIVERSITY AND INCLUSION IN CASTING**
 
