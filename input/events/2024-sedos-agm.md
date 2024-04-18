@@ -9,9 +9,10 @@ metaDescription: "2024 Sedos AGM: save the date for a chance to hear about the
   year and upcoming plans, as well as elect new Trustees and Management
   Committee members"
 ---
-**Save the date! The 2024 Sedos Annual General Meeting will take place on Thursday 23 May 2024.**
+**The 2024 Sedos Annual General Meeting will take place on Thursday 23 May 2024.**
 
-Venue, timings and more information will be released nearer the time, but please put the date in your diary.
+**When:** 7pm on Thursday 23 May\
+**Venue:** Passmore Edwards room at the St Bride’s Institute (above the Bridewell Theatre)
 
 The AGM is a chance for members to:
 
