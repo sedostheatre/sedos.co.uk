@@ -24,8 +24,21 @@ box-office-open: true
 box-office-link: https://sedos.ticketsolve.com/ticketbooth/shows/1173654639
 sections:
   - order: 1
-    title: CREATIVE TEAM
+    title: CAST AND CREATIVE TEAM
     body: |-
+      **CAST**
+
+      **CHARLIE BROWN** | Rob Kelly (he/him)\
+      **LUCY VAN PELT** | Natasha Jeffrey (she/her)\
+      **SALLY BROWN** | Claire Brewin (she/her)\
+      **LINUS VAN PELT** | Stephen McLoughlin (he/him)\
+      **SCHROEDER** | Dan Geller\
+      **SNOOPY** | David Gregory (he/him)\
+      **MARCIE** | Isla Brendon (she/her)\
+      **PEPPERMINT PATTY | Isobel Persaud (she/her)**
+
+      **CREATIVE TEAM**
+
       **DIRECTOR** | Mark Siddall (he/him)\
       **MUSICAL DIRECTOR** | Ed Steward (he/him)\
       **CHOREOGRAPHER** | Taylor Davidson (she/her)\
@@ -44,8 +57,6 @@ metaDescription: You're A Good Man, Charlie Brown is part of Sedos’ 2024 Londo
 Based on the beloved Charles Schulz comic strip, Charlie Brown and the entire Peanuts bunch explore life's great questions as they play baseball, struggle with homework, sing songs, swoon over their crushes, and celebrate the joy of friendship.
 
 Charlie Brown, who has never been able to keep a kite in the air, wonders what it takes to be a ‘good man’ as he sees Schroeder’s passion for Beethoven, Lucy’s psychiatrist booth, Linus’ complex about his blanket, Sally’s new philosophy and Snoopy’s ace flying ability. With the help of his friends, Charlie comes to realise what makes them all truly happy.
-
-[*You’re A Good Man, Charlie Brown* auditions](https://www.sedos.co.uk/events/you-re-a-good-man-charlie-brown-auditions) are now open for registration.
 
 Based on the Comic Strip ‘Peanuts’ by Charles M. Schulz\
 Book, Music and Lyrics by Clark Gesner\
