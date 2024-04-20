@@ -126,11 +126,9 @@ sections:
 
       **SOUND DESIGN** | Adam Coppard (he/him)\
 
-      **PROPS** | Pippa Kyle (she/her)\
+      **PROPS and MARKETING** | Pippa Kyle (she/her)\
 
-      **MARKETING** | Tess Robinson (she/her) and Pippa Kyle (she/her)\
-
-      **GRAPHIC DESIGN** | Tess Robinson (she/her)\
+      **SOCIAL MEDIA and GRAPHIC DESIGN** | Tess Robinson (she/her)\
 
       **PHOTOGRAPHER** | Elizabeth Grace (she/her)\
 
