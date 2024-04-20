@@ -60,8 +60,16 @@ sections:
       **DIRECTOR** | Dan Edge (he/him)\
       **PRODUCER** | Clare Harding (she/her)\
       **CREATIVE TECHNICAL DIRECTOR** | Adrian Jeakins (he/him)\
-      **LIGHTING DESIGNER** | Will Lake (he/him)\
+      **LIGHTING DESIGNER** | Will Lake (he/him) \
+      **VIDEOGRAPHER** | Jim Onyemenam (he/him)\
+      **CAMERA OPERATOR** | Mike Brown (he/him)\
+      **STAGE MANAGER** | Tamsin Ker (she/her)\
+      **ASSOCIATE VIDEO DESIGNER** | Chris Love (he/him)\
+      **ASSISTANT STAGE MANAGER** | Mayur Pant (he/him)\
+      **SET CONSTRUCTION** | Andrew Laidlaw (he/him)\
       **MARKETING** | Pippa Kyle (she/her)\
+      **PROGRAMME** | Em Oliver (they/them) \
+      **PHOTOGRAPHER** | David Ovenden (he/him)\
       **COMMITTEE LIAISONS** | Olly Levett (he/him) and Henry Whittaker (he/him)
     title: CAST AND CREATIVE TEAM
   - order: 3
