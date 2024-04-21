@@ -14,7 +14,7 @@ John played the role of Swelter in Sedos’ 2013 production of *[Gormenghast](ht
 
 Andy Marchant, who directed *Gormenghast* and worked with John on a couple of other occasions, said: "John thoroughly embraced taking on the role of the very vile Swelter, as well being a part of the greater chorus. He was a great team player, and a fantastic person to have in a cast. He wasn’t just an actor either – he put together virtual Tower joining lockdown and always took time out to get involved to my own virtual theatre project at the same time."
 
-Sedos members Maria Waters and Adam Moulder were also cast members in *A Midsummer Night’s Dream* alongside John. 
+Sedos members Maria Waters and Adam Moulder were cast members in *A Midsummer Night’s Dream* alongside John. 
 
 Maria said: "I was very sad to hear about John’s sudden death. I worked very closely with him on *A Midsummer Night’s Dream a*nd for all of us, it was a tremendously exciting project, but for John, who was playing Bottom, it was the opportunity of a lifetime. He totally embodied the essence of that character. We went through every stage of the process together, which he recorded in a [published blog](https://bottomdream16.wordpress.com) and he amassed a wide readership. Having retired before Dream 16, he decided to [continue with the blog after the show](https://2ndfrombottom.wordpress.com/about/), as he had caught the writing bug and he went on to review all sorts of theatrical productions and films, both professional and amateur. 
 
