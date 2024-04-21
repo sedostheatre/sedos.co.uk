@@ -12,7 +12,7 @@ metaDescription: A tribute to John Chapman, who was in Sedos’ production of Go
 
 John played the role of Swelter in Sedos’ 2013 production of *[Gormenghast](https://www.sedos.co.uk/shows/2013-gormenghast)* and will also be known to many of our community for his performances with Tower Theatre, particularly as Bottom in *[A Midsummer Night’s Dream](https://archive.towertheatre.org.uk/archive/2016/sdream.htm)*, a collaboration between the Royal Shakespeare Company and amateur companies across the UK in 2016. 
 
-Andy Marchant, who directed *Gormenghast* and worked with John on a couple of other occasions, said: "John thoroughly embraced taking on the role of the very vile Swelter, as well being a part of the greater chorus. He was a great team player, and a fantastic person to have in a cast. He wasn’t just an actor either – he put together virtual Tower joining lockdown and always took time out to get involved to my own virtual theatre project at the same time."
+Andy Marchant, who directed *Gormenghast* and worked with John on a couple of other occasions, said: "John thoroughly embraced taking on the role of the very vile Swelter, as well being a part of the greater chorus. He was a great team player, and a fantastic person to have in a cast. He wasn’t just an actor either – he put together Virtual Tower joining lockdown and always took time out to get involved to my own virtual theatre project at the same time."
 
 Sedos members Maria Waters and Adam Moulder were cast members in *A Midsummer Night’s Dream* alongside John. 
 
@@ -25,3 +25,7 @@ Adam added: "John's enthusiasm for theatre was unmatched and working so closely 
 ^^^
 ![John Chapman in rehearsal for Sedos’ production of Gormenghast](/assets/8485819228_d759eb0743_c.jpg)
 ^^^ John Chapman (centre) in rehearsal for Sedos’ production of Gormenghast
+
+^^^
+![John Chapman (standing)in Sedos’ production of Gormenghast](/assets/8509936909_b84ca100c6_c.jpg)
+^^^ John Chapman (standing) in Sedos’ production of Gormenghast
