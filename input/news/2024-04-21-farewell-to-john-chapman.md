@@ -1,6 +1,10 @@
 ---
 title: Farewell to John Chapman
 date: 2024-04-21
+image: /assets/8485819228_d759eb0743_c.jpg
+imageAlt: John Chapman in rehearsal for Sedos’ production of Gormenghast
+metaTitle: Farewell to John Chapman
+metaDescription: A tribute to John Chapman, who was in Sedos’ production of Gormenghast
 ---
 *21 April 2024*
 
@@ -17,3 +21,7 @@ Maria said: "I was very sad to hear about John’s sudden death. I worked very c
 "His enthusiasm for all things theatre and arts persisted throughout his life. He described with glee various roles he had played. He always embodied his characters with enormous energy and gusto and knew an awful lot about theatre. I will miss him."
 
 Adam added: "John's enthusiasm for theatre was unmatched and working so closely with him on *A Midsummer Night's Dream* I witnessed firsthand how much he loved that experience and saw him work so hard to deliver a great performance. He was always armed with a funny line and ready to throw himself wholeheartedly into everything. We will all really miss him, but we know he lived his best life and can be proud of everything he achieved."
+
+^^^
+![John Chapman in rehearsal for Sedos’ production of Gormenghast](/assets/8485819228_d759eb0743_c.jpg)
+^^^ John Chapman in rehearsal for Sedos’ production of Gormenghast
