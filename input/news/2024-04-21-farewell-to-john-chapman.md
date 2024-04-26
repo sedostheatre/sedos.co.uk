@@ -22,6 +22,10 @@ Maria said: "I was very sad to hear about John’s sudden death. I worked very c
 
 Adam added: "John's enthusiasm for theatre was unmatched and working so closely with him on *A Midsummer Night's Dream* I witnessed first hand how much he loved that experience and saw him work so hard to deliver a great performance. He was always armed with a funny line and ready to throw himself wholeheartedly into everything. We will all really miss him, but we know he lived his best life and can be proud of everything he achieved."
 
+John’s funeral will take place on Friday 17 May at 3pm at Forest Park Crematorium, Essex. His wife Jackie welcomes anyone who wishes to remember John and celebrate his life.\
+\
+She has requested no flowers, but anyone who wishes may make a contribution in John’s memory to Mind (a JustGiving page will be available shortly) or directly to Cats Protection.
+
 ^^^
 ![John Chapman in rehearsal for Sedos’ production of Gormenghast](/assets/8485819228_d759eb0743_c.jpg)
 ^^^ John Chapman (centre) in rehearsal for Sedos’ production of Gormenghast
