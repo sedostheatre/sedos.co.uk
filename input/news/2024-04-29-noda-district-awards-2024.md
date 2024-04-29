@@ -24,7 +24,7 @@ The Eric Watsham Award for best cameo performance in a play or musical: Katie St
 
 The Shinfield Players scenic design award (in memory of Pat Barr): the set of *[Just So](https://www.sedos.co.uk/shows/2024-just-so)*
 
-**Society nominated award nomination:**
+**Society-nominated award nomination:**
 
 The Shelly Lemesh Award for the unsung hero: Adam Coppard
 
