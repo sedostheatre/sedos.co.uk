@@ -22,7 +22,7 @@ The Eric Watsham Award for best cameo performance in a play or musical: Katie St
 
 **Shortlisted for:**
 
-The Shinfield Players scenic design award (in memory of Pat Barr): the set of *[Just So](https://www.sedos.co.uk/shows/2024-just-so)*
+The Shinfield Players scenic design award (in memory of Pat Barr): the set of *[Just So,](https://www.sedos.co.uk/shows/2024-just-so)* designed and created by a team led by Dan Saunders, Andrew Laidlaw, George Langdown and Jon Haines
 
 **Society-nominated award nomination:**
 
