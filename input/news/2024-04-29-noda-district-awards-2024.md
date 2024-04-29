@@ -1,6 +1,7 @@
 ---
 title: NODA district awards 2024
 date: 2024-04-29
+image: /assets/districtawards2024landscape.jpg
 imageAlt: NODA district awards 2024
 metaTitle: "NODA district awards 2024: Sedos recognised four times"
 metaDescription: Sedos has been recognised four times in the NODA district
@@ -21,7 +22,7 @@ The Eric Watsham Award for best cameo performance in a play or musical: Katie St
 
 **Shortlisted for:**
 
-The Shinfield Players scenic design award (in memory of Pat Barr): the set of *[Just So](https://www.sedos.co.uk/shows/2024-just-so)*, designed by Dan Saunders and constructed by Andrew Laidlaw, George Langdown, Catherine Warren and Ruth Luckins
+The Shinfield Players scenic design award (in memory of Pat Barr): the set of *[Just So](https://www.sedos.co.uk/shows/2024-just-so)*
 
 **Society nominated award nomination:**
 
