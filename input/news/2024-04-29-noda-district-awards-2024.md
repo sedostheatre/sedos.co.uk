@@ -27,3 +27,9 @@ The Shinfield Players scenic design award (in memory of Pat Barr): the set of *[
 **Society nominated award nomination:**
 
 The Shelly Lemesh Award for the unsung hero: Adam Coppard
+
+[See all the winners and nominations](https://www.noda.org.uk/regions/london/noda-london-district-winners-list-2024?)
+
+^^^
+![NODA district awards 2024](/assets/districtawards2024landscape.jpg)
+^^^
