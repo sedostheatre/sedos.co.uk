@@ -1,5 +1,5 @@
 ---
-title: NODA district awards 2024
+title: Sedos recognised four times in NODA district awards
 date: 2024-04-29
 image: /assets/districtawards2024landscape.jpg
 imageAlt: NODA district awards 2024
