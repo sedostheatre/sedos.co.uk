@@ -10,7 +10,7 @@ metaDescription: Sedos has been recognised four times in the NODA district
 ---
 *29 April 2024*
 
-**Sedos has been recognised four times in the NODA district awards for 2023.**
+**Sedos has been recognised four times in the NODA district awards for 2024.**
 
 These awards cover the period 1 April 2023 to 31 March 2024. All district winners are eligible to be considered for the regional awards which will be presented, along with the district winner certificates, on Sunday 16 June at The Radlett Centre as part of the [NODA London AGM and Celebration.](https://www.ticketsource.co.uk/noda-london) Winners of the society-nominated awards are also announced on this day.
 
