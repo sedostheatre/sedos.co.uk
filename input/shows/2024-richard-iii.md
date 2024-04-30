@@ -74,22 +74,35 @@ sections:
     title: CAST AND CREATIVE TEAM
   - order: 3
     title: VIDEO
-    body: |-
+    body: >-
+      
+
+      <div class="video-responsive"><?# YouTube DnFf0CO4VlQ&list=PLKRcP_WznQGkswax1VoLWLzwXgWbjdEvq&index=14 /?></div>
+
+
       <div class="video-responsive"><?# YouTube X8Tq7Lpcfkg /?></div>
+
 
       <div class="video-responsive"><?# YouTube 09aX6UjLHh0 /?></div>
 
+
       <div class="video-responsive"><?# YouTube QxXzBwvRqfg /?></div>
+
 
       <div class="video-responsive"><?# YouTube Woiat5sETi8 /?></div>
 
+
       <div class="video-responsive"><?# YouTube g-ZhDzTowXA /?></div>
+
 
       <div class="video-responsive"><?# YouTube DqTZQlq0AVI /?></div>
 
+
       <div class="video-responsive"><?# YouTube VISEJ0pRqrs   /?></div>
 
+
       <div class="video-responsive"><?# YouTube ouM0Sn0n6Ck  /?></div>
+
 
       <div class="video-responsive"><?# YouTube 6RDWhx4YPJk  /?></div>
   - order: 2
