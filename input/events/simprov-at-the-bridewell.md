@@ -6,7 +6,7 @@ image: /assets/simprov.jpg
 venue: Bridewell Theatre
 ticket-prices: Tickets cost £5 for members, £7 for non-members
 ---
-![](/assets/simprov_logo_square-1-.jpg)
+![](/assets/simprov_logo.jpg)
 
 **Simprov is the Sedos group that lets members and non-members explore their spontaneous side.** 
 
