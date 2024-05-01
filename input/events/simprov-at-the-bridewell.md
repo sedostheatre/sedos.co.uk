@@ -6,6 +6,8 @@ image: /assets/simprov.jpg
 venue: Bridewell Theatre
 ticket-prices: Tickets cost £5 for members, £7 for non-members
 ---
+![](/assets/simprov_logo_square-1-.jpg)
+
 **Simprov is the Sedos group that lets members and non-members explore their spontaneous side.** 
 
 On Sunday 12 May 2024 this unplanned, impulsive and spur-of the moment group take to the stage at the Bridewell Theatre for an hilarious 60 minutes of classic short-form and long-form improvisation games, that are sure to get you laughing in the aisles. 
