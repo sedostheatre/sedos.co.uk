@@ -15,7 +15,7 @@ If you want to learn improvisation skills and practise them in a fun and support
 
 ## **The Simprov drop-in**
 
-Our open-to-all session! Join us every Friday night (7-10pm) for an evening of games, learning and a whole heap of fun.
+Our open-to-all session! Join us every Friday night (7-9.30pm) for an evening of games, learning and a whole heap of fun.
 
 Perfect for the complete beginner as well as the hardened improv veteran, sessions with our London improvisation group will explore the fundamental principles of improv such as making bold choices, character development and finding your ‘game’.
 
