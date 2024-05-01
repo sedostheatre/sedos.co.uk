@@ -83,8 +83,16 @@
 
                         if (showDates.Any(x => x > DateTime.Now) && Model.Get("box-office-open", false))
                         {
+                            var boxOfficeText = Model.GetString("box-office-text", "Book tickets");
                             var bookingLink = BoxOfficeUri.FromBoxOfficeLink(Model.GetString("box-office-link", "https://sedos.ticketsolve.com/shows"));
-                            <a class="btn btn-sedos-blue" target="_blank" href="@bookingLink">Book tickets</a>
+                            <a class="btn btn-sedos-blue" target="_blank" href="@bookingLink">@boxOfficeText</a>
+                        }
+
+                        if (!string.IsNullOrWhiteSpace(Model.Get("call-to-action-link", "")))
+                        {
+                            var ctaLink = Model.Get("call-to-action-link", "");
+                            var ctaText = Model.Get("call-to-action-text", "");
+                            <a href="@ctaLink" target="_blank" class="btn btn-sedos-blue">@ctaText</a>
                         }
                     }
                 }

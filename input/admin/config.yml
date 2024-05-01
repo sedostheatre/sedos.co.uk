@@ -113,6 +113,18 @@ collections:
         name: box-office-link
         widget: string
         required: false
+      - label: Box Office Text
+        name: box-office-text
+        widget: string
+        required: false
+      - label: Call To Action Link
+        name: call-to-action-link
+        widget: string
+        required: false
+      - label: Call To Action Text
+        name: call-to-action-text
+        widget: string
+        required: false
       - label: Show details
         name: body
         widget: markdown

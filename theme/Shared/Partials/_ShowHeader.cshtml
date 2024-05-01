@@ -41,8 +41,16 @@
             <div class="show-action-bar">
                 @if(Model.Get("box-office-open", false))
                 {
+                    var boxOfficeText = Model.GetString("box-office-text", "Book tickets");
                     var bookingLink = BoxOfficeUri.FromBoxOfficeLink(Model.GetString("box-office-link", "https://sedos.ticketsolve.com/shows"));
-                    <a href="@bookingLink" target="_blank" class="btn btn-light">Book tickets</a>
+                    <a href="@bookingLink" target="_blank" class="btn btn-light">@boxOfficeText</a>
+                }
+
+                @if(!string.IsNullOrWhiteSpace(Model.Get("call-to-action-link", "")))
+                {
+                    var ctaLink = Model.Get("call-to-action-link", "");
+                    var ctaText = Model.Get("call-to-action-text", "");
+                    <a href="@ctaLink" target="_blank" class="btn btn-light">@ctaText</a>
                 }
             </div>
         </div>
