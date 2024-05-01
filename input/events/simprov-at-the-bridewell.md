@@ -5,6 +5,7 @@ times:
 image: /assets/simprov.jpg
 venue: Bridewell Theatre
 ticket-prices: Tickets cost £5 for members, £7 for non-members
+metaTitle: ""
 ---
 ![](/assets/simprov_hoopla_9jan2024.jpg "Some of the Simprov gang at their first Hoopla Mixer gig at the The Miller, London Bridge")
 
