@@ -12,7 +12,7 @@ On Sunday 12 May 2024 this unplanned, impulsive and spur-of the moment group tak
 
 Tickets cost £5 for members, £7 for non-members.
 
-[BOOK ONLINE](https://sedos.ticketsolve.com/ticketbooth/shows/1173655437)
+### [BOOK ONLINE](https://sedos.ticketsolve.com/ticketbooth/shows/1173655437)
 
 **Sunday 12 May** | 7.30pm-8.30pm
 *Bridewell Theatre, 14 Bride Ln, London EC4Y 8EQ*
@@ -27,12 +27,12 @@ Duck Duck Goose (DDG Improv), Hope and Anchor, Brixton SW2 5UA
 Hoopla Mixer, The Miller, 96 Snowsfields Road, London Bridge SE1 3SS
 [www.hooplaimpro.com](https://www.hooplaimpro.com)
 
-**Explore Simprov**
+#### **Explore Simprov**
 
 Looking for a London improvisation group? Simprov welcomes members of all levels, but is actively seeking people who want to be regular members of the group and develop as improvisers, with an eye towards performance.
 
 If you want to learn improvisation skills and practise them in a fun and supportive way, then the Simprov Drop-In is the place for you. They meet every Friday night (7pm-10pm) for an evening of games, learning and a whole heap of fun.
 
-Simprov takes place at Theatre Deli, Studio 8, 107 Leadenhall Street, EC3A 4AF. The cost is £7 per person (£5 for Sedos members) to pay for the room rental. Secure your place by booking online.
+Simprov takes place at Theatre Deli, Studio 8, 107 Leadenhall Street, EC3A 4AF. The cost is £7 per person (£5 for Sedos members) to pay for the room rental. Secure your place by [booking online](https://sedos.ticketsolve.com/ticketbooth/shows/1173652905?_gl=1*g0oul7*_ga*NjQ5NTI0MzE2LjE3MTA3NjE4NjI.*_ga_KQD2K6GSG1*MTcxNDU3NTkzMS4xLjAuMTcxNDU3NTkzNi4wLjAuMA..).
 
-For more info, head to the Simprov Facebook page.
+For more info, head to the [Simprov Facebook page](https://www.facebook.com/groups/176792046058352/).
