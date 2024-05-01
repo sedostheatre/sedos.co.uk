@@ -21,16 +21,16 @@ Tickets cost £5 for members, £7 for non-members.
 
 **Sunday 12 May** | 7.30pm-8.30pm\
 *Bridewell Theatre, 14 Bride Ln, London EC4Y 8EQ*\
-[sedos.ticketsolve.com](https://sedos.ticketsolve.com/)
+[sedos.ticketsolve.com](https://sedos.ticketsolve.com/ticketbooth/shows/1173655437)
 
 Can’t make this date? Don’t worry the group have two more shows coming soon! 
 
 **Monday 20 May 2024** | 8pm\
-**\*Duck Duck Goose** (DDG Improv), Hope and Anchor, Brixton SW2 5UA*\
+*Duck Duck Goose (DDG Improv), Hope and Anchor, Brixton SW2 5UA*\
 [ddgimprov.com](https://www.ddgimprov.com)
 
 **Tuesday 11 June 2024** | 7.30pm\
-**\*Hoopla Mixe**r, The Miller, 96 Snowsfields Road, London Bridge SE1 3SS*\
+*Hoopla Mixer, The Miller, 96 Snowsfields Road, London Bridge SE1 3SS*\
 [hooplaimpro.com](https://www.hooplaimpro.com/improv-comedy-club-london-bridge.html)
 
 ##### **Explore Simprov**
