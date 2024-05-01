@@ -44,6 +44,7 @@ namespace Sedos.Pipelines
                 { "justso/form", "https://docs.google.com/forms/d/e/1FAIpQLSdAtaSZ4AoiN_x_ilttVSq-wJthyeCCHxBaS9IxrpFm9GGhZQ/viewform" },
                 { "september-2024-pitch-form", "https://docs.google.com/document/d/1tCxS9i3uRrWv7ksV6L_Yn_aUC5a0B40K9R9Da3c_AOY/edit" },
                 { "september-2024-pitch-guidance", "https://docs.google.com/document/d/1Iz6vsEuz4-Y1mClXD2l4PLRce4g761cn0Z6JfyK1Y5A/edit" },
+                { "charliebrown", "https://www.sedos.co.uk/shows/2024-you-re-a-good-man-charlie-brown" },
             };
 
             ProcessModules = new ModuleList
