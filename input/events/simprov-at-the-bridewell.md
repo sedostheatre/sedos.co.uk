@@ -1,9 +1,11 @@
 ---
-title: Simprov at the Bridewell
+title: Simprov at the Bridewell and elsewhere
 times:
   - time: 2024-05-12 19:30
+  - time: 2024-05-20 20:00
+  - time: 2024-06-11 18:30
 image: /assets/simprov.jpg
-venue: Bridewell Theatre
+venue: ""
 ticket-prices: Tickets cost £5 for members, £7 for non-members
 metaTitle: ""
 ---
