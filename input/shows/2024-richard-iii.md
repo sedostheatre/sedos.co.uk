@@ -77,6 +77,8 @@ sections:
     body: |-
       <div class="video-responsive"><?# YouTube 0mYmhP-eDaY /?></div>
 
+      <div class="video-responsive"><?# YouTube vnW8Mx-V8NM /?></div>
+
       <div class="video-responsive"><?# YouTube X8Tq7Lpcfkg /?></div>
 
       <div class="video-responsive"><?# YouTube 09aX6UjLHh0 /?></div>
