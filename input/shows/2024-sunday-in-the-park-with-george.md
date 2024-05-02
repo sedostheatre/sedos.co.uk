@@ -12,7 +12,7 @@ showtime-summary: 20-30 JUNE, 28 JULY & 4 AUGUST 2024
 venue: ""
 ticket-prices: From £10
 additional-ticket-info: |-
-  WHEATSHEAF HALL | 20-30 June 2024 (exact dates and times TBC),
+  WHEATSHEAF HALL | 20-30 June 2024
   THORINGTON THEATRE | 28 July and 4 August 2024
 primary-color: "#727f54"
 header-image: /assets/sunday-teaser-header.jpg
