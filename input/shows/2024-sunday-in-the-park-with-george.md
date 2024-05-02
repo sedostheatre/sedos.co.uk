@@ -3,8 +3,7 @@ title: Sunday in the Park with George
 year: "2024"
 authors: Music and Lyrics by STEPHEN SONDHEIM
 authors2: Book by JAMES LAPINE
-subtitle: Sondheim’s Pulitzer Prize-winning masterpiece comes to life this
-  summer at two charming new venues
+subtitle: Sondheim’s Pulitzer Prize-winning masterpiece
 showtimes:
   - time: 2024-07-28 15:00
   - time: 2024-08-04 15:00
