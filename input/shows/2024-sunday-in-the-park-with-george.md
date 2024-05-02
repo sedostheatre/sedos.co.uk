@@ -87,7 +87,7 @@ Inspired by the little-known life of Georges Seurat and his pioneering painting 
 
 **PERFORMANCES**
 
-**[WHEATSHEAF HALL](https://www.sedos.co.uk/venues/wheatsheaf-hall)** | 20-30 June 2024 (exact dates and times TBC)\
+**[WHEATSHEAF HALL](https://www.sedos.co.uk/venues/wheatsheaf-hall)** | 20-30 June 2024 – [buy tickets](https://sedos.ticketsolve.com/ticketbooth/shows/1173655257)\
 **[THORINGTON THEATRE](https://www.thoringtontheatre.co.uk/)** | 28 July and 4 August 2024 – [buy tickets](https://www.thoringtontheatre.co.uk/events/sunday-in-the-park)
 
 Originally Directed on Broadway by James Lapine
