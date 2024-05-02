@@ -2,6 +2,12 @@
 title: Autobahn
 year: "2024"
 authors: By NEIL LABUTE
+showtimes:
+  - time: 2024-09-17 19:30
+  - time: 2024-09-18 19:30
+  - time: 2024-09-19 19:30
+  - time: 2024-09-20 19:30
+  - time: 2024-09-21 14:30
 showtime-summary: 17-21 SEPTEMBER 2024
 venue: Bridewell Theatre
 ticket-prices: From £12.50
