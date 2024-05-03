@@ -2,7 +2,8 @@
 title: Autobahn
 year: "2024"
 authors: By NEIL LABUTE
-subtitle: A look at the apprehension that surrounds the steering wheel
+subtitle: Seven short plays that explore the dramas that can happen in the
+  enclosed space of a car
 showtimes:
   - time: 2024-09-17 19:30
   - time: 2024-09-18 19:30
