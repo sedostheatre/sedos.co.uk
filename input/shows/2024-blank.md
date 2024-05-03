@@ -2,9 +2,9 @@
 title: "[BLANK]"
 year: "2024"
 authors: By ALICE BIRCH
-subtitle: The company’s choice from 100 unnamed scenes available in this play
-  that reveals love, joy and hope against the harsh backdrop of the UK criminal
-  justice system
+subtitle: This play offers the company the pick of 100 unnamed scenes to create
+  a show that reveals love, joy and hope against the harsh backdrop of the UK
+  criminal justice system
 showtimes:
   - time: 2024-09-24 19:30
   - time: 2024-09-25 19:30
