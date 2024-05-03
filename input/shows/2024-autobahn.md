@@ -1,7 +1,7 @@
 ---
 title: Autobahn
 year: "2024"
-authors: By NEIL LABUTE
+authors: by NEIL LABUTE
 subtitle: Seven short plays that explore the dramas that can happen in the
   enclosed space of a car
 showtimes:
