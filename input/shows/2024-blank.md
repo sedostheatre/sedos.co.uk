@@ -1,7 +1,7 @@
 ---
 title: "[BLANK]"
 year: "2024"
-authors: By ALICE BIRCH
+authors: by ALICE BIRCH
 subtitle: This play offers the company the pick of 100 unnamed scenes to create
   a show that reveals love, joy and hope against the harsh backdrop of the UK
   criminal justice system
