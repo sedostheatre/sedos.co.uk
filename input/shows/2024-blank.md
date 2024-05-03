@@ -2,8 +2,9 @@
 title: "[BLANK]"
 year: "2024"
 authors: By ALICE BIRCH
-subtitle: Highlighting the love, joy and hope that remains despite the harsh
-  realities of the UK criminal justice system.
+subtitle: The company’s choice from 100 unnamed scenes available in this play
+  that reveals love, joy and hope against the harsh backdrop of the UK criminal
+  justice system
 showtimes:
   - time: 2024-09-24 19:30
   - time: 2024-09-25 19:30
@@ -13,6 +14,7 @@ showtimes:
 showtime-summary: 24-28 September 2024
 venue: Bridewell Theatre
 ticket-prices: From £12.50
+primary-color: "#b99c8c"
 header-image: /assets/blank-splash-resized.jpg
 header-image-contain: false
 flyer: /assets/whatsapp-image-2024-05-02-at-14.34.37-1-.jpeg
