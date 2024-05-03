@@ -32,4 +32,6 @@ metaDescription: "[BLANK], by Alice Birch highlights the love, joy and hope that
 
 With the company picking from 100 unnamed scenes, *\[BLANK]* provides a unique experience for audiences.
 
+*\[﻿BLANK]* plays at the [Bridewell Theatre](https://www.sedos.co.uk/venues/bridewell) from 24-28 September 2024. 
+
 *\[﻿BLANK]* is presented by kind permission of Alice Birch.
