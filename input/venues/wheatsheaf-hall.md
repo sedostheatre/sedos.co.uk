@@ -42,5 +42,5 @@ Please note, Sedos is now a cashless operation so we will only take card payment
 [Visit Wheatsheaf Hall’s website](https://www.wheatsheafhall.org.uk)
 
 ^^^
-![](/assets/wheatsheaf.jpg)
+![The cast of Richard III rehearsing at Wheatsheaf Hall in 2024](/assets/wheatsheaf.jpg)
 ^^^ The cast of Richard III rehearsing at Wheatsheaf in 2024
