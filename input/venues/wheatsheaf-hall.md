@@ -29,14 +29,14 @@ SW8 2UP
 
 **Getting to Wheatsheaf Hall**
 
-Wheatsheaf is within walking distance of Vauxhall, Stockwell, Oval, Kennington and Nine Elms tube stations. Vauxhall is also served by overground trains.
+The closest tube station to Wheatsheaf is Nine Elms. The venue is also within walking distance of Vauxhall, Stockwell, Oval and Kennington tube stations. Vauxhall is also served by overground trains.
 
-Buses 2 and 88 stop the closest to the venue. A number of other buses also stop near Nine Elms station
+Buses 2 and 88 stop the closest to the venue. A number of other buses also travel along the A3036 and stop near Nine Elms station, just a few minutes walk away.
 
-* The nearest [railway station is Vauxhall](http://maps.google.co.uk/maps?saddr=vauxhall+station&daddr=SW8+2UP&hl=en&ll=51.483334,-0.124004&spn=0.006975,0.021136&sll=51.483665,-0.123545&sspn=0.006975,0.021136&geocode=FSWcEQMdmxz-_ynvRYd87gR2SDHk1dNOqEZmSQ%3BFWKJEQMdoBb-_ykTgL6n8QR2SDEVxJ3gwaqwPA&mra=ltm&dirflg=w&z=16 "Vauxhall Station to Wheatsheaf Hall").
-* The nearest Underground is Vauxhall on the Victoria Line.
-* The local [buses are the numbers 2 and 88](http://www.tfl.gov.uk/tfl/gettingaround/maps/buses/tfl-bus-map/text/stopinfo.aspx?s=12817&r=2&rn=1 "Bus Np 2 and No 88"). Get off at Wheatsheaf Lane.
-* The Wheatsheaf Hall is ideally situated a 10 minute walk from Vauxhall rail and underground stations. The hall is also within walking distance from Stockwell, Oval and Kennington.
-*
+You cannot park right outside Wheatsheaf Hall – Wheatsheaf Lane is narrow and short, with no turning spaces at the end. If you drive in to drop people off, you will have to back out onto the main road.
+
+**Cashless**
+
+Please note, Sedos is now a cashless operation so we will only take card payments for bar sales when we run events at Wheatsheaf and for programmes and ticket sales on the door when we perform at the venue
 
 [Visit Wheatsheaf Hall’s website](https://www.wheatsheafhall.org.uk)
