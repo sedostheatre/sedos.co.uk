@@ -20,3 +20,7 @@ London,
 EC3A 4AF
 
 [For more information on how to find Theatre Deli, accessibility and more, visit the venue’s website](https://www.theatredeli.co.uk/delibroadgate)
+
+^^^
+![The cast of Amadeus at their read-through rehearsal at Theatre Deli in 2022](/assets/52390286221_c91ab2ab4f_c.jpg)
+^^^ The cast of Amadeus at their read-through rehearsal at Theatre Deli in 2022
