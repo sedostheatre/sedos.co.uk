@@ -40,3 +40,7 @@ You cannot park right outside Wheatsheaf Hall – Wheatsheaf Lane is narrow and 
 Please note, Sedos is now a cashless operation so we will only take card payments for bar sales when we run events at Wheatsheaf and for programmes and ticket sales on the door when we perform at the venue
 
 [Visit Wheatsheaf Hall’s website](https://www.wheatsheafhall.org.uk)
+
+^^^
+![](/assets/wheatsheaf.jpg)
+^^^ The cast of Richard III rehearsing at Wheatsheaf in 2024
