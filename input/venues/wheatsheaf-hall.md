@@ -35,9 +35,31 @@ Buses 2 and 88 stop the closest to the venue. A number of other buses also trave
 
 You cannot park right outside Wheatsheaf Hall – Wheatsheaf Lane is narrow and short, with no turning spaces at the end. If you drive in to drop people off, you will have to back out onto the main road.
 
+**Tickets and entering the theatre**
+
+Your tickets will be sent by email if you book online. You do not need to print your tickets – it’s fine to show them on a mobile phone at the door.
+
+For *Sunday in the Park with George*, the hall will be open for audience members to take their seats one hour before curtain up.
+
+If the performance is not sold out, tickets can be bought at the hall from around 90 minutes before curtain up.
+
+**Bar**
+
+The bar is open approximately an hour before performances, at the interval, and for approximately 60 minutes after the show.
+
+**Latecomers**
+
+In general, audience members arriving late for a Sedos show will be held in the foyer until a suitable point for admission, when they will be shown in by an usher or member of stage crew. You will be taken to the most easily available seat so you will probably not be able to join your party if you arrive late.
+
+Certain shows may not be able to admit latecomers at all or not until the interval, so you are advised to arrive in good time for curtain up.
+
 **Cashless**
 
-Please note, Sedos is now a cashless operation so we will only take card payments for bar sales when we run events at Wheatsheaf and for programmes and ticket sales on the door when we perform at the venue
+Please note, Sedos is now a cashless operation so we will only take card payments for programmes and ticket sales on the door. The bar also operates cashless, so all bar sales are made by card payments.
+
+**Accessibility**
+
+All areas of Wheatsheaf Hall are accessible through the main entrance and are all on the ground level. Access to the hall and bar is over a threshold stone with a riser height ranging from 110-150mm from right to left.  There is a gender neutral accessible toilet on the main floor, and men’s toilets and urinals are down three steps.
 
 [Visit Wheatsheaf Hall’s website](https://www.wheatsheafhall.org.uk)
 
