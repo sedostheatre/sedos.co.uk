@@ -11,7 +11,7 @@ metaDescription: Sedos has the chance to take a show to the Minack in Cornwall
 
 **Sedos have been given the opportunity to take a show to the Minack in 2025. We are running a mini pitch process to gather possible titles we can take for a week by the sea in Cornwall.**
 
-The Minack is a spectacular open-air theatre in Porthcurno, Cornwall, where Sedos was lucky enough to be invited to perform in 2019, presenting *[A Swell Party](https://www.sedos.co.uk/shows/2019-a-swell-party)*. Groups have performed shows such as *Kipps*, *Sister Act*, *Sunset Boulevard*, and *Jesus Christ, Superstar* at the Minack, among others. A full list of past shows that audiences come from far and wide to attend can be found on the [Minack's website](https://www.minack.com/our-past-shows). 
+The Minack is a spectacular open-air theatre in Porthcurno, Cornwall, where Sedos was lucky enough to be invited to perform in 2019, presenting *[A Swell Party](https://www.sedos.co.uk/shows/2019-a-swell-party)*. Groups have performed shows such as *Kipps*, *Sister Act*, *Sunset Boulevard*, and *Jesus Christ, Superstar* at the Minack, among others. A full list of past shows that audiences come from far and wide to attend can be found on the [Minack’s website](https://www.minack.com/our-past-shows). 
 
 We are looking for submissions of a musical suitable to be performed in this stunning location. The Minack is completely exposed to the elements (short of a marquee that a band can be placed in) – it is not uncommon for wind, rain, and sun to all be seen over the course of a week – and it is very rare that a show will be called off because of the weather. This should be taken into consideration with shows that you pitch and their suitability. 
 
@@ -31,4 +31,4 @@ Happy pitching!
 
 ^^^
 ![2025 Sedos Minack show](/assets/img_2989.jpeg)
-^^^
+^^^ Sedos’ 2019 production of A Swell Party at the Minack
