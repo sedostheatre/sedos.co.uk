@@ -1,5 +1,5 @@
 ---
-title: Pitch at 2025 Mince show
+title: Pitch at 2025 Minack show
 date: 2024-05-05
 ---
 *7 May 2024*
