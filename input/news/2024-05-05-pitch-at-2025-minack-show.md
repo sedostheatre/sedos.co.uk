@@ -9,7 +9,7 @@ metaDescription: Sedos has the chance to take a show to the Minack in Cornwall
 ---
 *7 May 2024*
 
-**Sedos have been given the opportunity to take a show to the Minack in 2025. We are running a mini pitch process to gather possible titles we can take for a week by the sea in Cornwall.**
+**Sedos has been given the opportunity to take a show to the Minack in 2025. We are running a mini pitch process to gather possible titles we can take for a week by the sea in Cornwall.**
 
 The Minack is a spectacular open-air theatre in Porthcurno, Cornwall, where Sedos was lucky enough to be invited to perform in 2019, presenting *[A Swell Party](https://www.sedos.co.uk/shows/2019-a-swell-party)*. Groups have performed shows such as *Kipps*, *Sister Act*, *Sunset Boulevard*, and *Jesus Christ, Superstar* at the Minack, among others. A full list of past shows that audiences come from far and wide to attend can be found on the [Minack’s website](https://www.minack.com/our-past-shows). 
 
