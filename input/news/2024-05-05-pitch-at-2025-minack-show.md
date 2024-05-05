@@ -1,7 +1,8 @@
 ---
 title: Pitch at 2025 Minack show
 date: 2024-05-05
-imageAlt: 2025 Minack show
+image: /assets/img_2989.jpeg
+imageAlt: 2025 Sedos Minack show
 metaTitle: Pitch a Sedos 2025 Minack show
 metaDescription: Sedos has the chance to take a show to the Minack in Cornwall
   in 2025. Find out how to pitch a production for this date next summer
@@ -27,3 +28,7 @@ At this early stage, it is okay for some sections of the pitch form to be incomp
 The form will close on Sunday 25 May 2024 at 1pm.
 
 Happy pitching!
+
+^^^
+![2025 Sedos Minack show](/assets/img_2989.jpeg)
+^^^
