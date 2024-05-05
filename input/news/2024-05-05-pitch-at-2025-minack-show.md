@@ -13,7 +13,7 @@ metaDescription: Sedos has the chance to take a show to the Minack in Cornwall
 
 The Minack is a spectacular open-air theatre in Porthcurno, Cornwall, where Sedos was lucky enough to be invited to perform in 2019, presenting *[A Swell Party](https://www.sedos.co.uk/shows/2019-a-swell-party)*. Groups have performed shows such as *Kipps*, *Sister Act*, *Sunset Boulevard*, and *Jesus Christ, Superstar* at the Minack, among others. A full list of past shows that audiences come from far and wide to attend can be found on the [Minack’s website](https://www.minack.com/our-past-shows). 
 
-We are looking for submissions of a musical suitable to be performed in this stunning location. The Minack is completely exposed to the elements (short of a marquee that a band can be placed in) – it is not uncommon for wind, rain, and sun to all be seen over the course of a week – and it is very rare that a show will be called off because of the weather. This should be taken into consideration with shows that you pitch and their suitability. 
+We are looking for submissions of a musical suitable to be performed in this stunning location - [pitches can be sent using this form](https://docs.google.com/forms/u/1/d/e/1FAIpQLSc9nSTtknv1qHv0w60G4EBiORO-3Y20_nP4GE2WuNgppHUbyQ/viewform). The Minack is completely exposed to the elements (short of a marquee that a band can be placed in) – it is not uncommon for wind, rain, and sun to all be seen over the course of a week – and it is very rare that a show will be called off because of the weather. This should be taken into consideration with shows that you pitch and their suitability. 
 
 The access to the stage is via some very steep steps that don't go in a straight line - and this will limit choices teams have for set. We would highly suggest picking something you think can take advantage of the Minack's location and requires little in the way of set (think enhancing what is already present). If you choose to pick something with large requirements expect us to ask for a detailed plan. 
 
@@ -26,6 +26,8 @@ Due to the 2025 season dates at the Bridewell (full pitch process to be announce
 At this early stage, it is okay for some sections of the pitch form to be incomplete or not fully formed. There will be opportunities at later stages to expand upon this initial pitch form. If you have any questions please reach out to the pitches team on pitches@sedos.co.uk
 
 The form will close on Sunday 25 May 2024 at 1pm.
+
+### [Pitch form](https://docs.google.com/forms/u/1/d/e/1FAIpQLSc9nSTtknv1qHv0w60G4EBiORO-3Y20_nP4GE2WuNgppHUbyQ/viewform)
 
 Happy pitching!
 
