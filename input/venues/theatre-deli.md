@@ -14,13 +14,13 @@ Most of Sedos’ rehearsals are held at Theatre Deli in central London, where we
 
 ## Your visit to Theatre Deli
 
-Theatre Deli Leadenhall Studios,
-107 Leadenhall Street,
-London,
+Theatre Deli Leadenhall Studios\
+107 Leadenhall Studios\
+London\
 EC3A 4AF
 
 [For more information on how to find Theatre Deli, accessibility and more, visit the venue’s website](https://www.theatredeli.co.uk/delibroadgate)
 
 ^^^
-![The cast of Amadeus at their read-through rehearsal at Theatre Deli in 2022](/assets/52390286221_c91ab2ab4f_c.jpg)
-^^^ The cast of Amadeus at their read-through rehearsal at Theatre Deli in 2022
+![The cast of Amadeus rehearsing at Theatre Deli in 2022](/assets/theatredeli2.jpg)
+^^^ The cast of Amadeus rehearsing at Theatre Deli in 2022
