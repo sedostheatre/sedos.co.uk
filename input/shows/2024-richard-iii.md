@@ -72,6 +72,14 @@ sections:
       **PHOTOGRAPHER** | David Ovenden (he/him)\
       **COMMITTEE LIAISONS** | Olly Levett (he/him) and Henry Whittaker (he/him)
     title: CAST AND CREATIVE TEAM
+  - order: 2
+    title: GALLERY
+    body: <a data-flickr-embed="true"
+      href="https://www.flickr.com/photos/sedos/albums/72177720315726789"
+      title="Richard III - 2024"><img
+      src="https://live.staticflickr.com/65535/53614340453_dff29dd954_z.jpg"
+      width="640" height="480" alt="Richard III - 2024"/></a><script async
+      src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
   - order: 3
     title: VIDEO
     body: |-
@@ -96,14 +104,19 @@ sections:
       <div class="video-responsive"><?# YouTube ouM0Sn0n6Ck  /?></div>
 
       <div class="video-responsive"><?# YouTube 6RDWhx4YPJk  /?></div>
-  - order: 2
-    title: GALLERY
-    body: <a data-flickr-embed="true"
-      href="https://www.flickr.com/photos/sedos/albums/72177720315726789"
-      title="Richard III - 2024"><img
-      src="https://live.staticflickr.com/65535/53614340453_dff29dd954_z.jpg"
-      width="640" height="480" alt="Richard III - 2024"/></a><script async
-      src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+  - order: 4
+    title: REVIEWS
+    body: >-
+      >Utterly inspired in its execution.... The original text has been brought
+      up to date with exceptional creativity... This production feels alive and
+      present
+
+      ><footer><cite>London Theatre Reviews</cite></footer>
+
+
+      London Theatre Reviews went on to hail Sam Sugarman's "brilliant performance" as Richard III, an "outstanding" Audrey Lindsay as Buckingham, "beautiful" direction by Dan Edge and "extremely impressive" creative technical direction by Adrian Jeakins.
+RedirectFrom:
+  - London Theatre Reviews
 metaTitle: Richard III, by William Shakespeare, plays at the Bridewell Theatre
   from 9-18 May 2024
 metaDescription: " Richard III, by William Shakespeare, is one of Shakespeare’s
