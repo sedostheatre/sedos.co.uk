@@ -2,6 +2,6 @@
 title: Theatre Deli
 row: 2
 column: 1
-image: /assets/your-visit-theatre-deli.jpg
+image: /assets/theatredeli2.jpg
 link: /venues/theatre-deli
 ---
