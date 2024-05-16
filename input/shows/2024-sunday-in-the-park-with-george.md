@@ -5,8 +5,6 @@ authors: Music and Lyrics by STEPHEN SONDHEIM
 authors2: Book by JAMES LAPINE
 subtitle: Sondheim’s Pulitzer Prize-winning masterpiece
 showtimes:
-  - time: 2024-07-28 15:00
-  - time: 2024-08-04 15:00
   - time: 2024-06-20 19:30
   - time: 2024-06-21 19:30
   - time: 2024-06-22 14:30
@@ -17,6 +15,8 @@ showtimes:
   - time: 2024-06-27 19:30
   - time: 2024-06-28 19:30
   - time: 2024-06-29 19:30
+  - time: 2024-07-28 15:00
+  - time: 2024-08-04 15:00
 showtime-summary: 20-30 JUNE, 28 JULY & 4 AUGUST 2024
 venue: ""
 ticket-prices: From £10
