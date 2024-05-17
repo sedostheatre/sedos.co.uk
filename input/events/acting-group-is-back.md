@@ -1,5 +1,5 @@
 ---
-title: Acting group is back
+title: Acting Group is back
 times:
   - time: 2024-05-23 19:00
 image: /assets/acting-group-pic.png
