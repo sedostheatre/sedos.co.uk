@@ -113,7 +113,7 @@ sections:
       up to date with exceptional creativity... This production feels alive and
       present
 
-      ><footer><cite><a target="_blank" href="https://www.londontheatre1.com/reviews/richard-iii-bridewell-theatre-review/">London Theatre Reviews</a></cite></footer>
+      ><footer><cite><a target="_blank" href="https://www.londontheatrereviews.co.uk/post.cfm?p=20237">London Theatre Reviews</a></cite></footer>
 
 
       >It’s standing ovation time for Sugarman [as Richard]…  leading a very talented cast of great players. Every time I see this company I leave the theatre impressed… and this was no exception
