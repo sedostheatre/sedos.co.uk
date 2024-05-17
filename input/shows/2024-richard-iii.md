@@ -113,12 +113,23 @@ sections:
       up to date with exceptional creativity... This production feels alive and
       present
 
-      ><footer><cite>London Theatre Reviews</cite></footer>
+      ><footer><cite><a target="_blank" href="https://www.londontheatre1.com/reviews/richard-iii-bridewell-theatre-review/">London Theatre Reviews</a></cite></footer>
 
 
-      London Theatre Reviews went on to hail Sam Sugarman's "brilliant performance" as Richard III, an "outstanding" Audrey Lindsay as Buckingham, "beautiful" direction by Dan Edge and "extremely impressive" creative technical direction by Adrian Jeakins.
-RedirectFrom:
-  - London Theatre Reviews
+      >It’s standing ovation time for Sugarman [as Richard]…  leading a very talented cast of great players. Every time I see this company I leave the theatre impressed… and this was no exception
+
+      ><footer><cite><a target="_blank" href="https://www.lastminutetheatretickets.com/richard-iii-by-william-shakespeare-bridewell-theatre-review/">Last Minute Theatre Tickets</a></cite></footer>
+
+
+      >The choice of reoccurring news bulletins being flashed up… really helps to hammer home important plot points and makes this play much more accessible to those that may not typically be a fan of the Bard… a very interesting take on it, performed by accomplished actors… well worth seeing.
+
+      ><footer><cite><a target="_blank" href="https://musicaltheatremusings.co.uk/richard-iii">Musical Theatre Musings</a></cite></footer>
+
+
+      >A striking and bold reimagining of one of Shakespeare’s most enduring histories.
+
+      ><footer><cite><a target="_blank" href="https://broadwaybaby.com/shows/richard-iii/806232">Broadway Baby</a></cite></footer>
+RedirectFrom: []
 metaTitle: Richard III, by William Shakespeare, plays at the Bridewell Theatre
   from 9-18 May 2024
 metaDescription: " Richard III, by William Shakespeare, is one of Shakespeare’s
