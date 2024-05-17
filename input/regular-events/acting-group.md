@@ -14,7 +14,7 @@ Our fun and friendly Acting Group will return on **Thursday 23 of May from 7-9pm
 
 Join Jamila Jennings-Grant, Josh Yard and Sarah Berryman for an evening of acting games, script work and guaranteed laughs! All levels of experience are very welcome and no preparation is needed. We'll then finish the evening with an (optional) trip to a local pub.
 
-The session is £5 for Sedos Members and £7 for non-members. Please email [acting@sedos.co.uk](mailto:acting@sedos.co.uk) to register your interest or with any questions.
+The session is £5 for Sedos Members and £7 for non-members. Please [book here](https://sedos.ticketsolve.com/ticketbooth/shows/1173655734) or email [acting@sedos.co.uk](mailto:acting@sedos.co.uk) with any questions.
 
 **\-﻿-------------------------------------------------------**
 
