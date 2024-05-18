@@ -1,5 +1,5 @@
 ---
-title: Pitch at 2025 Minack show
+title: Pitch a 2025 Minack show
 date: 2024-05-08
 image: /assets/img_2989.jpeg
 imageAlt: 2025 Sedos Minack show
