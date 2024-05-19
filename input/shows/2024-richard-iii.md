@@ -65,7 +65,6 @@ sections:
       **CAMERA OPERATOR** | Mike Brown (he/him)\
       **STAGE MANAGER** | Tamsin Ker (she/her)\
       **ASSOCIATE VIDEO DESIGNER** | Chris Love (he/him)\
-      **ASSISTANT STAGE MANAGER** | Mayur Pant (he/him)\
       **SET CONSTRUCTION** | Andrew Laidlaw (he/him)\
       **MARKETING** | Pippa Kyle (she/her)\
       **PROGRAMME** | Em Oliver (they/them) \
