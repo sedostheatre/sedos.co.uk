@@ -115,7 +115,7 @@ sections:
       ><footer><cite><a target="_blank" href="https://www.londontheatrereviews.co.uk/post.cfm?p=20237">London Theatre Reviews</a></cite></footer>
 
 
-      >It’s standing ovation time for Sugarman [as Richard]…  leading a very talented cast of great players. Every time I see this company I leave the theatre impressed… and this was no exception
+      >It’s standing ovation time for Sugarman [as Richard]…  leading a very talented cast of great players.  Summing up, Sedos have done it again with Richard III. Every time I see this company I leave the theatre impressed, and this was no exception
 
       ><footer><cite><a target="_blank" href="https://www.lastminutetheatretickets.com/richard-iii-by-william-shakespeare-bridewell-theatre-review/">Last Minute Theatre Tickets (****)</a></cite></footer>
 
