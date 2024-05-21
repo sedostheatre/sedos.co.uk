@@ -30,7 +30,7 @@ additional-ticket-info: >-
 primary-color: "#727f54"
 header-image: /assets/sunday-teaser-header.jpg
 header-image-contain: false
-flyer: /assets/sunday-poster-holder-v2.jpg
+flyer: /assets/sunday-poster.jpg
 box-office-open: true
 box-office-link: https://sedos.ticketsolve.com/ticketbooth/shows/1173655257
 box-office-text: Book tickets (Wheatsheaf)
