@@ -14,7 +14,7 @@ showtimes:
 showtime-summary: 24-28 September 2024
 venue: Bridewell Theatre
 ticket-prices: From £12.50
-primary-color: "#d57744"
+primary-color: "#aea809"
 header-image: /assets/blank-refined.jpg
 header-image-contain: false
 flyer: /assets/whatsapp-image-2024-05-02-at-14.34.37-1-.jpeg
