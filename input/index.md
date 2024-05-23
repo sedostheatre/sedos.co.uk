@@ -24,6 +24,7 @@ carouselFooter: >-
 
   The [Sedos values](https://www.sedos.co.uk/news/2022-12-15-sedos-values) help guide the society’s decision making, how we behave and interact with each other, and how we represent ourselves to the London theatre community and beyond - both as a reflection of who Sedos are, and who we aspire to be.
 supportUsButton: Support Sedos
+joinUsButton: Join Sedos
 eventsText: >-
   ### Get involved in London amateur theatre
 
