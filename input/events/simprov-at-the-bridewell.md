@@ -14,8 +14,8 @@ metaTitle: ""
 
 This unplanned, impulsive and spur-of the moment group have a number of upcoming performances coming up that are sure to get you laughing in the aisles. Click on the links for more information.
 
-**Tuesday 4 June 2024** | 7.30pm-8.45pm
-*horeditch Balls, 333 Old St, London EC1V 9LE*
+**Tuesday 4 June 2024** | 7.30pm-8.45pm\
+*horeditch Balls, 333 Old St, London EC1V 9LE*\
 **[shoreditchballs.com](https://www.shoreditchballs.com)**
 
 **Tuesday 11 June 2024** | 7.30pm\
