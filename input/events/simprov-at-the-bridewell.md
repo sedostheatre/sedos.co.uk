@@ -1,33 +1,22 @@
 ---
-title: Simprov at the Bridewell and elsewhere
+title: Simprov performs across London
 times:
-  - time: 2024-05-12 19:30
-  - time: 2024-05-20 20:00
+  - time: 2024-06-04 19:30
   - time: 2024-06-11 18:30
 image: /assets/simprov.jpg
 venue: ""
-ticket-prices: Tickets cost £5 for members and £7 for non-members for the Bridewell show.
+ticket-prices: ""
 metaTitle: ""
 ---
 ![](/assets/simprov_hoopla_9jan2024.jpg "Some of the Simprov gang at their first Hoopla Mixer gig at the The Miller, London Bridge")
 
 **Simprov is the Sedos group that lets members and non-members explore their spontaneous side.** 
 
-On Sunday 12 May 2024 this unplanned, impulsive and spur-of the moment group take to the stage at the Bridewell Theatre for 60 hilarious minutes of classic short-form and long-form improvisation games, that are sure to get you laughing in the aisles. 
+This unplanned, impulsive and spur-of the moment group have a number of upcoming performances coming up that are sure to get you laughing in the aisles. Click on the links for more information.
 
-Tickets cost £5 for members, £7 for non-members.
-
-### [BOOK ONLINE](https://sedos.ticketsolve.com/ticketbooth/shows/1173655437)
-
-**Sunday 12 May** | 7.30pm-8.30pm\
-*Bridewell Theatre, 14 Bride Ln, London EC4Y 8EQ*\
-[sedos.ticketsolve.com](https://sedos.ticketsolve.com/ticketbooth/shows/1173655437)
-
-Can’t make this date? Don’t worry the group have two more shows coming soon! 
-
-**Monday 20 May 2024** | 8pm\
-*Duck Duck Goose (DDG Improv), Hope and Anchor, Brixton SW2 5UA*\
-[ddgimprov.com](https://www.ddgimprov.com)
+**Tuesday 4 June 2024** | 7.30pm-8.45pm
+*horeditch Balls, 333 Old St, London EC1V 9LE*
+**[shoreditchballs.com](https://www.shoreditchballs.com)**
 
 **Tuesday 11 June 2024** | 7.30pm\
 *Hoopla Mixer, The Miller, 96 Snowsfields Road, London Bridge SE1 3SS*\
