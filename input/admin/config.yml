@@ -581,6 +581,7 @@ collections:
             required: false
           - {name: carouselFooter, widget: markdown, required: false}
           - {name: supportUsButton, label: "Support Us Button Text", widget: string}
+          - {name: joinUsButton, label: "Join Us Button Text", widget: string}
           - {name: supportUsMessage, label: "Support Us Message", widget: markdown, required: false}
           - {name: eventsText, widget: markdown, required: false}
           - {name: newsText, widget: markdown, required: false}

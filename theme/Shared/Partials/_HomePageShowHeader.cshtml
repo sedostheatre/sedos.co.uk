@@ -45,7 +45,7 @@
                 {
                     var ctaLink = Model.Get("call-to-action-link", "");
                     var ctaText = Model.Get("call-to-action-text", "");
-                    <a href="@ctaLink" target="_blank" class="btn btn-light">@ctaText</a>
+                    <a href="@ctaLink" target="_blank" class="btn btn-light" style="margin-left: 15px;">@ctaText</a>
                 }
                 <a href="@Context.GetLink(Model)" class="btn btn-light" style="margin-left: 15px;">More info</a>
             </div>
