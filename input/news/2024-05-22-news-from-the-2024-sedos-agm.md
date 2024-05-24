@@ -10,6 +10,8 @@ imageAlt: Some of the attendees of the 2024 Sedos AGM, held at the St Bride’s 
 
 Highlights of the AGM included being recognised four times in the National Operatic and Dramatic Association (NODA) district awards for 2024. There was also an update on our current finances; ‘Project Zero’ (our strategy of working towards the goal of a break-even budget by the end of the 2025); diversity reporting; and our ongoing search for a new permanent rehearsal and storage home.
 
+Members had a chance to ask questions about areas such as budgets, pitching and the society’s diversity and inclusion strategy and it was fantastic to see people show a passionate interest in the future of Sedos.
+
 Many thanks to Sara Rajeswaran who stepped down from the Board of Trustees and Jacob Hajjar, Olivia Perrett, Mark Sidall, Sam Sugarman and Henry Whittaker from the Management Committee at the AGM or earlier this year - your contribution and hard work is very much appreciated!
 
 We confirmed the appointment of Pippa Kyle as a Sedos Trustees and re-elected Paul Caira, Tess Robinson and Tim Garrad as members of the Management Committee as well as confirming the election of Emma Miller, George Langdown, Sam Ferguson, Sorrel Brown and Thomas Riggs as new members of that group.
