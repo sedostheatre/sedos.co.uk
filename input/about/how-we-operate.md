@@ -8,7 +8,7 @@ RedirectFrom:
 ---
 ^^^
 ![](/assets/sedosagm2024.jpg)
-^^^ Members of the 2024/25 Sedos Trustees and Management Committee along with Sedos members who attended the 2024 Seods AGM.
+^^^ Members of the 2024/25 Sedos Trustees and Management Committee along with Sedos members who attended the 2024 Sedos AGM.
 
 Sedos is a Charitable Incorporated Organisation.
 
@@ -36,7 +36,7 @@ The trustees are elected by the members for three-year terms or co-opted in acco
 
 Jack Brown (he/him)\
 Matt Gould (he/him)\
-Pippa Kyle\
+Pippa Kyle (she/her)\
 Sara Rajeswaran (she/her)
 
 [Minutes of trustees’ meetings can be found here](https://drive.google.com/drive/folders/13fa6XEho_8j5tAyxQX0wwuJ5HXOcRmjZ?usp=sharing)
@@ -78,3 +78,5 @@ Tess Robinson  (she/her)
 ## Groups
 
 Sedos has a [marketing group](/groups/marketing), a [production group](/groups/production) and a [membership group](/groups/membership), all of which contribute to the day to day operations of the society. Anyone can volunteer to get involved in these groups.
+
+![](/assets/sedosagm2024-committee-trustees.jpg "Members of the 2024/25 Sedos Trustees and Management Committee")
