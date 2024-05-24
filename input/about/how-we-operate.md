@@ -63,16 +63,16 @@ Tim Garrad (he/him) \
 Ruth Granton (she/her)\
 Olly Levett (he/him)\
 Karen Braganza (she/her)\
-Sorrel Brown \
+Sorrel Brown (she/her)\
 Paul Caira \
-Sam Ferguson \
+Sam Ferguson (she/her)\
 Tim Garrad (he/him)\
 Ruth Granton (she/her)\
 Adrian Hau (chair)\
-George Langdown \
+George Langdown (he/him)\
 Olly Levett (he/him)\
-Emma Miller \
-Thomas Riggs \
+Emma Miller (she/her)\
+Thomas Riggs (he/him)\
 Tess Robinson  (she/her)
 
 ## Groups
