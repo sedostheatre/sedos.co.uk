@@ -20,7 +20,7 @@ Members had a chance to ask questions about areas such as budgets, pitching and 
 
 Many thanks to Sara Rajeswaran who stepped down from the Board of Trustees and Jacob Hajjar, Olivia Perrett, Mark Siddall, Sam Sugarman and Henry Whittaker from the Management Committee at the AGM or earlier this year - your contribution and hard work is very much appreciated!
 
-We confirmed the appointment of Pippa Kyle as a Sedos Trustees and re-elected Paul Caira, Tess Robinson and Tim Garrad as members of the Management Committee as well as confirming the election of Emma Miller, George Langdown, Sam Ferguson, Sorrel Brown and Thomas Riggs as new members of that group.
+We confirmed the appointment of Pippa Kyle as a Sedos Trustee and re-elected Paul Caira, Tess Robinson and Tim Garrad as members of the Management Committee as well as confirming the election of Emma Miller, George Langdown, Sam Ferguson, Sorrel Brown and Thomas Riggs as new members of that group.
 
 We are delighted to announce the new line-up for the 2024/25 year ahead:
 
