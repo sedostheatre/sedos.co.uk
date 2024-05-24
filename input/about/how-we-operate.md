@@ -2,13 +2,13 @@
 title: How we operate
 row: 2
 column: 3
-image: /assets/sedos-agm-2023-header.jpg
+image: /assets/sedosagm2024-committee-trustees.jpg
 RedirectFrom:
   - aboutus/howweoperate.htm
 ---
 ^^^
-![](/assets/sedos-agm-2023.jpg)
-^^^ Members of the 2023/24 Sedos Trustees and Management Committee along with Sedos members who attended the 2023 Seods AGM.
+![](/assets/sedosagm2024.jpg)
+^^^ Members of the 2024/25 Sedos Trustees and Management Committee along with Sedos members who attended the 2024 Seods AGM.
 
 Sedos is a Charitable Incorporated Organisation.
 
