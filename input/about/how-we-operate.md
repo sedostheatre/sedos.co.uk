@@ -36,8 +36,7 @@ The trustees are elected by the members for three-year terms or co-opted in acco
 
 Jack Brown (he/him)\
 Matt Gould (he/him)\
-Pippa Kyle (she/her)\
-Sara Rajeswaran (she/her)
+Pippa Kyle (she/her)
 
 [Minutes of trustees’ meetings can be found here](https://drive.google.com/drive/folders/13fa6XEho_8j5tAyxQX0wwuJ5HXOcRmjZ?usp=sharing)
 
