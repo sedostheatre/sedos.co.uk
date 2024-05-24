@@ -3,6 +3,9 @@ title: News from the 2024 Sedos AGM
 date: 2024-05-24
 image: /assets/sedosagm2024.jpg
 imageAlt: Some of the attendees of the 2024 Sedos AGM, held at the St Bride’s Institute
+metaTitle: "2024 Sedos AGM: new committee members and trustees elected"
+metaDescription: Find out who has joined the management committee and trustees
+  after last night’s 2024 Sedos AGM
 ---
 *24 May 2024*
 
