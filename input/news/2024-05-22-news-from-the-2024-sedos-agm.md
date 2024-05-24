@@ -1,6 +1,8 @@
 ---
 title: News from the 2024 Sedos AGM
 date: 2024-05-24
+image: /assets/sedosagm2024.jpg
+imageAlt: Some of the attendees of the 2024 Sedos AGM, held at the St Bride’s Institute
 ---
 *24 May 2024*
 
@@ -10,7 +12,7 @@ Highlights of the AGM included being recognised four times in the National Opera
 
 Many thanks to Sara Rajeswaran who stepped down from the Board of Trustees and Jacob Hajjar, Olivia Perrett, Mark Sidall, Sam Sugarman and Henry Whittaker from the Management Committee at the AGM or earlier this year - your contribution and hard work is very much appreciated!
 
-We confirmed the appointment of Pippa Kyle as a Sedos Trustees and re-elected Paul Caira, Tess Robinson and Tim Garrad as members of the Management Committee as well as conforming the election of Emma Miller, George Langdown, Sam Ferguson, Sorrel Brown and Thomas Riggs as new members of that group.
+We confirmed the appointment of Pippa Kyle as a Sedos Trustees and re-elected Paul Caira, Tess Robinson and Tim Garrad as members of the Management Committee as well as confirming the election of Emma Miller, George Langdown, Sam Ferguson, Sorrel Brown and Thomas Riggs as new members of that group.
 
 We are delighted to announce the new line-up for the 2024/25 year ahead:
 
@@ -45,3 +47,5 @@ Trustees and members of the Management Committee have staggered terms so everyon
 Sedos is run by enthusiastic volunteers and a huge thank you was given to everyone who keeps the society running - from box office and front of house support to backstage and workshop organisers, plus marketing and communications.
 
 If you were unable to attend the 2024 Sedos AGM or want a reminder of the accounts and annual return, you can find those [documents here](https://drive.google.com/drive/u/0/folders/1_K1goTjJWsoldoHrqjTgKUUoyQWvRUE8?mc_cid=dcc96783a4&mc_eid=UNIQID).
+
+![Members of the 2024/24 Sedos Trustees and Management Committee ](/assets/sedosagm2024-committee-trustees.jpg)
