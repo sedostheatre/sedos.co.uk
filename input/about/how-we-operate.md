@@ -68,7 +68,6 @@ Paul Caira \
 Sam Ferguson (she/her)\
 Tim Garrad (he/him)\
 Ruth Granton (she/her)\
-Adrian Hau (chair)\
 George Langdown (he/him)\
 Olly Levett (he/him)\
 Emma Miller (she/her)\
