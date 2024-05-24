@@ -2,7 +2,8 @@
 title: News from the 2024 Sedos AGM
 date: 2024-05-24
 image: /assets/sedosagm2024.jpg
-imageAlt: Some of the attendees of the 2024 Sedos AGM, held at the St Bride’s Institute
+imageAlt: ""
+extract: Some of the attendees of the 2024 Sedos AGM, held at the St Bride’s Institute
 metaTitle: "2024 Sedos AGM: new committee members and trustees elected"
 metaDescription: Find out who has joined the management committee and trustees
   after last night’s 2024 Sedos AGM
@@ -53,4 +54,4 @@ Sedos is run by enthusiastic volunteers and a huge thank you was given to everyo
 
 If you were unable to attend the 2024 Sedos AGM or want a reminder of the accounts and annual return, you can find those [documents here](https://drive.google.com/drive/u/0/folders/1_K1goTjJWsoldoHrqjTgKUUoyQWvRUE8?mc_cid=dcc96783a4&mc_eid=UNIQID).
 
-![Members of the 2024/24 Sedos Trustees and Management Committee ](/assets/sedosagm2024-committee-trustees.jpg)
+![](/assets/sedosagm2024-committee-trustees.jpg "Members of the 2024/24 Sedos Trustees and Management Committee ")
