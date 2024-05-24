@@ -36,6 +36,7 @@ The trustees are elected by the members for three-year terms or co-opted in acco
 
 Jack Brown (he/him)\
 Matt Gould (he/him)\
+Pippa Kyle\
 Sara Rajeswaran (she/her)
 
 [Minutes of trustees’ meetings can be found here](https://drive.google.com/drive/folders/13fa6XEho_8j5tAyxQX0wwuJ5HXOcRmjZ?usp=sharing)
@@ -57,15 +58,22 @@ The management committee meets monthly.
 ### Members of the management committee are:
 
 **Chair** | Adrian Hau (he/him)\
-**Treasurer** | Henry Whittaker (he/him)\
 **Production group** | Adam Coppard (he/him)\
-Karen Braganza (she/her)\
-Paul Caira\
 Tim Garrad (he/him) \
 Ruth Granton (she/her)\
 Olly Levett (he/him)\
-Tess Robinson (she/her)\
-Mark Siddall (he/him)
+Karen Braganza (she/her)\
+Sorrel Brown \
+Paul Caira \
+Sam Ferguson \
+Tim Garrad (he/him)\
+Ruth Granton (she/her)\
+Adrian Hau (chair)\
+George Langdown \
+Olly Levett (he/him)\
+Emma Miller \
+Thomas Riggs \
+Tess Robinson  (she/her)
 
 ## Groups
 
