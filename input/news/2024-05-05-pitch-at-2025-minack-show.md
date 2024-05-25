@@ -25,7 +25,7 @@ Due to the 2025 season dates at the Bridewell (full pitch process to be announce
 
 At this early stage, it is okay for some sections of the pitch form to be incomplete or not fully formed. There will be opportunities at later stages to expand upon this initial pitch form. If you have any questions please reach out to the pitches team on pitches@sedos.co.uk
 
-The form will close on Sunday 25 May 2024 at 1pm.
+The form will close on Sunday 26 May 2024 at 1pm.
 
 ### [Pitch form](https://docs.google.com/forms/u/1/d/e/1FAIpQLSc9nSTtknv1qHv0w60G4EBiORO-3Y20_nP4GE2WuNgppHUbyQ/viewform)
 
