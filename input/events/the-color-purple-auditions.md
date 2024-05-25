@@ -23,7 +23,7 @@ Registration for *[The Color Purple](https://www.sedos.co.uk/shows/2024-the-colo
 
 # [FULL AUDITION NOTICE](https://docs.google.com/document/d/1hoKUWM5gLslZMpPgULZsT7pJmeAF_vr0pLGBlJbk690/edit#heading=h.vb68pvajq4v3)
 
-[Book and audition slot](https://membership.sedos.co.uk/signup/128)
+[Book an audition slot](https://membership.sedos.co.uk/signup/128)
 
 **INTRODUCTION TO THE SHOW**
 
