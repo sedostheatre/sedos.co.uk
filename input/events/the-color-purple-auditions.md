@@ -37,9 +37,9 @@ The story weaves an intricate mosaic of women joined by their love for each othe
 
 **WHAT WE’RE LOOKING FOR**
 
-We’ll be casting 20-25 performers for the cast of *The Color Purple: The Musical*. As a musical, everyone in the cast will be required to sing, act and dance in the show. The characters in the show are all African-American and live in the USA during a 40-year period in the early 20th century. 
+We’ll be casting 20-25 performers for the cast of *The Color Purple: The Musical*. As it’s a musical, everyone in the cast will be required to sing, act and dance in the show. The characters in the show are all African-American and live in the USA during a 40-year period in the early 20th century. 
 
-There are eight lead roles (five female, three male. There are also a number of supporting roles for men and women plus an ensemble for a range of ages and genders. We’re unable to change the gender of these characters, however, as long as you are comfortable portraying a specific gender, we welcome you to audition for whoever you like. 
+There are eight lead roles (five female, three male). There are also a number of supporting roles for men and women plus an ensemble for a range of ages and genders. We’re unable to change the gender of these characters, however, as long as you are comfortable portraying a specific gender, we welcome you to audition for whoever you like. 
 
 Everyone invited to join the cast will be required to attend rehearsals between August and November 2024 as well as mandatory dates in the lead up to the show. So, we are looking for a talented, committed and passionate group of people to cast in this show. 
 
