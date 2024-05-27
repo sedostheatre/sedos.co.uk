@@ -24,9 +24,9 @@ sections:
     title: CAST AND CREATIVE TEAM
     body: |-
       **DIRECTOR** | Zoë Thomas-Webb (she/they)\
-      *﻿*PRODUCER** | KC Lylark (they/them)\
-      *﻿*ASSISTANT DIRECTOR** | Katie Bonham (she/her)\
-      *﻿*COSTUME DESIGNER** | Edith Webb (she/her)
+      **PRODUCER** | KC Lylark (they/them)\
+      **ASSISTANT DIRECTOR** | Katie Bonham (she/her)\
+      **COSTUME DESIGNER** | Edith Webb (she/her)
 metaTitle: "[BLANK], by Alice Birch, plays at the Bridewell Theatre from 24-28
   September 2024"
 metaDescription: "[BLANK], by Alice Birch highlights the love, joy and hope that
