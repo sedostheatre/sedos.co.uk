@@ -59,7 +59,9 @@ Please note, Sedos is now a cashless operation so we will only take card payment
 
 **Accessibility**
 
-All areas of Wheatsheaf Hall which are used by the audience for *Sunday in the Park with George* are accessible through the main entrance and are on the ground level. Access to the hall and bar is over a threshold stone with a riser height ranging from 110-150mm from right to left.  There is a gender neutral accessible toilet and ladies’ toilets on the main ground floor. The men’s toilets and urinals are down three steps.
+All areas of Wheatsheaf Hall which need to be used by the audience for *Sunday in the Park with George* are accessible through the main entrance and are on the ground level. Access to the hall and bar is over a threshold stone with a riser height ranging from 110-150mm from right to left.  There is a gender neutral accessible toilet and ladies’ toilets on the main ground floor. The men’s toilets and urinals are down three steps.
+
+There are 17 steps up to the balcony. The balcony will be used as an overflow bar area for the *Sunday in the Park with George* audience but it is not necessary for the audience to go up there. 
 
 [Visit Wheatsheaf Hall’s website](https://www.wheatsheafhall.org.uk)
 
