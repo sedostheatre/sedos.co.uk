@@ -11,7 +11,7 @@ country: GB
 ---
 ## Wheatsheaf Hall
 
-Sedos uses Wheatsheaf Hall as a rehearsal and social venue. We are excited that in June 2024, we will also bring this space to life as a performance venue when *Sunday in the Park with George* plays there 20-30 June.
+Sedos uses Wheatsheaf Hall as a rehearsal and social venue. We are excited that in the summer of 2024, we will also bring this space to life as a performance venue when *Sunday in the Park with George* plays there 20-30 June.
 
 * ### [More about *Sunday in the Park with George*](https://www.sedos.co.uk/shows/2024-sunday-in-the-park-with-george)
 * ### [Buy tickets to *Sunday in the Park with George* at Wheatsheaf Hall](https://sedos.ticketsolve.com/ticketbooth/shows/1173655257/events/428663690)
