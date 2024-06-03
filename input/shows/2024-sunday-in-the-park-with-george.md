@@ -14,11 +14,10 @@ showtimes:
   - time: 2024-06-26 19:30
   - time: 2024-06-27 19:30
   - time: 2024-06-28 19:30
+  - time: 2024-06-29 14:30
   - time: 2024-06-29 19:30
   - time: 2024-07-28 15:00
   - time: 2024-08-04 15:00
-  - time: 2024-06-03 08:40
-  - time: 2024-06-03 08:40
 showtime-summary: 20-29 JUNE, 28 JULY & 4 AUGUST 2024
 venue: ""
 ticket-prices: From £10
