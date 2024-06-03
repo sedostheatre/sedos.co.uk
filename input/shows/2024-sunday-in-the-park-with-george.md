@@ -51,7 +51,7 @@ sections:
       **CELESTE #2** | Ruth Granton (she/her)\
       **SOLDIER** | Connor Guffogg (he/him)\
       **LOUIS** | Carl Reyes (he/him)\
-      **MR** | David Phipps-Davis (he/him)\
+      **MR** | Joe Dickens (he/him)\
       **MRS** | Jaime Finch                          \
       **JULES** | Max Wilson                          \
       **YVONNE** | Sara Rajeswaran                \
@@ -62,14 +62,14 @@ sections:
       **DENNIS** | Lewis McKenzie                 \
       **BOB GREENBERG** |  James Taverner (he/him)\
       **NAOMI EISEN** | Katie Melton (she/her)\
-      **CHARLES REDMOND** | Jesse Pincombe  (he/him)\
-      **LEE RANDOLPH** | Julian Silverman                 \
+      **CHARLES REDMOND** | Jesse Pincombe (he/him)\
+      **LEE RANDOLPH** | Deborah Lean (she/her)                 \
       **BLAIR DANIELS** | Jo Webber                           \
       **ELAINE** | Mariana Alfaro (she/her)\
       **HARRIET PAWLING** |  Leanne Sedin                      \
       **BETTY** | Helena Busiakiewicz         \
       **ALEX** |  Matt Morden (he/him)\
-      **BILLY WEBSTER** | James Warner (he/him)
+      **BILLY WEBSTER** | Kaytie M. Lee (she/her)
 
       **CREATIVE TEAM**
 
@@ -79,7 +79,9 @@ sections:
       **COSTUMIER** | Deborah Lean (she/her)\
       **PRODUCER** | Rebecca Chisholm (she/her)\
       **ASSISTANT DIRECTOR** | Olivier Namet (he/him)\
-      **SCENIC CARPENTER** | Matthew Ferris (he/him)
+      **SCENIC CARPENTER** | Matthew Ferris (he/him)\
+      **LIGHTING DESIGNER** | Ben Sassoon (he/him)\
+      **SOUND DESIGNER** | Ash Fairs (they/them)
 metaTitle: Sunday in the Park with George, by Stephen Sondheim and James Lapine,
   plays at the Wheatsheaf  Hall from 20-29 June 2024 and Thorrington Theatre on
   28 July and 4 August 2024
