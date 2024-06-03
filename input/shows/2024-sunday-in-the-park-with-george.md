@@ -17,11 +17,13 @@ showtimes:
   - time: 2024-06-29 19:30
   - time: 2024-07-28 15:00
   - time: 2024-08-04 15:00
-showtime-summary: 20-30 JUNE, 28 JULY & 4 AUGUST 2024
+  - time: 2024-06-03 08:40
+  - time: 2024-06-03 08:40
+showtime-summary: 20-29 JUNE, 28 JULY & 4 AUGUST 2024
 venue: ""
 ticket-prices: From £10
 additional-ticket-info: >-
-  WHEATSHEAF HALL | 20-30 June 2024
+  WHEATSHEAF HALL | 20-29 June 2024
 
   THORINGTON THEATRE | 28 July and 4 August 2024
 
@@ -80,12 +82,12 @@ sections:
       **ASSISTANT DIRECTOR** | Olivier Namet (he/him)\
       **SCENIC CARPENTER** | Matthew Ferris (he/him)
 metaTitle: Sunday in the Park with George, by Stephen Sondheim and James Lapine,
-  plays at the Wheatsheaf  Hall from 20-30 June 2024 and Thorrington Theatre on
+  plays at the Wheatsheaf  Hall from 20-29 June 2024 and Thorrington Theatre on
   28 July and 4 August 2024
 metaDescription: Sunday in the Park with George, by Stephen Sondheim and James
   Lapine, is inspired by George Seurat's famous painting. This poetic musical
   masterpiece explores the challenges in understanding life and art. It is part
-  of Sedos’ 2024 season and plays at the Wheatsheaf Hall from 20-30 June 2024
+  of Sedos’ 2024 season and plays at the Wheatsheaf Hall from 20-29 June 2024
   and Thorrington Theatre on 28 July and 4 August 2024
 ---
 **White. A blank page or canvas. The challenge: bring order to the whole.**\
@@ -101,7 +103,7 @@ Inspired by the little-known life of Georges Seurat and his pioneering painting 
 
 **PERFORMANCES**
 
-**[WHEATSHEAF HALL](https://www.sedos.co.uk/venues/wheatsheaf-hall)** | 20-30 June 2024 – [buy tickets](https://sedos.ticketsolve.com/ticketbooth/shows/1173655257)\
+**[WHEATSHEAF HALL](https://www.sedos.co.uk/venues/wheatsheaf-hall)** | 20-29 June 2024 – [buy tickets](https://sedos.ticketsolve.com/ticketbooth/shows/1173655257)\
 **[THORINGTON THEATRE](https://www.thoringtontheatre.co.uk/)** | 28 July and 4 August 2024 – [buy tickets](https://www.thoringtontheatre.co.uk/events/sunday-in-the-park)
 
 Originally Directed on Broadway by James Lapine
