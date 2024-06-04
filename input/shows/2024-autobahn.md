@@ -13,7 +13,7 @@ showtimes:
 showtime-summary: 17-21 SEPTEMBER 2024
 venue: Bridewell Theatre
 ticket-prices: From £12.50
-primary-color: "#abc9d3"
+primary-color: "#38e0e5"
 header-image: /assets/autobahn_800x500_notext.png
 header-image-contain: false
 flyer: /assets/autobahn_flyerfrontcontrast.png
