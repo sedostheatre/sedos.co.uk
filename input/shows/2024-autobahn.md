@@ -16,7 +16,7 @@ ticket-prices: From £12.50
 primary-color: "#38e0e5"
 header-image: /assets/autobahn_800x500_notext.png
 header-image-contain: false
-flyer: /assets/autobahn_flyerfrontcontrast.png
+flyer: /assets/autobahn_flyerfront-update.png
 box-office-open: false
 sections:
   - order: 1
