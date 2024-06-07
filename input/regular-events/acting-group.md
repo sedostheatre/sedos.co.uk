@@ -10,7 +10,7 @@ metaDescription: The London Acting Group run by Sedos meets on the first
 ---
 #### **U﻿PDATE - ACTING GROUP IS BACK!**
 
-Our fun and friendly Acting Group will return on **Thursday 23 of May from 7-9pm at Theatre Deli**. 
+After a successful return in May, our friendly Acting Group is back for more fun on **Thursday 18 July** and **Thursday 15 August, 7-9pm at Theatre Deli.**
 
 Join Jamila Jennings-Grant, Josh Yard and Sarah Berryman for an evening of acting games, script work and guaranteed laughs! All levels of experience are very welcome and no preparation is needed. We'll then finish the evening with an (optional) trip to a local pub.
 
