@@ -20,7 +20,7 @@ This unplanned, impulsive and spur-of the moment group have a number of upcoming
 
 **Tuesday 11 June 2024** | 7.30pm\
 *Hoopla Mixer, The Miller, 96 Snowsfields Road, London Bridge SE1 3SS*\
-[hooplaimpro.com](https://www.hooplaimpro.com/improv-comedy-club-london-bridge.html)
+[hooplaimpro.com](https://www.eventbrite.co.uk/e/hoopla-the-mixer-tickets-907506615717)
 
 ##### **Explore Simprov**
 
