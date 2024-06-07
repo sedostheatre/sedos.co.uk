@@ -1,13 +1,15 @@
 ---
 title: Acting Group
-image: /assets/51947468703_826d865d22_c.jpg
-venue: theatre-deli
+image: /assets/acting-group-may-2024.jpg
+venue: Theatre Deli
 recurrence: Acting Group is back
 ticket-prices: £5 per person (members and non-members alike)
 metaTitle: London Acting Group with Sedos
 metaDescription: The London Acting Group run by Sedos meets on the first
   Wednesday of every month. Find out how to sign up
 ---
+![](/assets/acting-group-may-2024.jpg)
+
 #### **U﻿PDATE - ACTING GROUP IS BACK!**
 
 After a successful return in May, our friendly Acting Group is back for more fun on **Thursday 18 July** and **Thursday 15 August, 7-9pm at Theatre Deli.**
