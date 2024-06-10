@@ -58,9 +58,6 @@ The management committee meets monthly.
 
 **Chair** | Adrian Hau (he/him)\
 **Production group** | Adam Coppard (he/him)\
-Tim Garrad (he/him) \
-Ruth Granton (she/her)\
-Olly Levett (he/him)\
 Karen Braganza (she/her)\
 Sorrel Brown (she/her)\
 Paul Caira \
