@@ -2,7 +2,7 @@
 title: Picnic in the Park with Sedos
 times:
   - time: 2024-06-30 13:00
-image: /assets/picnicsocial-newsletter.jpg
+image: /assets/picnicsocial-website.jpg
 ticket-prices: FREE
 ---
 ![](/assets/picnicsocial-newsletter.jpg)
