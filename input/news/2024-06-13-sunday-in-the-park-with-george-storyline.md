@@ -1,5 +1,5 @@
 ---
-title: Sunday in the Park with George storyline
+title: What's Sunday in the Park with George about?
 date: 2024-06-13
 image: /assets/image_123650291.jpg
 imageAlt: Sunday in the Park with George storyline
