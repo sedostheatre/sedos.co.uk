@@ -9,7 +9,7 @@ ticket-prices: FREE
 
 **Join us on Sunday 30 June at Regent's Park, from 1-4pm, for a picnic with Sedos!** 
 
-All are welcome - newbies, members, casts, crews, friends and family. Bring your own picnic to chill and chat over snacks and drinks, speak with Committee members and maybe even find a team to pitch a show with for 2025. 
+All are welcome - newbies, members, casts, crews, friends and family. Bring your own picnic to chill and chat over snacks and drinks, speak with committee members and maybe even find a team to pitch a show with for 2025. 
 
 No registration needed, just turn up. We hope to see you there! 
 
