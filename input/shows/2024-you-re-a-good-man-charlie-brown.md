@@ -43,8 +43,14 @@ sections:
       **MUSICAL DIRECTOR** | Ed Steward (he/him)\
       **CHOREOGRAPHER** | Taylor Davidson (she/her)\
       **PRODUCER** | Ben Hussey (he/him)\
-      **ASSISTANT MUSICAL DIRECTOR** | Mike Cannon (he/him)\
-      **ASSISTANT DIRECTOR & PRODUCER** | Gemma Evans (she/her)
+      **ASSISTANT DIRECTOR and PRODUCER** | Gemma Evans (she/her)\
+      **ASSISTANT MUSICAL DIRECTOR** | Mike Cannon (he/him)\
+      **STAGE MANAGER** | Tamsin Ker (she/her)\
+      **SET DESIGN** | Andrew Laidlaw (he/him)\
+      **LIGHTING DESIGN** | Shiri Stern\
+      **SOUND DESIGN** | Henry Whittaker (he/him)\
+      **COSTUME & PROPS DESIGN** | Caroline Rice (she/her)\
+      **COMMITTEE LIAISON** | Paul Caira
 metaTitle: You're A Good Man, Charlie Brown plays at the Bridewell Theatre from
   9-13 July 2024.
 metaDescription: You're A Good Man, Charlie Brown is part of Sedos’ 2024 London
