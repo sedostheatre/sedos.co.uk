@@ -1,5 +1,5 @@
 ---
-title: Sedos pitch process 2025
+title: Pitch a show for Sedos for 2025
 date: 2024-06-21
 image: /assets/pitchopening-website.jpg
 imageAlt: Sedos pitch process 2025
