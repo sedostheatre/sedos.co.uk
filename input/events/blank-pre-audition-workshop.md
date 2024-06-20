@@ -37,7 +37,7 @@ You don’t need to prepare anything for the workshop and it is free to attend f
 
 **SIGN UP**
 
-You can sign up for the workshop at [https://membership.sedos.​co.uk/signup/130](https://membership.sedos.co.uk/signup/130)
+You can sign up for the workshop at <https://membership.sedos.co.uk/signup/129>
 
 **MORE AUDITIONS**
 
