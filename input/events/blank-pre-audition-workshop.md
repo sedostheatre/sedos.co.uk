@@ -42,3 +42,7 @@ You can sign up for the workshop at <https://membership.sedos.co.uk/signup/129>
 **MORE AUDITIONS**
 
 Info about all Sedos’ [London auditions](https://www.sedos.co.uk/get-involved).
+
+^^^
+![[BLANK] pre-audition workshop](/assets/blank-ig-square-2-.png)
+^^^
