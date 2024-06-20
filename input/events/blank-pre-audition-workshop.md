@@ -8,7 +8,7 @@ metaTitle: "[BLANK] pre-audition workshop"
 metaDescription: Find out how to attend the [BLANK] pre-audition workshop on 25
   June and more about Sedos’ production in September 2024
 ---
-Registration is now open for the *[\[BLANK]](https://www.sedos.co.uk/shows/2024-blank)* pre-audition workshop, for our production from 24-28 September at the [Bridewell Theatre](https://www.sedos.co.uk/venues/bridewell). 
+Registration is now open for the *\[[BLANK]](https://www.sedos.co.uk/shows/2024-blank)* pre-audition workshop, for our production from 24-28 September at the [Bridewell Theatre](https://www.sedos.co.uk/venues/bridewell). 
 
 **KEY INFO**
 
@@ -42,3 +42,5 @@ You can sign up for the workshop at <https://membership.sedos.co.uk/signup/129>
 **MORE AUDITIONS**
 
 Info about all Sedos’ [London auditions](https://www.sedos.co.uk/get-involved).
+
+![[BLANK] pre-audition workshop](/assets/blank-ig-square-2-.png)
