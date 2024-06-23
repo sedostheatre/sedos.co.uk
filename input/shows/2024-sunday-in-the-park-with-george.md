@@ -82,6 +82,9 @@ sections:
       **SCENIC CARPENTER** | Matthew Ferris (he/him)\
       **LIGHTING DESIGNER** | Ben Sassoon (he/him)\
       **SOUND DESIGNER** | Ash Fairs (they/them)
+  - order: 2
+    title: VIDEO
+    body: <div class="video-responsive"><?# YouTube vtHA2iHYjB0 /?></div>
 metaTitle: Sunday in the Park with George, by Stephen Sondheim and James Lapine,
   plays at the Wheatsheaf  Hall from 20-29 June 2024 and Thorrington Theatre on
   28 July and 4 August 2024
