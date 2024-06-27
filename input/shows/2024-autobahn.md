@@ -36,6 +36,22 @@ Each of these seven vignettes explore the ethos of perception and relationship â
 
 *Autobahn* plays at the [Bridewell Theatre](https://www.sedos.co.uk/venues/bridewell) from 17-21 September 2024.
 
+#### Auditions
+
+Audition slots are now open for *[Autobahn](https://www.sedos.co.uk/shows/2024-autobahn)*
+
+**KEY INFO**
+
+**Auditions:** Thursday 4 July, Friday 5 July and Saturday 6 July 2024\
+**Recalls (invite only):** Thursday 11 July\
+**Venue:**Â Theatre Deli, 107 Leadenhall Street, EC3A 4AF
+
+#### **[READ MORE IN THE FULL AUDITION NOTICE](https://drive.google.com/drive/folders/1joVkDtSoGJR6VpP2WzAt39mLGrTfZluU)**
+
+**SIGN UP**
+
+You can sign up for the auditions at [](<You can sign up for the auditions at https://membership.sedos.co.uk/signup/131>)<https://membership.sedos.co.uk/signup/131>
+
 This amateur production of *Autobahn: A Short-Play Cycle* is presented by arrangement with Concord Theatricals Ltd. on behalf of Samuel French Ltd. [www.concordtheatricals.co.uk](https://www.concordtheatricals.co.uk)
 
 [](https://www.concordtheatricals.co.uk)
