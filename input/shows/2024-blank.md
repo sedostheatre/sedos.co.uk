@@ -34,12 +34,30 @@ metaDescription: "[BLANK], by Alice Birch highlights the love, joy and hope that
   part of Sedos’ 2024 season and plays at the Bridewell Theatre from 24-28
   September 2024"
 ---
-***\[﻿BLANK]* explores the impact of the criminal justice system on women and their families.**
+**“This play is a challenge and an invitation to you and your company to make your own play”**
 
-With the company picking from 100 unnamed scenes, *\[BLANK]* provides a unique experience for audiences.
-
-Registration is open for the show’s [pre-audition workshop](https://www.sedos.co.uk/events/blank-pre-audition-workshop). 
+Alice Birch wrote 100 scenes, for both adults and children, that can be repeated, put in any order and presented however the company likes, so the possibilities for this show are endless. No two productions will ever be the same.\
+\
+The play looks at the experience of women in prison as well as the impact incarceration has on their families. We see how the prison system affects those incarcerated, those who work within it and those who are left behind. The play certainly goes to some dark places but it would be wrong to see Alice Birch’s work as just a howl of rage, as she says, “I think kindness is really what I’m writing about all the time.” 
 
 *\[﻿BLANK]* plays at the [Bridewell Theatre](https://www.sedos.co.uk/venues/bridewell) from 24-28 September 2024. 
 
-*\[﻿BLANK]* is presented by kind permission of Alice Birch.
+#### **Auditions**
+
+Audition slots are now open for *\[BLANK]* 
+
+**KEY INFO**
+
+**Audition:** Tuesday 2 and Wednesday 3 July 2024\
+**Recalls (invite only):** Saturday 13 July 2024\
+**Venue:** Theatre Deli, 107 Leadenhall Street, EC3A 4AF
+
+### [READ MORE IN THE FULL AUDITION NOTICE](https://drive.google.com/drive/folders/1mSx9QtWbvWARXb-3b8faoizRs9PpJhsJ)
+
+**SIGN UP**
+
+You can sign up for the auditions at <https://membership.sedos.co.uk/signup/130>[](https://membership.sedos.co.uk/signup/129)
+
+^^^
+![](/assets/blank-ig-square-2-.png)
+^^^ *\[﻿BLANK]* is presented by kind permission of Alice Birch.
