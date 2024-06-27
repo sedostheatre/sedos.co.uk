@@ -10,7 +10,7 @@ metaTitle: "[BLANK] auditiond"
 metaDescription: Find out how to attend the [BLANK] auditions on Tuesday 2 and
   Wednesday 3 July and more about Sedos’ production in September 2024
 ---
-Audition slots are now open for our production of *\[[BLANK]](https://www.sedos.co.uk/shows/2024-blank)*from 24-28 September at the Bridewell Theatre [Bridewell Theatre](https://www.sedos.co.uk/venues/bridewell). 
+Audition slots are now open for our production of *[[BLANK](https://www.sedos.co.uk/shows/2024-blank)]* from 24-28 September at the Bridewell Theatre [Bridewell Theatre](https://www.sedos.co.uk/venues/bridewell). 
 
 **KEY INFO**
 
