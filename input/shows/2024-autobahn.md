@@ -38,7 +38,7 @@ Each of these seven vignettes explore the ethos of perception and relationship â
 
 #### Auditions
 
-Audition slots are now open for *[Autobahn](https://www.sedos.co.uk/shows/2024-autobahn)*
+Audition slots are now open for *Autobahn*Â 
 
 **KEY INFO**
 
