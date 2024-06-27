@@ -44,12 +44,12 @@ The play looks at the experience of women in prison as well as the impact incarc
 
 #### **Auditions**
 
-Audition slots are now open for *[[BLANK](https://www.sedos.co.uk/shows/2024-blank)]* 
+Audition slots are now open for *\[BLANK]* 
 
 **KEY INFO**
 
-**Audition:** Tuesday 2 and Wednesday 3 July\
-**Recalls (invite only):** Saturday 13 July\
+**Audition:** Tuesday 2 and Wednesday 3 July 2024\
+**Recalls (invite only):** Saturday 13 July 2024\
 **Venue:** Theatre Deli, 107 Leadenhall Street, EC3A 4AF
 
 ### [READ MORE IN THE FULL AUDITION NOTICE](https://drive.google.com/drive/folders/1mSx9QtWbvWARXb-3b8faoizRs9PpJhsJ)
@@ -60,8 +60,4 @@ You can sign up for the auditions at <https://membership.sedos.co.uk/signup/130>
 
 ^^^
 ![](/assets/blank-ig-square-2-.png)
-^^^ 
-
-
-
-*\[﻿BLANK]* is presented by kind permission of Alice Birch.
+^^^ *\[﻿BLANK]* is presented by kind permission of Alice Birch.
