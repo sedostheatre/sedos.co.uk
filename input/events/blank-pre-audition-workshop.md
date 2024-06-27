@@ -1,19 +1,22 @@
 ---
-title: "[BLANK] pre-audition workshop"
+title: "[BLANK] Auditions"
 times:
-  - time: 2024-06-25 19:00
+  - time: 2024-07-02 19:00
+  - time: 2024-07-03 19:00
 image: /assets/nathalia-arantes-2wo9z1paoaq-unsplash.jpg
-imageAlt: "[BLANK] pre-audition workshop"
-metaTitle: "[BLANK] pre-audition workshop"
-metaDescription: Find out how to attend the [BLANK] pre-audition workshop on 25
-  June and more about Sedos’ production in September 2024
+imageAlt: "[BLANK] auditions"
+venue: Theatre Deli
+metaTitle: "[BLANK] auditiond"
+metaDescription: Find out how to attend the [BLANK] auditions on Tuesday 2 and
+  Wednesday 3 July and more about Sedos’ production in September 2024
 ---
-Registration is now open for the *\[BLANK]* pre-audition workshop, for our production from 24-28 September at the [Bridewell Theatre](https://www.sedos.co.uk/venues/bridewell). 
+Audition slots are now open for our production of *[\[BLANK]](https://www.sedos.co.uk/shows/2024-blank)*from 24-28 September at the Bridewell Theatre [Bridewell Theatre](https://www.sedos.co.uk/venues/bridewell). 
 
 **KEY INFO**
 
-**When:** Tuesday 25 June, 7pm\
-**Venue:** Vibast Community Centre, 167 Old Street, London EC1V 9NH (the venue is level access and has accessible toilets.)
+**Audition:** Tuesday 2 and Wednesday 3 July
+**Recalls (invite only):** Saturday 13 July\
+**Venue:** Theatre Deli, 107 Leadenhall Street, EC3A 4AF
 
 **ABOUT THE SHOW**
 
@@ -27,22 +30,14 @@ The play looks at the experience of women in prison as well as the impact incarc
 
 ### [READ MORE IN THE FULL AUDITION NOTICE](https://drive.google.com/drive/folders/1mSx9QtWbvWARXb-3b8faoizRs9PpJhsJ)
 
-**MORE ABOUT THE WORKSHOP**
-
-This is a great opportunity to meet some of the production team, hear more from the director about the vision of the show, have the chance to read through some of the scenes from the script and a Q&A. There won’t be any sharing scenes elements to the workshop, so don’t worry if you can’t attend - it won’t affect your audition.
-
-You don’t need to prepare anything for the workshop and it is free to attend for Sedos members and non-members. Attendance is not compulsory and whether you attend or not will not affect your chances of being cast.
-
-### [FULL AUDITION NOTICE](https://drive.google.com/drive/folders/1mSx9QtWbvWARXb-3b8faoizRs9PpJhsJ?usp=sharing)
-
 **SIGN UP**
 
-You can sign up for the workshop at <https://membership.sedos.co.uk/signup/129>
+You can sign up for the auditions at <https://membership.sedos.co.uk/signup/130>[](https://membership.sedos.co.uk/signup/129)
 
 **MORE AUDITIONS**
 
 Info about all Sedos’ [London auditions](https://www.sedos.co.uk/get-involved).
 
 ^^^
-![[BLANK] pre-audition workshop](/assets/blank-ig-square-2-.png)
+![](/assets/blank-ig-square-2-.png)
 ^^^
