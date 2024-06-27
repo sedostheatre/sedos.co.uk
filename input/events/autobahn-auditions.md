@@ -7,7 +7,7 @@ times:
 image: /assets/autobahn_800x500_notext.png
 venue: Theatre Deli
 ---
-Audition slots are now open for our production of *[Autobahn](https://www.sedos.co.uk/shows/2024-autobahn)*, by Neil LaBute from 17-21 September at the [Bridewell Theatre](https://www.sedos.co.uk/venues/bridewell).
+Audition slots are now open for our production of *[Autobahn](https://www.sedos.co.uk/shows/2024-autobahn)*, by Neil LaBute, from 17-21 September at the [Bridewell Theatre](https://www.sedos.co.uk/venues/bridewell).
 
 **KEY INFO**
 
@@ -17,7 +17,7 @@ Audition slots are now open for our production of *[Autobahn](https://www.sedos.
 
 **ABOUT THE SHOW**
 
-*Autobahn* is a short play cycle composed of seven vignettes, each featuring two characters who tell their stories from the confines of the front seat of a car. There is no through line, except the matching setting of each scene. The show explores relationships, and the tension between people as they explore their problems, attitudes and history with the person sat next to them, with no means of escaping the current setting or issue.
+*Autobahn*, by Neil LaBute, is a short play cycle composed of seven vignettes, each featuring two characters who tell their stories from the confines of the front seat of a car. There is no through line, except the matching setting of each scene. The show explores relationships, and the tension between people as they explore their problems, attitudes and history with the person sat next to them, with no means of escaping the current setting or issue.
 
 #### **[READ MORE IN THE FULL AUDITION NOTICE](https://drive.google.com/drive/folders/1joVkDtSoGJR6VpP2WzAt39mLGrTfZluU)**
 
