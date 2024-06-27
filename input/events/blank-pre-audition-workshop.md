@@ -1,5 +1,5 @@
 ---
-title: "[BLANK] Auditions"
+title: "[BLANK] auditions"
 times:
   - time: 2024-07-02 19:00
   - time: 2024-07-03 19:00
