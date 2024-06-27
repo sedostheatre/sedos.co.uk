@@ -28,3 +28,5 @@ You can sign up for the auditions at [https://membership.sedos.co.uk/signup/131]
 **MORE AUDITION**S
 
 Info about all Sedos’ [London auditions](https://www.sedos.co.uk/get-involved).
+
+![](/assets/autobahn_flyerfront-update.png)
