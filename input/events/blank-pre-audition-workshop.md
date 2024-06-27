@@ -6,7 +6,7 @@ times:
 image: /assets/nathalia-arantes-2wo9z1paoaq-unsplash.jpg
 imageAlt: "[BLANK] auditions"
 venue: Theatre Deli
-metaTitle: "[BLANK] auditiond"
+metaTitle: "[BLANK] auditions"
 metaDescription: Find out how to attend the [BLANK] auditions on Tuesday 2 and
   Wednesday 3 July and more about Sedos’ production in September 2024
 ---
