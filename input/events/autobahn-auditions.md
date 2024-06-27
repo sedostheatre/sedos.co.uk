@@ -23,7 +23,7 @@ Audition slots are now open for our production of *[Autobahn](https://www.sedos.
 
 **SIGN UP**
 
-You can sign up for the auditions at [https://membership.sedos.co.uk/signup/131](<You can sign up for the auditions at https://membership.sedos.co.uk/signup/131>)
+You can sign up for the auditions at [](<You can sign up for the auditions at https://membership.sedos.co.uk/signup/131>)<https://membership.sedos.co.uk/signup/131>
 
 **MORE AUDITION**S
 
