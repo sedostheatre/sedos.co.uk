@@ -51,6 +51,9 @@ sections:
       **SOUND DESIGN** | Henry Whittaker (he/him)\
       **COSTUME & PROPS DESIGN** | Caroline Rice (she/her)\
       **COMMITTEE LIAISON** | Paul Caira
+  - order: 2
+    title: VIDEO
+    body: <div class="video-responsive"><?# YouTube f5dJvmx_14g /?></div>
 metaTitle: You're A Good Man, Charlie Brown plays at the Bridewell Theatre from
   9-13 July 2024.
 metaDescription: You're A Good Man, Charlie Brown is part of Sedos’ 2024 London
