@@ -18,7 +18,6 @@ RedirectFrom:
 ^^^ 
 
 >This production was blessed with two outstanding leads in Will de Renzy-Martin (George) and Sadie Kempner (Dot)… Sunday In the Park with George was an excellent production overall which should satisfy the most ardent fans of Stephen Sondheim whilst engaging anyone for whom it will be a first time view.
-
 ><footer><cite><a target="_blank" href="https://musicaltheatremusings.co.uk/sunday-in-the-park-with-george">Musical Theatre Musings</a></cite></footer>
 
 >Sedos remains a shining example of anything good about theatre… Everything about the setup is done with a professional standard of approach.
