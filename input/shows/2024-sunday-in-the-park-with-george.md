@@ -85,6 +85,21 @@ sections:
   - order: 2
     title: VIDEO
     body: <div class="video-responsive"><?# YouTube vtHA2iHYjB0 /?></div>
+  - order: 3
+    title: REVIEWS
+    body: >-
+      >This production was blessed with two outstanding leads in Will de
+      Renzy-Martin (George) and Sadie Kempner (Dot)… Sunday In the Park with
+      George was an excellent production overall which should satisfy the most
+      ardent fans of Stephen Sondheim whilst engaging anyone for whom it will be
+      a first time view.
+
+      ><footer><cite><a target="_blank" href="https://musicaltheatremusings.co.uk/sunday-in-the-park-with-george">Sunday in the Park with George, 2024, Musical Theatre Musings</a></cite></footer>
+
+
+      >Sedos remains a shining example of anything good about theatre… Everything about the setup is done with a professional standard of approach.
+
+      ><footer><cite><a target="_blank" href="https://performingpilchards.co.uk/review/sunday-in-the-park-with-george/">Sunday in the Park with George, 2024, Performing Pilchards (*****)</a></cite></footer>
 metaTitle: Sunday in the Park with George, by Stephen Sondheim and James Lapine,
   plays at the Wheatsheaf  Hall from 20-29 June 2024 and Thorrington Theatre on
   28 July and 4 August 2024
