@@ -112,22 +112,22 @@ sections:
       up to date with exceptional creativity... This production feels alive and
       present
 
-      ><footer><cite><a target="_blank" href="https://www.londontheatrereviews.co.uk/post.cfm?p=20237">London Theatre Reviews</a></cite></footer>
+      ><footer><cite><a target="_blank" href="https://www.londontheatrereviews.co.uk/post.cfm?p=20237">Richard III, 2024, London Theatre Reviews</a></cite></footer>
 
 
       >It’s standing ovation time for Sugarman [as Richard]…  leading a very talented cast of great players.  Summing up, Sedos have done it again with Richard III. Every time I see this company I leave the theatre impressed, and this was no exception
 
-      ><footer><cite><a target="_blank" href="https://www.lastminutetheatretickets.com/richard-iii-by-william-shakespeare-bridewell-theatre-review/">Last Minute Theatre Tickets (****)</a></cite></footer>
+      ><footer><cite><a target="_blank" href="https://www.lastminutetheatretickets.com/richard-iii-by-william-shakespeare-bridewell-theatre-review/">Richard III, 2024, Last Minute Theatre Tickets (****)</a></cite></footer>
 
 
       >The choice of reoccurring news bulletins being flashed up… really helps to hammer home important plot points and makes this play much more accessible to those that may not typically be a fan of the Bard… a very interesting take on it, performed by accomplished actors… well worth seeing.
 
-      ><footer><cite><a target="_blank" href="https://musicaltheatremusings.co.uk/richard-iii">Musical Theatre Musings</a></cite></footer>
+      ><footer><cite><a target="_blank" href="https://musicaltheatremusings.co.uk/richard-iii">Richard III, 2024, Musical Theatre Musings</a></cite></footer>
 
 
       >A striking and bold reimagining of one of Shakespeare’s most enduring histories.
 
-      ><footer><cite><a target="_blank" href="https://broadwaybaby.com/shows/richard-iii/806232">Broadway Baby (****)</a></cite></footer>
+      ><footer><cite><a target="_blank" href="https://broadwaybaby.com/shows/richard-iii/806232">Richard III, 2024, Broadway Baby (****)</a></cite></footer>
 RedirectFrom: []
 metaTitle: Richard III, by William Shakespeare, plays at the Bridewell Theatre
   from 9-18 May 2024
