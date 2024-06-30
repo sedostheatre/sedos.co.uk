@@ -82,10 +82,10 @@ sections:
       **SCENIC CARPENTER** | Matthew Ferris (he/him)\
       **LIGHTING DESIGNER** | Ben Sassoon (he/him)\
       **SOUND DESIGNER** | Ash Fairs (they/them)
-  - order: 2
+  - order: 3
     title: VIDEO
     body: <div class="video-responsive"><?# YouTube vtHA2iHYjB0 /?></div>
-  - order: 3
+  - order: 4
     title: REVIEWS
     body: >-
       >This production was blessed with two outstanding leads in Will de
@@ -100,6 +100,15 @@ sections:
       >Sedos remains a shining example of anything good about theatre… Everything about the setup is done with a professional standard of approach.
 
       ><footer><cite><a target="_blank" href="https://performingpilchards.co.uk/review/sunday-in-the-park-with-george/">Sunday in the Park with George, 2024, Performing Pilchards (*****)</a></cite></footer>
+  - order: 2
+    title: GALLERY
+    body: <a data-flickr-embed="true"
+      href="https://www.flickr.com/photos/sedos/albums/72177720318362336"
+      title="Sunday in the Park with George III - 2024"><img
+      src="https://live.staticflickr.com/65535/53824264252_75f2c9e49b.jpg"
+      width="640" height="480" alt="Sunday in the Park with George III -
+      2024"/></a><script async src="//embedr.flickr.com/assets/client-code.js"
+      charset="utf-8"></script>
 metaTitle: Sunday in the Park with George, by Stephen Sondheim and James Lapine,
   plays at the Wheatsheaf  Hall from 20-29 June 2024 and Thorrington Theatre on
   28 July and 4 August 2024
