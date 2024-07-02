@@ -14,7 +14,11 @@ jobs:
     - name: Build
       run: dotnet build /p:RestorePackagesWithLockFile=true
     - name: Run
-      run: dotnet run deploy
+      uses: nick-fields/retry@v3
+      with:
+        timeout_minutes: 10
+        max_attempts: 3
+        command: dotnet run deploy
     - name: Node Install
       run: 'npm ci'
     - name: Lint Styles
