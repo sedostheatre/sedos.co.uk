@@ -14,7 +14,7 @@ metaDescription: See pictures of London Drama Societies at Pride in London 2024
 
 **Thank you so much to everyone who marched with us at Pride in London on Saturday 29 June.** 
 
-We had a fantastic day in the sunshine celebrating and showing our pride with friends from Geoids and CentreStage under the banner of London Drama Societies, including a big group rendition of Seasons of Love, no less.
+We had a fantastic day in the sunshine celebrating and showing our pride with friends from [Geoids](https://www.geoidsmt.co.uk/) and [Centre Stage](https://www.centrestage.london/) under the banner of [London Drama Societies](https://www.instagram.com/londondramasocieties/), including a big group rendition of Seasons of Love, no less.
 
 A huge thanks to the helpers from all three societies who helped to make it happen, and we can't wait to do it all again next year.
 
