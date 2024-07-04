@@ -15,10 +15,20 @@ metaDescription: The London Acting Group run by Sedos meets on the first
 ---
 ![](/assets/acting-group-may-2024.jpg)
 
-**After a successful return in May, our friendly Acting Group is back for more Thursday fun, once a month, 7-9pm at Theatre Deli.**
+**Our friendly Acting Group is back for more once a month Thursday fun at Theatre Deli.**
 
 Join Jamila Jennings-Grant, Josh Yard and Sarah Berryman for an evening of acting games, script work and guaranteed laughs! All levels of experience are very welcome and no preparation is needed. We'll then finish the evening with an (optional) trip to a local pub.
 
-The session is £5 for Sedos Members and £7 for non-members. Please [book here](https://sedos.ticketsolve.com/ticketbooth/shows/1173655734) or email [acting@sedos.co.uk](mailto:acting@sedos.co.uk) with any questions.
+**2024 Acting Group dates**
 
-Sessions take place at Theatre Deli, 107 Leadenhall Street, London EC3A 4AF.
+Thursday 18 July 18 2024\
+Thursday 15 August 15 2024\
+Thursday 26 September 26 2024\
+Thursday 17 October 17 2024\
+Thursday 21 November 21 2024
+
+Sessions take place 7pm-10pm at Theatre Deli, 107 Leadenhall Street, London EC3A 4AF
+
+The session is £5 for Sedos Members and £7 for non-members. 
+
+Please [book here](https://sedos.ticketsolve.com/ticketbooth/shows/1173655734) or email [acting@sedos.co.uk](mailto:acting@sedos.co.uk) with any questions.
