@@ -7,11 +7,11 @@ times:
   - time: 2024-11-21 19:00
 image: /assets/acting-group-may-2024.jpg
 venue: Theatre Deli
-recurrence: Acting Group is back
+recurrence: Once a month on Thursdays
 ticket-prices: £5 for members; £7 for non-members
 metaTitle: London Acting Group with Sedos
-metaDescription: The London Acting Group run by Sedos meets on the first
-  Wednesday of every month. Find out how to sign up
+metaDescription: The London Acting Group run by Sedos meets once a month on
+  Thursdays. Find out how to sign up
 ---
 ![](/assets/acting-group-may-2024.jpg)
 
@@ -21,11 +21,11 @@ Join Jamila Jennings-Grant, Josh Yard and Sarah Berryman for an evening of actin
 
 **2024 Acting Group dates**
 
-Thursday 18 July 18 2024\
-Thursday 15 August 15 2024\
-Thursday 26 September 26 2024\
-Thursday 17 October 17 2024\
-Thursday 21 November 21 2024
+Thursday 18 July 2024\
+Thursday 15 August 2024\
+Thursday 26 September 2024\
+Thursday 17 October 2024\
+Thursday 21 November 2024
 
 Sessions take place 7pm-10pm at Theatre Deli, 107 Leadenhall Street, London EC3A 4AF
 
