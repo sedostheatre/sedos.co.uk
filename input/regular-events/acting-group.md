@@ -10,8 +10,8 @@ venue: Theatre Deli
 recurrence: Once a month on Thursdays
 ticket-prices: £5 for members; £7 for non-members
 metaTitle: London Acting Group with Sedos
-metaDescription: The London Acting Group run by Sedos meets on the first
-  Wednesday of every month. Find out how to sign up
+metaDescription: The London Acting Group run by Sedos meets once a month on
+  Thursdays. Find out how to sign up
 ---
 ![](/assets/acting-group-may-2024.jpg)
 
