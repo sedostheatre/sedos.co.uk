@@ -46,9 +46,9 @@ sections:
       **ASSISTANT DIRECTOR and PRODUCER** | Gemma Evans (she/her)\
       **ASSISTANT MUSICAL DIRECTOR** | Mike Cannon (he/him)\
       **STAGE MANAGER** | Tamsin Ker (she/her)\
-      **SET DESIGN** | Andrew Laidlaw (he/him)\
+      **SET DESIGN** | Andrew Laidlaw (he/him) and Mark Steward\
       **LIGHTING DESIGN** | Shiri Stern\
-      **SOUND DESIGN** | Henry Whittaker (he/him)\
+      **SOUND DESIGN** | Pranav Mahesh and Henry Whittaker (he/him)\
       **COSTUME & PROPS DESIGN** | Caroline Rice (she/her)\
       **COMMITTEE LIAISON** | Paul Caira
   - order: 2
