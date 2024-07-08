@@ -1,26 +1,21 @@
 ---
 title: Simprov performs across London
 times:
-  - time: 2024-06-04 19:30
-  - time: 2024-06-11 18:30
+  - time: 2024-07-21 19:00
 image: /assets/simprov.jpg
 venue: ""
 ticket-prices: ""
 metaTitle: ""
 ---
-![](/assets/simprov_hoopla_9jan2024.jpg "Some of the Simprov gang at their first Hoopla Mixer gig at the The Miller, London Bridge")
+![](/assets/simprov_hoopla_9jan2024.jpg "Join the Simprov crew at the Bread & Roses, Clapham")
 
 **Simprov is the Sedos group that lets members and non-members explore their spontaneous side.** 
 
 This unplanned, impulsive and spur-of the moment group have a number of upcoming performances coming up that are sure to get you laughing in the aisles. Click on the links for more information.
 
-**Tuesday 4 June 2024** | 7.30pm-8.45pm\
-*horeditch Balls, 333 Old St, London EC1V 9LE*\
-[shoreditchballs.com](https://www.shoreditchballs.com)
-
-**Tuesday 11 June 2024** | 7.30pm\
-*Hoopla Mixer, The Miller, 96 Snowsfields Road, London Bridge SE1 3SS*\
-[hooplaimpro.com](https://www.eventbrite.co.uk/e/hoopla-the-mixer-tickets-907506615717)
+**Tuesday 11 June 2024** | 7pm\
+[Bread & Roses](https://breadandrosespub.co.uk/), 68 Clapham Manor Street, London SW4 6DZ\
+<https://app.lineupnow.com/event/the-defectors-present-scratch-n-sniff-6>
 
 ##### **Explore Simprov**
 
