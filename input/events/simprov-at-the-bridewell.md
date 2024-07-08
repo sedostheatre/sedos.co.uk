@@ -17,7 +17,7 @@ This unplanned, impulsive and spur-of-the-moment group have a number of upcoming
 [Bread & Roses](https://breadandrosespub.co.uk/), 68 Clapham Manor Street, London SW4 6DZ\
 <https://app.lineupnow.com/event/the-defectors-present-scratch-n-sniff-6>
 
-Come on down to the Bread & Roses on the 21 July and get a whiff of all the incredible talent that's been hiding right under your nose. Expect a well balanced, full-bodied evening of comedy, with notes of sketch and stand-up, a hint of music, and other aromatic antics.
+Come on down to the Bread and Roses on the 21 July and get a whiff of all the incredible talent that's been hiding right under your nose. Expect a well balanced, full-bodied evening of comedy, with notes of sketch and stand-up, a hint of music, and other aromatic antics.
 
 ##### **Explore Simprov**
 
