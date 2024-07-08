@@ -7,7 +7,7 @@ venue: ""
 ticket-prices: ""
 metaTitle: ""
 ---
-![](/assets/simprov_hoopla_9jan2024.jpg "Join the Simprov crew at the Bread & Roses, Clapham")
+![](/assets/simprov-july-24-5.jpg "Join the Simprov crew at the Bread & Roses, Clapham")
 
 **Simprov is the Sedos group that lets members and non-members explore their spontaneous side.** 
 
