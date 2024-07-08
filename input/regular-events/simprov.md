@@ -31,10 +31,14 @@ For more info, head to the [Simprov Facebook page.](https://www.facebook.com/gro
 
 After four years we have decided to bring our support of in-house improv group The Banana Hut Gang, which was formed from a collection of the most die-hard Simprov attendees, to an end. This will allow the group to go their own way and flourish outside of our organisation. You can still follow the group on their [Facebook page](https://www.facebook.com/bananahutgang/).
 
+![](/assets/simprov-july-24-5.jpg)
+
 ![](/assets/simprov-july-24-1.jpg)
 
 ![](/assets/simprov-july-24-3.jpg)
 
 ![](/assets/simprov-july-24-4.jpg)
+
+![](/assets/simprov-july-24-6.jpg)
 
 ![](/assets/simprov-july-24-2.jpg)
