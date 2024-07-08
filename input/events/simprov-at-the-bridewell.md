@@ -2,7 +2,7 @@
 title: Simprov perform in Clapham
 times:
   - time: 2024-07-21 19:00
-image: /assets/simprov.jpg
+image: /assets/simprov-july-24-5.jpg
 venue: ""
 ticket-prices: ""
 metaTitle: ""
