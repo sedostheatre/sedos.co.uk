@@ -11,7 +11,7 @@ metaTitle: ""
 
 **Simprov is the Sedos group that lets members and non-members explore their spontaneous side.** 
 
-This unplanned, impulsive and spur-of the moment group have a number of upcoming performances coming up that are sure to get you laughing in the aisles. Click on the links for more information.
+This unplanned, impulsive and spur-of-the-moment group have a number of upcoming performances coming up that are sure to get you laughing in the aisles. Click on the links for more information.
 
 **Sunday 21 July** | 7pm\
 [Bread & Roses](https://breadandrosespub.co.uk/), 68 Clapham Manor Street, London SW4 6DZ\
