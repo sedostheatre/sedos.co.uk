@@ -13,9 +13,11 @@ metaTitle: ""
 
 This unplanned, impulsive and spur-of the moment group have a number of upcoming performances coming up that are sure to get you laughing in the aisles. Click on the links for more information.
 
-**Tuesday 11 June 2024** | 7pm\
+**Sunday 21 July** | 7pm\
 [Bread & Roses](https://breadandrosespub.co.uk/), 68 Clapham Manor Street, London SW4 6DZ\
 <https://app.lineupnow.com/event/the-defectors-present-scratch-n-sniff-6>
+
+Come on down to the Bread & Roses on the 21 July and get a whiff of all the incredible talent that's been hiding right under your nose. Expect a well balanced, full-bodied evening of comedy, with notes of sketch and stand-up, a hint of music, and other aromatic antics.
 
 ##### **Explore Simprov**
 
