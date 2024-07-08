@@ -1,5 +1,5 @@
 ---
-title: Simprov performs across London
+title: Simprov perform in Clapham
 times:
   - time: 2024-07-21 19:00
 image: /assets/simprov.jpg
