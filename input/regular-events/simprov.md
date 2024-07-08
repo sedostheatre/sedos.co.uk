@@ -1,14 +1,16 @@
 ---
 title: Simprov
 times: []
-image: /assets/simprov3-360.jpg
-header-image: /assets/simprov3-360.jpg
+image: /assets/simprov-july-24-2.jpg
+header-image: /assets/simprov-july-24-header.jpg
 venue: Theatre Deli
 recurrence: Fridays, 7pm
 metaTitle: "London improvisation group: Simprov is run by amateur theatre company Sedos"
 metaDescription: Simprov is a drop-in London improvisation group run by theatre
   company Sedos. We let actors explore their spontaneous side
 ---
+
+
 **Looking for a London improvisation group? Simprov is the Sedos group that lets members and non-members explore their spontaneous side!**
 
 If you want to learn improvisation skills and practise them in a fun and supportive way, then the Simprov Drop In is the place for you. We also run regular workshops and courses that lead to public performances.
@@ -31,6 +33,8 @@ For more info, head to the [Simprov Facebook page.](https://www.facebook.com/gro
 
 After four years we have decided to bring our support of in-house improv group The Banana Hut Gang, which was formed from a collection of the most die-hard Simprov attendees, to an end. This will allow the group to go their own way and flourish outside of our organisation. You can still follow the group on their [Facebook page](https://www.facebook.com/bananahutgang/).
 
-^^^
-![Simprov is a drop-in London improvisation group run by theatre company Sedos](/assets/simprov3-360.jpg)
-^^^ Simprov
+![](/assets/simprov-july-24-1.jpg)
+
+![](/assets/simprov-july-24-3.jpg)
+
+![](/assets/simprov-july-24-4.jpg)
