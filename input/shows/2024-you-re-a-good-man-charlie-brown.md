@@ -51,12 +51,21 @@ sections:
       **SOUND DESIGN** | Pranav Mahesh and Henry Whittaker (he/him)\
       **COSTUME & PROPS DESIGN** | Caroline Rice (she/her)\
       **COMMITTEE LIAISON** | Paul Caira
-  - order: 2
+  - order: 3
     title: VIDEO
     body: |-
       <div class="video-responsive"><?# YouTube 8zyUCI8h6yM /?></div>
 
       <div class="video-responsive"><?# YouTube f5dJvmx_14g /?></div>
+  - order: 2
+    title: GALLERY
+    body: <a data-flickr-embed="true"
+      href="https://www.flickr.com/photos/sedos/albums/72177720318641463"
+      title="You’re A Good Man, Charlie Brown - 2024"><img
+      src="https://live.staticflickr.com/65535/53845698444_a314a9cc77_z.jpg"
+      width="640" height="480" alt="You’re A Good Man, Charlie Brown -
+      2024"/></a><script async src="//embedr.flickr.com/assets/client-code.js"
+      charset="utf-8"></script>
 metaTitle: You're A Good Man, Charlie Brown plays at the Bridewell Theatre from
   9-13 July 2024.
 metaDescription: You're A Good Man, Charlie Brown is part of Sedos’ 2024 London
