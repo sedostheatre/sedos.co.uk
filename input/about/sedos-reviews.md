@@ -27,7 +27,7 @@ RedirectFrom:
 
 ^^^
 ![Sunday in the Park with George](/assets/448682349_982320817230841_4604648609701959161_n.jpg)
-^^^ 
+^^^ Sunday in the Park with George
 
 >This production was blessed with two outstanding leads in Will de Renzy-Martin (George) and Sadie Kempner (Dot)… Sunday In the Park with George was an excellent production overall which should satisfy the most ardent fans of Stephen Sondheim whilst engaging anyone for whom it will be a first time view.
 ><footer><cite><a target="_blank" href="https://musicaltheatremusings.co.uk/sunday-in-the-park-with-george">Sunday in the Park with George, 2024, Musical Theatre Musings</a></cite></footer>
