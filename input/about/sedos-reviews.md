@@ -11,11 +11,23 @@ RedirectFrom:
 
 # 2024
 
+## *You’re A Good Man, Charlie Brown*
+
+^^^
+![Dress rehearsal image of You’re A Good Man, Charlie Brown](/assets/53845601423_a85f683a25_c.jpg)
+^^^ You’re A Good Man, Charlie Brown
+
+>This play is charm personified, an absolutely delightful, whimsical and hilarious production that manages to be simplistic but also extremely clever. If you’ve even the vaguest fondness for musical theatre this is a must see, and Sedos have once again proven that they’re more than capable of producing professional quality theatre of the highest order.
+><footer><cite><a target="_blank" href="https://everything-theatre.co.uk/2024/07/review-youre-a-good-man-charlie-brown-bridewell-theatre/">You’re A Good Man, Charlie Brown, 2024, Everything Theatre (****)</a></cite></footer>
+
+>Director Mark Siddall had cleverly created a 2D world to echo the origins of the musical, enhanced by a clever set design by Andrew Laidlaw and Mark Steward… The cast were unwavering in their commitment and had really understood the brief that they were not only playing children but playing children from a comic book… Overall Sedos understood the brief for this show well, embrace the inner child that we all have and let that play out on stage… the creativity and commitment from the cast and production team really helped make this a fun night discovering a show for the first time.
+><footer><cite><a target="_blank" href="https://musicaltheatremusings.co.uk/youre-a-good-man-charlie-brown">You’re A Good Man, Charlie Brown, 2024, Musical Theatre Musings</a></cite></footer>
+
 ## *Sunday in the Park with George*
 
 ^^^
-![](/assets/448682349_982320817230841_4604648609701959161_n.jpg)
-^^^ 
+![Sunday in the Park with George](/assets/448682349_982320817230841_4604648609701959161_n.jpg)
+^^^ Sunday in the Park with George
 
 >This production was blessed with two outstanding leads in Will de Renzy-Martin (George) and Sadie Kempner (Dot)… Sunday In the Park with George was an excellent production overall which should satisfy the most ardent fans of Stephen Sondheim whilst engaging anyone for whom it will be a first time view.
 ><footer><cite><a target="_blank" href="https://musicaltheatremusings.co.uk/sunday-in-the-park-with-george">Sunday in the Park with George, 2024, Musical Theatre Musings</a></cite></footer>
