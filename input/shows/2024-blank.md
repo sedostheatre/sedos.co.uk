@@ -15,17 +15,62 @@ showtime-summary: 24-28 September 2024
 venue: Bridewell Theatre
 ticket-prices: From £12.50
 primary-color: "#aea809"
-header-image: /assets/blank-refined.jpg
+header-image: /assets/blank-poster-sedos-l.png
 header-image-contain: false
-flyer: /assets/whatsapp-image-2024-05-02-at-14.34.37-1-.jpeg
+flyer: /assets/blank-poster-sedos-l.png
 box-office-open: false
 sections:
   - order: 1
     title: CAST AND CREATIVE TEAM
-    body: |-
+    body: >-
+      **\[BLANK] CAST LIST**  (in no particular order) 
+
+
+      Note: The original text does not assign any names or pronouns. This gives the cast the exciting chance to build their own character based on the scenes selected by our director. 
+
+
+      Imogen Allen (she/her)\
+
+      Omar Aga (he/they)\
+
+      Sarah Beebe (she/her)\
+
+      Olivia Crosley (she/her)\
+
+      Jess Hearn (she/her)\
+
+      Caitlin Holmes (she/her)\
+
+      Isla McKenzie (she/her)\
+
+      Paula Mount (she/her)\
+
+      Olivier Namet (he/him)\
+
+      Olu Olasemo (she/her)\
+
+      Louise Roberts (she/her)\
+
+      Rosie O’Rourke (she/her)\
+
+      Dan Saunders (he/him)\
+
+      Rachel Smith (she/her)\
+
+      Sakshi Verman (she/her)\
+
+      Julia Blyth (she/her)
+
+
+      **CREATIVE TEAM**
+
+
       **DIRECTOR** | Zoë Thomas-Webb (she/they)\
+
       **PRODUCER** | KC Lylark (they/them)\
+
       **ASSISTANT DIRECTOR** | Katie Bonham (she/her)\
+
       **COSTUME DESIGNER** | Edith Webb (she/her)
 metaTitle: "[BLANK], by Alice Birch, plays at the Bridewell Theatre from 24-28
   September 2024"
@@ -40,24 +85,8 @@ Alice Birch wrote 100 scenes, for both adults and children, that can be repeated
 \
 The play looks at the experience of women in prison as well as the impact incarceration has on their families. We see how the prison system affects those incarcerated, those who work within it and those who are left behind. The play certainly goes to some dark places but it would be wrong to see Alice Birch’s work as just a howl of rage, as she says, “I think kindness is really what I’m writing about all the time.” 
 
-*\[﻿BLANK]* plays at the [Bridewell Theatre](https://www.sedos.co.uk/venues/bridewell) from 24-28 September 2024. 
+*\[﻿BLANK]* plays at the [Bridewell Theatre](https://www.sedos.co.uk/venues/bridewell) from 24-28 September 2024.\
+\
+Performances on Thursday 26 and Friday 27 September will have Open Captioning.
 
-#### **Auditions**
-
-Audition slots are now open for *\[BLANK]* 
-
-**KEY INFO**
-
-**Audition:** Tuesday 2 and Wednesday 3 July 2024\
-**Recalls (invite only):** Saturday 13 July 2024\
-**Venue:** Theatre Deli, 107 Leadenhall Street, EC3A 4AF
-
-### [READ MORE IN THE FULL AUDITION NOTICE](https://drive.google.com/drive/folders/1mSx9QtWbvWARXb-3b8faoizRs9PpJhsJ)
-
-**SIGN UP**
-
-You can sign up for the auditions at <https://membership.sedos.co.uk/signup/130>[](https://membership.sedos.co.uk/signup/129)
-
-^^^
-![](/assets/blank-ig-square-2-.png)
-^^^ *\[﻿BLANK]* is presented by kind permission of Alice Birch.
+\[﻿BLANK] is presented by kind permission of Alice Birch.
