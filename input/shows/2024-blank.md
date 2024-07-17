@@ -15,7 +15,7 @@ showtime-summary: 24-28 September 2024
 venue: Bridewell Theatre
 ticket-prices: From £12.50
 primary-color: "#aea809"
-header-image: /assets/blank-poster-sedos-l.png
+header-image: /assets/blank-refined.jpg
 header-image-contain: false
 flyer: /assets/blank-poster-sedos-l.png
 box-office-open: false
