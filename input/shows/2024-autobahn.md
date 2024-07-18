@@ -24,8 +24,8 @@ sections:
     body: |-
       **CAST**
 
-      **Funny**
-      **YOUNGER WOMAN** | Isobel Lawson (she/her)
+      **Funny**\
+      **YOUNGER WOMAN** | Isobel Lawson (she/her)\
       **OLDER WOMAN** | Christie Miller (she/her)
 
       **Bench Seat** \
@@ -54,7 +54,8 @@ sections:
 
       **CREATIVE TEAM**
 
-      **D﻿IRECTOR** | Taylor Davidson
+      **D﻿IRECTOR** | Taylor Davidson\
+      **ASSISTANT DIRECTOR** | Paul Caira
 metaTitle: Autobahn, by Neil LaBute, plays at the Bridewell Theatre from 17-21
   September 2024
 metaDescription: Autobahn, by Neil LaBute, explores the apprehension that
