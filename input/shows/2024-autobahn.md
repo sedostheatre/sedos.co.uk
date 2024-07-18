@@ -21,7 +21,40 @@ box-office-open: false
 sections:
   - order: 1
     title: CAST AND CREATIVE TEAM
-    body: "**D﻿IRECTOR** | Taylor Davidson"
+    body: |-
+      **CAST**
+
+      **Funny**
+      **YOUNGER WOMAN** | Isobel Lawson (she/her)
+      **OLDER WOMAN** | Christie Miller (she/her)
+
+      **Bench Seat** \
+      **GUY** | Will Shepherd (he/him)\
+      **GIRL** | Emily Hassan (she/her)
+
+      **All Apologies**\
+      **MAN** | Benjamin Meacher\
+      **WOMAN** | Suzie Rai (she/her)
+
+      **Merge**\
+      **MAN** | Randy Brown (he/him)\
+      **WOMAN** | Sanhita Athalye (she/her)
+
+      **Long Division**\
+      **MAN** | Gabriel Romero Day (he/him)\
+      **OTHER MAN** | Benjamin Meacher
+
+      **Road Trip**\
+      **MAN** | Ru Caddell (he/him)\
+      **GIRL** | Becca Windsor (she/her)
+
+      **Autobahn**\
+      **WOMAN** | Suzie Rai (she/her)\
+      **MAN** | Randy Brown (he/him)
+
+      **CREATIVE TEAM**
+
+      **D﻿IRECTOR** | Taylor Davidson
 metaTitle: Autobahn, by Neil LaBute, plays at the Bridewell Theatre from 17-21
   September 2024
 metaDescription: Autobahn, by Neil LaBute, explores the apprehension that
@@ -35,22 +68,6 @@ Each of these seven vignettes explore the ethos of perception and relationship �
 *Autobahn* consists of seven short plays: *Funny; Bench Seat; All Apologies; Merge; Long Division; Road Trip* and *Autobahn.*
 
 *Autobahn* plays at the [Bridewell Theatre](https://www.sedos.co.uk/venues/bridewell) from 17-21 September 2024.
-
-#### Auditions
-
-Audition slots are now open for *Autobahn* 
-
-**KEY INFO**
-
-**Auditions:** Thursday 4 July, Friday 5 July and Saturday 6 July 2024\
-**Recalls (invite only):** Thursday 11 July\
-**Venue:** Theatre Deli, 107 Leadenhall Street, EC3A 4AF
-
-#### **[READ MORE IN THE FULL AUDITION NOTICE](https://drive.google.com/drive/folders/1joVkDtSoGJR6VpP2WzAt39mLGrTfZluU)**
-
-**SIGN UP**
-
-You can sign up for the auditions at [](<You can sign up for the auditions at https://membership.sedos.co.uk/signup/131>)<https://membership.sedos.co.uk/signup/131>
 
 This amateur production of *Autobahn: A Short-Play Cycle* is presented by arrangement with Concord Theatricals Ltd. on behalf of Samuel French Ltd. [www.concordtheatricals.co.uk](https://www.concordtheatricals.co.uk)
 
