@@ -23,7 +23,7 @@ sections:
   - order: 1
     title: CAST AND CREATIVE TEAM
     body: >-
-      **\[BLANK] CAST LIST**  (in no particular order) 
+      **CAST** (in no particular order) 
 
 
       Note: The original text does not assign any names or pronouns. This gives the cast the exciting chance to build their own character based on the scenes selected by our director. 
