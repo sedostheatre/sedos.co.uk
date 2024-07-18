@@ -35,7 +35,7 @@ sections:
       **SCHROEDER** | Dan Geller\
       **SNOOPY** | David Gregory (he/him)\
       **MARCIE** | Isla Brendon (she/her)\
-      **PEPPERMINT PATTY | Isobel Persaud (she/her)**
+      **PEPPERMINT PATTY** | Isobel Persaud (she/her)
 
       **CREATIVE TEAM**
 
