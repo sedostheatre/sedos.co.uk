@@ -35,6 +35,8 @@ sections:
 
       Sarah Beebe (she/her)\
 
+      Julia Blyth (she/her)\
+
       Olivia Crosley (she/her)\
 
       Jess Hearn (she/her)\
@@ -57,9 +59,7 @@ sections:
 
       Rachel Smith (she/her)\
 
-      Sakshi Verman (she/her)\
-
-      Julia Blyth (she/her)
+      Sakshi Verman (she/her)
 
 
       **CREATIVE TEAM**
