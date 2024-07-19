@@ -40,7 +40,7 @@ sections:
 
       Julia Blyth (she/her)\
 
-      Olivia Crosley (she/her)\
+      Olivia Crosby (she/her)\
 
       Jess Hearn (she/her)\
 
@@ -72,9 +72,15 @@ sections:
 
       **PRODUCER** | KC Lylark (they/them)\
 
-      **ASSISTANT DIRECTOR** | Katie Bonham (she/her)\
+      **ASSISTANT DIRECTOR** | Aiste Mizgeryte (she/her)\
 
-      **COSTUME DESIGNER** | Edith Webb (she/her)
+      **COSTUME DESIGNER** | Edith Webb (she/her)\
+
+      **LIGHTING DESIGNER** | Ruth Luckins (she/they)\
+
+      **SET DESIGNER** | Kate Halstead\
+
+      **COMMITTEE LIAISONS** | Ruth Granton (she/her) and Thomas Riggs (he/him)
 metaTitle: "[BLANK], by Alice Birch, plays at the Bridewell Theatre from 24-28
   September 2024"
 metaDescription: "[BLANK], by Alice Birch highlights the love, joy and hope that
