@@ -17,7 +17,8 @@ primary-color: "#38e0e5"
 header-image: /assets/autobahn_800x500_notext.png
 header-image-contain: false
 flyer: /assets/autobahn_flyerfront-update.png
-box-office-open: false
+box-office-open: true
+box-office-link: https://sedos.ticketsolve.com/ticketbooth/shows/1173657621
 sections:
   - order: 1
     title: CAST AND CREATIVE TEAM
@@ -69,6 +70,8 @@ Each of these seven vignettes explore the ethos of perception and relationship �
 *Autobahn* consists of seven short plays: *Funny; Bench Seat; All Apologies; Merge; Long Division; Road Trip* and *Autobahn.*
 
 *Autobahn* plays at the [Bridewell Theatre](https://www.sedos.co.uk/venues/bridewell) from 17-21 September 2024.
+
+This show contains strong language, and references to sexual assault and grooming. Recommended for ages 16 and above.
 
 This amateur production of *Autobahn: A Short-Play Cycle* is presented by arrangement with Concord Theatricals Ltd. on behalf of Samuel French Ltd. [www.concordtheatricals.co.uk](https://www.concordtheatricals.co.uk)
 
