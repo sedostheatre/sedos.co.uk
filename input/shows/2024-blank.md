@@ -18,7 +18,8 @@ primary-color: "#aea809"
 header-image: /assets/blank-refined.jpg
 header-image-contain: false
 flyer: /assets/blank-poster-sedos-l.png
-box-office-open: false
+box-office-open: true
+box-office-link: https://sedos.ticketsolve.com/ticketbooth/shows/1173657620
 sections:
   - order: 1
     title: CAST AND CREATIVE TEAM
@@ -88,5 +89,7 @@ The play looks at the experience of women in prison as well as the impact incarc
 *\[﻿BLANK]* plays at the [Bridewell Theatre](https://www.sedos.co.uk/venues/bridewell) from 24-28 September 2024.\
 \
 Performances on Thursday 26 and Friday 27 September will have Open Captioning.
+
+This production includes discussion of sexual assault, description of murder and filicide, child neglect, domestic violence and blood. Recommended for ages 16 and above.
 
 \[﻿BLANK] is presented by kind permission of Alice Birch.
