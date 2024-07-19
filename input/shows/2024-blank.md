@@ -10,10 +10,12 @@ showtimes:
   - time: 2024-09-25 19:30
   - time: 2024-09-26 19:30
   - time: 2024-09-27 19:30
-  - time: 2024-09-28 14:30
+  - time: 2024-09-28 17:00
 showtime-summary: 24-28 September 2024
 venue: Bridewell Theatre
 ticket-prices: From £12.50
+additional-ticket-info: "Gala night on Friday 27 September: ticket price
+  includes a free glass of fizz and programme"
 primary-color: "#aea809"
 header-image: /assets/blank-refined.jpg
 header-image-contain: false
