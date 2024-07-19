@@ -9,10 +9,12 @@ showtimes:
   - time: 2024-09-18 19:30
   - time: 2024-09-19 19:30
   - time: 2024-09-20 19:30
-  - time: 2024-09-21 14:30
+  - time: 2024-09-21 17:00
 showtime-summary: 17-21 SEPTEMBER 2024
 venue: Bridewell Theatre
 ticket-prices: From £12.50
+additional-ticket-info: "Gala night on Thursday 19 September: ticket price
+  includes a free glass of fizz and programme"
 primary-color: "#38e0e5"
 header-image: /assets/autobahn_800x500_notext.png
 header-image-contain: false
