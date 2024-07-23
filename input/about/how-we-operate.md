@@ -29,13 +29,11 @@ The trustees are elected by the members for three-year terms or co-opted in acco
 
 ### The trustees are:
 
-**Chair** | Daniel Saunders (he/him)\
+**Chair** | Matt Gould (he/him)\
 **Secretary** | Graham White (he/him)\
 **Trustee with financial responsibilit**y | Nick Dore (he/him)\
-**ex officio, Chair of the management committee** | Adrian Hau (he/him)
-
-Jack Brown (he/him)\
-Matt Gould (he/him)\
+**ex officio, Chair of the management committee** | Adrian Hau (he/him)\
+\
 Pippa Kyle (she/her)
 
 [Minutes of trustees’ meetings can be found here](https://drive.google.com/drive/folders/13fa6XEho_8j5tAyxQX0wwuJ5HXOcRmjZ?usp=sharing)
