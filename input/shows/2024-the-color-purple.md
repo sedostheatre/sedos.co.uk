@@ -59,7 +59,6 @@ sections:
       **ENSEMBLE** | Ben Gad-Briggs\
       **ENSEMBLE** | Mahamed Hersi
 
-      \
       **CREATIVE TEAM**
 
       **DIRECTOR** | Tasha Msanide\
