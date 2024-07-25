@@ -29,17 +29,55 @@ flyer: /assets/whatsapp-image-2024-01-24-at-12.19.51.jpeg
 box-office-open: false
 sections:
   - order: 1
-    title: CREATIVE TEAM
+    title: " CAST & CREATIVE TEAM"
     body: |-
+      **CAST**
+
+      **CELIE** | Rachelle Ojomo\
+      **NETTIE** | Josephine Bannerman\
+      **SHUG** | Michaella Moore\
+      **MISTER** | Shylo Malone\
+      **SOFIA** | Rinre Olusola\
+      **HARPO** | Dupri Mckoy\
+      **SQUEAK** | Bailey Edwards\
+      **PA/OL' MISTER** | Mike Kujore\
+      **PREACHER/BUSTER** | Oserovie Essi\
+      **DARLENE** | Marnette Renae Bennett\
+      **JARENE** | LaShayah Byfield\
+      **DORIS** | Zahra Jennings-Grant\
+      **ENSEMBLE** | Sanyu Kimuli\
+      **ENSEMBLE** | Anuli Changa\
+      **ENSEMBLE** | Nicole Vassell\
+      **ENSEMBLE** | Folu Oyewole\
+      **ENSEMBLE** | Ngozi Onyenemelu\
+      **ENSEMBLE** | Aimée Mutambo\
+      **ENSEMBLE** | Aimee Adesina\
+      **ENSEMBLE** | Melissa Boateng\
+      **ENSEMBLE** | David Gregory\
+      **ENSEMBLE** | Ruben Ondo Mesa\
+      **ENSEMBLE** | Dami Ojobaro\
+      **ENSEMBLE** | Ben Gad-Briggs\
+      **ENSEMBLE** | Mahamed Hersi
+
+      \
+      **CREATIVE TEAM**
+
       **DIRECTOR** | Tasha Msanide\
-      **MUSICAL DIRECTOR** | Chris Forte Nelson\
-      **CHOREOGRAPHER** | Vanessa Forte Nelson\
+      **ASSOCIATE DIRECTOR** and **ACTING COACH** | Bridgette Amofah \
       **ASSOCIATE DIRECTOR** | Landé Belo\
-      **ASSOCIATE DIRECTOR** | Bridgette Amofah\
-      **COSTUME DESIGNER** | Lemington Ridley\
+      **MUSICAL DIRECTOR** | Chris Forte-Nelson\
+      **CHOREOGRAPHER** | Vanessa Forte-Nelson\
+      **ART DIRECTOR** | Lemington Ridley\
       **PRODUCER** | Tess Robinson\
-      **LIGHTING DESIGN** | Ruth Luckins\
-      **SOUND DESIGN** | Adam Coppard
+      **ASSISTANT PRODUCER** | Marsha Blake\
+      **SET DESIGNER** | Bolu Dairo\
+      **SET DESIGN** and **REALISATION** | Ben Hussey\
+      **COSTUMES** and **DRESSER** | Roxanne Ivy Roberts\
+      **LIGHTING DESIGNER** | Ruth Luckins\
+      **SOUND DESIGNER** | Adam Coppard\
+      **MARKETING SUPPORT** | Adrianna Cordero-Marino\
+      **COMMITTEE LIAISON** | Karen Braganza\
+      **COMMITTEE LIAISON** | Adrian Hau
 metaTitle: The Color Purple, part of the 2024 Sedos season, plays at the
   Bridewell Theatre from 20-30 November 2024
 metaDescription: The Color Purple, which documents the traumas and gradual
@@ -53,10 +91,6 @@ Based on the 1983 Pulitzer-prize-winning novel by Alice Walker, the musical was 
 In 2024 the musical was made into a movie for the big screen where it has swept up many awards nominations including Danielle Brooks as Sofia for the Academy Award for Actress in a supporting role. 
 
 The story weaves an intricate mosaic of women joined by their love for each other, the men who abuse them, and the children they care for.
-
-[Find out about the free pre-audition workshops on 18 and 25 May.](https://www.sedos.co.uk/events/the-color-purple-pre-audition-workshops) 
-
-[You can register your interest in auditioning or in backstage roles via this form](https://forms.gle/Xs8xDapxMhkE9gyy7).
 
 *The Color Purple* plays at the [Bridewell Theatre](https://sedos.co.uk/venues/bridewell) from 20-30 November 2024.
 
