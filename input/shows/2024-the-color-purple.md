@@ -14,12 +14,12 @@ showtimes:
   - time: 2024-11-22 19:30
   - time: 2024-11-23 14:30
   - time: 2024-11-23 19:30
+  - time: 2024-11-25 19:30
   - time: 2024-11-26 19:30
   - time: 2024-11-27 19:30
   - time: 2024-11-28 19:30
   - time: 2024-11-29 19:30
-  - time: 2024-11-30 14:30
-  - time: 2024-11-30 19:30
+  - time: 2024-11-30 17:00
 showtime-summary: 20-30 NOVEMBER 2024
 venue: Bridewell Theatre
 primary-color: "#0e0058"
