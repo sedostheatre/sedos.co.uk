@@ -22,6 +22,7 @@ showtimes:
   - time: 2024-11-30 17:00
 showtime-summary: 20-30 NOVEMBER 2024
 venue: Bridewell Theatre
+additional-ticket-info: Recommended for ages 12+
 primary-color: "#0e0058"
 header-image: /assets/website-image.png
 header-image-contain: false
