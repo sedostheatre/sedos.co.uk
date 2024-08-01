@@ -91,7 +91,11 @@ In 2024 the musical was made into a movie for the big screen where it has swept 
 
 The story weaves an intricate mosaic of women joined by their love for each other, the men who abuse them, and the children they care for.
 
+**Recommended for ages 12+**
+
 *The Color Purple* plays at the [Bridewell Theatre](https://sedos.co.uk/venues/bridewell) from 20-30 November 2024.
+
+**Content Warning:** *The Color Purple* contains depictions of rape, violence, domestic abuse, strong language and scenes of a sexual nature.
 
 Based upon the novel written by Alice Walker and the Warner Bros./Amblin Entertainment motion picture. \
 Book by Marsha Norman.\
