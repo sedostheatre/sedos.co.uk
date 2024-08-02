@@ -27,7 +27,8 @@ primary-color: "#0e0058"
 header-image: /assets/website-image.png
 header-image-contain: false
 flyer: /assets/whatsapp-image-2024-01-24-at-12.19.51.jpeg
-box-office-open: false
+box-office-open: true
+box-office-link: https://sedos.ticketsolve.com/ticketbooth/shows/1173657405/events/428671590
 sections:
   - order: 1
     title: " CAST & CREATIVE TEAM"
