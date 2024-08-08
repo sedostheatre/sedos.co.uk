@@ -13,7 +13,7 @@ metaTitle: ""
 
 are returning to the Bread and Roses, Clapham, later this month. This is the first time they’ve done a full-length show outside of the Bridewell and it promises to be a special performance that’s sure to get you laughing in the aisles. Click on the link for more information.
 
-**Sunday 18 August 22024** | 5-6 pm \
+**Sunday 18 August 2024** | 5-6 pm \
 [Bread & Roses](https://breadandrosespub.co.uk/), 68 Clapham Manor Street, London SW4 6DZ\
 <https://app.lineupnow.com/event/simprov>
 
