@@ -96,7 +96,7 @@ The play looks at the experience of women in prison as well as the impact incarc
 
 *\[﻿BLANK]* plays at the [Bridewell Theatre](https://www.sedos.co.uk/venues/bridewell) from 24-28 September 2024.\
 \
-Performances on Thursday 26 and Friday 27 September will have Open Captioning.
+Performances on Thursday 26 and Friday 27 September will have open captioning. A captioned performance uses real-time captions to represent spoken dialogue and other important audio elements during the show. The visual representations of the spoken text allow audience members who are D/deaf or hard of hearing to follow the plot of a play or musical. Captions have also been proven to be helpful to hearing audiences.
 
 This production includes discussion of sexual assault, description of murder and filicide, child neglect, domestic violence and blood. Recommended for ages 16 and above.
 
