@@ -19,6 +19,8 @@ are returning to the Bread and Roses, Clapham, later this month. This is the fir
 
 Come on down to the Bread and Roses and get a whiff of all the incredible talent that's been hiding right under your nose. Expect a well balanced, full-bodied evening of comedy, with notes of sketch and stand-up, a hint of music, and other aromatic antics.
 
+![](/assets/bread-anhd-roses-logo-300.jpg)
+
 ##### **Explore Simprov**
 
 Looking for a London improvisation group? Simprov welcomes members of all levels, but is actively seeking people who want to be regular members of the group and develop as improvisers, with an eye towards performance.
