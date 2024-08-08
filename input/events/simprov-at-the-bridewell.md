@@ -1,7 +1,7 @@
 ---
 title: Simprov perform in Clapham
 times:
-  - time: 2024-07-21 19:00
+  - time: 2024-08-18 17:00
 image: /assets/simprov-july-24-5.jpg
 venue: ""
 ticket-prices: ""
@@ -11,13 +11,13 @@ metaTitle: ""
 
 **Simprov is the Sedos group that lets members and non-members explore their spontaneous side.** 
 
-This unplanned, impulsive and spur-of-the-moment group have a number of upcoming performances coming up that are sure to get you laughing in the aisles. Click on the links for more information.
+are returning to the Bread and Roses, Clapham, later this month. This is the first time they’ve done a full-length show outside of the Bridewell and it promises to be a special performance that’s sure to get you laughing in the aisles. Click on the link for more information.
 
-**Sunday 21 July 2024** | 7pm\
+**Sunday 18 August 22024** | 5-6 pm \
 [Bread & Roses](https://breadandrosespub.co.uk/), 68 Clapham Manor Street, London SW4 6DZ\
-<https://app.lineupnow.com/event/the-defectors-present-scratch-n-sniff-6>
+<https://app.lineupnow.com/event/simprov>
 
-Come on down to the Bread and Roses on the 21 July and get a whiff of all the incredible talent that's been hiding right under your nose. Expect a well balanced, full-bodied evening of comedy, with notes of sketch and stand-up, a hint of music, and other aromatic antics.
+Come on down to the Bread and Roses and get a whiff of all the incredible talent that's been hiding right under your nose. Expect a well balanced, full-bodied evening of comedy, with notes of sketch and stand-up, a hint of music, and other aromatic antics.
 
 ##### **Explore Simprov**
 
