@@ -7,7 +7,7 @@ authors2: Book by MARSHA NORMAN
 authors3: Music and Lyrics by BRENDA RUSSELL, ALLEE WILLIS and STEPHEN BRAY
 subtitle: An award-winning coming-of-age musical, which weaves an intricate
   mosaic of women joined by their love for each other, the men who abuse them,
-  and the children they nuture
+  and the children they nurture
 showtimes:
   - time: 2024-11-20 19:30
   - time: 2024-11-21 19:30
