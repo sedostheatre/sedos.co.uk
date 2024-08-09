@@ -100,4 +100,4 @@ Performances on Thursday 26 and Friday 27 September will have open captioning. A
 
 This production includes discussion of sexual assault, description of murder and filicide, child neglect, domestic violence and blood. Recommended for ages 16 and above.
 
-\[﻿BLANK] is presented by kind permission of Alice Birch.
+*\[﻿BLANK]* is presented by kind permission of Alice Birch.
