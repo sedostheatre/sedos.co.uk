@@ -15,7 +15,8 @@ showtime-summary: 24-28 September 2024
 venue: Bridewell Theatre
 ticket-prices: From £12.50
 additional-ticket-info: "Gala night on Friday 27 September: ticket price
-  includes a free glass of fizz and programme"
+  includes a free glass of fizz and programme. Performances on Thursday 26 and
+  Friday 27 September will have open captioning. "
 primary-color: "#aea809"
 header-image: /assets/blank-refined.jpg
 header-image-contain: false
@@ -100,4 +101,4 @@ Performances on Thursday 26 and Friday 27 September will have open captioning. A
 
 This production includes discussion of sexual assault, description of murder and filicide, child neglect, domestic violence and blood. Recommended for ages 16 and above.
 
-\[﻿BLANK] is presented by kind permission of Alice Birch.
+*\[﻿BLANK]* is presented by kind permission of Alice Birch.
