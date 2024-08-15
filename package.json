@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "The new site for https://www.sedos.co.uk, built using Statiq.",
   "devDependencies": {
-    "cypress": "13.13.1",
+    "cypress": "13.13.3",
     "html-validate": "8.20.1",
     "postcss": "8.4.38",
     "purgecss": "6.0.0",
