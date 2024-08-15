@@ -25,7 +25,7 @@ We usually programme a whole year’s season together, calling out for pitches i
 
 As well as our London musicals and plays, we occasionally tour outside the city.
 
-In the past we have staged shows at the Edinburgh Fringe, including a sell-out run for our in-house improv troupe [the Banana Hut Gang](https://sedos.co.uk/regular-events/simprov).
+In the past we have staged shows at the Edinburgh Fringe, including a sell-out run for [the Banana Hut Gang,](https://sedos.co.uk/regular-events/simprov) who were at that time our our in-house improv troupe.
 
 In 2019 Sedos staged [its first show at Cornwall's beautiful outdoor theatre, the Minack,](https://sedos.co.uk/shows/2019-a-swell-party) and we hope very much to return there in the future.
 
