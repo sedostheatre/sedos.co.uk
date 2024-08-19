@@ -6,6 +6,10 @@ metaTitle: Change of chair of Trustees
 metaDescription: Dan Saunders has stood down as Sedos chair of Trustees; Matt
   Gould will now take up the role
 ---
+^^^
+![](/assets/53358951636_4dfa7d172b_c.jpg)
+^^^ 
+
 *19 August 2024*
 
 **At the last Trustee meeting, Dan Saunders announced that he had decided to step down as a Trustee and chair of Trustees.   Dan has recently been appointed a Trustee of the London Musical Theatre Orchestra and together with work commitments and his desire to spend more time contributing directly to our productions (both on and offstage) has decided that now is the right time to step back from his role as a Trustee.**
