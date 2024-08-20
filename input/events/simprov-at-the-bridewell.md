@@ -1,27 +1,38 @@
 ---
-title: Simprov perform in Clapham
+title: Simprov perform across London
 times:
-  - time: 2024-08-18 17:00
+  - time: 2024-09-08 15:00
+  - time: 2024-10-01 19:30
+  - time: 2024-10-14 20:00
 image: /assets/simprov-july-24-5.jpg
 venue: ""
 ticket-prices: ""
 metaTitle: ""
 ---
-![](/assets/simprov-july-24-5.jpg "Join the Simprov crew at the Bread & Roses, Clapham")
+![](/assets/simprov-july-24-5.jpg "Join the Simprov crew at one of their events across London")
 
 **Simprov is the Sedos group that lets members and non-members explore their spontaneous side.** 
 
 The improv team are returning to the Bread and Roses, Clapham, later this month. This is the first time they’ve done a full-length show outside of the Bridewell and it promises to be a special performance that’s sure to get you laughing in the aisles. Click on the link for more information.
 
-**Sunday 18 August 2024** | 5-6 pm \
-[Bread & Roses](https://breadandrosespub.co.uk/), 68 Clapham Manor Street, London SW4 6DZ\
-<https://app.lineupnow.com/event/simprov>
+**Sunday 8 September** | 3-5.30pm\
+Barons Court Theatre at The Curtains Up Pub\
+*28a Comeragh Rd, W14 9HR*\
+[www.londonimprovtheatre.com/spontaneous-sunday-shows](https://www.londonimprovtheatre.com/spontaneous-sunday-shows)
 
-Come on down to the Bread and Roses and get a whiff of all the incredible talent that's been hiding right under your nose. Expect a well balanced, full-bodied evening of comedy, with notes of sketch and stand-up, a hint of music, and other aromatic antics.
+**Tuesday 1 October** | 7.30-9pm\
+Stage Time at Shoreditch Balls\
+*333 Old Street, EC1V 9LE*\
+[Stage Time – The Improv Variety Show Tickets, Multiple Dates | Eventbrite](https://www.eventbrite.com/e/stage-time-the-improv-variety-show-tickets-974247940817)
 
-![](/assets/bread-anhd-roses-logo-300.jpg)
+**Monday 14 October** | 8-10pm\
+Duck Duck Goose Improv\
+*location TBD due to Oct renovations*\
+[www.ddgimprov.com](https://www.ddgimprov.com)
 
-##### **Explore Simprov**
+Come on down to one of the events and get a whiff of all the incredible talent that's been hiding right under your nose. 
+
+#### **Explore Simprov**
 
 Looking for a London improvisation group? Simprov welcomes members of all levels, but is actively seeking people who want to be regular members of the group and develop as improvisers, with an eye towards performance.
 
