@@ -13,7 +13,7 @@ metaTitle: ""
 
 **Simprov is the Sedos group that lets members and non-members explore their spontaneous side.** 
 
-The improv team are returning to the Bread and Roses, Clapham, later this month. This is the first time they’ve done a full-length show outside of the Bridewell and it promises to be a special performance that’s sure to get you laughing in the aisles. Click on the link for more information.
+The improv team have a number of gigs coming up across London which are sure to get you laughing in the aisles. Click on the link for more information.
 
 **Sunday 8 September** | 3-5.30pm\
 Barons Court Theatre at The Curtains Up Pub\
