@@ -13,7 +13,7 @@ metaTitle: ""
 
 **Simprov is the Sedos group that lets members and non-members explore their spontaneous side.** 
 
-The improv team have a number of gigs coming up across London which are sure to promises to get you laughing in the aisles. Click on the link for more information.
+The improv team have a number of gigs coming up across London which are sure to get you laughing in the aisles. Click on the link for more information.
 
 **Sunday 8 September** | 3-5.30pm\
 Barons Court Theatre at The Curtains Up Pub\
