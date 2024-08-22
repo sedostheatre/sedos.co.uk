@@ -58,6 +58,7 @@ sections:
       **CREATIVE TEAM**
 
       **D﻿IRECTOR** | Taylor Davidson\
+      **PRODUCER** | Alexandre Darveau-Morin\
       **ASSISTANT DIRECTOR** | Paul Caira
 metaTitle: Autobahn, by Neil LaBute, plays at the Bridewell Theatre from 17-21
   September 2024
