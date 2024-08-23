@@ -27,8 +27,8 @@ Thursday 26 September 2024\
 Thursday 17 October 2024\
 Thursday 21 November 2024
 
-Sessions take place 7pm-10pm at Theatre Deli, 107 Leadenhall Street, London EC3A 4AF
+Sessions take place 7-10pm at [Theatre Deli](https://www.sedos.co.uk/venues/theatre-deli), 107 Leadenhall Street, London EC3A 4AF
 
-The session is £5 for Sedos Members and £7 for non-members. 
+The session is £5 for Sedos members and £7 for non-members. 
 
 Please [book here](https://sedos.ticketsolve.com/ticketbooth/shows/1173655734) or email [acting@sedos.co.uk](mailto:acting@sedos.co.uk) with any questions.
