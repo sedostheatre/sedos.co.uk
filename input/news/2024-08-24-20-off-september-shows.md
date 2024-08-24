@@ -15,7 +15,7 @@ Neil LaBute’s *[Autobahn](https://www.sedos.co.uk/shows/2024-autobahn)* is up 
 
 The discount will be applied automatically when you book both shows in one transaction at the [online box office](https://sedos.ticketsolve.com/ticketbooth/shows). If you have already booked one of the plays, email [tickets@sedos.co.uk](mailto:tickets@sedos.co.uk) to book the other show with this discount.
 
-\[Book now for Autobahn and [BLANK]](https://sedos.ticketsolve.com/ticketbooth/shows)
+[Book our September plays now](https://sedos.ticketsolve.com/ticketbooth/shows)
 
 ^^^
 ![20% off September shows](/assets/discountnewsletter.jpg)
