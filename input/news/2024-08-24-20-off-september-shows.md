@@ -9,7 +9,7 @@ metaDescription: 20% off when you see book both Sedos’ September shows, Autoba
 ---
 *24 August 2024*
 
-**Thinking of seeing one of our autumn plays? Why not see both and take advantage of a great discount? We're offering 20% off when you book for both Autobahn and \[BLANK].**
+**Thinking of seeing one of our autumn plays? Why not see both and take advantage of a great discount? We're offering 20% off when you book for both Autobahn and \[BLANK] in one transaction.**
 
 Neil LaBute’s *[Autobahn](https://www.sedos.co.uk/shows/2024-autobahn)* is up first from 17-21 September and consists of seven short plays that explore the dramas that can happen in the enclosed space of a car. [[BLANK](https://www.sedos.co.uk/shows/2024-blank)] follows, from 24-28 September – Alice Birch’s play offers the company the pick of 100 unnamed scenes to create a show that reveals love, joy and hope against the harsh backdrop of the UK criminal justice system.
 
