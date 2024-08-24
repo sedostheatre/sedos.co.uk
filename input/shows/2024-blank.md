@@ -103,4 +103,4 @@ This production includes discussion of sexual assault, description of murder and
 
 *\[﻿BLANK]* is presented by kind permission of Alice Birch.
 
-**DISCOUNT:** We are offering 20% off when you book to see both our September plays, [Autobahn](https://www.sedos.co.uk/shows/2024-autobahn) and \[BLANK]. The discount will be applied automatically when you book both shows in one transaction at the [online box office](https://sedos.ticketsolve.com/ticketbooth/shows). If you booked one of the plays before this discount was offered (24 August), email [tickets@sedos.co.uk](mailto:tickets@sedos.co.uk) to book the other show with this discount.
+**DISCOUNT:** We are offering 20% off when you book to see both our September plays, [Autobahn](https://www.sedos.co.uk/shows/2024-autobahn) and \[BLANK], together. The discount will be applied automatically when you book both shows in one transaction at the [online box office](https://sedos.ticketsolve.com/ticketbooth/shows). If you booked one of the plays before this discount was offered (24 August), email [tickets@sedos.co.uk](mailto:tickets@sedos.co.uk) to book the other show with this discount.
