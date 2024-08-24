@@ -78,6 +78,6 @@ This show contains strong language, and references to sexual assault and groomin
 
 This amateur production of *Autobahn: A Short-Play Cycle* is presented by arrangement with Concord Theatricals Ltd. on behalf of Samuel French Ltd. [www.concordtheatricals.co.uk](https://www.concordtheatricals.co.uk)
 
-**DISCOUNT:** We are offering 20% off when you book to see both our September plays, Autobahn and [[BLANK](https://www.sedos.co.uk/shows/2024-blank)]. The discount will be applied automatically when you book both shows in one transaction at the [online box office](https://sedos.ticketsolve.com/ticketbooth/shows). If you booked one of the plays before this discount was offered (24 August), email [tickets@sedos.co.uk](mailto:tickets@sedos.co.uk) to book the other show with this discount.
+**DISCOUNT:** We are offering 20% off when you book to see both our September plays, Autobahn and [[BLANK](https://www.sedos.co.uk/shows/2024-blank)], together. The discount will be applied automatically when you book both shows in one transaction at the [online box office](https://sedos.ticketsolve.com/ticketbooth/shows). If you booked one of the plays before this discount was offered (24 August), email [tickets@sedos.co.uk](mailto:tickets@sedos.co.uk) to book the other show with this discount.
 
 [](https://www.concordtheatricals.co.uk)
