@@ -1,6 +1,7 @@
 ---
 title: Simprov perform across London
 times:
+  - time: 2024-09-07 20:00
   - time: 2024-09-08 15:00
   - time: 2024-10-01 19:30
   - time: 2024-10-14 20:00
@@ -14,6 +15,10 @@ metaTitle: ""
 **Simprov is the Sedos group that lets members and non-members explore their spontaneous side.** 
 
 The improv team have a number of gigs coming up across London which are sure to get you laughing in the aisles. Click on the link for more information.
+
+**Saturday 7 Septembe**r | 8-10pm\
+Hoopla at The Bell, 50 Middlesex Street London E1 7EX\
+[www.eventbrite.co.uk/e/hoopla-at-the-bell-the-mixer-tickets-978079681657](https://www.eventbrite.co.uk/e/hoopla-at-the-bell-the-mixer-tickets-978079681657)
 
 **Sunday 8 September** | 3-5.30pm\
 Barons Court Theatre at The Curtains Up Pub\
