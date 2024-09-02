@@ -30,7 +30,6 @@ sections:
       CAST
 
       **QUEENIE** | Liz Flint\
-      **BURRS** | \
       **KATE** |  Bridget Cross\
       **MADELINE** | Anne-Marie Leigh\
       **SALLY** | Rachel Hickson\
