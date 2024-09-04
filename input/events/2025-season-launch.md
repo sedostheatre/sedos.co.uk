@@ -2,7 +2,7 @@
 title: 2025 Season Launch
 times:
   - time: 2024-09-13 19:00
-image: /assets/image1-3.jpeg
+image: /assets/2025-season-launch.jpg
 imageAlt: 2025 Season Launch
 recurrence: Friday 13 September
 metaTitle: 2025 Sedos Season Launch
