@@ -27,4 +27,6 @@ If you have any questions or concerns regarding the Season Launch Event, feel fr
 
 Get it in your diaries. We can't wait to see you there! 
 
+^^^
 ![](/assets/2025-season-launch.jpg)
+^^^
