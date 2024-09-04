@@ -15,8 +15,8 @@ Join Sedos on Friday 13 September for a relaxed pub social and to find out all a
 
 Details of the Season Launch are as follows:
 
-📅 Friday 13 September
-🕖 7pm-10pm
+📅 Friday 13 September\
+🕖 7pm-10pm\
 📍 [The Loose Box](https://theloosebox.co.uk/), 51 Horseferry Road, Westminster, SW1P 2AA
 
 This event is FREE and is open to Sedos members and non-members alike! 
