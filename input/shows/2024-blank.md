@@ -82,6 +82,14 @@ sections:
       **SET DESIGNER** | Kate Halstead\
 
       **COMMITTEE LIAISONS** | Ruth Granton (she/her) and Thomas Riggs (he/him)
+  - order: 1
+    title: GALLERY
+    body: <a data-flickr-embed="true"
+      href="https://www.flickr.com/photos/sedos/albums/72177720320078761"
+      title="\[BLANK] - 2024"><img
+      src="https://live.staticflickr.com/65535/53973128170_7c525aaa08_z.jpg"
+      width="640" height="480" alt="\[BLANK] - 2024"/></a><script async
+      src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 metaTitle: "[BLANK], by Alice Birch, plays at the Bridewell Theatre from 24-28
   September 2024"
 metaDescription: "[BLANK], by Alice Birch highlights the love, joy and hope that
