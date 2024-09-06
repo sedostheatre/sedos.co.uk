@@ -1,9 +1,9 @@
 ---
 title: Violet
 year: "2025"
-authors: Music by Jeanine Tesori
-authors2: Lyrics by Brian Crawley
-authors3: Book by Brian Crawley
+authors: Music by JEANINE TESORI
+authors2: Lyrics and Boob by BRIAN CRAWLEY
+authors3: Based on The Ugliest Pilgrim by DORIS BETTS
 subtitle: '"It is the journey that will transform you, not the destination"'
 showtimes:
   - time: 2025-03-25 19:30
@@ -31,7 +31,7 @@ metaDescription: Violet, by Jeanine Tesori, Brian Crawley and Brian Crawley, is
 ---
 **This award-winning musical follows a young, disfigured woman who embarks on a cross-country bus journey from her farm in Spruce Pine, North Carolina, all the way to Tulsa, Oklahoma, to be healed by a minister, and discovers the true meaning of beauty along the way.**
 
-*Violet* is a moving musical featuring show-stopping anthems ranging from American-roots to folk to gospel.  With a score from Tony-winning composer, Jeanine Tesori (*Thoroughly Modern Millie*, *Fun Home*, *Caroline or Change*), Violet is inspired by the short story, *The Ugliest Pilgrim* by Doris Betts, astounding critics and audiences alike in two separate decades.
+*Violet* is a moving musical featuring show-stopping anthems ranging from American-roots to folk to gospel. With a score from Tony-winning composer Jeanine Tesori (*Thoroughly Modern Millie*, *Fun Home*, *Caroline or Change*), *Violet* is inspired by the short story, *The Ugliest Pilgrim* by Doris Betts, astounding critics and audiences alike in two separate decades.
 
 Director Adrian Hau said: "*Violet* is a show with great uplifting music, a diverse cast and lots of scope for play and discovery whilst rehearsing. We hope to create an environment such that the preparation for the run is equally as rewarding and exciting as the run itself. 
 
@@ -39,11 +39,9 @@ Director Adrian Hau said: "*Violet* is a show with great uplifting music, a dive
 
 *Violet* plays at the [Bridewell Theatre](https://www.sedos.co.uk/venues/bridewell) from 25-29 March 2025
 
-Music by Jeanine Tesori\
+Music by **Jeanine Tesori**\
 Lyrics by Brian Crawley\
 Book by Brian Crawley\
 Based on *The Ugliest Pilgrim* by Doris Betts
 
-This amateur production is presented by arrangement with Music Theatre International
-All authorised performance materials are also supplied by MTI 
-[www.mtishows.co.uk](http://www.mtishows.co.uk)
+This amateur production is presented by arrangement with Music Theatre International. All authorised performance materials are also supplied by MTI.[www.mtishows.co.uk](http://www.mtishows.co.uk)
