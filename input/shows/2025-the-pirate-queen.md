@@ -1,6 +1,8 @@
 ---
 title: The Pirate Queen
 year: "2025"
+showtimes:
+  - time: 2025-06-28 19:30
 showtime-summary: 28 June-3 July 2025
 primary-color: "#f49b1b"
 header-image: /assets/pirate-queen.jpg
