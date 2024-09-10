@@ -45,7 +45,7 @@ Tracey Turnblad is ready to dance her way to success and change the world along 
 
 Director Taylor Davidson said: “I’ve loved this show since the 2007 movie came out. The music makes you want to dance immediately and I can’t wait to get started building this big, loud, energetic world! *Hairspray* is so much fun and reminds us that we’re all equal."
 
-*Hairspray* plays at the [Bridewell Theatre](https://www.sedos.co.uk/venues/bridewell) 7-17 May 2025
+*Hairspray* plays at the [Bridewell Theatre](https://www.sedos.co.uk/venues/bridewell) 7-17 May 2025.
 
 **Hairspray**
 The Broadway Musical 
