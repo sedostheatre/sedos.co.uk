@@ -12,6 +12,7 @@ showtimes:
   - time: 2025-09-20 17:00
 showtime-summary: 16-20 September 2025
 venue: Bridewell Theatre
+primary-color: "#d6ceb7"
 header-image: /assets/the-crucible.jpg
 header-image-contain: false
 flyer: /assets/crucible-poster-2025.jpg
