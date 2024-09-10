@@ -15,12 +15,16 @@ box-office-open: false
 sections:
   - order: 1
     body: |-
-      **DIRECTOR** | David Gregory
-      **PRODUCER** | Tess Robinson
+      **DIRECTOR** | David Gregory\
+      **PRODUCER** | Tess Robinson\
       **MUSICAL DIRECTOR** | Isaac Bartels
     title: CREATIVE TEAM
+metaTitle: Dreamgirls plays at the Bridewell Theatre 19-29 November 2025
+metaDescription: Dreamgirls, by Tom Eyen and Henry Krieger, is a sweeping and
+  inspirational journey through 20th century American pop music. It is part of
+  Sedos’ 2025 season and plays at the Bridewell Theatre from 19-29 November 2025
 ---
-**"Tear down the mountains. Yell, scream and shout, you can say what you want, I'm not walking out.”**
+**"Tear down the mountains. Yell, scream and shout, you can say what you want, I'm not walking out."**
 
 There’s a story behind every dream. A sweeping and inspirational journey through 20th century American pop music, *Dreamgirls* chronicles one Motown group's rise from obscurity to superstardom. All you have to do is dream.
 
