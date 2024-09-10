@@ -1,5 +1,5 @@
 ---
-title: "Haurspray - The Broadway Musical "
+title: "Hairspray - The Broadway Musical "
 year: "2025"
 authors: "Book by MARK O'DONNELL and THOMAS MEEHAN "
 authors2: Music by MARC SHAIMAN
