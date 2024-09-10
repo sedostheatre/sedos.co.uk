@@ -52,7 +52,7 @@ The trio, ‘The Dreams’, must learn the tough lesson that show business and s
 
 Director David Gregory commented: “*Dreamgirls i*s everything you want from a musical: memorable music, unparalleled vocals, emotional storytelling, dazzling costumes, spectacular dance. It has earned its iconic status in musical theatre for good reason. I’m thrilled to be able to help bring that to the Sedos stage. It’ll be one of the most intimate and up close productions of *Dreamgirls* you’ll see! Just dream… and we`ll be there!”
 
-*Dreamgirls* plays at the [Bridewell Theatre](https://www.sedos.co.uk/venues/bridewell) 19-29 November 2025,
+*Dreamgirls* plays at the [Bridewell Theatre](https://www.sedos.co.uk/venues/bridewell) 19-29 November 2025.
 
 Content warnings: Mild adult themes
 
