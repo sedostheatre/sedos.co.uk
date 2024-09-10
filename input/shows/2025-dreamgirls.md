@@ -20,7 +20,7 @@ showtimes:
   - time: 2025-11-29 19:30
 showtime-summary: 19-29 November 2025
 venue: Bridewell Theatre
-primary-color: "#1f003c"
+primary-color: "#eaca4f"
 header-image: /assets/dreamgilrls-tite.jpg
 header-image-contain: false
 flyer: /assets/dreamgirls-dates-poster-2025.jpg
