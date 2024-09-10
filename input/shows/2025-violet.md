@@ -38,7 +38,7 @@ Director Adrian Hau said: "*Violet* is a show with great uplifting music, a dive
 
 “Our ethos is that theatre is a team sport and that when everyone works together, a show can be greater than the sum of its parts, and we can create an experience that is unique and special for cast, crew and audience alike.”
 
-*Violet* plays at the [Bridewell Theatre](https://www.sedos.co.uk/venues/bridewell) from 25-29 March 2025
+*Violet* plays at the [Bridewell Theatre](https://www.sedos.co.uk/venues/bridewell) from 25-29 March 2025.
 
 Music by **Jeanine Tesori**\
 Lyrics by Brian Crawley\
