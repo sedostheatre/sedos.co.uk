@@ -6,6 +6,18 @@ authors2: "Music by Henry Krieger "
 authors3: There’s a story behind every dream.
 subtitle: "Dreamgirls chronicles one Motown group's rise from obscurity to
   superstardom. "
+showtimes:
+  - time: 2025-11-19 19:30
+  - time: 2025-11-20 19:30
+  - time: 2025-11-21 19:30
+  - time: 2025-11-22 14:30
+  - time: 2025-11-22 19:30
+  - time: 2025-11-25 19:30
+  - time: 2025-11-26 19:30
+  - time: 2025-11-27 19:30
+  - time: 2025-11-28 19:30
+  - time: 2025-11-29 14:30
+  - time: 2025-11-29 19:30
 showtime-summary: 19-29 November 2025
 venue: Bridewell Theatre
 primary-color: "#1f003c"
