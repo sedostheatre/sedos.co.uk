@@ -16,6 +16,7 @@ venue: Bridewell Theatre
 primary-color: "#b21e8c"
 header-image: /assets/bus2.jpg
 header-image-contain: false
+flyer: /assets/violet-dates-poster-2025.jpg
 box-office-open: false
 sections:
   - order: 1
