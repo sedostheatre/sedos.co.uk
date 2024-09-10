@@ -8,6 +8,7 @@ subtitle: "Dreamgirls chronicles one Motown group's rise from obscurity to
   superstardom. "
 showtime-summary: 19-29 November 2025
 venue: Bridewell Theatre
+primary-color: "#1f003c"
 header-image: /assets/dreamgilrls-tite.jpg
 header-image-contain: false
 flyer: /assets/dreamgirls-dates-poster-2025.jpg
