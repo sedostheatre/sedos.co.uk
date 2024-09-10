@@ -5,6 +5,13 @@ authors: Music and Lyrics by STEPHEN SONDHEIM
 authors2: Book by JOHN WEIDMAN
 subtitle: A timely reimagining of Stephen Sondheim’s musical that explores the
   darkness in those that the American Dream leaves behind.
+showtimes:
+  - time: 2025-09-23 19:30
+  - time: 2025-09-24 19:30
+  - time: 2025-09-25 19:30
+  - time: 2025-09-26 19:30
+  - time: 2025-09-27 14:30
+  - time: 2025-09-27 19:30
 showtime-summary: 23-27 September 2025
 venue: Bridewell Theatre
 primary-color: "#211e6d"
@@ -19,7 +26,12 @@ sections:
       **DIRECTOR** | Dan Edge (he/him)\
       **PRODUCER** | Pippa Kyle (she/her)\
       **MUSICAL DIRECTOR** |  Matt Gould (he/him)
-metaTitle: Assassins plays at the Bridewell Theatre from 23-27 September 2025
+metaTitle: Assassins, by Stephen Sondheim and John Weidman, plays at the
+  Bridewell Theatre from 23-27 September 2025
+metaDescription: Assassins, by Stephen Sondheim and John Weidman, is timely
+  musical that explores the darkness in those that the American Dream leaves
+  behind. It is part of Sedos’ 2025 season and plays at the Bridewell Theatre
+  from 23-27 September 2025
 ---
 **"Everybody has the right to their dreams.”**
 
@@ -39,7 +51,7 @@ Book by John Weidman
 
 *Assassins* is based on an idea by Charles Gilbert, Jr.
 
-Playwrights Horizons, Inc. - New York City produced Assassins Off-Broadway in 1990
+Playwrights Horizons, Inc. - New York City produced *Assassins* Off-Broadway in 1990
 
 Orchestrations by Michael Starobin
 
