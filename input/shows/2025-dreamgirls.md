@@ -1,8 +1,8 @@
 ---
 title: " Dreamgirls"
 year: "2025"
-authors: "Book and Lyrics by Tom Eyen "
-authors2: "Music by Henry Krieger "
+authors: Book and Lyrics by TOM EYEN
+authors2: Music by HENRY KRIEGER
 authors3: There’s a story behind every dream.
 subtitle: "Dreamgirls chronicles one Motown group's rise from obscurity to
   superstardom. "
