@@ -18,7 +18,7 @@ showtimes:
   - time: 2025-11-28 19:30
   - time: 2025-11-29 14:30
   - time: 2025-11-29 19:30
-showtime-summary: 19-29 November 2025
+showtime-summary: 19-29 NOVEMBER 2025
 venue: Bridewell Theatre
 primary-color: "#eaca4f"
 header-image: /assets/dreamgilrls-tite.jpg
