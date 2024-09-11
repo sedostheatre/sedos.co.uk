@@ -25,8 +25,8 @@ sections:
 RedirectFrom: []
 metaTitle: The Pirate Queen, an epic musical adventure from the writers of Les
   Miserables and Miss Saigon, plays at the Minack Theatre, Cornwall, from 29
-  June-3 July 2025.
-metaDescription: The Pirate Queen, is an epic musical adventure from the writers
+  June-3 July 2025
+metaDescription: The Pirate Queen is an epic musical adventure from the writers
   of Les Miserables and Miss Saigon. It is part of Sedos’ 2025 season and plays
   at the Minack Theatre, Cornwall, from 29 June-3 July 2025
 ---
