@@ -1,9 +1,9 @@
 ---
 title: The Pirate Queen
 year: "2025"
-authors: Music by Claude-Michel Schönberg
-authors2: Lyrics by Alain Boublil, Richard Maltby, Jr. and John Dempsey
-authors3: Book by Alain Boublil, Claude-Michel Schönberg and Richard Maltby, Jr.
+authors: Music by CLAUDE-MICHEL SCHÖNBERG
+authors2: Lyrics by ALAIN BOUBLIL, RICHARD MALTBY, JR. and JOHN DEMPSEY
+authors3: Book by ALAIN BOUBLIL, CLAUDE-MICHEL SCHÖNBERG and RICHARD MALTBY, JR.
 subtitle: An epic musical adventure from the writers of Les Miserables and Miss Saigon
 showtimes:
   - time: 2025-06-28 19:30
