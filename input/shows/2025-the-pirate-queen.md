@@ -1,6 +1,10 @@
 ---
 title: The Pirate Queen
 year: "2025"
+authors: Music by Claude-Michel Schönberg
+authors2: Lyrics by Alain Boublil, Richard Maltby, Jr. and John Dempsey
+authors3: Book by Alain Boublil, Claude-Michel Schönberg and Richard Maltby, Jr.
+subtitle: An epic musical adventure from the writers of Les Miserables and Miss Saigon
 showtimes:
   - time: 2025-06-28 19:30
 showtime-summary: 28 June-3 July 2025
@@ -14,3 +18,17 @@ sections:
     title: CREATIVE TEAM
     body: "**DIRECTOR** | Katie Porter"
 ---
+
+
+
+
+Boublil and Schönberg’s *The Pirate Queen*
+
+Book by Alain Boublil and Claude-Michel Schönberg and Richard Maltby Jr.\
+Based upon the book *Grania – She King of the Irish Seas* by Morgan Llywelyn\
+Music by Claude-Michel Schönberg\
+Lyrics by Alain Boublil, Richard Maltby Jr. and John Dempsey\
+Orchestrations by Julian Kelly 
+
+
+This amateur production is presented by arrangement with Music Theatre International. All authorised performance materials are also supplied by MTI. [www.MTIShows.co.uk](http://www.MTIShows.co.uk)
