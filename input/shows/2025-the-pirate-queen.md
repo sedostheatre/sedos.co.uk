@@ -18,9 +18,13 @@ sections:
     title: CREATIVE TEAM
     body: "**DIRECTOR** | Katie Porter"
 ---
+***The Pirate Queen* is an epic musical adventure celebrating the legendary Irish Chieftain Grace O'Malley.** 
 
+Based on her real-life story, Grace is a compelling, inspiring heroine who led an extraordinary life as a pirate, lover and mother in 16th-century Ireland. To protect her people and save her one true love, O'Malley must confront the one woman more powerful than her — her fierce rival, Queen Elizabeth I of England.
 
+From the writers of *Les Miserables* and *Miss Saigon*, the show combines classic storytelling and a sweeping score, with the powerful, vibrant traditions of Irish dance and song, to create a modern musical event that is both an historic romance and a timeless epic.
 
+*The Pirate Queen* plays at the [Minack Theatre](https://www.minack.com/), Cornwall, from 29 June-3 July 2025.
 
 Boublil and Schönberg’s *The Pirate Queen*
 
@@ -29,6 +33,5 @@ Based upon the book *Grania – She King of the Irish Seas* by Morgan Llywelyn\
 Music by Claude-Michel Schönberg\
 Lyrics by Alain Boublil, Richard Maltby Jr. and John Dempsey\
 Orchestrations by Julian Kelly 
-
 
 This amateur production is presented by arrangement with Music Theatre International. All authorised performance materials are also supplied by MTI. [www.MTIShows.co.uk](http://www.MTIShows.co.uk)
