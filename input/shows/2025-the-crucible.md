@@ -41,4 +41,6 @@ This production of *The Crucible* will invite you into Salem and show you things
 
 Director Jonah McLeod commented: "*The Crucible* is one of the greatest works of modern drama—we want to do it justice. Our vision is of a Salem that is so close up to the audience that horror is hidden in plain sight. We can’t wait to enter the unsettling world of 1692, and to be swept up in all the truth, lies, and everything in between."
 
-*The Crucible* plays at the *[Bridewell Theatre](https://www.sedos.co.uk/venues/bridewell)* 16-20 September 2025.
+*The Crucible,* by Arthur Miller, plays at the *[Bridewell Theatre](https://www.sedos.co.uk/venues/bridewell)* 16-20 September 2025.
+
+This amateur production is presented by arrangement with Music Theatre International on behalf of Josef Weinberger Ltd. [www.mtishows.co.uk](http://www.mtishows.co.uk) | [www.josef-weinberger.com](http://www.josef-weinberger.com)
