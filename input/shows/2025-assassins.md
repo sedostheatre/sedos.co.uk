@@ -41,6 +41,8 @@ A timely reimagining of Stephen Sondheim and John Weidman's musical that explore
 
 Our production will reimagine *Assassins* in a modern setting and show that, despite being 30 years old, the themes and lessons are still incredibly relevant today.
 
+Director Dan Edge said: "I am thrilled to be given the opportunity to present a new take on *Assassins*. The show is incredibly relevant to our current political and social situation, and I hope that the new setting and style will resonate with audiences and show what happens to those that are left behind by the American Dream."
+
 **Content warnings:** Scenes of violence and death, guns (both physically in the show but also gunshots, flashing lights etc).
 
 *Assassins* plays at the [Bridewell Theatre](https://www.sedos.co.uk/venues/bridewell) from 17-21 September 2024.
