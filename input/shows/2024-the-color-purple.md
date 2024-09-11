@@ -67,7 +67,8 @@ sections:
       **ASSOCIATE DIRECTOR** and **ACTING COACH** | Bridgette Amofah \
       **ASSOCIATE DIRECTOR** | Landé Belo\
       **MUSICAL DIRECTOR** | Chris Forte-Nelson\
-      **CHOREOGRAPHER** | Vanessa Forte-Nelson\
+      **CHOREOGRAPHER** | Vanessa Fote-Nelson\
+      **VOCAL COACH** | Lexi Du Buclet \
       **ART DIRECTOR** | Lemington Ridley\
       **PRODUCER** | Tess Robinson\
       **ASSISTANT PRODUCER** | Marsha Blake\
