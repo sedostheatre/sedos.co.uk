@@ -12,7 +12,7 @@ showtimes:
   - time: 2025-09-26 19:30
   - time: 2025-09-27 14:30
   - time: 2025-09-27 19:30
-showtime-summary: 23-27 September 2025
+showtime-summary: 23-27 SEPTEMBER 2025
 venue: Bridewell Theatre
 primary-color: "#fe2c35"
 header-image: /assets/assassins.jpg
