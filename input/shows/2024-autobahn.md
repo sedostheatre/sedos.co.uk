@@ -60,7 +60,11 @@ sections:
       **D﻿IRECTOR** | Taylor Davidson\
       **PRODUCER** | Alexandre Darveau-Morin\
       **ASSISTANT DIRECTOR** | Paul Caira\
-      **STAGE MANAGER** | Tatanya Lowed-Spence
+      **STAGE MANAGER** | Tatanya Lowed-Spence\
+      **SET REALISATION** | Adam Coppard and Andrew Laidlaw\
+      **LIGHTING and SOUND DESIGN** | Ben Hussey\
+      **MARKETING and PROGRAMME** | Mark Siddall\
+      **COMMITTEE LIAISONS** | Tim Garrad and Emma Miller
 metaTitle: Autobahn, by Neil LaBute, plays at the Bridewell Theatre from 17-21
   September 2024
 metaDescription: Autobahn, by Neil LaBute, explores the apprehension that
