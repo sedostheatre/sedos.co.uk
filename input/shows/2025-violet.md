@@ -30,7 +30,7 @@ metaDescription: Violet, by Jeanine Tesori, Brian Crawley and Brian Crawley, is
   a moving and award-winning musical. It is part of Sedos’ 2025 season and plays
   at the Bridewell Theatre from 25-29 March 2025
 ---
-**This award-winning musical follows a young, disfigured woman who embarks on a cross-country bus journey from her farm in Spruce Pine, North Carolina, all the way to Tulsa, Oklahoma, to be healed by a minister, and discovers the true meaning of beauty along the way.**
+**This award-winning musical follows a young, scarred** **woman who embarks on a cross-country bus journey from her farm in Spruce Pine, North Carolina, all the way to Tulsa, Oklahoma, to be healed by a minister, and discovers the true meaning of beauty along the way.**
 
 *Violet* is a moving musical featuring show-stopping anthems ranging from American-roots to folk to gospel. With a score from Tony-winning composer Jeanine Tesori (*Thoroughly Modern Millie*, *Fun Home*, *Caroline or Change*), *Violet* is inspired by the short story, *The Ugliest Pilgrim* by Doris Betts, astounding critics and audiences alike in two separate decades.
 
