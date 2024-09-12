@@ -40,7 +40,7 @@ Director Dan Saunders said: "*Violet* is a show with great uplifting music, a di
 
 *Violet* plays at the [Bridewell Theatre](https://www.sedos.co.uk/venues/bridewell) from 25-29 March 2025.
 
-Music by **Jeanine Tesori**\
+Music by Jeanine Tesori\
 Lyrics by Brian Crawley\
 Book by Brian Crawley\
 Based on *The Ugliest Pilgrim* by Doris Betts
