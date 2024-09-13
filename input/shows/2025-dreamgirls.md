@@ -4,8 +4,8 @@ year: "2025"
 authors: Book and Lyrics by TOM EYEN
 authors2: Music by HENRY KRIEGER
 authors3: ""
-subtitle: "There’s a story behind every dream. Dreamgirls chronicles one Motown
-  group's rise from obscurity to superstardom. "
+subtitle: There’s a story behind every dream. Dreamgirls chronicles one Motown
+  group's rise from obscurity to superstardom
 showtimes:
   - time: 2025-11-19 19:30
   - time: 2025-11-20 19:30
