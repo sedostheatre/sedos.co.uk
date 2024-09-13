@@ -1,15 +1,15 @@
 ---
 title: Sedos announces 2025 season
-date: 2024-09-14
+date: 2024-09-13
 image: /assets/newsletterheader.jpg
 imageAlt: Sedos 2025 Bridewell season
 metaTitle: Sedos 2025 Bridewell season
 metaDescription: Sedos announces an exciting 2025 Bridewell season consisting of
   four musicals and one play
 ---
-*14 September 2024*
+*13 September 2024*
 
-![29 September 2023](/assets/2025seasonannouncement.jpg)
+![Sedos 2025 Bridewell season](/assets/2025seasonannouncement.jpg)
 
 **Sedos today announces an exciting 2025 Bridewell season consisting of four musicals and one play, with more shows to be announced soon.** 
 
@@ -25,15 +25,15 @@ More details of the shows and the teams behind them below.
 
 #### **M﻿ESSAGE FROM MANAGEMENT COMMITTEE CHAIR**
 
-Sedos Management Committee chair Adrian Hau said: “Our 2024 season has really pushed the boundaries of amateur theatre in London; with our members taking *[Sunday In the Park with George](https://www.sedos.co.uk/shows/2024-sunday-in-the-park-with-george)* to the outdoor setting of Thorington, and Sedos’ first all-black cast and creative team preparing to bring *[The Color Purple](https://www.sedos.co.uk/shows/2024-the-color-purple)* to sold-out audiences for its amateur premier in the UK - to name but just two of the many successes.
+Sedos Management Committee chair Adrian Hau said: “Our 2024 season has really pushed the boundaries of amateur theatre in London; with our members taking *[Sunday In the Park with George](https://www.sedos.co.uk/shows/2024-sunday-in-the-park-with-george)* to the outdoor setting of Thorington, and Sedos’ first all-black cast and creative team preparing to bring *[The Color Purple](https://www.sedos.co.uk/shows/2024-the-color-purple)* to sold-out audiences for its amateur premier in the UK – to name but just two of the many successes.
 
 “Through 2024, there were no fewer than 129 opportunities for Sedos members to perform in our shows. When you add our creative and production crew, that number of opportunities to be part of our community nearly doubles. The total number doubles again when you add [Sedance](https://www.sedos.co.uk/regular-events/sedance), [Simprov](https://www.sedos.co.uk/regular-events/simprov) and the [Acting Group](https://www.sedos.co.uk/regular-events/acting-group). Sedos remains a member focused society; be it on-stage, off-stage, and even in our audiences. Our 2025 season clocks in with at least 135 performing opportunities on stage and with that comes just as many production opportunities. Sedance, Simprov and the Acting Group continue, and we've planned for a busy membership and social calendar too. 
 
 “Programming the season each year is no easy task. We’ve got to balance the desires of as many of our members as possible, against a backdrop of significant financial uncertainty whilst we continue to be without a home. Taking risks as a society was perhaps more common in a world when we had a rehearsal, build and storage space at BHG – as we continue to operate at a net loss, we must pick our season responsibly, sustainably programming to buy us more time to find a more permanent solution. 
 
-“Our 2025 season seeks to build on our members’ successes in 2024. We’ve welcomed a huge number of talented new members, that we hadn’t ever reached before through *The Color Purple*. The team behind the show has taught us that it takes meaningful outreach, and to facilitate those (familiar!) exceptional experiences to make underrepresented groups feel welcome - a part of Sedos. We see our new members; we want you to thrive in our community, and our 2025 season seeks to provide those opportunities to do that, side-by-side with Sedos members old and new.
+“Our 2025 season seeks to build on our members’ successes in 2024. We’ve welcomed a huge number of talented new members, that we hadn’t ever reached before through *The Color Purple*. The team behind the show has taught us that it takes meaningful outreach, and to facilitate those (familiar!) exceptional experiences to make underrepresented groups feel welcome – a part of Sedos. We see our new members; we want you to thrive in our community, and our 2025 season seeks to provide those opportunities to do that, side-by-side with Sedos members old and new.
 
-“We received 27 pitches this year for six slots in the Bridewell Theatre and one touring slot to The Minack. Picking from all the fantastic pitches Sedos receives is never easy - picking for 2025 was more difficult than ever. We'd like to thank everyone who pitched; the quality of pitches really didn't make it easy for us!”
+“We received 27 pitches this year for six slots in the Bridewell Theatre and one touring slot to The Minack. Picking from all the fantastic pitches Sedos receives is never easy – picking for 2025 was more difficult than ever. We'd like to thank everyone who pitched; the quality of pitches really didn't make it easy for us!”
 
 And watch this space – we have more surprises up our sleeves. After all, this is just what’s going on at the Bridewell...
 
@@ -81,7 +81,7 @@ Director Taylor Davidson said: “I’ve loved this show since the 2007 movie ca
 
 Arthur Miller’s 1952 classic explores the Salem Witch Trials, in 1692 Massachusetts. Teenager Abigail Williams leads a group of girls in accusing others in their tight-knit community of witchcraft. Hysteria erupts across Salem and innocent villagers pay the price. A farmer, John Proctor, is caught in an impossible dilemma, torn between his reputation and his life. 
 
-Director Jonah McLeod commented: "*The Crucible* is one of the greatest works of modern drama — we want to do it justice. Our vision is of a Salem that is so close up to the audience that horror is hidden in plain sight. We can’t wait to enter the unsettling world of 1692, and to be swept up in all the truth, lies, and everything in between."
+Director Jonah McLeod commented: "*The Crucible* is one of the greatest works of modern drama – we want to do it justice. Our vision is of a Salem that is so close up to the audience that horror is hidden in plain sight. We can’t wait to enter the unsettling world of 1692, and to be swept up in all the truth, lies, and everything in between."
 
 **DIRECTOR** | Jonah McLeod (he/him)\
 **DIRECTOR** | Anoushka Nairac (she/they)\
@@ -97,7 +97,7 @@ Director Jonah McLeod commented: "*The Crucible* is one of the greatest works of
 
 *Assassins* tells the stories of nine individuals who either attempted to or succeeded in assassinating Presidents of the United States. The show explores the concept of the American Dream, or rather the dark side of that Dream – that quick fame is the objective and one of the quickest routes to that is to try to kill a President. 
 
-Our production will reimagine *Assassins* in a modern setting and show that, despite being 30 years old, the themes and lessons are still incredibly relevant today.
+Our production will reimagine *Assassins* in a modern setting and show that, despite being 30 years old, the themes and lessons are still present in our lives today.
 
 Director Dan Edge said: "I am thrilled to be given the opportunity to present a new take on *Assassins*. The show is incredibly relevant to our current political and social situation, and I hope that the new setting and style will resonate with audiences and show what happens to those that are left behind by the American Dream."
 
