@@ -45,84 +45,86 @@ Based on *The Ugliest Pilgrim* by Doris Betts
 
 This multi-time, award-winning musical follows a scarred woman who embarks on a cross-country bus trip to be healed by a minister, and discovers the true meaning of beauty along the way.
 
-Director Dan Saunders said: "Violet is a show with great uplifting music, a diverse cast and lots of scope for play and discovery whilst rehearsing. We hope to create an environment such that the preparation for the run is equally as rewarding and exciting as the run itself. 
+Director Dan Saunders said: "*Violet* is a show with great uplifting music, a diverse cast and lots of scope for play and discovery whilst rehearsing. We hope to create an environment such that the preparation for the run is equally as rewarding and exciting as the run itself. 
 
 “Our ethos is that theatre is a team sport and that when everyone works together, a show can be greater than the sum of its parts, and we can create an experience that is unique and special for cast, crew and audience alike.”
 
-This amateur production is presented by arrangement with Music Theatre International. All authorised performance materials are also supplied by MTI. www.mtishows.co.uk
+*This amateur production is presented by arrangement with Music Theatre International. All authorised performance materials are also supplied by MTI. www.mtishows.co.uk*
 
 #### **Hairspray - The Broadway Musical | Bridewell Theatre | 7-17 May 2025**
 
-Book by Mark O'Donnell and Thomas Meehan 
-Music by Marc Shaiman
+Book by Mark O'Donnell and Thomas Meehan \
+Music by Marc Shaiman\
 Lyrics by Scott Wittman and Marc Shaiman\
 Based on the New Line Cinema film written and directed by John Waters
 
-*Hairspray* is the big, bold and beautiful musical you’ve been waiting for!
+***Hairspray* is the big, bold and beautiful musical you’ve been waiting for!**
 
- Set in 1960s Baltimore, with a bumping rhythm and blues score by Marc Whitman, this show has had audiences around the world dancing to hits like 'Run and Tell That', 'Without Love' and 'You Can’t Stop the Beat' since the show’s release in 2002.
+Set in 1960s Baltimore, with a bumping rhythm and blues score by Marc Whitman, *Hairspray* has had audiences around the world dancing to hits like 'Run and Tell That', 'Without Love' and 'You Can’t Stop the Beat' since the show’s release in 2002.
 
 Director Taylor Davidson said: “I’ve loved this show since the 2007 movie came out. The music makes you want to dance immediately and I can’t wait to get started building this big, loud, energetic world! *Hairspray* is so much fun and reminds us that we’re all equal."
 
 **DIRECTOR** | Taylor Davidson (she/her)\
 **PRODUCER** | Ben Hussey
 
-This amateur production is presented by arrangement with Music Theatre International. All authorised performance materials are also supplied by MTI. www.mtishows.co.uk
+*This amateur production is presented by arrangement with Music Theatre International. All authorised performance materials are also supplied by MTI. www.mtishows.co.uk*
 
 #### The Crucible | Bridewell Theatre | 16-20 September 2025
 
 By Arthur Miller 
 
-An enduring story of blame, manipulation, and paranoia — but also a tale of love and loyalty. 
+**An enduring story of blame, manipulation, and paranoia — but also a tale of love and loyalty.** 
 
 Arthur Miller’s 1952 classic explores the Salem Witch Trials, in 1692 Massachusetts. Teenager Abigail Williams leads a group of girls in accusing others in their tight-knit community of witchcraft. Hysteria erupts across Salem and innocent villagers pay the price. A farmer, John Proctor, is caught in an impossible dilemma, torn between his reputation and his life. 
 
 Director Jonah McLeod commented: "*The Crucible* is one of the greatest works of modern drama — we want to do it justice. Our vision is of a Salem that is so close up to the audience that horror is hidden in plain sight. We can’t wait to enter the unsettling world of 1692, and to be swept up in all the truth, lies, and everything in between."
 
-**DIRECTOR** | Jonah McLeod (he/him)
-**DIRECTOR** | Anoushka Nairac (she/they)
+**DIRECTOR** | Jonah McLeod (he/him)\
+**DIRECTOR** | Anoushka Nairac (she/they)\
 **SET DESIGNER** | Ellen Redgrave (they/them)
 
-This amateur production is presented by arrangement with Music Theatre International on behalf of Josef Weinberger Ltd. www.mtishows.co.uk | www.josef-weinberger.com
+*This amateur production is presented by arrangement with Music Theatre International on behalf of Josef Weinberger Ltd. www.mtishows.co.uk | www.josef-weinberger.com*
 
 #### Assassins | Bridewell Theatre from | 17-21 September 2025
 
-A timely reimagining of Stephen Sondheim and John Weidman’s musical that explores the darkness in those that the American Dream leaves behind. 
+**A timely reimagining of Stephen Sondheim and John Weidman’s musical that explores the darkness in those that the American Dream leaves behind.** 
 
 *Assassins* tells the stories of nine individuals who either attempted to or succeeded in assassinating Presidents of the United States. The show explores the concept of the American Dream, or rather the dark side of that Dream – that quick fame is the objective and one of the quickest routes to that is to try to kill a President. 
 
-Our production will reimagine Assassins in a modern setting and show that, despite being 30 years old, the themes and lessons are still incredibly relevant today.
+Our production will reimagine *Assassins* in a modern setting and show that, despite being 30 years old, the themes and lessons are still incredibly relevant today.
 
-Director Dan Edge said: "I am thrilled to be given the opportunity to present a new take on Assassins. The show is incredibly relevant to our current political and social situation, and I hope that the new setting and style will resonate with audiences and show what happens to those that are left behind by the American Dream."
+Director Dan Edge said: "I am thrilled to be given the opportunity to present a new take on *Assassins*. The show is incredibly relevant to our current political and social situation, and I hope that the new setting and style will resonate with audiences and show what happens to those that are left behind by the American Dream."
 
-Music and Lyrics by Stephen Sondheim 
-Book by John Weidman
+Music and Lyrics by Stephen Sondheim \
+Book by John Weidman\
 Orchestrations by Michael Starobin
 
-Assassins is based on an idea by Charles Gilbert, Jr.
+*Assassins* is based on an idea by Charles Gilbert, Jr.
 Playwrights Horizons, Inc. - New York City produced Assassins Off-Broadway in 1990
 
-DIRECTOR | Dan Edge (he/him)
-PRODUCER | Pippa Kyle (she/her)
-MUSICAL DIRECTOR | Matt Gould (he/him)
+**DIRECTOR** | Dan Edge (he/him)\
+**PRODUCER** | Pippa Kyle (she/her)\
+**MUSICAL DIRECTOR** | Matt Gould (he/him)
 
-This amateur production is presented by arrangement with Music Theatre International. All authorised performance materials are also supplied by MTI www.mtishows.co.uk
+*This amateur production is presented by arrangement with Music Theatre International. All authorised performance materials are also supplied by MTI www.mtishows.co.uk*
 
-Dreamgirls | Bridewell Theatre |19-29 November 2025
+#### Dreamgirls | Bridewell Theatre |19-29 November 2025
 
-There’s a story behind every dream. A sweeping and inspirational journey through 20th century American pop music, Dreamgirls chronicles one Motown group’s rise from obscurity to superstardom. All you have to do is dream.
+**There’s a story behind every dream.** 
 
-Famously inspired by the Supremes, Dreamgirls explores the stardom, competition and love lives surrounding three Black women climbing the ranks of the music industry in the '60s and '70s. 
+A sweeping and inspirational journey through 20th century American pop music, *Dreamgirls* chronicles one Motown group’s rise from obscurity to superstardom. All you have to do is dream.
 
-Featuring the classic songs ‘And I Am Telling You I’m Not Going’, ‘I Am Changing’ and ‘One Night Only’, Dreamgirls will transport you to a revolutionary time in American music history. 
-The trio, ‘The Dreams’, must learn the tough lesson that show business and stardom isn’t always as glamorous as it seems.
+Famously inspired by the Supremes, *Dreamgirls* explores the stardom, competition and love lives surrounding three Black women climbing the ranks of the music industry in the '60s and '70s. 
 
-Director David Gregory commented: “Dreamgirls is everything you want from a musical: memorable music, unparalleled vocals, emotional storytelling, dazzling costumes, spectacular dance. It has earned its iconic status in musical theatre for good reason. I’m thrilled to be able to help bring that to the Sedos stage. It’ll be one of the most intimate and up close productions of Dreamgirls you’ll see! Just dream… and we’ll be there!”
+Featuring the classic songs ‘And I Am Telling You I’m Not Going’, ‘I Am Changing’ and ‘One Night Only’, Dreamgirls will transport you to a revolutionary time in American music history.  The trio, ‘The Dreams’, must learn the tough lesson that show business and stardom isn’t always as glamorous as it seems.
 
-Book and Lyrics by Tom Eyen Music by Henry Krieger 
+Director David Gregory commented: “*Dreamgirls* is everything you want from a musical: memorable music, unparalleled vocals, emotional storytelling, dazzling costumes, spectacular dance. It has earned its iconic status in musical theatre for good reason. I’m thrilled to be able to help bring that to the Sedos stage. It’ll be one of the most intimate and up close productions of *Dreamgirls* you’ll see! Just dream… and we’ll be there!”
 
-DIRECTOR | David Gregory
-PRODUCER | Tess Robinson
-MUSICAL DIRECTOR | Isaac Bartels
+Book and Lyrics by Tom Eyen \
+Music by Henry Krieger 
 
-This amateur production of Dreamgirls is presented by arrangement with Concord Theatricals Ltd. www.concordtheatricals.co.uk
+**DIRECTOR** | David Gregory\
+**PRODUCER** | Tess Robinson\
+**MUSICAL DIRECTOR** | Isaac Bartels
+
+*This amateur production of Dreamgirls is presented by arrangement with Concord Theatricals Ltd. www.concordtheatricals.co.uk*
