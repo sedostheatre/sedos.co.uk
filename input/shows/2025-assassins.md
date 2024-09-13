@@ -15,7 +15,7 @@ showtimes:
 showtime-summary: 23-27 SEPTEMBER 2025
 venue: Bridewell Theatre
 primary-color: "#fe2c35"
-header-image: /assets/assassins.jpg
+header-image: /assets/assasins-holder.jpg
 header-image-contain: false
 flyer: /assets/assassins-poster-2025.jpg
 box-office-open: false
