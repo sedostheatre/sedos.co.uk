@@ -2,12 +2,15 @@
 title: Sedos announces 2025 season
 date: 2024-09-14
 image: /assets/newsletterheader.jpg
+imageAlt: Sedos 2025 Bridewell season
 ---
-![](/assets/2025seasonannouncement.jpg)
+*14 September 2024*
+
+![29 September 2023](/assets/2025seasonannouncement.jpg)
 
 **Sedos today announces an exciting 2025 Bridewell season consisting of four musicals and one play, with more shows to be announced soon.** 
 
-Our shows at the Bridewell Theatre next year will be:
+Our shows at the [Bridewell Theatre](https://www.sedos.co.uk/venues/bridewell) next year will be:
 
 ***Violet*** (25-29 March 2025)\
 ***Hairspray*** (7-17 May 2025)\
@@ -71,7 +74,7 @@ Director Taylor Davidson said: “I’ve loved this show since the 2007 movie ca
 
 ![](/assets/sedos2025-crucible-v2.jpg)
 
-#### **An enduring story of blame, manipulation, and paranoia — but also a tale of love and loyalty.** 
+#### **An enduring story of blame, manipulation, and paranoia — but also a tale of love and loyalty.**
 
 Arthur Miller’s 1952 classic explores the Salem Witch Trials, in 1692 Massachusetts. Teenager Abigail Williams leads a group of girls in accusing others in their tight-knit community of witchcraft. Hysteria erupts across Salem and innocent villagers pay the price. A farmer, John Proctor, is caught in an impossible dilemma, torn between his reputation and his life. 
 
@@ -87,7 +90,7 @@ Director Jonah McLeod commented: "*The Crucible* is one of the greatest works of
 
 ![](/assets/sedos2025-assassins-v2.jpg)
 
-#### **A timely reimagining of Stephen Sondheim and John Weidman’s musical that explores the darkness in those that the American Dream leaves behind.** 
+#### **A timely reimagining of Stephen Sondheim and John Weidman’s musical that explores the darkness in those that the American Dream leaves behind.**
 
 *Assassins* tells the stories of nine individuals who either attempted to or succeeded in assassinating Presidents of the United States. The show explores the concept of the American Dream, or rather the dark side of that Dream – that quick fame is the objective and one of the quickest routes to that is to try to kill a President. 
 
@@ -105,7 +108,7 @@ Director Dan Edge said: "I am thrilled to be given the opportunity to present a 
 
 ![](/assets/sedos2025-dreamgirls-v2.jpg)
 
-#### **There’s a story behind every dream.** 
+#### **There’s a story behind every dream.**
 
 A sweeping and inspirational journey through 20th century American pop music, *Dreamgirls* chronicles one Motown group’s rise from obscurity to superstardom. All you have to do is dream.
 
