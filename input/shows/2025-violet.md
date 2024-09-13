@@ -14,7 +14,7 @@ showtimes:
 showtime-summary: 25-29 MARCH 2025
 venue: Bridewell Theatre
 primary-color: "#d6d08a"
-header-image: /assets/violet-title.jpg
+header-image: /assets/bus2.jpg
 header-image-contain: false
 flyer: /assets/violet-dates-poster-2025.jpg
 box-office-open: false
