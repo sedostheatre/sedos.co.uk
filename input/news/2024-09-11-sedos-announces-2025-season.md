@@ -17,7 +17,7 @@ Our shows at the [Bridewell Theatre](https://www.sedos.co.uk/venues/bridewell) n
 
 ***Violet*** (25-29 March 2025)\
 ***Hairspray*** (7-17 May 2025)\
-***The Crucible*** (16-20 September)\
+***The Crucible*** (16-20 September 2025)\
 ***Assassins*** (23-27 September 2025)\
 ***Dreamgirls*** (19-29 November 2025)
 
