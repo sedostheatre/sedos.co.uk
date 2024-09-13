@@ -20,7 +20,7 @@ showtimes:
   - time: 2025-11-29 19:30
 showtime-summary: 19-29 NOVEMBER 2025
 venue: Bridewell Theatre
-primary-color: "#eaca4f"
+primary-color: "#1f003c"
 header-image: ""
 header-image-contain: false
 flyer: /assets/dreamgitls-holder.jpg
