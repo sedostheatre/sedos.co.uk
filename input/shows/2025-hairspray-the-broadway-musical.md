@@ -5,6 +5,9 @@ authors: "Book by MARK O'DONNELL and THOMAS MEEHAN "
 authors2: Music by MARC SHAIMAN
 authors3: "Lyrics by SCOTT WITTMAN and MARC SHAIMAN "
 subtitle: '"You gotta think big to be big”'
+showtimes:
+  - time: 2025-05-07 19:30
+  - time: 2025-05-07 19:30
 showtime-summary: 7-17 MAY 2025
 venue: Bridewell Theatre
 primary-color: "#c91c6c"
