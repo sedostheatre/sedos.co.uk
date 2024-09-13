@@ -20,7 +20,7 @@ showtimes:
 showtime-summary: 7-17 MAY 2025
 venue: Bridewell Theatre
 primary-color: "#ffc9d6"
-header-image: /assets/hairspray-title.jpg
+header-image: /assets/hairspray-holding-image.jpg
 header-image-contain: false
 flyer: /assets/hairspray-dates-poster-2025.jpg
 box-office-open: false
