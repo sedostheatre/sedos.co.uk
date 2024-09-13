@@ -38,7 +38,7 @@ And watch this space – we have more surprises up our sleeves. After all, this 
 
 #### Violet | Bridewell Theatre | 25-29 March 2025
 
-![](/assets/sedos2025-viole-v2.jpg)
+![Violet, part of the Sedos 2025 Bridewell season](/assets/sedos2025-viole-v2.jpg)
 
 #### **“It is the journey that will transform you, not the destination.”**
 
@@ -55,7 +55,7 @@ Director Dan Saunders said: "*Violet* is a show with great uplifting music, a di
 
 #### **Hairspray - The Broadway Musical | Bridewell Theatre | 7-17 May 2025**
 
-![](/assets/sedos2025-hairspray-v2.jpg)
+![Hairspray, part of the Sedos 2025 Bridewell season](/assets/sedos2025-hairspray-v2.jpg)
 
 Based on the New Line Cinema film written and directed by John Waters
 
@@ -72,7 +72,7 @@ Director Taylor Davidson said: “I’ve loved this show since the 2007 movie ca
 
 #### The Crucible | Bridewell Theatre | 16-20 September 2025
 
-![](/assets/sedos2025-crucible-v2.jpg)
+![The Crucible, part of the Sedos 2025 Bridewell season](/assets/sedos2025-crucible-v2.jpg)
 
 #### **An enduring story of blame, manipulation, and paranoia — but also a tale of love and loyalty.**
 
@@ -88,7 +88,7 @@ Director Jonah McLeod commented: "*The Crucible* is one of the greatest works of
 
 #### Assassins | Bridewell Theatre from | 17-21 September 2025
 
-![](/assets/sedos2025-assassins-v2.jpg)
+![Assassins, part of the Sedos 2025 Bridewell season](/assets/sedos2025-assassins-v2.jpg)
 
 #### **A timely reimagining of Stephen Sondheim and John Weidman’s musical that explores the darkness in those that the American Dream leaves behind.**
 
@@ -106,7 +106,7 @@ Director Dan Edge said: "I am thrilled to be given the opportunity to present a 
 
 #### Dreamgirls | Bridewell Theatre |19-29 November 2025
 
-![](/assets/sedos2025-dreamgirls-v2.jpg)
+![Dreamgirls, part of the Sedos 2025 Bridewell season](/assets/sedos2025-dreamgirls-v2.jpg)
 
 #### **There’s a story behind every dream.**
 
