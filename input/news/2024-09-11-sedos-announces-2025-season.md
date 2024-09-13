@@ -35,7 +35,7 @@ Sedos Management Committee chair Adrian Hau said: “Our 2024 season has really 
 
 “We received 27 pitches this year for six slots in the Bridewell Theatre and one touring slot to The Minack. Picking from all the fantastic pitches Sedos receives is never easy – picking for 2025 was more difficult than ever. We'd like to thank everyone who pitched; the quality of pitches really didn't make it easy for us!”
 
-And watch this space – we have more surprises up our sleeves. Our Minack show and more will be announced in due course.
+And watch this space – we have more surprises up our sleeves. Our Minack show and another London play will be announced in due course.
 
 ### **FULL DETAILS OF SEDOS’ 2025 SEASON**
 
