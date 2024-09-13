@@ -3,6 +3,8 @@ title: Sedos announces 2025 season
 date: 2024-09-14
 image: /assets/newsletterheader.jpg
 ---
+![](/assets/2025seasonannouncement.jpg)
+
 **Sedos today announces an exciting 2025 Bridewell season consisting of four musicals and one play, with more shows to be announced soon.** 
 
 Our shows at the Bridewell Theatre next year will be:
