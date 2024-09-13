@@ -3,6 +3,9 @@ title: Sedos announces 2025 season
 date: 2024-09-14
 image: /assets/newsletterheader.jpg
 imageAlt: Sedos 2025 Bridewell season
+metaTitle: Sedos 2025 Bridewell season
+metaDescription: Sedos announces an exciting 2025 Bridewell season consisting of
+  four musicals and one play
 ---
 *14 September 2024*
 
