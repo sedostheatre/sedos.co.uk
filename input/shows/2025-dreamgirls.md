@@ -21,9 +21,9 @@ showtimes:
 showtime-summary: 19-29 NOVEMBER 2025
 venue: Bridewell Theatre
 primary-color: "#eaca4f"
-header-image: /assets/dreamgilrls-tite.jpg
+header-image: ""
 header-image-contain: false
-flyer: /assets/dreamgirls-dates-poster-2025.jpg
+flyer: /assets/dreamgitls-holder.jpg
 box-office-open: false
 sections:
   - order: 1
@@ -60,4 +60,4 @@ Director David Gregory commented: “*Dreamgirls i*s everything you want from a 
 Book and Lyrics by Tom Eyen 
 Music by Henry Krieger 
 
-This amateur production of Dreamgirls is presented by arrangement with Concord Theatricals Ltd. [www.concordtheatricals.co.uk ](http://www.concordtheatricals.co.uk)
+This amateur production of *Dreamgirls* is presented by arrangement with Concord Theatricals Ltd. [www.concordtheatricals.co.uk ](http://www.concordtheatricals.co.uk)
