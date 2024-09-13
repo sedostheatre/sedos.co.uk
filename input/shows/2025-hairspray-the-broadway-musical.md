@@ -7,7 +7,16 @@ authors3: "Lyrics by SCOTT WITTMAN and MARC SHAIMAN "
 subtitle: '"You gotta think big to be big”'
 showtimes:
   - time: 2025-05-07 19:30
-  - time: 2025-05-07 19:30
+  - time: 2025-05-08 19:30
+  - time: 2025-05-09 19:30
+  - time: 2025-05-10 14:30
+  - time: 2025-05-10 19:30
+  - time: 2025-05-13 19:30
+  - time: 2025-05-14 19:30
+  - time: 2025-05-15 19:30
+  - time: 2025-05-16 19:30
+  - time: 2025-05-17 14:30
+  - time: 2025-05-17 19:30
 showtime-summary: 7-17 MAY 2025
 venue: Bridewell Theatre
 primary-color: "#c91c6c"
