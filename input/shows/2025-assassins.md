@@ -37,7 +37,7 @@ metaDescription: Assassins, by Stephen Sondheim and John Weidman, is timely
 
 *Assassins* tells the stories of nine individuals who either attempted to or succeeded in assassinating Presidents of the United States. The show explores the concept of the American Dream, or rather the dark side of that Dream – that quick fame is the objective and one of the quickest routes to that is to try to kill a President. 
 
-Our production will reimagine *Assassins* in a modern setting and show that, despite being 30 years old, the themes and lessons are still incredibly relevant today.
+Our production will reimagine *Assassins* in a modern setting and show that, despite being 30 years old, the themes and lessons are still present in our lives today.
 
 Director Dan Edge said: "I am thrilled to be given the opportunity to present a new take on *Assassins*. The show is incredibly relevant to our current political and social situation, and I hope that the new setting and style will resonate with audiences and show what happens to those that are left behind by the American Dream."
 
