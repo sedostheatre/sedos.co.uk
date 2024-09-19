@@ -65,6 +65,14 @@ sections:
       **LIGHTING and SOUND DESIGN** | Ben Hussey\
       **MARKETING and PROGRAMME** | Mark Siddall\
       **COMMITTEE LIAISONS** | Tim Garrad and Emma Miller
+  - order: 2
+    title: GALLERY
+    body: <a data-flickr-embed="true"
+      href="https://www.flickr.com/photos/sedos/albums/72177720320455369"
+      title="Autobahn - 2024"><img
+      src="https://live.staticflickr.com/65535/54006082606_c52d0cfeeb_z.jpg"
+      width="640" height="480" alt="Autobahn - 2024"/></a><script async
+      src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 metaTitle: Autobahn, by Neil LaBute, plays at the Bridewell Theatre from 17-21
   September 2024
 metaDescription: Autobahn, by Neil LaBute, explores the apprehension that
