@@ -1,9 +1,6 @@
 ---
 title: Simprov perform across London
 times:
-  - time: 2024-09-07 20:00
-  - time: 2024-09-08 15:00
-  - time: 2024-10-01 19:30
   - time: 2024-10-14 20:00
 image: /assets/simprov-july-24-5.jpg
 venue: ""
@@ -25,11 +22,6 @@ Hoopla at The Bell\
 Barons Court Theatre at The Curtains Up Pub\
 *28a Comeragh Rd, W14 9HR*\
 [www.londonimprovtheatre.com/spontaneous-sunday-shows](https://www.londonimprovtheatre.com/spontaneous-sunday-shows)
-
-**Tuesday 1 October** | 7.30-9pm\
-Stage Time at Shoreditch Balls\
-*333 Old Street, EC1V 9LE*\
-[Stage Time – The Improv Variety Show Tickets, Multiple Dates | Eventbrite](https://www.eventbrite.com/e/stage-time-the-improv-variety-show-tickets-974247940817)
 
 **Monday 14 October** | 8-10pm\
 Duck Duck Goose Improv\
