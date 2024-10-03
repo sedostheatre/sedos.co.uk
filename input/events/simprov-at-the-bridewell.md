@@ -2,6 +2,7 @@
 title: Simprov perform across London
 times:
   - time: 2024-10-14 20:00
+  - time: 2024-10-06 19:30
 image: /assets/simprov-july-24-5.jpg
 venue: ""
 ticket-prices: ""
@@ -13,15 +14,11 @@ metaTitle: ""
 
 The improv team have a number of gigs coming up across London which are sure to get you laughing in the aisles. Click on the link for more information.
 
-**Saturday 7 Septembe**r | 8-10pm\
-Hoopla at The Bell\
-*50 Middlesex Street London E1 7EX*\
-[www.eventbrite.co.uk/e/hoopla-at-the-bell-the-mixer-tickets-978079681657](https://www.eventbrite.co.uk/e/hoopla-at-the-bell-the-mixer-tickets-978079681657)
-
-**Sunday 8 September** | 3-5.30pm\
-Barons Court Theatre at The Curtains Up Pub\
-*28a Comeragh Rd, W14 9HR*\
-[www.londonimprovtheatre.com/spontaneous-sunday-shows](https://www.londonimprovtheatre.com/spontaneous-sunday-shows)
+**Sunday 6 October** | 7.30pm\
+Blanche Improv Extravaganza\
+*Blanche Improv, 1 Cluny Mews, London SW5 9EF*\
+You can get FREE tickets by using the code “FREE”\
+[www.blancheimprov.com/improvextravaganza](https://www.blancheimprov.com/improvextravaganza)
 
 **Monday 14 October** | 8-10pm\
 Duck Duck Goose Improv\
