@@ -80,6 +80,14 @@ sections:
       **MARKETING SUPPORT** | Adrianna Cordero-Marino\
       **COMMITTEE LIAISON** | Karen Braganza\
       **COMMITTEE LIAISON** | Adrian Hau
+  - order: 2
+    title: GALLERY
+    body: <a data-flickr-embed="true"
+      href="https://www.flickr.com/photos/sedos/albums/72177720320760701"
+      title="The Color Purple - 2024"><img
+      src="https://live.staticflickr.com/65535/54035287921_2195af0997_z.jpg"
+      width="640" height="480" alt="The Color Purple - 2024"/></a><script async
+      src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 metaTitle: The Color Purple, part of the 2024 Sedos season, plays at the
   Bridewell Theatre from 20-30 November 2024
 metaDescription: The Color Purple, which documents the traumas and gradual
