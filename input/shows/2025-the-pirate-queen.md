@@ -38,6 +38,10 @@ From the writers of *Les Miserables* and *Miss Saigon*, the show combines classi
 
 *The Pirate Queen* plays at the [Minack Theatre](https://www.minack.com/), Cornwall, from 29 June-3 July 2025.
 
+Sedos\
+By kind permission of Bouberg Productions Limited,Alain Boublil and Claude Michel Schönberg and by arrangement with Music Theatre International\
+Proudly presents
+
 Boublil and Schönberg’s *The Pirate Queen*
 
 Book by Alain Boublil and Claude-Michel Schönberg and Richard Maltby Jr.\
