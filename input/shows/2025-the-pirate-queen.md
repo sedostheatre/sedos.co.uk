@@ -21,7 +21,10 @@ box-office-open: false
 sections:
   - order: 1
     title: CREATIVE TEAM
-    body: "**DIRECTOR** | Katie Porter"
+    body: |-
+      **DIRECTOR** | Katie Porter\
+      **MUSICAL DIRECTOR** | Oscar Deniham\
+      **PRODUCERS** | Lizzie Levett and Pippa Kyle
 RedirectFrom: []
 metaTitle: The Pirate Queen, an epic musical adventure from the writers of Les
   Miserables and Miss Saigon, plays at the Minack Theatre, Cornwall, from 29
