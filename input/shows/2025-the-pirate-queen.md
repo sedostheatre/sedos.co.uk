@@ -6,12 +6,13 @@ authors2: Lyrics by ALAIN BOUBLIL, RICHARD MALTBY, JR. and JOHN DEMPSEY
 authors3: Book by ALAIN BOUBLIL, CLAUDE-MICHEL SCHÖNBERG and RICHARD MALTBY, JR.
 subtitle: An epic musical adventure from the writers of Les Misérables and Miss Saigon
 showtimes:
-  - time: 2025-06-29 19:30
   - time: 2025-06-30 19:30
+  - time: 2025-07-01 14:30
   - time: 2025-07-01 19:30
   - time: 2025-07-02 19:30
+  - time: 2025-07-03 14:30
   - time: 2025-07-03 19:30
-showtime-summary: 29 JUNE-3 JULY 2025
+showtime-summary: 30 JUNE-3 JULY 2025
 primary-color: "#f4981f"
 header-image: /assets/pirate-queen-holder.jpg
 header-image-contain: false
@@ -50,7 +51,7 @@ Director Katie Porter said: "It’s always exciting to see shows where women are
 
 **Content warnings:** The show includes themes of death, violence and misogyny. 
 
-*The Pirate Queen* plays at the [Minack Theatre](https://www.minack.com/), Cornwall, from 29 June-3 July 2025.
+*The Pirate Queen* plays at the [Minack Theatre](https://www.minack.com/), Cornwall, from 30 June-3 July 2025.
 
 By kind permission of Bouberg Productions Limited, Alain Boublil and Claude-Michel Schönberg and by arrangement with Music Theatre International\
 \
