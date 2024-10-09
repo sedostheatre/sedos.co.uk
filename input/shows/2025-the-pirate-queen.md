@@ -53,8 +53,8 @@ Director Katie Porter said: "It’s always exciting to see shows where women are
 *The Pirate Queen* plays at the [Minack Theatre](https://www.minack.com/), Cornwall, from 29 June-3 July 2025.
 
 By kind permission of Bouberg Productions Limited, Alain Boublil and Claude-Michel Schönberg and by arrangement with Music Theatre International\
-Proudly presents
-
+\
+Sedos proudly presents\
 Boublil and Schönberg’s *The Pirate Queen*
 
 Book by Alain Boublil and Claude-Michel Schönberg and Richard Maltby Jr.\
