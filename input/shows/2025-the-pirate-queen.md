@@ -23,7 +23,7 @@ sections:
     title: CREATIVE TEAM
     body: |-
       **DIRECTOR** | Katie Porter (she/her)\
-      **MUSICAL DIRECTOR** | Oscar Denihan\
+      **MUSICAL DIRECTOR** | Oscar Denihan (he/her)\
       **PRODUCERS** | Lizzie Levett (she/her) and Pippa Kyle (she/her)
 RedirectFrom: []
 metaTitle: The Pirate Queen, an epic musical adventure from the writers of Les
