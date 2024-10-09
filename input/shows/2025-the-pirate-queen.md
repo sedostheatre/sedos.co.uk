@@ -4,8 +4,7 @@ year: "2025"
 authors: Music by CLAUDE-MICHEL SCHÖNBERG
 authors2: Lyrics by ALAIN BOUBLIL, RICHARD MALTBY, JR. and JOHN DEMPSEY
 authors3: Book by ALAIN BOUBLIL, CLAUDE-MICHEL SCHÖNBERG and RICHARD MALTBY, JR.
-subtitle: From the writers of Les Misérables and Miss Saigon, this epic musical
-  adventure celebrates legendary Irish chieftain Grace O’Malley
+subtitle: An epic musical adventure from the writers of Les Misérables and Miss Saigon
 showtimes:
   - time: 2025-06-29 19:30
   - time: 2025-06-30 19:30
@@ -14,7 +13,7 @@ showtimes:
   - time: 2025-07-03 19:30
 showtime-summary: 29 JUNE-3 JULY 2025
 primary-color: "#f49b1b"
-header-image: /assets/pirate-queen.jpg
+header-image: /assets/pirate-queen-holder.jpg
 header-image-contain: false
 flyer: /assets/pirate-queen-poster-2025.jpg
 box-office-open: false
@@ -53,7 +52,6 @@ Director Katie Porter said: "It’s always exciting to see shows where women are
 
 *The Pirate Queen* plays at the [Minack Theatre](https://www.minack.com/), Cornwall, from 29 June-3 July 2025.
 
-Sedos\
 By kind permission of Bouberg Productions Limited, Alain Boublil and Claude-Michel Schönberg and by arrangement with Music Theatre International\
 Proudly presents
 
