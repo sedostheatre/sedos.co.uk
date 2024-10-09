@@ -12,7 +12,7 @@ showtimes:
   - time: 2025-07-02 19:30
   - time: 2025-07-03 19:30
 showtime-summary: 29 JUNE-3 JULY 2025
-primary-color: "#f49b1b"
+primary-color: "#f4981f"
 header-image: /assets/pirate-queen-holder.jpg
 header-image-contain: false
 flyer: /assets/pirate-queen-poster-2025.jpg
