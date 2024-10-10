@@ -32,9 +32,9 @@ Be sure to label any dishes you bring and bring tupperware for leftovers! 
 
 To enter the Jollof Rice Competition (Jollof-off/Jol-Off): 
 
-\- Bring your dish of Jollof Rice to the potluck\
+\- Bring your dish of Jollof Rice to the potluck
 
-* Make sure it is clearly and securely labelled with your name \
+* Make sure it is clearly and securely labelled with your name 
 * Feel free to name the recipe and include the country of origin or the name of the recipe
 
 You can put your name down for Karaoke on the day as long as the track is available on youtube. 
@@ -43,7 +43,7 @@ Entry is completely free, but you are encouraged to [register your attendance](h
 
 We look forward to seeing you!
 
-**Essential Info:**
+**Essential info:**
 
 * Saturday 19 October 
 * Arrive from 7pm
