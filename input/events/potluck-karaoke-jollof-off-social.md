@@ -17,7 +17,7 @@ metaDescription: Catch up with friends and meet new members at Sedos’ free Mee
 
 You are heartily encouraged to bring a dish for the Potluck - a North American tradition of communal gatherings where each guest or group contributes a different, often homemade, dish of food to be shared. There will also be the long-awaited Jollof-off! Anyone and everyone is encouraged to bring their best Jollof rice, all attendees can taste test and vote and the winning chef will get two free tickets to come and see the sold-out run of *The Color Purple.*
 
-But that’s not all! There will also be karaoke and a bar. You’ll have everything you need to eat, drink and be merry. The best part? Entry to the event is completely free! We hope you’ll bring a dish, sing a song and have a few drinks as all profit will go towards putting on an amazing show.
+But that’s not all! There will also be karaoke and a bar! You’ll have everything you need to eat, drink and be merry. The best part? Entry to the event is completely free! We hope you’ll bring a dish, sing a song and have a few drinks as all profit will go towards putting on an amazing show.
 
 Dishes you’re encouraged to bring for the potluck: 
 
@@ -33,8 +33,9 @@ Be sure to label any dishes you bring and bring tupperware for leftovers! 
 To enter the Jollof Rice Competition (Jollof-off/Jol-Off): 
 
 \- Bring your dish of Jollof Rice to the potluck\
-- Make sure it is clearly and securely labelled with your name \
-- Feel free to name the recipe and include the country of origin or the name of the recipe
+
+* Make sure it is clearly and securely labelled with your name \
+* Feel free to name the recipe and include the country of origin or the name of the recipe
 
 You can put your name down for Karaoke on the day as long as the track is available on youtube. 
 
