@@ -16,7 +16,7 @@ showtime-summary: 30 JUNE-3 JULY 2025
 primary-color: "#015d74"
 header-image: /assets/pirate-queen-holder.jpg
 header-image-contain: false
-flyer: /assets/pirate-queen-poster-2025.jpg
+flyer: /assets/pirate-queen-poster-2025-v2.jpg
 box-office-open: false
 sections:
   - order: 1
