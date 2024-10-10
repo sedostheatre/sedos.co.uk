@@ -32,8 +32,7 @@ Be sure to label any dishes you bring and bring tupperware for leftovers! 
 
 To enter the Jollof Rice Competition (Jollof-off/Jol-Off): 
 
-\- Bring your dish of Jollof Rice to the potluck
-
+* Bring your dish of Jollof Rice to the potluck
 * Make sure it is clearly and securely labelled with your name 
 * Feel free to name the recipe and include the country of origin or the name of the recipe
 
