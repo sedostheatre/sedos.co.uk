@@ -8,7 +8,7 @@ metaTitle: Violet auditions
 metaDescription: Find out how to sign up for Violet auditions and be part of the
   first production of our 2025 Sedos season
 ---
-Registration for *[Violet](https://www.sedos.co.uk/shows/2025-violet)* auditions, for our 2025 production, are now open.
+Registration for *[Violet](https://www.sedos.co.uk/shows/2025-violet)* auditions, for our 2025 production, is now open.
 
 **KEY INFO**
 
