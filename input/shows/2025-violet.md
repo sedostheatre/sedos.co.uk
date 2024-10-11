@@ -22,8 +22,13 @@ sections:
   - order: 1
     title: CREATIVE TEAM
     body: |-
-      **DIRECTOR** and **PRODUCER** | Dan Saunders\
-      **MUSICAL DIRECTOR** | Adrian Hau
+      **DIRECTOR** and **CO-PRODUCER** | Dan Saunders (he/him)\
+      **MUSICAL DIRECTOR** and **CO-PRODUCER** | Adrian Hau (he/him)\
+      **ASSISTANT MUSICAL DIRECTOR** | Maria Hallows (she/her)\
+      **TECHNICAL PRODUCER** and **SOUND DESIGN** | Adam Coppard (he/him)\
+      **LIGHTING DESIGN** | Tash Boret (she/her)\
+      **MARKETING** and **ART DESIGN** | Tess Robinson (she/her)\
+      **COMMITTEE LIAISON** | Paul Caira
 metaTitle: Violet, by Jeanine Tesori, Brian Crawley and Brian Crawley, plays at
   the Bridewell Theatre from 25-29 March 2025
 metaDescription: Violet, by Jeanine Tesori, Brian Crawley and Brian Crawley, is
