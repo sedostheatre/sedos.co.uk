@@ -27,7 +27,7 @@ Sedos seeks to build and sustain a membership that is reflective of the diverse 
 
 **Show costs**
 
-All performers and core production team members (directors, musical directors, choreographers and producers) must be members of Sedos. All cast members also pay a participation fee of £50-80, depending on whether the show is a play or musical and whether there are one or two weeks of performances.
+All performers and core production team members (directors, musical directors, choreographers and producers) must be members of Sedos. All cast members also pay a participation fee of £80-120, depending on whether the show is a play or musical and whether there are one or two weeks of performances.
 
 We would always be open to a discussion with anyone who found our membership or participation fees a barrier to taking part.
 
