@@ -37,7 +37,7 @@ The audition notice for each show will give details of the creative vision, the 
 
 Most of our shows hold an online or in-person pre-audition workshop where you can find out more about the show, the audition process and meet the team. Such workshops are free to attend and open to all. 
 
-It is free to audition for Sedos shows – there is a £10 reservation fee for non-members, refunded if you attend the audition or give 72 hours notice of cancellation. All cast members have to be Sedos members, so those new or returning to the society have to join after being cast (£30 by direct debit or £40 otherwise), and pay a participation fee to be in a show (£50-80 depending on whether the show is a play or a musical and has one or two weeks of performances). We would always be open to a discussion with anyone who found our membership or participation fees a barrier to being involved. 
+It is free to audition for Sedos shows – there is a £10 reservation fee for non-members, refunded if you attend the audition or give 72 hours notice of cancellation. All cast members have to be Sedos members, so those new or returning to the society have to join after being cast (£30 by direct debit or £40 otherwise), and pay a participation fee to be in a show (£80-120 depending on whether the show is a play or a musical and has one or two weeks of performances). We would always be open to a discussion with anyone who found our membership or participation fees a barrier to being involved. 
 
 Sedos is a [London amateur theatre](https://sedos.co.uk) company and, in keeping with the ethos of amateur productions, actors are not paid fees or expenses. 
 
