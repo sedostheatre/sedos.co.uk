@@ -12,7 +12,7 @@ Registration for *[Violet](https://www.sedos.co.uk/shows/2025-violet)* audition
 
 **KEY INFO**
 
-**Workshop:** Monday 4 November, 8-9,30om at Vibast Community Centre, 167 Old Street, EC1V 9NH\
+**Workshop:** Monday 4 November, 8pm-9.30pm at Vibast Community Centre, 167 Old Street, EC1V 9NH\
 **First round auditions:** by self-tape only. Submission deadline: 8pm on 16 November 2024\
 **Recalls (by invite only):** Saturday 23 November 2024 at King's Square Community Hall EC1V 8DA\
 **Rehearsals:** Tuesdays, Thursdays and Saturdays starting 14 December, breaking after 19 December and returning 7 January to March.\
@@ -46,7 +46,7 @@ If you are unsure about whether you should audition for a part, please do reach 
 
 You can read Sedos’s [Equality, Diversity and Inclusion policy in full here](https://www.sedos.co.uk/assets/policies/2023-12-edi-policy.pdf).
 
-**WORKSHOP - Monday 4 November, 8-9,30om**\
+**WORKSHOP - Monday 4 November, 8pm-9.30pm**\
 *Vibast Community Centre, 167 Old Street, EC1V 9NH*
 
 Still not sure about auditioning? Do you want to find out more about our vision for the show or do you want to find out more about Sedos?
