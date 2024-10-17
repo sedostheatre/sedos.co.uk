@@ -53,6 +53,8 @@ Still not sure about auditioning? Do you want to find out more about our vision 
 
 We'll be running a workshop to talk about the show, we'll sing through a musical number together and leave plenty of time for you to ask questions about the auditions. Workshops are a really good way to find out about Sedos and meet others who have done shows before, people who are new to the scene and to speak to the team on a very informal basis. Attending the workshop isn’t mandatory for auditions and won't have any effect on the casting process.
 
+[Sign up for the workshop](https://membership.sedos.co.uk/signup/)
+
 **WHAT DO TO NOW**
 
 Read the full audition notice for details of how to submit your self-tape. 
