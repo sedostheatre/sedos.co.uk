@@ -41,7 +41,7 @@ Our production will reimagine *Assassins* in a modern setting and show that, des
 
 Director Dan Edge said: "I am thrilled to be given the opportunity to present a new take on *Assassins*. The show is incredibly relevant to our current political and social situation, and I hope that the new setting and style will resonate with audiences and show what happens to those that are left behind by the American Dream."
 
-**Content warnings:** Scenes of violence and death, guns (both physically in the show but also gunshots, flashing lights etc).
+**Content warnings:** The show includes scenes of and references to violence, including guns and gunshots, death, suicide and strong language. Recommended for ages 15+.
 
 *Assassins* plays at the [Bridewell Theatre](https://www.sedos.co.uk/venues/bridewell) from 17-21 September 2024.
 
