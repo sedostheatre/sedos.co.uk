@@ -1,8 +1,7 @@
 ---
 title: Simprov perform across London
 times:
-  - time: 2024-10-06 19:30
-  - time: 2024-10-14 20:00
+  - time: 2024-11-05 19:30
 image: /assets/simprov-july-24-5.jpg
 venue: ""
 ticket-prices: ""
@@ -14,16 +13,10 @@ metaTitle: ""
 
 The improv team have a number of gigs coming up across London which are sure to get you laughing in the aisles. Click on the link for more information.
 
-**Sunday 6 October** | 7.30pm\
-Blanche Improv Extravaganza\
-*Blanche Improv, 1 Cluny Mews, London SW5 9EF*\
-You can get FREE tickets by using the code “FREE”\
-[www.blancheimprov.com/improvextravaganza](https://www.blancheimprov.com/improvextravaganza)
-
-**Monday 14 October** | 8-10pm\
-Duck Duck Goose Improv\
-*location TBD due to Oct renovations*\
-[www.ddgimprov.com](https://www.ddgimprov.com)
+**Tuesday 5 November** | 7.30pm
+Stage Time at Shoreditch Balls 
+*333 Old St, London EC1V 9LE*
+[www.shoreditchballs.com](https://www.shoreditchballs.com)
 
 Come on down to one of the events and get a whiff of all the incredible talent that's been hiding right under your nose. 
 
