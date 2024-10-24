@@ -21,7 +21,7 @@ Membership fees are £30 a year if paid by direct debit, £40 otherwise. We woul
 
 Whether you’re a singer, a dancer, an actor or all three, there are plentiful opportunities to tread the boards at several of London’s best fringe venues. We present a varied season every year, with large-scale musicals, cabarets, modern and classical dramas and new writing.
 
-Our [London auditions](https://sedos.co.uk/get-involved) are free for members and non-members (£10 reservation fee for non-members, refunded if you attend the audition or give 72 hours notice of cancellation). We are committed to casting the best person for the role regardless of membership status. 
+Our [London auditions](https://sedos.co.uk/get-involved) are free for members and non-members (£10 reservation fee for non-members if the auditions are held in-person, refunded if you attend the audition or give 72 hours notice of cancellation; some first round auditions are done via self-tapes, in which case auditioning is free). We are committed to casting the best person for the role regardless of membership status. 
 
 Sedos seeks to build and sustain a membership that is reflective of the diverse communities within our city and we love to see a diverse range of auditionees at our London auditions. We actively encourage performers to audition for the roles which they feel best suit their skills. Any specific requirements will be detailed in the casting breakdown on individual shows’ auditions notices. 
 
