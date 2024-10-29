@@ -23,7 +23,8 @@ sections:
     body: |-
       **DIRECTOR** | Jonah McLeod (he/him)\
       **DIRECTOR** | Anoushka Nairac (she/they)\
-      **SET DESIGNER** | Ellen Redgrave (they/them)
+      **SET DESIGNER** | Ellen Redgrave (they/them)\
+      **COMMITTEE LIAISONS** | Adam Coppard (he/him) and Sorrel Brown (she/her)
 metaTitle: The Crucible, by Arthur Miller, plays at the Bridewell Theatre 16-20
   September 2025
 metaDescription: The Crucible, by Arthur Miller, is an  enduring story of blame,
