@@ -30,7 +30,8 @@ sections:
     body: |-
       **DIRECTOR** | David Gregory\
       **PRODUCER** | Tess Robinson\
-      **MUSICAL DIRECTOR** | Isaac Bartels
+      **MUSICAL DIRECTOR** | Isaac Bartels\
+      **COMMITTEE LIAISON** | George Langdown (he/him)
     title: CREATIVE TEAM
 metaTitle: Dreamgirls plays at the Bridewell Theatre 19-29 November 2025
 metaDescription: Dreamgirls, by Tom Eyen and Henry Krieger, is a sweeping and
