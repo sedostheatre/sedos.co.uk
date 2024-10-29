@@ -5,7 +5,7 @@ authors: Book and Lyrics by TOM EYEN
 authors2: Music by HENRY KRIEGER
 authors3: ""
 subtitle: There’s a story behind every dream. Dreamgirls chronicles one Motown
-  group's rise from obscurity to superstardom
+  group’s rise from obscurity to superstardom
 showtimes:
   - time: 2025-11-19 19:30
   - time: 2025-11-20 19:30
@@ -30,7 +30,8 @@ sections:
     body: |-
       **DIRECTOR** | David Gregory\
       **PRODUCER** | Tess Robinson\
-      **MUSICAL DIRECTOR** | Isaac Bartels
+      **MUSICAL DIRECTOR** | Isaac Bartels\
+      **COMMITTEE LIAISON** | George Langdown (he/him)
     title: CREATIVE TEAM
 metaTitle: Dreamgirls plays at the Bridewell Theatre 19-29 November 2025
 metaDescription: Dreamgirls, by Tom Eyen and Henry Krieger, is a sweeping and
