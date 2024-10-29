@@ -26,7 +26,11 @@ sections:
       **DIRECTOR** | Katie Porter (she/her)\
       **MUSICAL DIRECTOR** | Oscar Denihan (he/him)\
       **PRODUCERS** | Lizzie Levett (she/her) and Pippa Kyle (she/her)\
-      **COSTUMES** | Clare Harding (she/her)
+      **LIGHTING DESIGNER** | Olly Levett (he/him)\
+      **SOUND DESIGNER** | Adam Coppard (he/him)\
+      **COSTUMES** | Clare Harding (she/her)\
+      **STAGE MANAGER** | Shiri Stern (she/her)\
+      **COMMITTEE LIAISONS** | Olly Levett (he/him) and Thomas Riggs (he/him)
 RedirectFrom: []
 metaTitle: The Pirate Queen, an epic musical adventure from the writers of Les
   Misérables and Miss Saigon, plays at the Minack Theatre, Cornwall, from 29
@@ -53,7 +57,7 @@ Director Katie Porter said: "It’s always exciting to see shows where women are
 
 **Content warnings:** The show includes themes of death, violence and misogyny. 
 
-*The Pirate Queen* plays at the [Minack Theatre](https://www.minack.com/), Cornwall, from 30 June-3 July 2025.
+*The Pirate Queen* plays at the [Minack Theatre](https://www.minack.com/), Cornwall, from 30 June-3 July 2025. Tickets will go on sale in February.
 
 By kind permission of Bouberg Productions Limited, Alain Boublil and Claude-Michel Schönberg and by arrangement with Music Theatre International\
 \
