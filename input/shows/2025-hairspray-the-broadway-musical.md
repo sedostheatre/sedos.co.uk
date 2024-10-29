@@ -28,7 +28,8 @@ sections:
   - order: 1
     body: |-
       **DIRECTOR** | Taylor Davidson (she/her)\
-      **PRODUCER** | Ben Hussey
+      **PRODUCER** | Ben Hussey\
+      **COMMITTEE LIAISONS** | Tim Garrad (he/him) and Karen Braganza (she/her)
     title: CREATIVE TEAM
 metaTitle: Hairspray plays at the Bridewell Theatre from 7-17 May 2025
 metaDescription: Hairspray is the big, bold and beautiful musical you’ve been
