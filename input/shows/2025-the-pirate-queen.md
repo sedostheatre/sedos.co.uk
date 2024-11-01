@@ -33,11 +33,11 @@ sections:
       **COMMITTEE LIAISONS** | Olly Levett (he/him) and Thomas Riggs (he/him)
 RedirectFrom: []
 metaTitle: The Pirate Queen, an epic musical adventure from the writers of Les
-  Misérables and Miss Saigon, plays at the Minack Theatre, Cornwall, from 29
+  Misérables and Miss Saigon, plays at the Minack Theatre, Cornwall, from 30
   June-3 July 2025
 metaDescription: The Pirate Queen is an epic musical adventure from the writers
   of Les Misérables and Miss Saigon. It is part of Sedos’ 2025 season and plays
-  at the Minack Theatre, Cornwall, from 29 June-3 July 2025
+  at the Minack Theatre, Cornwall, from 30 June-3 July 2025
 ---
 ***The Pirate Queen* is an epic musical adventure celebrating the legendary Irish chieftain Grace O’Malley.** 
 
@@ -46,6 +46,8 @@ Could you stand by while your homeland was taken over? Gráinne (Grace) could no
 A thrilling mixture of romance, sword fighting, politics, and piracy, this show by Claude-Michel Schonberg and Alain Boublil (*Les Misérables*, *Miss Saigon*), asks how far you would go to protect what you love. 
 
 With Irish music and dance woven throughout, *The Pirate Queen* explores what it is to be trapped by societal expectations of gender, culture and tradition. Can Grace find a way to negotiate peace with the powerful Queen Elizabeth I?
+
+This is the second time Sedos has had an opportunity to tour a show to the [Minack Theatre](https://minack.com/) in Porthcurno, Cornwall. The Minack is one of the most beautiful open-air theatres in the world and we’ll looking for a big, diverse cast to share this exciting experience. Auditions will be held in February and the full audition notice will be released in due course. 
 
 Director Katie Porter said: "It’s always exciting to see shows where women are in positions of power and have struggled to overcome the limitations placed on them by society. As an Irish woman, it is doubly exciting to have a show steeped in Irish history and culture. 
 
