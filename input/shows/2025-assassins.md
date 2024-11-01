@@ -27,6 +27,7 @@ sections:
       **MUSICAL DIRECTOR** |  Matt Gould (he/him)\
       **PRODUCTION DESIGNER** | Adrian Jeakins (he/him)\
       **PRODUCER** | Pippa Kyle (she/her)\
+      **COSTUMES** | Annie Houseago\
       **COMMITTEE LIAISON** | Emma Miller (she/her)
 metaTitle: Assassins, by Stephen Sondheim and John Weidman, plays at the
   Bridewell Theatre from 23-27 September 2025
