@@ -11,7 +11,7 @@ metaDescription: Sedos will take The Pirate Queen to the Minack Theatre in
 
 **We're delighted to announce that we will be touring *[The Pirate Queen](https://www.sedos.co.uk/shows/2025-the-pirate-queen?mc_cid=bb0685c724&mc_eid=UNIQID)* to the [Minack Theatre](https://minack.com/) in Cornwall next summer.**\
 \
-From Claude-Michel Schonberg and Alain Boublil – the writers of *Les Misérables* and *Miss Saigon* – *The Pirate Queen* is an epic musical adventure which celebrates legendary Irish chieftain Grace O’Malley and asks how far you’d go to protect what you love.\
+From Claude-Michel Schönberg and Alain Boublil – the writers of *Les Misérables* and *Miss Saigon* – *The Pirate Queen* is an epic musical adventure which celebrates legendary Irish chieftain Grace O’Malley and asks how far you’d go to protect what you love.\
 \
 Director Katie Porter said: "It’s always exciting to see shows where women are in positions of power and have struggled to overcome the limitations placed on them by society. As an Irish woman, it is doubly exciting to have a show steeped in Irish history and culture and I’m thrilled to bring that to the Cornish coast at the Minack with Sedos next summer."\
 \
@@ -22,3 +22,5 @@ Katie is joined on *The Pirate Queen* creative team by musical director Oscar De
 [Sign up for our newsletter](https://mailchi.mp/sedos.co.uk/newsletter-sign-up) to ensure you receive the audition notice once it is available. 
 
 ![A Swell Party at the Minack. Sedos will stage The Pirate Queen there in 2025](/assets/50532611177_27b8dfbf54_k.jpg "Sedos’s 2019 production of A Swell Party at the Minack. Picture by Alan Denison")
+
+Sedos’s 2019 production of *A Swell Party* at the Minack. Picture by Alan Denison
