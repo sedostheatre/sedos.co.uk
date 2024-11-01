@@ -17,7 +17,7 @@ Director Katie Porter said: "It’s always exciting to see shows where women are
 \
 This is the second time Sedos has had an opportunity to tour a show to the Minack Theatre, one of the most beautiful open-air theatres in the world, and we’re looking for a big, diverse cast to share this exciting experience (show week 28 June-4 July). Auditions will be held in February and the full audition notice will be released in due course.
 
-Katie is joined on *The Pirate Queen* creative team by musical director Oscar Denihan, also musical director of our 2023 production of *[Sunshine on Leith](https://www.sedos.co.uk/shows/2023-sunshine-on-leith)*, and experienced producers Lizzie Levett and Pippa Kyle. 
+Katie is joined on *The Pirate Queen* creative team by musical director Oscar Denihan, who was musical director for our 2023 production of *[Sunshine on Leith](https://www.sedos.co.uk/shows/2023-sunshine-on-leith)*, and experienced producers Lizzie Levett and Pippa Kyle. Visit [the show page](https://www.sedos.co.uk/shows/2025-the-pirate-queen) to find out who else is involved – more names will be added to the team over the next few weeks.
 
 [Sign up for our newsletter](https://mailchi.mp/sedos.co.uk/newsletter-sign-up) to ensure you receive the audition notice once it is available. 
 
