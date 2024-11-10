@@ -47,7 +47,7 @@ A thrilling mixture of romance, sword fighting, politics, and piracy, this show 
 
 With Irish music and dance woven throughout, *The Pirate Queen* explores what it is to be trapped by societal expectations of gender, culture and tradition. Can Grace find a way to negotiate peace with the powerful Queen Elizabeth I?
 
-This is the second time Sedos has had an opportunity to tour a show to the [Minack Theatre](https://minack.com/) in Porthcurno, Cornwall. The Minack is one of the most beautiful open-air theatres in the world and we’ll looking for a big, diverse cast to share this exciting experience. Auditions will be held in February and the full audition notice will be released in due course. 
+This is the second time Sedos has had an opportunity to tour a show to the [Minack Theatre](https://minack.com/) in Porthcurno, Cornwall. The Minack is one of the most beautiful open-air theatres in the world and we’ll be looking for a big, diverse cast to share this exciting experience. Auditions will be held in February and the full audition notice will be released in due course. Email [piratequeen@sedos.co.uk](mailto:piratequeen@sedos.co.uk) if you’d like to be sent the audition notice once it’s available. 
 
 Director Katie Porter said: "It’s always exciting to see shows where women are in positions of power and have struggled to overcome the limitations placed on them by society. As an Irish woman, it is doubly exciting to have a show steeped in Irish history and culture. 
 
