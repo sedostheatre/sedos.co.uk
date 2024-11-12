@@ -1,5 +1,5 @@
 ---
-title: Sedos Bridewell season 2025 discount
+title: Book four shows in our 2025 season for 25% off
 date: 2024-11-15
 image: /assets/websitediscountallshows.jpg
 imageAlt: Sedos Bridewell season 2025 discount
