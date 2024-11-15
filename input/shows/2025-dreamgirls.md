@@ -12,12 +12,12 @@ showtimes:
   - time: 2025-11-21 19:30
   - time: 2025-11-22 14:30
   - time: 2025-11-22 19:30
+  - time: 2025-11-24 19:30
   - time: 2025-11-25 19:30
   - time: 2025-11-26 19:30
   - time: 2025-11-27 19:30
   - time: 2025-11-28 19:30
-  - time: 2025-11-29 14:30
-  - time: 2025-11-29 19:30
+  - time: 2025-11-29 17:00
 showtime-summary: 19-29 NOVEMBER 2025
 venue: Bridewell Theatre
 primary-color: "#1f003c"
