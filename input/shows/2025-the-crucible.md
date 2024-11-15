@@ -34,7 +34,7 @@ metaDescription: The Crucible, by Arthur Miller, is an  enduring story of blame,
 ---
 **"The Devil’s loose in Salem, Mister Proctor, we must discover where he’s hiding!”**
 
-An enduring story of blame, manipulation, and paranoia — but also a tale of love and loyalty. 
+Blame and paranoia spread like wildfire. Whose reputations will survive the flames when the accusations start?
 
 Miller’s 1952 classic explores the Salem Witch Trials, in 1692 Massachusetts. Teenager Abigail Williams leads a group of girls in accusing others in their tight-knit community of witchcraft. Hysteria erupts across Salem and innocent villagers pay the price. A farmer, John Proctor, is caught in an impossible dilemma, torn between his reputation and his life. 
 
