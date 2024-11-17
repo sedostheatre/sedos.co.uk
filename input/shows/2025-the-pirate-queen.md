@@ -39,13 +39,13 @@ metaDescription: The Pirate Queen is an epic musical adventure from the writers
   of Les Misérables and Miss Saigon. It is part of Sedos’ 2025 season and plays
   at the Minack Theatre, Cornwall, from 30 June-3 July 2025
 ---
-**The Pirate Queen is an epic musical adventure from the writers of *Les Misérables* and *Miss Saigon*, celebrating the legendary Irish chieftain Grace O’Malley.**
+***The Pirate Queen* is an epic musical adventure from the writers of *Les Misérables* and *Miss Saigon*, celebrating the legendary Irish chieftain Grace O’Malley.**
 
 Disguised as a cabin boy to stow away on her father’s ship, Grace starts a lifetime of fighting traditional expectations of women and standing up for what she believes in. Ultimately, she must seek to make peace between the Irish clans and another powerful female ruler in Queen Elizabeth I of England – while deciding what personal sacrifices she will make for her country. 
 
-The Pirate Queen is based on the real life of Gráinne Ní Mháille, anglicised as Grace O’Malley, and mixes romance, sword fighting, politics and piracy in a thrilling story packed with stirring songs from renowned musical theatre writers Claude-Michel Schonberg and Alain Boublil.
+*The Pirate Queen* is based on the real life of Gráinne Ní Mháille, anglicised as Grace O’Malley, and mixes romance, sword fighting, politics and piracy in a thrilling story packed with stirring songs from renowned musical theatre writers Claude-Michel Schonberg and Alain Boublil.
 
-With Irish music and dance woven throughout, The Pirate Queen asks how far you would go to protect what you love and explores what it is to be trapped by society’s beliefs about gender, culture and tradition.
+With Irish music and dance woven throughout, *The Pirate Queen* asks how far you would go to protect what you love and explores what it is to be trapped by society’s beliefs about gender, culture and tradition.
 
 This is the second time Sedos has had an opportunity to tour a show to the [Minack Theatre](https://minack.com/) in Porthcurno, Cornwall. The Minack is one of the most beautiful open-air theatres in the world and we’ll be looking for a big, diverse cast to share this exciting experience. Auditions will be held in February and the full audition notice will be released in due course. Email [piratequeen@sedos.co.uk](mailto:piratequeen@sedos.co.uk) if you’d like to be sent the audition notice once it’s available. 
 
