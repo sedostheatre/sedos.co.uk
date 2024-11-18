@@ -12,11 +12,13 @@ showtimes:
   - time: 2025-09-20 17:00
 showtime-summary: 16-20 SEPTEMBER 2025
 venue: Bridewell Theatre
+ticket-prices: Tickets from £12.50 (no booking fee)
 primary-color: "#770e0a"
 header-image: /assets/the-crucible-holder-v2.jpg
 header-image-contain: false
 flyer: /assets/crucible-poster-2025.jpg
-box-office-open: false
+box-office-open: true
+box-office-link: https://sedos.ticketsolve.com/ticketbooth/shows/1173660210
 sections:
   - order: 1
     title: CREATIVE TEAM
@@ -41,6 +43,8 @@ Miller’s 1952 classic explores the Salem Witch Trials, in 1692 Massachusetts. 
 This production of *The Crucible* will invite you into Salem and show you things the villagers don’t want you to see.
 
 Director Jonah McLeod commented: "*The Crucible* is one of the greatest works of modern drama — we want to do it justice. Our vision is of a Salem that is so close up to the audience that horror is hidden in plain sight. We can’t wait to enter the unsettling world of 1692, and to be swept up in all the truth, lies, and everything in between."
+
+**SPECIAL OFFER:** book any four (or more) shows in Sedos’ 2025 Bridewell season in one transaction and receive 25% off. The discount will be applied automatically at the [online box office](https://sedos.ticketsolve.com/ticketbooth/shows). Please note we still have another play to announce, so you may wish to wait and book when that final show is on sale.
 
 *The Crucible* plays at the *[Bridewell Theatre](https://www.sedos.co.uk/venues/bridewell)* from 16-20 September 2025.
 
