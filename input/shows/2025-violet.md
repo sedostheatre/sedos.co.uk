@@ -13,11 +13,13 @@ showtimes:
   - time: 2025-03-29 17:00
 showtime-summary: 25-29 MARCH 2025
 venue: Bridewell Theatre
+ticket-prices: "Tickets from £14 (no booking fee) "
 primary-color: "#b21e8c"
 header-image: /assets/bus2.jpg
 header-image-contain: false
 flyer: /assets/violet-dates-poster-2025.jpg
-box-office-open: false
+box-office-open: true
+box-office-link: https://sedos.ticketsolve.com/ticketbooth/shows/1173660209
 sections:
   - order: 1
     title: CREATIVE TEAM
