@@ -13,11 +13,13 @@ showtimes:
   - time: 2025-03-29 17:00
 showtime-summary: 25-29 MARCH 2025
 venue: Bridewell Theatre
+ticket-prices: "Tickets from £14 (no booking fee) "
 primary-color: "#b21e8c"
 header-image: /assets/bus2.jpg
 header-image-contain: false
 flyer: /assets/violet-dates-poster-2025.jpg
-box-office-open: false
+box-office-open: true
+box-office-link: https://sedos.ticketsolve.com/ticketbooth/shows/1173660209
 sections:
   - order: 1
     title: CREATIVE TEAM
@@ -42,6 +44,8 @@ metaDescription: Violet, by Jeanine Tesori, Brian Crawley and Brian Crawley, is
 Director Dan Saunders said: "*Violet* is a show with great uplifting music, a diverse cast and lots of scope for play and discovery whilst rehearsing. We hope to create an environment such that the preparation for the run is equally as rewarding and exciting as the run itself. 
 
 “Our ethos is that theatre is a team sport and that when everyone works together, a show can be greater than the sum of its parts, and we can create an experience that is unique and special for cast, crew and audience alike.”
+
+**SPECIAL OFFER:** book any four (or more) shows in Sedos’ 2025 Bridewell season in one transaction and receive 25% off. The discount will be applied automatically at the [online box office](https://sedos.ticketsolve.com/ticketbooth/shows). Please note we still have another play to announce, so you may wish to wait and book when that final show is on sale.
 
 **Information about [*Violet* auditions](https://www.sedos.co.uk/events/violet-auditions)**
 
