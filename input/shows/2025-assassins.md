@@ -14,11 +14,13 @@ showtimes:
   - time: 2025-09-27 19:30
 showtime-summary: 23-27 SEPTEMBER 2025
 venue: Bridewell Theatre
+ticket-prices: Tickets from £14 (no booking fee)
 primary-color: "#211e6d"
 header-image: /assets/assasins-holder.jpg
 header-image-contain: false
 flyer: /assets/assassins-poster-2025.jpg
-box-office-open: false
+box-office-open: true
+box-office-link: https://sedos.ticketsolve.com/ticketbooth/shows/1173660211
 sections:
   - order: 1
     title: CREATIVE TEAM
@@ -45,6 +47,8 @@ Our production will reimagine *Assassins* in a modern setting and show that, des
 Director Dan Edge said: "I am thrilled to be given the opportunity to present a new take on *Assassins*. The show is incredibly relevant to our current political and social situation, and I hope that the new setting and style will resonate with audiences and show what happens to those that are left behind by the American Dream."
 
 **Content warnings:** The show includes scenes of and references to violence, including guns and gunshots, death, suicide and strong language. Recommended for ages 15+.
+
+**SPECIAL OFFER:** book any four (or more) shows in Sedos’ 2025 Bridewell season in one transaction and receive 25% off. The discount will be applied automatically at the [online box office](https://sedos.ticketsolve.com/ticketbooth/shows). Please note we still have another play to announce, so you may wish to wait and book when that final show is on sale.
 
 *Assassins* plays at the [Bridewell Theatre](https://www.sedos.co.uk/venues/bridewell) from 17-21 September 2024.
 
