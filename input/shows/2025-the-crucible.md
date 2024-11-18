@@ -9,7 +9,8 @@ showtimes:
   - time: 2025-09-17 19:30
   - time: 2025-09-18 19:30
   - time: 2025-09-19 19:30
-  - time: 2025-09-20 17:00
+  - time: 2025-09-20 14:30
+  - time: 2025-09-20 19:30
 showtime-summary: 16-20 SEPTEMBER 2025
 venue: Bridewell Theatre
 ticket-prices: Tickets from £12.50 (no booking fee)
