@@ -1,13 +1,13 @@
 ---
 title: Book four shows in our 2025 season for 25% off
-date: 2024-11-15
+date: 2024-11-18
 image: /assets/websitediscountfiveshows.jpg
 imageAlt: Sedos Bridewell season 2025 discount
 metaTitle: Sedos Bridewell season 2025 discount
 metaDescription: Book four or more shows in Sedos’ 2025 Bridewell season and
   receive a 25% discount
 ---
-*15 November 2024*
+*18 November 2024*
 
 **Plan your theatre trips for 2025 – and receive a special discount.**
 
@@ -17,7 +17,7 @@ If you book any four (or more) shows in our 2025 Bridewell season in one transac
 
 Please note we still have another play to announce, so you may wish to wait and book when that final show is on sale. 
 
-The discount allows you to indulge your musical desires by booking all four of Sedos’ 2025 London musicals – or perhaps you like to mix plays and musicals? Perhaps you’d even like to see all six shows! Of course, by booking early you not only receive 25% off, you also get the best choice of seats so you can be sure of securing your favourite spot. 
+The discount allows you to indulge your musical desires by booking all four of Sedos’ 2025 London musicals – or perhaps you like to mix plays and musicals? Perhaps you’d even like to see all six shows! Of course, by booking early you not only receive 25% off, you also have the best choice of seats so you can be sure of securing your favourite spot. 
 
 **[Visit the box office](https://sedos.ticketsolve.com/ticketbooth/shows)**
 
