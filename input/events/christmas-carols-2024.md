@@ -5,7 +5,7 @@ times:
 image: /assets/carol-singing-website-_20241120_092900_0000.png
 imageAlt: Christmas carols 2024
 metaTitle: Christmas carols 2024 – London am dram societies team up to raise
-  money for Glassdoor
+  money for Glass Door
 metaDescription: Join Sedos, Centre Stage and Geoids for Christmas carols 2024,
   under the Christmas tree in Trafalgar Square
 ---
