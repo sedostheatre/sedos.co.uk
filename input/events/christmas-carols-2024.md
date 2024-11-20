@@ -26,3 +26,7 @@ All of the sheet music for carols (mostly traditional ones!) will be e-mailed to
 We’ll sojourn to a pub afterwards for a festive tipple too! 
 
 [Please sign up here.](https://docs.google.com/forms/d/1cfQY_puwIT8FTo3UHDS_MFNrLnO9Ogi-D5VfKb5cgi4/viewform?edit_requested=true&pli=1)
+
+^^^
+![Christmas carols 2024](/assets/carol-singing-website-_20241120_092900_0000.png)
+^^^
