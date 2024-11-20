@@ -29,6 +29,7 @@ sections:
       **MUSICAL DIRECTOR** |  Matt Gould (he/him)\
       **PRODUCTION DESIGNER** | Adrian Jeakins (he/him)\
       **PRODUCER** | Pippa Kyle (she/her)\
+      **LIGHTING DESIGNER** | Martin Walton (he/him)\
       **COSTUMES** | Annie Houseago\
       **COMMITTEE LIAISON** | Emma Miller (she/her)
 metaTitle: Assassins, by Stephen Sondheim and John Weidman, plays at the
