@@ -14,14 +14,14 @@ metaTitle: ""
 
 The improv team have a number of gigs coming up across London which are sure to get you laughing in the aisles. Click on the link for more information.
 
-**Sunday 19 January** | 5-6 pm 
-[Bread & Roses Theatre](https://www.breadandrosestheatre.co.uk/)
-68 Clapham Manor St, London SW4 6DZ
+**Sunday 19 January** | 5-6 pm \
+[Bread & Roses Theatre](https://www.breadandrosestheatre.co.uk/)\
+68 Clapham Manor St, London SW4 6DZ\
 [https://app.lineupnow.com/event/simprov-1 ](https://app.lineupnow.com/event/simprov-1)
 
-**Tuesday 4 February** | 7:30 
-Stage Time at Shoreditch Balls
-333 Old St, London EC1V 9LE
+**Tuesday 4 February** | 7.30pm\
+Stage Time at Shoreditch Balls\
+333 Old St, London EC1V 9LE\
 [www.shoreditchballs.com](https://www.shoreditchballs.com)
 
 Come on down to one of the events and get a whiff of all the incredible talent that's been hiding right under your nose. 
