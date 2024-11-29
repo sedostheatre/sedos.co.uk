@@ -57,10 +57,10 @@ Director Katie Porter said: "It’s always exciting to see shows where women are
 
 "While Gráinne’s skill with a sword is highly praised, *The Pirate Queen* also highlights her political savvy – she will do whatever she can to protect her clan and preserve Irish traditions. I’m hoping to pick up that torch in bringing Irish culture and tradition to the Cornwall coast as we remember Grace O’Malley’s story."\
 \
-**SAVE THE DATE FOR AUDITIONS**
+**SAVE THE DATES FOR AUDITIONS**
 
-* **Pre-audition workshop:** Wednesday 12 Feb at [Wheatsheaf Hall](https://www.sedos.co.uk/venues/wheatsheaf-hall)
-* ⁠**Video deadline for first-round video auditions:** midnight on Friday 21 Feb 
+* **Pre-audition workshop:** Wednesday 12 February at [Wheatsheaf Hall](https://www.sedos.co.uk/venues/wheatsheaf-hall)
+* ⁠**Video deadline for first-round video auditions:** midnight on Friday 21 February
 * ⁠**Recalls (by invitation only):** Saturday 1 March at the Men’s Club at St Gabriel’s Halls, Pimlico
 
 **Content warnings:** The show includes themes of death, violence and misogyny. 
