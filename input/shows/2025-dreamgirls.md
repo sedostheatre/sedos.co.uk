@@ -12,19 +12,21 @@ showtimes:
   - time: 2025-11-21 19:30
   - time: 2025-11-22 14:30
   - time: 2025-11-22 19:30
+  - time: 2025-11-24 19:30
   - time: 2025-11-25 19:30
   - time: 2025-11-26 19:30
   - time: 2025-11-27 19:30
   - time: 2025-11-28 19:30
-  - time: 2025-11-29 14:30
-  - time: 2025-11-29 19:30
+  - time: 2025-11-29 17:00
 showtime-summary: 19-29 NOVEMBER 2025
 venue: Bridewell Theatre
+ticket-prices: Tickets from £14 (no booking fee)
 primary-color: "#1f003c"
 header-image: /assets/dreamgitls-holder.jpg
 header-image-contain: false
 flyer: /assets/dreamgirls-dates-poster-2025.jpg
-box-office-open: false
+box-office-open: true
+box-office-link: https://sedos.ticketsolve.com/ticketbooth/shows/1173660213/events/428695958
 sections:
   - order: 1
     body: |-
@@ -54,6 +56,8 @@ The trio, ‘The Dreams’, must learn the tough lesson that show business and s
 Director David Gregory commented: “*Dreamgirls i*s everything you want from a musical: memorable music, unparalleled vocals, emotional storytelling, dazzling costumes, spectacular dance. It has earned its iconic status in musical theatre for good reason. I’m thrilled to be able to help bring that to the Sedos stage. It’ll be one of the most intimate and up close productions of *Dreamgirls* you’ll see! Just dream… and we’ll be there!”
 
 **Content warnings:** Mild adult themes.
+
+**SPECIAL OFFER:** book any four (or more) shows in Sedos’ 2025 Bridewell season in one transaction and receive 25% off. The discount will be applied automatically at the [online box office](https://sedos.ticketsolve.com/ticketbooth/shows). Please note we still have another play to announce, so you may wish to wait and book when that final show is on sale.
 
 *Dreamgirls* plays at the [Bridewell Theatre](https://www.sedos.co.uk/venues/bridewell) from 19-29 November 2025.
 

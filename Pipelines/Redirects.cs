@@ -46,6 +46,7 @@ namespace Sedos.Pipelines
                 { "september-2024-pitch-guidance", "https://docs.google.com/document/d/1Iz6vsEuz4-Y1mClXD2l4PLRce4g761cn0Z6JfyK1Y5A/edit" },
                 { "charliebrown", "https://www.sedos.co.uk/shows/2024-you-re-a-good-man-charlie-brown" },
                 { "hairspray-auditions", "https://drive.google.com/drive/folders/1aHu2QhRjtSrqWYDMnF0F7l_35PmIk6Z-" },
+                { "expenses", "https://docs.google.com/spreadsheets/d/1sSCNGxWBmmZN78Sh4UrgERRBsdDkDDe9/edit?usp=sharing&ouid=106113350928212210090&rtpof=true&sd=true" },
             };
 
             ProcessModules = new ModuleList

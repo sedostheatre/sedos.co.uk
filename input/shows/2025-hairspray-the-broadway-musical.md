@@ -11,19 +11,21 @@ showtimes:
   - time: 2025-05-09 19:30
   - time: 2025-05-10 14:30
   - time: 2025-05-10 19:30
+  - time: 2025-05-12 19:30
   - time: 2025-05-13 19:30
   - time: 2025-05-14 19:30
   - time: 2025-05-15 19:30
   - time: 2025-05-16 19:30
-  - time: 2025-05-17 14:30
-  - time: 2025-05-17 19:30
+  - time: 2025-05-17 17:00
 showtime-summary: 7-17 MAY 2025
 venue: Bridewell Theatre
+ticket-prices: Tickets from £14 (no booking fee)
 primary-color: "#c91c6c"
 header-image: /assets/hairspray-holding-image.jpg
 header-image-contain: false
 flyer: /assets/hairspray-dates-poster-2025.jpg
-box-office-open: false
+box-office-open: true
+box-office-link: https://sedos.ticketsolve.com/ticketbooth/shows/1173660212/events/428695941
 sections:
   - order: 1
     body: |-
@@ -48,6 +50,8 @@ Set in 1960s Baltimore, with a bumping rhythm and blues score by Marc Whitman, t
 Tracey Turnblad is ready to dance her way to success and change the world along the way. When she’s cast on local TV’s Corny Collins Show, Tracey calls for integration and equality and won’t stop until everyone can dance together, no matter what they look like or where they come from.
 
 Director Taylor Davidson said: “I’ve loved this show since the 2007 movie came out. The music makes you want to dance immediately and I can’t wait to get started building this big, loud, energetic world! *Hairspray* is so much fun and reminds us that we’re all equal."
+
+**SPECIAL OFFER:** book any four (or more) shows in Sedos’ 2025 Bridewell season in one transaction and receive 25% off. The discount will be applied automatically at the [online box office](https://sedos.ticketsolve.com/ticketbooth/shows). Please note we still have another play to announce, so you may wish to wait and book when that final show is on sale.
 
 *Hairspray* plays at the [Bridewell Theatre](https://www.sedos.co.uk/venues/bridewell) from 7-17 May 2025.
 
