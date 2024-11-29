@@ -51,13 +51,13 @@ You can read Sedos’s [Equality, Diversity and Inclusion policy in full here](
 
 **When:** Tuesday 14 January, 7pm\
 **Where:** Theatre Deli, 107 Leadenhall St, London EC3A 4AF \
-**Sign up:** [here]([https://membership.​sedos.co.uk/signup/134](https://membership.sedos.co.uk/signup/134))
+**Sign up:** [here](https://membership.sedos.co.uk/signup/134)
 
 Still not sure about auditioning? Do you want to find out more about our vision for the show or do you want to find out more about Sedos?
 
 We’ll be running a workshop where we’ll sing through a musical number from the show together, and leave plenty of time for you to ask questions about the auditions. Workshops are a really good way to find out about Sedos and meet others who have done shows before, people who are new to the scene and to speak to the team on a very informal basis. Attending the workshop isn’t mandatory for auditions and won't have any effect on the casting process.
 
-[Sign up for the workshop](https://membership.​sedos.co.uk/signup/134)
+[Sign up for the workshop](https://membership.sedos.co.uk/signup/134)
 
 **WHAT DO TO NOW**
 
