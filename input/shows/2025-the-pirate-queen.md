@@ -55,7 +55,13 @@ Director Katie Porter said: "It’s always exciting to see shows where women are
 
 "Set in the reign of Elizabeth I, the show explicitly explores the impacts of colonial rule in Ireland, offering audiences a different perspective to the British Imperialism that is generally taught within the UK. As the western world begins to unpick their own history of colonisation, I feel it’s an important time to hear the stories of resistance and perseverance.
 
-"While Gráinne’s skill with a sword is highly praised, *The Pirate Queen* also highlights her political savvy – she will do whatever she can to protect her clan and preserve Irish traditions. I’m hoping to pick up that torch in bringing Irish culture and tradition to the Cornwall coast as we remember Grace O’Malley’s story."
+"While Gráinne’s skill with a sword is highly praised, *The Pirate Queen* also highlights her political savvy – she will do whatever she can to protect her clan and preserve Irish traditions. I’m hoping to pick up that torch in bringing Irish culture and tradition to the Cornwall coast as we remember Grace O’Malley’s story."\
+\
+**SAVE THE DATE FOR AUDITIONS**
+
+* **Pre-audition workshop:** Wednesday 12 Feb at [Wheatsheaf Hall](https://www.sedos.co.uk/venues/wheatsheaf-hall)
+* ⁠**Video deadline for first-round video auditions:** midnight on Friday 21 Feb 
+* ⁠**Recalls (by invitation only):** Saturday 1 March at the Men’s Club at St Gabriel’s Halls, Pimlico
 
 **Content warnings:** The show includes themes of death, violence and misogyny. 
 
