@@ -13,7 +13,7 @@ country: GB
 ---
 ## The Bridewell Theatre
 
-Most of our [London musicals](https://sedos.co.uk/whats-on) and [London plays](https://sedos.co.uk/whats-on) take place at the Bridewell Theatre, where we are the resident theatre company. Our next shows at the Bridewell are *[The Color Purple](https://www.sedos.co.uk/shows/2024-the-color-purple)* (20-30 November 2024) and *[Violet](https://www.sedos.co.uk/shows/2025-violet)* (25-29 March 2025). 
+Most of our [London musicals](https://sedos.co.uk/whats-on) and [London plays](https://sedos.co.uk/whats-on) take place at the Bridewell Theatre, where we are the resident theatre company. Our next shows at the Bridewell are *[Violet](https://www.sedos.co.uk/shows/2025-violet)* (25-29 March 2025) and *[Hairspray](https://www.sedos.co.uk/shows/2025-hairspray-the-broadway-musical)* (7-17 May 2025). 
 
 * #### [Sedos shows: what’s on at the Bridewell Theatre?](https://sedos.co.uk/whats-on)
 * #### [Buy tickets to our shows at the Bridewell Theatre](https://sedos.ticketsolve.com/shows)
