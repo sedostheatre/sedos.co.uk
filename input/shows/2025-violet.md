@@ -10,7 +10,8 @@ showtimes:
   - time: 2025-03-26 19:30
   - time: 2025-03-27 19:30
   - time: 2025-03-28 19:30
-  - time: 2025-03-29 17:00
+  - time: 2025-03-29 14:30
+  - time: 2025-03-29 19:30
 showtime-summary: 25-29 MARCH 2025
 venue: Bridewell Theatre
 ticket-prices: "Tickets from £14 (no booking fee) "
