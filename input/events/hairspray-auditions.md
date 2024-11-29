@@ -19,7 +19,7 @@ Registration is now open for *[Hairspray](https://www.sedos.co.uk/shows/2025-hai
 **Mandatory dates:** sitzprobe 3 May, tech run 5 May, and dress run 6 May 2025, at the [Bridewell Theatre,](https://www.sedos.co.uk/venues/bridewell) Bride Lane, London, EC4Y 8EQ\
 **Performance dates:** 7-17 May 2025, Bridewell Theatre, Bride Lane, London, EC4Y 8EQ
 
-### **[FULL AUDITION NOTICE]([https://sedos.co.uk/​hairspray-auditions](https://sedos.co.uk/hairspray-auditions))**
+### **[FULL AUDITION NOTICE](https://drive.google.com/drive/folders/1aHu2QhRjtSrqWYDMnF0F7l_35PmIk6Z-)**
 
 **INTRODUCTION TO THE SHOW**
 
@@ -35,7 +35,7 @@ Tracey Turnblad is ready to dance her way to success and change the world along 
 
 We’ll be casting 25-30 performers to bring *Hairspray* to life. With a mix of principal roles, featured roles, and ensemble roles, with varying levels of singing and dancing required, there’s something for everyone!
 
-See the [audition notice](https://sedos.co.uk/​hairspray-auditions) for the full casting breakdown.
+See the [audition notice](https://drive.google.com/drive/folders/1aHu2QhRjtSrqWYDMnF0F7l_35PmIk6Z-) for the full casting breakdown.
 
 **DIVERSITY AND INCLUSION IN CASTING**
 
@@ -63,7 +63,7 @@ We’ll be running a workshop where we’ll sing through a musical number from t
 
 Read the full audition notice for details of how to submit your self-tape.
 
-### **[FULL AUDITION NOTICE]([https://sedos.co.uk/​hairspray-auditions](https://sedos.co.uk/hairspray-auditions))**
+### **[FULL AUDITION NOTICE](https://drive.google.com/drive/folders/1aHu2QhRjtSrqWYDMnF0F7l_35PmIk6Z-)**
 
 **MORE AUDITIONS**
 
