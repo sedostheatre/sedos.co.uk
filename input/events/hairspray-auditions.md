@@ -12,7 +12,7 @@ Registration is now open for *[Hairspray](https://www.sedos.co.uk/shows/2025-hai
 
 **KEY INFO**
 
-**Workshop:** Tuesday 14 January 2025, 7pm at Theatre Deli, 107 Leadenhall St, London EC3A 4AF\
+**Workshop:** Tuesday 14 January 2025, 7pm at Vibast Community Centre, 167 Old Street, London EC1V 9NH\
 **First round auditions:** by self-tape only. Submission deadline: 11pm on 17 January 2025\
 **Recalls (by invite only):** Saturday 25 January and Saturday 1 February at Theatre Deli, 107 Leadenhall St, London EC3A 4AF\
 **Rehearsals:** Mondays, Wednesdays and Saturdays from 10 February 2025\
@@ -50,7 +50,7 @@ You can read Sedos’s [Equality, Diversity and Inclusion policy in full here](
 **WORKSHOP** 
 
 **When:** Tuesday 14 January, 7pm\
-**Where:** Theatre Deli, 107 Leadenhall St, London EC3A 4AF \
+**Where:** Vibast Community Centre, 167 Old Street, EC1V 9NH\
 **Sign up:** [here](https://membership.sedos.co.uk/signup/134)
 
 Still not sure about auditioning? Do you want to find out more about our vision for the show or do you want to find out more about Sedos?
