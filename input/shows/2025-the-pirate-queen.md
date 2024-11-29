@@ -47,7 +47,7 @@ Disguised as a cabin boy to stow away on her father’s ship, Grace starts a lif
 
 With Irish music and dance woven throughout, *The Pirate Queen* asks how far you would go to protect what you love and explores what it is to be trapped by society’s beliefs about gender, culture and tradition.
 
-This is the second time Sedos has had an opportunity to tour a show to the [Minack Theatre](https://minack.com/) in Porthcurno, Cornwall. The Minack is one of the most beautiful open-air theatres in the world and we’ll be looking for a big, diverse cast to share this exciting experience. Auditions will be held in February and the full audition notice will be released in due course. Email [piratequeen@sedos.co.uk](mailto:piratequeen@sedos.co.uk) if you’d like to be sent the audition notice once it’s available. 
+This is the second time Sedos has had an opportunity to tour a show to the [Minack Theatre](https://minack.com/) in Porthcurno, Cornwall. The Minack is one of the most beautiful open-air theatres in the world and we’ll be looking for a big, diverse cast to share this exciting experience. Audition dates are below.
 
 Director Katie Porter said: "It’s always exciting to see shows where women are in positions of power and have struggled to overcome the limitations placed on them by society. As an Irish woman, it is doubly exciting to have a show steeped in Irish history and culture. 
 
@@ -62,6 +62,8 @@ Director Katie Porter said: "It’s always exciting to see shows where women are
 * **Pre-audition workshop:** Wednesday 12 February at [Wheatsheaf Hall](https://www.sedos.co.uk/venues/wheatsheaf-hall)
 * ⁠**Video deadline for first-round video auditions:** midnight on Friday 21 February
 * ⁠**Recalls (by invitation only):** Saturday 1 March at the Men’s Club at St Gabriel’s Halls, Pimlico
+
+Email [piratequeen@sedos.co.uk](mailto:piratequeen@sedos.co.uk) if you’d like to be sent the audition notice once it’s available. 
 
 **Content warnings:** The show includes themes of death, violence and misogyny. 
 
