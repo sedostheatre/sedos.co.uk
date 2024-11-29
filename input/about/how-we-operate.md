@@ -64,8 +64,7 @@ Ruth Granton (she/her)\
 George Langdown (he/him)\
 Olly Levett (he/him)\
 Emma Miller (she/her)\
-Thomas Riggs (he/him)\
-Tess Robinson  (she/her)
+Thomas Riggs (he/him)
 
 ## Groups
 
