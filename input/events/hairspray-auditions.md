@@ -53,6 +53,8 @@ You can read Sedos’s [Equality, Diversity and Inclusion policy in full here](
 **Where:** Vibast Community Centre, 167 Old Street, EC1V 9NH\
 **Sign up:** [here](https://membership.sedos.co.uk/signup/134)
 
+Update on 1 December: We are aware all places at the workshop are full. We should be able to make more places available during the next week. Keep an eye out on the Sedos socialm media channels for more information.
+
 Still not sure about auditioning? Do you want to find out more about our vision for the show or do you want to find out more about Sedos?
 
 We’ll be running a workshop where we’ll sing through a musical number from the show together, and leave plenty of time for you to ask questions about the auditions. Workshops are a really good way to find out about Sedos and meet others who have done shows before, people who are new to the scene and to speak to the team on a very informal basis. Attending the workshop isn’t mandatory for auditions and won't have any effect on the casting process.
