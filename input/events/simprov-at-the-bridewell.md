@@ -5,6 +5,7 @@ times:
   - time: 2025-01-19 17:00
   - time: 2025-02-04 19:30
   - time: 2025-02-25 19:30
+  - time: 2025-03-03 20:00
 image: /assets/simprov-july-24-5.jpg
 venue: ""
 ticket-prices: ""
@@ -18,23 +19,28 @@ The improv team have a number of gigs coming up across London which are sure to 
 
 **Tuesday 14 January** | 7.30pm\
 Hoopla at The Miller\
-96 Snowsfields, London SE1 3SS\
+*96 Snowsfields, London SE1 3SS*\
 [www.hooplaimpro.com](https://www.hooplaimpro.com)
 
 **Sunday 19 January** | 5-6 pm \
 [Bread & Roses Theatre](https://www.breadandrosestheatre.co.uk/)\
-68 Clapham Manor St, London SW4 6DZ\
+*68 Clapham Manor St, London SW4 6DZ*\
 [https://app.lineupnow.com/event/simprov-1 ](https://app.lineupnow.com/event/simprov-1)
 
 **Tuesday 4 February** | 7.30pm\
 Stage Time at Shoreditch Balls\
-333 Old St, London EC1V 9LE\
+*333 Old St, London EC1V 9LE*\
 [www.shoreditchballs.com](https://www.shoreditchballs.com)
 
 **Tuesday 25 February** | 7.30pm\
 Hoopla at The Miller\
-96 Snowsfields, London SE1 3SS\
+*96 Snowsfields, London SE1 3SS*\
 [www.hooplaimpro.com](https://www.hooplaimpro.com)
+
+**Monday 3 March** | 8pm\
+DDG Improv at the [Hope & Anchor](https://www.hopeandanchorbrixton.co.uk/)\
+*123 Acre Lane London SW2 5UA*\
+[www.ddgimprov.com](https://www.ddgimprov.com)
 
 Come on down to one of the events and get a whiff of all the incredible talent that's been hiding right under your nose. 
 
