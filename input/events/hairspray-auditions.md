@@ -53,7 +53,7 @@ You can read Sedos’s [Equality, Diversity and Inclusion policy in full here](
 **Where:** Vibast Community Centre, 167 Old Street, EC1V 9NH\
 **Sign up:** [here](https://membership.sedos.co.uk/signup/134)
 
-Update on 1 December: We are aware all places at the workshop are full. We should be able to make more places available during the next week. Keep an eye out on the Sedos socialm media channels for more information.
+Update on 5 December: The workshop filled up less than two hours after we announced it last week! We want as many people to be able to take part as possible, so we’re more than doubling the number of spaces available. The additional spaces will be released at 6pm tomorrow (Friday 6 December) so check the link at that time to sign up. 
 
 Still not sure about auditioning? Do you want to find out more about our vision for the show or do you want to find out more about Sedos?
 
