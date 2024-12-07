@@ -53,7 +53,7 @@ You can read Sedos’s [Equality, Diversity and Inclusion policy in full here](
 **Where:** Vibast Community Centre, 167 Old Street, EC1V 9NH\
 **Sign up:** [here](https://membership.sedos.co.uk/signup/134)
 
-Update on 7 December: both *Hairspray* workshops are now full, thanks to everyone who signed up! We’re not running a waitlist, but please [check the sign-up portal](https://membership.sedos.co.uk/signup/134) periodically to see if there have been any cancellations. Don’t worry if you can’t get in – it is not compulsor to attend the workshop to audition and you can still send in an audition self-tape without attending the workshop.
+Update on 7 December: both *Hairspray* workshops are now full, thanks to everyone who signed up! We’re not running a waitlist, but please [check the sign-up portal](https://membership.sedos.co.uk/signup/134) periodically to see if there have been any cancellations. Don’t worry if you can’t get in – it is not compulsory to attend the workshop to audition and you can still send in an audition self-tape without attending the workshop.
 
 Still not sure about auditioning? Do you want to find out more about our vision for the show or do you want to find out more about Sedos?
 
