@@ -26,6 +26,7 @@ sections:
       **DIRECTOR** | Katie Porter (she/her)\
       **MUSICAL DIRECTOR** | Oscar Denihan (he/him)\
       **PRODUCERS** | Lizzie Levett (she/her) and Pippa Kyle (she/her)\
+      **ASSISTANT MUSICAL DIRECTOR** | Ollie Jones (he/him)\
       **LIGHTING DESIGNER** | Olly Levett (he/him)\
       **SOUND DESIGNER** | Adam Coppard (he/him)\
       **COSTUMES** | Clare Harding (she/her)\
