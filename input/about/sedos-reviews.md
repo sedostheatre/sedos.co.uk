@@ -11,6 +11,18 @@ RedirectFrom:
 
 # 2024
 
+## *The Color Purple*
+
+^^^
+![Dress rehearsal image of The Color Purple](/assets/54163234062_04ac18706c_c.jpg)
+^^^ The Color Purple
+
+>Sedos and the team behind The Color Purple have a huge amount of be proud of with this show, not only for being a society to put black stories front and centre but for doing so with such success, from the tickets sales through to the talent on stage and the creative team vision. The Color Purple is a stunning production and the fact that it focuses on under represented voices in amateur theatre is the cherry on top of the cake.
+><footer><cite><a target="_blank" href="https://musicaltheatremusings.co.uk/the-color-purple">The Color Purple, 2024, Musical Theatre Musings</a></cite></footer>
+
+>Sedos has achieved something remarkable with this production of The Color Purple. With fantastic performances, thoughtful direction and an abundance of energy, this was a moving and inspiring piece of theatre that I am grateful to have watched.
+><footer><cite><a target="_blank" href="https://rachelreviewed.com/review-the-color-purple-sedos-london/">The Color Purple, 2024, Rachel Reviewed (*****)</a></cite></footer>
+
 ## *You’re A Good Man, Charlie Brown*
 
 ^^^
