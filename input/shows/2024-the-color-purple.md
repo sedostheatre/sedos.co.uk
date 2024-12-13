@@ -88,6 +88,22 @@ sections:
       src="https://live.staticflickr.com/65535/54035287921_2195af0997_z.jpg"
       width="640" height="480" alt="The Color Purple - 2024"/></a><script async
       src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+  - order: 3
+    title: REVIEWS
+    body: >-
+      >Sedos and the team behind The Color Purple have a huge amount of be proud
+      of with this show, not only for being a society to put black stories front
+      and centre but for doing so with such success, from the tickets sales
+      through to the talent on stage and the creative team vision. The Color
+      Purple is a stunning production and the fact that it focuses on under
+      represented voices in amateur theatre is the cherry on top of the cake.
+
+      ><footer><cite><a target="_blank" href="https://musicaltheatremusings.co.uk/the-color-purple">The Color Purple, 2024, Musical Theatre Musings</a></cite></footer>
+
+
+      >Sedos has achieved something remarkable with this production of The Color Purple. With fantastic performances, thoughtful direction and an abundance of energy, this was a moving and inspiring piece of theatre that I am grateful to have watched.
+
+      ><footer><cite><a target="_blank" href="https://rachelreviewed.com/review-the-color-purple-sedos-london/">The Color Purple, 2024, Rachel Reviewed (*****)</a></cite></footer>
 metaTitle: The Color Purple, part of the 2024 Sedos season, plays at the
   Bridewell Theatre from 20-30 November 2024
 metaDescription: The Color Purple, which documents the traumas and gradual
