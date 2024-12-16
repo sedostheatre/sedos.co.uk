@@ -14,8 +14,8 @@ showtimes:
   - time: 2025-07-03 19:30
 showtime-summary: 30 JUNE-3 JULY 2025
 venue: Minack Theatre
-primary-color: "#2c394a"
-header-image: /assets/pirate-queen-holder.jpg
+primary-color: "#3d4da0"
+header-image: /assets/piratequeen.png
 header-image-contain: false
 flyer: /assets/pirate-queen-poster-2025-v2.jpg
 box-office-open: false
@@ -31,6 +31,7 @@ sections:
       **SOUND DESIGNER** | Adam Coppard (he/him)\
       **COSTUMES** | Clare Harding (she/her)\
       **STAGE MANAGER** | Shiri Stern (she/her)\
+      **SHOW IMAGE** | Mayfire Design\
       **COMMITTEE LIAISONS** | Olly Levett (he/him) and Thomas Riggs (he/him)
 RedirectFrom: []
 metaTitle: The Pirate Queen, an epic musical adventure from the writers of Les
