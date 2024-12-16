@@ -31,6 +31,7 @@ sections:
       **SOUND DESIGNER** | Adam Coppard (he/him)\
       **COSTUMES** | Clare Harding (she/her)\
       **STAGE MANAGER** | Shiri Stern (she/her)\
+      **SHOW IMAGE** | Mayfire Design\
       **COMMITTEE LIAISONS** | Olly Levett (he/him) and Thomas Riggs (he/him)
 RedirectFrom: []
 metaTitle: The Pirate Queen, an epic musical adventure from the writers of Les
