@@ -14,8 +14,8 @@ showtimes:
   - time: 2025-07-03 19:30
 showtime-summary: 30 JUNE-3 JULY 2025
 venue: Minack Theatre
-primary-color: "#2c394a"
-header-image: /assets/pirate-queen-holder.jpg
+primary-color: "#3d4da0"
+header-image: /assets/piratequeen.png
 header-image-contain: false
 flyer: /assets/pirate-queen-poster-2025-v2.jpg
 box-office-open: false
