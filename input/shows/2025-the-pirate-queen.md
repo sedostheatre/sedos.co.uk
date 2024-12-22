@@ -22,16 +22,29 @@ box-office-open: false
 sections:
   - order: 1
     title: CREATIVE TEAM
-    body: |-
+    body: >-
       **DIRECTOR** | Katie Porter (she/her)\
+
       **MUSICAL DIRECTOR** | Oscar Denihan (he/him)\
+
       **PRODUCERS** | Lizzie Levett (she/her) and Pippa Kyle (she/her)\
+
       **ASSISTANT MUSICAL DIRECTOR** | Ollie Jones (he/him)\
+
       **LIGHTING DESIGNER** | Olly Levett (he/him)\
+
       **SOUND DESIGNER** | Adam Coppard (he/him)\
+
       **COSTUMES** | Clare Harding (she/her)\
+
+      **SET DESIGNER** | George Langdown (he/him)\
+
       **STAGE MANAGER** | Shiri Stern (she/her)\
+
+      **CREW** | Ben Hussey (he/him), Ruth Luckins (she/they) and Andrew Laidlaw (he/him)\
+
       **SHOW IMAGE** | Mayfire Design\
+
       **COMMITTEE LIAISONS** | Olly Levett (he/him) and Thomas Riggs (he/him)
 RedirectFrom: []
 metaTitle: The Pirate Queen, an epic musical adventure from the writers of Les
