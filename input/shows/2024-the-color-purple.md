@@ -82,12 +82,17 @@ sections:
       **COMMITTEE LIAISON** | Adrian Hau
   - order: 2
     title: GALLERY
-    body: <a data-flickr-embed="true"
-      href="https://www.flickr.com/photos/sedos/albums/72177720320760701"
-      title="The Color Purple - 2024"><img
-      src="https://live.staticflickr.com/65535/54035287921_2195af0997_z.jpg"
-      width="640" height="480" alt="The Color Purple - 2024"/></a><script async
-      src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+    body: >-
+      <a data-flickr-embed="true"
+      href="https://www.flickr.com/photos/sedos/albums/72177720322185719"
+      title="The Color Purple Production - 2024"><img
+      src="https://live.staticflickr.com/65535/54164308434_bfb0c18738_z.jpg"
+      width="640" height="480" alt="The Color Purple Production -
+      2024"/></a><script async src="//embedr.flickr.com/assets/client-code.js"
+      charset="utf-8"></script>
+
+
+      <a data-flickr-embed="true" href="https://www.flickr.com/photos/sedos/albums/72177720320760701" title="The Color Purple - 2024"><img src="https://live.staticflickr.com/65535/54035287921_2195af0997_z.jpg" width="640" height="480" alt="The Color Purple - 2024"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
   - order: 3
     title: REVIEWS
     body: >-
