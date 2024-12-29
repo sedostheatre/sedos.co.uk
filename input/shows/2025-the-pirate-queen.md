@@ -17,7 +17,7 @@ venue: Minack Theatre
 primary-color: "#3d4da0"
 header-image: /assets/piratequeen.png
 header-image-contain: false
-flyer: /assets/pirate-queen-poster-2025-v2.jpg
+flyer: /assets/thepiratequeenposter.jpg
 box-office-open: false
 sections:
   - order: 1
