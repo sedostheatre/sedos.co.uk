@@ -15,7 +15,7 @@ This is the second time Sedos has had an opportunity to tour a show to the [Mina
 
 ***THE PIRATE QUEEN* AUDITIONS: KEY DATES**
 
-* **Pre-audition workshop:** Wednesday 12 February at [Wheatsheaf Hall](https://www.sedos.co.uk/venues/wheatsheaf-hall)
+* **Pre-audition workshop:** Wednesday 12 February at [Wheatsheaf Hall](https://www.sedos.co.uk/venues/wheatsheaf-hall) – sign up [here](https://membership.sedos.co.uk/signup/135)
 * ⁠**Video deadline for first-round video auditions:** midnight on Friday 21 February
 * ⁠**Recalls (by invitation only):** Saturday 1 March at the Men’s Club at St Gabriel’s Halls, Pimlico
 
