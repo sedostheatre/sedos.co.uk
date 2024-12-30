@@ -21,7 +21,7 @@ This is the second time Sedos has had an opportunity to tour a show to the [Mina
 
 **Your audition self-tapes will only be seen by the creative team and committee liaisons and will not be shared outside this group. The self-tapes will not be held any longer than is necessary for the purpose of casting the show and will then be deleted.**
 
-# **[FULL AUDITION NOTICE](https://docs.google.com/document/d/1GhpP64QrJwp1yLcmXXqno9vCt6uMC4Gwwto9ViVQ5D4/edit?tab=t.0)**
+### **[FULL AUDITION NOTICE](https://docs.google.com/document/d/1GhpP64QrJwp1yLcmXXqno9vCt6uMC4Gwwto9ViVQ5D4/edit?tab=t.0)**
 
 ^^^
 ![The Pirate Queen auditions – perform at the Minack](/assets/minack-landscape.jpeg)
@@ -53,7 +53,7 @@ We encourage auditionees to perform with an Irish accent in your audition if you
 
 We are hoping to incorporate as much Irish culture into the show as possible – if you have experience in any traditional Irish performing arts or speak Irish please mention it on your audition form. Examples are: Irish, Céilí, or Sean Nós Dance; Sean Nós Singing, playing traditional Irish Instruments (Bodhran, fiddle, tin whistle, harp, etc.).
 
-# **[FULL AUDITION NOTICE](https://docs.google.com/document/d/1GhpP64QrJwp1yLcmXXqno9vCt6uMC4Gwwto9ViVQ5D4/edit?tab=t.0)**
+### **[FULL AUDITION NOTICE](https://docs.google.com/document/d/1GhpP64QrJwp1yLcmXXqno9vCt6uMC4Gwwto9ViVQ5D4/edit?tab=t.0)**
 
 **CASTING | DIVERSITY AND INCLUSION**
 
