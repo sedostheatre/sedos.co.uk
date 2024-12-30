@@ -3,7 +3,7 @@ title: The Pirate Queen auditions
 times:
   - time: 2025-02-12 19:15
   - time: 2025-02-21 23:59
-image: /assets/thepiratequeenauditions.jpg
+image: /assets/pq-auditions-website.jpg
 imageAlt: The Pirate Queen auditions
 metaTitle: The Pirate Queen auditions
 metaDescription: If you’d like to perform at the Minack, check out the full info
@@ -13,7 +13,7 @@ Info about *[The Pirate Queen](https://www.sedos.co.uk/shows/2025-the-pirate-que
 
 This is the second time Sedos has had an opportunity to tour a show to the [Minack Theatre](https://minack.com/) in Porthcurno, Cornwall. The Minack is one of the most beautiful open-air theatres in the world and we’ll be looking for a big, diverse cast to share this exciting experience. 
 
-**KEY DATES**
+***THE PIRATE QUEEN* AUDITIONS: KEY DATES**
 
 * **Pre-audition workshop:** Wednesday 12 February at [Wheatsheaf Hall](https://www.sedos.co.uk/venues/wheatsheaf-hall)
 * ⁠**Video deadline for first-round video auditions:** midnight on Friday 21 February
@@ -61,15 +61,9 @@ Sedos is committed to diversity and inclusion. Our commitment is to build and su
 
 All roles in *The Pirate Queen* are open to actors of all ethnicities. 
 
-Across the entire cast there are opportunities for actors of all ages and genders to be cast, with the primary consideration in casting being the performers’ ability to sing and act in their assigned role. 
+Across the entire cast there are opportunities for actors of all ages and genders to be cast, with the primary consideration in casting being the performers’ ability to sing and act in their assigned role. There are some roles with specific requirements as to playing age – this is specified in the role breakdown in the full audition notice. 
 
-There are some roles with specific requirements as to playing age – this is specified in the role breakdown below. 
-
-Please note that this show deals with gender discrimination, and is written to highlight discrimination against women. Due to the time period in which it is set, it is very binary in its views on gender. 
-
-The named roles require particular gender presentation, again specified in the role breakdown below – anyone can audition for these roles, provided they are comfortable portraying that gender. We will not be transposing any vocal lines so please bear that in mind.  
-
-With regard to the ensemble, we encourage non-binary actors to audition, and will collaborate with them in creating an ensemble track with multirole characters whose gender presentation the actor is comfortable portraying.
+Please note that this show deals with gender discrimination, and is written to highlight discrimination against women. Due to the time period in which it is set, it is very binary in its views on gender. The named roles require particular gender presentation, again specified in the role breakdown below – anyone can audition for these roles, provided they are comfortable portraying that gender. We will not be transposing any vocal lines so please bear that in mind. With regard to the ensemble, we encourage non-binary actors to audition, and will collaborate with them in creating an ensemble track with multirole characters whose gender presentation the actor is comfortable portraying.
 
 The steep, rocky geography of the Minack creates some access limitations. There are 130 steps from the entrance and just over 100 steps from the accessible areas at the top of the site to the lowest part of the theatre. Steps are the only way to access the stage and backstage areas. Please find more information [here on the Minack's website](https://www.minack.com/visit-us/accessibility). 
 
