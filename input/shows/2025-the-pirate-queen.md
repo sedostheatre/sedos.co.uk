@@ -27,6 +27,8 @@ sections:
 
       **MUSICAL DIRECTOR** | Oscar Denihan (he/him)\
 
+      **CHOREOGRAPHER** | Amber Frizzell (she/her)\
+
       **PRODUCERS** | Lizzie Levett (she/her) and Pippa Kyle (she/her)\
 
       **ASSISTANT MUSICAL DIRECTOR** | Ollie Jones (he/him)\
