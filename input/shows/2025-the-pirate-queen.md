@@ -66,6 +66,12 @@ With Irish music and dance woven throughout, *The Pirate Queen* asks how far you
 
 This is the second time Sedos has had an opportunity to tour a show to the [Minack Theatre](https://minack.com/) in Porthcurno, Cornwall. The Minack is one of the most beautiful open-air theatres in the world and we’ll be looking for a big, diverse cast to share this exciting experience. Audition dates are below.
 
+**AUDITION FOR *THE PIRATE QUEEN***
+
+Information about [*The Pirate Queen* auditions](https://www.sedos.co.uk/events/the-pirate-queen-auditions) is now live. [Click here for the full audition notice](https://docs.google.com/document/d/1GhpP64QrJwp1yLcmXXqno9vCt6uMC4Gwwto9ViVQ5D4/edit?tab=t.0). 
+
+**MORE FROM THE DIRECTOR**
+
 Director Katie Porter said: "It’s always exciting to see shows where women are in positions of power and have struggled to overcome the limitations placed on them by society. As an Irish woman, it is doubly exciting to have a show steeped in Irish history and culture. 
 
 "*The Pirate Queen* focuses on Gráinne's (Grace’s) journey against the oppression of the patriarchy and the English conquest of Ireland. Women still struggle against similar expectations today, and I find it refreshing to have a female protagonist and antagonist.
@@ -74,14 +80,6 @@ Director Katie Porter said: "It’s always exciting to see shows where women are
 
 "While Gráinne’s skill with a sword is highly praised, *The Pirate Queen* also highlights her political savvy – she will do whatever she can to protect her clan and preserve Irish traditions. I’m hoping to pick up that torch in bringing Irish culture and tradition to the Cornwall coast as we remember Grace O’Malley’s story."\
 \
-**SAVE THE DATES FOR AUDITIONS**
-
-* **Pre-audition workshop:** Wednesday 12 February at [Wheatsheaf Hall](https://www.sedos.co.uk/venues/wheatsheaf-hall)
-* ⁠**Video deadline for first-round video auditions:** midnight on Friday 21 February
-* ⁠**Recalls (by invitation only):** Saturday 1 March at the Men’s Club at St Gabriel’s Halls, Pimlico
-
-Email [piratequeen@sedos.co.uk](mailto:piratequeen@sedos.co.uk) if you’d like to be sent the audition notice once it’s available. 
-
 **Content warnings:** The show includes themes of death, violence and misogyny. 
 
 *The Pirate Queen* plays at the [Minack Theatre](https://www.minack.com/), Cornwall, from 30 June-3 July 2025. Tickets will go on sale in February.
