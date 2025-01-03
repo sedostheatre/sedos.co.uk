@@ -24,8 +24,8 @@ This is the second time Sedos has had an opportunity to tour a show to the [Mina
 ### **[FULL AUDITION NOTICE](https://docs.google.com/document/d/1GhpP64QrJwp1yLcmXXqno9vCt6uMC4Gwwto9ViVQ5D4/edit?tab=t.0)**
 
 ^^^
-![The Pirate Queen auditions – perform at the Minack](/assets/minack-landscape.jpeg)
-^^^ Sedos’ 2019 production at the Minack, A Swell Party
+![The Pirate Queen auditions – perform at the Minack](/assets/50532611177_157561d841_c.jpg)
+^^^ Sedos’s 2019 production of A Swell Party at the Minack. Picture by Alan Denison
 
 **ABOUT THE SHOW**
 
