@@ -9,9 +9,9 @@ metaTitle: The Pirate Queen auditions
 metaDescription: If you’d like to perform at the Minack, check out the full info
   about The Pirate Queen auditions
 ---
-Info about *[The Pirate Queen](https://www.sedos.co.uk/shows/2025-the-pirate-queen)* auditions has now been released.
+Information about *[The Pirate Queen](https://www.sedos.co.uk/shows/2025-the-pirate-queen)* auditions has now been released.
 
-This is the second time Sedos has had an opportunity to tour a show to the [Minack Theatre](https://minack.com/) in Porthcurno, Cornwall. The Minack is one of the most beautiful open-air theatres in the world and we’ll be looking for a big, diverse cast to share this exciting experience. 
+This is the second time Sedos has had an opportunity to tour a show to the [Minack Theatre](https://minack.com/) in Porthcurno, Cornwall. The Minack is one of the most beautiful open-air theatres in the world and we’ll be looking for a large, diverse cast to share this exciting experience. 
 
 ***THE PIRATE QUEEN* AUDITIONS: KEY DATES**
 
@@ -55,13 +55,17 @@ We are hoping to incorporate as much Irish culture into the show as possible –
 
 ### **[FULL AUDITION NOTICE](https://docs.google.com/document/d/1GhpP64QrJwp1yLcmXXqno9vCt6uMC4Gwwto9ViVQ5D4/edit?tab=t.0)**
 
+^^^
+![The Pirate Queen auditions – join a Sedos cast for 2025. Images of recent Sedos shows](/assets/pastshows.jpg)
+^^^ Production images of recent Sedos shows. Pictures by Adrian Hau, Michael Smith, David Ovenden and Benjamin Copping
+
 **CASTING | DIVERSITY AND INCLUSION**
 
 Sedos is committed to diversity and inclusion. Our commitment is to build and sustain a membership that is reflective of the diverse communities within London. We actively encourage all performers to audition for the roles which they feel best suit their skills.
 
 All roles in *The Pirate Queen* are open to actors of all ethnicities. 
 
-Across the entire cast there are opportunities for actors of all ages and genders to be cast, with the primary consideration in casting being the performers’ ability to sing and act in their assigned role. There are some roles with specific requirements as to playing age – this is specified in the role breakdown in the full audition notice. 
+Across the entire cast there are opportunities for actors of all ages and genders to be cast, with the primary consideration in casting being the performers’ ability to sing and act in their assigned role. There are some roles with specific requirements as to playing age – this is specified in the role breakdown in the [full audition notice](https://docs.google.com/document/d/1GhpP64QrJwp1yLcmXXqno9vCt6uMC4Gwwto9ViVQ5D4/edit?tab=t.0). 
 
 Please note that this show deals with gender discrimination, and is written to highlight discrimination against women. Due to the time period in which it is set, it is very binary in its views on gender. The named roles require particular gender presentation, again specified in the role breakdown below – anyone can audition for these roles, provided they are comfortable portraying that gender. We will not be transposing any vocal lines so please bear that in mind. With regard to the ensemble, we encourage non-binary actors to audition, and will collaborate with them in creating an ensemble track with multirole characters whose gender presentation the actor is comfortable portraying.
 
