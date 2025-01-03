@@ -37,6 +37,8 @@ Disguised as a cabin boy to stow away on her father’s ship, Grace starts a lif
 
 With Irish music and dance woven throughout, *The Pirate Queen* asks how far you would go to protect what you love and explores what it is to be trapped by society’s beliefs about gender, culture and tradition.
 
+### **[FULL AUDITION NOTICE](https://docs.google.com/document/d/1GhpP64QrJwp1yLcmXXqno9vCt6uMC4Gwwto9ViVQ5D4/edit?tab=t.0)**
+
 **WHAT WE’RE LOOKING FOR**
 
 We are looking for a large, diverse cast (18-25 performers) who are excited to come together to create a great show and have fun on a week’s adventure in Cornwall.
@@ -52,8 +54,6 @@ We are planning for some characters to be involved in sword fighting. Almost all
 We encourage auditionees to perform with an Irish accent in your audition if you are auditioning for a character with an Irish accent. We will work with the cast to refine accents as part of the process, but would like to see what you can do.  Almost all of the cast will be playing a variety of roles throughout the show, and as such will be performing in both Irish and English (Received Pronunciation) accents. 
 
 We are hoping to incorporate as much Irish culture into the show as possible – if you have experience in any traditional Irish performing arts or speak Irish please mention it on your audition form. Examples are: Irish, Céilí, or Sean Nós Dance; Sean Nós Singing, playing traditional Irish Instruments (Bodhran, fiddle, tin whistle, harp, etc.).
-
-### **[FULL AUDITION NOTICE](https://docs.google.com/document/d/1GhpP64QrJwp1yLcmXXqno9vCt6uMC4Gwwto9ViVQ5D4/edit?tab=t.0)**
 
 ^^^
 ![The Pirate Queen auditions – join a Sedos cast for 2025. Images of recent Sedos shows](/assets/pastshows.jpg)
