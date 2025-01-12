@@ -13,6 +13,8 @@ metaDescription: Simprov is a drop-in London improvisation group run by theatre
 
 If you want to learn improvisation skills and practise them in a fun and supportive way, then the Simprov Drop In is the place for you. We also run regular workshops and courses that lead to public performances.
 
+![London improvisation group Simprov](/assets/54255133128_f6e3177e12_c.jpg)
+
 ## **The Simprov drop-in**
 
 Our open-to-all session! Join us every Friday night (7-9.30pm) for an evening of games, learning and a whole heap of fun.
@@ -29,16 +31,8 @@ Secure your place by [booking online](https://sedos.ticketsolve.com/ticketbooth/
 
 For more info, head to the [Simprov Facebook page.](https://www.facebook.com/groups/176792046058352/)
 
+Take a look through some photos of Simprov sessions and gigs below. 
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/sedos/albums/72177720323053270" title="Simprov"><img src="https://live.staticflickr.com/65535/54255138604_969d94f269_z.jpg" width="640" height="480" alt="Simprov"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 After four years we have decided to bring our support of in-house improv group The Banana Hut Gang, which was formed from a collection of the most die-hard Simprov attendees, to an end. This will allow the group to go their own way and flourish outside of our organisation. You can still follow the group on their [Facebook page](https://www.facebook.com/bananahutgang/).
-
-![](/assets/simprov-july-24-5.jpg)
-
-![](/assets/simprov-july-24-1.jpg)
-
-![](/assets/simprov-july-24-3.jpg)
-
-![](/assets/simprov-july-24-4.jpg)
-
-![](/assets/simprov-july-24-6.jpg)
-
-![](/assets/simprov-july-24-2.jpg)
