@@ -80,7 +80,7 @@ Director Katie Porter said: "It’s always exciting to see shows where women are
 
 "While Gráinne’s skill with a sword is highly praised, *The Pirate Queen* also highlights her political savvy – she will do whatever she can to protect her clan and preserve Irish traditions. I’m hoping to pick up that torch in bringing Irish culture and tradition to the Cornwall coast as we remember Grace O’Malley’s story."\
 \
-**Content warnings:** The show includes themes of death, violence and misogyny. 
+**Content warnings:** the show includes depictions of death, violence, misogyny and childbirth, as well as mild sexual references and scenes.
 
 *The Pirate Queen* plays at the [Minack Theatre](https://www.minack.com/), Cornwall, from 30 June-3 July 2025. Tickets will go on sale in February.
 
