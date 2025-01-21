@@ -31,6 +31,7 @@ sections:
       **PRODUCER** | Pippa Kyle (she/her)\
       **LIGHTING DESIGNER** | Martin Walton (he/him)\
       **COSTUMES** | Annie Houseago\
+      **MARKETING** | Stephen Beeny\
       **COMMITTEE LIAISON** | Emma Miller (she/her)
 metaTitle: Assassins, by Stephen Sondheim and John Weidman, plays at the
   Bridewell Theatre from 23-27 September 2025
