@@ -55,6 +55,8 @@ Director Taylor Davidson said: “I’ve loved this show since the 2007 movie ca
 
 *Hairspray* plays at the [Bridewell Theatre](https://www.sedos.co.uk/venues/bridewell) from 7-17 May 2025.
 
+The *Hairspray* team are currently seeking some production team members – [find out more](https://www.sedos.co.uk/news/2025-01-23-hairspray-production-team-roles).
+
 **Hairspray**\
 The Broadway Musical 
 
