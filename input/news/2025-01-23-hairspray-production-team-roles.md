@@ -1,5 +1,5 @@
 ---
-title: hairspray production team roles
+title: Join the Hairspray production team
 date: 2025-01-23
 image: /assets/image0-6-crop.jpeg
 imageAlt: Hairspray production team roles
