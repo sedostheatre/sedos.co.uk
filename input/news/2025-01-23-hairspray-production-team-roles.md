@@ -1,6 +1,7 @@
 ---
 title: hairspray production team roles
 date: 2025-01-23
+image: /assets/image0-6-crop.jpeg
 imageAlt: Hairspray production team roles
 metaTitle: Hairspray production team roles
 metaDescription: Hairspray production team roles – get involved in our May 2025 musical
