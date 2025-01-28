@@ -91,7 +91,7 @@ metaDescription: Violet, by Jeanine Tesori, Brian Crawley and Brian Crawley, is
 ---
 **This award-winning musical follows a young, scarred** **woman who embarks on a cross-country bus journey from her farm in Spruce Pine, North Carolina, all the way to Tulsa, Oklahoma, to be healed by a minister, and discovers the true meaning of beauty along the way.**
 
-*Violet* is a moving musical featuring show-stopping anthems ranging from American-roots to folk to gospel. With a score from Tony-winning composer Jeanine Tesori (*Thoroughly Modern Millie*, *Fun Home*, *Caroline or Change*), *Violet* is inspired by the short story *The Ugliest Pilgrim* by Doris Betts, astounding critics and audiences alike in two separate decades.
+*Violet* is a moving musical featuring show-stopping anthems ranging from American-roots to folk to gospel. With a score from Tony-winning composer Jeanine Tesori (*Thoroughly Modern Millie*, *Fun Home*, *Caroline, or Change*), *Violet* is inspired by the short story *The Ugliest Pilgrim* by Doris Betts, astounding critics and audiences alike in two separate decades.
 
 Director Dan Saunders said: "*Violet* is a show with great uplifting music, a diverse cast and lots of scope for play and discovery whilst rehearsing. We hope to create an environment such that the preparation for the run is equally as rewarding and exciting as the run itself. 
 
