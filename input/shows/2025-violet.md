@@ -24,33 +24,64 @@ box-office-link: https://sedos.ticketsolve.com/ticketbooth/shows/1173660209
 sections:
   - order: 1
     title: CAST & CREATIVE TEAM
-    body: |-
+    body: >-
       **CAST**
 
+
       **VIOLET** | Sarah Hunt (She/Her)\
+
       **FLICK** | David Gregory (He/Him)\
+
       **MONTY** | George Langdown (He/Him)\
+
       **FATHER** | Ruaridh Caddell (He/Him)\
+
       **YOUNG VI** | Claire Brewin (She/Her)\
+
       **OLD LADY** | Jess Treacy (She/Her)\
+
       **PREACHER and OTHERS** | Michael Pandazis (He/Him)\
+
       **VIRGIL/BILLY DEANS/RADIO TRIO and OTHERS** | Niamh O'Connor (She/They)\
+
       **LULA BUFFINGTON and OTHERS** | Ngozi Onyenemelu (She/Her)\
+
       **MUSIC HALL SINGER and OTHERS** | Laura Martin (She/Her)\
+
       **ALMETA and OTHERS** | Yelita Ali (She/Her)\
+
       **HOTEL HOOKER and OTHERS** | Naomi Crosby (She/Her)\
+
       **LEROY EVANS/RADIO TRIO and OTHERS** | Keith Walters (He/Him)\
+
       **BUS DRIVER 1 & 4/RADIO SOLOIST and OTHRS** | Mark Siddall (He/Him)
+
 
       **CREATIVE TEAM**
 
+
       **DIRECTOR** and **CO-PRODUCER** | Dan Saunders (he/him)\
+
       **MUSICAL DIRECTOR** and **CO-PRODUCER** | Adrian Hau (he/him)\
+
       **ASSISTANT MUSICAL DIRECTOR** | Maria Hallows (she/her)\
+
       **TECHNICAL PRODUCER** and **SOUND DESIGN** | Adam Coppard (he/him)\
+
       **LIGHTING DESIGN** | Tash Boret (she/her)\
+
+      **COSTUME:** Laura Ellis (she/her)\
+
+      **SET REALISATION and DESIGN:** Andrew Laidlaw (he/him) and Dan Saunders (he/him)\
+
+      **PROPS:** Shiri Stern (she/her)\
+
+      **CHOREOGRAPHY:** Taylor Davidson (she/her)\
+
       **MARKETING and** **SOCIAL MEDIA**  | Glen Jordan (he/him)\
+
       **INTIMACY CO-ORDINATOR** | Kim Barker (she/her)\
+
       **COMMITTEE LIAISON** | Paul Caira
 metaTitle: Violet, by Jeanine Tesori, Brian Crawley and Brian Crawley, plays at
   the Bridewell Theatre from 25-29 March 2025
