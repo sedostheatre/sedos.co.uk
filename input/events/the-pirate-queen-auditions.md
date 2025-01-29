@@ -80,7 +80,7 @@ You can read Sedos’s Equality, Diversity and Inclusion policy in full [here](h
 
 **A LOOK AT THE CHARACTERS IN THE PIRATE QUEEN…**
 
-<div class="video-responsive"><?# YouTube f9-MwOXXoFA&t=2s /?></div>
+<div class="video-responsive"><?# YouTube f9-MwOXXoFA /?></div>
 
 **MORE AUDITIONS**
 
