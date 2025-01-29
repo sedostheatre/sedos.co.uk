@@ -78,6 +78,10 @@ You can read Sedos’s Equality, Diversity and Inclusion policy in full [here](h
 * [Read the full audition notice](https://docs.google.com/document/d/1GhpP64QrJwp1yLcmXXqno9vCt6uMC4Gwwto9ViVQ5D4/edit?tab=t.0)
 * [Sign up for the pre-audition workshop](https://membership.sedos.co.uk/signup/135)
 
+**A LOOK AT THE CHARACTERS IN THE PIRATE QUEEN…**
+
+<div class="video-responsive"><?# YouTube f9-MwOXXoFA&t=2s /?></div>
+
 **MORE AUDITIONS**
 
 Find out about all our [London auditions](https://www.sedos.co.uk/get-involved).
