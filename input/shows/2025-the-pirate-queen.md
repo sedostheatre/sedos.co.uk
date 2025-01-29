@@ -66,7 +66,7 @@ Disguised as a cabin boy to stow away on her father’s ship, Grace starts a lif
 
 With Irish music and dance woven throughout, *The Pirate Queen* asks how far you would go to protect what you love and explores what it is to be trapped by society’s beliefs about gender, culture and tradition.
 
-This is the second time Sedos has had an opportunity to tour a show to the [Minack Theatre](https://minack.com/) in Porthcurno, Cornwall. The Minack is one of the most beautiful open-air theatres in the world and we’ll be looking for a big, diverse cast to share this exciting experience. Audition dates are below.
+This is the second time Sedos has had an opportunity to tour a show to the beautiful, open-air [Minack Theatre](https://minack.com/) in Porthcurno, Cornwall. 
 
 **AUDITION FOR *THE PIRATE QUEEN***
 
