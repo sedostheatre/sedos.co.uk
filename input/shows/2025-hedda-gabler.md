@@ -50,3 +50,5 @@ This pressure-cooker story is about the illusion of freedom, the battle for soci
 "A version that will have a life beyond this production" –  *The Guardian*
 
 *Hedda Gabler* plays at the Bridewell Theatre from 8-12 July 2025.
+
+This amateur production of *Hedda Gabler*, in a version by Patrick Marber, is presented by arrangement with Concord Theatricals Ltd. on behalf of Samuel French Ltd. www.concordtheatricals.co.uk
