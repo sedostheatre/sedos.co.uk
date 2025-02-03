@@ -19,15 +19,17 @@ sections:
   - order: 1
     title: CREATIVE TEAM
     body: |-
-      **DIRECTOR** | Jonny Harding-Cooper\
-      **PRODUCER** | Ben Hussey\
-      **SET BUILD** | Andrew Laidlaw
-metaTitle: Hedda Gabler by Henrik Ibsen, plays at the Bridewell Theatre from
-  8-12 July 2025
-metaDescription: Hedda Gabler by Henrik Ibsen, uxxxxxxxx. It is part of Sedos’
-  2025 season and plays at the Bridewell Theatre from 8-12 July 2025
+      **DIRECTOR** | Jonny Harding-Cooper (he/him)\
+      **SET REALISATION**  | Andrew Laidlaw (he/him)\
+      Ben Hussey (he/him)\
+      Adam Coppard (he/him)
+metaTitle: Hedda Gabler by Henrik Ibsen, in a version by Patrick Marber, plays
+  at the Bridewell Theatre from 8-12 July 2025
+metaDescription: Hedda Gabler by Henrik Ibsen, in a version by Patrick Marber.
+  It is part of Sedos’ 2025 season and plays at the Bridewell Theatre from 8-12
+  July 2025
 ---
-Just married. Buried alive. Hedda longs to be free.
+#### **Just married. Buried alive. Hedda longs to be free.**
 
 Widely considered a cornerstone of modern theatre, *Hedda Gabler* is a canonised masterpiece of the 19th century, played across stages globally and storming Broadway more than 20 times. 
 
