@@ -13,6 +13,7 @@ showtimes:
 showtime-summary: 8-12 JULY 2025
 venue: Bridewell Theatre
 primary-color: "#454c3a"
+header-image: /assets/hedda-gabler-holder.jpg
 header-image-contain: false
 flyer: /assets/hedda-gabler-poster-2025.jpg
 box-office-open: false
