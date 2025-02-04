@@ -22,9 +22,9 @@ sections:
     title: CREATIVE TEAM
     body: |-
       **DIRECTOR** | Jonny Harding-Cooper (he/him)\
-      **SET REALISATION**  | Andrew Laidlaw (he/him)\
-      Ben Hussey (he/him)\
-      Adam Coppard (he/him)
+      **CO-PRODUCER** | Ben Hussey (he/him)\
+      **CO-PRODUCER** | Adam Coppard (he/him)\
+      **SET REALISATION**  | Andrew Laidlaw (he/him)
 metaTitle: Hedda Gabler by Henrik Ibsen, in a version by Patrick Marber, plays
   at the Bridewell Theatre from 8-12 July 2025
 metaDescription: Hedda Gabler by Henrik Ibsen, in a version by Patrick Marber.
