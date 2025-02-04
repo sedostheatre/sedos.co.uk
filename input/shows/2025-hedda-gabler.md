@@ -31,7 +31,7 @@ metaDescription: Hedda Gabler by Henrik Ibsen, in a version by Patrick Marber.
   It is part of Sedos’ 2025 season and plays at the Bridewell Theatre from 8-12
   July 2025
 ---
-#### \
+##### \
 **Just married. Buried alive. Hedda longs to be free.**
 
 Widely considered a cornerstone of modern theatre, *Hedda Gabler* is a canonised masterpiece of the 19th century, played across stages globally and storming Broadway more than 20 times. 
