@@ -10,7 +10,7 @@ metaDescription: Hedda Gabler by Henrik Ibsen, in a version by Patrick Marber.
 ---
 *4 February 2025*
 
-**We're delighted to announce that we will be performing *[Hedda Gabler](https://www.sedos.co.uk/shows/2025-hedda-gabler)*, in a version by Patrick Marber, at the Bridewell Theatre from 8-12 July 2025. Jonny Harding-Cooper will direct the production.**
+**We're delighted to announce that we will be performing *[Hedda Gabler](https://www.sedos.co.uk/shows/2025-hedda-gabler)*, by Henrik Ibsen, in a version by Patrick Marber, at the Bridewell Theatre from 8-12 July 2025. Jonny Harding-Cooper will direct the production.**
 
 This pressure-cooker story is about the illusion of freedom, the battle for social superiority, and the unbearable burden of losing control.
 
@@ -22,7 +22,7 @@ In this retelling, Ibsen's work has been channelled through the mind of Patrick 
 
 *Hedda Gabler* in this version was first presented in the Lyttelton auditorium of the National Theatre, London, on 5 December 2016.
 
-This is the second time Sedos has performed a play by Ibsen, following *[A Doll's House](https://www.sedos.co.uk/shows/2018-dolls-house)[](https://www.sedos.co.uk/shows/2018-dolls-house)*in January 2018. It is also the second play that Jonny has directed for Sedos, following *[The Effect](https://www.sedos.co.uk/shows/2023-the-effect)* in 2023.
+This is the second time Sedos has performed a play by Ibsen, following *[A Doll's House](https://www.sedos.co.uk/shows/2018-dolls-house)*[](https://www.sedos.co.uk/shows/2018-dolls-house)in January 2018. It is also the second play that Jonny has directed for Sedos, following *[The Effect](https://www.sedos.co.uk/shows/2023-the-effect)* in 2023.
 
 Visit the [show page](https://www.sedos.co.uk/shows/2025-hedda-gabler) to find out who else is involved – more names will be added to the team over the next few weeks.
 
