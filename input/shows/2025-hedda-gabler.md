@@ -31,7 +31,8 @@ metaDescription: Hedda Gabler by Henrik Ibsen, in a version by Patrick Marber.
   It is part of Sedos’ 2025 season and plays at the Bridewell Theatre from 8-12
   July 2025
 ---
-#### **Just married. Buried alive. Hedda longs to be free.**
+##### \
+**Just married. Buried alive. Hedda longs to be free.**
 
 Widely considered a cornerstone of modern theatre, *Hedda Gabler* is a canonised masterpiece of the 19th century, played across stages globally and storming Broadway more than 20 times. 
 
@@ -41,7 +42,7 @@ In this retelling, Ibsen's work has been channelled through the mind of Patrick 
 
 This pressure-cooker story is about the illusion of freedom, the battle for social superiority, and the unbearable burden of losing control.
 
-**Content warnings:** Contains strong language, references and depictions of suicide, mentions of rape, and the use of a replica firearm.
+**Content warnings:** Contains strong language, references and depictions of suicide, mentions of rape and the use of a replica firearm.
 
 **PAST REVIEWS**
 
@@ -51,6 +52,6 @@ This pressure-cooker story is about the illusion of freedom, the battle for soci
 "Seething with sexuality, darkness and humour" –  *Radio Times*\
 "A version that will have a life beyond this production" –  *The Guardian*
 
-*Hedda Gabler* plays at the Bridewell Theatre from 8-12 July 2025.
+*Hedda Gabler* plays at the Bridewell Theatre from 8-12 July 2025. The box office will open soon. 
 
-This amateur production of *Hedda Gabler*, in a version by Patrick Marber, is presented by arrangement with Concord Theatricals Ltd. on behalf of Samuel French Ltd. www.concordtheatricals.co.uk
+This amateur production of *Hedda Gabler*, in a version by Patrick Marber, is presented by arrangement with Concord Theatricals Ltd. on behalf of Samuel French Ltd. [www.concordtheatricals.co.uk](https://www.concordtheatricals.co.uk/)
