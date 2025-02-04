@@ -2,6 +2,11 @@
 title: Hedda Gabler added to the 2025 Sedos season
 date: 2025-02-04
 image: /assets/hedda-gabler-holder.jpg
+metaTitle: Hedda Gabler by Henrik Ibsen, in a version by Patrick Marber, plays
+  at the Bridewell Theatre from 8-12 July 2025
+metaDescription: Hedda Gabler by Henrik Ibsen, in a version by Patrick Marber.
+  It is part of Sedos’ 2025 season and plays at the Bridewell Theatre from 8-12
+  July 2025
 ---
 *4 February 2025*
 
@@ -23,4 +28,4 @@ Visit the [show page](https://www.sedos.co.uk/shows/2025-hedda-gabler) to find o
 
 [Sign up for our newsletter](https://mailchi.mp/sedos.co.uk/newsletter-sign-up) to ensure you receive the audition notice once it is available.
 
-![](/assets/hedda-gabler-holder.jpg)
+![A dandelion catching fire.](/assets/hedda-gabler-holder.jpg)
