@@ -22,7 +22,7 @@ In this retelling, Ibsen's work has been channelled through the mind of Patrick 
 
 *Hedda Gabler* in this version was first presented in the Lyttelton auditorium of the National Theatre, London, on 5 December 2016.
 
-This is the second time Sedos has performed a play by Ibsen, following* [A Doll's House](https://www.sedos.co.uk/shows/2018-dolls-house)* in January 2018. It is also the second play that Jonny has directed for Sedos, following *[The Effect](https://www.sedos.co.uk/shows/2023-the-effect)* in 2023.
+This is the second time Sedos has performed a play by Ibsen, following *[A Doll's House](https://www.sedos.co.uk/shows/2018-dolls-house)[](https://www.sedos.co.uk/shows/2018-dolls-house)*in January 2018. It is also the second play that Jonny has directed for Sedos, following *[The Effect](https://www.sedos.co.uk/shows/2023-the-effect)* in 2023.
 
 Visit the [show page](https://www.sedos.co.uk/shows/2025-hedda-gabler) to find out who else is involved – more names will be added to the team over the next few weeks.
 
