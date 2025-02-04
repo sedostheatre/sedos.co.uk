@@ -22,3 +22,5 @@ This is the second time Sedos has performed a play by Ibsen, following* [A Doll'
 Visit the [show page](https://www.sedos.co.uk/shows/2025-hedda-gabler) to find out who else is involved – more names will be added to the team over the next few weeks.
 
 [Sign up for our newsletter](https://mailchi.mp/sedos.co.uk/newsletter-sign-up) to ensure you receive the audition notice once it is available.
+
+![](/assets/hedda-gabler-holder.jpg)
