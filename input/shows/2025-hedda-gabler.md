@@ -41,7 +41,9 @@ In this retelling, Ibsen's work has been channelled through the mind of Patrick 
 
 This pressure-cooker story is about the illusion of freedom, the battle for social superiority, and the unbearable burden of losing control.
 
-**Content warnings:** Contains strong language, references and depictions of suicide, mentions of rape and the use of a replica firearm.
+*Hedda Gabler* in this version was first presented in the Lyttelton auditorium of the National Theatre, London, on 5 December 2016.
+
+This is the second time Sedos has performed a play by Ibsen, following* [A Doll's House](https://www.sedos.co.uk/shows/2018-dolls-house)* in January 2018. It is also the second play that Jonny has directed for Sedos, following *[The Effect](https://www.sedos.co.uk/shows/2023-the-effect)* in 2023.
 
 **PAST REVIEWS**
 
@@ -51,6 +53,8 @@ This pressure-cooker story is about the illusion of freedom, the battle for soci
 "Seething with sexuality, darkness and humour" –  *Radio Times*\
 "A version that will have a life beyond this production" –  *The Guardian*
 
-*Hedda Gabler* plays at the Bridewell Theatre from 8-12 July 2025. The box office will open soon. 
+*Hedda Gabler* plays at the [Bridewell Theatre](https://sbf.org.uk/whats-on/category/theatre/) from 8-12 July 2025. The box office will open soon. 
+
+**Content warnings:** Contains strong language, references and depictions of suicide, mentions of rape and the use of a replica firearm.
 
 This amateur production of *Hedda Gabler*, in a version by Patrick Marber, is presented by arrangement with Concord Theatricals Ltd. on behalf of Samuel French Ltd. [www.concordtheatricals.co.uk](https://www.concordtheatricals.co.uk/)
