@@ -1,6 +1,11 @@
 ---
 title: Acting Group
-times: []
+times:
+  - time: 2025-02-20 11:15
+  - time: 2025-03-20 11:15
+  - time: 2025-04-17 11:15
+  - time: 2025-05-22 11:15
+  - time: 2025-06-26 11:16
 image: /assets/acting-group-may-2024.jpg
 venue: Theatre Deli
 recurrence: Once a month on Thursdays
