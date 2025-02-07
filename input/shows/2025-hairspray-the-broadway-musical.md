@@ -29,13 +29,46 @@ box-office-link: https://sedos.ticketsolve.com/ticketbooth/shows/1173660212/even
 sections:
   - order: 1
     body: |-
+      **CAST**
+
+      **TRACY TURNBLAD** | Lucy Dickson (she/her)\
+      **CORNY COLLINS** | Josh Yeardley (he/him)\
+      **EDNA TURNBLAD** | Sean MacFarlane (he/him)\
+      **PENNY PINGLETON** | Sophie Bass\
+      **VELMA VON TUSSLE** | Lauren Clarke (she/her)\
+      **AMBER VON TUSSLE** | Bex Evans (she/her)\
+      **LINK LARKIN** | Buddy Jack Jefferies (he/him)\
+      **SEAWEED J. STUBBS** | Kenneth Ojiji (he/him)\
+      **LITTLE INEZ** | Oyin Kotun (she/her)\
+      **MOTORMOUTH MAYBELLE** | Melissa Boateng (she/they)\
+      **WILBUR TURNBLAD** | Ross McNeil\
+      **PRUDY PINGLETON** | Helen Parsons (she/her)\
+      **MR. PINKY** | Joe Brown (he/they)\
+      **DYNAMITE** | Anoä-Kanelle Calpas (she/they)\
+      **DYNAMITE** | Jamie-lee Lee Grant (she/her)\
+      **DYNAMITE** | Mary Briggs\
+      **ENSEMBLE** | Barbara Orti (she/her)\
+      **ENSEMBLE** | Blythe Ward (she/her)\
+      **ENSEMBLE** | Callum Elson (he/him)\
+      **ENSEMBLE** | Ella Carter (she/her)\
+      **ENSEMBLE** | Emily Bampoe (she/her)\
+      **ENSEMBLE** | Jack Pusey (he/him)\
+      **ENSEMBLE** | Kaya Minton (she/her)\
+      **ENSEMBLE** | Ruben Ondo Mesa (he/him)\
+      **ENSEMBLE** | Stephen McLoughlin\
+      **ENSEMBLE** | Tesh Samuel\
+      **ENSEMBLE** | Tommy Riggs\
+      **ENSEMBLE** | Yasmin Hazemi (she/her)
+
+      **CREATIVE TEAM**
+
       **DIRECTOR** | Taylor Davidson (she/her)\
       **MUSICAL DIRECTOR** | George Wheatley (she/her)\
       **CHOREOGRAPHER** | Bailey Edwards (she/her)\
       **PRODUCER** | Ben Hussey (he/him)\
       **MARKETING** | Emma Miller\
       **COMMITTEE LIAISONS** | Tim Garrad (he/him) and Karen Braganza (she/her)
-    title: CREATIVE TEAM
+    title: CAST & CREATIVE TEAM
 metaTitle: Hairspray plays at the Bridewell Theatre from 7-17 May 2025
 metaDescription: Hairspray is the big, bold and beautiful musical you’ve been
   waiting for! It is part of Sedos’ 2025 season and plays at the Bridewell
