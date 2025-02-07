@@ -54,7 +54,7 @@ Director Dan Edge said: "I am thrilled to be given the opportunity to present a 
 
 *Assassins* plays at the [Bridewell Theatre](https://www.sedos.co.uk/venues/bridewell) from 17-21 September 2024.
 
-**Seeking a Choreographer**
+**Seeking a Choreographer**\
 We are seeking a choreographer to join the creative team for *Assassins*. We will be setting the production at an American political convention with a dancing chorus (separate from the ensemble) to support the convention hosts - think Las Vegas, think big smiles, think cheerleaders and pompoms! This is a fantastic opportunity for a choreographer to bring the convention to life as well as helping with the overall musical staging.
 
 We will be auditioning in June with rehearsals (Tuesdays/Thursdays and Saturdays) starting in mid-July.
