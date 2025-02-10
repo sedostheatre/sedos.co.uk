@@ -7,10 +7,10 @@ authors3: Book by ALAIN BOUBLIL, CLAUDE-MICHEL SCHÖNBERG and RICHARD MALTBY, JR
 subtitle: An epic musical adventure from the writers of Les Misérables and Miss Saigon
 showtimes:
   - time: 2025-06-30 19:30
-  - time: 2025-07-01 14:30
+  - time: 2025-07-01 14:00
   - time: 2025-07-01 19:30
   - time: 2025-07-02 19:30
-  - time: 2025-07-03 14:30
+  - time: 2025-07-03 14:00
   - time: 2025-07-03 19:30
 showtime-summary: 30 JUNE-3 JULY 2025
 venue: Minack Theatre
@@ -18,7 +18,8 @@ primary-color: "#3d4da0"
 header-image: /assets/piratequeen.png
 header-image-contain: false
 flyer: /assets/thepiratequeenposter.jpg
-box-office-open: false
+box-office-open: true
+box-office-link: https://www.minack.com/performances_modal/186602
 sections:
   - order: 1
     title: CREATIVE TEAM
@@ -84,7 +85,7 @@ Director Katie Porter said: "It’s always exciting to see shows where women are
 \
 **Content warnings:** the show includes depictions of death, violence, misogyny and childbirth, as well as mild sexual references and scenes.
 
-*The Pirate Queen* plays at the [Minack Theatre](https://www.minack.com/), Cornwall, from 30 June-3 July 2025. Tickets will go on sale in February.
+*The Pirate Queen* plays at the [Minack Theatre](https://www.minack.com/), Cornwall, from 30 June-3 July 2025. 
 
 By kind permission of Bouberg Productions Limited, Alain Boublil and Claude-Michel Schönberg and by arrangement with Music Theatre International\
 \
