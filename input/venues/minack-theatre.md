@@ -9,4 +9,4 @@ city: Penzance, Cornwall
 postCode: TR19 6JU
 country: United Kingdom
 ---
-The Minack Theatre is a beautiful open air theatre on the Cornish cliffs. Sedos performed *[A Swell Party](https://www.sedos.co.uk/shows/2019-a-swell-party)* there in 2019 and will stage a show there again in 2025.
+The Minack Theatre is a beautiful open air theatre on the Cornish cliffs. Sedos performed *[A Swell Party](https://www.sedos.co.uk/shows/2019-a-swell-party)* there in 2019 and will stage *[The Pirate Queen](https://www.sedos.co.uk/shows/2025-the-pirate-queen)* there in 2025.
