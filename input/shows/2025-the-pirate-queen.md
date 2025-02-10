@@ -14,6 +14,7 @@ showtimes:
   - time: 2025-07-03 19:30
 showtime-summary: 30 JUNE-3 JULY 2025
 venue: Minack Theatre
+ticket-prices: Tickets from £7.50
 primary-color: "#3d4da0"
 header-image: /assets/piratequeen.png
 header-image-contain: false
