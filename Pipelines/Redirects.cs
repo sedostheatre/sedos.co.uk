@@ -49,6 +49,7 @@ namespace Sedos.Pipelines
                 { "expenses", "https://docs.google.com/spreadsheets/d/1sSCNGxWBmmZN78Sh4UrgERRBsdDkDDe9/edit?usp=sharing&ouid=106113350928212210090&rtpof=true&sd=true" },
                 { "pqauditions", "https://sedos.co.uk/events/the-pirate-queen-auditions" },
                 { "members-facebook", "https://www.facebook.com/groups/1008198222627338/" },
+                { "pq", "https://drive.google.com/file/d/1WkyGZ14vcTAA1lYR5SDuEJbq4aTZKuO1/view?usp=sharing" },
             };
 
             ProcessModules = new ModuleList
