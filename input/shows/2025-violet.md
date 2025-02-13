@@ -88,7 +88,7 @@ sections:
     body: |-
       ![](/assets/violet-flyer-front-final-800.jpg)
 
-      ![](/assets/violet-flyer-back-final-800.jpg)
+      ![](/assets/flyer-back-final-v2-800.jpg)
 metaTitle: Violet, by Jeanine Tesori, Brian Crawley and Brian Crawley, plays at
   the Bridewell Theatre from 25-29 March 2025
 metaDescription: Violet, by Jeanine Tesori, Brian Crawley and Brian Crawley, is
