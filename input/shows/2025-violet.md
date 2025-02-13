@@ -15,10 +15,10 @@ showtimes:
 showtime-summary: 25-29 MARCH 2025
 venue: Bridewell Theatre
 ticket-prices: "Tickets from £14 (no booking fee) "
-primary-color: "#85598c"
+primary-color: "#b387bc"
 header-image: /assets/violetimage.png
 header-image-contain: false
-flyer: /assets/violet-dates-poster-2025.jpg
+flyer: /assets/violet-flyer-front-final-800.jpg
 box-office-open: true
 box-office-link: https://sedos.ticketsolve.com/ticketbooth/shows/1173660209
 sections:
@@ -83,6 +83,12 @@ sections:
       **INTIMACY CO-ORDINATOR** | Kim Barker (she/her)\
 
       **COMMITTEE LIAISON** | Paul Caira
+  - order: 1
+    title: FLYER
+    body: |-
+      ![](/assets/violet-flyer-front-final-800.jpg)
+
+      ![](/assets/violet-flyer-back-final-800.jpg)
 metaTitle: Violet, by Jeanine Tesori, Brian Crawley and Brian Crawley, plays at
   the Bridewell Theatre from 25-29 March 2025
 metaDescription: Violet, by Jeanine Tesori, Brian Crawley and Brian Crawley, is
