@@ -29,7 +29,7 @@ The Minack website advises: Coming from Penzance, satnav will direct you via the
 
 Parking is free for the duration of your visit, to those visiting the theatre or coming to a performance.
 
-The nearest station is Penzance and the [Land's End Coaster](https://www.firstbus.co.uk/adventures-bus/services/lands-end-coaster) bus service links Penzance and Land’s End and stops in Porthcurno, a ten minute walk from the Theatre.
+The nearest station is Penzance and the [Land's End Coaster](https://www.firstbus.co.uk/adventures-bus/services/lands-end-coaster) bus service links Penzance and Land’s End and stops in Porthcurno, a 10-minute walk from the Theatre.
 
 **Accessibility**
 
