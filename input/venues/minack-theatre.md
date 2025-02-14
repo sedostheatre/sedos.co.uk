@@ -36,3 +36,5 @@ The nearest station is Penzance and the [Land's End Coaster](https://www.firstbu
 The Minack team aim to make the site available to everyone as far as possible – however the steep, rocky geography of the theatre does create some access limitations. 
 
 [Full accessibility info](https://www.minack.com/visit-us/accessibility)
+
+![Minack Theatre](/assets/50532611177_157561d841_c-1-.jpg "Sedos’ 2019 production of A Swell Party at the Minack. Photo by audience member Alan Denison")
