@@ -20,10 +20,10 @@ showtimes:
 showtime-summary: 7-17 MAY 2025
 venue: Bridewell Theatre
 ticket-prices: Tickets from £14 (no booking fee)
-primary-color: "#c91c6c"
+primary-color: "#ed2e92"
 header-image: /assets/hairspray-holding-image.jpg
 header-image-contain: false
-flyer: /assets/hairspray-dates-poster-2025.jpg
+flyer: /assets/hairsprayflyerfront-1-800.jpg
 box-office-open: true
 box-office-link: https://sedos.ticketsolve.com/ticketbooth/shows/1173660212/events/428695941
 sections:
