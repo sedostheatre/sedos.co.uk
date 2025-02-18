@@ -103,7 +103,7 @@ Director Dan Saunders said: "*Violet* is a show with great uplifting music, a di
 
 “Our ethos is that theatre is a team sport and that when everyone works together, a show can be greater than the sum of its parts, and we can create an experience that is unique and special for cast, crew and audience alike.”
 
-**SPECIAL OFFER:** book any four (or more) shows in Sedos’ 2025 Bridewell season in one transaction and receive 25% off. The discount will be applied automatically at the [online box office](https://sedos.ticketsolve.com/ticketbooth/shows). Please note we still have another play to announce, so you may wish to wait and book when that final show is on sale.
+**SPECIAL OFFER:** book any four (or more) shows in Sedos’ 2025 Bridewell season in one transaction and receive 25% off. The discount will be applied automatically at the [online box office](https://sedos.ticketsolve.com/ticketbooth/shows).  Please note we have not yet opened the box office for Hedda Gabler, so you may wish to wait and book when that final show is on sale.
 
 *Violet* plays at the [Bridewell Theatre](https://www.sedos.co.uk/venues/bridewell) from 25-29 March 2025.
 
