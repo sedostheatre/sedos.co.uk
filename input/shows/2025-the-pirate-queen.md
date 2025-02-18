@@ -35,8 +35,6 @@ sections:
 
       **ASSISTANT MUSICAL DIRECTOR** | Ollie Jones (he/him)\
 
-      **ASSISTANT DIRECTOR** | Maddie Wollaston (she/her)\
-
       **LIGHTING DESIGNER** | Olly Levett (he/him)\
 
       **SOUND DESIGNER** | Adam Coppard (he/him)\
