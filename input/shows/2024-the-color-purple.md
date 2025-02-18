@@ -109,6 +109,9 @@ sections:
       >Sedos has achieved something remarkable with this production of The Color Purple. With fantastic performances, thoughtful direction and an abundance of energy, this was a moving and inspiring piece of theatre that I am grateful to have watched.
 
       ><footer><cite><a target="_blank" href="https://rachelreviewed.com/review-the-color-purple-sedos-london/">The Color Purple, 2024, Rachel Reviewed (*****)</a></cite></footer>
+  - order: 1
+    title: VIDEO
+    body: <div class="video-responsive"><?# YouTube KUZnu7y82ZQ /?></div>
 metaTitle: The Color Purple, part of the 2024 Sedos season, plays at the
   Bridewell Theatre from 20-30 November 2024
 metaDescription: The Color Purple, which documents the traumas and gradual
