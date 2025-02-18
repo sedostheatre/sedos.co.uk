@@ -93,7 +93,7 @@ sections:
 
 
       <a data-flickr-embed="true" href="https://www.flickr.com/photos/sedos/albums/72177720320760701" title="The Color Purple - 2024"><img src="https://live.staticflickr.com/65535/54035287921_2195af0997_z.jpg" width="640" height="480" alt="The Color Purple - 2024"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-  - order: 3
+  - order: 4
     title: REVIEWS
     body: >-
       >Sedos and the team behind The Color Purple have a huge amount of be proud
@@ -109,7 +109,7 @@ sections:
       >Sedos has achieved something remarkable with this production of The Color Purple. With fantastic performances, thoughtful direction and an abundance of energy, this was a moving and inspiring piece of theatre that I am grateful to have watched.
 
       ><footer><cite><a target="_blank" href="https://rachelreviewed.com/review-the-color-purple-sedos-london/">The Color Purple, 2024, Rachel Reviewed (*****)</a></cite></footer>
-  - order: 1
+  - order: 3
     title: VIDEO
     body: <div class="video-responsive"><?# YouTube KUZnu7y82ZQ /?></div>
 metaTitle: The Color Purple, part of the 2024 Sedos season, plays at the
