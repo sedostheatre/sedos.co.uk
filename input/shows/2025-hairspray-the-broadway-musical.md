@@ -69,6 +69,12 @@ sections:
       **MARKETING** | Emma Miller\
       **COMMITTEE LIAISONS** | Tim Garrad (he/him) and Karen Braganza (she/her)
     title: CAST & CREATIVE TEAM
+  - order: 1
+    title: FLYER
+    body: |-
+      ![](/assets/hairsprayflyerfront-1-800.jpg)
+
+      ![](/assets/hairsprayflyerback-800.png)
 metaTitle: Hairspray plays at the Bridewell Theatre from 7-17 May 2025
 metaDescription: Hairspray is the big, bold and beautiful musical you’ve been
   waiting for! It is part of Sedos’ 2025 season and plays at the Bridewell
