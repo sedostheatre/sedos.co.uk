@@ -66,7 +66,14 @@ sections:
       **MUSICAL DIRECTOR** | George Wheatley (she/her)\
       **CHOREOGRAPHER** | Bailey Edwards (she/her)\
       **PRODUCER** | Ben Hussey (he/him)\
-      **MARKETING** | Emma Miller\
+      **MARKETING** | Emma Miller (she/her)\
+      **LIGHTING DESIGN** | Will Lake (he/him)\
+      **SOUND DESIGN** | Pranav Mahesh (he/him)\
+      **COSTUME DESIGN** | Anita Hammerton-Reid (she/her)\
+      **HAIR/WIG DESIGN** | Candice Zen (she/her)\
+      **SET DESIGN** | Ella Cerys Mae (she/her)\
+      **SET REALISATION** | Adam Lockett\
+      **PROPS** | Amy Greenall\
       **COMMITTEE LIAISONS** | Tim Garrad (he/him) and Karen Braganza (she/her)
     title: CAST & CREATIVE TEAM
   - order: 1
