@@ -68,10 +68,6 @@ With Irish music and dance woven throughout, *The Pirate Queen* asks how far you
 
 This is the second time Sedos has had an opportunity to tour a show to the beautiful, open-air [Minack Theatre](https://minack.com/) in Porthcurno, Cornwall. 
 
-**AUDITION FOR *THE PIRATE QUEEN***
-
-Information about [*The Pirate Queen* auditions](https://www.sedos.co.uk/events/the-pirate-queen-auditions) is now live. [Click here for the full audition notice](https://docs.google.com/document/d/1GhpP64QrJwp1yLcmXXqno9vCt6uMC4Gwwto9ViVQ5D4/edit?tab=t.0). 
-
 **MORE FROM THE DIRECTOR**
 
 Director Katie Porter said: "It’s always exciting to see shows where women are in positions of power and have struggled to overcome the limitations placed on them by society. As an Irish woman, it is doubly exciting to have a show steeped in Irish history and culture. 
