@@ -91,7 +91,7 @@ metaDescription: Hairspray is the big, bold and beautiful musical you’ve been
 
 *Hairspray* is the big, bold and beautiful musical you’ve been waiting for! 
 
-Set in 1960's Baltimore, with a bumping rhythm and blues score by Marc Whitman, this show has had audiences around the world dancing to hits like 'Run and Tell That', 'Without Love' and 'You Can’t Stop the Beat' since the show’s release in 2002. 
+Set in 1960's Baltimore, with a bumping rhythm and blues score by Marc Shaiman, this show has had audiences around the world dancing to hits like 'Run and Tell That', 'Without Love' and 'You Can’t Stop the Beat' since the show’s release in 2002. 
 
 Tracy Turnblad is ready to dance her way to success and change the world along the way. When she’s cast on local TV’s Corny Collins Show, Tracy calls for integration and equality and won’t stop until everyone can dance together, no matter what they look like or where they come from.
 
