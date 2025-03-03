@@ -23,8 +23,61 @@ box-office-open: true
 box-office-link: https://www.minack.com/performances_modal/186602
 sections:
   - order: 1
-    title: CREATIVE TEAM
+    title: CAST & CREATIVE TEAM
     body: >-
+      **CAST**
+
+
+      **GRACE O’MALLEY** | Elysia Boyle (they/she)\
+
+      **TIERNAN** | Phil Raymond (he/him)\
+
+      **QUEEN ELIZABETH I** Amy Foden-Lloyd (she/her)\
+
+      **DUBHDARA O'MALLEY** | Stephen Beeny\
+
+      **RICHARD BINGHAM** | Sean Anderson (he/him)\
+
+      **DOMHNALL O'FLAHERTY** | Alex Dehn (he/him)\
+
+      **CHIEFTAIN O'FLAHERTY** | Tim Garrad\
+
+      **EIBHLIN** | Dara Seitzman\
+
+      **MAJELLA** | Mia Rudden (she/her)\
+
+      \
+
+      **ALL OTHER ROLES PLAYED BY:**\
+
+      \
+
+      Jacob Foden-Lloyd (he/him)\
+
+      Jess Glaisher (they/them)\
+
+      Amy Hehir Curley (she/her)\
+
+      Ben Hollands (he/him)\
+
+      Chloe Lane (she/her)\
+
+      Annie Lord (she/her)\
+
+      Pearse Murphy (he/him)\
+
+      Catherine Russell (she/her)\
+
+      Beck Thorne\
+
+      Ema-Mae West (she/her)\
+
+      Jamie Wright (he/him)
+
+
+      **CREATIVE TEAM**
+
+
       **DIRECTOR** | Katie Porter (she/her)\
 
       **MUSICAL DIRECTOR** | Oscar Denihan (he/him)\
