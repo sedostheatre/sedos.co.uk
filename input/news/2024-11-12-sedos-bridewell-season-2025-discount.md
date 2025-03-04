@@ -29,7 +29,7 @@ The shows which are on sale are:
 [Assassins](https://www.sedos.co.uk/shows/2025-assassins) (23-27 September)\
 [Dreamgirls](https://www.sedos.co.uk/shows/2025-dreamgirls) (19-29 November)
 
-Please note we have not yet opened the box office for *Hedda Gabler*, so you may wish to wait and book when that final show is on sale.
+Please note we have not yet opened the box office for *[Hedda Gabler](https://www.sedos.co.uk/shows/2025-hedda-gabler)*, so you may wish to wait and book when that final show is on sale.
 
 We look forward to welcoming you to the Bridewell Theatre for our 2025 shows.
 
