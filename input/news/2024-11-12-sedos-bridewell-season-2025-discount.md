@@ -34,5 +34,5 @@ Please note we have not yet opened the box office for *[Hedda Gabler](https://w
 We look forward to welcoming you to the Bridewell Theatre for our 2025 shows.
 
 ^^^
-![Sedos Bridewell season 2025 discount](/assets/discountwebsite.jpg)
+![Sedos Bridewell season 2025 discount](/assets/discountnewsletter-new.jpg)
 ^^^
