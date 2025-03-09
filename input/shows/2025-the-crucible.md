@@ -26,6 +26,7 @@ sections:
     body: |-
       **DIRECTOR** | Jonah McLeod (he/him)\
       **DIRECTOR** | Anoushka Nairac (she/they)\
+      **PRODUCER** | Kacper Neumann (he/him)\
       **SET DESIGNER** | Ellen Redgrave (they/them)\
       **COMMITTEE LIAISONS** | Adam Coppard (he/him) and Sorrel Brown (she/her)
 metaTitle: The Crucible, by Arthur Miller, plays at the Bridewell Theatre 16-20
