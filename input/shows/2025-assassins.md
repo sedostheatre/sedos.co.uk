@@ -28,6 +28,7 @@ sections:
       **DIRECTOR** | Dan Edge (he/him)\
       **MUSICAL DIRECTOR** |  Matt Gould (he/him)\
       **PRODUCTION DESIGNER** | Adrian Jeakins (he/him)\
+      **CHOREOGRAPHER** | Emma Bowker (she/her)\
       **PRODUCER** | Pippa Kyle (she/her)\
       **LIGHTING DESIGNER** | Martin Walton (he/him)\
       **COSTUMES** | Annie Houseago\
@@ -53,13 +54,6 @@ Director Dan Edge said: "I am thrilled to be given the opportunity to present a 
 **SPECIAL OFFER:** book any four (or more) shows in Sedos’ 2025 Bridewell season in one transaction and receive 25% off. The discount will be applied automatically at the [online box office](https://sedos.ticketsolve.com/ticketbooth/shows). Please note we have not yet opened the box office for *Hedda Gabler*, so you may wish to wait and book when that final show is on sale.
 
 *Assassins* plays at the [Bridewell Theatre](https://www.sedos.co.uk/venues/bridewell) from 17-21 September 2024.
-
-**Seeking a Choreographer**\
-We are seeking a choreographer to join the creative team for *Assassins*. We will be setting the production at an American political convention with a dancing chorus (separate from the ensemble) to support the convention hosts - think Las Vegas, think big smiles, think cheerleaders and pompoms! This is a fantastic opportunity for a choreographer to bring the convention to life as well as helping with the overall musical staging.
-
-We will be auditioning in June with rehearsals (Tuesdays/Thursdays and Saturdays) starting in mid-July.
-
-If you are a choreographer interested in joining the team, we'd love to hear from you! Please email [assassins@sedos.co.uk](mailto:assassins@sedos.co.uk)
 
 **Assassins**
 Music and Lyrics by Stephen Sondheim 
