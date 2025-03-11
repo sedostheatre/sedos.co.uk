@@ -1,7 +1,7 @@
 ---
 title: Diversity and inclusion
 row: 1
-column: 2
+column: 3
 image: /assets/working-about-crop.jpg
 ---
 ## Diversity and inclusion
