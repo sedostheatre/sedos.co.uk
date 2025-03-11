@@ -1,7 +1,7 @@
 ---
 title: How we operate
-row: 2
-column: 3
+row: 3
+column: 2
 image: /assets/sedosagm2024-committee-trustees-600x300.jpg
 RedirectFrom:
   - aboutus/howweoperate.htm
