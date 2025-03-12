@@ -3,6 +3,8 @@ title: Financial Assistance Scheme
 row: 2
 column: 2
 image: /assets/financialassistancescheme-website-copy.jpg
+redirectFrom:
+  - fas/
 ---
 At Sedos, we understand that participating in a show can be financially challenging. Staying true to our inclusive values, we believe that socio-economic factors should never stand in the way of exceptional talent.
 
