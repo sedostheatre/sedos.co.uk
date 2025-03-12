@@ -2,7 +2,7 @@
 title: Financial Assistance Scheme
 row: 2
 column: 2
-image: /assets/financialassistancescheme-website.jpg
+image: /assets/financialassistancescheme-website-copy.jpg
 ---
 At Sedos, we understand that participating in a show can be financially challenging. Staying true to our inclusive values, we believe that socio-economic factors should never stand in the way of exceptional talent.
 
@@ -14,7 +14,7 @@ The fund is supported by kind donations from members and friends of Sedos, helpi
 
 **Want to donate?**
 
-If you’d like to contribute to the Financial Assistance Scheme, you can donate by [filling in this form](https://docs.google.com/forms/d/e/1FAIpQLScK400q8HjQGP1tEelh-YF7EpzESkwT5DqPOb2YxikcjcGP-A/viewform) and making your donation directly to the Sedos bank account (details in the full policy). Your donation won’t influence casting decisions – it simply supports more people in accessing the Sedos experience. If you have any questions, please contact our Treasurer at [treasurer@sedos.co.uk](mailto:treasurer@sedos.co.uk).
+If you’d like to contribute to the Financial Assistance Scheme, you can donate by [filling in this form](https://docs.google.com/forms/d/e/1FAIpQLScK400q8HjQGP1tEelh-YF7EpzESkwT5DqPOb2YxikcjcGP-A/viewform) and making your donation directly to the Sedos bank account (details in the [full policy](https://www.sedos.co.uk/assets/policies/financial-assistance-scheme.pdf)). Your donation won’t influence casting decisions – it simply supports more people in accessing the Sedos experience. If you have any questions, please contact our Treasurer at [treasurer@sedos.co.uk](mailto:treasurer@sedos.co.uk).
 
 **Need financial support?**
 
@@ -22,4 +22,4 @@ If you would like to benefit from the scheme, details of how to apply will be in
 
 At Sedos, we believe in making taking part possible for everyone, no matter their financial situation.
 
-Financial Assistance Scheme full policy
+[Financial Assistance Scheme full policy](https://www.sedos.co.uk/assets/policies/financial-assistance-scheme.pdf)
