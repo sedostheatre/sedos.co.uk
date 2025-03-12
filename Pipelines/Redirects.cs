@@ -50,7 +50,6 @@ namespace Sedos.Pipelines
                 { "pqauditions", "https://sedos.co.uk/events/the-pirate-queen-auditions" },
                 { "members-facebook", "https://www.facebook.com/groups/1008198222627338/" },
                 { "pq", "https://drive.google.com/file/d/1WkyGZ14vcTAA1lYR5SDuEJbq4aTZKuO1/view?usp=sharing" },
-                { "fas", "https://www.sedos.co.uk/about/financial-assistance-scheme" },
             };
 
             ProcessModules = new ModuleList
