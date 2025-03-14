@@ -6,6 +6,8 @@ image: /assets/financialassistancescheme-website-copy.jpg
 redirectFrom:
   - fas/
 ---
+## Financial Assistance Scheme
+
 At Sedos, we understand that participating in a show can be financially challenging. Staying true to our inclusive values, we believe that socio-economic factors should never stand in the way of exceptional talent.
 
 That’s why we offer a Financial Assistance Scheme for cast members who may not be able to take part without support. Thanks to the generosity of donors, the scheme helps cover membership and participation fees, either partially or fully, ensuring that financial constraints don’t hinder your opportunity to shine on stage.
@@ -25,3 +27,7 @@ If you would like to benefit from the scheme, details of how to apply will be in
 At Sedos, we believe in making taking part possible for everyone, no matter their financial situation.
 
 [Financial Assistance Scheme full policy](https://www.sedos.co.uk/assets/policies/financial-assistance-scheme.pdf)
+
+^^^
+![](/assets/financialassistancescheme-website-copy.jpg)
+^^^
