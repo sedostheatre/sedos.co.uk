@@ -54,7 +54,7 @@ sections:
 
       **LEROY EVANS/RADIO TRIO and OTHERS** | Keith Walters (He/Him)\
 
-      **BUS DRIVER 1 & 4/RADIO SOLOIST and OTHRS** | Mark Siddall (He/Him)
+      **BUS DRIVER 1 & 4/RADIO SOLOIST and OTHERS** | Mark Siddall (He/Him)
 
 
       **CREATIVE TEAM**
