@@ -29,5 +29,5 @@ At Sedos, we believe in making taking part possible for everyone, no matter thei
 [Financial Assistance Scheme full policy](https://www.sedos.co.uk/assets/policies/financial-assistance-scheme.pdf)
 
 ^^^
-![](/assets/financialassistancescheme-website-copy.jpg)
+![Financial Assistance Scheme](/assets/financialassistancescheme-website-copy.jpg)
 ^^^
