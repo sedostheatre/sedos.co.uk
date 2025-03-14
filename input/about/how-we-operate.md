@@ -6,9 +6,13 @@ image: /assets/sedosagm2024-committee-trustees-600x300.jpg
 RedirectFrom:
   - aboutus/howweoperate.htm
 ---
+## How we operate
+
 ^^^
 ![](/assets/sedosagm2024.jpg)
 ^^^ Members of the 2024/25 Sedos Trustees and Management Committee along with Sedos members who attended the 2024 Sedos AGM.
+
+
 
 Sedos is a Charitable Incorporated Organisation.
 
