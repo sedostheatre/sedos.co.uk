@@ -7,6 +7,8 @@ RedirectFrom:
   - aboutus/index.htm
   - charity/index.htm
 ---
+## About Sedos
+
 **Sedos is a [London amateur theatre](https://sedos.co.uk) company, staging seven to 10 shows a year.**
 
 We produce both plays and musicals, with most of our season taking place at the [Bridewell Theatre](https://sedos.co.uk/venues/bridewell), where we have been the resident theatre company since 2012.
