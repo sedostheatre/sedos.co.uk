@@ -31,7 +31,6 @@ sections:
   - order: 1
     body: |-
       **DIRECTOR** | David Gregory\
-      **PRODUCER** | Tess Robinson\
       **MUSICAL DIRECTOR** | Isaac Bartels\
       **COMMITTEE LIAISON** | George Langdown (he/him)
     title: CREATIVE TEAM
