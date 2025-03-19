@@ -66,6 +66,8 @@ sections:
 
       **ASSISTANT MUSICAL DIRECTOR** | Maria Hallows (she/her)\
 
+      **STAGE MANAGER** | Emma J. Leaver\
+
       **TECHNICAL PRODUCER** and **SOUND DESIGN** | Adam Coppard (he/him)\
 
       **LIGHTING DESIGN** | Tash Boret (she/her)\
