@@ -16,7 +16,7 @@ showtime-summary: 23-27 SEPTEMBER 2025
 venue: Bridewell Theatre
 ticket-prices: Tickets from £14 (no booking fee)
 primary-color: "#211e6d"
-header-image: /assets/assasins-holder.jpg
+header-image: /assets/assassins-landscape.jpg
 header-image-contain: false
 flyer: /assets/assassins-poster-2025.jpg
 box-office-open: true
