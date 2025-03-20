@@ -15,11 +15,11 @@ Save the dates for *[Assassins](https://www.sedos.co.uk/shows/2025-assassins)* a
 
 **KEY DATES**
 
-**Pre-audition workshop:** evening of Thursday 1 May at The Boury Academy Studios near Vauxhall\
+**Pre-audition workshop:** evening of Thursday 1 May at [The Boury Academy Studios](https://www.thebouryacademy.co.uk) near Vauxhall\
 **Deadline for self-tape auditions (all roles):** midnight on Sunday 25 May\
-**First round dance call for those auditioning for dancing chorus only:** evening of Tuesday 10 June at Wheatsheaf Hall near Vauxhall\
-**Recalls (by invitation):** daytimes of Sunday 15 June (balladeers and assassins) and Sunday 22 June (ensemble and dancing chorus) at St Gabriel’s Halls, Pimlico\
-**Rehearsals:** Tuesday and Thursday evenings and Saturday daytimes, 15 July onwards, mostly at Theatre Deli Leadenhall Studios
+**First round dance call for those auditioning for dancing chorus only:** evening of Tuesday 10 June at [Wheatsheaf Hall](https://www.sedos.co.uk/venues/wheatsheaf-hall) near Vauxhall\
+**Recalls (by invitation):** daytimes of Sunday 15 June (balladeers and assassins) and Sunday 22 June (ensemble and dancing chorus) at [St Gabriel’s Halls](https://www.stgabrielshalls.org.uk), Pimlico\
+**Rehearsals:** Tuesday and Thursday evenings and Saturday daytimes, 15 July onwards, mostly at [Theatre Deli Leadenhall Studios](https://www.sedos.co.uk/venues/theatre-deli)
 
 Do check out the notice once it’s released even if you know the show well – our concept includes extra parts open to female-presenting actors, non-traditional casting with virtually all roles open to actors of all ethnicities and a chorus for strong dancers as well as the traditional ensemble. 
 
