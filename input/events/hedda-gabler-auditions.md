@@ -15,10 +15,10 @@ Registration is now open for *[Hedda Gabler](https://www.sedos.co.uk/shows/2025-
 
 **KEY DATES**
 
-**Pre-audition workshop:** 1 April, 7pm ([sign up here](https://membership.sedos.co.uk/signup/137))\
-**Auditions:** 12, 14, 15 April ([sign up here](https://membership.sedos.co.uk/signup/138))\
-**Recalls (by invitation):** 26 April\
-**Rehearsals:** 28 April-5 July
+**Pre-audition workshop:** 1 April at [Vibast Community Centre](https://www.islington.gov.uk/advice/voluntary-and-community-sector/community-centres-in-islington/vibast-community-centre) ([sign up here](https://membership.sedos.co.uk/signup/137))\
+**Auditions:** 12, 14, 15 April at [Theatre Deli Leadenhall Studios](https://www.sedos.co.uk/venues/theatre-deli) ([sign up here](https://membership.sedos.co.uk/signup/138))\
+**Recalls (by invitation):** 26 April at at [Theatre Deli Leadenhall Studios](https://www.sedos.co.uk/venues/theatre-deli)\
+**Rehearsals:** 28 April-5 July at [Theatre Deli Leadenhall Studios](https://www.sedos.co.uk/venues/theatre-deli)
 
 ### [FULL AUDITION NOTICE](https://drive.google.com/drive/folders/11FZflMBUb9v1SGprwrszhoUtu01TknXL)
 
