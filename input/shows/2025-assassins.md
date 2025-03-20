@@ -57,7 +57,7 @@ Director Dan Edge said: "I am thrilled to be given the opportunity to present a 
 
 **AUDITIONS:** [*Assassins* auditions](https://www.sedos.co.uk/events/assassins-auditions) information
 
-**Assassins**
+**Assassins**\
 Music and Lyrics by Stephen Sondheim 
 Book by John Weidman
 
