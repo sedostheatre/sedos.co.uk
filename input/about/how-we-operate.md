@@ -12,8 +12,6 @@ RedirectFrom:
 ![](/assets/sedosagm2024.jpg)
 ^^^ Members of the 2024/25 Sedos Trustees and Management Committee along with Sedos members who attended the 2024 Sedos AGM.
 
-
-
 Sedos is a Charitable Incorporated Organisation.
 
 **[Click here to read the constitution](/assets/SedosConstitution.pdf)**.
@@ -60,7 +58,6 @@ The management committee meets monthly.
 **Chair** | Adrian Hau (he/him)\
 **Production group** | Adam Coppard (he/him)\
 Karen Braganza (she/her)\
-Sorrel Brown (she/her)\
 Paul Caira \
 Sam Ferguson (she/her)\
 Tim Garrad (he/him)\
