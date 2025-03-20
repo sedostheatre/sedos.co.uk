@@ -55,6 +55,8 @@ Director Dan Edge said: "I am thrilled to be given the opportunity to present a 
 
 *Assassins* plays at the [Bridewell Theatre](https://www.sedos.co.uk/venues/bridewell) from 17-21 September 2024.
 
+**AUDITIONS:** [*Assassins* auditions](https://www.sedos.co.uk/events/assassins-auditions) information
+
 **Assassins**
 Music and Lyrics by Stephen Sondheim 
 Book by John Weidman
