@@ -11,7 +11,7 @@ metaTitle: Assassins auditions, for Sedos’ production in September 2025
 metaDescription: Find out about Assassins auditions for Sedos’ production of the
   Stephen Sondheim musical in September 2025
 ---
-Save the dates for *[Assasins](https://www.sedos.co.uk/shows/2025-assassins)* auditions! The full audition notice will be released very soon. 
+Save the dates for *[Assasins](https://www.sedos.co.uk/shows/2025-assassins)* auditions! The full audition notice will be released very soon and the show plays 23-27 September at the [Bridewell Theatre](https://www.sedos.co.uk/venues/bridewell). 
 
 **KEY DATES**
 
@@ -25,7 +25,7 @@ Do check out the notice once it’s released even if you know the show well – 
 
 **ABOUT THE SHOW**
 
-*Assassins,* by Stephen Sondheim and John Weidman***,*** lays bare the lives of nine individuals who assassinated or tried to assassinate the President of the United States, in a one-act historical "revusical" that explores the dark side of the American experience. 
+*Assassins*, by Stephen Sondheim and John Weidman, lays bare the lives of nine individuals who assassinated or tried to assassinate the President of the United States, in a one-act historical "revusical" that explores the dark side of the American experience. 
 
 The show combines Sondheim’s signature blend of intelligently stunning lyrics and beautiful music with a panoramic story of our culture of celebrity and the violent means some will use to obtain it, embodied by America's four successful and five would-be presidential assassins. Bold, original, disturbing, and alarmingly funny, *Assassins* has never been more relevant in these turbulent political times.
 
