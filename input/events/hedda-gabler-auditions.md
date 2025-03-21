@@ -22,13 +22,13 @@ Registration is now open for *[Hedda Gabler](https://www.sedos.co.uk/shows/2025-
 
 ### [FULL AUDITION NOTICE](https://drive.google.com/drive/folders/11FZflMBUb9v1SGprwrszhoUtu01TknXL)
 
-**FROM THE DIRECTOR**
+**ABOUT THE SHOW**
 
-By default, Hedda is usually described as a ‘bored housewife’; this being the catalyst for many of her cruel antics. But for me, it doesn’t track. It feels reductive and something of a ‘character dead-end’. Reading this adaptation, it occurred to me: what if Hedda is actually scared that this is all there is? Afraid that it all amounts to nothing more than a mediocre existence.
+Hedda has a comfortable life. Newly wedded to an up-and-coming academic, a penthouse apartment, financial freedom, and the envy of her peers. But beneath it all, she is left suppressed, reduced to an appendage, railing against the suffocating domesticity of her new life. Desperate for what she doesn’t have – volatility and control.
 
-The daughter of a powerful public figure, sold the grand promise of an extraordinary life. But it failed to live up to her expectations. Hedda echoes something that many people experience every day: frustration at the prospect of being ordinary. The monotonous hedonic treadmill - life’s highs always resetting to just ‘acceptable’ - feeding into dissatisfaction and tedium. There’s a bitterness that bubbles up. A resentment at being trapped in a merely tolerable life.
+When a former lover returns, Hedda finds herself sliding into a pattern of selfish destruction, corruption and manipulation. But as things escalate, Hedda’s violent energies become magnified by her jealousy. We are shown the unfolding events of a single day and night, watching as Hedda applies increasing pressure to the three men in her life, culminating in a wicked scheme to regain power.
 
-In addition, by becoming a Tesman through marriage, Hedda has demoted her status from that of a Gabler. We’ve now created a powerful concoction. Stripped of her social standing, perceiving herself as marginalised, she seeks to regain status by inverting the power structure that excludes her. In other words, she incites chaos. This destruction of order, for the status-oriented, becomes a way to reassert themselves. A ‘need for chaos’ that can rebalance power.
+This production will strip away the stiffness and pomp of period versions, instead focusing on the raw interactions of Ibsen’s characters. Throughout rehearsals, we will explore the intertwining threads of each story, working towards building a dynamic and propellant show that simmers and crackles as the pressure climbs.
 
 **CASTING NOTES**
 
