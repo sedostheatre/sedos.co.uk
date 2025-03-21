@@ -30,6 +30,17 @@ The daughter of a powerful public figure, sold the grand promise of an extraordi
 
 In addition, by becoming a Tesman through marriage, Hedda has demoted her status from that of a Gabler. We’ve now created a powerful concoction. Stripped of her social standing, perceiving herself as marginalised, she seeks to regain status by inverting the power structure that excludes her. In other words, she incites chaos. This destruction of order, for the status-oriented, becomes a way to reassert themselves. A ‘need for chaos’ that can rebalance power.
 
+**CASTING NOTES**
+
+Sensitive topics\
+The play deals with themes of suicide. Exploring these characters’ motivations and experiences will be part of the rehearsal process. Other sensitive themes in this show include chauvinism and alcoholism. As a production, we are committed to creating a safe and open environment in which performers can work. Whilst we will do our utmost to ensure everyone feels safe within these scenes, actors should be mindful of the themes before auditioning.
+
+Diversity and inclusion\
+Sedos strives to ensure our activities are equally accessible to any person irrespective of race, colour, creed, ethnic or national origin, disability, religious belief, age, gender, sexual orientation, marital status, or class/socio-economic group. There are no characters of any specific ethnicity in this show, so we actively encourage actors of all ethnicities to audition for all parts.\
+\
+Intimacy\
+There are no moments of physical intimacy in the text, however, cast members will discuss and safely explore how their character interacts with the others. Throughout rehearsals, we will dig into how the physical contact between specific characters differs. The degree and nature of any physical contact will be down to the individual comfort levels of our cast.
+
 ### [FULL AUDITION NOTICE](https://drive.google.com/drive/folders/11FZflMBUb9v1SGprwrszhoUtu01TknXL)
 
 **DIVERSITY AND INCLUSION** 
