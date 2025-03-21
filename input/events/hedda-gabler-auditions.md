@@ -47,7 +47,7 @@ There are no moments of physical intimacy in the text, however, cast members wil
 
 **WHAT TO DO NOW**
 
-* Read the [full audition notice](<### [FULL AUDITION NOTICE](https://drive.google.com/drive/folders/11FZflMBUb9v1SGprwrszhoUtu01TknXL)>)
+* Read the [full audition notice](https://drive.google.com/file/d/1BT3Klm9WpawlT2rjrIsEq3obQDfpDZwK/view)
 * [Sign up for the workshop](https://membership.sedos.co.uk/signup/137)
 * [Sign up for an audition slot](https://membership.sedos.co.uk/signup/138)
 
