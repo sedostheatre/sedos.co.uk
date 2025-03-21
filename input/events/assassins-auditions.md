@@ -29,7 +29,7 @@ Do check out the notice once it’s released even if you know the show well – 
 
 The show combines Sondheim’s signature blend of intelligently stunning lyrics and beautiful music with a panoramic story of our culture of celebrity and the violent means some will use to obtain it, embodied by America's four successful and five would-be presidential assassins. Bold, original, disturbing, and alarmingly funny, *Assassins* has never been more relevant in these turbulent political times.
 
-Our version of Assassins takes us away from the traditional fairground setting and relocates us to an American political convention – AmeriCon. Political conventions are at their heart about being chosen and celebrated by the masses. They are opportunities for political and public figures to get up and pitch why you should choose them, to tell their story, to be the centre of attention for a primetime moment – essentially, why their way is right, and any other way is wrong. This is what our assassins crave, for people to understand and celebrate why they did what they did. 
+Our version of *Assassins* takes us away from the traditional fairground setting and relocates us to an American political convention – AmeriCon. Political conventions are at their heart about being chosen and celebrated by the masses. They are opportunities for political and public figures to get up and pitch why you should choose them, to tell their story, to be the centre of attention for a primetime moment – essentially, why their way is right, and any other way is wrong. This is what our assassins crave, for people to understand and celebrate why they did what they did. 
 
 **MORE AUDITIONS**
 
