@@ -23,8 +23,61 @@ box-office-open: true
 box-office-link: https://www.minack.com/performances_modal/186602
 sections:
   - order: 1
-    title: CREATIVE TEAM
+    title: CAST & CREATIVE TEAM
     body: >-
+      **CAST**
+
+
+      **GRACE O’MALLEY** | Elysia Boyle (they/she)\
+
+      **TIERNAN** | Phil Raymond (he/him)\
+
+      **QUEEN ELIZABETH I** Amy Foden-Lloyd (she/her)\
+
+      **DUBHDARA O'MALLEY** | Stephen Beeny\
+
+      **RICHARD BINGHAM** | Sean Anderson (he/him)\
+
+      **DOMHNALL O'FLAHERTY** | Alex Dehn (he/him)\
+
+      **CHIEFTAIN O'FLAHERTY** | Tim Garrad\
+
+      **EIBHLIN** | Dara Seitzman\
+
+      **MAJELLA** | Mia Rudden (she/her)\
+
+      \
+
+      **ALL OTHER ROLES PLAYED BY:**\
+
+      \
+
+      Jacob Foden-Lloyd (he/him)\
+
+      Jess Glaisher (they/them)\
+
+      Amy Hehir Curley (she/her)\
+
+      Ben Hollands (he/him)\
+
+      Chloe Lane (she/her)\
+
+      Annie Lord (she/her)\
+
+      Pearse Murphy (he/him)\
+
+      Catherine Russell (she/her)\
+
+      Beck Thorne\
+
+      Ema-Mae West (she/her)\
+
+      Jamie Wright (he/him)
+
+
+      **CREATIVE TEAM**
+
+
       **DIRECTOR** | Katie Porter (she/her)\
 
       **MUSICAL DIRECTOR** | Oscar Denihan (he/him)\
@@ -67,10 +120,6 @@ Disguised as a cabin boy to stow away on her father’s ship, Grace starts a lif
 With Irish music and dance woven throughout, *The Pirate Queen* asks how far you would go to protect what you love and explores what it is to be trapped by society’s beliefs about gender, culture and tradition.
 
 This is the second time Sedos has had an opportunity to tour a show to the beautiful, open-air [Minack Theatre](https://minack.com/) in Porthcurno, Cornwall. 
-
-**AUDITION FOR *THE PIRATE QUEEN***
-
-Information about [*The Pirate Queen* auditions](https://www.sedos.co.uk/events/the-pirate-queen-auditions) is now live. [Click here for the full audition notice](https://docs.google.com/document/d/1GhpP64QrJwp1yLcmXXqno9vCt6uMC4Gwwto9ViVQ5D4/edit?tab=t.0). 
 
 **MORE FROM THE DIRECTOR**
 

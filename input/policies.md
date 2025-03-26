@@ -14,3 +14,4 @@ RedirectFrom:
 * [Equality, Diversity and Inclusion Policy](assets/policies/2023-12-edi-policy.pdf)
 * [Serious Incident Reporting Policy](assets/policies/2023-03-serious-incident-reporting-policy.pdf)
 * [Complaints Policy](assets/policies/2024-04-complaints-policy.pdf)
+* [Financial Assistance Scheme](assets/policies/financial-assistance-scheme.pdf)

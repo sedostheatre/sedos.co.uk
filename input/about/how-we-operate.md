@@ -1,11 +1,13 @@
 ---
 title: How we operate
-row: 2
-column: 3
+row: 3
+column: 2
 image: /assets/sedosagm2024-committee-trustees-600x300.jpg
 RedirectFrom:
   - aboutus/howweoperate.htm
 ---
+## How we operate
+
 ^^^
 ![](/assets/sedosagm2024.jpg)
 ^^^ Members of the 2024/25 Sedos Trustees and Management Committee along with Sedos members who attended the 2024 Sedos AGM.
@@ -56,7 +58,6 @@ The management committee meets monthly.
 **Chair** | Adrian Hau (he/him)\
 **Production group** | Adam Coppard (he/him)\
 Karen Braganza (she/her)\
-Sorrel Brown (she/her)\
 Paul Caira \
 Sam Ferguson (she/her)\
 Tim Garrad (he/him)\

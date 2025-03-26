@@ -16,7 +16,7 @@ showtime-summary: 23-27 SEPTEMBER 2025
 venue: Bridewell Theatre
 ticket-prices: Tickets from £14 (no booking fee)
 primary-color: "#211e6d"
-header-image: /assets/assasins-holder.jpg
+header-image: /assets/assassins-landscape-reframe.jpg
 header-image-contain: false
 flyer: /assets/assassins-poster-2025.jpg
 box-office-open: true
@@ -28,6 +28,7 @@ sections:
       **DIRECTOR** | Dan Edge (he/him)\
       **MUSICAL DIRECTOR** |  Matt Gould (he/him)\
       **PRODUCTION DESIGNER** | Adrian Jeakins (he/him)\
+      **CHOREOGRAPHER** | Emma Bowker (she/her)\
       **PRODUCER** | Pippa Kyle (she/her)\
       **LIGHTING DESIGNER** | Martin Walton (he/him)\
       **COSTUMES** | Annie Houseago\
@@ -54,14 +55,9 @@ Director Dan Edge said: "I am thrilled to be given the opportunity to present a 
 
 *Assassins* plays at the [Bridewell Theatre](https://www.sedos.co.uk/venues/bridewell) from 17-21 September 2024.
 
-**Seeking a Choreographer**\
-We are seeking a choreographer to join the creative team for *Assassins*. We will be setting the production at an American political convention with a dancing chorus (separate from the ensemble) to support the convention hosts - think Las Vegas, think big smiles, think cheerleaders and pompoms! This is a fantastic opportunity for a choreographer to bring the convention to life as well as helping with the overall musical staging.
+**AUDITIONS:** [*Assassins* auditions](https://www.sedos.co.uk/events/assassins-auditions) information
 
-We will be auditioning in June with rehearsals (Tuesdays/Thursdays and Saturdays) starting in mid-July.
-
-If you are a choreographer interested in joining the team, we'd love to hear from you! Please email [assassins@sedos.co.uk](mailto:assassins@sedos.co.uk)
-
-**Assassins**
+**Assassins**\
 Music and Lyrics by Stephen Sondheim 
 Book by John Weidman
 

@@ -45,6 +45,8 @@ This pressure-cooker story is about the illusion of freedom, the battle for soci
 
 This is the second time Sedos has performed a play by Ibsen, following *[A Doll’s House](https://www.sedos.co.uk/shows/2018-dolls-house)* in January 2018. It is also the second play that Jonny has directed for Sedos, following *[The Effect](https://www.sedos.co.uk/shows/2023-the-effect)* in 2023.
 
+**AUDITIONS:** [*Hedda Gabler* auditions information](https://www.sedos.co.uk/events/hedda-gabler-auditions)
+
 **PAST REVIEWS**
 
 "Dark, bold and devastating. This Hedda is a triumph" – *Mail on Sunday*\

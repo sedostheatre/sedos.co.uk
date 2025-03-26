@@ -54,7 +54,7 @@ sections:
 
       **LEROY EVANS/RADIO TRIO and OTHERS** | Keith Walters (He/Him)\
 
-      **BUS DRIVER 1 & 4/RADIO SOLOIST and OTHRS** | Mark Siddall (He/Him)
+      **BUS DRIVER 1 & 4/RADIO SOLOIST and OTHERS** | Mark Siddall (He/Him)
 
 
       **CREATIVE TEAM**
@@ -65,6 +65,8 @@ sections:
       **MUSICAL DIRECTOR** and **CO-PRODUCER** | Adrian Hau (he/him)\
 
       **ASSISTANT MUSICAL DIRECTOR** | Maria Hallows (she/her)\
+
+      **STAGE MANAGER** | Emma J. Leaver\
 
       **TECHNICAL PRODUCER** and **SOUND DESIGN** | Adam Coppard (he/him)\
 
@@ -102,6 +104,10 @@ metaDescription: Violet, by Jeanine Tesori, Brian Crawley and Brian Crawley, is
 Director Dan Saunders said: "*Violet* is a show with great uplifting music, a diverse cast and lots of scope for play and discovery whilst rehearsing. We hope to create an environment such that the preparation for the run is equally as rewarding and exciting as the run itself. 
 
 “Our ethos is that theatre is a team sport and that when everyone works together, a show can be greater than the sum of its parts, and we can create an experience that is unique and special for cast, crew and audience alike.”
+
+**Content warnings:** the story is set in America, September 1964, where they have just passed the US Civil Rights Act outlawing segreation. 1960s America is still, culturally, changing and moving on from segregated spaces. The story includes discussion of physical disfigurement, themes of racism and racist language, prejudice, discrimination and bias. There are scenes in the story which encourage the misue of alcohol and that portray "GI culture" in the 1960s. The story includes elements of faith and faith healing which may be sensitive for some viewers. The dialogue includes strong language and content (including scenes of intimacy) suited to a mature audience.
+
+**Technical triggers:** this production contains instances of sudden loud noises, haze, smoke and flashing lights. There are no instances of intense "strobe" lighting or simulated firearm noises. 
 
 **SPECIAL OFFER:** book any four (or more) shows in Sedos’ 2025 Bridewell season in one transaction and receive 25% off. The discount will be applied automatically at the [online box office](https://sedos.ticketsolve.com/ticketbooth/shows). Please note we have not yet opened the box office for *Hedda Gabler*, so you may wish to wait and book when that final show is on sale.
 

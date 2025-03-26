@@ -13,7 +13,7 @@ RedirectFrom:
 
 Sedos is a [London amateur theatre](https://sedos.co.uk) company, bringing together people with a passion for the theatre. Spanning a range of ages, backgrounds, professions and personalities, our members enjoy a vibrant and varied Sedos life both on and off stage.
 
-Membership fees are £30 a year if paid by direct debit, £40 otherwise. We would always be open to a discussion with anyone who found our membership fee a barrier to participation.
+Membership fees are £30 a year if paid by direct debit, £40 otherwise. We would always be open to a discussion with anyone who found our membership fee a barrier to participation and we also offer a [Financial Assistance Scheme](https://www.sedos.co.uk/about/financial-assistance-scheme) for those in need. 
 
 **If you’d like to find out more about joining Sedos please email [membership@sedos.co.uk](mailto:membership@sedos.co.uk) for more details, and our membership secretary will be happy to get back to you or visit [membership.sedos.co.uk](https://membership.sedos.co.uk) to join.**
 
@@ -29,7 +29,7 @@ Sedos seeks to build and sustain a membership that is reflective of the diverse 
 
 All performers and core production team members (directors, musical directors, choreographers and producers) must be members of Sedos. All cast members also pay a participation fee of £80-120, depending on whether the show is a play or musical and whether there are one or two weeks of performances.
 
-We would always be open to a discussion with anyone who found our membership or participation fees a barrier to taking part.
+We would always be open to a discussion with anyone who found our membership or participation fees a barrier to taking part and we also offer a [Financial Assistance Scheme](https://www.sedos.co.uk/about/financial-assistance-scheme) for those in need.
 
 **Find out what’s going on**
 
