@@ -47,13 +47,13 @@ sections:
       **DYNAMITE** | Anoä-Kanelle Calpas (she/they)\
       **DYNAMITE** | Jamie-lee Lee Grant (she/her)\
       **DYNAMITE** | Mary Briggs\
+      **ENSEMBLE** | Aimée Adesina (she/her)\
       **ENSEMBLE** | Barbara Orti (she/her)\
       **ENSEMBLE** | Blythe Ward (she/her)\
       **ENSEMBLE** | Callum Elson (he/him)\
       **ENSEMBLE** | Ella Carter (she/her)\
       **ENSEMBLE** | Emily Bampoe (she/her)\
       **ENSEMBLE** | Jack Pusey (he/him)\
-      **ENSEMBLE** | Kaya Minton (she/her)\
       **ENSEMBLE** | Ruben Ondo Mesa (he/him)\
       **ENSEMBLE** | Stephen McLoughlin\
       **ENSEMBLE** | Tesh Samuel\
