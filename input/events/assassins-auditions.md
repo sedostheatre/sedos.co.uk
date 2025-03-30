@@ -3,7 +3,6 @@ title: Assassins auditions
 times:
   - time: 2025-05-01 19:00
   - time: 2025-05-25 12:00
-  - time: 2025-06-10 19:00
 image: /assets/assassins-title-face-landscape-fb.jpg
 imageAlt: Assassins auditions
 recurrence: Workshop 1 May; self-tape deadline 25 May
