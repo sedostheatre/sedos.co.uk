@@ -36,7 +36,7 @@ Our version of *Assassins* takes us away from the traditional fairground setting
 
 We are looking for a cast of 22, broken down as follows:
 
-2 x balladeers (the convention hosts) – the Balladeer role will be split between the two “hosts” and will also combine the Proprietor role.  We are open to actors of all genders performing as the convention hosts.
+2 x balladeers (the convention hosts) – the Balladeer role will be split between the two “hosts” and will also combine the Proprietor role. We are open to actors of all genders performing as the convention hosts.
 
 9 x assassins 
 
