@@ -30,7 +30,7 @@ Do check out the audition notice even if you know the show well – our concept 
 
 The show combines Sondheim’s signature blend of intelligently stunning lyrics and beautiful music with a panoramic story of our culture of celebrity and the violent means some will use to obtain it, embodied by America's four successful and five would-be presidential assassins. Bold, original, disturbing, and alarmingly funny, *Assassins* has never been more relevant in these turbulent political times.
 
-Our version of *Assassins* takes us away from the traditional fairground setting and relocates us to an American political convention – AmeriCon. Political conventions are at their heart about being chosen and celebrated by the masses. They are opportunities for political and public figures to get up and pitch why you should choose them, to tell their story, to be the centre of attention for a primetime moment – essentially, why their way is right, and any other way is wrong. This is what our assassins crave, for people to understand and celebrate why they did what they did. \
+Our version of *Assassins* takes us away from the traditional fairground setting and relocates us to an American political convention – AmeriCon. Political conventions are at their heart about being chosen and celebrated by the masses. They are opportunities for political and public figures to get up and pitch why you should choose them, to tell their story, to be the centre of attention for a primetime moment – essentially, why their way is right, and any other way is wrong. This is what our assassins crave, for people to understand and celebrate why they did what they did. 
 
 **WHAT WE ARE LOOKING FOR**
 
@@ -52,11 +52,11 @@ Across the entire cast there are opportunities for actors of all ages, ethniciti
 
 We intend to pursue non-traditional casting, so all roles in Assassins are open to actors of all ethnicities, except  John Wilkes Booth, whose Confederate allegiance and opposition to the abolition of slavery were key factors in his assassination of Abraham Lincoln, so it would feel inappropriate and confusing for a non-white actor to play this role.
 
-Playing age and gender presentation requirements for all roles are detailed in the breakdown at the bottom of this notice. 
+Playing age and gender presentation requirements for all roles are detailed in the breakdown in the [audition notice](https://docs.google.com/document/d/1rKDpC4T8sxlielJKdqhDQDJT7ACg2a8Ex3MVxV-pyLQ/edit?tab=t.0). 
 
 With regard to the assassins, the characters’ lived experience was a contributing factor to their motive so we will be casting actors who present as the traditional gender presentation. Anyone can audition for any role, provided they are comfortable portraying that gender.  
 
-There are no strict gender presentation requirements for the balladeer/proprietor (but please see the role breakdown as to how we are intending to portraying those roles), the ensemble and dancing chorus, but we will be looking to create a balanced cast.  We are not intending to double the balladeer and Lee Harvey Oswald (see role breakdown).
+There are no strict gender presentation requirements for the balladeer/proprietor (but please see the role breakdown as to how we are intending to portraying those roles), the ensemble and dancing chorus, but we will be looking to create a balanced cast.  We are not intending to double the balladeer and Lee Harvey Oswald (see role breakdown in the notice).
 
 We will not be transposing any vocal lines (other than potentially changing the octave). 
 
