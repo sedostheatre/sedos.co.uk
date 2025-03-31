@@ -43,8 +43,6 @@ There are no moments of physical intimacy in the text, however, cast members wil
 
 ### [FULL AUDITION NOTICE](https://drive.google.com/drive/folders/11FZflMBUb9v1SGprwrszhoUtu01TknXL)
 
-**DIVERSITY AND INCLUSION** 
-
 **WHAT TO DO NOW**
 
 * Read the [full audition notice](https://drive.google.com/file/d/1BT3Klm9WpawlT2rjrIsEq3obQDfpDZwK/view)
