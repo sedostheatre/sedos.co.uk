@@ -11,7 +11,7 @@ metaDescription: Find out how to stand for election to become a Sedos Trustee or
 
 **Would you like to stand for the Sedos Board of Trustees or the Management Committee? Find out more below.**
 
-Sedos elections
+**Sedos elections**
 
 The AGM on 29 May 2024 from 7pm in the Passmore Edwards room at the St Bride’s Institute (above the [Bridewell Theatre](https://www.sedos.co.uk/venues/bridewell)) is a chance for members to:
 
