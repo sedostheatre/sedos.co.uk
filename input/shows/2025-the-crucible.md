@@ -15,7 +15,7 @@ showtime-summary: 16-20 SEPTEMBER 2025
 venue: Bridewell Theatre
 ticket-prices: Tickets from £12.50 (no booking fee)
 primary-color: "#770e0a"
-header-image: /assets/the-crucible-holder-v2.jpg
+header-image: /assets/cruciblewebsiteimage1.png
 header-image-contain: false
 flyer: /assets/crucible-poster-2025.jpg
 box-office-open: true
