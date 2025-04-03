@@ -83,7 +83,6 @@ Once elected, the Management Committee meet monthly. While there are no constitu
 * Marketing group lead
 * Production group lead
 * Membership group lead
-* Rehearsal room co-ordinator
 * Committee liaisons for productions
 * Bridewell liaison
 * IT manager
