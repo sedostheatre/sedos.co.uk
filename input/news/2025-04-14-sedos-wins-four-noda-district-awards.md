@@ -9,7 +9,7 @@ metaDescription: "The Color Purple, Richard III and Sunday in the Park with
 ---
 *14 April 2025*
 
-**Sedos has won four** **National Operatic and Dramatic Asssociation (NODA) awards for our 2024 shows.** 
+**Sedos has won four** **National Operatic and Dramatic Association (NODA) awards for our 2024 shows.** 
 
 These awards are for shows between April 2024 and January 2025. All district winners are eligible to be considered for the regional awards which will be presented, along with the district winner certificates, on Sunday 22 June at The Radlett Centre as part of the NODA London AGM and Celebration Day.
 
