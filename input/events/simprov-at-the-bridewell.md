@@ -2,6 +2,7 @@
 title: Simprov perform across London
 times:
   - time: 2025-04-29 19:30
+  - time: 2025-05-19 20:00
   - time: 2025-06-17 19:30
 image: /assets/simprov-july-24-5.jpg
 venue: ""
@@ -17,11 +18,16 @@ The improv team have a number of gigs coming up across London which are sure to 
 **Tuesday 29 April**  | 7.30pm\
 Hoopla Impro at The Miller\
 *96 Snowsfields, London SE1 3SS*\
-[www.hooplaimpro.com](https://www.hooplaimpro.com)| [Tickets](https://www.eventbrite.co.uk/e/hoopla-the-mixer-tickets-1296012561459)
+[www.hooplaimpro.com](https://www.hooplaimpro.com)| [Tickets](https://www.eventbrite.co.uk/e/hoopla-the-mixer-tickets-1296012561459)\
+\
+**Monday 19 May** | 8pm\
+DuckDuckGoose Improv\
+*[Hope & Anchor](https://www.hopeandanchorbrixton.co.uk/), 123 Acre Lane Brixton, SW2 5UA*\
+[www.ddgimprov.com](https://www.ddgimprov.com)
 
 **Tuesday 17 June** | 7.30pm-8.45pm\
 StageTime at Shoreditch Balls\
-333 Old St, London EC1V 9LE\
+*333 Old St, London EC1V 9LE*\
 [www.shoreditchballs.com/shows](https://www.shoreditchballs.com/shows)
 
 Come on down to one of the events and get a whiff of all the incredible talent that's been hiding right under your nose. 
