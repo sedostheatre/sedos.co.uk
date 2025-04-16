@@ -1,9 +1,16 @@
 ---
 title: The Crucible auditions
+times:
+  - time: 2025-05-17 12:00
+  - time: 2025-06-12 19:00
+  - time: 2025-06-13 19:00
+  - time: 2025-06-14 12:00
+  - time: 2025-06-16 19:00
+  - time: 2025-06-21 12:00
 image: /assets/crucibleauditionevent.png
 imageAlt: The Crucible auditions
 venue: Theatre Deli
-recurrence: Workshop 17 May; auditions 11, 12, 13, 14, 16 and 21 June
+recurrence: Workshop 17 May; auditions 12, 13, 14, 16 and 21 June
 metaTitle: The Crucible auditions for Sedos’ 2025 production
 metaDescription: Find out how to take part in The Crucible auditions, for a
   production in London in September 2025
@@ -13,7 +20,7 @@ Registration is now open for *[The Crucible](https://www.sedos.co.uk/shows/2025-
 **KEY DATES**
 
 **Pre-audition workshop:** 17 May at [Theatre Deli Leadenhall Studios](https://www.sedos.co.uk/venues/theatre-deli) ([sign up here](https://membership.sedos.co.uk/signup/140))\
-**Auditions:** 11, 12, 13, 14, 16 and 21 June at [Theatre Deli Leadenhall Studios](https://www.sedos.co.uk/venues/theatre-deli) ([sign up here](https://membership.sedos.co.uk/signup/141))\
+**Auditions:** 12, 13, 14, 16 and 21 June at [Theatre Deli Leadenhall Studios](https://www.sedos.co.uk/venues/theatre-deli) ([sign up here](https://membership.sedos.co.uk/signup/141))\
 **Recalls (by invitation):** 28 June at [Theatre Deli Leadenhall Studios](https://www.sedos.co.uk/venues/theatre-deli)\
 **Rehearsals:** July - September in Zones 1 and 2
 
