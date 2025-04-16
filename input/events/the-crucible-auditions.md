@@ -44,7 +44,7 @@ We want this version of *The Crucible* to give the audience that helpless sense 
 
 ### [FULL AUDITION NOTICE](https://drive.google.com/drive/folders/1qQbYkRCXY0rLcWfYvUUXwsP4GRagtKfW)
 
-**WHAT TO DO NOW**
+**THE CRUCIBLE AUDITIONS: WHAT TO DO NOW**
 
 * Read the [full audition notice](https://drive.google.com/drive/folders/1qQbYkRCXY0rLcWfYvUUXwsP4GRagtKfW)
 * [Sign up for the workshop](https://membership.sedos.co.uk/signup/140)
