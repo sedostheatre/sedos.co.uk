@@ -13,7 +13,7 @@ metaDescription: Find out how to stand for election to become a Sedos Trustee or
 
 **Sedos elections**
 
-The AGM on 29 May 2024 from 7pm in the Passmore Edwards room at the St Bride’s Institute (above the [Bridewell Theatre](https://www.sedos.co.uk/venues/bridewell)) is a chance for members to:
+The AGM on 29 May 2025 from 7pm in the Passmore Edwards room at the St Bride’s Institute (above the [Bridewell Theatre](https://www.sedos.co.uk/venues/bridewell)) is a chance for members to:
 
 * Hear a report from the chair of the Board of Trustees (Matt Gould) and chair of the Management Committee (Adrian Hau) regarding the financial year ending 31 December 2024;
 * Hear about upcoming plans for the society;
