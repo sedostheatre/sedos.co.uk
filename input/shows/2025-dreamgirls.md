@@ -56,7 +56,7 @@ Director David Gregory commented: “*Dreamgirls i*s everything you want from a 
 
 **Content warnings:** Mild adult themes.
 
-**SPECIAL OFFER:** book any four (or more) shows in Sedos’ 2025 Bridewell season in one transaction and receive 25% off. The discount will be applied automatically at the [online box office](https://sedos.ticketsolve.com/ticketbooth/shows). Please note we have not yet opened the box office for *Hedda Gabler*, so you may wish to wait and book when that final show is on sale.
+**SPECIAL OFFER:** book any four (or more) shows in Sedos’ 2025 Bridewell season in one transaction and receive 25% off. The discount will be applied automatically at the [online box office](https://sedos.ticketsolve.com/ticketbooth/shows). 
 
 *Dreamgirls* plays at the [Bridewell Theatre](https://www.sedos.co.uk/venues/bridewell) from 19-29 November 2025.
 
