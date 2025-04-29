@@ -54,7 +54,7 @@ The trio, ‘The Dreams’, must learn the tough lesson that show business and s
 
 Director David Gregory commented: “*Dreamgirls i*s everything you want from a musical: memorable music, unparalleled vocals, emotional storytelling, dazzling costumes, spectacular dance. It has earned its iconic status in musical theatre for good reason. I’m thrilled to be able to help bring that to the Sedos stage. It’ll be one of the most intimate and up close productions of *Dreamgirls* you’ll see! Just dream… and we’ll be there!”
 
-**Content warnings:** Mild adult themes.
+**Content warnings:** mild adult themes.
 
 **SPECIAL OFFER:** book any four (or more) shows in Sedos’ 2025 Bridewell season in one transaction and receive 25% off. The discount will be applied automatically at the [online box office](https://sedos.ticketsolve.com/ticketbooth/shows). 
 
