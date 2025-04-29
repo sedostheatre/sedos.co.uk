@@ -59,6 +59,8 @@ This is the second time Sedos has performed a play by Ibsen, following *[A Doll�
 
 *Hedda Gabler* plays at the [Bridewell Theatre](https://sbf.org.uk/whats-on/category/theatre/) from 8-12 July 2025. The box office will open soon. 
 
-**Content warnings:** Contains strong language, references and depictions of suicide, mentions of rape and the use of a replica firearm.
+**Content warnings:** contains strong language, references and depictions of suicide, mentions of rape and the use of a replica firearm.
+
+**SPECIAL OFFER:** book any four (or more) shows in Sedos’ 2025 Bridewell season in one transaction and receive 25% off. The discount will be applied automatically at the [online box office](https://sedos.ticketsolve.com/ticketbooth/shows). 
 
 This amateur production of *Hedda Gabler*, in a version by Patrick Marber, is presented by arrangement with Concord Theatricals Ltd. on behalf of Samuel French Ltd. [www.concordtheatricals.co.uk](https://www.concordtheatricals.co.uk/)
