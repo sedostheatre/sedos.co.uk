@@ -33,6 +33,7 @@ sections:
       **LIGHTING DESIGNER** | Martin Walton (he/him)\
       **COSTUMES** | Annie Houseago\
       **MARKETING** | Stephen Beeny\
+      **PHOTOGRAPHER** | David Ovenden (he/him)\
       **COMMITTEE LIAISON** | Emma Miller (she/her)
 metaTitle: Assassins, by Stephen Sondheim and John Weidman, plays at the
   Bridewell Theatre from 23-27 September 2025
@@ -51,7 +52,7 @@ Director Dan Edge said: "I am thrilled to be given the opportunity to present a 
 
 **Content warnings:** The show includes scenes of and references to violence, including guns and gunshots, death, suicide and strong language. Recommended for ages 15+.
 
-**SPECIAL OFFER:** book any four (or more) shows in Sedos’ 2025 Bridewell season in one transaction and receive 25% off. The discount will be applied automatically at the [online box office](https://sedos.ticketsolve.com/ticketbooth/shows). Please note we have not yet opened the box office for *Hedda Gabler*, so you may wish to wait and book when that final show is on sale.
+**SPECIAL OFFER:** book any four (or more) shows in Sedos’ 2025 Bridewell season in one transaction and receive 25% off. The discount will be applied automatically at the [online box office](https://sedos.ticketsolve.com/ticketbooth/shows). 
 
 *Assassins* plays at the [Bridewell Theatre](https://www.sedos.co.uk/venues/bridewell) from 17-21 September 2024.
 
