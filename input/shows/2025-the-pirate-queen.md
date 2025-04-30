@@ -67,7 +67,7 @@ sections:
       **ASSISTANT STAGE MANAGER** | Andrew Laidlaw (he/him)\
       **ASSISTANT STAGE MANAGER/SOUND NUMBER 2** | Ben Hussey (he/him)\
       **SHOW IMAGE** | Mayfire Design\
-      **COMMITTEE LIAISONS** | Olly Levett (he/him) and Thomas Riggs (he/him)
+      **COMMITTEE LIAISON** | Paul Caira
 RedirectFrom: []
 metaTitle: The Pirate Queen, an epic musical adventure from the writers of Les
   Misérables and Miss Saigon, plays at the Minack Theatre, Cornwall, from 30
