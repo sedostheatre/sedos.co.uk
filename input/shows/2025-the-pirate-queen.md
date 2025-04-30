@@ -24,84 +24,49 @@ box-office-link: https://www.minack.com/performances_modal/186602
 sections:
   - order: 1
     title: CAST & CREATIVE TEAM
-    body: >-
+    body: |-
       **CAST**
 
-
       **GRACE O’MALLEY** | Elysia Boyle (they/she)\
-
       **TIERNAN** | Phil Raymond (he/him)\
-
       **QUEEN ELIZABETH I** Amy Foden-Lloyd (she/her)\
-
       **DUBHDARA O'MALLEY** | Stephen Beeny\
-
       **RICHARD BINGHAM** | Sean Anderson (he/him)\
-
       **DOMHNALL O'FLAHERTY** | Alex Dehn (he/him)\
-
       **CHIEFTAIN O'FLAHERTY** | Tim Garrad\
-
       **EIBHLIN** | Dara Seitzman\
-
       **MAJELLA** | Mia Rudden (she/her)\
-
       \
-
       **ALL OTHER ROLES PLAYED BY:**\
-
       \
-
       Jacob Foden-Lloyd (he/him)\
-
       Jess Glaisher (they/them)\
-
       Amy Hehir Curley (she/her)\
-
       Ben Hollands (he/him)\
-
       Chloe Lane (she/her)\
-
       Annie Lord (she/her)\
-
       Pearse Murphy (he/him)\
-
       Catherine Russell (she/her)\
-
       Beck Thorne\
-
       Ema-Mae West (she/her)\
-
       Jamie Wright (he/him)
-
 
       **CREATIVE TEAM**
 
-
       **DIRECTOR** | Katie Porter (she/her)\
-
       **MUSICAL DIRECTOR** | Oscar Denihan (he/him)\
-
       **CHOREOGRAPHER** | Amber Frizzell (she/her)\
-
       **PRODUCERS** | Lizzie Levett (she/her) and Pippa Kyle (she/her)\
-
       **ASSISTANT MUSICAL DIRECTOR** | Ollie Jones (he/him)\
-
       **LIGHTING DESIGNER** | Olly Levett (he/him)\
-
       **SOUND DESIGNER** | Adam Coppard (he/him)\
-
       **COSTUMES** | Clare Harding (she/her)\
-
-      **SET DESIGNER** | George Langdown (he/him)\
-
+      **SET DESIGN and REALISATION** | George Langdown (he/him)\
       **STAGE MANAGER** | Shiri Stern (she/her)\
-
-      **CREW** | Ben Hussey (he/him), Ruth Luckins (she/they) and Andrew Laidlaw (he/him)\
-
+      **ASSISTANT LIGHTING DESIGNER** | Ruth Luckins (she/they) \
+      **ASSISTANT STAGE MANAGER** | Andrew Laidlaw (he/him)\
+      **ASSISTANT STAGE MANAGER/SOUND NUMBER 2** | Ben Hussey (he/him)\
       **SHOW IMAGE** | Mayfire Design\
-
       **COMMITTEE LIAISONS** | Olly Levett (he/him) and Thomas Riggs (he/him)
 RedirectFrom: []
 metaTitle: The Pirate Queen, an epic musical adventure from the writers of Les
