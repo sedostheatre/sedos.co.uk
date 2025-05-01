@@ -25,12 +25,12 @@ sections:
     body: |-
       **CAST**
 
-      **HEDDA |** Jamila Jennings-Grant\
-      **TESMAN |** Charlie O’Reardon\
-      **BRACK |** Richard Evans\
-      **THEA |** Sarah Berryman\
-      **LOVBORG |** Ricky Pancholi\
-      **JULIANA |** Jeryl Burgess\
+      **HEDDA |** Jamila Jennings-Grant (she/her)\
+      **TESMAN |** Charlie O’Reardon (he/him)\
+      **BRACK |** Richard Evans (he/him)\
+      **THEA |** Sarah Berryman (she/her)\
+      **LOVBORG |** Ricky Pancholi (he/him)\
+      **JULIANA |** Jeryl Burgess (she/her)\
       **BERTE |** Ingrid Miller
 
       **CREATIVE TEAM**\
