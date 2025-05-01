@@ -21,8 +21,20 @@ box-office-open: true
 box-office-link: https://sedos.ticketsolve.com/ticketbooth/shows/1173664003
 sections:
   - order: 1
-    title: CREATIVE TEAM
+    title: CAST & CREATIVE TEAM
     body: |-
+      **CAST**
+
+      **HEDDA |** Jamila Jennings-Grant\
+      **TESMAN |** Charlie O’Reardon\
+      **BRACK |** Richard Evans\
+      **THEA |** Sarah Berryman\
+      **LOVBORG |** Ricky Pancholi\
+      **JULIANA |** Jeryl Burgess\
+      **BERTE |** Ingrid Miller
+
+      **CREATIVE TEAM**\
+      \
       **DIRECTOR** | Jonny Harding-Cooper (he/him)\
       **CO-PRODUCER** | Ben Hussey (he/him)\
       **CO-PRODUCER** | Adam Coppard (he/him)\
