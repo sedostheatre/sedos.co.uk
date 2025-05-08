@@ -52,7 +52,7 @@ Widely considered a cornerstone of modern theatre, *Hedda Gabler* is a canonised
 
 Hedda is stifled in a world of sterile perfection and suffocating expectations, but beneath the surface, she is a powder keg of desire and defiance. When an old flame resurfaces with everything she’s been denied - passion, purpose, power - Hedda spirals into a game of seduction and sabotage.
 
-In this retelling, Henrik Ibsen's work has been channelled through the mind of Patrick Marber, giving the story an accessible lens for modern-day audiences. Gone are the ruffs, corsets and bluster. In this gladiatorial reimagining, we are left with nothing but seven actors on a stage - but not everyone will come out alive. 
+In this retelling, Henrik Ibsen's work has been channelled through the mind of Patrick Marber, making the story approachable for modern-day audiences. Gone are the ruffs, corsets and bluster. In this gladiatorial reimagining, we are left with nothing but seven actors on a stage - but not everyone will come out alive. 
 
 This pressure-cooker story is about the illusion of freedom, the battle for social superiority, and the unbearable burden of losing control.
 
