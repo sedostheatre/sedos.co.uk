@@ -65,15 +65,18 @@ sections:
       **DIRECTOR** | Taylor Davidson (she/her)\
       **MUSICAL DIRECTOR** | George Wheatley (she/her)\
       **CHOREOGRAPHER** | Bailey Edwards (she/her)\
-      **PRODUCER** | Ben Hussey (he/him)\
+      **PRODUCER & STAGE MANAGER** | Ben Hussey (he/him)\
       **MARKETING** | Emma Miller (she/her)\
       **LIGHTING DESIGN** | Will Lake (he/him)\
       **SOUND DESIGN** | Pranav Mahesh (he/him)\
+      **SOUND TEAM** | Adam Coppard and Ella Horne\
       **COSTUME DESIGN** | Anita Hammerton-Reid (she/her)\
       **HAIR/WIG DESIGN** | Candice Zen (she/her)\
       **SET DESIGN** | Ella Cerys Mae (she/her)\
       **SET REALISATION** | Adam Lockett\
-      **PROPS** | Amy Greenall\
+      **PROPS & ASST STAGE MANAGER** | Amy Greenall\
+      **ASSISTANT STAGE MANAGERS** | Rebecca Lillie, Rebecca Maynard and Ore Aiyesimoju\
+      **PRODUCTION PHOTOGRAPHY** | Justine Matthew\
       **COMMITTEE LIAISONS** | Tim Garrad (he/him) and Karen Braganza (she/her)
     title: CAST & CREATIVE TEAM
   - order: 1
