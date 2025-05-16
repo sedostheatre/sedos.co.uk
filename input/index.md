@@ -19,7 +19,7 @@ carouselFooter: >-
 
   * We want our people to feel **empowered**, giving them the platforms and the tools to be **bold**, take risks, and **innovate**.
 
-  * We want to be **ambitious** in our pursuit of creating **high quality** theatre, and our desire to continuously improve as a society.
+  * We want to be **ambitious** in our pursuit of creating **high quality** theatre, and our desire to continuously improve as a society. 
 
 
   The [Sedos values](https://www.sedos.co.uk/news/2022-12-15-sedos-values) help guide the society’s decision making, how we behave and interact with each other, and how we represent ourselves to the London theatre community and beyond - both as a reflection of who Sedos are, and who we aspire to be.
