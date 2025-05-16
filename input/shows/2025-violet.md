@@ -91,6 +91,17 @@ sections:
       ![](/assets/violet-flyer-front-final-800.jpg)
 
       ![](/assets/flyer-back-final-v2-800.jpg)
+  - order: 2
+    title: REVIEWS
+    body: >-
+      >Sedos have once again succeeded in putting on a touching show with
+      exceptional acting across the board and one that deals with important
+      themes sensitively. This was a wonderful chance to see a relatively
+      unknown musical in an intimate venue which is perfect for this show and
+      yet another shining example of how wonderful amateur theatre can be when
+      done right!!!
+
+      ><footer><cite><a target="_blank" href="https://musicaltheatremusings.co.uk/violet-sedos">Violet, 2025, Musical Theatre Musings</a></cite></footer>
 metaTitle: Violet, by Jeanine Tesori, Brian Crawley and Brian Crawley, plays at
   the Bridewell Theatre from 25-29 March 2025
 metaDescription: Violet, by Jeanine Tesori, Brian Crawley and Brian Crawley, is
