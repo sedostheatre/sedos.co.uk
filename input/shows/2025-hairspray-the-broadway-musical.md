@@ -28,55 +28,100 @@ box-office-open: true
 box-office-link: https://sedos.ticketsolve.com/ticketbooth/shows/1173660212/events/428695941
 sections:
   - order: 1
-    body: |-
+    body: >-
       **CAST**
 
+
       **TRACY TURNBLAD** | Lucy Dickson (she/her)\
+
       **CORNY COLLINS** | Josh Yeardley (he/him)\
+
       **EDNA TURNBLAD** | Sean MacFarlane (he/him)\
+
       **PENNY PINGLETON** | Sophie Bass\
+
       **VELMA VON TUSSLE** | Lauren Clarke (she/her)\
+
       **AMBER VON TUSSLE** | Bex Evans (she/her)\
+
       **LINK LARKIN** | Buddy Jack Jefferies (he/him)\
+
       **SEAWEED J. STUBBS** | Kenneth Ojiji (he/him)\
+
       **LITTLE INEZ** | Oyin Kotun (she/her)\
+
       **MOTORMOUTH MAYBELLE** | Melissa Boateng (she/they)\
+
       **WILBUR TURNBLAD** | Ross McNeil\
+
       **PRUDY PINGLETON** | Helen Parsons (she/her)\
+
       **MR. PINKY** | Joe Brown (he/they)\
+
       **DYNAMITE** | Anoä-Kanelle Calpas (she/they)\
+
       **DYNAMITE** | Jamie-lee Lee Grant (she/her)\
+
       **DYNAMITE** | Mary Briggs\
+
       **ENSEMBLE** | Aimée Adesina (she/her)\
+
       **ENSEMBLE** | Barbara Orti (she/her)\
+
       **ENSEMBLE** | Blythe Ward (she/her)\
+
       **ENSEMBLE** | Callum Elson (he/him)\
+
       **ENSEMBLE** | Ella Carter (she/her)\
+
       **ENSEMBLE** | Emily Bampoe (she/her)\
+
       **ENSEMBLE** | Jack Pusey (he/him)\
+
       **ENSEMBLE** | Ruben Ondo Mesa (he/him)\
+
       **ENSEMBLE** | Stephen McLoughlin\
+
       **ENSEMBLE** | Tesh Samuel\
+
       **ENSEMBLE** | Tommy Riggs\
+
       **ENSEMBLE** | Yasmin Hazemi (she/her)
+
 
       **CREATIVE TEAM**
 
+
       **DIRECTOR** | Taylor Davidson (she/her)\
+
       **MUSICAL DIRECTOR** | George Wheatley (she/her)\
+
       **CHOREOGRAPHER** | Bailey Edwards (she/her)\
+
       **PRODUCER & STAGE MANAGER** | Ben Hussey (he/him)\
+
       **MARKETING** | Emma Miller (she/her)\
+
       **LIGHTING DESIGN** | Will Lake (he/him)\
+
       **SOUND DESIGN** | Pranav Mahesh (he/him)\
+
       **SOUND TEAM** | Adam Coppard and Ella Horne\
+
       **COSTUME DESIGN** | Anita Hammerton-Reid (she/her)\
+
       **HAIR/WIG DESIGN** | Candice Zen (she/her)\
+
       **SET DESIGN** | Ella Cerys Mae (she/her)\
+
       **SET REALISATION** | Adam Lockett\
+
       **PROPS & ASST STAGE MANAGER** | Amy Greenall\
+
       **ASSISTANT STAGE MANAGERS** | Rebecca Lillie, Rebecca Maynard and Ore Aiyesimoju\
+
       **PRODUCTION PHOTOGRAPHY** | Justine Matthew\
+
       **COMMITTEE LIAISONS** | Tim Garrad (he/him) and Karen Braganza (she/her)
     title: CAST & CREATIVE TEAM
   - order: 1
@@ -85,6 +130,9 @@ sections:
       ![](/assets/hairsprayflyerfront-1-800.jpg)
 
       ![](/assets/hairsprayflyerback-800.png)
+  - order: 3
+    title: VIDEO
+    body: <div class="video-responsive"><?# YouTube BwLluJnEF84 /?></div>
 metaTitle: Hairspray plays at the Bridewell Theatre from 7-17 May 2025
 metaDescription: Hairspray is the big, bold and beautiful musical you’ve been
   waiting for! It is part of Sedos’ 2025 season and plays at the Bridewell
