@@ -11,7 +11,19 @@ RedirectFrom:
 
 # 2025
 
-## *Violet*
+# *Hairspray*
+
+^^^
+![Dress rehearsal image of Hairspray](/assets/496488760_18348358657153656_1706900332093596821_n-1-.jpg)
+^^^ Hairspray
+
+>Sedos’ production Hairspray gives you everything you could want in a show, bursting with heart, songs you come away singing and a cast that embody their characters brilliantly. You certainty can’t stop the beat with this show…..and why would I want to try!
+><footer><cite><a target="_blank" href="https://musicaltheatremusings.co.uk/hairspray-sedos">Hairspray, 2025, Musical Theatre Musings</a></cite></footer>
+
+>A highly expressive and lively production. You know an amateur dramatics society is doing something right when it puts on something more enjoyable than some of the shows on West End stages at the moment.
+><footer><cite><a target="_blank" href="https://www.londontheatre1.com/reviews/hairspray-bridewell-theatre-review/">Hairspray, 2025, London Theatre 1 (****)</a></cite></footer>
+
+# *Violet*
 
 ^^^
 ![Dress rehearsal image of Violet](/assets/54423063109_ab5b490c32_c.jpg)
