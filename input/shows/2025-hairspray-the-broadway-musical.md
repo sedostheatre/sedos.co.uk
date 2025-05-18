@@ -133,6 +133,20 @@ sections:
   - order: 3
     title: VIDEO
     body: <div class="video-responsive"><?# YouTube BwLluJnEF84 /?></div>
+  - order: 4
+    title: REVIEWS
+    body: >-
+      >Sedos’ production Hairspray gives you everything you could want in a
+      show, bursting with heart, songs you come away singing and a cast that
+      embody their characters brilliantly. You certainty can’t stop the beat
+      with this show…..and why would I want to try!
+
+      ><footer><cite><a target="_blank" href="https://musicaltheatremusings.co.uk/hairspray-sedos">Hairspray, 2025, Musical Theatre Musings</a></cite></footer>
+
+
+      >A highly expressive and lively production. You know an amateur dramatics society is doing something right when it puts on something more enjoyable than some of the shows on West End stages at the moment.
+
+      ><footer><cite><a target="_blank" href="https://www.londontheatre1.com/reviews/hairspray-bridewell-theatre-review/">Hairspray, 2025, London Theatre 1 (****)</a></cite></footer>
 metaTitle: Hairspray plays at the Bridewell Theatre from 7-17 May 2025
 metaDescription: Hairspray is the big, bold and beautiful musical you’ve been
   waiting for! It is part of Sedos’ 2025 season and plays at the Bridewell
