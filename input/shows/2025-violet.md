@@ -91,7 +91,7 @@ sections:
       ![](/assets/violet-flyer-front-final-800.jpg)
 
       ![](/assets/flyer-back-final-v2-800.jpg)
-  - order: 3
+  - order: 5
     title: REVIEWS
     body: >-
       >Sedos have once again succeeded in putting on a touching show with
@@ -102,6 +102,27 @@ sections:
       done right!
 
       ><footer><cite><a target="_blank" href="https://musicaltheatremusings.co.uk/violet-sedos">Violet, 2025, Musical Theatre Musings</a></cite></footer>
+  - order: 3
+    title: GALLERY
+    body: >-
+      <a data-flickr-embed="true"
+      href="https://www.flickr.com/photos/sedos/albums/72177720324810519"
+      title="Violet - Production 2025"><img
+      src="https://live.staticflickr.com/65535/54422864681_05253cfd39_h.jpg"
+      width="1600" height="1200" alt="Violet - Production 2025"/></a><script
+      async src="//embedr.flickr.com/assets/client-code.js"
+      charset="utf-8"></script>
+
+
+      <a data-flickr-embed="true" href="https://www.flickr.com/photos/sedos/albums/72177720324810614" title="Violet - Rehearsals - 2025"><img src="https://live.staticflickr.com/65535/54422869296_90e62907e1_h.jpg" width="1600" height="1200" alt="Violet - Rehearsals - 2025"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+  - order: 4
+    title: VIDEO
+    body: |-
+      <div class="video-responsive"><?# YouTube rh1pYyDwGxI /?></div>
+
+      <div class="video-responsive"><?# YouTube b0UlOTjTvs4 /?></div>
+
+      <div class="video-responsive"><?# YouTube P10IX3xwEBM /?></div>
 metaTitle: Violet, by Jeanine Tesori, Brian Crawley and Brian Crawley, plays at
   the Bridewell Theatre from 25-29 March 2025
 metaDescription: Violet, by Jeanine Tesori, Brian Crawley and Brian Crawley, is
