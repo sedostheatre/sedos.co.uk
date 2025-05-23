@@ -8,7 +8,7 @@ times:
   - time: 2025-07-20 10:00
 image: /assets/dreamgirlsimage.jpg
 imageAlt: Dreamgirls auditions
-recurrence: Workshops June May, auditions 17, 19 and 20 July
+recurrence: Workshops 21 June, auditions 17, 19 and 20 July
 metaTitle: Dreamgirls auditions
 metaDescription: Information about Dreamgirls auditions, for Sedos’ production in November 2025
 ---
@@ -63,6 +63,6 @@ Still not sure about auditioning? We will be running a pre-audition workshop, wh
 
 Read the [full audition notice](https://www.sedos.co.uk/dreamgirls-auditions) for details on how to sign up.\
 \
-MORE AUDITIONS
+**MORE AUDITIONS**
 
 More info on all Sedos’ [London auditions](https://www.sedos.co.uk/get-involved).
