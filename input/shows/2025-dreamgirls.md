@@ -32,7 +32,7 @@ sections:
     body: |-
       **DIRECTOR** | David Gregory (he/him)\
       **MUSICAL DIRECTOR** | Isaac Bartels (he/him)\
-      **ASSISTANT DIRECTOR** | Rinre Olusola (he/her)\
+      **ASSISTANT DIRECTOR** | Rinre Olusola (she/her)\
       **PRODUCER** | Folu Oyewole (she/her)\
       **COSTUME DESIGNER** | Roxanne Ivy Robers (she/her)\
       **SET DESIGNERS** | George Langdown (he/him) and Andrew Laidlaw (he/him)\
