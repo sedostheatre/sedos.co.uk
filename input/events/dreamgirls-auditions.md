@@ -4,12 +4,11 @@ times:
   - time: 2025-06-21 13:30
   - time: 2025-06-21 15:30
   - time: 2025-07-17 19:00
-  - time: 2025-06-19 19:00
-  - time: 2025-07-19 10:00
+  - time: 2025-07-19 13:00
   - time: 2025-07-20 10:00
 image: /assets/dreamgirlsimage.jpg
 imageAlt: Dreamgirls auditions
-recurrence: Workshops 21 May, auditions 17, 19 and 20 July
+recurrence: Workshops June May, auditions 17, 19 and 20 July
 metaTitle: Dreamgirls auditions
 metaDescription: Information about Dreamgirls auditions, for Sedos’ production in November 2025
 ---
