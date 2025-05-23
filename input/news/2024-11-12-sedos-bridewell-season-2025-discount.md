@@ -1,13 +1,13 @@
 ---
 title: Book four shows in our 2025 season for 25% off
 date: 2025-03-04
-image: /assets/discountwebsite.jpg
+image: /assets/discountnewnotitles.jpg
 imageAlt: Sedos Bridewell season 2025 discount
 metaTitle: Sedos Bridewell season 2025 discount
 metaDescription: Book four or more shows in Sedos’ 2025 Bridewell season and
   receive a 25% discount
 ---
-*18 November 2024 (updated 4 March 2025)*
+*18 November 2024 (updated 4 March 2025 and 23 May 2025)*
 
 **Plan your theatre trips for 2025 – and receive a special discount.**
 
@@ -25,14 +25,13 @@ The shows which are on sale are:
 
 [Violet](https://www.sedos.co.uk/shows/2025-violet) (25-29 March)\
 [Hairspray](https://www.sedos.co.uk/shows/2025-hairspray-the-broadway-musical) (7-17 May)\
+[Hedda Gabler](https://www.sedos.co.uk/shows/2025-hedda-gabler) (8-12 May)\
 [The Crucible](https://www.sedos.co.uk/shows/2025-the-crucible) (16-20 September)\
 [Assassins](https://www.sedos.co.uk/shows/2025-assassins) (23-27 September)\
 [Dreamgirls](https://www.sedos.co.uk/shows/2025-dreamgirls) (19-29 November)
 
-Please note we have not yet opened the box office for *[Hedda Gabler](https://www.sedos.co.uk/shows/2025-hedda-gabler)*, so you may wish to wait and book when that final show is on sale.
-
 We look forward to welcoming you to the Bridewell Theatre for our 2025 shows.
 
 ^^^
-![Sedos Bridewell season 2025 discount](/assets/discountnewsletter-new.jpg)
+![Sedos Bridewell season 2025 discount](/assets/discountnewtitles.jpg)
 ^^^
