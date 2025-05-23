@@ -53,6 +53,7 @@ namespace Sedos.Pipelines
                 { "2025elections", "https://www.sedos.co.uk/news/2025-04-01-join-the-trustees-or-management-committee" },
                 { "assassins", "https://drive.google.com/file/d/12DOeIobdeed6B3TiWogfNJszH8hjpopu/view" },
                 { "assassins-auditions", "https://docs.google.com/document/d/1rKDpC4T8sxlielJKdqhDQDJT7ACg2a8Ex3MVxV-pyLQ/edit?usp=drivesdk" },
+                { "dreamgirls-auditions", "https://drive.google.com/drive/folders/1o5X6vaK-Kjs5HdBmaE8zSKWOUo_wTZhp" },
             };
 
             ProcessModules = new ModuleList
