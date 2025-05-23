@@ -30,8 +30,14 @@ box-office-link: https://sedos.ticketsolve.com/ticketbooth/shows/1173660213/even
 sections:
   - order: 1
     body: |-
-      **DIRECTOR** | David Gregory\
-      **MUSICAL DIRECTOR** | Isaac Bartels\
+      **DIRECTOR** | David Gregory (he/him)\
+      **MUSICAL DIRECTOR** | Isaac Bartels (he/him)\
+      **ASSISTANT DIRECTOR** | Rinre Olusola (he/her)\
+      **PRODUCER** | Folu Oyewole (she/her)\
+      **COSTUME DESIGNER** | Roxanne Ivy Robers (she/her)\
+      **SET DESIGNERS** | George Langdown (he/him) and Andrew Laidlaw (he/him)\
+      **LIGHTING DESIGNER** | Ben Sassoon (he/him)\
+      **SOUND DESIGNER** | Pranav Mahesh (he/him)\
       **COMMITTEE LIAISON** | George Langdown (he/him)
     title: CREATIVE TEAM
 metaTitle: Dreamgirls plays at the Bridewell Theatre 19-29 November 2025
