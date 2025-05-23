@@ -33,7 +33,7 @@ Information has been released about *[Dreamgirls](https://www.sedos.co.uk/shows/
 
 At the heart of this production is also a celebration of the extraordinary musical evolution that shaped the 1960s and 70s – thanks to the influence of Black music, especially in radio. As our story unfolds, so too does the soundscape: from the clean harmonies and choreography of early R&B to the rawer, funkier textures of soul, disco, and beyond. It reflects a changing sense of identity, ownership, and self-expression within Black culture and performance in a White-dominated industry.
 
-## FULL AUDITION NOTICE
+## [FULL AUDITION NOTICE](https://www.sedos.co.uk/dreamgirls-auditions)
 
 **ROLES**
 
@@ -41,7 +41,7 @@ Our production of *Dreamgirls* needs performers with the keen ability to bring t
 
 We are looking to cast around 22-25 people to play principal and supporting roles.This production requires a largely Black cast to tell this story authentically, so we will be looking to cast principal roles and many featured roles from Black racial groups for *Dreamgirls**.*** While most roles in *Dreamgirls* specifically require Black actors, there are some roles specifically for White actors. We are also looking to cast a culturally-diverse ensemble to create a dynamically diverse story on our stage.
 
-Please read the full audition notice for details of the roles.
+Please read the [full audition notice](https://www.sedos.co.uk/dreamgirls-auditions) for details of the roles.
 
 **DIVERSITY AND INCLUSION IN CASTING**
 
@@ -61,7 +61,7 @@ Still not sure about auditioning? We will be running a pre-audition workshop, wh
 
 **WHAT TO DO NOW?**
 
-Read the full audition notice for details on how to sign up.\
+Read the [full audition notice](https://www.sedos.co.uk/dreamgirls-auditions) for details on how to sign up.\
 \
 MORE AUDITIONS
 
