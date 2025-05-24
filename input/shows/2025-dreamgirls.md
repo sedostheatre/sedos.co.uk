@@ -22,7 +22,7 @@ showtime-summary: 19-29 NOVEMBER 2025
 venue: Bridewell Theatre
 ticket-prices: Tickets from £14 (no booking fee)
 primary-color: "#f03ba4"
-header-image: /assets/dreamgirlsimage.jpg
+header-image: /assets/new_sedoswebbanner_specialblk.jpg
 header-image-contain: false
 flyer: /assets/dreamgirls-dates-poster-2025.jpg
 box-office-open: true
