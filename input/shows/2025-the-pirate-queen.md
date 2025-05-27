@@ -68,6 +68,14 @@ sections:
       **ASSISTANT STAGE MANAGER/SOUND NUMBER 2** | Ben Hussey (he/him)\
       **SHOW IMAGE** | Mayfire Design\
       **COMMITTEE LIAISON** | Paul Caira
+  - order: 2
+    title: GALLERY
+    body: <a data-flickr-embed="true"
+      href="https://www.flickr.com/photos/sedos/albums/72177720326436099"
+      title="The Pirate Queen - 2025"><img
+      src="https://live.staticflickr.com/65535/54548436244_81c262a036_c.jpg"
+      width="800" height="600" alt="The Pirate Queen - 2025"/></a><script async
+      src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 RedirectFrom: []
 metaTitle: The Pirate Queen, an epic musical adventure from the writers of Les
   Misérables and Miss Saigon, plays at the Minack Theatre, Cornwall, from 30
