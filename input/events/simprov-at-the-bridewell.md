@@ -26,12 +26,11 @@ StageTime at Shoreditch Balls\
 Tickets available at the door\
 [www.shoreditchballs.com/shows](https://www.shoreditchballs.com/shows)
 
-**[](https://www.shoreditchballs.com/shows)Tuesday 26 August** | 7.45 pm\
+[](https://www.shoreditchballs.com/shows)**Tuesday 26 August** | 7.45 pm\
 Swipe Night with Swipe Right\
 *Shoreditch Balls, 333 Old Street, EC1V 9LE*\
 Tickets available at the door\
-[www.shoreditchballs.com/shows](<>)
-
+[www.shoreditchballs.com/shows](http://www.shoreditchballs.com/shows)
 
 Come on down to one of the events and get a whiff of all the incredible talent that's been hiding right under your nose. 
 
