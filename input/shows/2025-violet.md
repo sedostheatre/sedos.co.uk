@@ -108,13 +108,12 @@ sections:
       <a data-flickr-embed="true"
       href="https://www.flickr.com/photos/sedos/albums/72177720324810519"
       title="Violet - Production 2025"><img
-      src="https://live.staticflickr.com/65535/54422864681_05253cfd39_h.jpg"
-      width="1600" height="1200" alt="Violet - Production 2025"/></a><script
-      async src="//embedr.flickr.com/assets/client-code.js"
-      charset="utf-8"></script>
+      src="https://live.staticflickr.com/65535/54422864681_2653de7440_z.jpg"
+      width="800" height="600" alt="Violet - Production 2025"/></a><script async
+      src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 
-      <a data-flickr-embed="true" href="https://www.flickr.com/photos/sedos/albums/72177720324810614" title="Violet - Rehearsals - 2025"><img src="https://live.staticflickr.com/65535/54422869296_90e62907e1_h.jpg" width="1600" height="1200" alt="Violet - Rehearsals - 2025"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+      <a data-flickr-embed="true" href="https://www.flickr.com/photos/sedos/albums/72177720324810614" title="Violet - Rehearsals - 2025"><img src="https://live.staticflickr.com/65535/54422869296_b1d40a3e39_c.jpg" width="800" height="600" alt="Violet - Rehearsals - 2025"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
   - order: 4
     title: VIDEO
     body: |-
