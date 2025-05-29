@@ -58,3 +58,5 @@ Trustees and members of the Management Committee have staggered terms so everyon
 Sedos is run by enthusiastic volunteers and a huge thank you was given to everyone who keeps the society running - from box office and front of house support to backstage and workshop organisers, plus marketing and communications.
 
 If you were unable to attend the 2025 Sedos AGM or want a reminder of the accounts and annual return, you can find those [documents here](https://drive.google.com/drive/u/0/folders/1LFFj0HVJBsG9P-rgQynZU26WGk0mlyh0).
+
+![]( "Members of the 2025/2026 Sedos Trustees and Management Committee")
