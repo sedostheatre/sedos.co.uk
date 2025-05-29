@@ -1,6 +1,9 @@
 ---
 title: News from the 2025 Sedos AGM
 date: 2025-05-30
+metaTitle: "2025 Sedos AGM: new committee members and trustees elected"
+metaDescription: Find out who has joined the management committee and trustees
+  after last night’s 2025 Sedos AGM
 ---
 *30 May 2025*
 
