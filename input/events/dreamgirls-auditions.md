@@ -39,7 +39,7 @@ At the heart of this production is also a celebration of the extraordinary music
 
 Our production of *Dreamgirls* needs performers with the keen ability to bring their own unique personalities to the roles. The challenge is not to replicate the material, but to tell it in our own way – for our own audiences now. 
 
-We are looking to cast around 22-25 people to play principal and supporting roles. This production requires a largely Black cast to tell this story authentically, so we will be looking to cast principal roles and many featured roles from Black racial groups for *Dreamgirls***.** While most roles in *Dreamgirls* specifically require Black actors, there are some roles specifically for White actors. We are also looking to cast a culturally-diverse ensemble to create a dynamically diverse story on our stage.
+We are looking to cast around 22-25 people to play principal and supporting roles. This production requires a largely Black cast to tell this story authentically, so we will be looking to cast principal roles and many featured roles from Black racial groups for *Dreamgirls**\*.** While most roles in *Dreamgirls* specifically require Black actors, there are some roles specifically for White actors. We are also looking to cast a culturally-diverse ensemble to create a dynamically diverse story on our stage.
 
 Please read the [full audition notice](https://www.sedos.co.uk/dreamgirls-auditions) for details of the roles.
 
@@ -57,7 +57,7 @@ You can read Sedos’s Equality, Diversity and Inclusion policy in full [here](h
 
 Still not sure about auditioning? We will be running a pre-audition workshop, which is an opportunity for anyone considering auditioning to get a better idea of our version of *Dreamgirls*. You’ll be able to meet the production team, hear about their vision for *Dreamgirls*, work with a selection of vocal music from the show, and have the chance to ask the team any question you may have about the auditions and rehearsal process.
 
-[Sign up](https://membership.sedos.co.uk/) for the workshop (open soon).
+[Sign up](https://membership.sedos.co.uk/) for the workshop (opens soon).
 
 **WHAT TO DO NOW?**
 
