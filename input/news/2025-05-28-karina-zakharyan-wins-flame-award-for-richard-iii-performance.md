@@ -1,5 +1,6 @@
 ---
 title: Karina Zakharyan wins Flame Award for Richard III performance
+date: 2025-05-28
 image: /assets/53708022412_de7258f682_c.jpg
 imageAlt: Flame Award for Karina Zakharyan
 RedirectFrom: []
