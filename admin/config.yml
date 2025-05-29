@@ -172,8 +172,9 @@ collections:
         tagname: h1
       - name: date
         label: Publish Date
-        widget: date
+        widget: datetime
         format: YYYY-MM-DD
+        date_format: YYYY-MM-DD
       - name: image
         label: Image (used on the home page/all news for the card tile)
         widget: image
