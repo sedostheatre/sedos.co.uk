@@ -1,13 +1,14 @@
 ---
 title: News from the 2025 Sedos AGM
 date: 2025-05-30
+image: /assets/sedos-agm-2025-landscape.jpg
 metaTitle: "2025 Sedos AGM: new committee members and trustees elected"
 metaDescription: Find out who has joined the management committee and trustees
   after last night’s 2025 Sedos AGM
 ---
 *30 May 2025*
 
-![](/assets/sedos-agm-2025-landscape.jpg "Members of the 2025/2026 Sedos Trustees and Management Committee")
+![](/assets/sedos-agm-2025-landscape.jpg "Some of the attendees of the 2025 Sedos AGM, including members of the Trustees and Management Committee")
 
 **Thank you to everyone who attended the Sedos Annual General Meeting last night in the Passmore Edwards room at the St Bride’s Institute. It was fantastic to see so many enthusiastic people interested in the future of the society and to have the opportunity to reflect on all the great things that have been achieved in 2024/25 as well as looking forward to 2025/26 – we’ve an exciting year ahead!**
 
@@ -21,7 +22,7 @@ The Trustees Annual report gives more information about the society’s activiti
 
 A special mention was given to Daniel Saunders who stepped down as Chair of the Board of Trustees in 2024. Dan steered Sedos through the loss of our rehearsal, build and storage space and reshaped the charity’s views to focus on achieving financial stability across our season of shows.
 
-Many thanks to Jack Brown who also stepped down as a Trustee in 2024 and to Sorrel Brown, Ruth Granton, Thomas Riggs and Tess Robinson, who stepped down from the Management Committee at the AGM or earlier this year - your contribution and hard work is very much appreciated! 
+Many thanks to Jack Brown who also stepped down as a Trustee in 2024 and to Sorrel Brown, Ruth Granton, Thomas Riggs, Tess Robinson and Henry Whittaker, who stepped down from the Management Committee at the AGM or earlier this year - your contribution and hard work is very much appreciated! 
 
 Karen Braganza is also stepping down from the Management Committee after four years, but we are delighted that she has decided to join the Board of Trustees and will continue using her experience to help support the ongoing success of Sedos.
 
@@ -61,4 +62,4 @@ Sedos is run by enthusiastic volunteers and a huge thank you was given to everyo
 
 If you were unable to attend the 2025 Sedos AGM or want a reminder of the accounts and annual return, you can find those [documents here](https://drive.google.com/drive/u/0/folders/1LFFj0HVJBsG9P-rgQynZU26WGk0mlyh0).
 
-![]( "Members of the 2025/2026 Sedos Trustees and Management Committee")
+![](/assets/sedos-agm-2025-landscape.jpg "Some of the attendees of the 2025 Sedos AGM, including members of the Trustees and Management Committee")
