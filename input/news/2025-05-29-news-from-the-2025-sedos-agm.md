@@ -12,13 +12,13 @@ metaDescription: Find out who has joined the management committee and trustees
 
 **Thank you to everyone who attended the Sedos Annual General Meeting last night in the Passmore Edwards room at the St Bride’s Institute. It was fantastic to see so many enthusiastic people interested in the future of the society and to have the opportunity to reflect on all the great things that have been achieved in 2024/25 as well as looking forward to 2025/26 – we’ve an exciting year ahead!**
 
-Highlights of the AGM included the introduction of the Financial Assistance Scheme, an increase in the number of shows performed (“everything from Sondheim to Shakespeare” and an all black production of *[The Color Purple](https://www.sedos.co.uk/shows/2024-the-color-purple)*), with two productions staged in new venues in London and Suffolk, being recognised five times in the National Operatic and Dramatic Association (NODA) district awards for 2024, open captioning at two performances, and a healthy 26% increase in Sedos membership.
+Highlights of the AGM included the introduction of the Financial Assistance Scheme, an increase in the number of shows performed (“everything from Sondheim to Shakespeare” and an all black production of *[The Color Purple](https://www.sedos.co.uk/shows/2024-the-color-purple)*), with two productions staged in new venues in London and Suffolk, being recognised five times in the National Operatic and Dramatic Association (NODA) district awards for 2024, open captioning at two performances, a rejuvenated acting group, increased awareness of Simprov and a healthy 26% increase in Sedos membership.
 
 There was also an update on our current finances; diversity reporting; and our search for a new permanent rehearsal and storage home.
 
 Members had a chance to ask questions about areas such as budgets, pitching and the society’s diversity and inclusion strategy and it was fantastic to see people show a passionate interest in the future of Sedos.
 
-The Trustees Annual report gives more information about the society’s activities in 2024/25 and can be [read here](https://drive.google.com/file/d/1TAs_s0oKBnmUeDpTJA8UOa4kjUD74Cm6/view?usp=drive_link). 
+The Trustees Annual report gives more information about the society’s activities in 2024/25 and can be [read here](https://drive.google.com/file/d/1TAs_s0oKBnmUeDpTJA8UOa4kjUD74Cm6/view?usp=drive_link). Adrian Hau's operational summary can be [read here](https://drive.google.com/file/d/1nvtmqn2WJtfgKlAld8jOPf94R4Z0bhqE/view?usp=sharing).
 
 A special mention was given to Daniel Saunders who stepped down as Chair of the Board of Trustees in 2024. Dan steered Sedos through the loss of our rehearsal, build and storage space and reshaped the charity’s views to focus on achieving financial stability across our season of shows.
 
