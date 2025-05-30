@@ -2,15 +2,15 @@
 title: How we operate
 row: 3
 column: 2
-image: /assets/sedosagm2024-committee-trustees-600x300.jpg
+image: /assets/sedos-agm-2025-landscape.jpg
 RedirectFrom:
   - aboutus/howweoperate.htm
 ---
 ## How we operate
 
 ^^^
-![](/assets/sedosagm2024.jpg)
-^^^ Members of the 2024/25 Sedos Trustees and Management Committee along with Sedos members who attended the 2024 Sedos AGM.
+![](/assets/sedos-agm-2025-landscape.jpg)
+^^^ Some of the members of the 2024/25 Sedos Trustees and Management Committee along with Sedos members who attended the 2025 Sedos AGM
 
 Sedos is a Charitable Incorporated Organisation.
 
@@ -73,4 +73,4 @@ Emma Miller (she/her)\
 
 Sedos has a [marketing group](/groups/marketing), a [production group](/groups/production) and a [membership group](/groups/membership), all of which contribute to the day to day operations of the society. Anyone can volunteer to get involved in these groups.
 
-![](/assets/sedosagm2024-committee-trustees.jpg "Members of the 2024/25 Sedos Trustees and Management Committee")
+![](/assets/sedos-agm-2025-landscape.jpg "Some of the members of the 2024/25 Sedos Trustees and Management Committee along with Sedos members who attended the 2025 Sedos AGM")
