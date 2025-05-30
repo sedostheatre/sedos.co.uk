@@ -35,7 +35,9 @@ The trustees are elected by the members for three-year terms or co-opted in acco
 **Secretary** | Graham White (he/him)\
 **Trustee with financial responsibilit**y | Nick Dore (he/him)\
 **ex officio, Chair of the management committee** | Adrian Hau (he/him)\
-Pippa Kyle (she/her)
+Karen Braganza (she/her)\
+Pippa Kyle (she/her)\
+Eleena Misra KC
 
 [Minutes of trustees’ meetings can be found here](https://drive.google.com/drive/folders/13fa6XEho_8j5tAyxQX0wwuJ5HXOcRmjZ?usp=sharing)
 
@@ -57,17 +59,17 @@ The management committee meets monthly.
 
 **Chair** | Adrian Hau (he/him)\
 **Production group** | Adam Coppard (he/him)\
-Karen Braganza (she/her)\
+Shylo Allen\
 Paul Caira \
+Lauren Clarke\
 Sam Ferguson (she/her)\
 Tim Garrad (he/him)\
-Ruth Granton (she/her)\
 George Langdown (he/him)\
+Conor Larkin\
 Olly Levett (he/him)\
 Emma Miller (she/her)\
-Thomas Riggs (he/him)
-
-## Groups
+\
+**Groups**
 
 Sedos has a [marketing group](/groups/marketing), a [production group](/groups/production) and a [membership group](/groups/membership), all of which contribute to the day to day operations of the society. Anyone can volunteer to get involved in these groups.
 
