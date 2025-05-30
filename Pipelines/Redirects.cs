@@ -54,6 +54,7 @@ namespace Sedos.Pipelines
                 { "assassins", "https://drive.google.com/file/d/12DOeIobdeed6B3TiWogfNJszH8hjpopu/view" },
                 { "assassins-auditions", "https://docs.google.com/document/d/1rKDpC4T8sxlielJKdqhDQDJT7ACg2a8Ex3MVxV-pyLQ/edit?usp=drivesdk" },
                 { "dreamgirls-auditions", "https://drive.google.com/drive/folders/1o5X6vaK-Kjs5HdBmaE8zSKWOUo_wTZhp" },
+		{ "piratequeenprog", "https://marvelapp.com/prototype/113gdcd4/screen/97257788" },
             };
 
             ProcessModules = new ModuleList
