@@ -59,13 +59,13 @@ The management committee meets monthly.
 
 **Chair** | Adrian Hau (he/him)\
 **Production group** | Adam Coppard (he/him)\
-Shylo Allen\
+Shylo Allen (he/him)\
 Paul Caira \
-Lauren Clarke\
+Lauren Clarke (she/her)\
 Sam Ferguson (she/her)\
 Tim Garrad (he/him)\
 George Langdown (he/him)\
-Conor Larkin\
+Conor Larkin (he/him)\
 Olly Levett (he/him)\
 Emma Miller (she/her)\
 \
