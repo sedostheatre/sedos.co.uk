@@ -7,7 +7,7 @@ metaDescription: Find out who has joined the management committee and trustees
 ---
 *30 May 2025*
 
-![]( "Members of the 2025/2026 Sedos Trustees and Management Committee")
+![](/assets/sedos-agm-2025-landscape.jpg "Members of the 2025/2026 Sedos Trustees and Management Committee")
 
 **Thank you to everyone who attended the Sedos Annual General Meeting last night in the Passmore Edwards room at the St Bride’s Institute. It was fantastic to see so many enthusiastic people interested in the future of the society and to have the opportunity to reflect on all the great things that have been achieved in 2024/25 as well as looking forward to 2025/26 – we’ve an exciting year ahead!**
 
