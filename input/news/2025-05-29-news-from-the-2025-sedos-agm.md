@@ -10,7 +10,7 @@ metaDescription: Find out who has joined the management committee and trustees
 
 ![](/assets/sedos-agm-2025-landscape.jpg "Some of the attendees of the 2025 Sedos AGM, including members of the Trustees and Management Committee")
 
-**Thank you to everyone who attended the Sedos Annual General Meeting last night in the Passmore Edwards room at the St Bride’s Institute. It was fantastic to see so many enthusiastic people interested in the future of the society and to have the opportunity to reflect on all the great things that have been achieved in 2024/25 as well as looking forward to 2025/26 – we’ve an exciting year ahead!**
+**Thank you to everyone who attended the Sedos Annual General Meeting last night in the Passmore Edwards room at the St Bride’s Institute. It was fantastic to meet people who were interested in the future of the society and to have the opportunity to reflect on all the great things that have been achieved in 2024/25 as well as looking forward to 2025/26 – we’ve an exciting year ahead!**
 
 Highlights of the AGM included the introduction of the Financial Assistance Scheme, an increase in the number of shows performed (“everything from Sondheim to Shakespeare” and an all black production of *[The Color Purple](https://www.sedos.co.uk/shows/2024-the-color-purple)*), with two productions staged in new venues in London and Suffolk, being recognised five times in the National Operatic and Dramatic Association (NODA) district awards for 2024, open captioning at two performances, a rejuvenated acting group, increased awareness of Simprov and a healthy 26% increase in Sedos membership.
 
