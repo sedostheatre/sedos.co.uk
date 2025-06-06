@@ -1,7 +1,7 @@
 ---
 title: Sign up to march at Pride in London 2025
 times:
-  - time: 2025-07-05 10:00
+  - time: 2025-07-05 11:00
 image: /assets/pride.jpg
 imageAlt: Sedos Pride 2024
 ticket-prices: ""
