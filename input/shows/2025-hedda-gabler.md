@@ -9,6 +9,7 @@ showtimes:
   - time: 2025-07-09 19:30
   - time: 2025-07-10 19:30
   - time: 2025-07-11 19:30
+  - time: 2025-07-12 13:00
   - time: 2025-07-12 17:00
 showtime-summary: 8-12 JULY 2025
 venue: Bridewell Theatre
