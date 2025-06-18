@@ -47,15 +47,15 @@ metaDescription: Hedda Gabler by Henrik Ibsen, in a version by Patrick Marber.
   It is part of Sedos’ 2025 season and plays at the Bridewell Theatre from 8-12
   July 2025
 ---
-**Just married. Buried alive. Hedda longs to be free.**
+**Hedda is a rapidly unravelling new bride.**
 
-Widely considered a cornerstone of modern theatre, *Hedda Gabler* is a canonised masterpiece of the 19th century, played across stages globally and storming Broadway more than 20 times. 
+The daughter of the late General Gabler and now the wife of up-and-coming academic Jorgen Tesman, something is dawning on Hedda: somehow, she’s stumbled into a life that looks increasingly ‘ordinary’ - and it’s suffocating her.
 
-Hedda is stifled in a world of sterile perfection and suffocating expectations, but beneath the surface, she is a powder keg of desire and defiance. When an old flame resurfaces with everything she’s been denied - passion, purpose, power - Hedda spirals into a game of seduction and sabotage.
+Always seemingly defined by her relationship to someone else, Hedda obsessively covets three intoxicating characteristics for herself that she sees in the men around her: ambition, hedonism and control.
 
-In this retelling, Henrik Ibsen's work has been channelled through the mind of Patrick Marber, making the story approachable for modern-day audiences. Gone are the ruffs, corsets and bluster. In this gladiatorial reimagining, we are left with nothing but seven actors on a stage - but not everyone will come out alive. 
+Gone are the ruffs, corsets and bluster. Join us at the Bridewell to see how Hedda’s dangerous games play out – because not everyone is getting out alive.
 
-This pressure-cooker story is about the illusion of freedom, the battle for social superiority, and the unbearable burden of losing control.
+In a visceral new version byPatrick Marber (*Dealer's Choice*, *Closer*) which opened at the National Theatre in December 2016, Ibsen's subtle psychological tragedy is transformed into something more brutal, confrontational and raw. *The Telegraph* hailed it as "a bold, clear, finally harrowing account of the play".
 
 *Hedda Gabler* in this version was first presented in the Lyttelton auditorium of the National Theatre, London, on 5 December 2016.
 
