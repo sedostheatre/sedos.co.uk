@@ -55,7 +55,7 @@ Always seemingly defined by her relationship to someone else, Hedda obsessively 
 
 Gone are the ruffs, corsets and bluster. Join us at the Bridewell to see how Hedda’s dangerous games play out – because not everyone is getting out alive.
 
-In a visceral new version byPatrick Marber (*Dealer's Choice*, *Closer*) which opened at the National Theatre in December 2016, Ibsen's subtle psychological tragedy is transformed into something more brutal, confrontational and raw. *The Telegraph* hailed it as "a bold, clear, finally harrowing account of the play".
+In a visceral new version by Patrick Marber (*Dealer's Choice*, *Closer*) which opened at the National Theatre in December 2016, Ibsen's subtle psychological tragedy is transformed into something more brutal, confrontational and raw. *The Telegraph* hailed it as "a bold, clear, finally harrowing account of the play".
 
 *Hedda Gabler* in this version was first presented in the Lyttelton auditorium of the National Theatre, London, on 5 December 2016.
 
