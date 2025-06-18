@@ -69,7 +69,7 @@ This is the second time Sedos has performed a play by Ibsen, following *[A Doll�
 "Seething with sexuality, darkness and humour" –  *Radio Times*\
 "A version that will have a life beyond this production" –  *The Guardian*
 
-*Hedda Gabler* plays at the [Bridewell Theatre](https://sbf.org.uk/whats-on/category/theatre/) from 8-12 July 2025. The box office will open soon. 
+*Hedda Gabler* plays at the [Bridewell Theatre](https://sbf.org.uk/whats-on/category/theatre/) from 8-12 July 2025.
 
 **Content warnings:** contains strong language, references and depictions of suicide, mentions of rape and the use of a replica firearm.
 
