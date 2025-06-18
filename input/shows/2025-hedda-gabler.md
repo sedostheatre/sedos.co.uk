@@ -14,10 +14,10 @@ showtimes:
 showtime-summary: 8-12 JULY 2025
 venue: Bridewell Theatre
 ticket-prices: Tickets from £12.50 (no booking fee)
-primary-color: "#454c3a"
-header-image: /assets/hedda-gabler-holder.jpg
+primary-color: "#f21335"
+header-image: /assets/hedda-website-image-1-.png
 header-image-contain: false
-flyer: /assets/hedda-gabler-poster-2025.jpg
+flyer: /assets/poster.png
 box-office-open: true
 box-office-link: https://sedos.ticketsolve.com/ticketbooth/shows/1173664003
 sections:
