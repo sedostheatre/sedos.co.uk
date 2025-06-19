@@ -41,6 +41,14 @@ sections:
       **TECHNICAL PRODUCERS** | Ben Hussey (he/him) and Adam Coppard (he/him)\
       **SET REALISATION**  | Andrew Laidlaw (he/him)\
       **COMMITTEE LIAISON** | Adrian Hau (he/him)
+  - order: 2
+    title: GALLERY
+    body: <a data-flickr-embed="true"
+      href="https://www.flickr.com/photos/sedos/albums/72177720326962596"
+      title="Hedda Gabler - 2025"><img
+      src="https://live.staticflickr.com/65535/54599315237_93a691d882_c.jpg"
+      width="800" height="600" alt="Hedda Gabler - 2025"/></a><script async
+      src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 metaTitle: Hedda Gabler by Henrik Ibsen, in a version by Patrick Marber, plays
   at the Bridewell Theatre from 8-12 July 2025
 metaDescription: Hedda Gabler by Henrik Ibsen, in a version by Patrick Marber.
