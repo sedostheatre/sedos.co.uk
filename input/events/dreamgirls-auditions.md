@@ -18,7 +18,7 @@ Information has been released about *[Dreamgirls](https://www.sedos.co.uk/shows/
 
 **KEY DATES**
 
-**Pre-audition workshop:** Saturday 21 June at King’s Square Community Hall, Central Street, EC1V 8DA – registration opens Friday 13 June at 6pm, link [here](https://membership.sedos.co.uk/).\
+**Pre-audition workshop:** Saturday 21 June at London Bubble, 5 Elephant Ln, London SE16 4JD – registration link [here](https://membership.sedos.co.uk/).\
 **Audition sign up opens:** Sunday 22 June \
 **First round auditions (prior sign-up required):** Thursday 17 July evening, Saturday 19 July and Sunday 20 July 2025 at King’s Square Community Hall\
 **Recalls (by invitation only)**: Saturday 26 and Monday 28 July 2025 at King’s Square Community Hall\
