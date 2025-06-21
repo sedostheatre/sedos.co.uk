@@ -65,7 +65,7 @@ Gone are the ruffs, corsets and bluster. Join us at the Bridewell to see how Hed
 
 In a visceral new version by Patrick Marber (*Dealer's Choice*, *Closer*) which opened at the National Theatre in December 2016, Ibsen's subtle psychological tragedy is transformed into something more brutal, confrontational and raw. *The Telegraph* hailed it as "a bold, clear, finally harrowing account of the play".
 
-*Hedda Gabler* in this version was first presented in the Lyttelton auditorium of the National Theatre, London, on 5 December 2016.
+*Hedda Gabler (Marber)* in this version was first presented in the Lyttelton auditorium of the National Theatre, London, on 5 December 2016.
 
 This is the second time Sedos has performed a play by Ibsen, following *[A Doll’s House](https://www.sedos.co.uk/shows/2018-dolls-house)* in January 2018. It is also the second play that Jonny Harding-Cooper has directed for Sedos, following *[The Effect](https://www.sedos.co.uk/shows/2023-the-effect)* in 2023.
 
@@ -77,7 +77,7 @@ This is the second time Sedos has performed a play by Ibsen, following *[A Doll�
 "Seething with sexuality, darkness and humour" –  *Radio Times*\
 "A version that will have a life beyond this production" –  *The Guardian*
 
-*Hedda Gabler* plays at the [Bridewell Theatre](https://sbf.org.uk/whats-on/category/theatre/) from 8-12 July 2025.
+*Hedda Gabler (Marber)* plays at the [Bridewell Theatre](https://sbf.org.uk/whats-on/category/theatre/) from 8-12 July 2025.
 
 **Content warnings:** contains strong language, references and depictions of suicide, mentions of rape and the use of a replica firearm.
 
