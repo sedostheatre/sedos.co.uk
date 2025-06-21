@@ -1,8 +1,8 @@
 ---
-title: Hedda Gabler
+title: Hedda Gabler (Marber)
 year: "2025"
 authors: by HENRIK IBSEN
-authors2: in a version by PATRICK MARBER
+authors2: in a new version by PATRICK MARBER
 subtitle: Just married. Buried alive. Hedda longs to be free.
 showtimes:
   - time: 2025-07-08 19:30
@@ -83,4 +83,4 @@ This is the second time Sedos has performed a play by Ibsen, following *[A Doll�
 
 **SPECIAL OFFER:** book any four (or more) shows in Sedos’ 2025 Bridewell season in one transaction and receive 25% off. The discount will be applied automatically at the [online box office](https://sedos.ticketsolve.com/ticketbooth/shows). 
 
-This amateur production of *Hedda Gabler*, in a version by Patrick Marber, is presented by arrangement with Concord Theatricals Ltd. on behalf of Samuel French Ltd. [www.concordtheatricals.co.uk](https://www.concordtheatricals.co.uk/)
+This amateur production of *Hedda Gabler (Marber)* is presented by arrangement with Concord Theatricals Ltd. on behalf of Samuel French Ltd. [www.concordtheatricals.co.uk](https://www.concordtheatricals.co.uk/)
