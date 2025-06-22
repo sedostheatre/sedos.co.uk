@@ -19,8 +19,7 @@ Information has been released about *[Dreamgirls](https://www.sedos.co.uk/shows/
 **KEY DATES**
 
 **Pre-audition workshop:** Saturday 21 June at London Bubble, 5 Elephant Ln, London SE16 4JD – registration link [here](https://membership.sedos.co.uk/).\
-**Audition sign up opens:** Sunday 22 June \
-**First round auditions (prior sign-up required):** Thursday 17 July evening, Saturday 19 July and Sunday 20 July 2025 at King’s Square Community Hall\
+**First round auditions (prior sign-up required, [sign up here](https://membership.sedos.co.uk/signup/145)):** Thursday 17 July evening, Saturday 19 July and Sunday 20 July 2025 at King’s Square Community Hall\
 **Recalls (by invitation only)**: Saturday 26 and Monday 28 July 2025 at King’s Square Community Hall\
 **Rehearsals:** Tuesdays, Thursdays and Sundays starting late August until November, majority held at King’s Square Community Hall\
 **Performance dates:** 19-22 November, 24-29 November 2025 at the Bridewell Theatre
@@ -57,11 +56,11 @@ You can read Sedos’s Equality, Diversity and Inclusion policy in full [here](h
 
 Still not sure about auditioning? We will be running a pre-audition workshop, which is an opportunity for anyone considering auditioning to get a better idea of our version of *Dreamgirls*. You’ll be able to meet the production team, hear about their vision for *Dreamgirls*, work with a selection of vocal music from the show, and have the chance to ask the team any question you may have about the auditions and rehearsal process.
 
-[Sign up](https://membership.sedos.co.uk/) for the workshop (registration opens soon).
+[Sign up](https://membership.sedos.co.uk/) for the workshop.
 
 **WHAT TO DO NOW?**
 
-Read the [full audition notice](https://www.sedos.co.uk/dreamgirls-auditions) for details on how to sign up.\
+Read the [full audition notice](https://www.sedos.co.uk/dreamgirls-auditions), then [sign up for an audition slot here](https://membership.sedos.co.uk/signup/145).\
 \
 **MORE AUDITIONS**
 
