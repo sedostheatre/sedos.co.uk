@@ -40,6 +40,10 @@ sections:
       **PRODUCER** | Sam Ferguson (she/her)\
       **TECHNICAL PRODUCERS** | Ben Hussey (he/him) and Adam Coppard (he/him)\
       **SET REALISATION**  | Andrew Laidlaw (he/him)\
+      **COSTUMES** | Maria Rita Martins\
+      **LIGHTING DESIGNER** | Martin Walton\
+      **STAGE MANAGER** / PROPS | Emma Hunt\
+      **MARKETING** | Natalie Harding-Cooper\
       **COMMITTEE LIAISON** | Adrian Hau (he/him)
   - order: 2
     title: GALLERY
