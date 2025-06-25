@@ -24,16 +24,56 @@ box-office-link: https://sedos.ticketsolve.com/ticketbooth/shows/1173660211
 sections:
   - order: 1
     title: CREATIVE TEAM
-    body: |-
+    body: >-
+      **CAST**
+
+
+      **LYNETTE "SQUEAKY" FROMME** | Claire Brewin (she/her)\
+
+      **SARAH JANE MOORE** | Jessica Dawes (she/her)\
+
+      **LEE HARVEY OSWALD** | Joe Dickens (he/him)\
+
+      **LEON CZOLGOSZ** | Jake Dufton (he/him)\
+
+      **JOHN HINCKLEY** | Glen Jordan (he/him)\
+
+      **SAMUEL BYCK** | Adam Moulder\
+
+      **GUISEPPE ZANGARA** | David Phipps-Davis (he/him)\
+
+      **JOHN WILKES BOOTH** | Rourke Puksand (he/him)\
+
+      **CHARLES GUITEAU** | Sam Sugarman\
+
+      **CONVENTION HOSTS** | Anna Buckmaster (she/her) and Chris Daniel Cahill (he/him)\
+
+      **ENSEMBLE** | Stephen Beeny, Will Garrood (he/him), Tama Knight (she/her), Jo Webber and Samantha Witte\
+
+      **CONVENTION CHORUS** | Joby Blair (he/him), Annah Casey-Solly (she/her), Taylor Davidson (she/her), Jack Hanrahan (he/him), Phoebe Alice Pope (she/her) and Carly Whittaker
+
+
+      **CREATIVE TEAM**
+
+
       **DIRECTOR** | Dan Edge (he/him)\
+
       **MUSICAL DIRECTOR** |  Matt Gould (he/him)\
+
       **PRODUCTION DESIGNER** | Adrian Jeakins (he/him)\
+
       **CHOREOGRAPHER** | Emma Bowker (she/her)\
+
       **PRODUCER** | Pippa Kyle (she/her)\
+
       **LIGHTING DESIGNER** | Martin Walton (he/him)\
+
       **COSTUMES** | Annie Houseago\
+
       **MARKETING** | Stephen Beeny\
+
       **PHOTOGRAPHER** | David Ovenden (he/him)\
+
       **COMMITTEE LIAISON** | Emma Miller (she/her)
 metaTitle: Assassins, by Stephen Sondheim and John Weidman, plays at the
   Bridewell Theatre from 23-27 September 2025
