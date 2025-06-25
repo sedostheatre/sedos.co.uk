@@ -40,7 +40,7 @@ sections:
 
       **SAMUEL BYCK** | Adam Moulder\
 
-      **GUISEPPE ZANGARA** | David Phipps-Davis (he/him)\
+      **GIUSEPPE ZANGARA** | David Phipps-Davis (he/him)\
 
       **JOHN WILKES BOOTH** | Rourke Puksand (he/him)\
 
