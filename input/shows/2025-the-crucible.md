@@ -95,7 +95,7 @@ sections:
 
       **MARKETING** | Ellen Redgrave\
 
-      **COMMITTEE LIAISONS** | Adam Coppard (he/him) 
+      **COMMITTEE LIAISON** | Adam Coppard (he/him) 
 
 
       > Tash Boret as Stage manager, Olly Levett as Lighting designer and add the role of Marketing to me as well? Also it still says Sorrel Brown is our committee liaison.
