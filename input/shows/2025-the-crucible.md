@@ -40,7 +40,7 @@ sections:
       **GILES COREY** | David Wainwright\
       **SUSANNA WALCOTT** | Rosie O'Rourke\
       **MERCY LEWIS** | Jaelon Love\
-      **THOMAS PUTNAM** | Paul Anthony Caira\
+      **THOMAS PUTNAM** | Paul Caira\
       **ANN PUTNAM** | Julia Blyth\
       **EZEKIEL CHEEVER** | Jesse Pincombe\
       **JUDGE HATHORNE** | Clare Janew\
