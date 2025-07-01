@@ -23,44 +23,82 @@ box-office-link: https://sedos.ticketsolve.com/ticketbooth/shows/1173660210
 sections:
   - order: 1
     title: CAST & CREATIVE TEAM
-    body: |-
+    body: >-
       **CAST**
 
-      **JOHN PROCTOR** | Jamie Bowman\
-      **ABIGAIL WILLIAMS** | Megan Sheerin\
-      **ELIZABETH PROCTOR** | Helen McGill\
-      **REVEREND HALE** | Randy Brown\
-      **REVEREND PARRIS** | Emma Leaver\
-      **TITUBA** | Anoä-Kanelle Calpas\
-      **MARY WARREN** | Molly Clifford\
-      **BETTY PARRIS** | Ruby Barry\
-      **JUDGE DANFORTH** | Eric Petrossian\
-      **REBECCA NURSE** | Jeryl Burgess\
-      **FRANCIS NURSE** | John Stivey\
-      **GILES COREY** | David Wainwright\
-      **SUSANNA WALCOTT** | Rosie O'Rourke\
-      **MERCY LEWIS** | Jaelon Love\
-      **THOMAS PUTNAM** | Paul Caira\
-      **ANN PUTNAM** | Julia Blyth\
-      **EZEKIEL CHEEVER** | Jesse Pincombe\
-      **JUDGE HATHORNE** | Clare Janew\
-      **SARAH GOOD** | Louisa Shindle\
-      **HERRICK** | Benjamin Meacher
 
-      **ENSEMBLE**\
-      Ciara Gaughan\
-      Flora Simon de la Mortiere\
-      Grace O'Brien\
-      Natasha Keith\
-      Shervine Thompson
+      **ELIZABETH PROCTOR** | Helen McGill\
+
+      **JOHN PROCTOR** | Jamie Bowman
+
+      **ABIGAIL WILLIAMS** | Megan Sheerin\
+
+      **REVEREND PARRIS** | Emma Leaver
+
+      **TITUBA** | Anoä-Kanelle Calpas\
+
+      **MARY WARREN** | Molly Clifford
+
+      **REVEREND HALE** | Randy Brown\
+
+      **JUDGE DANFORTH** | Eric Petrossian\
+
+      **MERCY LEWIS** | Jaelon Love\
+
+      **SUSANNA WALCOTT** | Rosie O'Rourke
+
+      **BETTY PARRIS** | Ruby Barry
+
+      **THOMAS PUTNAM** | Paul Caira
+
+      **ANN PUTNAM** | Julia Blyth\
+
+      **GILES COREY** | David Wainwright
+
+      **REBECCA NURSE** | Jeryl Burgess
+
+      **FRANCIS NURSE** | John Stivey
+
+      **JUDGE HATHORNE** | Clare Janew
+
+      **SARAH GOOD** | Louisa Shindle
+
+      **EZEKIEL CHEEVER** | Jesse Pincombe
+
+      **HERRICK** | Benjamin Meacher\
+
+      **ENSEMBLE** | Ciara Gaughan
+
+      **ENSEMBLE** | Flora Simon de la Mortiere\
+
+      **ENSEMBLE** | Grace O'Brien\
+
+      **ENSEMBLE** | Natasha Keith\
+
+      **ENSEMBLE** | Shervine Thompson
+
 
       **CREATIVE TEAM**
 
+
       **DIRECTOR** | Jonah McLeod (he/him)\
+
       **DIRECTOR** | Anoushka Nairac (she/they)\
+
       **PRODUCER** | Kacper Neumann (he/him)\
+
       **SET DESIGNER** | Ellen Redgrave (they/them)\
-      **COMMITTEE LIAISONS** | Adam Coppard (he/him) and Sorrel Brown (she/her)
+
+      **LIGHTING DESIGNER** | Olly Levett\
+
+      **STAGE MANAGER** | Tash Boret\
+
+      **MARKETING** | Ellen Redgrave\
+
+      **COMMITTEE LIAISONS** | Adam Coppard (he/him) 
+
+
+      > Tash Boret as Stage manager, Olly Levett as Lighting designer and add the role of Marketing to me as well? Also it still says Sorrel Brown is our committee liaison.
 metaTitle: The Crucible, by Arthur Miller, plays at the Bridewell Theatre 16-20
   September 2025
 metaDescription: The Crucible, by Arthur Miller, is an  enduring story of blame,
