@@ -24,6 +24,38 @@ sections:
   - order: 1
     title: CREATIVE TEAM
     body: |-
+      **CAST**
+
+      **JOHN PROCTOR** | Jamie Bowman\
+      **ABIGAIL WILLIAMS** | Megan Sheerin\
+      **ELIZABETH PROCTOR** | Helen McGill\
+      **REVEREND HALE** | Randy Brown\
+      **REVEREND PARRIS** | Emma Leaver\
+      **TITUBA** | Anoä-Kanelle Calpas\
+      **MARY WARREN** | Molly Clifford\
+      **BETTY PARRIS** | Ruby Barry\
+      **JUDGE DANFORTH** | Eric Petrossian\
+      **REBECCA NURSE** | Jeryl Burgess\
+      **FRANCIS NURSE** | John Stivey\
+      **GILES COREY** | David Wainwright\
+      **SUSANNA WALCOTT** | Rosie O'Rourke\
+      **MERCY LEWIS** | Jaelon Love\
+      **THOMAS PUTNAM** | Paul Anthony Caira\
+      **ANN PUTNAM** | Julia Blyth\
+      **EZEKIEL CHEEVER** | Jesse Pincombe\
+      **JUDGE HATHORNE** | Clare Janew\
+      **SARAH GOOD** | Louisa Shindle\
+      **HERRICK** | Benjamin Meacher
+
+      **ENSEMBLE**\
+      Ciara Gaughan\
+      Flora Simon de la Mortiere\
+      Grace O'Brien\
+      Natasha Keith\
+      Shervine Thompson
+
+      **CREATIVE TEAM**
+
       **DIRECTOR** | Jonah McLeod (he/him)\
       **DIRECTOR** | Anoushka Nairac (she/they)\
       **PRODUCER** | Kacper Neumann (he/him)\
