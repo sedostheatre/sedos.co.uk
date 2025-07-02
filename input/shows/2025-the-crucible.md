@@ -23,82 +23,45 @@ box-office-link: https://sedos.ticketsolve.com/ticketbooth/shows/1173660210
 sections:
   - order: 1
     title: CAST & CREATIVE TEAM
-    body: >-
+    body: |-
       **CAST**
 
-
       **ELIZABETH PROCTOR** | Helen McGill\
-
-      **JOHN PROCTOR** | Jamie Bowman
-
+      **JOHN PROCTOR** | Jamie Bowman\
       **ABIGAIL WILLIAMS** | Megan Sheerin\
-
-      **REVEREND PARRIS** | Emma Leaver
-
+      **REVEREND PARRIS** | Emma Leaver\
       **TITUBA** | Anoä-Kanelle Calpas\
-
-      **MARY WARREN** | Molly Clifford
-
+      **MARY WARREN** | Molly Clifford\
       **REVEREND HALE** | Randy Brown\
-
-      **JUDGE DANFORTH** | Eric Petrossian\
-
+      **JUDGE** DAN-FORTH | Eric Petrossian\
       **MERCY LEWIS** | Jaelon Love\
-
-      **SUSANNA WALCOTT** | Rosie O'Rourke
-
-      **BETTY PARRIS** | Ruby Barry
-
-      **THOMAS PUTNAM** | Paul Caira
-
+      **SUSANNA WALCOTT** | Rosie O'Rourke\
+      **BETTY PARRIS** | Ruby Barry\
+      **THOMAS PUTNAM** | Paul Caira\
       **ANN PUTNAM** | Julia Blyth\
-
-      **GILES COREY** | David Wainwright
-
-      **REBECCA NURSE** | Jeryl Burgess
-
-      **FRANCIS NURSE** | John Stivey
-
-      **JUDGE HATHORNE** | Clare Janew
-
-      **SARAH GOOD** | Louisa Shindle
-
-      **EZEKIEL CHEEVER** | Jesse Pincombe
-
+      **GILES COREY** | David Wainwright\
+      **REBECCA NURSE** | Jeryl Burgess\
+      **FRANCIS NURSE** | John Stivey\
+      **JUDGE HATHORNE** | Clare Janew\
+      **SARAH GOOD** | Louisa Shindle\
+      **EZEKIEL CHEEVER** | Jesse Pincombe\
       **HERRICK** | Benjamin Meacher\
-
-      **ENSEMBLE** | Ciara Gaughan
-
+      **ENSEMBLE** | Ciara Gaughan\
       **ENSEMBLE** | Flora Simon de la Mortiere\
-
       **ENSEMBLE** | Grace O'Brien\
-
       **ENSEMBLE** | Natasha Keith\
-
       **ENSEMBLE** | Shervine Thompson
-
 
       **CREATIVE TEAM**
 
-
       **DIRECTOR** | Jonah McLeod (he/him)\
-
       **DIRECTOR** | Anoushka Nairac (she/they)\
-
       **PRODUCER** | Kacper Neumann (he/him)\
-
       **SET DESIGNER** | Ellen Redgrave (they/them)\
-
       **LIGHTING DESIGNER** | Olly Levett\
-
       **STAGE MANAGER** | Tash Boret\
-
       **MARKETING** | Ellen Redgrave\
-
-      **COMMITTEE LIAISON** | Adam Coppard (he/him) 
-
-
-      > Tash Boret as Stage manager, Olly Levett as Lighting designer and add the role of Marketing to me as well? Also it still says Sorrel Brown is our committee liaison.
+      **COMMITTEE LIAISON** | Adam Coppard (he/him)
 metaTitle: The Crucible, by Arthur Miller, plays at the Bridewell Theatre 16-20
   September 2025
 metaDescription: The Crucible, by Arthur Miller, is an  enduring story of blame,
