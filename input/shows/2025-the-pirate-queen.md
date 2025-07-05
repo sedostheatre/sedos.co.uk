@@ -102,6 +102,12 @@ sections:
 
       **ASSISTANT STAGE MANAGER/SOUND NUMBER 2** | Ben Hussey (he/him)\
 
+      **FIGHT DIRECTOR** | Andrew Ashenden\
+
+      **ASSISTANT FIGHT DIRECTOR** | Marie Drisch\
+
+      **PHOTOGRAPHERS** | Adrian Hau, Emma Miller and Lynn Batten\
+
       **SHOW IMAGE** | Mayfire Design\
 
       **COMMITTEE LIAISON** | Paul Caira
