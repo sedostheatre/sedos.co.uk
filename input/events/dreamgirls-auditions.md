@@ -14,7 +14,7 @@ metaDescription: Information about Dreamgirls auditions, for Sedos’ production
 ---
 Information has been released about *[Dreamgirls](https://www.sedos.co.uk/shows/2025-dreamgirls)* auditions and the pre-audition workshops. The musical is showing from 19-29 November at the [Bridewell Theatre](https://www.sedos.co.uk/venues/bridewell).
 
-## **FULL AUDITION NOTICE**
+## [FULL AUDITION NOTICE](https://drive.google.com/drive/folders/1o5X6vaK-Kjs5HdBmaE8zSKWOUo_wTZhp)
 
 **KEY DATES**
 
