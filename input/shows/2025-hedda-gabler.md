@@ -53,6 +53,20 @@ sections:
       src="https://live.staticflickr.com/65535/54599315237_93a691d882_c.jpg"
       width="800" height="600" alt="Hedda Gabler - 2025"/></a><script async
       src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+  - order: 3
+    title: REVIEWS
+    body: >-
+      >Sedos’ production of Hedda Gabler is a riveting take on this seminal
+      piece of theatre and one where the titular characters portrayal was
+      nuanced and unrelenting. A darkly disturbing night at the theatre which
+      felt fresh despite its literary heritage.
+
+      ><footer><cite><a target="_blank" href="https://musicaltheatremusings.co.uk/hedda-gabler-sedos">Hedda Gabler, 2025, Musical Theatre Musings</a></cite></footer>
+
+
+      >This production is a striking, well-paced, and thought-provoking take on Hedda Gabler, breathing fresh life into a complex classic. It’s a reminder that while times may change, the human psyche and its capacity for destruction remain eerily constant. A thoroughly enjoyable and unsettling evening of theatre.
+
+      ><footer><cite><a target="_blank" href="https://www.londontheatre1.com/reviews/hedda-gabler-bridewell-theatre-review/">Hedda Gabler, 2025, London Theatre 1 (****)</a></cite></footer>
 metaTitle: Hedda Gabler by Henrik Ibsen, in a version by Patrick Marber, plays
   at the Bridewell Theatre from 8-12 July 2025
 metaDescription: Hedda Gabler by Henrik Ibsen, in a version by Patrick Marber.
