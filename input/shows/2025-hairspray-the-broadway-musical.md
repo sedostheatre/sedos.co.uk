@@ -124,16 +124,16 @@ sections:
 
       **COMMITTEE LIAISONS** | Tim Garrad (he/him) and Karen Braganza (she/her)
     title: CAST & CREATIVE TEAM
-  - order: 1
+  - order: 2
     title: FLYER
     body: |-
       ![](/assets/hairsprayflyerfront-1-800.jpg)
 
       ![](/assets/hairsprayflyerback-800.png)
-  - order: 3
+  - order: 4
     title: VIDEO
     body: <div class="video-responsive"><?# YouTube BwLluJnEF84 /?></div>
-  - order: 4
+  - order: 5
     title: REVIEWS
     body: >-
       >Sedos’ production Hairspray gives you everything you could want in a
@@ -147,6 +147,19 @@ sections:
       >A highly expressive and lively production. You know an amateur dramatics society is doing something right when it puts on something more enjoyable than some of the shows on West End stages at the moment.
 
       ><footer><cite><a target="_blank" href="https://www.londontheatre1.com/reviews/hairspray-bridewell-theatre-review/">Hairspray, 2025, London Theatre 1 (****)</a></cite></footer>
+  - order: 3
+    title: GALLERY
+    body: >-
+      <a data-flickr-embed="true"
+      href="https://www.flickr.com/photos/sedos/albums/72177720327044836"
+      title="Hairspray - Production - 2025"><img
+      src="https://live.staticflickr.com/65535/54608332973_d47e1a6c45_c.jpg"
+      width="800" height="600" alt="Hairspray - Production - 2025"/></a><script
+      async src="//embedr.flickr.com/assets/client-code.js"
+      charset="utf-8"></script>
+
+
+      <a data-flickr-embed="true" href="https://www.flickr.com/photos/sedos/albums/72177720327070794" title="Hairspray - Rehearsal - 2025"><img src="https://live.staticflickr.com/65535/54608411070_436554bb6a_c.jpg" width="800" height="600" alt="Hairspray - Rehearsal - 2025"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 metaTitle: Hairspray plays at the Bridewell Theatre from 7-17 May 2025
 metaDescription: Hairspray is the big, bold and beautiful musical you’ve been
   waiting for! It is part of Sedos’ 2025 season and plays at the Bridewell
