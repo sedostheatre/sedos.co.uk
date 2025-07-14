@@ -11,6 +11,20 @@ RedirectFrom:
 
 # 2025
 
+# *Hedda Gabler*
+
+^^^
+![Dress rehearsal image of Hedda Gabler](/assets/newsletter.png)
+^^^ Hedda Gabler
+
+>Sedos’ production of Hedda Gabler is a riveting take on this seminal piece of theatre and one where the titular characters portrayal was nuanced and unrelenting. A darkly disturbing night at the theatre which felt fresh despite its literary heritage.
+><footer><cite><a target="_blank" href="https://musicaltheatremusings.co.uk/hedda-gabler-sedos">Hedda Gabler, 2025, Musical Theatre Musings</a></cite></footer>
+
+
+
+>This production is a striking, well-paced, and thought-provoking take on Hedda Gabler, breathing fresh life into a complex classic. It’s a reminder that while times may change, the human psyche and its capacity for destruction remain eerily constant. A thoroughly enjoyable and unsettling evening of theatre.
+><footer><cite><a target="_blank" href="https://www.londontheatre1.com/reviews/hedda-gabler-bridewell-theatre-review/">Hedda Gabler, 2025, London Theatre 1 (****)</a></cite></footer>
+
 # *Hairspray*
 
 ^^^
