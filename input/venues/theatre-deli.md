@@ -19,7 +19,7 @@ Theatre Deli also has a bar, which we often use for production meetings and othe
 **Address**
 
 Theatre Deli Leadenhall Studios\
-107 Leadenhall Studios\
+107 Leadenhall Street\
 London\
 EC3A 4AF
 
@@ -33,7 +33,7 @@ There is no parking at 107 Leadenhall Street. The nearest car parks are [Just P
 
 Theatre Deli provides a full accessibility guide to the venue, [which you can read here.](https://www.theatredeli.co.uk/Handlers/Download.ashx?IDMF=42bb2472-0650-4359-91f2-77f51c8da41a)[](https://www.theatredeli.co.uk/delibroadgate)
 
-**Theatre Deli’s website[](https://www.theatredeli.co.uk/delibroadgate)**
+**Theatre Deli’s website**[](https://www.theatredeli.co.uk/delibroadgate)
 
 [Visit the venue website](https://www.theatredeli.co.uk/delibroadgate)
 
