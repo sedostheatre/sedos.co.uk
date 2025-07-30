@@ -82,22 +82,24 @@ metaDescription: Assassins, by Stephen Sondheim and John Weidman, is timely
   behind. It is part of Sedos’ 2025 season and plays at the Bridewell Theatre
   from 23-27 September 2025
 ---
-**"Everybody has the right to their dreams.”**
+**“Murder is a tawdry little crime. But when a president gets killed… he gets assassinated.”**
 
-*Assassins* tells the stories of nine individuals who either attempted to or succeeded in assassinating Presidents of the United States. The show explores the concept of the American Dream, or rather the dark side of that Dream – that quick fame is the objective and one of the quickest routes to that is to try to kill a President. 
+Welcome to Americon – a twisted convention of history’s most notorious names. From John Wilkes Booth to Lee Harvey Oswald, the assassins who killed – or tried to kill – America’s presidents gather in one surreal, darkly comic musical to take their shot at infamy.
 
-Our production will reimagine *Assassins* in a modern setting and show that, despite being 30 years old, the themes and lessons are still present in our lives today.
+Stephen Sondheim and John Weidman’s *Assassins* is a bold, satirical, fiercely funny journey through the dark side of the American dream, exploring the fractured psyche of a nation obsessed with power, celebrity and the myth of the self-made man. 
 
-Director Dan Edge said: "I am thrilled to be given the opportunity to present a new take on *Assassins*. The show is incredibly relevant to our current political and social situation, and I hope that the new setting and style will resonate with audiences and show what happens to those that are left behind by the American Dream."
+In this nightmarish roller coaster, assassins from across the ages meet and inspire each other to harrowing acts. Time bends, motives collide and forgotten voices demand to be heard – by any means necessary.
 
-**Content warnings:** The show includes scenes of and references to violence, including guns and gunshots, death, suicide and strong language. Recommended for ages 15+.
+A multiple award-winning theatrical tour-de-force, *Assassins* brings Sondheim's signature blend of intelligent lyrics and beautiful music to this timely reimagining of one of the most controversial musicals ever written.
 
-**SPECIAL OFFER:** book any four (or more) shows in Sedos’ 2025 Bridewell season in one transaction and receive 25% off. The discount will be applied automatically at the [online box office](https://sedos.ticketsolve.com/ticketbooth/shows). 
+Take your seat. Take your shot.
 
-*Assassins* plays at the [Bridewell Theatre](https://www.sedos.co.uk/venues/bridewell) from 17-21 September 2024.
+*Assassins* plays at the [Bridewell Theatre](<>) from 17-21 September 2024.
+
+**Content warnings:** The show includes scenes of and references to violence, including guns and gunshots, death, suicide and strong language. It also includes explicit language and mature content. Recommended for ages 15+.
 
 **Assassins**\
-Music and Lyrics by Stephen Sondheim 
+Music and Lyrics by Stephen Sondheim \
 Book by John Weidman
 
 *Assassins* is based on an idea by Charles Gilbert, Jr.\
