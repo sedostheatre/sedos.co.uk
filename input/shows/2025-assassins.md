@@ -94,7 +94,7 @@ A multiple award-winning theatrical tour-de-force, *Assassins* brings Sondheim's
 
 Take your seat. Take your shot.
 
-*Assassins* plays at the [Bridewell Theatre](<>) from 17-21 September 2024.
+*Assassins* plays at the [Bridewell Theatre](<>) from 23-27 September 2024.
 
 **Content warnings:** The show includes scenes of and references to violence, including guns and gunshots, death, suicide, strong language and adult content. All guns used during this performance are replicas which are inoperable. All gunshot sound effects are pre-recorded. Recommended for ages 15+.
 
