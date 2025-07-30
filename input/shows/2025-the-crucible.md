@@ -33,7 +33,7 @@ sections:
       **TITUBA** | Anoä-Kanelle Calpas\
       **MARY WARREN** | Molly Clifford\
       **REVEREND HALE** | Randy Brown\
-      **JUDGE** DAN-FORTH | Eric Petrossian\
+      **JUDGE** **DANFORTH** | Eric Petrossian\
       **MERCY LEWIS** | Jaelon Love\
       **SUSANNA WALCOTT** | Natasha Keith\
       **BETTY PARRIS** | Ruby Barry\
