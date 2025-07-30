@@ -63,11 +63,7 @@ Director David Gregory commented: “*Dreamgirls i*s everything you want from a 
 
 **Content warnings:** mild adult themes.
 
-**SPECIAL OFFER:** book any four (or more) shows in Sedos’ 2025 Bridewell season in one transaction and receive 25% off. The discount will be applied automatically at the [online box office](https://sedos.ticketsolve.com/ticketbooth/shows). 
-
 *Dreamgirls* plays at the [Bridewell Theatre](https://www.sedos.co.uk/venues/bridewell) from 19-29 November 2025.
-
-**AUDITIONS:** [*Dreamgirls* auditions](https://www.sedos.co.uk/events/dreamgirls-auditions) information
 
 **Dreamgirls**
 Book and Lyrics by Tom Eyen 
