@@ -35,7 +35,7 @@ sections:
       **REVEREND HALE** | Randy Brown\
       **JUDGE** DAN-FORTH | Eric Petrossian\
       **MERCY LEWIS** | Jaelon Love\
-      **SUSANNA WALCOTT** | Rosie O'Rourke\
+      **SUSANNA WALCOTT** | Natasha Keith\
       **BETTY PARRIS** | Ruby Barry\
       **THOMAS PUTNAM** | Paul Caira\
       **ANN PUTNAM** | Julia Blyth\
@@ -46,7 +46,6 @@ sections:
       **SARAH GOOD** | Louisa Shindle\
       **EZEKIEL CHEEVER** | Jesse Pincombe\
       **HERRICK** | Benjamin Meacher\
-      **ENSEMBLE** | Ciara Gaughan\
       **ENSEMBLE** | Flora Simon de la Mortiere\
       **ENSEMBLE** | Grace O'Brien\
       **ENSEMBLE** | Natasha Keith\
