@@ -27,7 +27,7 @@ metaDescription: Find out about all amateur theatre company Sedos’ London
 
 Looking for London auditions?
 
-At Sedos, we hold free, open auditions for all [our plays and musicals](https://sedos.co.uk/whats-on) and welcome members and non-members. We are committed to casting the best person for the role regardless of membership status. 
+At Sedos, we hold free, open auditions for all [our plays and musicals](https://sedos.co.uk/whats-on) and welcome members and non-members. We are committed to casting the best person for the role regardless of membership status and around half our cast members are new to Sedos in every show. 
 
 Sedos [seeks to build and sustain a membership that is reflective of the diverse communities](https://www.sedos.co.uk/about/diversity-and-inclusion) within our city and we love to see a diverse range of auditionees at our London auditions. We actively encourage performers to audition for the roles which they feel best suit their skills. Any specific requirements will be detailed in the casting breakdown on individual shows’ auditions notices. 
 
