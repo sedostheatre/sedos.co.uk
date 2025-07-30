@@ -3,8 +3,8 @@ title: Assassins
 year: "2025"
 authors: Music and Lyrics by STEPHEN SONDHEIM
 authors2: Book by JOHN WEIDMAN
-subtitle: A timely reimagining of Stephen Sondheim’s musical that explores the
-  darkness in those that the American Dream leaves behind
+subtitle: The assassins who killed – or tried to kill – America’s presidents
+  gather in one surreal, darkly comic musical to take their shot at infamy.
 showtimes:
   - time: 2025-09-23 19:30
   - time: 2025-09-24 19:30
