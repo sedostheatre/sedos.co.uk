@@ -65,7 +65,7 @@ Director David Gregory commented: “*Dreamgirls i*s everything you want from a 
 
 *Dreamgirls* plays at the [Bridewell Theatre](https://www.sedos.co.uk/venues/bridewell) from 19-29 November 2025.
 
-**Dreamgirls**
+**Dreamgirls**\
 Book and Lyrics by Tom Eyen 
 Music by Henry Krieger 
 
