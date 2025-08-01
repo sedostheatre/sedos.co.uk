@@ -32,13 +32,13 @@ sections:
     body: |-
       **CAST**
 
-      **EFFIE WHITE** | Lashayah Byfield
-      **DEENA JONES** | Jasmine Sakpoba
-      **LORRELL ROBINSON** | Nicole Vassell
-      **MICHELLE MORRIS** | Mary Briggs
-      **CURTIS TAYLOR JR.** | Ruben Ondo Mesa
-      **C.C. WHITE** | Nvaron Anderson
-      **JAMES “THUNDER” EARLY** | Tashan Nicholas
+      **EFFIE WHITE** | Lashayah Byfield\
+      **DEENA JONES** | Jasmine Sakpoba\
+      **LORRELL ROBINSON** | Nicole Vassell\
+      **MICHELLE MORRIS** | Mary Briggs\
+      **CURTIS TAYLOR JR.** | Ruben Ondo Mesa\
+      **C.C. WHITE** | Nvaron Anderson\
+      **JAMES “THUNDER” EARLY** | Tashan Nicholas\
       **MARTY MADISON** | Orlando Bolt
 
       **ALL OTHER ROLES PLAYED BY**
