@@ -30,6 +30,39 @@ box-office-link: https://sedos.ticketsolve.com/ticketbooth/shows/1173660213/even
 sections:
   - order: 1
     body: |-
+      **CAST**
+
+      **EFFIE WHITE** | Lashayah Byfield
+      **DEENA JONES** | Jasmine Sakpoba
+      **LORRELL ROBINSON** | Nicole Vassell
+      **MICHELLE MORRIS** | Mary Briggs
+      **CURTIS TAYLOR JR.** | Ruben Ondo Mesa
+      **C.C. WHITE** | Nvaron Anderson
+      **JAMES “THUNDER” EARLY** | Tashan Nicholas
+      **MARTY MADISON** | Orlando Bolt
+
+      **ALL OTHER ROLES PLAYED BY**
+
+      Tomiwa Akintunde\
+      Aku Allotey\
+      Melissa Boateng\
+      Johnathan Aaron Clarke\
+      Josephine Bannerman\
+      Emma Bowker\
+      Cheyane Brown\
+      Bailey Edwards\
+      Bex Evans\
+      Ben Gad-Briggs\
+      Trevonte Golding\
+      Jamie-lee Lee Grant\
+      Stephen McLoughlin\
+      Ben Meyer\
+      Navin Nair\
+      Ngozi Onyenemelu\
+      Tesh Samuel
+
+      **CREATIVE TEAM**\
+      \
       **DIRECTOR** | David Gregory (he/him)\
       **MUSICAL DIRECTOR** | Isaac Bartels (he/him)\
       **ASSISTANT DIRECTOR** | Rinre Olusola (she/her)\
@@ -40,7 +73,7 @@ sections:
       **LIGHTING DESIGNER** | Ben Sassoon (he/him)\
       **SOUND DESIGNER** | Pranav Mahesh (he/him)\
       **COMMITTEE LIAISON** | George Langdown (he/him)
-    title: CREATIVE TEAM
+    title: CAST & CREATIVE TEAM
 metaTitle: Dreamgirls plays at the Bridewell Theatre 19-29 November 2025
 metaDescription: Dreamgirls, by Tom Eyen and Henry Krieger, is a sweeping and
   inspirational journey through 20th century American pop music. It is part of
