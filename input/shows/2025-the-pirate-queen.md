@@ -119,7 +119,7 @@ sections:
       src="https://live.staticflickr.com/65535/54548436244_81c262a036_c.jpg"
       width="800" height="600" alt="The Pirate Queen - 2025"/></a><script async
       src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-  - order: 3
+  - order: 4
     title: DIGITAL PROGRAMME
     body: >-
       [Read *The Pirate Queen* digital
@@ -131,6 +131,12 @@ sections:
       ![The Pirate Queen digital programme cover](/assets/screenshot-2025-06-20-at-08.56.13.png)
 
       ^^^
+  - order: 3
+    title: VIDEO
+    body: >-
+      
+
+      <div class="video-responsive"><?# YouTube https://www.youtube.com/watch?v=luS6hTbEv7k /?></div>
 RedirectFrom: []
 metaTitle: The Pirate Queen, an epic musical adventure from the writers of Les
   Misérables and Miss Saigon, plays at the Minack Theatre, Cornwall, from 30
