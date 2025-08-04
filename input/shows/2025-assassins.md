@@ -66,6 +66,8 @@ sections:
 
       **PRODUCER** | Pippa Kyle (she/her)\
 
+      **STAGE MANAGER** | Andrew Laidlaw (he/him)\
+
       **LIGHTING DESIGNER** | Martin Walton (he/him)\
 
       **COSTUMES** | Annie Houseago\
@@ -73,6 +75,8 @@ sections:
       **MARKETING** | Stephen Beeny\
 
       **PHOTOGRAPHER** | David Ovenden (he/him)\
+
+      **VIDEOGRAPHER** | Adrian Hau (he/him)\
 
       **COMMITTEE LIAISON** | Emma Miller (she/her)
 metaTitle: Assassins, by Stephen Sondheim and John Weidman, plays at the
