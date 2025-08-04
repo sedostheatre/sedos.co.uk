@@ -133,10 +133,7 @@ sections:
       ^^^
   - order: 3
     title: VIDEO
-    body: |-
-      <div class="video-responsive"><?# YouTube luS6hTbEv7k /?></div>
-
-      <div class="video-responsive"><?# YouTube DZ8jODIK7_0 /?></div>
+    body: <div class="video-responsive"><?# YouTube luS6hTbEv7k /?></div>
 RedirectFrom: []
 metaTitle: The Pirate Queen, an epic musical adventure from the writers of Les
   Misérables and Miss Saigon, plays at the Minack Theatre, Cornwall, from 30
