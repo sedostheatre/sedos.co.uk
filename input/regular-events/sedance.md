@@ -54,6 +54,5 @@ Drop-in price - £8 per class
 
 <div class="video-responsive"><?# YouTube DZ8jODIK7_0 /?></div>
 
-
 ![Rehearsals for Sedos’ 2019 original dance adaptation, Dangerous Liaisons, which featured many regulars from Sedance, Sedos’ London dance class](/assets/48781085673_2a459c1bb7_c.jpg)
 ^^^ Rehearsals for Sedos’ 2019 original dance adaptation, Dangerous Liaisons
