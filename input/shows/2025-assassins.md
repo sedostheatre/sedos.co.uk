@@ -82,8 +82,6 @@ sections:
   - order: 1
     title: VIDEOS
     body: |-
-      
-
       <div class="video-responsive"><?# YouTube KZ1RU7yNg4g /?></div>
 
       <div class="video-responsive"><?# YouTube A1H0C16KaEQ /?></div>
