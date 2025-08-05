@@ -79,6 +79,14 @@ sections:
       **VIDEOGRAPHER** | Adrian Hau (he/him)\
 
       **COMMITTEE LIAISON** | Emma Miller (she/her)
+  - order: 1
+    title: VIDEOS
+    body: |-
+      
+
+      <div class="video-responsive"><?# YouTube KZ1RU7yNg4g /?></div>
+
+      <div class="video-responsive"><?# YouTube A1H0C16KaEQ /?></div>
 metaTitle: Assassins, by Stephen Sondheim and John Weidman, plays at the
   Bridewell Theatre from 23-27 September 2025
 metaDescription: Assassins, by Stephen Sondheim and John Weidman, is timely
