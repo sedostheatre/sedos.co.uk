@@ -18,7 +18,7 @@ ticket-prices: Tickets from £14 (no booking fee)
 primary-color: "#211e6d"
 header-image: /assets/assassnis-face-bullets-copy.jpg
 header-image-contain: false
-flyer: /assets/assassins-poster-2025.jpg
+flyer: /assets/assassisn-flyer-front.jpeg
 box-office-open: true
 box-office-link: https://sedos.ticketsolve.com/ticketbooth/shows/1173660211
 sections:
