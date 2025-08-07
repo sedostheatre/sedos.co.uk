@@ -17,7 +17,7 @@ ticket-prices: Tickets from £12.50 (no booking fee)
 primary-color: "#a73f35"
 header-image: /assets/cruciblewebsiteimage1.png
 header-image-contain: false
-flyer: /assets/crucible-poster-2025.jpg
+flyer: /assets/crucibleposterforweb.jpg
 box-office-open: true
 box-office-link: https://sedos.ticketsolve.com/ticketbooth/shows/1173660210
 sections:
