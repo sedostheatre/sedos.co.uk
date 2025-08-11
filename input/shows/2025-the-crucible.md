@@ -61,6 +61,12 @@ sections:
       **STAGE MANAGER** | Tash Boret\
       **MARKETING** | Ellen Redgrave\
       **COMMITTEE LIAISON** | Adam Coppard (he/him)
+  - order: 1
+    title: FLYER
+    body: |-
+      ![](/assets/thecrucibleflyer-front800.jpg)
+
+      ![](/assets/thecrucibleflyerback800.jpg)
 metaTitle: The Crucible, by Arthur Miller, plays at the Bridewell Theatre 16-20
   September 2025
 metaDescription: The Crucible, by Arthur Miller, is an  enduring story of blame,
