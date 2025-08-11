@@ -66,7 +66,7 @@ sections:
     body: |-
       ![](/assets/crucibleposterforweb.jpg)
 
-      ![](/assets/thecrucibleflyerback800.jpg)
+      ![](/assets/thecrucibleflyerback800-2.jpg)
 metaTitle: The Crucible, by Arthur Miller, plays at the Bridewell Theatre 16-20
   September 2025
 metaDescription: The Crucible, by Arthur Miller, is an  enduring story of blame,
