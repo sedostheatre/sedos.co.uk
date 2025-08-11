@@ -64,7 +64,7 @@ sections:
   - order: 1
     title: FLYER
     body: |-
-      ![](/assets/thecrucibleflyer-front800.jpg)
+      ![](/assets/crucibleposterforweb.jpg)
 
       ![](/assets/thecrucibleflyerback800.jpg)
 metaTitle: The Crucible, by Arthur Miller, plays at the Bridewell Theatre 16-20
