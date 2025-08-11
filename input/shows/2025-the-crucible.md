@@ -61,7 +61,7 @@ sections:
       **STAGE MANAGER** | Tash Boret\
       **MARKETING** | Ellen Redgrave\
       **COMMITTEE LIAISON** | Adam Coppard (he/him)
-  - order: 1
+  - order: 2
     title: FLYER
     body: |-
       ![](/assets/thecrucibleflyer800-2.jpg)
