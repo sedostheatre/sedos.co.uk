@@ -93,6 +93,14 @@ sections:
       <div class="video-responsive"><?# YouTube A1H0C16KaEQ /?></div>
 
       <div class="video-responsive"><?# YouTube cF0_S7kfnXc /?></div>
+  - order: 4
+    title: GALLERY
+    body: <a data-flickr-embed="true"
+      href="https://www.flickr.com/photos/sedos/albums/72177720328374453"
+      title="Assassins - 2025"><img
+      src="https://live.staticflickr.com/65535/54719544632_33d21712ed_z.jpg"
+      width="800" height="600" alt="Assassins - 2025"/></a><script async
+      src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 metaTitle: Assassins, by Stephen Sondheim and John Weidman, plays at the
   Bridewell Theatre from 23-27 September 2025
 metaDescription: Assassins, by Stephen Sondheim and John Weidman, is timely
