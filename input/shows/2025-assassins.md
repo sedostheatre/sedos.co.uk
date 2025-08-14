@@ -85,6 +85,8 @@ sections:
       <div class="video-responsive"><?# YouTube KZ1RU7yNg4g /?></div>
 
       <div class="video-responsive"><?# YouTube A1H0C16KaEQ /?></div>
+
+      <div class="video-responsive"><?# YouTube cF0_S7kfnXc /?></div>
 metaTitle: Assassins, by Stephen Sondheim and John Weidman, plays at the
   Bridewell Theatre from 23-27 September 2025
 metaDescription: Assassins, by Stephen Sondheim and John Weidman, is timely
