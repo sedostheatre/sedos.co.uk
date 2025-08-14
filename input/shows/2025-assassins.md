@@ -79,14 +79,22 @@ sections:
       **VIDEOGRAPHER** | Adrian Hau (he/him)\
 
       **COMMITTEE LIAISON** | Emma Miller (she/her)
-  - order: 1
+  - order: 2
+    title: FLYER
+    body: |-
+      ![](/assets/assassins-front-800.jpg)
+
+      ![](/assets/assassins-flyer-back-800.jpg)
+  - order: 3
     title: VIDEOS
     body: |-
-      <div class="video-responsive"><?# YouTube KZ1RU7yNg4g /?></div>
+      ^^^
+      ![](/assets/assassins-front-800.jpg)
+      ^^^ 
 
-      <div class="video-responsive"><?# YouTube A1H0C16KaEQ /?></div>
-
-      <div class="video-responsive"><?# YouTube cF0_S7kfnXc /?></div>
+      ^^^
+      ![](/assets/assassins-flyer-back-800.jpg)
+      ^^^
 metaTitle: Assassins, by Stephen Sondheim and John Weidman, plays at the
   Bridewell Theatre from 23-27 September 2025
 metaDescription: Assassins, by Stephen Sondheim and John Weidman, is timely
