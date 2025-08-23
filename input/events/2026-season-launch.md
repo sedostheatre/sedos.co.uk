@@ -15,5 +15,5 @@ Just turn up on the evening, no sign-up required.
 We hope to see you there!
 
 ^^^
-![](/assets/2026-season-launch.jpeg)
+![2026 Season Launch](/assets/2026-season-launch.jpeg)
 ^^^
