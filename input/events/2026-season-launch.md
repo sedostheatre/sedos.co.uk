@@ -1,5 +1,7 @@
 ---
 title: 2026 Season Launch
+times:
+  - time: 2025-09-11 19:00
 image: /assets/2026-season-launch.jpeg
 imageAlt: 2026 Season Launch
 metaTitle: 2026 Season Launch
