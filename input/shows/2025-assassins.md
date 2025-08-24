@@ -72,7 +72,17 @@ sections:
 
       **COSTUMES** | Annie Houseago\
 
+      **SOUND DESIGNER** | Adrian Jeakins (he/him)\
+
+      **DEPUTY SOUND OPERATOR** | Adam Coppard (he/him)\
+
+      **MIC ELF** | Emma Hunt (she/they)\
+
+      **PROPS AND ASSISTANT STAGE MANAGER** | Harvey Dovell (he/him)\
+
       **MARKETING** | Stephen Beeny\
+
+      PROGRAMME | Stephen Beeny and Pippa Kyle (she/her)\
 
       **PHOTOGRAPHER** | David Ovenden (he/him)\
 
