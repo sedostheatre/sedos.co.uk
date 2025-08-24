@@ -134,7 +134,7 @@ Take your seat. Take your shot.
 
 *Assassins* plays at the [Bridewell Theatre](https://sbf.org.uk/venue-hire/bridewell-theatre/) from 23-27 September 2024.
 
-**Content warnings:** The show includes scenes of and references to violence, including guns and gunshots, death, suicide, strong language and adult content. All guns used during this performance are replicas which are inoperable. All gunshot sound effects are pre-recorded. Recommended for ages 15+.
+**Content warnings:** The show includes scenes of and references to violence, including guns and gunshots, death, suicide, strong language and adult content. The production also includes a single use of strong racially discriminatory language. All guns used during this performance are replicas which are inoperable. All gunshot sound effects are pre-recorded. Recommended for ages 15+.
 
 **Assassins**\
 Music and Lyrics by Stephen Sondheim \
