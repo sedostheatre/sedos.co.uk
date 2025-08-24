@@ -36,7 +36,7 @@ sections:
 
       **LEON CZOLGOSZ** | Jake Dufton (he/him)\
 
-      **JOHN HINCKLEY** | Glen Jordan (he/him)\
+      **JOHN HINCKLEY JR.** | Glen Jordan (he/him)\
 
       **SAMUEL BYCK** | Adam Moulder\
 
@@ -82,7 +82,7 @@ sections:
 
       **MARKETING** | Stephen Beeny\
 
-      PROGRAMME | Stephen Beeny and Pippa Kyle (she/her)\
+      **PROGRAMME** | Stephen Beeny and Pippa Kyle (she/her)\
 
       **PHOTOGRAPHER** | David Ovenden (he/him)\
 
