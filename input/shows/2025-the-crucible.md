@@ -56,10 +56,13 @@ sections:
       **DIRECTOR** | Jonah McLeod (he/him)\
       **DIRECTOR** | Anoushka Nairac (she/they)\
       **PRODUCER** | Kacper Neumann (he/him)\
-      **SET DESIGNER** | Ellen Redgrave (they/them)\
+      **ASSISTANT PRODUCER |** Ellie McWilliam\
+      **SET DESIGNER and MARKETING** | Ellen Redgrave (they/them)\
       **LIGHTING DESIGNER** | Olly Levett\
       **STAGE MANAGER** | Tash Boret\
-      **MARKETING** | Ellen Redgrave\
+      **SET REALISATION |** Lydia Edwards
+      **PROPS PERSON |** Azul Alysum \
+      **MUSICAL DIRECTOR** | Sophie Stevenson\
       **COMMITTEE LIAISON** | Adam Coppard (he/him)
   - order: 2
     title: FLYER
