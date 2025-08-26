@@ -61,7 +61,7 @@ sections:
       **LIGHTING DESIGNER** | Olly Levett\
       **STAGE MANAGER** | Tash Boret\
       **SET REALISATION |** Lydia Edwards\
-      **PROPS PERSON |** Azul Alysum \
+      **PROPS |** Azul Alysum \
       **MUSICAL DIRECTOR** | Sophie Stevenson\
       **COMMITTEE LIAISON** | Adam Coppard (he/him)
   - order: 2
