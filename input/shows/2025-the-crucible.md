@@ -71,6 +71,17 @@ sections:
       ^^^
       ![](/assets/thecrucibleflyerback800-2.jpg)
       ^^^
+  - order: 3
+    title: GALLERY
+    body: <a data-flickr-embed="true"
+      href="https://www.flickr.com/photos/sedos/albums/72177720328600755"
+      title="The Crucible - 2025"><img
+      src="https://live.staticflickr.com/65535/54744734497_0d5ea23cd2_z.jpg"
+      width="800" height="600" alt="The Crucible - 2025"/></a><script async
+      src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+  - order: 5
+    title: VIDEO
+    body: <div class="video-responsive"><?# YouTube yLvFQMAaeE0 /?></div>
 metaTitle: The Crucible, by Arthur Miller, plays at the Bridewell Theatre 16-20
   September 2025
 metaDescription: The Crucible, by Arthur Miller, is an  enduring story of blame,
