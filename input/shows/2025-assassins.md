@@ -70,6 +70,8 @@ sections:
 
       **LIGHTING DESIGNER** | Martin Walton (he/him)\
 
+      **ASSISTANT LIGHTING DESIGNER** | Ben Sassoon (he/him)\
+
       **COSTUMES** | Annie Houseago\
 
       **SOUND DESIGNER** | Adrian Jeakins (he/him)\
