@@ -78,9 +78,11 @@ sections:
 
       **DEPUTY SOUND OPERATOR** | Adam Coppard (he/him)\
 
-      **MIC ELF** | Emma Hunt (she/they)\
+      **SOUND NO 2** | Emma Hunt (she/they)\
 
       **PROPS AND ASSISTANT STAGE MANAGER** | Harvey Dovell (he/him)\
+
+      **ASSISTANT STAGE MANAGER** | Shiri Stern (she/her)\
 
       **MARKETING** | Stephen Beeny\
 
