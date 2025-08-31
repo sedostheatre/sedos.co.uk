@@ -2,7 +2,7 @@
 title: Financial Assistance Scheme
 row: 2
 column: 2
-image: /assets/financialassistancescheme-website-copy.jpg
+image: /assets/fas-curtain-website.jpg
 redirectFrom:
   - fas/
 ---
