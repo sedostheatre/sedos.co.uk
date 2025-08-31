@@ -30,7 +30,7 @@ sections:
 
       **LYNETTE "SQUEAKY" FROMME** | Claire Brewin (she/her)\
 
-      **SARAH JANE MOORE** | Jessica Dawes (she/her)\
+      **SARA JANE MOORE** | Jessica Dawes (she/her)\
 
       **LEE HARVEY OSWALD** | Joe Dickens (he/him)\
 
