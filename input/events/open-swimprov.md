@@ -5,8 +5,8 @@ times:
   - time: 2025-11-04 19:30
   - time: 2025-12-02 19:30
 image: /assets/simprov-july-24-3.jpg
-recurrence: "The first Tuesday of every month, 7.30-9.30pm "
-ticket-prices: FREE
+recurrence: The first Tuesday of every month, 7.30-9.30pm (doors open at 7.15pm)
+ticket-prices: Free tickets available via the "Book Tickets" link top right
 metaTitle: Simprov's Monthly showcase and Jam
 ---
 ## **Simprov's Monthly showcase and Jam**
@@ -24,4 +24,6 @@ This takes place on the first Tuesday of every month, 7.30-9.30pm (doors open at
 
 Find out more about [Simprov](https://www.sedos.co.uk/regular-events/simprov).
 
-![](/assets/simprov-july-24-3.jpg)
+## **See past jams!**
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/sedos/albums/72177720323053270" title="Simprov"><img src="https://live.staticflickr.com/65535/54255138604_969d94f269_z.jpg" width="640" height="480" alt="Simprov"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
