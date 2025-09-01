@@ -22,8 +22,6 @@ This takes place on the first Tuesday of every month, 7.30-9.30pm (doors open at
 
 Find out more about [Simprov](https://www.sedos.co.uk/regular-events/simprov).
 
-
-
 ```
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/sedos/albums/72177720323053270" title="Simprov"><img src="https://live.staticflickr.com/65535/54255138604_969d94f269_z.jpg" width="640" height="480" alt="Simprov"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 ```
