@@ -36,7 +36,7 @@ Simprov hosts a free monthly showcase featuring pre-booked improv groups plus a 
 **When:** First Tuesday of every month, 7:30-9:30pm\
 **Where:** [Shoreditch Balls](https://www.shoreditchballs.com/), 333 Old St, London EC1V 9LE - [find on Google Maps](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjxoer6ia6PAxWiQUEAHStkLrsQ8gF6BAgcEAM&url=%2Fmaps%2Fplace%2Fshoreditch%2Bballs%2Fdata%3D!4m2!3m1!1s0x48761d59aef76ae1%3A0x8c5958860a889f28%3Fsa%3DX%26ved%3D1t%3A242%26ictx%3D111&usg=AOvVaw3R7Xz1ZcPDQEvAh_mhAkM7&opi=89978449)
 
-See more info or apply to be one of the performing groups
+[See more info or apply to be one of the performing groups](https://www.sedos.co.uk/events/open-swimprov)
 
 ## **Other upcoming performances**
 
