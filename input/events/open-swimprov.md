@@ -4,7 +4,7 @@ times:
   - time: 2025-10-07 19:30
   - time: 2025-11-04 19:30
   - time: 2025-12-02 19:30
-image: /assets/simprov_logo.jpg
+image: /assets/simprov-july-24-3.jpg
 ticket-prices: FREE
 ---
 ## **Simprov's Monthly showcase and Jam**
