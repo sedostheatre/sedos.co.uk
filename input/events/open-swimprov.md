@@ -6,7 +6,7 @@ times:
   - time: 2025-12-02 19:30
 image: /assets/simprov-july-24-3.jpg
 recurrence: "The first Tuesday of every month, 7.30-9.30pm "
-ticket-prices: FREE
+ticket-prices: Free tickets available via the "Book Tickets" link top right
 metaTitle: Simprov's Monthly showcase and Jam
 ---
 ## **Simprov's Monthly showcase and Jam**
