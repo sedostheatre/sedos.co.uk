@@ -96,7 +96,6 @@ sections:
   - order: 2
     title: TRAILER
     body: |-
-      
       <div class="video-responsive"><?# YouTube 2uG6U4QzVus /?></div>
   - order: 3
     title: VIDEOS
