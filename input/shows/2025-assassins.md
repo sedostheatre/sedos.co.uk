@@ -94,11 +94,10 @@ sections:
 
       **COMMITTEE LIAISON** | Emma Miller (she/her)
   - order: 2
-    title: FLYER
+    title: TRAILER
     body: |-
-      ![](/assets/assassins-front-800.jpg)
-
-      ![](/assets/assassins-flyer-back-800.jpg)
+      
+      <div class="video-responsive"><?# YouTube 2uG6U4QzVus /?></div>
   - order: 3
     title: VIDEOS
     body: |-
@@ -120,6 +119,12 @@ sections:
       src="https://live.staticflickr.com/65535/54719544632_33d21712ed_z.jpg"
       width="800" height="600" alt="Assassins - 2025"/></a><script async
       src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+  - order: 5
+    title: FLYER
+    body: |-
+      ![](/assets/assassins-front-800.jpg)
+
+      ![](/assets/assassins-flyer-back-800.jpg)
 metaTitle: Assassins, by Stephen Sondheim and John Weidman, plays at the
   Bridewell Theatre from 23-27 September 2025
 metaDescription: Assassins, by Stephen Sondheim and John Weidman, is timely
