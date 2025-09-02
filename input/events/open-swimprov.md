@@ -5,6 +5,7 @@ times:
   - time: 2025-11-04 19:30
   - time: 2025-12-02 19:30
 image: /assets/simprov-july-24-3.jpg
+venue: Shoreditch Balls
 recurrence: ""
 ticket-prices: Free tickets available via the "Book Tickets" link top right
 metaTitle: Simprov's Monthly showcase and Jam
