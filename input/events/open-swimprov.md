@@ -10,7 +10,7 @@ recurrence: ""
 ticket-prices: Free tickets available via the "Book Tickets" link top right
 metaTitle: Simprov's Monthly showcase and Jam
 ---
-## **Simprov's Monthly showcase and Jam**
+## **Simprov's Monthly Showcase and Jam**
 
 [Simprov](https://www.sedos.co.uk/regular-events/simprov) hosts a free monthly showcase featuring pre-booked improv groups plus a jam where
 everyone (including audience) gets a chance to participate on-stage!
