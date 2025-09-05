@@ -10,7 +10,9 @@ recurrence: ""
 ticket-prices: Free tickets available via the "Book Tickets" link top right
 metaTitle: Simprov's Monthly showcase and Jam
 ---
-![](/assets/swimprov-3-question-mark-graphic.jpg "Simprov!  Simply unrehearsed comedy")
+^^^
+![](/assets/swimprov-3-question-mark-graphic.jpg)
+^^^  Simprov!  Simply unrehearsed comedy
 
 ## **Open Swimprov**
 
