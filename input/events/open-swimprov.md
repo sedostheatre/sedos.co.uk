@@ -33,9 +33,9 @@ Find out more about [Simprov](https://www.sedos.co.uk/regular-events/simprov).
 
 ## **Whose Performing?!**
 
-**7 September 2025** | Simprov and guest acts\
-**4 November 2025** | Simprov and guest acts\
-**2 December 2025** | Simprov and guest acts
+**7 September 2025** | Simprov and guest acts (TBA)\
+**4 November 2025** | Simprov and guest acts (TBA)\
+**2 December 2025** | Simprov and guest acts (YBA)
 
 ## **See past jams!**
 
