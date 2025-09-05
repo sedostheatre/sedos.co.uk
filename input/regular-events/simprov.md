@@ -9,7 +9,9 @@ metaTitle: "London improvisation group: Simprov is run by amateur theatre compan
 metaDescription: Simprov is a drop-in London improvisation group run by theatre
   company Sedos. We let actors explore their spontaneous side
 ---
+^^^
 ![](/assets/simprov-4-landscape-pictures.jpg)
+^^^ 
 
 **Looking for a London improvisation group? Simprov is the Sedos group that lets members and non-members explore their spontaneous side!**
 
