@@ -54,7 +54,7 @@ Blanche Improv Extravaganza\
 *1 Cluny Mews, SW5 9EF*\
 [www.blancheimprov.com/showcalendar](https://www.blancheimprov.com/showcalendar) 
 
-**Monday 13 Ocober** |  8pm\
+**Monday 13 October** |  8pm\
 Duck Duck Goose\
 *Hope & Anchor, 123 Acre Ln, Brixton Hill, SW2 5UA*\
 [www.ddgimprov.com ](https://www.ddgimprov.com/)
