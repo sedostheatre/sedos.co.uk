@@ -10,10 +10,6 @@ recurrence: ""
 ticket-prices: Free tickets available via the "Book Tickets" link top right
 metaTitle: Simprov's Monthly showcase and Jam
 ---
-^^^
-![](/assets/swimprov-3-question-mark-graphic.jpg)
-^^^  Simprov!  Simply unrehearsed comedy
-
 ## **Open Swimprov**
 
 ## **Simprov's Monthly Showcase and Jam**
@@ -33,9 +29,11 @@ Find out more about [Simprov](https://www.sedos.co.uk/regular-events/simprov).
 
 ## **Whose Performing?!**
 
-**7 September 2025** | Simprov and guest acts (TBA)\
+**7 September 2025** | Simprov and guest act Burn the Script\
 **4 November 2025** | Simprov and guest acts (TBA)\
-**2 December 2025** | Simprov and guest acts (TBA)
+**2 December 2025** (TBA)
+
+![](/assets/burnthescript_logo_horizontal_black.jpg)
 
 ## **See past jams!**
 
