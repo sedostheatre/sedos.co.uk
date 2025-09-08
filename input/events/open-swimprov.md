@@ -3,7 +3,6 @@ title: Open Swimprov
 times:
   - time: 2025-10-07 19:30
   - time: 2025-11-04 19:30
-  - time: 2025-12-02 19:30
 image: /assets/simprov-july-24-3.jpg
 venue: Shoreditch Balls
 recurrence: ""
@@ -30,8 +29,7 @@ Find out more about [Simprov](https://www.sedos.co.uk/regular-events/simprov).
 ## **Whose Performing?!**
 
 **7 September 2025** | Simprov and guest act Burn the Script\
-**4 November 2025** | Simprov and guest acts (TBA)\
-**2 December 2025** (TBA)
+**4 November 2025** | Simprov and guest acts (TBA)
 
 ![](/assets/burnthescript_logo_horizontal_black.jpg)
 
