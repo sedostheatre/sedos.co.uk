@@ -9,7 +9,7 @@ recurrence: ""
 ticket-prices: Free tickets available via the "Book Tickets" link top right
 metaTitle: Simprov's Monthly showcase and Jam
 ---
-![](/assets/simprov_logo.jpg)
+![](/assets/openswimprovbanner.png)
 
 ## **Open Swimprov**
 
@@ -28,13 +28,20 @@ This takes place on the first Tuesday of every month, 7.30-9.30pm (doors open at
 
 Find out more about [Simprov](https://www.sedos.co.uk/regular-events/simprov).
 
-## **Whose Performing?!**
+## **Featuring Upcoming Acts...**
 
-**7 September 2025** | Simprov and guest act Burn the Script\
+**7 October 2025** | Simprov and guest act Burn the Script\
 **4 November 2025** | Simprov and guest acts (TBA)
 
 ![](/assets/burnthescript_logo_horizontal_black.jpg)
 
-## **See past jams!**
+Burn the Script\
+Improv comedy that puts a hilarious spin on your favourite movies!
+
+![](/assets/simprov_logo.jpg)
+
+Simprov! Simply unrehearsed comedy
+
+**See past jams!**
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/sedos/albums/72177720323053270" title="Simprov"><img src="https://live.staticflickr.com/65535/54255138604_969d94f269_z.jpg" width="640" height="480" alt="Simprov"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
