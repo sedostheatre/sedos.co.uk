@@ -38,10 +38,10 @@ Find out more about [Simprov](https://www.sedos.co.uk/regular-events/simprov).
 Burn the Script\
 Improv comedy that puts a hilarious spin on your favourite movies!
 
-![](/assets/simprov_logo.jpg)
+![](/assets/simprov-logo-800.jpg)
 
 Simprov! Simply unrehearsed comedy
 
 **See past jams!**
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/sedos/albums/72177720323053270" title="Simprov"><img src="https://live.staticflickr.com/65535/54255138604_969d94f269_z.jpg" width="640" height="480" alt="Simprov"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/sedos/albums/72177720323053270" title="Simprov"><img src="https://live.staticflickr.com/65535/54255139269_bf1567eab5_c.jpg" width="800" height="600" alt="Simprov"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
