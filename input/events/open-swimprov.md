@@ -9,6 +9,8 @@ recurrence: ""
 ticket-prices: Free tickets available via the "Book Tickets" link top right
 metaTitle: Simprov's Monthly showcase and Jam
 ---
+![](/assets/simprov_logo.jpg)
+
 ## **Open Swimprov**
 
 ## **Simprov's Monthly Showcase and Jam**
