@@ -95,8 +95,7 @@ sections:
       **COMMITTEE LIAISON** | Emma Miller (she/her)
   - order: 2
     title: TRAILER
-    body: |-
-      <div class="video-responsive"><?# YouTube 2uG6U4QzVus /?></div>
+    body: <div class="video-responsive"><?# YouTube 2uG6U4QzVus /?></div>
   - order: 3
     title: VIDEOS
     body: |-
@@ -144,6 +143,8 @@ A multiple award-winning theatrical tour-de-force, *Assassins* brings Sondheim's
 Take your seat. Take your shot.
 
 *Assassins* plays at the [Bridewell Theatre](https://sbf.org.uk/venue-hire/bridewell-theatre/) from 23-27 September 2024.
+
+**Every performance of *Assassins* is now sold out – please check the [box office](https://sedos.ticketsolve.com/ticketbooth/shows/1173660211) for returns.**
 
 **Content warnings:** The show includes scenes of and references to violence, including guns and gunshots, death, suicide, strong language and adult content. The production also includes a single use of strong racially discriminatory language. All guns used during this performance are replicas which are inoperable. All gunshot sound effects are pre-recorded. Recommended for ages 15+.
 
