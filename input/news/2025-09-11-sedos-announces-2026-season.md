@@ -29,21 +29,31 @@ More details of the shows and the teams behind them below.
 
 ![Next To Normal](/assets/bridewellpostera4-nexttonormal.png)
 
+a
+
 #### Company | Bridewell Theatre | 7-16 May 2026
 
 ![Company](/assets/bridewellpostera4-company.png)
+
+a
 
 #### The Curious Incident of the Dog in the Night-Time | Bridewell Theatre | 14-18 July 2026
 
 ![The Curious Incident of the Dog in the Night-Time](/assets/bridewellpostera4-curiousincident.png)
 
+a
+
 #### Love's Labour's Lost | Bridewell Theatre | 15-19 September 2026
 
 ![Love's Labour's Lost](/assets/bridewellpostera4-loveslabourslost.png)
 
+a
+
 #### Be More Chill | Bridewell Theatre | 20-24 October 2026
 
 ![Be More Chill](/assets/bridewellpostera4-bemorechill.png)
+
+a
 
 #### Angels in America | Bridewell Theatre | 19-28 November 2026
 
