@@ -28,9 +28,9 @@ metaDescription: Love's Labour's Lost is a sun-drenched, contemporary musical
   adaptation about love, language and letting go. It is part of Sedos’ 2026
   season and plays at the Bridewell Theatre from 15-19 September 2026
 ---
-**"Love’s a play. You know the plot. It’s a comedy. Or that’s what people say. Curtain up, you hear your cue. Boys meet girls and then hijinks ensue."Love’s** 
+**"Love’s a play. You know the plot. It’s a comedy. Or that’s what people say. Curtain up, you hear your cue. Boys meet girls and then hijinks ensue."**
 
-Labour’s Lost is a sun-drenched musical that reimagines Shakespeare’s comedy as a bittersweet rock musical set at a university college reunion. Alex Timbers and Michael Friedman have combined pop-rock bangers, outrageous gags, and plenty of nods to the original. 
+*Love’s Labour’s Lost* is a sun-drenched musical that reimagines Shakespeare’s comedy as a bittersweet rock musical set at a university college reunion. Alex Timbers and Michael Friedman have combined pop-rock bangers, outrageous gags, and plenty of nods to the original. 
 
 Featuring a riot of vows, disguises, and romance gone wrong – the King and his friends renew a vow they made when they graduated to avoid all pleasures and all women. That plan unravels when the Princess and her companions arrive. This production will question what it means to promise something, and what it means to break it.  Smart, sexy, and gloriously silly, this is Shakespeare like you’ve never seen him before.
 
