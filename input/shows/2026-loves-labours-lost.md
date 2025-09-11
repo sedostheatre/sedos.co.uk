@@ -41,7 +41,7 @@ Director Owen Thomas James commented: “*Love’s Labour’s Lost* has always b
 
 **Content warnings:** none.
 
-*Love's Labour's Lost* plays at the [Bridewell Theatre](<>) from 15-19 September 2026.
+*Love's Labour's Lost* plays at the [Bridewell Theatre](https://www.sedos.co.uk/venues/bridewell) from 15-19 September 2026.
 
 **Love's Labour's Lost**
 A New Musical Based on the Play by William Shakespeare\
