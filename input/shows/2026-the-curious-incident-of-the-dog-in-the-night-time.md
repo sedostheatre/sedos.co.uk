@@ -1,8 +1,8 @@
 ---
 title: The Curious Incident of the Dog in the Night-Time
 year: "2026"
-authors: Adapted by Simon Stephens
-authors2: Based on the Novel by Mark Haddon
+authors: Adapted by SIMON STEPHENS
+authors2: Based on the Novel by MARK HADDON
 subtitle: Numbers make sense. People do not. This play is about that
 showtime-summary: 14-18 JULY 2026
 venue: Bridewell Theatre
