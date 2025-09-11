@@ -14,5 +14,11 @@ box-office-open: false
 sections:
   - order: 1
     title: CAST & CREATIVE TEAM
-    body: DIRECTOR |
+    body: >-
+      **DIRECTOR** | David Gregory\
+
+      **MUSIC SUPERVISOR** | Isaac Bartels
+
+
+      *Angels in America* are looking for a number of roles, including an Assistant Director (preferably with experience in physical theatre / movement) and various Creative and Production roles. If you are interested, please email [production@sedos.co.uk](mailto:production@sedos.co.uk)
 ---
