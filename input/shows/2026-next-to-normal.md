@@ -10,6 +10,7 @@ venue: Bridewell Theatre
 primary-color: "#9d9aad"
 header-image: /assets/website-homepage-image-nexttonormal.jpg
 header-image-contain: false
+flyer: /assets/iggrid4x5-nexttonormal.png
 box-office-open: false
 sections:
   - order: 1
