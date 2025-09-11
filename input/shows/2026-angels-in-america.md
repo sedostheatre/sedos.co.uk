@@ -47,4 +47,4 @@ Director David Gregory commented: "Directing *Angels in America* is both a chall
 **Angels in America Part Two: Perestroika**\
 By Tony Kushner
 
-*This amateur production is presented by arrangement with Music Theatre International on behalf of Josef Weinberger Ltd. [www.mtishows.co.uk](www.mtishows.co.uk) | [www.josef-weinberger.com](www.josef-weinberger.com)*
+*This amateur production is presented by arrangement with Music Theatre International on behalf of Josef Weinberger Ltd. [www.mtishows.co.uk](https://www.mtishows.co.uk) | [www.josef-weinberger.com](https://www.josef-weinberger.com)*
