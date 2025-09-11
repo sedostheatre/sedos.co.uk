@@ -50,13 +50,21 @@ More details of the shows and the teams behind them below.
 
 ![The Curious Incident of the Dog in the Night-Time](/assets/bridewellpostera4-curiousincident.png)
 
-a
+**DIRECTOR** | Alice Bennett\
+**CHOREOGRAPHER & DIRECTOR** | Emma Bowker\
+**PRODUCER** | Gabriel Cradden\
+**MUSIC SUPERVISOR** | Isaac Bartels
+
+*This amateur production of “The Curious Incident of the Dog in the Night-Time” is presented by arrangement with Concord Theatricals Ltd. on behalf of Samuel French Ltd. www.concordtheatricals.co.uk*
 
 #### Love's Labour's Lost | Bridewell Theatre | 15-19 September 2026
 
 ![Love's Labour's Lost](/assets/bridewellpostera4-loveslabourslost.png)
 
-a
+**DIRECTOR** | Owen Thomas James\
+**CHOREOGRAPHER** | Mia Mann
+
+*This amateur production is presented by Music Theatre International. All authorised performance materials are also supplied by MTI. www.mtishows.co.uk*
 
 #### Be More Chill | Bridewell Theatre | 20-24 October 2026
 
@@ -71,4 +79,7 @@ a
 
 #### Angels in America | Bridewell Theatre | 19-28 November 2026
 
-a
+**DIRECTOR** | David Gregory\
+**MUSIC SUPERVISOR** | Isaac Bartels
+
+*This amateur production is presented by arrangement with Music Theatre International on behalf of Josef Weinberger Ltd. www.mtishows.co.uk | www.josef-weinberger.com*
