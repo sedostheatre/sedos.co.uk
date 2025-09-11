@@ -3,7 +3,7 @@ title: Angels in America
 year: "2026"
 authors: "Angels in America Part One: Millennium Approaches"
 authors2: "Angels in America Part Two: Perestroika"
-authors3: By Tony Kushner
+authors3: By TONY KUSHNER
 subtitle: The Tony- and Pulitzer-winning masterpiece that defined a generation.
   The Great Work begins..
 showtime-summary: 19-28 NOVEMBER 2026
