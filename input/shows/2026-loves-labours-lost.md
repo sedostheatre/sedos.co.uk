@@ -8,7 +8,10 @@ subtitle: A sun-drenched, contemporary musical adaptation about love, language
   and letting go
 showtime-summary: 15-19 SEPTEMBER 2026
 venue: Bridewell Theatre
+primary-color: "#5c8dac"
+header-image: /assets/website-homepage-image-loveslabourslost.jpg
 header-image-contain: false
+flyer: /assets/iggrid4x5-loveslabourslost.png
 box-office-open: false
 sections:
   - order: 1
