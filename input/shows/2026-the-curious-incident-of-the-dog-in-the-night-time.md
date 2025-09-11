@@ -33,22 +33,19 @@ metaDescription: The Curious Incident of the Dog in the Night-Time brings a
 ---
 **“My name is Christopher John Francis Boone… I know all the countries of the world and capital cities. And every prime number up to 7,507.”**
 
-Labour’s Lost is a sun-drenched musical that reimagines Shakespeare’s comedy as a bittersweet rock musical set at a university college reunion. Alex Timbers and Michael Friedman have combined pop-rock bangers, outrageous gags, and plenty of nods to the original. 
+The neighbours’ dog shows up dead in their front garden. Fifteen-year-old Christopher Boone is determined to find out what happened through logical detective-work. But Christopher’s investigation uncovers more than he bargains for and leads him onto a journey outside his carefully ordered world.
 
-Featuring a riot of vows, disguises, and romance gone wrong – the King and his friends renew a vow they made when they graduated to avoid all pleasures and all women. That plan unravels when the Princess and her companions arrive. This production will question what it means to promise something, and what it means to break it.  Smart, sexy, and gloriously silly, this is Shakespeare like you’ve never seen him before.
+“The novel gets you inside Christopher's head, but the stage version does more, giving Christopher's internal response to the world an external manifestation. That world is often a surreal and scary place, but oddly beautiful and bizarre, too: I'll never look at a Battenberg cake in the same way again.”\
+*The Guardian*
 
-“This gleeful riff on Shakespeare is a tall, fruity drink of intoxicating delight. Friedman finds the sweet spot between giddy pop grooves and bruised, ruminating lyrics, creating a dual sensation of silliness and heartache."
-*Time Out New York*
+Director Alice Bennett commented: "As an autistic person, *The Curious Incident of the Dog in the Night-Time* has always felt personal to me. The show is sharp, moving, and unlike any other play you’ll see on stage. We want this production to be dynamic and bring the audience into Christopher’s world through sound, lighting and movement. I’m so excited to be a part of bringing it to the Sedos stage!"
 
-Director Owen Thomas James commented: “*Love’s Labour’s Lost* has always been my favourite play. It strikes such a charming balance between sarcastic wit and emotional poignancy, and naturally lends itself to musical accompaniment. This contemporary adaptation makes Shakespeare’s delightful comedy accessible for everyone, with a high energy pop-rock score that pokes fun at the original language and supercharges the silliness. I am absolutely delighted to be directing this for Sedos, who have a strong appetite for bold re-imaginings of the Bard. This is going to be luxurious, laugh-out-loud funny, and deeply relatable, celebrating all of love’s absurdity in the modern world. I can’t wait to get started.”
+**Content warnings:** killing of an animal, death of a family member, references to domestic violence.
 
-**Content warnings:** none.
+*The Curious Incident of the Dog in the Night-Time* plays at the [Bridewell Theatre](https://www.sedos.co.uk/venues/bridewell) from 14-18 July 2026.
 
-*Love's Labour's Lost* plays at the [Bridewell Theatre](https://www.sedos.co.uk/venues/bridewell) from 15-19 September 2026.
+**The Curious Incident of the Dog in the Night-Time**
+Adapted by Simon Stephens\
+Based on the Novel by Mark Haddon
 
-**Love's Labour's Lost**
-A New Musical Based on the Play by William Shakespeare\
-Songs by Michael Friedman\
-Book Adapted by Alex Timbers
-
-[](<>)*This amateur production is presented by Music Theatre International. All authorised performance materials are also supplied by MTI. [www.mtishows.co.uk](https://www.mtishows.co.uk)*
+*This amateur production of “The Curious Incident of the Dog in the Night-Time” is presented by arrangement with Concord Theatricals Ltd. on behalf of Samuel French Ltd. [www.concordtheatricals.co.uk](https://www.concordtheatricals.co.uk)*
