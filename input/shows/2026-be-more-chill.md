@@ -51,7 +51,7 @@ Director Miranda Evans commented: “*Be More Chill* is an explosion of catchy t
 
 **Content warnings:** contains mental health struggles, bullying, self harm and references to suicide.
 
-*Be More Chill* plays at the [Bridewell Theatre](<>) from 20-24 October 2026.
+*Be More Chill* plays at the [Bridewell Theatre](https://www.sedos.co.uk/venues/bridewell) from 20-24 October 2026.
 
 **Be More Chill**
 Music and Lyrics by Joe Iconis\
