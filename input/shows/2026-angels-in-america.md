@@ -41,7 +41,7 @@ Director David Gregory commented: "Directing *Angels in America* is both a chall
 
 **Content warnings:** contains strong language, sexual content/partial nudity, violence, references to illness and death, drug/alcohol use, homophobic/racist language, and scenes of supernatual intensity.
 
-*Angels in America* plays at the [Bridewell Theatre](<>) from 19-28 November 2026.
+*Angels in America* plays at the [Bridewell Theatre](https://www.sedos.co.uk/venues/bridewell) from 19-28 November 2026.
 
 **Angels in America Part One: Millennium Approaches**\
 **Angels in America Part Two: Perestroika**\
