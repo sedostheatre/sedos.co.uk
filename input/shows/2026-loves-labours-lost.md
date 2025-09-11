@@ -1,9 +1,9 @@
 ---
 title: Love's Labour's Lost
 year: "2026"
-authors: A New Musical Based on the Play by William Shakespeare
-authors2: Songs by Michael Friedman
-authors3: Book Adapted by Alex Timbers
+authors: A New Musical Based on the Play by WILLIAM SHAKESPEARE
+authors2: Songs by MICHAEL FRIEDMAN
+authors3: Book Adapted by ALEX TIMBERS
 subtitle: A sun-drenched, contemporary musical adaptation about love, language
   and letting go
 showtime-summary: 15-19 SEPTEMBER 2026
