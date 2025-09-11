@@ -29,13 +29,22 @@ More details of the shows and the teams behind them below.
 
 ![Next To Normal](/assets/bridewellpostera4-nexttonormal.png)
 
-a
+**DIRECTOR** | Jonny Harding-Cooper\
+**ASSISTANT DIRECTOR** | Kim Barker\
+**MUSICAL DIRECTOR** | Adrian Hau
+
+*This amateur production is presented by Music Theatre International. All authorised performance materials are also supplied by MTI. www.mtishows.co.uk*
 
 #### Company | Bridewell Theatre | 7-16 May 2026
 
 ![Company](/assets/bridewellpostera4-company.png)
 
-a
+**DIRECTOR** | Emily Phillips\
+**MUSICAL DIRECTOR** | Thomas Marples\
+**PRODUCER** | Adam Coppard\
+**CHOREOGRAPHER** | Lauren Williams
+
+*This amateur production is presented by Music Theatre International. All authorised performance materials are also supplied by MTI. www.mtishows.co.uk*
 
 #### The Curious Incident of the Dog in the Night-Time | Bridewell Theatre | 14-18 July 2026
 
