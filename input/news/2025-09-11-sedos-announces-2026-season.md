@@ -96,6 +96,18 @@ Director Owen Thomas James said: "*Love’s Labour’s Lost* has always been my 
 
 ![Be More Chill](/assets/bridewellpostera4-bemorechill.png)
 
+**Life is not unlike a video game. And in a video game success requires just two things: good hand-eye coordination… and a cheat code.**
+
+Jeremy Heere is just an average nerdy teenager trying to survive his last year of high school. Bullied and mocked by his peers, and feeling let down by his recently divorced father, Jeremy wants nothing more than to fit in and be one of the cool kids. 
+
+That’s when he finds out about “The Squip”; a tiny supercomputer from Japan that promises to solve all his problems, make life easier, and get him everything he desires. Suddenly, he’s being invited to the coolest parties of the year, he’s celebrated in the halls, and he’s got a date with the second most popular girl in school. 
+
+But is being popular worth sacrificing control of your life to a supercomputer? 
+
+Director Miranda Evans said: "*Be More Chill* is an explosion of catchy tunes and geeky video game nostalgia, with a heart that speaks to that lonely teen in all of us. In our current technological era, a story about handing over your life to a sentient supercomputer feels more resonant than ever. 
+
+The show found its audience online where it became a bit of a cult classic. This is where I discovered the soundtrack, and it quickly became one of my favourite shows. I am thrilled to be bringing to the Bridewell with Sedos as part of the 2026 season."
+
 **DIRECTOR** | Miranda Evans\
 **CHOREOGRAPHER** | Coren Hall\
 **MUSICAL DIRECTOR** | Oscar Denihan\
@@ -104,6 +116,12 @@ Director Owen Thomas James said: "*Love’s Labour’s Lost* has always been my 
 *This amateur production of BE MORE CHILL is presented by arrangement with Concord Theatricals Ltd. www.concordtheatricals.co.uk*
 
 #### Angels in America | Bridewell Theatre | 19-28 November 2026
+
+**The Tony- and Pulitzer-winning masterpiece that defined a generation. The Great Work begins...**
+
+Tony Kushner’s *Angels in America* is a sweeping, poetic two-part epic play about love, loss, and the search for meaning at the height of the 1980s AIDS crisis. Blending piercing political insight with flights of magic and imagination – and a nostalgic nod to the music of the era – it follows a group of New Yorkers whose lives collide in moments of heartbreak, revelation, and unexpected hope. At once intimate and vast, tragic and funny, the play asks timeless questions about identity, faith, and human resilience – reminding us that even in the darkest times, there is possibility, transformation, and the promise of more life. 
+
+Director David Gregory said: "At its heart, *Angels in America* is about love, loss, and the courage to hope – stories that speak to us all. To be trusted with re-envisioning Kushner’s masterpiece is the most thrilling challenge of my directing journey."
 
 **DIRECTOR** | David Gregory\
 **MUSIC SUPERVISOR** | Isaac Bartels
