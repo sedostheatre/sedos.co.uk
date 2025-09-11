@@ -29,6 +29,12 @@ More details of the shows and the teams behind them below.
 
 ![Next To Normal](/assets/bridewellpostera4-nexttonormal.png)
 
+**Everything is perfect. Nothing’s real.**
+
+*Next to Normal* is a powerful, Tony Award-winning rock musical that explores the impact of mental illness, grief and loss on a suburban family struggling to hold themselves together. The show balances searing honesty with moments of dark humour, offering a raw portrait of love, pain and the quest for a life that feels “normal.”
+
+Director Jonny Harding-Cooper said: “*Next to Normal* is the perfect blend of powerful storytelling, beautiful songs and rich characters. It’s potent, heart-wrenching and resists easy answers; it leans into the irrationality of human emotions and doesn’t shy away from how unpredictable that can be. What makes it extraordinary is the way it invites us to look closer at what a family hides behind closed doors, allowing us to witness private lives from just beyond the threshold. Our approach won’t be about echoing previous versions, but about building an environment where the cast can test, question and rediscover the work for themselves.”
+
 **DIRECTOR** | Jonny Harding-Cooper\
 **ASSISTANT DIRECTOR** | Kim Barker\
 **MUSICAL DIRECTOR** | Adrian Hau
@@ -38,6 +44,12 @@ More details of the shows and the teams behind them below.
 #### Company | Bridewell Theatre | 7-16 May 2026
 
 ![Company](/assets/bridewellpostera4-company.png)
+
+**One apartment. Countless relationships. Endless reasons to celebrate — and you’re on the guest list.**
+
+*Company* is a sharp, witty, and deeply human portrait of modern relationships, told through a kaleidoscope of vignettes that capture the joy, chaos, and heartbreak of being part of someone else’s life. Friends, lovers, exes, and almosts swirl around Bobby in a heady mix of cocktails, candour, and Sondheim’s razor-sharp score, from the blistering comedy of Getting Married Today to the aching vulnerability of Being Alive.
+
+Director Emily Phillips said: "*Company* is a dream show as a director who is also a musician because it blurs the line between dramatic storytelling and musical storytelling, giving the opportunity to shape every emotional beat through both staging and music. I couldn’t be more excited to work with this fantastic team to give audiences a new lens to appreciate this poignant and hilarious show through."
 
 **DIRECTOR** | Emily Phillips\
 **MUSICAL DIRECTOR** | Thomas Marples\
