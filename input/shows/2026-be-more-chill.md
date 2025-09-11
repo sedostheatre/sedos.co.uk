@@ -58,4 +58,4 @@ Music and Lyrics by Joe Iconis\
 Book by Joe Tracz\
 Based on the Novel by Ned Vizzini
 
-*[](<>)This amateur production of Be More Chill is presented by arrangement with Concord Theatricals Ltd. [www.concordtheatricals.co.uk](www.concordtheatricals.co.uk)*
+*[](<>)This amateur production of Be More Chill is presented by arrangement with Concord Theatricals Ltd. [www.concordtheatricals.co.uk](https://www.concordtheatricals.co.uk)*
