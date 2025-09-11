@@ -62,7 +62,12 @@ a
 
 ![Be More Chill](/assets/bridewellpostera4-bemorechill.png)
 
-a
+**DIRECTOR** | Miranda Evans\
+**CHOREOGRAPHER** | Coren Hall\
+**MUSICAL DIRECTOR** | Oscar Denihan\
+**PRODUCER** | Ema-Mae West
+
+*This amateur production of BE MORE CHILL is presented by arrangement with Concord Theatricals Ltd. www.concordtheatricals.co.uk*
 
 #### Angels in America | Bridewell Theatre | 19-28 November 2026
 
