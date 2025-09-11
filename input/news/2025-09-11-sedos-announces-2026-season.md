@@ -62,6 +62,12 @@ Director Emily Phillips said: "*Company* is a dream show as a director who is al
 
 ![The Curious Incident of the Dog in the Night-Time](/assets/bridewellpostera4-curiousincident.png)
 
+**Numbers make sense. People do not. This play is about that.**
+
+The neighbours’ dog shows up dead in their front garden. Fifteen-year-old Christopher Boone is determined to find out what happened through logical detective-work. But Christopher’s investigation uncovers more than he bargains for and leads him onto a journey outside his carefully ordered world.
+
+Director Alice Bennett said: "As an autistic person, *The Curious Incident of the Dog in the Night-Time* has always felt personal to me. The show is sharp, moving, and unlike any other play you’ll see on stage. We want this production to be dynamic and bring the audience into Christopher’s world through sound, lighting and movement. I’m so excited to be a part of bringing it to the Sedos stage!"
+
 **DIRECTOR** | Alice Bennett\
 **CHOREOGRAPHER & DIRECTOR** | Emma Bowker\
 **PRODUCER** | Gabriel Cradden\
@@ -72,6 +78,14 @@ Director Emily Phillips said: "*Company* is a dream show as a director who is al
 #### Love's Labour's Lost | Bridewell Theatre | 15-19 September 2026
 
 ![Love's Labour's Lost](/assets/bridewellpostera4-loveslabourslost.png)
+
+**A sun-drenched, contemporary musical adaptation about love, language and letting go.**
+
+Love’s Labour’s Lost is a sun-drenched musical that reimagines Shakespeare’s comedy as a bittersweet rock musical set at a university college reunion. Alex Timbers and Michael Friedman have combined pop-rock bangers, outrageous gags, and plenty of nods to the original. 
+
+Featuring a riot of vows, disguises, and romance gone wrong – the King and his friends renew a vow they made when they graduated to avoid all pleasures and all women. That plan unravels when the Princess and her companions arrive. This production will question what it means to promise something, and what it means to break it.  Smart, sexy, and gloriously silly, this is Shakespeare like you’ve never seen him before.
+
+Director Owen Thomas James said: "*Love’s Labour’s Lost* has always been my favourite play. It strikes such a charming balance between sarcastic wit and emotional poignancy, and naturally lends itself to musical accompaniment. This contemporary adaptation makes Shakespeare’s delightful comedy accessible for everyone, with a high energy pop-rock score that pokes fun at the original language and supercharges the silliness. I am absolutely delighted to be directing this for Sedos, who have a strong appetite for bold re-imaginings of the Bard. This is going to be luxurious, laugh-out-loud funny, and deeply relatable, celebrating all of love’s absurdity in the modern world. I can’t wait to get started."
 
 **DIRECTOR** | Owen Thomas James\
 **CHOREOGRAPHER** | Mia Mann
