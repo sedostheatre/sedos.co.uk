@@ -117,6 +117,8 @@ The show found its audience online where it became a bit of a cult classic. This
 
 #### Angels in America | Bridewell Theatre | 19-28 November 2026
 
+![Angels in America](/assets/bridewellpostera4-angelsinamerica.png)
+
 **The Tony- and Pulitzer-winning masterpiece that defined a generation. The Great Work begins...**
 
 Tony Kushner’s *Angels in America* is a sweeping, poetic two-part epic play about love, loss, and the search for meaning at the height of the 1980s AIDS crisis. Blending piercing political insight with flights of magic and imagination – and a nostalgic nod to the music of the era – it follows a group of New Yorkers whose lives collide in moments of heartbreak, revelation, and unexpected hope. At once intimate and vast, tragic and funny, the play asks timeless questions about identity, faith, and human resilience – reminding us that even in the darkest times, there is possibility, transformation, and the promise of more life. 
