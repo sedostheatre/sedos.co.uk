@@ -38,7 +38,7 @@ metaDescription: Angels in America, the Tony- and Pulitzer-winning masterpiece
   that defined a generation. It is part of Sedos’ 2026 season and plays at the
   Bridewell Theatre from 19-28 November 2026
 ---
-**“With faith and time and hard work you reach a point where… where disappointment doesn’t as much, and then it gets easy to live with. Quite easy. Which… is in its own way a disappointment.”**
+**“With faith and time and hard work you reach a point where… where the disappointment doesn’t hurt as much, and then it gets actually easy to live with. Quite easy. Which is in its own way a disappointment.”**
 
 Tony Kushner’s *Angels in America* is a sweeping, poetic two-part epic play about love, loss, and the search for meaning at the height of the 1980s AIDS crisis. 
 
