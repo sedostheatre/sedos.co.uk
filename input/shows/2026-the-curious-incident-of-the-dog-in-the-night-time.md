@@ -4,9 +4,14 @@ year: "2026"
 authors: Adapted by SIMON STEPHENS
 authors2: Based on the Novel by MARK HADDON
 subtitle: Numbers make sense. People do not. This play is about that
+showtimes:
+  - time: 2026-07-14 19:30
+  - time: 2026-07-15 19:30
+  - time: 2026-07-16 19:30
+  - time: 2026-07-17 19:30
+  - time: 2026-07-18 14:30
+  - time: 2026-07-18 19:30
 showtime-summary: 14-18 JULY 2026
-show-on-homepage: true
-order-on-homepage: 16
 venue: Bridewell Theatre
 primary-color: "#202865"
 header-image: /assets/website-homepage-image-curiousincident.jpg

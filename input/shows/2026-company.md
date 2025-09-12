@@ -5,9 +5,18 @@ authors: Music and Lyrics by STEPHEN SONDHEIM
 authors2: Book by GEORGE FURTH
 subtitle: One apartment. Countless relationships. Endless reasons to celebrate —
   and you’re on the guest list
+showtimes:
+  - time: 2026-05-07 19:30
+  - time: 2026-05-08 19:30
+  - time: 2026-05-09 14:30
+  - time: 2026-05-09 19:30
+  - time: 2026-05-12 19:30
+  - time: 2026-05-13 19:30
+  - time: 2026-05-14 19:30
+  - time: 2026-05-15 19:30
+  - time: 2026-05-16 14:30
+  - time: 2026-05-16 19:30
 showtime-summary: 7-16 MAY 2026
-show-on-homepage: true
-order-on-homepage: 15
 venue: Bridewell Theatre
 primary-color: "#0e2647"
 header-image: /assets/website-homepage-image-company.jpg

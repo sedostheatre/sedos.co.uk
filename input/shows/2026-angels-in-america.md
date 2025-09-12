@@ -6,9 +6,18 @@ authors2: "Angels in America Part Two: Perestroika"
 authors3: By TONY KUSHNER
 subtitle: The Tony- and Pulitzer-winning masterpiece that defined a generation.
   The Great Work begins..
+showtimes:
+  - time: 2026-11-19 19:30
+  - time: 2026-11-20 19:30
+  - time: 2026-11-21 14:30
+  - time: 2026-11-21 19:30
+  - time: 2026-11-24 19:30
+  - time: 2026-11-25 19:30
+  - time: 2026-11-26 19:30
+  - time: 2026-11-27 19:30
+  - time: 2026-11-28 14:30
+  - time: 2026-11-28 19:30
 showtime-summary: 19-28 NOVEMBER 2026
-show-on-homepage: true
-order-on-homepage: 20
 primary-color: "#567b85"
 header-image: /assets/website-homepage-image-angelsinamerica.jpg
 header-image-contain: false
