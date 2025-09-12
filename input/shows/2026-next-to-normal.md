@@ -14,7 +14,7 @@ showtimes:
 showtime-summary: 24-28 MARCH 2026
 venue: Bridewell Theatre
 primary-color: "#9d9aad"
-header-image: /assets/website-homepage-image-nexttonormal.jpg
+header-image: /assets/next-to-normal-_notext.jpg
 header-image-contain: false
 flyer: /assets/iggrid4x5-nexttonormal.png
 box-office-open: false
