@@ -7,6 +7,8 @@ authors3: Based on the Novel by NED VIZZINI
 subtitle: "Life is not unlike a video game. And in a video game success requires
   just two things: good hand-eye coordination… and a cheat code"
 showtime-summary: 20-24 OCTOBER 2026
+show-on-homepage: true
+order-on-homepage: 19
 primary-color: "#46135d"
 header-image: /assets/website-homepage-image-bemorechill.jpg
 header-image-contain: false
