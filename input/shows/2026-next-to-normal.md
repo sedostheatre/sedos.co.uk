@@ -4,10 +4,14 @@ year: "2026"
 authors: Music by TOM KITT
 authors2: Book & Lyrics by BRIAN YORKEY
 subtitle: Everything is perfect. Nothing’s real
-showtimes: []
+showtimes:
+  - time: 2026-03-24 19:30
+  - time: 2026-03-25 19:30
+  - time: 2026-03-26 19:30
+  - time: 2026-03-27 19:30
+  - time: 2026-03-28 14:30
+  - time: 2026-03-28 19:30
 showtime-summary: 24-28 MARCH 2026
-show-on-homepage: true
-order-on-homepage: 14
 venue: Bridewell Theatre
 primary-color: "#9d9aad"
 header-image: /assets/website-homepage-image-nexttonormal.jpg
