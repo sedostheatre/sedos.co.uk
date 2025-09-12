@@ -23,7 +23,7 @@ Our shows at the [Bridewell Theatre](https://www.sedos.co.uk/venues/bridewell) n
 
 More details of the shows and the teams behind them below.
 
-### **FULL DETAILS OF SEDOS’ 2025 SEASON**
+### **FULL DETAILS OF SEDOS’ 2026 SEASON**
 
 #### Next To Normal | Bridewell Theatre | 24-28 March 2026
 
