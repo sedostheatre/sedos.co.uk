@@ -7,6 +7,8 @@ authors3: Book Adapted by ALEX TIMBERS
 subtitle: A sun-drenched, contemporary musical adaptation about love, language
   and letting go
 showtime-summary: 15-19 SEPTEMBER 2026
+show-on-homepage: true
+order-on-homepage: 18
 venue: Bridewell Theatre
 primary-color: "#5c8dac"
 header-image: /assets/website-homepage-image-loveslabourslost.jpg
