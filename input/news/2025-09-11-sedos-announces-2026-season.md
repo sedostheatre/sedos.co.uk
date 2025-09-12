@@ -12,13 +12,13 @@ metaDescription: Sedos announces an exciting 2026 Bridewell season consisting of
 
 **Sedos today announces an exciting 2026 Bridewell season consisting of four musicals and two plays, with an additional play to be announced soon.**
 
-Our shows at the [Bridewell Theatre](<>) next year will be:
+Our shows at the [Bridewell Theatre](https://www.sedos.co.uk/venues/bridewell) next year will be:
 
-***Next To Normal*** (24-28 March 2026)
-***Company*** (7-16 May 2026)
-***The Curious Incident of the Dog in the Night-Time*** (14-18 July 2026)
+***Next To Normal*** (24-28 March 2026)\
+***Company*** (7-16 May 2026)\
+***The Curious Incident of the Dog in the Night-Time*** (14-18 July 2026)\
 ***Love's Labour's Lost*** (15-19 September 2026)\
-***Be More Chill*** (20-24 October 2026)
+***Be More Chill*** (20-24 October 2026)\
 ***Angels in America*** (19-28 November 2026)
 
 More details of the shows and the teams behind them below.
