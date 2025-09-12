@@ -6,6 +6,8 @@ authors2: Book & Lyrics by BRIAN YORKEY
 subtitle: Everything is perfect. Nothing’s real
 showtimes: []
 showtime-summary: 24-28 MARCH 2026
+show-on-homepage: true
+order-on-homepage: 14
 venue: Bridewell Theatre
 primary-color: "#9d9aad"
 header-image: /assets/website-homepage-image-nexttonormal.jpg
