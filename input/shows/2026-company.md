@@ -6,6 +6,8 @@ authors2: Book by GEORGE FURTH
 subtitle: One apartment. Countless relationships. Endless reasons to celebrate —
   and you’re on the guest list
 showtime-summary: 7-16 MAY 2026
+show-on-homepage: true
+order-on-homepage: 15
 venue: Bridewell Theatre
 primary-color: "#0e2647"
 header-image: /assets/website-homepage-image-company.jpg
