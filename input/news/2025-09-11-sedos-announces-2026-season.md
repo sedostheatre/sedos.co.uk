@@ -60,7 +60,7 @@ Director Emily Phillips said: "*Company* is a dream show as a director who is al
 
 #### The Curious Incident of the Dog in the Night-Time | Bridewell Theatre | 14-18 July 2026
 
-![The Curious Incident of the Dog in the Night-Time](/assets/bridewellpostera4-curiousincident.png)
+![The Curious Incident of the Dog in the Night-Time](/assets/bridewellpostera4-curiousincident-1-.png)
 
 **Numbers make sense. People do not. This play is about that.**
 
