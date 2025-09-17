@@ -39,7 +39,7 @@ Fresh from *EastEnders*, Ricky! brings you Movie Mash-up where iconic films coll
 
 ![](/assets/burnthescript_logo_horizontal_black.jpg)
 
-Burn the Script\
+Burn the Script
 Improv comedy that puts a hilarious spin on your favourite movies!
 
 ![](/assets/comediasians_logo.jpg)
