@@ -30,13 +30,21 @@ Find out more about [Simprov](https://www.sedos.co.uk/regular-events/simprov).
 
 ## **Featuring Upcoming Acts...**
 
-**7 October 2025** | Simprov and guest act Burn the Script\
-**4 November 2025** | Simprov and guest acts (TBA)
+**7 October 2025** | Simprov with guest acts Ricky! and Time To Pretend\
+**4 November 2025** | Simprov with guest acts Burn the Script and Comediasians
+
+![](/assets/ricky_improv_logo.jpg)
+
+Fresh from *EastEnders*, Ricky! brings you Movie Mash-up where iconic films collide with legendary characters for improv chaos you won't forget!
 
 ![](/assets/burnthescript_logo_horizontal_black.jpg)
 
 Burn the Script\
 Improv comedy that puts a hilarious spin on your favourite movies!
+
+![](/assets/comediasians_logo.jpg)
+
+Comediasians are the UK's premier pan-Asian improv group, and we're on a mission to bring laughs from the diasporASIA to the UK comedy scene.
 
 ![](/assets/simprov-logo-800.jpg)
 
