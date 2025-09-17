@@ -48,7 +48,7 @@ Comediasians are the UK's premier pan-Asian improv group, and we're on a mission
 
 ![](/assets/simprov-logo-800.jpg)
 
-Simprov! Simply unrehearsed comedy
+Simprov! Simply Spontaneous. Unscripted and Unleashed!
 
 **See past jams!**
 
