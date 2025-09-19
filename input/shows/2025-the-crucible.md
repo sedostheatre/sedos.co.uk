@@ -84,10 +84,8 @@ sections:
       src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
   - order: 5
     title: VIDEO
-    body: |-
-      
+    body: |-      
       <div class="video-responsive"><?# YouTube HbFx_jsfi-8 /?></div>
-
 
       <div class="video-responsive"><?# YouTube 0P7RsuitMkk /?></div>
 
@@ -95,8 +93,6 @@ sections:
   - order: 6
     title: REVIEWS
     body: >-
-      
-
       >Overall, Sedos have delivered an intense, spirited and moving production of The Crucible. In their programme notes, joint directors Anoushka Nairac and Jonah McLeod assert The Crucible is one of the greatest works of modern drama — we want to do it justice. They have.
 
       ><footer><cite><a target="_blank" href="https://www.londontheatre1.com/reviews/the-crucible-bridewell-theatre-review/">The Crucible, 2025, London Theatre 1 (****)</a></cite></footer>
