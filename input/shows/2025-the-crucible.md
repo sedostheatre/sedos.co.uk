@@ -119,6 +119,6 @@ Director Jonah McLeod commented: "*The Crucible* is one of the greatest works of
 
 *The Crucible* plays at the *[Bridewell Theatre](https://www.sedos.co.uk/venues/bridewell)* from 16-20 September 2025.
 
-**Content warnings:** this production contains depictions of physical violence, themes of racism, and references to hanging and child loss.
+**Content warnings:** this production contains depictions of physical violence, themes of racism, and references to hanging and child loss. x
 
 This amateur production is presented by arrangement with Music Theatre International on behalf of Josef Weinberger Ltd. [www.mtishows.co.uk](http://www.mtishows.co.uk) | [www.josef-weinberger.com](http://www.josef-weinberger.com)
