@@ -45,7 +45,7 @@ sections:
       **JUDGE HATHORNE** | Clare Janew\
       **SARAH GOOD** | Louisa Shindle\
       **EZEKIEL CHEEVER** | Jesse Pincombe\
-      **HERRICK** | Benjamin Meacher\
+      **JOHN WILLARD** | Benjamin Meacher\
       **ENSEMBLE** | Flora Simon de la Mortiere\
       **ENSEMBLE** | Grace O'Brien\
       **ENSEMBLE** | Natasha Keith\
