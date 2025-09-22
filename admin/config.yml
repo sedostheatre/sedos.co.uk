@@ -248,6 +248,10 @@ collections:
       - name: metaDescription
         widget: string
         required: false
+      - name: header-image
+        label: Header Image
+        widget: image
+        required: false
   - name: regular-events
     label: Regular events
     description: regular events
