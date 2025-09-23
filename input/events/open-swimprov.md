@@ -8,6 +8,7 @@ venue: Shoreditch Balls
 recurrence: ""
 ticket-prices: Free tickets available via the "Book Tickets" link top right
 metaTitle: Simprov's Monthly showcase and Jam
+header-image: /assets/simprov-july-24-header.jpg
 ---
 ![](/assets/openswimprovbanner.png)
 
