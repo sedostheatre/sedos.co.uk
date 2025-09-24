@@ -95,7 +95,10 @@ sections:
       **COMMITTEE LIAISON** | Emma Miller (she/her)
   - order: 2
     title: TRAILER
-    body: <div class="video-responsive"><?# YouTube 2uG6U4QzVus /?></div>
+    body: |-
+      <div class="video-responsive"><?# YouTube CcEj19u72lA /?></div>
+
+      <div class="video-responsive"><?# YouTube 2uG6U4QzVus /?></div>
   - order: 3
     title: VIDEOS
     body: |-
