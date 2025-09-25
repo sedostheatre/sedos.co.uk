@@ -17,17 +17,10 @@ RedirectFrom:
 ![The Crucible](/assets/54792684704_6b7d7c10ab_c.jpg)
 ^^^ The Crucible
 
->
+>Overall, Sedos have delivered an intense, spirited and moving production of The Crucible. In their programme notes, joint directors Anoushka Nairac and Jonah McLeod assert The Crucible is one of the greatest works of modern drama – we want to do it justice. They have. 
+><footer><cite><a target="_blank" href="https://www.londontheatre1.com/reviews/the-crucible-bridewell-theatre-review/">The Crucible, 2025, London Theatre 1 (****)</a></cite></footer>
 
-
-
-><footer><cite><a target="_blank" href="https://wwww.londontheatre1.com/reviews/the-crucible-bridewell-theatre-review/">The Crucible, 2025, London Theatre 1 (****)</a></cite></footer>
-
->
-
-
-
-
+>Thanks to a clear portrayal of the text and some of the finest acting I have seen on an amateur stage Sedos have succeeded in showing that whilst The Crucible may be set in the past it is very much a play for the present.
 ><footer><cite><a target="_blank" href="https://musicaltheatremusings.co.uk/the-crucible-by-sedos">The Crucible, 2025, Musical Theatre Musings</a></cite></footer>
 
 # *Hedda Gabler*
