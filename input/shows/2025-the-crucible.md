@@ -101,7 +101,7 @@ sections:
       ><footer><cite><a target="_blank" href="https://www.londontheatre1.com/reviews/the-crucible-bridewell-theatre-review/">The Crucible, 2025, London Theatre 1 (****)</a></cite></footer>
 
 
-      >Thanks for a clear portrayal of the text and some of the finest acting I have seen on an amateur stage Sedos’ have succeeded in showing that whilst The Crucible may be set in the past it is very much a play for the present.
+      >Thanks to a clear portrayal of the text and some of the finest acting I have seen on an amateur stage Sedos’ have succeeded in showing that whilst The Crucible may be set in the past it is very much a play for the present.
 
       ><footer><cite><a target="_blank" href="https://musicaltheatremusings.co.uk/the-crucible-by-sedos">The Crucible, 2025, Musical Theatre Musings</a></cite></footer>
 metaTitle: The Crucible, by Arthur Miller, plays at the Bridewell Theatre 16-20
