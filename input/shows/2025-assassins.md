@@ -150,7 +150,17 @@ sections:
 
       >I would strongly recommend following Sedos as quite possibly London’s finest amateur theatre company. Well done to the creative team behind the show for putting on a brilliant performance.
 
-      ><footer><cite><a target="_blank" href="https://www.londontheatrereviews.co.uk/post.cfm?p=25601">Assassins, 2025, London Theatre Reviews (4.5 stars)</a></cite></footer>
+      ><footer><cite><a target="_blank" href="https://www.londontheatrereviews.co.uk/post.cfm?p=25601">Assassins, 2025, London Theatre Reviews (**** .5)</a></cite></footer>
+
+
+      >Assassins has never been more relevant. This may be an amateur production, but Sedos know their Sondheim and have pulled out all the stops.
+
+      ><footer><cite><a target="_blank" href="https://loureviews.blog/2025/09/25/theatre-review-assassins-sedos/">Assassins, 2025, Loureviews (**** .5)</a></cite></footer>
+
+
+      >When Sedos do Sondheim, you know it’s going to be special, and this energetic production of Assassins hits the mark with style… Dan Edge’s skilful direction creates a fantastic, heightened energy dynamic for this glorious parody of desperation and political violence, and Adrian Jeakins production design is wonderfully brash… Another triumph for the talented team at Sedos
+
+      ><footer><cite><a target="_blank" href="https://fairypoweredproductions.com/assassins-review-2/">Assassins, 2025, FairyPowered (****)</a></cite></footer>
 metaTitle: Assassins, by Stephen Sondheim and John Weidman, plays at the
   Bridewell Theatre from 23-27 September 2025
 metaDescription: Assassins, by Stephen Sondheim and John Weidman, is timely
