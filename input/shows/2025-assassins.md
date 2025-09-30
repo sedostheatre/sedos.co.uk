@@ -161,6 +161,17 @@ sections:
       >When Sedos do Sondheim, you know it’s going to be special, and this energetic production of Assassins hits the mark with style… Dan Edge’s skilful direction creates a fantastic, heightened energy dynamic for this glorious parody of desperation and political violence, and Adrian Jeakins production design is wonderfully brash… Another triumph for the talented team at Sedos
 
       ><footer><cite><a target="_blank" href="https://fairypoweredproductions.com/assassins-review-2/">Assassins, 2025, FairyPowered (****)</a></cite></footer>
+  - order: 7
+    title: PROGRAMME
+    body: >-
+      [Download a PDF of the Assassins
+      programme](https://drive.google.com/file/d/1VOe8t5AwqLmc2SNuUd99VRbmQgVQPE9H/view?usp=drive_link)
+
+
+      [](https://drive.google.com/file/d/1VOe8t5AwqLmc2SNuUd99VRbmQgVQPE9H/view?usp=drive_link)
+
+
+      ![](/assets/2025-assassins-programme-cover.jpg)
 metaTitle: Assassins, by Stephen Sondheim and John Weidman, plays at the
   Bridewell Theatre from 23-27 September 2025
 metaDescription: Assassins, by Stephen Sondheim and John Weidman, is timely
