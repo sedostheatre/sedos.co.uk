@@ -25,7 +25,7 @@ flyer: /assets/iggrid4x5-angelsinamerica.png
 box-office-open: false
 sections:
   - order: 1
-    title: CAST & CREATIVE TEAM
+    title: CREATIVE TEAM
     body: >-
       **DIRECTOR** | David Gregory\
 
