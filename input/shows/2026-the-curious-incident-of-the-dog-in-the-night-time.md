@@ -20,13 +20,13 @@ flyer: /assets/iggrid4x5-curiousincident.png
 box-office-open: false
 sections:
   - order: 1
-    title: CAST & CREATIVE TEAM
+    title: CREATIVE TEAM
     body: >-
       **DIRECTOR** | Alice Bennett (she/her)\
 
       **CHOREOGRAPHER AND DIRECTOR** | Emma Bowker (she/her)\
 
-      **PRODUCER** | Gabriel Cradden (he/him)\
+      **PRODUCERS** | Gabriel Cradden (he/him) and Pippa Kyle (she/her)\
 
       **MUSIC SUPERVISOR** | Isaac Bartels (he/him)
 
