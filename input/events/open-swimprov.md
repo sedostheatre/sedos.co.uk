@@ -30,6 +30,7 @@ Find out more about [Simprov](https://www.sedos.co.uk/regular-events/simprov).
 
 ## **Featuring Upcoming Acts...**
 
+\
 **4 November 2025** | Simprov with guest acts Burn the Script and Comediasians
 
 ![](/assets/burnthescript_logo_horizontal_black.jpg)
