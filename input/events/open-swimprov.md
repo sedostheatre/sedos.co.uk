@@ -1,7 +1,6 @@
 ---
 title: Open Swimprov
 times:
-  - time: 2025-10-07 19:30
   - time: 2025-11-04 19:30
 image: /assets/simprov-july-24-3.jpg
 venue: Shoreditch Balls
@@ -31,12 +30,7 @@ Find out more about [Simprov](https://www.sedos.co.uk/regular-events/simprov).
 
 ## **Featuring Upcoming Acts...**
 
-**7 October 2025** | Simprov with guest acts Ricky! and Time To Pretend\
 **4 November 2025** | Simprov with guest acts Burn the Script and Comediasians
-
-![](/assets/ricky_improv_logo.jpg)
-
-Fresh from *EastEnders*, Ricky! brings you Movie Mash-up where iconic films collide with legendary characters for improv chaos you won't forget!
 
 ![](/assets/burnthescript_logo_horizontal_black.jpg)
 
@@ -53,4 +47,4 @@ Simprov! Simply Spontaneous. Unscripted and Unleashed!
 
 **See past jams!**
 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/sedos/albums/72177720323053270" title="Simprov"><img src="https://live.staticflickr.com/65535/54255139269_bf1567eab5_c.jpg" width="800" height="600" alt="Simprov"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/sedos/albums/72177720328844216" title="Open Swimprov"><img src="https://live.staticflickr.com/65535/54840815842_1a690b67d8_z.jpg" width="800" height="600" alt="Open Swimprov"/></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
