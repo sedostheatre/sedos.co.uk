@@ -2,7 +2,7 @@
 title: Next To Normal
 year: "2026"
 authors: Music by TOM KITT
-authors2: Book & Lyrics by BRIAN YORKEY
+authors2: Book and lyrics by BRIAN YORKEY
 subtitle: Everything is perfect. Nothing’s real
 showtimes:
   - time: 2026-03-24 19:30
@@ -52,8 +52,8 @@ Director Jonny Harding-Cooper commented: "*Next to Normal* is the perfect blend 
 
 *Next To Normal* plays at the [Bridewell Theatre](https://www.sedos.co.uk/venues/bridewell) from 24-28 March 2026.
 
-**Next To Normal**
+**Next To Normal**\
 Music by Tom Kitt\
-Book & Lyrics by Brian Yorkey
+Book and lyrics by Brian Yorkey
 
 *This amateur production is presented by Music Theatre International. All authorised performance materials are also supplied by MTI. [www.mtishows.co.uk](https://www.mtishows.co.uk)*
