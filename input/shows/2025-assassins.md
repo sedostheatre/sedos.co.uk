@@ -1,7 +1,7 @@
 ---
 title: Assassins
 year: "2025"
-authors: Music and Lyrics by STEPHEN SONDHEIM
+authors: Music and lyrics by STEPHEN SONDHEIM
 authors2: Book by JOHN WEIDMAN
 subtitle: The assassins who killed – or tried to kill – America’s presidents
   gather in one surreal, darkly comic musical to take their shot at infamy.
@@ -198,7 +198,7 @@ Take your seat. Take your shot.
 **Content warnings:** The show includes scenes of and references to violence, including guns and gunshots, death, suicide, strong language, adult content and flashing lights. The production also includes a single use of strong racially discriminatory language. All guns used during this performance are replicas which are inoperable. All gunshot sound effects are pre-recorded. Recommended for ages 15+.
 
 **Assassins**\
-Music and Lyrics by Stephen Sondheim \
+Music and lyrics by Stephen Sondheim \
 Book by John Weidman
 
 *Assassins* is based on an idea by Charles Gilbert, Jr.\
