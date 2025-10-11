@@ -31,8 +31,8 @@ sections:
       **STAGE MANAGER** | Emma Hunt (she/they)\
       **SET REALISATION** | Andrew Laidlaw (he/him)\
       **LIGHTING DESIGNER** | Ruth Luckins (she/they)\
-      **SOUND DESIGN** | Adam Coppard (he/him)\
-      **SOCIAL MEDIA** | Antonia Kasoulidou \
+      **SOUND DESIGNER** | Adam Coppard (he/him)\
+      **SOCIAL MEDIA** | Antonia Kasoulidou (she/her)\
       **TECHNICAL PRODUCTION** | Ben Hussey (he/him)
 metaTitle: Next To Normal plays at the Bridewell Theatre 24-28 March 2026
 metaDescription: Next To Normal, with music by Tom Kitt and book & lyrics by
