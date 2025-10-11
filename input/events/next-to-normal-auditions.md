@@ -9,6 +9,7 @@ recurrence: Workshop 1 November 2025; self-tape deadline 16 November 2025
 metaTitle: Next to Normal auditions, for Sedos’ production in March 2026
 metaDescription: Find out about Next to Normal auditions for Sedos’ production
   of the musical in March 2026
+header-image: /assets/next-to-normal-auditions-plain.jpg
 ---
 Information has been released about the *[Next to Normal](https://www.sedos.co.uk/shows/2026-next-to-normal)* auditions. The show plays **24-28 March 2026** at the [Bridewell Theatre](<>). 
 
