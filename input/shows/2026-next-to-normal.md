@@ -36,8 +36,8 @@ sections:
       **TECHNICAL PRODUCTION** | Ben Hussey (he/him)
 metaTitle: Next to Normal plays at the Bridewell Theatre 24-28 March 2026
 metaDescription: Next to Normal, with music by Tom Kitt and book & lyrics by
-  Brian Yorkey where everything is perfect and nothing's real. It is part of
-  Sedos’ 2026 season and plays at the Bridewell Theatre from 24-28 March 2026
+  Brian Yorkey. Everything is perfect. Nothing's real. It is part of Sedos’ 2026
+  season and plays at the Bridewell Theatre from 24-28 March 2026
 ---
 ***Next to Normal* is a powerful, Tony Award-winning rock musical that explores the impact of mental illness, grief and loss on a suburban family struggling to hold themselves together.** 
 
