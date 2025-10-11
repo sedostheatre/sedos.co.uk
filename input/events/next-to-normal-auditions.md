@@ -4,7 +4,8 @@ times:
   - time: 2025-11-01 12:00
   - time: 2025-11-16 20:00
 image: /assets/next-to-normal-auditions-plain.jpg
-recurrence: Workshop 1 November 2025; Self-Tape Deadline 16 November 2025
+imageAlt: Next To Normal auditions
+recurrence: Workshop 1 November 2025; self-tape deadline 16 November 2025
 metaTitle: Next To Normal auditions, for Sedos’ production in March 2026
 metaDescription: Find out about Next To Normal auditions for Sedos’ production
   of the musical in March 2026
@@ -18,7 +19,7 @@ Information has been released about the *[Next To Normal](https://www.sedos.co.u
 **Recalls (by invitation):** 10am-6pm, Sunday 7 December
 **Rehearsals:** [](<>)Mondays and Thursdays (7-9.30pm) and Saturdays (10am-3pm) starting from Saturday 13 December
 
-**FULL AUDITION NOTICE**
+### **FULL AUDITION NOTICE**
 
 **ABOUT THE SHOW**
 
@@ -58,7 +59,7 @@ There some moments of intimacy in the text; cast members will discuss and safely
 
 This production contains a number of topics that some people may find distressing. Exploring the characters’ motivations and experiences will be part of our rehearsal process. The show includes characters reflecting on the loss of their child, the emotional impact and abuse of psychoactive drugs and complex themes around mental illness. Other sensitive themes include the visualisation of controversial therapies (ECT) and depiction of a suicide attempt. As a production, we are committed to creating a safe and open environment in which performers can work. Whilst we will do our utmost to ensure everyone feels safe within these scenes, actors should be mindful of the themes before auditioning.
 
-**FULL AUDITION NOTICE**
+### FULL AUDITION NOTICE
 
 [](<>)**MORE AUDITIONS**
 
