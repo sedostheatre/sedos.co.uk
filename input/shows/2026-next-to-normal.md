@@ -25,12 +25,15 @@ sections:
       **CREATIVE TEAM**
 
       **DIRECTOR** | Jonny Harding-Cooper (he/him)\
+      **ASSOCIATE DIRECTOR** | Kim Barker (she/her)\
       **MUSICAL DIRECTOR** | Adrian Hau (he/him)\
-      **ASSISTANT DIRECTOR** | Kim Barker (she/her)\
-      **TECHNICAL PRODUCTION & SOUND DESIGN** | Adam Coppard (he/him)\
-      **TECHNICAL PRODUCTION** | Ben Hussey (he/him)\
-      **STAGE MANAGER** | Emma Hunt\
-      **SET REALISATION** | Andrew Laidlaw (he/him)
+      **PRODUCER** | Lizzie Levett (she/her)\
+      **STAGE MANAGER** | Emma Hunt (she/they)\
+      **SET REALISATION** | Andrew Laidlaw (he/him)\
+      **LIGHTING DESIGNER** | Ruth Luckins (she/they)\
+      **SOUND DESIGN** | Adam Coppard (he/him)\
+      **SOCIAL MEDIA** | Antonia Kasoulidou \
+      **TECHNICAL PRODUCTION** | Ben Hussey (he/him)
 metaTitle: Next To Normal plays at the Bridewell Theatre 24-28 March 2026
 metaDescription: Next To Normal, with music by Tom Kitt and book & lyrics by
   Brian Yorkey where everything is perfect and nothing's real. It is part of
