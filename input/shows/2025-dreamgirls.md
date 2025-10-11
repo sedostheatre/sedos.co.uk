@@ -83,11 +83,11 @@ metaDescription: Dreamgirls, by Tom Eyen and Henry Krieger, is a sweeping and
 
 There’s a story behind every dream. A sweeping and inspirational journey through 20th century American pop music, *Dreamgirls* chronicles one Motown group’s rise from obscurity to superstardom. All you have to do is dream.
 
-Famously inspired by the Supremes, *Dreamgirls* explores the stardom, competition and love lives surrounding three Black women climbing the ranks of the music industry in the '60s and '70s. 
+Famously inspired by the Supremes, *Dreamgirls* explores stardom, competition and love as three Black women climb the ranks of the music industry in the '60s and '70s. 
 
 Featuring the classic songs ‘And I Am Telling You I’m Not Going’, ‘I Am Changing’ and ‘One Night Only’, Dreamgirls will transport you to a revolutionary time in American music history. 
 
-The trio, ‘The Dreams’, must learn the tough lesson that show business and stardom isn’t always as glamorous as it seems.
+The trio, ‘The Dreams’, must learn the tough lesson that show business and fame aren’t always as glamorous as they seem.
 
 “Sensational... emotionally infectious... bursts with joy, desire and ferocious passion”\
 *New York Post*
