@@ -14,7 +14,7 @@ Information has been released about the *Next to Normal* auditions. The show pla
 **KEY DATES**
 
 **Pre-audition workshop:** Saturday 1 November at Vibast Community Centre, EC1V, Time: TBC
-[](<>)**Deadline for self-tape auditions (all roles):** 20:00 on Sunday 16 November[](<>)
+[](<>)**Deadline for self-tape auditions (all roles):** 20:00, Sunday 16 November[](<>)
 **Recalls (by invitation):** 10:00 - 18:00, Sunday 7 December
 **Rehearsals:** [](<>)Mondays and Thursdays (19:00-21.30) and Saturdays (10:00-15:00) starting from Saturday 13 December
 
@@ -30,11 +30,9 @@ The musical explores themes of grief, trauma, mental illness, and the search for
 
 Our production of *Next to Normal* is not about replicating the recent West End version - that was excellent in its own right. What excites the team is the opportunity to find our own version of this story. We’ll create space for discovery in rehearsal. The relationships at the heart of this piece are unpredictable, and the cast will be encouraged to react to and explore the work, rather than slotting into pre-determined moulds. The family dynamic is our anchor. It’s a story about their journey, and our vision is to stay true to what they are experiencing. We will be looking to cast actors who are comfortable in exploration, rather than replication.
 
-
 **WHAT WE ARE LOOKING FOR**
 
 We are looking for a **cast of 6**, broken down as follows:
-
 
 **DAN** \[male | late 30s/early 40s | Ab2-B4]
 
@@ -49,6 +47,7 @@ We are looking for a **cast of 6**, broken down as follows:
 **HENRY** \[male | 17-20 | G#2-G4]
 
 
+
 **DIVERSITY AND INCLUSION**
 
 Sedos strives to ensure our activities are equally accessible to any person irrespective of race, colour, creed, ethnic or national origin, disability, religious or philosophical belief, age, gender, sexual orientation, marital status, or class/socio-economic group. There are no characters of any specific ethnicity in this show, so we actively encourage actors of all ethnicities to audition for all parts.
@@ -61,9 +60,7 @@ There some moments of intimacy in the text; cast members will discuss and safely
 
 This production contains a number of topics that some people may find distressing. Exploring the characters’ motivations and experiences will be part of our rehearsal process. The show includes characters reflecting on the loss of their child, the emotional impact and abuse of psychoactive drugs and complex themes around mental illness. Other sensitive themes include the visualisation of controversial therapies (ECT) and depiction of a suicide attempt. As a production, we are committed to creating a safe and open environment in which performers can work. Whilst we will do our utmost to ensure everyone feels safe within these scenes, actors should be mindful of the themes before auditioning.
 
-
 **FULL AUDITION NOTICE**
-
 
 [](<>)**MORE AUDITIONS**
 
