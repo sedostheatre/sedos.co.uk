@@ -48,7 +48,7 @@ The show balances searing honesty with moments of dark humour, offering a raw po
 
 Director Jonny Harding-Cooper commented: "*Next to Normal* is the perfect blend of powerful storytelling, beautiful songs and rich characters. It’s potent, heart-wrenching and resists easy answers; it leans into the irrationality of human emotions and doesn’t shy away from how unpredictable that can be. What makes it extraordinary is the way it invites us to look closer at what a family hides behind closed doors, allowing us to witness private lives from just beyond the threshold. Our approach won’t be about echoing previous versions, but about building an environment where the cast can test, question and rediscover the work for themselves."
 
-**AUDITIONS:** Information about *Next to Normal* auditions has been released
+**AUDITIONS:** Information about [*Next to Normal* auditions](https://www.sedos.co.uk/events/next-to-normal-auditions) has been released
 
 **Content warnings:** this show contains adult language and themes; depications of serious mental health conditions and medical treatments, including electroshock therapy; drug use/abuse; discussions of death, suicide, and loss of a child.
 
