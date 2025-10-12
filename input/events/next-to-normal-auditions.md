@@ -23,7 +23,7 @@ Information has been released about the *[Next to Normal](https://www.sedos.co.u
 
 **Rehearsals:** [](<>)Mondays and Thursdays (7-9.30pm) and Saturdays (10am-3pm) starting from Saturday 13 December
 
-### **[FULL AUDITION NOTICE](https://drive.google.com/file/d/10YsU6wyThf6eDvd862f6wjagx9yQPh3H/view?usp=sharing)**
+### **[FULL AUDITION NOTICE](https://drive.google.com/file/d/1SWHq2fjuVrIHglXvj8LfjK1bDtj7BTiC/view?usp=sharing)**
 
 **ABOUT THE SHOW**
 
@@ -63,7 +63,7 @@ There some moments of intimacy in the text; cast members will discuss and safely
 
 This production contains a number of topics that some people may find distressing. Exploring the characters’ motivations and experiences will be part of our rehearsal process. The show includes characters reflecting on the loss of their child, the emotional impact and abuse of psychoactive drugs and complex themes around mental illness. Other sensitive themes include the visualisation of controversial therapies (ECT) and depiction of a suicide attempt. As a production, we are committed to creating a safe and open environment in which performers can work. Whilst we will do our utmost to ensure everyone feels safe within these scenes, actors should be mindful of the themes before auditioning.
 
-### [FULL AUDITION NOTICE](https://drive.google.com/file/d/10YsU6wyThf6eDvd862f6wjagx9yQPh3H/view?usp=sharing)
+### [FULL AUDITION NOTICE](https://drive.google.com/file/d/1SWHq2fjuVrIHglXvj8LfjK1bDtj7BTiC/view?usp=sharing)
 
 [](<>)**MORE AUDITIONS**
 
