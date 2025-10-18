@@ -15,7 +15,7 @@ Information has been released about the *[Next to Normal](https://www.sedos.co.u
 
 **KEY DATES**
 
-**Pre-audition workshop:** Saturday 1 November at Vibast Community Centre, EC1V, Time: TBC
+**Pre-audition workshop:** Saturday 1 November at Vibast Community Centre, EC1V, Time: 12am-2pm
 
 [](<>)**Deadline for self-tape auditions (all roles):** 8pm, Sunday 16 November[](<>)
 
