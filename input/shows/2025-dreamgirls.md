@@ -24,7 +24,7 @@ ticket-prices: Tickets from £14 (no booking fee)
 primary-color: "#f03ba4"
 header-image: /assets/new_sedoswebbanner_specialblk.jpg
 header-image-contain: false
-flyer: /assets/dreamgirls-dates-poster-2025.jpg
+flyer: /assets/19-29-november-2025.zip-3.jpeg
 box-office-open: true
 box-office-link: https://sedos.ticketsolve.com/ticketbooth/shows/1173660213/events/428695958
 sections:
