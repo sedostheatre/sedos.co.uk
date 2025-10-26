@@ -26,7 +26,9 @@ sections:
 
       **CHOREOGRAPHER AND DIRECTOR** | Emma Bowker (she/her)\
 
-      **PRODUCERS** | Gabriel Cradden (he/him) and Pippa Kyle (she/her)
+      **PRODUCERS** | Gabriel Cradden (he/him) and Pippa Kyle (she/her)\
+
+      **LIGHTING DESIGNER** | Olly Levett (he/him)
 
 
       *The Curious Incident of the Dog in the Night-Time* are currently looking for a Set Designer, Stage Manager, Sound Designer and Costume Designer to join the team. If you are interested in being considered for any of these roles, please email [production@sedos.co.uk](mailto:production@sedos.co.uk)
