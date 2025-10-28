@@ -43,7 +43,9 @@ sections:
 
       **MARKETING** | Emma Miller (she/her)\
 
-      **MARKETING ASSISTANTS** | Jacob Vellucci (he/him) and Hannah Sheppard (she/her)
+      **MARKETING ASSISTANTS** | Jacob Vellucci (he/him) and Hannah Sheppard (she/her)\
+
+      **COMMITTEE LIAISON** | Sam Ferguson (she/her)
 
 
       *Company* is currently looking for a **Costume Designer**. If you are interested, please email [production@sedos.co.uk](mailto:production@sedos.co.uk)
