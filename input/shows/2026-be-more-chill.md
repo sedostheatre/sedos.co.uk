@@ -37,7 +37,9 @@ sections:
 
       **COSTUMES** | Bee Stockwell (they/them)\
 
-      **PROPS** | Devon Colvert (they/he)
+      **PROPS** | Devon Colvert (they/he)\
+
+      **COMMITTEE LIAISON** | Tim Garrad
 
 
       Are you a *Be More Chill* superfan? Do you want to get involved with the production? If so, we’d love to hear from you - email [production@sedos.co.uk](mailto:production@sedos.co.uk)
