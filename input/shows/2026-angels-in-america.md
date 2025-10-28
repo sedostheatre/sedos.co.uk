@@ -29,7 +29,9 @@ sections:
     body: >-
       **DIRECTOR** | David Gregory\
 
-      **MUSIC SUPERVISOR** | Isaac Bartels
+      **MUSIC SUPERVISOR** | Isaac Bartels\
+
+      **COMMITTEE LIAISON** | Olly Levett
 
 
       *Angels in America* are looking for a number of roles, including an Assistant Director (preferably with experience in physical theatre / movement) and various Creative and Production roles. If you are interested, please email [production@sedos.co.uk](mailto:production@sedos.co.uk)
