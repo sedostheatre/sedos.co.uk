@@ -26,7 +26,9 @@ sections:
     body: >-
       **DIRECTOR** | Owen Thomas James (he/him)\
 
-      **CHOREOGRAPHER** | Mia Mann (she/her)
+      **CHOREOGRAPHER** | Mia Mann (she/her)\
+
+      COMMITTEE LIAISON | Paul Caira and Shylo Allen (he/him)
 
 
       *Love's Labour's Lost* is looking for a Set Designer to join the team. If you are interested, please email production@sedos.co.uk
