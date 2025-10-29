@@ -28,6 +28,8 @@ sections:
 
       **PRODUCERS** | Gabriel Cradden (he/him) and Pippa Kyle (she/her)\
 
+      **MUSIC SUPERVISOR** | Ollie Jones (he/him)\
+
       **LIGHTING DESIGNER** | Olly Levett (he/him)\
 
       **COMMITTEE LIAISON** | Emma Miller (she/her)
