@@ -51,7 +51,7 @@ The neighbours’ dog shows up dead in their front garden. Fifteen-year-old Chri
 
 Director Alice Bennett commented: "As an autistic person, *The Curious Incident of the Dog in the Night-Time* has always felt personal to me. The show is sharp, moving, and unlike any other play you’ll see on stage. We want this production to be dynamic and bring the audience into Christopher’s world through sound, lighting and movement. I’m so excited to be a part of bringing it to the Sedos stage!"
 
-**Content warnings:** killing of an animal, death of a family member, domestic violence.
+**Content warnings:** killing of an animal, death of a family member, domestic violence. Recommended for ages 10+
 
 *The Curious Incident of the Dog in the Night-Time* plays at the [Bridewell Theatre](https://www.sedos.co.uk/venues/bridewell) from 14-18 July 2026.
 
