@@ -2,7 +2,7 @@
 title: The Curious Incident of the Dog in the Night-Time
 year: "2026"
 authors: Adapted by SIMON STEPHENS
-authors2: Based on the Novel by MARK HADDON
+authors2: Based on the novel by MARK HADDON
 subtitle: Numbers make sense. People do not. This play is about that
 showtimes:
   - time: 2026-07-14 19:30
