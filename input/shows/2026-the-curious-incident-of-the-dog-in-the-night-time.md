@@ -32,6 +32,8 @@ sections:
 
       **LIGHTING DESIGNER** | Olly Levett (he/him)\
 
+      **COSTUMES** | Clare Harding (she/her)\
+
       **STAGE MANAGER** | Harvey Dovell (he/him)\
 
       **COMMITTEE LIAISON** | Emma Miller (she/her)
