@@ -32,12 +32,14 @@ sections:
 
       **LIGHTING DESIGNER** | Olly Levett (he/him)\
 
+      **COSTUMES** | Clare Harding (she/her)\
+
       **STAGE MANAGER** | Harvey Dovell (he/him)\
 
       **COMMITTEE LIAISON** | Emma Miller (she/her)
 
 
-      *The Curious Incident of the Dog in the Night-Time* are currently looking for a Set Designer, Sound Designer and Costume Designer to join the team. If you are interested in being considered for any of these roles, please email [production@sedos.co.uk](mailto:production@sedos.co.uk)
+      *The Curious Incident of the Dog in the Night-Time* are currently looking for a Set Designer and Sound Designer to join the team. If you are interested in being considered for either of these roles, please email [production@sedos.co.uk](mailto:production@sedos.co.uk)
 metaTitle: The Curious Incident of the Dog in the Night-Time plays at the
   Bridewell Theatre 24-28 July 2026
 metaDescription: The Curious Incident of the Dog in the Night-Time brings a
