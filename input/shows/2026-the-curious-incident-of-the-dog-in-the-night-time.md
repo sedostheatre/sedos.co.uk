@@ -36,6 +36,8 @@ sections:
 
       **STAGE MANAGER** | Harvey Dovell (he/him)\
 
+      **ASSISTANT STAGE MANAGER / PROPS** | Helen Wieland (she/her)\
+
       **COMMITTEE LIAISON** | Emma Miller (she/her)
 
 
