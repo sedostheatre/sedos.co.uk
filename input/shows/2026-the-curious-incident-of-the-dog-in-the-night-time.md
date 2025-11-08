@@ -38,6 +38,10 @@ sections:
 
       **ASSISTANT STAGE MANAGER / PROPS** | Helen Wieland (she/her)\
 
+      **RELAXED PERFORMANCE CO-ORDINATOR** | Ema-Mae West (she/her)\
+
+      **CAPTIONER** | Emma Hunt (she/they)\
+
       **COMMITTEE LIAISON** | Emma Miller (she/her)
 
 
