@@ -26,6 +26,8 @@ This takes place on the first Tuesday of every month (not December or January), 
 333 Old St, London EC1V 9LE - [find it on Google Maps](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjxoer6ia6PAxWiQUEAHStkLrsQ8gF6BAgcEAM&url=%2Fmaps%2Fplace%2Fshoreditch%2Bballs%2Fdata%3D!4m2!3m1!1s0x48761d59aef76ae1%3A0x8c5958860a889f28%3Fsa%3DX%26ved%3D1t%3A242%26ictx%3D111&usg=AOvVaw3R7Xz1ZcPDQEvAh_mhAkM7&opi=89978449)  \
 [Free tickets available here](https://sedos.ticketsolve.com/ticketbooth/shows)  
 
+Applications for guest acts in February and March will open at the beginning of December. Applications for April, May and June will open in early January.
+
 [Apply here to perform at an upcoming jam](https://forms.gle/uJ77FV6muzri3fyNA)
 
 Find out more about [Simprov](https://www.sedos.co.uk/regular-events/simprov).
@@ -38,7 +40,6 @@ Find out more about [Simprov](https://www.sedos.co.uk/regular-events/simprov).
 **3 March 2026** | Simprov with guest acts TBC
 
 **7 April 2026** | Simprov with guest acts TBC
-
 
 ![](/assets/simprov-logo-800.jpg)
 
