@@ -68,7 +68,7 @@ sections:
       **ASSISTANT DIRECTOR** | Rinre Olusola (she/her)\
       **CHOREOGRAPHER** | Taylor Bradshaw (he/him)\
       **PRODUCER** | Folu Oyewole (she/her)\
-      **COSTUME DESIGNER** | Roxanne Ivy Robers (she/her)\
+      **COSTUME DESIGNER** | Shannon M. Maddox\
       **SET DESIGNERS** | George Langdown (he/him) and Andrew Laidlaw (he/him)\
       **LIGHTING DESIGNER** | Ben Sassoon (he/him)\
       **SOUND DESIGNER** | Pranav Mahesh (he/him)\
