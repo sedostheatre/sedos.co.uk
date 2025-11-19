@@ -85,7 +85,7 @@ Changes will include: 
 * Loud noises will be reduced and the general volume of the music turned down
 * The plot and characters will be introduced on stage before the show
 * Easy-read information will be available on characters, the plot and sensory warnings, with a member of the production team in the foyer before the show to give more information
-* Audience members are welcome to move around and make noise during the show. You can also leave and re-enter theatre at any time, with the bar and its overflow room available as areas to relax during the performance
+* Audience members are welcome to move around and make noise during the show. You can also leave and re-enter the theatre at any time, with the bar and its overflow room available as areas to relax during the performance
 
 Any questions? Email [curious@sedos.co.uk](mailto:curious@sedos.co.uk)
 
