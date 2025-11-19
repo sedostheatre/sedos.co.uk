@@ -9,8 +9,8 @@ showtimes:
   - time: 2026-07-15 19:30
   - time: 2026-07-16 19:30
   - time: 2026-07-17 19:30
-  - time: 2026-07-18 14:30
-  - time: 2026-07-18 19:30
+  - time: 2026-07-18 13:00
+  - time: 2026-07-18 18:00
 showtime-summary: 14-18 JULY 2026
 venue: Bridewell Theatre
 primary-color: "#202865"
@@ -18,6 +18,8 @@ header-image: /assets/website-homepage-image-curiousincident.jpg
 header-image-contain: false
 flyer: /assets/iggrid4x5-curiousincident.png
 box-office-open: false
+box-office-link: https://sedos.ticketsolve.com/ticketbooth/shows/1173669359
+box-office-text: Tickets from £12.50 (no booking fee)
 sections:
   - order: 1
     title: CREATIVE TEAM
