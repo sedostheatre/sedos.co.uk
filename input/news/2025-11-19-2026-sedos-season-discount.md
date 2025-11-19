@@ -18,7 +18,7 @@ Perhaps you’d like to see all four of Sedos’ 2026 musicals? Or add a play to
 
 Note that we have one more play still to be announced and added to the season, so you may wish to wait to book and use the discount once this final show is on sale.
 
-Our final show of 2026, the two-part play *Angles in America* (19-28 November), is not included in the season discount and tickets will go on sale at later date. 
+Our final show of 2026, the two-part play *Angels in America* (19-28 November), is not included in the season discount and tickets will go on sale at later date. 
 
 Unfortunately there seems to be a gremlin in the box office system which means the multi-buy discount is not being automatically applied when combined with our standard Sedos membership ticket discount. To receive the discount, members should therefore make a booking for four (or more) shows online in a single transaction, then forward your confirmation email to [tickets@sedos.co.uk](<>) and we will organise you a refund of the relevant amount so that the discount is applied.
 
@@ -33,3 +33,7 @@ The shows which are on sale are:
 *Be More Chill* (20-24 October)[](<>)
 
 We look forward to welcoming you to the Bridewell Theatre for our 2025 shows.
+
+^^^
+![2026 Sedos season discount](/assets/newsletter2026.jpg)
+^^^
