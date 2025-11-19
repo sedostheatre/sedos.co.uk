@@ -9,8 +9,8 @@ showtimes:
   - time: 2026-07-15 19:30
   - time: 2026-07-16 19:30
   - time: 2026-07-17 19:30
-  - time: 2026-07-18 14:30
-  - time: 2026-07-18 19:30
+  - time: 2026-07-18 13:00
+  - time: 2026-07-18 18:00
 showtime-summary: 14-18 JULY 2026
 venue: Bridewell Theatre
 primary-color: "#202865"
@@ -18,6 +18,8 @@ header-image: /assets/website-homepage-image-curiousincident.jpg
 header-image-contain: false
 flyer: /assets/iggrid4x5-curiousincident.png
 box-office-open: false
+box-office-link: https://sedos.ticketsolve.com/ticketbooth/shows/1173669359
+box-office-text: Tickets from £12.50 (no booking fee)
 sections:
   - order: 1
     title: CREATIVE TEAM
@@ -64,6 +66,25 @@ Director Alice Bennett commented: "As an autistic person, *The Curious Incident 
 **Content warnings:** killing of an animal, death of a family member, domestic violence. Recommended for ages 10+
 
 *The Curious Incident of the Dog in the Night-Time* plays at the [Bridewell Theatre](https://www.sedos.co.uk/venues/bridewell) from 14-18 July 2026.
+
+**ACCESS PERFORMANCES**
+
+**Wednesday 15 July, 6pm:** open captioning. A captioned performance uses real-time captions to represent spoken dialogue and other important audio elements during the show. This allows audience members who are D/deaf or hard of hearing to follow the plot. Thank you to [Digital4](https://www.digital-4.co.uk/) for supporting this production. 
+
+The best seats for seeing the captions are C1-7, D1-7, E1-7, F1-7 and G1-7. This area will be marked when you go to select your seats.
+
+**Matinee on Saturday 18 July, 1pm:** open captioning, as above, plus relaxed performance. 
+
+Changes will include: 
+
+*  A modified lighting design to reduce flashing lights
+* The house lights are dimmed rather than turned off
+* Loud noises will be reduced and the general volume of the music turned down
+* The plot and characters will be introduced on stage before the show
+* Easy-read information will be available on characters, the plot and sensory warnings, with a member of the production team in the foyer before the show to give more information
+* Audience members are welcome to move around and make noise during the show. They can also leave and re-enter theatre at any time, with the bar and its overflow room available as areas to relax during the performance
+
+Any questions? Email [curious@sedos.co.uk](mailto:curious@sedos.co.uk)
 
 **The Curious Incident of the Dog in the Night-Time**
 Adapted by Simon Stephens\
