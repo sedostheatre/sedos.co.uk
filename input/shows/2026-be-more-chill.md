@@ -19,6 +19,8 @@ header-image: /assets/website-homepage-image-bemorechill.jpg
 header-image-contain: false
 flyer: /assets/iggrid4x5-bemorechill.png
 box-office-open: false
+box-office-link: https://sedos.ticketsolve.com/ticketbooth/shows/1173669361
+box-office-text: Tickets from £14 (no booking fee)
 sections:
   - order: 1
     title: CREATIVE TEAM
