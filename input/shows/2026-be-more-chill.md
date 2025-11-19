@@ -14,13 +14,14 @@ showtimes:
   - time: 2026-10-24 14:30
   - time: 2026-10-24 19:30
 showtime-summary: 20-24 OCTOBER 2026
+ticket-prices: Tickets from £14 (no booking fee)
 primary-color: "#46135d"
 header-image: /assets/website-homepage-image-bemorechill.jpg
 header-image-contain: false
 flyer: /assets/iggrid4x5-bemorechill.png
 box-office-open: false
 box-office-link: https://sedos.ticketsolve.com/ticketbooth/shows/1173669361
-box-office-text: Tickets from £14 (no booking fee)
+box-office-text: ""
 sections:
   - order: 1
     title: CREATIVE TEAM
