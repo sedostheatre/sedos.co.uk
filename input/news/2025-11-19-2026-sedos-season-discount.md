@@ -10,9 +10,9 @@ metaDescription: "2026 Sedos season discount: book four shows in our 2026 season
 
 **Receive a special discount when you book four or five shows in our 2026 season.** 
 
-We’re thrilled to offer loyal audience members a 2026 Sedos season discount when you book our [upcoming shows](https://www.sedos.co.uk/whats-on) at the [Bridewell Theatre](<>).
+We’re thrilled to offer loyal audience members a 2026 Sedos season discount when you book our [upcoming shows](https://www.sedos.co.uk/whats-on) at the [Bridewell Theatre](https://www.sedos.co.uk/venues/bridewell).
 
-If you book any four (or more) shows in our 2026 Bridewell season in one transaction, you will receive 25% off. The discount will be applied automatically at the [online box office](<>). 
+If you book any four (or more) shows in our 2026 Bridewell season in one transaction, you will receive 25% off. The discount will be applied automatically at the [online box office](https://sedos.ticketsolve.com/ticketbooth/shows). 
 
 Perhaps you’d like to see all four of Sedos’ 2026 musicals? Or add a play to the mix? By booking early you not only receive 25% off, you also have the best choice of seats so you can be sure of securing your favourite spot. 
 
@@ -22,7 +22,7 @@ Our final show of 2026, the two-part play *[Angels in America](https://www.sedos
 
 Unfortunately there seems to be a gremlin in the box office system which means the multi-buy discount is not being automatically applied when combined with our standard Sedos membership ticket discount. To receive the discount, members should therefore make a booking for four (or more) shows online in a single transaction, then forward your confirmation email to [tickets@sedos.co.uk](<>) and we will organise you a refund of the relevant amount so that the discount is applied.
 
-**[Visit the box office](<>)**
+**[Visit the box office](https://sedos.ticketsolve.com/ticketbooth/shows)**
 
 The shows which are on sale are:
 
