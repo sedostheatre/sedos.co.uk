@@ -59,8 +59,9 @@ But is being popular worth sacrificing control of your life to a supercomputer?
 
 Director Miranda Evans commented: “*Be More Chill* is an explosion of catchy tunes and geeky video game nostalgia, with a heart that speaks to that lonely teen in all of us. In our current technological era, a story about handing over your life to a sentient supercomputer feels more resonant than ever. The show found its audience online where it became a bit of a cult classic. This is where I discovered the soundtrack, and it quickly became one of my favourite shows. I am thrilled to be bringing to the Bridewell with Sedos as part of the 2026 season.”
 
-
 **Content warnings:** contains mental health struggles, bullying, self harm and references to suicide.
+
+**SPECIAL OFFER:** book any four shows (or more) in our 2026 season in one transaction and receive a 25% discount. [More info](https://www.sedos.co.uk/news/2025-11-19-2026-sedos-season-discount). 
 
 *Be More Chill* plays at the [Bridewell Theatre](https://www.sedos.co.uk/venues/bridewell) from 20-24 October 2026.
 
@@ -69,4 +70,4 @@ Music and Lyrics by Joe Iconis\
 Book by Joe Tracz\
 Based on the Novel by Ned Vizzini
 
-*[](<>)This amateur production of Be More Chill is presented by arrangement with Concord Theatricals Ltd. [www.concordtheatricals.co.uk](https://www.concordtheatricals.co.uk)*
+[](<>)*This amateur production of Be More Chill is presented by arrangement with Concord Theatricals Ltd. [www.concordtheatricals.co.uk](https://www.concordtheatricals.co.uk)*
