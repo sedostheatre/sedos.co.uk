@@ -1,5 +1,5 @@
 ---
-title: 2026 Sedos season discount
+title: Book four shows in our 2026 season and receive a 25% discount
 date: 2025-11-19
 image: /assets/websitenewsstoryhomepage.jpg
 imageAlt: 2026 Sedos season discount
