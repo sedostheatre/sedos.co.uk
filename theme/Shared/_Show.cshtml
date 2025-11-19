@@ -83,7 +83,8 @@
 
                         if (showDates.Any(x => x > DateTime.Now) && Model.Get("box-office-open", false))
                         {
-                            var boxOfficeText = Model.GetString("box-office-text", "Book tickets");
+                            var modelText = Model.GetString("box-office-text", "Book tickets");
+                            var boxOfficeText = string.IsNullOrWhiteSpace(modelText) ? "Book tickets" : modelText;
                             var bookingLink = BoxOfficeUri.FromBoxOfficeLink(Model.GetString("box-office-link", "https://sedos.ticketsolve.com/shows"));
                             <a class="btn btn-sedos-blue" target="_blank" href="@bookingLink">@boxOfficeText</a>
                         }
