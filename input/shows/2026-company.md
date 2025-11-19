@@ -14,8 +14,9 @@ showtimes:
   - time: 2026-05-13 19:30
   - time: 2026-05-14 19:30
   - time: 2026-05-15 19:30
-  - time: 2026-05-16 14:30
-  - time: 2026-05-16 19:30
+  - time: 2026-05-16 13:00
+  - time: 2026-05-16 18:00
+  - time: 2026-05-11 19:30
 showtime-summary: 7-16 MAY 2026
 venue: Bridewell Theatre
 primary-color: "#0e2647"
@@ -23,6 +24,8 @@ header-image: /assets/website-homepage-image-company.jpg
 header-image-contain: false
 flyer: /assets/iggrid4x5-company.png
 box-office-open: false
+box-office-link: https://sedos.ticketsolve.com/ticketbooth/shows/1173669358/events/428756867
+box-office-text: Tickets from £14 (no booking fee)
 sections:
   - order: 1
     title: CAST & CREATIVE TEAM
