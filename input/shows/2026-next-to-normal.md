@@ -13,13 +13,14 @@ showtimes:
   - time: 2026-03-28 19:30
 showtime-summary: 24-28 MARCH 2026
 venue: Bridewell Theatre
+ticket-prices: Tickets from £14 (no booking fee)
 primary-color: "#9d9aad"
 header-image: /assets/next-to-normal-_notext.jpg
 header-image-contain: false
 flyer: /assets/iggrid4x5-nexttonormal.png
-box-office-open: false
+box-office-open: true
 box-office-link: https://sedos.ticketsolve.com/ticketbooth/shows/1173669357
-box-office-text: Tickets from £14 (no booking fee)
+box-office-text: ""
 sections:
   - order: 1
     title: CREATIVE TEAM
