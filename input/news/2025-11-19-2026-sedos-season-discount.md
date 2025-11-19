@@ -10,7 +10,7 @@ metaDescription: "2026 Sedos season discount: book four shows in our 2026 season
 
 **Receive a special discount when you book four or five shows in our 2026 season.** 
 
-We’re thrilled to offer loyal audience members a 2026 Sedos season discount when you book our [upcoming shows](https://www.sedos.co.uk/whats-on) at the [Bridewell Theatre](<>) . 
+We’re thrilled to offer loyal audience members a 2026 Sedos season discount when you book our [upcoming shows](https://www.sedos.co.uk/whats-on) at the [Bridewell Theatre](<>).
 
 If you book any four (or more) shows in our 2026 Bridewell season in one transaction, you will receive 25% off. The discount will be applied automatically at the [online box office](<>). 
 
