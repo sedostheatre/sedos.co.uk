@@ -15,13 +15,14 @@ showtimes:
   - time: 2026-09-19 19:30
 showtime-summary: 15-19 SEPTEMBER 2026
 venue: Bridewell Theatre
+ticket-prices: Tickets from £14 (no booking fee)
 primary-color: "#5c8dac"
 header-image: /assets/website-homepage-image-loveslabourslost.jpg
 header-image-contain: false
 flyer: /assets/iggrid4x5-loveslabourslost.png
-box-office-open: false
+box-office-open: true
 box-office-link: https://sedos.ticketsolve.com/ticketbooth/shows/1173669360
-box-office-text: Tickets from £14 (no booking fee)
+box-office-text: ""
 sections:
   - order: 1
     title: CAST & CREATIVE TEAM
