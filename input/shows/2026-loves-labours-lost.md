@@ -20,6 +20,8 @@ header-image: /assets/website-homepage-image-loveslabourslost.jpg
 header-image-contain: false
 flyer: /assets/iggrid4x5-loveslabourslost.png
 box-office-open: false
+box-office-link: https://sedos.ticketsolve.com/ticketbooth/shows/1173669360
+box-office-text: Tickets from £14 (no booking fee)
 sections:
   - order: 1
     title: CAST & CREATIVE TEAM
