@@ -69,7 +69,7 @@ Director Alice Bennett commented: "As an autistic person, *The Curious Incident 
 
 **ACCESS PERFORMANCES**
 
-**Wednesday 15 July, 6pm:** open captioning. A captioned performance uses real-time captions to represent spoken dialogue and other important audio elements during the show. This allows audience members who are D/deaf or hard of hearing to follow the plot. Thank you to [Digital4](https://www.digital-4.co.uk/) for supporting this production. 
+**Wednesday 15 July, 7.30pm:** open captioning. A captioned performance uses real-time captions to represent spoken dialogue and other important audio elements during the show. This allows audience members who are D/deaf or hard of hearing to follow the plot. Thank you to [Digital4](https://www.digital-4.co.uk/) for supporting this production. 
 
 The best seats for seeing the captions are C1-7, D1-7, E1-7, F1-7 and G1-7. This area will be marked when you go to select your seats.
 
@@ -77,7 +77,7 @@ The best seats for seeing the captions are C1-7, D1-7, E1-7, F1-7 and G1-7. This
 
 Changes will include: 
 
-*  A modified lighting design to reduce flashing lights
+* A modified lighting design to reduce flashing lights
 * The house lights are dimmed rather than turned off
 * Loud noises will be reduced and the general volume of the music turned down
 * The plot and characters will be introduced on stage before the show
