@@ -65,6 +65,8 @@ Director Alice Bennett commented: "As an autistic person, *The Curious Incident 
 
 **Content warnings:** killing of an animal, death of a family member, domestic violence. Recommended for ages 10+
 
+**SPECIAL OFFER:** book any four shows (or more) in our 2026 season in one transaction and receive a 25% discount. [More info](<>). 
+
 *The Curious Incident of the Dog in the Night-Time* plays at the [Bridewell Theatre](https://www.sedos.co.uk/venues/bridewell) from 14-18 July 2026.
 
 **ACCESS PERFORMANCES**
