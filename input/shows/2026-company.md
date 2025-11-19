@@ -71,6 +71,8 @@ Director Emily Phillips commented: "*Company* is a dream show as a director who 
 
 **Content warnings:** this show contains scenes of alcohol consumption and intoxication, smoking, sexual content and innuendo, adult language, themes of infidelity, and emotional conflict.
 
+**SPECIAL OFFER:** book any four shows (or more) in our 2026 season in one transaction and receive a 25% discount. [More info](<>). 
+
 *Company* plays at the [Bridewell Theatre](https://www.sedos.co.uk/venues/bridewell) from 7-16 May 2026.
 
 **Company**
