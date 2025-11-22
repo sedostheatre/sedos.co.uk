@@ -57,6 +57,7 @@ namespace Sedos.Pipelines
 		{ "piratequeenprog", "https://marvelapp.com/prototype/113gdcd4/screen/97257788" },
 		{ "cast-feedback", "https://forms.gle/kyikJLPRRffHGin26" },
 		{ "team-feedback", "https://forms.gle/9dKpokf16ZsdeuAD6" },
+		{ "newsletterform", "https://tinyurl.com/sedosnewslettersubmit" },
             };
 
             ProcessModules = new ModuleList
