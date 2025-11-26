@@ -97,7 +97,7 @@ Any questions? Email [curious@sedos.co.uk](mailto:curious@sedos.co.uk)\
 * Wednesday 1 April, 7-10pm - first round auditions
 * Sunday 12 April, 10am-6pm - recalls (by invitation)
 
-The workshop, auditions and recalls will all take place at Kings Square, Blackwell House, Pankhurst Terrace, King Square, London EC1Y 8DY
+The workshop, auditions and recalls will all take place at King’s Square, Blackwell House, Pankhurst Terrace, King Square, London EC1Y 8DY
 
 **The Curious Incident of the Dog in the Night-Time**
 Adapted by Simon Stephens\
