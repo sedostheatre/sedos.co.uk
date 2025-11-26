@@ -32,7 +32,7 @@ sections:
     body: |-
       **CAST**
 
-      **EFFIE WHITE** | Lashayah Byfield\
+      **EFFIE WHITE** | Lashayah Alizé Byfield\
       **DEENA JONES** | Jasmine Sakpoba\
       **LORRELL ROBINSON** | Nicole Vassell\
       **MICHELLE MORRIS** | Mary Briggs\
@@ -44,9 +44,8 @@ sections:
       **ALL OTHER ROLES PLAYED BY**
 
       Tomiwa Akintunde\
-      Aku Allotey\
+      Aku-Sheka Allotey\
       Melissa Boateng\
-      Johnathan Aaron Clarke\
       Josephine Bannerman\
       Emma Bowker\
       Cheyane Brown\
@@ -69,11 +68,20 @@ sections:
       **CHOREOGRAPHER** | Taylor Bradshaw (he/him)\
       **PRODUCER** | Folu Oyewole (she/her)\
       **COSTUME DESIGNER** | Shannon M. Maddox\
-      **SET DESIGNERS** | George Langdown (he/him) and Andrew Laidlaw (he/him)\
+      **WIGGS and HAIR** | Jobina Hardy\
+      **SET DESIGNERS** | George Langdown (he/him)\
       **LIGHTING DESIGNER** | Ben Sassoon (he/him)\
       **SOUND DESIGNER** | Pranav Mahesh (he/him)\
       **COMMITTEE LIAISON** | George Langdown (he/him)
     title: CAST & CREATIVE TEAM
+  - order: 2
+    title: GALLERY
+    body: <a data-flickr-embed="true"
+      href="https://www.flickr.com/photos/sedos/albums/72177720330522623"
+      title="Dreamgirls - 2025"><img
+      src="https://live.staticflickr.com/65535/54942591848_37c59242f2_c.jpg"
+      width="800" height="600" alt="Dreamgirls - 2025"/></a><script async
+      src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 metaTitle: Dreamgirls plays at the Bridewell Theatre 19-29 November 2025
 metaDescription: Dreamgirls, by Tom Eyen and Henry Krieger, is a sweeping and
   inspirational journey through 20th century American pop music. It is part of
