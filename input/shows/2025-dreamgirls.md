@@ -32,7 +32,7 @@ sections:
     body: |-
       **CAST**
 
-      **EFFIE WHITE** | Lashayah Byfield\
+      **EFFIE WHITE** | Lashayah Alizé Byfield\
       **DEENA JONES** | Jasmine Sakpoba\
       **LORRELL ROBINSON** | Nicole Vassell\
       **MICHELLE MORRIS** | Mary Briggs\
@@ -44,9 +44,8 @@ sections:
       **ALL OTHER ROLES PLAYED BY**
 
       Tomiwa Akintunde\
-      Aku Allotey\
+      Aku-Sheka Allotey\
       Melissa Boateng\
-      Johnathan Aaron Clarke\
       Josephine Bannerman\
       Emma Bowker\
       Cheyane Brown\
@@ -69,7 +68,8 @@ sections:
       **CHOREOGRAPHER** | Taylor Bradshaw (he/him)\
       **PRODUCER** | Folu Oyewole (she/her)\
       **COSTUME DESIGNER** | Shannon M. Maddox\
-      **SET DESIGNERS** | George Langdown (he/him) and Andrew Laidlaw (he/him)\
+      **WIGGS and HAIR** | Jobina Hardy\
+      **SET DESIGNERS** | George Langdown (he/him)\
       **LIGHTING DESIGNER** | Ben Sassoon (he/him)\
       **SOUND DESIGNER** | Pranav Mahesh (he/him)\
       **COMMITTEE LIAISON** | George Langdown (he/him)
