@@ -68,7 +68,7 @@ sections:
       **CHOREOGRAPHER** | Taylor Bradshaw (he/him)\
       **PRODUCER** | Folu Oyewole (she/her)\
       **COSTUME DESIGNER** | Shannon M. Maddox\
-      **WIGGS and HAIR** | Jobina Hardy\
+      **WIGS and HAIR** | Jobina Hardy\
       **SET DESIGNERS** | George Langdown (he/him)\
       **LIGHTING DESIGNER** | Ben Sassoon (he/him)\
       **SOUND DESIGNER** | Pranav Mahesh (he/him)\
