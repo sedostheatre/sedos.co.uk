@@ -91,6 +91,9 @@ sections:
       width="800" height="600" alt="Dreamgirls - Rehearsals - 2025"/></a><script
       async src="//embedr.flickr.com/assets/client-code.js"
       charset="utf-8"></script>
+  - order: 4
+    title: VIDEO
+    body: <div class="video-responsive"><?# YouTube O6_RXxIKZws /?></div>
 metaTitle: Dreamgirls plays at the Bridewell Theatre 19-29 November 2025
 metaDescription: Dreamgirls, by Tom Eyen and Henry Krieger, is a sweeping and
   inspirational journey through 20th century American pop music. It is part of
