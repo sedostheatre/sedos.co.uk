@@ -94,6 +94,30 @@ sections:
   - order: 4
     title: VIDEO
     body: <div class="video-responsive"><?# YouTube O6_RXxIKZws /?></div>
+  - order: 5
+    title: REVIEWS
+    body: >-
+      >Sedos have a huge hit on their hands with Dreamgirls, they tackle it with
+      the boldness it requires serving big voices and bigger emotions. The
+      result is a production as satisfying and as thrilling as Effie’s final Act
+      1 note.
+
+      ><footer><cite><a target="_blank" href="https://musicaltheatremusings.co.uk/dreamgirls-sedos">Dreamgirls, 2025, Musical Theatre Musings</a></cite></footer>
+
+
+      >Sedos’ Dreamgirls is a powerful rendition of the musical that nails the themes, aesthetics, and performances.
+
+      ><footer><cite><a target="_blank" href="https://everything-theatre.co.uk/2025/11/review-dreamgirls-the-bridewell-theatre/">Dreamgirls, 2025, Everything Theatre (****)</a></cite></footer>
+
+
+      >This production of Dreamgirls was brilliantly crafted, filled with standout vocals, energetic movement, and emotive storytelling. It truly did dazzle the audience.
+
+      ><footer><cite><a target="_blank" href="https://www.londontheatrereviews.co.uk/post.cfm?p=26139">Dreamgirls, 2025, London Theatre Reviews (****)</a></cite></footer>
+
+
+      >Sedos’ production of Dreamgirls is excellent and deserves a much longer run. It also has all the makings of being a success in the West End too.
+
+      ><footer><cite><a target="_blank" href="https://www.instagram.com/p/DRkh0yuiG7R/?img_index=1">Dreamgirls, 2025, @cometheatrewithme</a></cite></footer>
 metaTitle: Dreamgirls plays at the Bridewell Theatre 19-29 November 2025
 metaDescription: Dreamgirls, by Tom Eyen and Henry Krieger, is a sweeping and
   inspirational journey through 20th century American pop music. It is part of
