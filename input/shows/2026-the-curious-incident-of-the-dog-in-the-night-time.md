@@ -24,31 +24,20 @@ box-office-text: ""
 sections:
   - order: 1
     title: CREATIVE TEAM
-    body: >-
+    body: |-
       **DIRECTOR** | Alice Bennett (she/her)\
-
       **CHOREOGRAPHER AND DIRECTOR** | Emma Bowker (she/her)\
-
       **PRODUCERS** | Gabriel Cradden (he/him) and Pippa Kyle (she/her)\
-
       **MUSIC SUPERVISOR** | Ollie Jones (he/him)\
-
       **LIGHTING DESIGNER** | Olly Levett (he/him)\
-
+      **SOUND DESIGNERS** | Pranav Mahesh (he/him) and Omar Hussein (he/him)\
       **COSTUMES** | Clare Harding (she/her)\
-
+      **SET and PROJECTION DESIGNER** | Ellen Redgrave (they/them)\
       **STAGE MANAGER** | Harvey Dovell (he/him)\
-
       **ASSISTANT STAGE MANAGER / PROPS** | Helen Wieland (she/her)\
-
       **COMMUNITY CAPTIONER** | Emma Hunt (she/they)\
-
       **RELAXED PERFORMANCE CO-ORDINATOR** | Ema-Mae West (she/her)\
-
       **COMMITTEE LIAISON** | Emma Miller (she/her)
-
-
-      *The Curious Incident of the Dog in the Night-Time* are currently looking for a Set Designer and Sound Designer to join the team. If you are interested in being considered for either of these roles, please email [production@sedos.co.uk](mailto:production@sedos.co.uk)
 metaTitle: The Curious Incident of the Dog in the Night-Time plays at the
   Bridewell Theatre 24-28 July 2026
 metaDescription: The Curious Incident of the Dog in the Night-Time brings a
