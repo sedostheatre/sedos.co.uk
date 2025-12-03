@@ -40,10 +40,10 @@ sections:
       **RELAXED PERFORMANCE CO-ORDINATOR** | Ema-Mae West (she/her)\
       **COMMITTEE LIAISON** | Emma Miller (she/her)
 metaTitle: The Curious Incident of the Dog in the Night-Time plays at the
-  Bridewell Theatre 24-28 July 2026
+  Bridewell Theatre 14-18 July 2026
 metaDescription: The Curious Incident of the Dog in the Night-Time brings a
   detective story like no other to the stage. It is part of Sedos’ 2026 season
-  and plays at the Bridewell Theatre from 24-28 July 2026
+  and plays at the Bridewell Theatre from 14-18 July 2026
 ---
 **“My name is Christopher John Francis Boone… I know all the countries of the world and capital cities. And every prime number up to 7,507.”**
 
