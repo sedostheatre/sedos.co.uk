@@ -33,6 +33,7 @@ sections:
       **SOUND DESIGNERS** | Pranav Mahesh (he/him) and Omar Hussein (he/him)\
       **COSTUMES** | Clare Harding (she/her)\
       **SET and PROJECTION DESIGNER** | Ellen Redgrave (they/them)\
+      **SET REALISATION** | James "Chads" Chadwick (he/him)\
       **STAGE MANAGER** | Harvey Dovell (he/him)\
       **ASSISTANT STAGE MANAGER / PROPS** | Helen Wieland (she/her)\
       **COMMUNITY CAPTIONER** | Emma Hunt (she/they)\
@@ -80,7 +81,7 @@ Any questions? Email [curious@sedos.co.uk](mailto:curious@sedos.co.uk)\
 \
 **AUDITION DATES**
 
-* Wednesday 18 March, approx 7.30-9.30pm - non-compulsory pre-audition workshop
+* Wednesday 18 March, 7.30-9.30pm - non-compulsory pre-audition workshop
 * Sunday 29 March, 10am-6pm - first round auditions
 * Monday 30 March, 7-10pm - first round auditions
 * Wednesday 1 April, 7-10pm - first round auditions
