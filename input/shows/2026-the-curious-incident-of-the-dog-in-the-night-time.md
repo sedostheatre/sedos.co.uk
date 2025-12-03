@@ -33,16 +33,17 @@ sections:
       **SOUND DESIGNERS** | Pranav Mahesh (he/him) and Omar Hussein (he/him)\
       **COSTUMES** | Clare Harding (she/her)\
       **SET and PROJECTION DESIGNER** | Ellen Redgrave (they/them)\
+      **SET REALISATION** | James "Chads" Chadwick (he/him)\
       **STAGE MANAGER** | Harvey Dovell (he/him)\
       **ASSISTANT STAGE MANAGER / PROPS** | Helen Wieland (she/her)\
       **COMMUNITY CAPTIONER** | Emma Hunt (she/they)\
       **RELAXED PERFORMANCE CO-ORDINATOR** | Ema-Mae West (she/her)\
       **COMMITTEE LIAISON** | Emma Miller (she/her)
 metaTitle: The Curious Incident of the Dog in the Night-Time plays at the
-  Bridewell Theatre 24-28 July 2026
+  Bridewell Theatre 14-18 July 2026
 metaDescription: The Curious Incident of the Dog in the Night-Time brings a
   detective story like no other to the stage. It is part of Sedos’ 2026 season
-  and plays at the Bridewell Theatre from 24-28 July 2026
+  and plays at the Bridewell Theatre from 14-18 July 2026
 ---
 **“My name is Christopher John Francis Boone… I know all the countries of the world and capital cities. And every prime number up to 7,507.”**
 
@@ -80,13 +81,13 @@ Any questions? Email [curious@sedos.co.uk](mailto:curious@sedos.co.uk)\
 \
 **AUDITION DATES**
 
-* Wednesday 18 March, approx 7.30-9.30pm - non-compulsory pre-audition workshop
+* Wednesday 18 March, 7.30-9.30pm - non-compulsory pre-audition workshop
 * Sunday 29 March, 10am-6pm - first round auditions
 * Monday 30 March, 7-10pm - first round auditions
 * Wednesday 1 April, 7-10pm - first round auditions
 * Sunday 12 April, 10am-6pm - recalls (by invitation)
 
-The workshop, auditions and recalls will all take place at King’s Square, Blackwell House, Pankhurst Terrace, King Square, London EC1Y 8DY
+The workshop, auditions and recalls will all take place at King’s Square Community Centre, Blackwell House, Pankhurst Terrace, London EC1Y 8DY
 
 **The Curious Incident of the Dog in the Night-Time**
 Adapted by Simon Stephens\
