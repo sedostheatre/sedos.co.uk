@@ -29,7 +29,7 @@ The shows which are on sale are:
 *[Next to Normal](https://www.sedos.co.uk/shows/2026-next-to-normal)* (24-28 March)\
 *[Company](https://www.sedos.co.uk/shows/2026-company)* (7-16 May)\
 *[The Curious Incident of the Dog in the Night-time](https://www.sedos.co.uk/shows/2026-the-curious-incident-of-the-dog-in-the-night-time)* (14-18 July)\
-*[Love Labour’s Lost](https://www.sedos.co.uk/shows/2026-loves-labours-lost)* (The Musical) (15-19 September)\
+*[Love’s Labour’s Lost](https://www.sedos.co.uk/shows/2026-loves-labours-lost)* (The Musical) (15-19 September)\
 *[Be More Chill](https://www.sedos.co.uk/shows/2026-be-more-chill)* (20-24 October)[](<>)
 
 We look forward to welcoming you to the Bridewell Theatre for our 2026 shows.
