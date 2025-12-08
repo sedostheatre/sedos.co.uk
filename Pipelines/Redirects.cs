@@ -58,6 +58,9 @@ namespace Sedos.Pipelines
 		{ "cast-feedback", "https://forms.gle/kyikJLPRRffHGin26" },
 		{ "team-feedback", "https://forms.gle/9dKpokf16ZsdeuAD6" },
 		{ "newsletterform", "https://tinyurl.com/sedosnewslettersubmit" },
+                { "company/notice", "https://drive.google.com/file/d/17yGmQM4SB-53N7Piwm6aXLtQ65__J1PL/view?usp=drive_link" },
+                { "company/form", "https://docs.google.com/forms/d/e/1FAIpQLSeY1TSPU4Z3JtZTnznhSTTY-GLJebBX0JgfLV9z7MKYmlxdqg/viewform" },
+                { "company/material", "https://drive.google.com/drive/folders/1xjjA26fSEWj2QIHoaldDbzcrY3w9RdYy?usp=drive_link" },
             };
 
             ProcessModules = new ModuleList
