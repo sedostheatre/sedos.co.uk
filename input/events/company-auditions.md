@@ -25,7 +25,7 @@ Information has been released about the *[Company](https://www.sedos.co.uk/shows
 
 **First rehearsal (full company):** Saturday 31 January 2-6.30pm
 
-Rehearsals: Tuesday and Thursday evenings and Saturday afternoons
+**Rehearsals:** Tuesday and Thursday evenings and Saturday afternoons
 
 ### **[LINK TO FULL AUDITION NOTICE](https://www.sedos.co.uk/company/notice)**
 
@@ -43,7 +43,7 @@ Step inside. Join the party. And maybe, just maybe, find the answer to what it m
 
 If you do have any further questions though, please email us at: [company@sedos.co.uk](mailto:company@sedos.co.uk)
 
-**DIRECTOR'S VISION NOTE**
+**DIRECTOR’S VISION NOTE**
 
 Our production of *Company* transforms the Bridewell Theatre into Bobby’s New York apartment, immersing the audience directly into the psychological and social world of the show. Rather than observing from a distance, they arrive as guests at Bobby’s 35th birthday party, greeted at the back entrance, guided down a hallway of memories, and invited into a fully realised loft apartment filled with music, conversation, and tension.
 
@@ -53,7 +53,7 @@ By staging the band in an “apartment across the alley,” and dotting couples 
 
 Our *Company* is sharp, funny, and poignant, trailblazing as one of the first immersive interpretations of this landmark musical. It invites audiences not just to watch Bobby’s search for connection, but to live inside it. 
 
-The *Company* team is honoured for the trustees to have approved a grant for this production from Jeremy Lewis funds. Jeremy was a former Chair of Sedos who left a legacy to the society to provide productions with money to enable visions that teams could not complete within a regular budget; without which it would not be possible to complete the apartment transformation of the Bridewell.
+The *Company* team is honoured that the Trustees have approved a grant for this production from Jeremy Lewis funds. Jeremy was a former chair of Sedos who left a legacy to the society to provide productions with money to enable visions that teams could not complete within a regular budget, without which it would not be possible to complete the apartment transformation of the Bridewell.
 
 **SHOW FEES**
 
@@ -79,4 +79,4 @@ You can read Sedos’s Equality, Diversity and Inclusion policy in [full here](h
 
 **MORE AUDITIONS**
 
-[All our current London auditions and other event](https://www.sedos.co.uk/get-involved)s.
+All our current [London auditions](https://www.sedos.co.uk/get-involved) and other events
