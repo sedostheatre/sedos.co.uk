@@ -23,8 +23,17 @@ box-office-link: https://sedos.ticketsolve.com/ticketbooth/shows/1173669357
 box-office-text: ""
 sections:
   - order: 1
-    title: CREATIVE TEAM
+    title: CAST & CREATIVE TEAM
     body: |-
+      **CAST**
+
+      **DIANA | Jamie Lee Pike**\
+      **DAN** | Dan Saunders\
+      **NATALIE** | Eleanor Morozow\
+      **GABE** | Jamie Cushion\
+      **HENRY** | Charlie Nicholas\
+      **DR MADDEN / DR FINE** | David Gregory
+
       **CREATIVE TEAM**
 
       **DIRECTOR** | Jonny Harding-Cooper (he/him)\
