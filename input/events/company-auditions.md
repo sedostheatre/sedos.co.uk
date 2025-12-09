@@ -8,6 +8,10 @@ times:
   - time: 2026-01-13 19:48
   - time: 2026-01-14 19:48
 image: /assets/website-homepage-image-company.jpg
+metaTitle: Company auditions, for Sedos’ production in May 2026
+metaDescription: Find out about Company auditions for Sedos’ production of the
+  musical in May 2026
+header-image: /assets/website-homepage-image-company.jpg
 ---
 Information has been released about the *[Company](https://www.sedos.co.uk/shows/2026-company)* auditions. The show plays 7-16 May 2026 at the Bridewell Theatre.
 
