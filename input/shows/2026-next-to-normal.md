@@ -27,7 +27,7 @@ sections:
     body: |-
       **CAST**
 
-      **DIANA | Jamie Lee Pike**\
+      **DIANA** | Jamie Lee Pike\
       **DAN** | Dan Saunders\
       **NATALIE** | Eleanor Morozow\
       **GABE** | Jamie Cushion\
