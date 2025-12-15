@@ -15,7 +15,7 @@ showtime-summary: 24-28 MARCH 2026
 venue: Bridewell Theatre
 ticket-prices: Tickets from £14 (no booking fee)
 primary-color: "#00687a"
-header-image: /assets/flyer-front.png
+header-image: /assets/1000040218.png
 header-image-contain: false
 flyer: /assets/iggrid4x5-nexttonormal.png
 box-office-open: true
