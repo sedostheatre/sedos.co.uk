@@ -17,7 +17,7 @@ ticket-prices: Tickets from £12.50 (no booking fee)
 primary-color: "#202865"
 header-image: /assets/website-homepage-image-curiousincident.jpg
 header-image-contain: false
-flyer: /assets/iggrid4x5-curiousincident.png
+flyer: /assets/iggrid4x5-curiousincidentnew.jpg
 box-office-open: true
 box-office-link: https://sedos.ticketsolve.com/ticketbooth/shows/1173669359
 box-office-text: ""
