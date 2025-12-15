@@ -1,5 +1,5 @@
 ---
-title: Love's Labour's Lost
+title: Love’s Labour’s Lost
 year: "2026"
 authors: A New Musical Based on the Play by WILLIAM SHAKESPEARE
 authors2: Songs by MICHAEL FRIEDMAN
@@ -19,7 +19,7 @@ ticket-prices: Tickets from £14 (no booking fee)
 primary-color: "#5c8dac"
 header-image: /assets/website-homepage-image-loveslabourslost.jpg
 header-image-contain: false
-flyer: /assets/iggrid4x5-loveslabourslost.png
+flyer: /assets/iggrid4x5-loveslabourslostnew.jpg
 box-office-open: true
 box-office-link: https://sedos.ticketsolve.com/ticketbooth/shows/1173669360
 box-office-text: ""
