@@ -21,7 +21,7 @@ showtime-summary: 19-28 NOVEMBER 2026
 primary-color: "#567b85"
 header-image: /assets/website-homepage-image-angelsinamerica.jpg
 header-image-contain: false
-flyer: /assets/iggrid4x5-angelsinamerica.png
+flyer: /assets/iggrid4x5-angelsinamericanew.jpg
 box-office-open: false
 sections:
   - order: 1
