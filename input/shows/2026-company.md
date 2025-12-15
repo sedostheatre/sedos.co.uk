@@ -23,7 +23,7 @@ ticket-prices: Tickets from £14 (no booking fee)
 primary-color: "#0e2647"
 header-image: /assets/website-homepage-image-company.jpg
 header-image-contain: false
-flyer: /assets/iggrid4x5-company.png
+flyer: /assets/iggrid4x5-companynew.jpg
 box-office-open: true
 box-office-link: https://sedos.ticketsolve.com/ticketbooth/shows/1173669358/events/428756867
 box-office-text: ""
