@@ -79,13 +79,7 @@ Changes will include: 
 
 Any questions? Email [curious@sedos.co.uk](mailto:curious@sedos.co.uk)
 
-[](mailto:curious@sedos.co.uk)
-
-^^^
-![The Curious Incident of the Dog in the Night-Time](/assets/curiousauditiondatesnewsletter.jpg)
-^^^ 
-
-
+**AUDITION DATES**
 
 * Wednesday 18 March, 7.30-9.30pm - non-compulsory pre-audition workshop
 * Sunday 29 March, 10am-6pm - first round auditions
