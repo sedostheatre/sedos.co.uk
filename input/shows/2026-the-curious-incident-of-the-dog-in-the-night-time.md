@@ -87,7 +87,7 @@ Any questions? Email [curious@sedos.co.uk](mailto:curious@sedos.co.uk)
 * Wednesday 1 April, 7-10pm - first round auditions
 * Sunday 12 April, 10am-6pm - recalls (by invitation)
 
-The workshop, auditions and recalls will all take place at King’s Square Community Centre, Blackwell House, Pankhurst Terrace, London EC1Y 8DY
+The workshop, auditions and recalls will all take place at King Square Community Centre, Blackwell House, Pankhurst Terrace, London EC1Y 8DY
 
 Please email [curious@sedos.co.uk](mailto:curious@sedos.co.uk) if you would like us to email you when the full audition notice is released (late January 2026).
 
