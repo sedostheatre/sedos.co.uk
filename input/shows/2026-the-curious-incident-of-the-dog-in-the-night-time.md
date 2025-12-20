@@ -28,7 +28,7 @@ sections:
       **DIRECTOR** | Alice Bennett (she/her)\
       **CHOREOGRAPHER AND DIRECTOR** | Emma Bowker (she/her)\
       **PRODUCERS** | Gabriel Cradden (he/him) and Pippa Kyle (she/her)\
-      **MUSIC SUPERVISOR** | Ollie Jones (he/him)\
+      **COMPOSER** | Ollie Jones (he/him)\
       **LIGHTING DESIGNER** | Olly Levett (he/him)\
       **SOUND DESIGNERS** | Pranav Mahesh (he/him) and Omar Hussein (he/him)\
       **COSTUMES** | Clare Harding (she/her)\
