@@ -91,7 +91,7 @@ The workshop, auditions and recalls will all take place at King Square Community
 
 Please email [curious@sedos.co.uk](mailto:curious@sedos.co.uk) if you would like us to email you when the full audition notice is released (late January 2026).
 
-**The Curious Incident of the Dog in the Night-Time**
+**The Curious Incident of the Dog in the Night-Time**\
 Adapted by Simon Stephens\
 Based on the Novel by Mark Haddon
 
