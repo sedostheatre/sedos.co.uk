@@ -32,23 +32,23 @@ Make sure you join the Facebook group to stay up-to-date! Just search “Sedance
 
 PRICES (card and contactless payments only):
 
-You can either pay a drop-in price each week or pay for a block of classes in advance, which works out cheaper.
+You can either pay a drop-in price each week or pay for a block of classes in advance, which works out cheaper. You do not need to use classes consecutively and you pay when you arrive – no need or way to book or pay in advance.
 
 **Sedos members**
-
-Drop-in price - £7 per class
-
-5 classes - £30 (works out at £6 per class)
-
-10 classes - £50 (works out at £5 per class)\
-\
-**Non-members**
 
 Drop-in price - £8 per class
 
 5 classes - £35 (works out at £7 per class)
 
-10 classes £60 (works out at £6 per class)
+10 classes - £60 (works out at £6 per class)\
+\
+**Non-members**
+
+Drop-in price - £9 per class
+
+5 classes - £40 (works out at £8 per class)
+
+10 classes £70 (works out at £7 per class)
 
 *We look forward to seeing you there!*
 
