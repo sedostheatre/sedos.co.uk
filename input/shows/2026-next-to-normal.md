@@ -52,9 +52,9 @@ metaDescription: Next to Normal, with music by Tom Kitt and book & lyrics by
   Brian Yorkey. Everything is perfect. Nothing's real. It is part of Sedos’ 2026
   season and plays at the Bridewell Theatre from 24-28 March 2026
 ---
-***Next to Normal* is a powerful, Tony Award-winning rock musical that explores the impact of mental illness, grief and loss on a suburban family struggling to hold themselves together.** 
+***Next to Normal* is an intimate, modern exploration of family and illness, loss and grief. At its heart is Diana Goodman, a suburban wife and mother, haunted by her past and trying to make sense of her present.**
 
-The show balances searing honesty with moments of dark humour, offering a raw portrait of love, pain and the quest for a life that feels “normal.”
+With a thrilling rock score, this powerful, Tony Award-winning musical invites us to look more closely at what a family hides between closed doors, allowing us to witness private lives from just beyond the threshold. 
 
 "It is much more than a feel-good musical; it is a feel everything musical. A brave, breathtaking musical!"\
 *The New York Times*
