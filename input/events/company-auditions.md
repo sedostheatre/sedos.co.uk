@@ -17,7 +17,7 @@ Information has been released about the *[Company](https://www.sedos.co.uk/shows
 
 **KEY DATES**
 
-**Pre-audition workshop:** Tuesday 6 January at 7pm or 8.30pm (two slots available, please only sign up for one) at King Square Community Centre, London, EC1V 8DY.
+**Pre-audition workshop:** Tuesday 6 January at 7pm or 8.30pm (two slots available, please only sign up for one) at [King Square Community Centre](https://www.sedos.co.uk/venues/king-square), London, EC1V 8DY.
 
 **First round in person auditions:** Saturday 10 January (2-8pm), Sunday 11 January (12-6pm), Tuesday 13 January (7-10pm) and Wednesday 14 January (7-10pm) in Central London
 
