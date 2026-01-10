@@ -10,7 +10,7 @@ country: GB
 ---
 ## Theatre Deli
 
-Most of Sedos’ rehearsals are held at Theatre Deli in central London, where we rent space for these and activities such as Simprov and Acting Group. 
+Some of Sedos’ rehearsals are held at Theatre Deli in central London, where we rent space for these and activities such as Simprov and Acting Group. 
 
 Theatre Deli also has a bar, which we often use for production meetings and other get-togethers such as marketing group meetings. 
 
