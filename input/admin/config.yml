@@ -308,6 +308,16 @@ collections:
       - name: metaDescription
         width: string
         required: false
+  - name: reviews
+    label: Reviews
+    folder: input/reviews
+    create: true
+    slug: "{{year}}-reviews"
+    fields:
+      - {label: year, name: key, widget: string}
+      - label: Details
+        name: body
+        widget: markdown
   - name: venues
     label: Venues
     folder: input/venues

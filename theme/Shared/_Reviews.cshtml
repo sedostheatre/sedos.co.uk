@@ -1,0 +1,35 @@
+@{
+    Layout = "_Default";
+    var backgroundOverride = Model.Get("background-override", "");
+}
+
+<div class="page-wrapper">
+    @{
+        Html.RenderPartial("Partials/_HeaderImage");
+    }
+
+    <div class="banner">
+        <div class="container">
+            <h1>@Model.Get("page-title", Model["title"])</h1>
+        </div>
+    </div>
+
+    <div class="page-section @backgroundOverride">
+        <div class="container bg-light">
+
+            @RenderBody()
+            @{
+                var reviews = Outputs.FromPipeline("Reviews")
+                    .OrderByDescending(e => e.Get("year"));
+                @foreach (var review in reviews)
+                {
+                    <div class="row">
+                        <div class="column">
+                            @Html.Raw(await review.GetContentStringAsync())
+                        </div>
+                    </div>
+                }
+            }
+        </div>
+    </div>
+</div>
