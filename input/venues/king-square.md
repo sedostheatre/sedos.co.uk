@@ -31,6 +31,10 @@ The closest stations are Angel, Barbican, Old Street and Farringdon.
 
 King Square Community Centre has level access. 
 
+**Photos**
+
+[Rehearsal photos taken at King Square Community Centre](https://www.flickr.com/photos/sedos/albums/72177720330500315/with/54942532253)
+
 ^^^
 ![The cast of Dreamgirls rehearsing at King Square Community Centre in 2025](/assets/54942587944_5fec0f625b_c.jpg)
 ^^^ The cast of Dreamgirls rehearsing at King Square Community Centre in 2025
