@@ -25,7 +25,7 @@ EC1Y 8DY
 
 **Getting to King Square Community Centre**
 
-The closest stations are Angel, Old Street and Farringdon.
+The closest stations are Angel, Barbican, Old Street and Farringdon.
 
 **Accessibility**
 
