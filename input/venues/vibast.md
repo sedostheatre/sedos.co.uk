@@ -35,5 +35,5 @@ Vibast Community Centre has level access.
 [Vibast page on Islington Council website](https://www.islington.gov.uk/advice/voluntary-and-community-sector/community-centres-in-islington/vibast-community-centre)
 
 ^^^
-![](undefined)
-^^^
+![The cast of Violet rehearsing at Vibast Community Centre in 2025](/assets/54422868311_7575d02530_c.jpg)
+^^^ The cast of Violet rehearsing at Vibast Community Centre in 2025
