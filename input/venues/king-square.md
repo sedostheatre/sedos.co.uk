@@ -29,7 +29,7 @@ The closest stations are Angel, Barbican, Old Street and Farringdon.
 
 **Accessibility**
 
-King Square Community Centre has level access. 
+King Square Community Centre has level access. The self-opening door is currently broken.
 
 **Photos**
 
