@@ -1,8 +1,29 @@
 ---
 year: 2025
+key: "2025"
 ---
-
 # 2025
+
+# *Assassins*
+
+^^^
+![Dress rehearsal image of Sedos’s 2025 production of Assassins](/assets/54806082692_b985f4c076_c.jpg)
+^^^ 
+
+>Dan Edge is the director of Sedos’ production and his concept was brilliantly considered… Each moment is played out perfectly in this new setting and… the ending is the icing on the cake… I am a big fan of shows being reinvented in new and relevant ways for a modern audience and Sedos has given us an exemplary display of how it should be done
+><footer><cite><a target="_blank" href="https://musicaltheatremusings.co.uk/assassins-by-sedos/">Assassins, 2025, Musical Theatre Musings</a></cite></footer>
+
+>Sedos’ Assassins is a polished, provocative production that deserves a life beyond its short run. It’s daring, darkly funny, and uncomfortably timely. Sondheim’s biting score and sharp lyrics are brought to life by a cast of remarkable vocal talent. If any fringe production has earned a shot at the West End spotlight, it’s this one. Bravo indeed!
+><footer><cite><a target="_blank" href="https://www.londontheatre1.com/reviews/assassins-bridewell-theatre-review/">Assassins, 2025, London Theatre 1 (*****)</a></cite></footer>
+
+>I would strongly recommend following Sedos as quite possibly London’s finest amateur theatre company. Well done to the creative team behind the show for putting on a brilliant performance
+><footer><cite>Assassins, 2025, London Theatre Reviews (**** .5)</cite></footer>
+
+>Assassins has never been more relevant. This may be an amateur production, but Sedos know their Sondheim and have pulled out all the stops
+><footer><cite><a target="_blank" href="https://loureviews.blog/2025/09/25/theatre-review-assassins-sedos/">Assassins, 2025, Loureviews (**** .5)</a></cite></footer>
+
+>When Sedos do Sondheim, you know it’s going to be special, and this energetic production of Assassins hits the mark with style… Dan Edge’s skilful direction creates a fantastic, heightened energy dynamic for this glorious parody of desperation and political violence, and Adrian Jeakins production design is wonderfully brash… Another triumph for the talented team at Sedos
+><footer><cite><a target="_blank" href="https://fairypoweredproductions.com/assassins-review-2/">Assassins, 2025, FairyPowered (****)</a></cite></footer>
 
 # *The Crucible*
 
