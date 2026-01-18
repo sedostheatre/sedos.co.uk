@@ -7,8 +7,8 @@ key: "2025"
 # *Assassins*
 
 ^^^
-![Dress rehearsal image of Sedos’s 2025 production of Assassins](/assets/54806082692_b985f4c076_c.jpg)
-^^^ 
+![Dress rehearsal image of Assassins](/assets/54806082692_b985f4c076_c.jpg)
+^^^ Assassins
 
 >Dan Edge is the director of Sedos’ production and his concept was brilliantly considered… Each moment is played out perfectly in this new setting and… the ending is the icing on the cake… I am a big fan of shows being reinvented in new and relevant ways for a modern audience and Sedos has given us an exemplary display of how it should be done
 ><footer><cite><a target="_blank" href="https://musicaltheatremusings.co.uk/assassins-by-sedos/">Assassins, 2025, Musical Theatre Musings</a></cite></footer>
