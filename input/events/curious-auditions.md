@@ -2,7 +2,7 @@
 title: The Curious Incident of the Dog in the Night-Time auditions
 times:
   - time: 2026-03-18 19:30
-  - time: 2026-03-29 09:00
+  - time: 2026-03-29 10:00
   - time: 2026-03-30 19:00
   - time: 2026-04-01 19:00
 image: /assets/dogonly.png
