@@ -1,5 +1,5 @@
 ---
-title: Curious auditions
+title: The Curious Incident of the Dog in the Night-Time auditions
 times:
   - time: 2026-03-18 19:30
   - time: 2026-03-29 09:00
