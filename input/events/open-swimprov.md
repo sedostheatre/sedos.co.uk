@@ -34,7 +34,9 @@ Find out more about [Simprov](https://www.sedos.co.uk/regular-events/simprov).
 
 ## **Featuring Upcoming Acts...**
 
-**3 February 2026** | Simprov with guest acts TBC
+**3 February 2026** | Simprov with guest acts A Likely Story and Biff It.
+
+![](/assets/biffit-swimprov.jpg)
 
 **3 March 2026** | Simprov with guest acts TBC
 
