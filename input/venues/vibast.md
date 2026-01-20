@@ -17,8 +17,8 @@ Vibast is used as a venue for Sedos workshops, auditions and rehearsals.
 
 **Address**
 
-Vibast Community Centre
-167 Old Street
+Vibast Community Centre\
+167 Old Street\
 London \
 EC1V 9NH
 
