@@ -29,14 +29,14 @@ sections:
     body: |-
       **DIRECTOR** | David Gregory\
       **PRODUCER** | George Langdown\
+      **TECHNICAL PRODUCER** | Adam Coppard\
       **MUSIC SUPERVISOR** | Isaac Bartels\
       **ASSISTANT DIRECTOR** | Zahra Jennings-Grant
       **COSTUME DESIGN** | Shannon M. Maddox
       **LIGHTING DESIGN** | Martin Walton
       **SOUND DESIGN** | Pranav Mahesh
       **MARKETING** | Ellen Redgrave
-      **DRAMATURG** | Oli Keene
-      **TECHNICAL PRODUCER** | Adam Coppard\
+      **DRAMATURG** | Oli Keene\
       **COMMITTEE LIAISON** | Olly Levett
 metaTitle: Angels in America plays at the Bridewell Theatre 19-28 November 2026
 metaDescription: Angels in America, the Tony- and Pulitzer-winning masterpiece
