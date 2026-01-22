@@ -42,7 +42,7 @@ Find out more about [Simprov](https://www.sedos.co.uk/regular-events/simprov).
 
 **3 March 2026** | Simprov with guest acts A Likely Story and Unplanned 9
 
-**7 April 2026** | Simprov with guest acts TBC
+**7 April 2026** | Simprov with guest acts Lobster Tango and Map of London
 
 ![](/assets/simprov-logo-800.jpg)
 
