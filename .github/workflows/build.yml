@@ -27,7 +27,7 @@ jobs:
       run: 'npx html-validate output/'
       continue-on-error: true
     - name: Cypress tests
-      uses: cypress-io/github-action@v6
+      uses: cypress-io/github-action@v7
       with:
         start: 'npx serve -p 5080 output'
         wait-on: 'http://localhost:5080'
