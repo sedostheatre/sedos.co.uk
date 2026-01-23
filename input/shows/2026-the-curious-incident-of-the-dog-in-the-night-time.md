@@ -36,6 +36,7 @@ sections:
       **SET REALISATION** | James "Chads" Chadwick (he/him)\
       **STAGE MANAGER** | Harvey Dovell (he/him)\
       **ASSISTANT STAGE MANAGER / PROPS** | Helen Wieland (she/her)\
+      **REHEARSAL ASSISTANT** | Azul Alysum (he/they)\
       **COMMUNITY CAPTIONER** | Emma Hunt (she/they)\
       **RELAXED PERFORMANCE CO-ORDINATOR** | Ema-Mae West (she/her)\
       **COMMITTEE LIAISON** | Emma Miller (she/her)
