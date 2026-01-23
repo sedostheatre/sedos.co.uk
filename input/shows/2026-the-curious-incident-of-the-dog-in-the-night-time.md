@@ -26,7 +26,7 @@ sections:
     title: CREATIVE TEAM
     body: |-
       **DIRECTOR** | Alice Bennett (she/her)\
-      **CHOREOGRAPHER AND DIRECTOR** | Emma Bowker (she/her)\
+      **MOVEMENT DIRECTOR and DIRECTOR** | Emma Bowker (she/her)\
       **PRODUCERS** | Gabriel Cradden (he/him) and Pippa Kyle (she/her)\
       **COMPOSER** | Ollie Jones (he/him)\
       **LIGHTING DESIGNER** | Olly Levett (he/him)\
