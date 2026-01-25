@@ -5,6 +5,7 @@ times:
   - time: 2026-03-29 10:00
   - time: 2026-03-30 19:00
   - time: 2026-04-01 19:00
+  - time: 2026-03-18 20:30
 image: /assets/dogonly.png
 imageAlt: The Curious Incident of the Dog in the Night-Time auditions
 venue: King Square Community Centre
@@ -16,7 +17,7 @@ Full information for *[The Curious Incident of the Dog in the Night-Time](https:
 
 **AUDITION DATES**
 
-* Wednesday 18 March, 7.30-9.30pm - non-compulsory pre-audition workshop
+* Wednesday 18 March, 7-8.30pm and 8.30-10pm - non-compulsory pre-audition workshops
 * Sunday 29 March, 10am-6pm - first round auditions
 * Monday 30 March, 7-10pm - first round auditions
 * Wednesday 1 April, 7-10pm - first round auditions
