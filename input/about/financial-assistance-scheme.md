@@ -27,7 +27,3 @@ If you would like to benefit from the scheme, details of how to apply will be in
 At Sedos, we believe in making taking part possible for everyone, no matter their financial situation.
 
 [Financial Assistance Scheme full policy](https://www.sedos.co.uk/assets/policies/financial-assistance-scheme.pdf)
-
-^^^
-![Financial Assistance Scheme](/assets/financialassistancescheme-website-copy.jpg)
-^^^
