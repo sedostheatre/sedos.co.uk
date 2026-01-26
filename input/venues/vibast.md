@@ -28,7 +28,7 @@ Vibast is very near Old Street station, with Barbican, Moorgate, Liverpool Stree
 
 **Accessibility**
 
-Vibast Community Centre has level access.
+Vibast Community Centre has level access and an accessible toilet.
 
 **More info** 
 
