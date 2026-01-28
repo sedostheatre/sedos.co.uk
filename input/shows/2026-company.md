@@ -58,7 +58,7 @@ sections:
       CAST
 
 
-      **BOBBY** | Will Garrod (he/him)\
+      **BOBBY** | Will Garrood (he/him)\
 
       **JOANNE** | Natalie Emden (she/her)\
 
