@@ -20,10 +20,10 @@ showtimes:
 showtime-summary: 7-16 MAY 2026
 venue: Bridewell Theatre
 ticket-prices: Tickets from £14 (no booking fee)
-primary-color: "#0e2647"
-header-image: /assets/website-homepage-image-company.jpg
+primary-color: "#0d111c"
+header-image: /assets/website-homepage-image-company-copy.jpg
 header-image-contain: false
-flyer: /assets/iggrid4x5-companynew.jpg
+flyer: /assets/company-flyer-front-draft.jpg
 box-office-open: true
 box-office-link: https://sedos.ticketsolve.com/ticketbooth/shows/1173669358/events/428756867
 box-office-text: ""
@@ -31,6 +31,9 @@ sections:
   - order: 1
     title: CAST & CREATIVE TEAM
     body: >-
+      **CREATIVE TEAM**
+
+
       **DIRECTOR** | Emily Phillips (she/her)\
 
       **MUSICAL DIRECTOR** | Thomas Marples (he/him)\
@@ -50,6 +53,38 @@ sections:
       **MARKETING ASSISTANTS** | Jacob Vellucci (he/him) and Hannah Sheppard (she/her)\
 
       **COMMITTEE LIAISON** | Sam Ferguson (she/her)
+
+
+      CAST
+
+
+      **BOBBY** | Will Garrood (he/him)\
+
+      **JOANNE** | Natalie Emden (she/her)\
+
+      **LARRY** | Keith Walters (he/him)\
+
+      **AMY** | Anna Toogood \
+
+      **PAUL** | Adam Hargreaves (he/him)\
+
+      **SARAH** | Lauren Clarke (she/her)\
+
+      **HARRY** | Ashton Charge (he/him)\
+
+      **SUSAN** | Amy Foden-Lloyd (she/her)\
+
+      **PETER** | Jacob Foden-Lloyd (he/him/her)\
+
+      **JENNY** | Helen Parsons (she/her)\
+
+      **DAVID** | Tom Harper (he/him)\
+
+      **APRIL** | Charlotte Field (she/her)\
+
+      **MARTA** | Adrianna Cordero-Marino (she/her)\
+
+      **KATHY** | Yasmin Devlin-Dean (any)
 
 
       *Company* is currently looking for a **Costume Designer**. If you are interested, please email [production@sedos.co.uk](mailto:production@sedos.co.uk)
