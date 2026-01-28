@@ -55,7 +55,7 @@ sections:
       **COMMITTEE LIAISON** | Sam Ferguson (she/her)
 
 
-      CAST
+      **CAST**
 
 
       **BOBBY** | Will Garrood (he/him)\
