@@ -74,7 +74,7 @@ sections:
 
       **SUSAN** | Amy Foden-Lloyd (she/her)\
 
-      **PETER** | Jacob Foden-Lloyd (he/him/her)\
+      **PETER** | Jacob Foden-Lloyd (he/him)\
 
       **JENNY** | Helen Parsons (she/her)\
 
