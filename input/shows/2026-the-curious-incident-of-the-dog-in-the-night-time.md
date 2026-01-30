@@ -80,17 +80,9 @@ Changes will include: 
 
 Any questions? Email [curious@sedos.co.uk](mailto:curious@sedos.co.uk)
 
-**AUDITION DATES**
+**AUDITIONS**
 
-* Wednesday 18 March, 7.30-9.30pm - non-compulsory pre-audition workshop
-* Sunday 29 March, 10am-6pm - first round auditions
-* Monday 30 March, 7-10pm - first round auditions
-* Wednesday 1 April, 7-10pm - first round auditions
-* Sunday 12 April, 10am-6pm - recalls (by invitation)
-
-The workshop, auditions and recalls will all take place at King Square Community Centre, Blackwell House, Pankhurst Terrace, London EC1Y 8DY
-
-Please email [curious@sedos.co.uk](mailto:curious@sedos.co.uk) if you would like us to email you when the full audition notice is released (late January 2026).
+Find out about [*The Curious Incident of the Dog in the Night-time* auditions](https://www.sedos.co.uk/events/curious-auditions) – the full audition notice has now been released and you can book a slot to audition. 
 
 **The Curious Incident of the Dog in the Night-Time**\
 Adapted by Simon Stephens\
