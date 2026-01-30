@@ -26,7 +26,7 @@ Full information about *[The Curious Incident of the Dog in the Night-Time](http
 
 The workshop, auditions and recalls will all take place at [King Square Community Centre](https://www.sedos.co.uk/venues/king-square), Blackwell House, Pankhurst Terrace, London EC1Y 8DY
 
-## [LINK TO FULL AUDITION NOTICE](<>)
+## [LINK TO FULL AUDITION NOTICE](https://docs.google.com/document/d/1mt8-kHmY4eU6hT7ACNImZeC2YDP4Pm6K/edit)
 
 **ABOUT THE SHOW**
 
