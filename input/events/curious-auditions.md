@@ -74,7 +74,7 @@ Our team is supported by accessibility consultant Ema‑Mae West (BSc Intellectu
 
 If you’d like to talk about adjustments or support, please feel free to reach out at any point in the process ([curious@sedos.co.uk](mailto:curious@sedos.co.uk)).
 
-## [LINK TO FULL AUDITION NOTICE](https://docs.google.com/document/d/1mt8-kHmY4eU6hT7ACNImZeC2YDP4Pm6K/edit?usp=sharing&ouid=102612811468465275522&rtpof=true&sd=true)
+## [LINK TO FULL AUDITION NOTICE](https://docs.google.com/document/d/1mt8-kHmY4eU6hT7ACNImZeC2YDP4Pm6K/edit)
 
 **WANT TO AUDITION?**
 
