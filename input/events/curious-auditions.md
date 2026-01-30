@@ -14,7 +14,7 @@ metaTitle: The Curious Incident of the Dog in the Night-Time auditions
 metaDescription: Information about The Curious Incident of the Dog in the
   Night-Time auditions and pre-audition workshop
 ---
-Full information for *[The Curious Incident of the Dog in the Night-Time](https://www.sedos.co.uk/shows/2026-the-curious-incident-of-the-dog-in-the-night-time)* auditions has now been released and workshops and audition slots are open for booking. 
+Full information about *[The Curious Incident of the Dog in the Night-Time](https://www.sedos.co.uk/shows/2026-the-curious-incident-of-the-dog-in-the-night-time)* auditions has now been released and workshops and audition slots are open for booking. 
 
 **AUDITION DATES**
 
