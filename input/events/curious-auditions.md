@@ -76,6 +76,10 @@ If you’d like to talk about adjustments or support, please feel free to reach 
 
 ## [LINK TO FULL AUDITION NOTICE](https://docs.google.com/document/d/1mt8-kHmY4eU6hT7ACNImZeC2YDP4Pm6K/edit#heading=h.600pml8xt6oh)
 
+**WANT TO AUDITION?**
+
+Read the [full audition notice](https://docs.google.com/document/d/1mt8-kHmY4eU6hT7ACNImZeC2YDP4Pm6K/edit) and then book a slot via the link in the notice. We look forward to seeing you you there.
+
 **MORE AUDITIONS**
 
 Information about all of Sedos’ [London auditions](https://www.sedos.co.uk/get-involved).
