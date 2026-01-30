@@ -26,7 +26,7 @@ Full information about *[The Curious Incident of the Dog in the Night-Time](http
 
 The workshop, auditions and recalls will all take place at [King Square Community Centre](https://www.sedos.co.uk/venues/king-square), Blackwell House, Pankhurst Terrace, London EC1Y 8DY
 
-## [LINK TO FULL AUDITION NOTICE](https://docs.google.com/document/d/1mt8-kHmY4eU6hT7ACNImZeC2YDP4Pm6K/edit)
+## [LINK TO FULL AUDITION NOTICE](https://docs.google.com/document/d/1mt8-kHmY4eU6hT7ACNImZeC2YDP4Pm6K/edit?usp=sharing&ouid=102612811468465275522&rtpof=true&sd=true)
 
 **ABOUT THE SHOW**
 
@@ -74,11 +74,11 @@ Our team is supported by accessibility consultant Ema‑Mae West (BSc Intellectu
 
 If you’d like to talk about adjustments or support, please feel free to reach out at any point in the process ([curious@sedos.co.uk](mailto:curious@sedos.co.uk)).
 
-## [LINK TO FULL AUDITION NOTICE](https://docs.google.com/document/d/1mt8-kHmY4eU6hT7ACNImZeC2YDP4Pm6K/edit#heading=h.600pml8xt6oh)
+## [LINK TO FULL AUDITION NOTICE](https://docs.google.com/document/d/1mt8-kHmY4eU6hT7ACNImZeC2YDP4Pm6K/edit)
 
 **WANT TO AUDITION?**
 
-Read the [full audition notice](https://docs.google.com/document/d/1mt8-kHmY4eU6hT7ACNImZeC2YDP4Pm6K/edit) and then book a slot via the link in the notice. We look forward to seeing you you there.
+Read the [full audition notice](https://docs.google.com/document/d/1mt8-kHmY4eU6hT7ACNImZeC2YDP4Pm6K/edit?usp=sharing&ouid=102612811468465275522&rtpof=true&sd=true) and then book a slot via the link in the notice. We look forward to seeing you you there.
 
 **MORE AUDITIONS**
 
