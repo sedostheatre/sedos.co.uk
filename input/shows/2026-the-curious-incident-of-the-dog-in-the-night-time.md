@@ -48,7 +48,7 @@ metaDescription: The Curious Incident of the Dog in the Night-Time brings a
 ---
 **“My name is Christopher John Francis Boone… I know all the countries of the world and the capital cities. And every prime number up to 7,507.”**
 
-The neighbours’ dog is found dead, speared with a garden fork. Fifteen-year-old Christopher Boone is determined to find out what happened through logical detective work. But Christopher’s investigation uncovers more than he bargains for and starts him on an unpredictable journey outside his carefully ordered world.
+The neighbour’s dog is found dead, speared with a garden fork. Fifteen-year-old Christopher Boone is determined to find out what happened through logical detective work. But Christopher’s investigation uncovers more than he bargains for and starts him on an unpredictable journey outside his carefully ordered world.
 
 “The novel gets you inside Christopher's head, but the stage version does more, giving Christopher's internal response to the world an external manifestation. That world is often a surreal and scary place, but oddly beautiful and bizarre, too: I'll never look at a Battenberg cake in the same way again.”\
 *The Guardian*
