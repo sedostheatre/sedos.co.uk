@@ -5,7 +5,7 @@ authors: "Angels in America Part One: Millennium Approaches"
 authors2: "Angels in America Part Two: Perestroika"
 authors3: By TONY KUSHNER
 subtitle: The Tony- and Pulitzer-winning masterpiece that defined a generation.
-  The Great Work begins..
+  The Great Work begins.
 showtimes:
   - time: 2026-11-19 19:00
   - time: 2026-11-20 19:00
