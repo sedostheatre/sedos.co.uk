@@ -7,16 +7,16 @@ authors3: By TONY KUSHNER
 subtitle: The Tony- and Pulitzer-winning masterpiece that defined a generation.
   The Great Work begins..
 showtimes:
-  - time: 2026-11-19 19:30
-  - time: 2026-11-20 19:30
-  - time: 2026-11-21 14:30
-  - time: 2026-11-21 19:30
-  - time: 2026-11-24 19:30
-  - time: 2026-11-25 19:30
-  - time: 2026-11-26 19:30
-  - time: 2026-11-27 19:30
-  - time: 2026-11-28 14:30
-  - time: 2026-11-28 19:30
+  - time: 2026-11-19 19:00
+  - time: 2026-11-20 19:00
+  - time: 2026-11-21 14:00
+  - time: 2026-11-21 19:00
+  - time: 2026-11-24 19:00
+  - time: 2026-11-25 19:00
+  - time: 2026-11-26 19:00
+  - time: 2026-11-27 19:00
+  - time: 2026-11-28 14:00
+  - time: 2026-11-28 19:00
 showtime-summary: 19-28 NOVEMBER 2026
 primary-color: "#567b85"
 header-image: /assets/website-homepage-image-angelsinamerica.jpg
