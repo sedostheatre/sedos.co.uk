@@ -51,7 +51,7 @@ Blending piercing political insight with flights of magic and imagination – an
 
 Following the international acclaim of the National Theatre revival and the celebrated HBO miniseries, Sedos takes a daring artistic leap with a boldly re-envisioned experience for the intimate stage, offering a fresh, immediate encounter with Kushner’s masterpiece. 
 
-Both parts will be offered in a unique theatrical experience at the Bridewell in November 2026. Do not miss out on the event of the ‘Millenium’.
+Both parts will be offered in a unique theatrical experience at the Bridewell in November 2026. Do not miss out on the event of the ‘Millennium’.
 
 Director David Gregory commented: "Directing *Angels in America* is both a challenge and a privilege… it’s like being handed a theatrical universe. Kushner’s writing is vast, poetic, and fiercely political, yet rooted in the most intimate human emotions. To stage it is to wrestle with angels and ghosts, with love and fear, with the very question of what theatre can do. Every scene asks for invention: conjuring visions, collapsing time, making the impossible suddenly real. 
 
