@@ -18,11 +18,15 @@ showtimes:
   - time: 2026-11-28 14:00
   - time: 2026-11-28 19:00
 showtime-summary: 19-28 NOVEMBER 2026
+venue: Bridewell Theatre
+ticket-prices: Tickets from £18 for both parts (no booking fee)
 primary-color: "#567b85"
 header-image: /assets/website-homepage-image-angelsinamerica.jpg
 header-image-contain: false
 flyer: /assets/iggrid4x5-angelsinamericanew.jpg
-box-office-open: false
+box-office-open: true
+box-office-link: https://sedos.ticketsolve.com/ticketbooth/shows/1173671496
+box-office-text: Book tickets
 sections:
   - order: 1
     title: CREATIVE TEAM
