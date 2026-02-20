@@ -53,7 +53,19 @@ Following the international acclaim of the National Theatre revival and the cele
 
 Both parts will be offered in a unique theatrical experience at the Bridewell in November 2026. Do not miss out on the event of the ‘Millenium’.
 
-Director David Gregory commented: "Directing *Angels in America* is both a challenge and a privilege… it’s like being handed a theatrical universe. Kushner’s writing is vast, poetic, and fiercely political, yet rooted in the most intimate human emotions. To stage it is to wrestle with angels and ghosts, with love and fear, with the very question of what theatre can do. Every scene asks for invention: conjuring visions, collapsing time, making the impossible suddenly real. It’s going to be exhilarating to guide actors through this landscape, to discover new layers in characters that feel endlessly alive, and to invite an audience into an experience that promises to be funny, devastating, and transcendent. This isn’t just another play – it’s a once-in-a-lifetime journey for all of us at Sedos and all of our audiences. And directing it feels like being at the helm of something truly extraordinary."
+Director David Gregory commented: "Directing *Angels in America* is both a challenge and a privilege… it’s like being handed a theatrical universe. Kushner’s writing is vast, poetic, and fiercely political, yet rooted in the most intimate human emotions. To stage it is to wrestle with angels and ghosts, with love and fear, with the very question of what theatre can do. Every scene asks for invention: conjuring visions, collapsing time, making the impossible suddenly real. 
+
+"It’s going to be exhilarating to guide actors through this landscape, to discover new layers in characters that feel endlessly alive, and to invite an audience into an experience that promises to be funny, devastating, and transcendent. This isn’t just another play – it’s a once-in-a-lifetime journey for all of us at Sedos and all of our audiences. And directing it feels like being at the helm of something truly extraordinary."
+
+**BOOKING INFORMATION**
+
+Tickets for *Angels in America* are being sold as a package to see both *Part One: Millennium Approaches* and *Part Two: Perestroika*. When you book, you are selecting the show time for Part One, with Part Two following according to this schedule: 
+
+* Purchasers for Thursday 19 November will see Part One on Thursday 19 November at 7pm and Part Two on Friday 20 November at 7pm. 
+* Purchasers for Saturday 21 November will see Part One at 2pm and Part Two at 7pm, both on Saturday 21 November. 
+* Purchasers for Tuesday 24 November will see Part One on Tuesday 24 November at 7pm and Part Two on Wednesday 25 November at 7pm. 
+* Purchasers for Thursday 26 November will see Part One on Thursday 26 November at 7pm and Part Two on Friday 27 November at 7pm. 
+* Purchasers for Saturday 28 November will see Part One at 2pm and Part Two at 7pm, both on Saturday 28 November.
 
 **Content warnings:** contains strong language, sexual content/partial nudity, violence, references to illness and death, drug/alcohol use, homophobic/racist language, and scenes of supernatual intensity.
 
