@@ -23,6 +23,13 @@ We hope to use this opportunity to detail how this production will be delivered 
 
 The workshop is free to attend but please note that workshop attendance is not mandatory, and attendance does not affect whether you are cast in the show.
 
+**AUDITION DATES**
+
+**First round auditions:** Wednesday 7, Thursday 9 and Sunday 11 April\
+**Recalls (by invitation):** Saturday 18 April
+
+Email [angelsinamerica@sedos.co.uk](mailto:angelsinamerica@sedos.co.uk) to be notified once the audition notice is released. 
+
 **ABOUT THE SHOW**
 
 Tony Kushner’s *Angels in America* is a sweeping, poetic two-part epic play about love, loss, and the search for meaning at the height of the 1980s AIDS crisis.
