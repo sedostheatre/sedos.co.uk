@@ -17,7 +17,7 @@ Information about the *[Angels in America](https://www.sedos.co.uk/shows/2026-an
 **Where:** [Wheatsheaf Hall](https://www.sedos.co.uk/venues/wheatsheaf-hall), Wheatsheaf Lane, SW8 2UP\
 **Sign-up:** [membership.sedos.co.uk/signup/152](https://membership.sedos.co.uk/signup/152)
 
-The creative team of *Angels In America* welcome you to the pre-audition workshop to discuss the vision for both Parts 1 & 2 of this amazing piece of theatre.
+The creative team of *Angels In America* welcome you to the pre-audition workshop to discuss the vision for both Parts One and Two of this amazing piece of theatre.
 
 We hope to use this opportunity to detail how this production will be delivered from the audition process through to the show weeks, as well as giving you an opportunity to ask any questions you may have.
 
