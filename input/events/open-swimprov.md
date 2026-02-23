@@ -1,7 +1,6 @@
 ---
 title: Open Swimprov
 times:
-  - time: 2026-02-03 19:30
   - time: 2026-03-03 19:30
   - time: 2026-04-07 19:30
 image: /assets/simprov-july-24-3.jpg
@@ -24,7 +23,7 @@ This takes place on the first Tuesday of every month (not December or January), 
 \
 **Shoreditch Balls**\
 333 Old St, London EC1V 9LE - [find it on Google Maps](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjxoer6ia6PAxWiQUEAHStkLrsQ8gF6BAgcEAM&url=%2Fmaps%2Fplace%2Fshoreditch%2Bballs%2Fdata%3D!4m2!3m1!1s0x48761d59aef76ae1%3A0x8c5958860a889f28%3Fsa%3DX%26ved%3D1t%3A242%26ictx%3D111&usg=AOvVaw3R7Xz1ZcPDQEvAh_mhAkM7&opi=89978449)  \
-[Free tickets available here](https://sedos.ticketsolve.com/ticketbooth/shows)  
+[Free tickets available here](https://sedos.ticketsolve.com/ticketbooth/shows/1173667459)  
 
 Applications for guest acts in February and March will open at the beginning of December. Applications for April, May and June will open in early January.
 
@@ -34,13 +33,11 @@ Find out more about [Simprov](https://www.sedos.co.uk/regular-events/simprov).
 
 ## **Featuring Upcoming Acts...**
 
-**3 February 2026** | Simprov with guest acts Biff It and Hot Mess Express.
-
-![](/assets/biffit-swimprov.jpg)
-
-![](/assets/hotmessexpress-swimprov.jpg)
-
 **3 March 2026** | Simprov with guest acts A Likely Story and Unplanned 9
+
+![](/assets/a-likely-story.jpg)
+
+![](/assets/unplanned-9.jpg)
 
 **7 April 2026** | Simprov with guest acts Lobster Tango and Map of London
 
