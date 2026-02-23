@@ -71,6 +71,10 @@ Tickets for *Angels in America* are being sold as a package to see both *Part
 * Purchasers for Thursday 26 November will see Part One on Thursday 26 November at 7pm and Part Two on Friday 27 November at 7pm. 
 * Purchasers for Saturday 28 November will see Part One at 2pm and Part Two at 7pm, both on Saturday 28 November.
 
+**AUDITIONS**
+
+Information about [*Angels in America* pre-audition workshop and auditions](https://www.sedos.co.uk/events/angels-in-america-auditions)[](https://www.sedos.co.uk/events/angels-in-america-auditions).
+
 **Content warnings:** contains strong language, sexual content/partial nudity, violence, references to illness and death, drug/alcohol use, homophobic/racist language, and scenes of supernatual intensity.
 
 *Angels in America* plays at the [Bridewell Theatre](https://www.sedos.co.uk/venues/bridewell) from 19-28 November 2026.
