@@ -10,11 +10,22 @@ namespace Sedos.Pipelines
     {
         public TopLevelPages()
         {
-            Dependencies.AddRange(nameof(AboutSections), nameof(AllShows), nameof(YourVisitSections), nameof(MarkdownPages));
+            Dependencies.AddRange(
+                nameof(AboutSections),
+                nameof(AllShows),
+                nameof(YourVisitSections),
+                nameof(MarkdownPages), 
+                nameof(SupportSections)
+            );
 
             InputModules = new ModuleList
             {
-                new ReadFiles("past-productions.cshtml", "about.cshtml", "your-visit.cshtml", "all-shows.cshtml"),
+                new ReadFiles(
+                    "past-productions.cshtml",
+                    "about.cshtml",
+                    "your-visit.cshtml",
+                    "all-shows.cshtml",
+                    "support.cshtml"),
             };
 
             ProcessModules = new ModuleList

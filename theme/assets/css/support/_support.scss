@@ -1,0 +1,29 @@
+.support-section {
+    @extend %page-section;
+
+    background: $lighter-blue;
+    padding-bottom: 15px;
+    padding-top: 15px;
+}
+
+.support-card {
+    .card-body {
+        overflow: hidden;
+        padding-bottom: 20px;
+    }
+
+    .card-footer {
+        a {
+            color: $white;
+        }
+    }
+
+    .card-footer,
+    .card-header {
+        background: $sedos-blue;
+    }
+
+    .card-header {
+        margin-bottom: 3px;
+    }
+}
