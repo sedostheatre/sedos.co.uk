@@ -56,6 +56,8 @@ metaDescription: Next to Normal, with music by Tom Kitt and book & lyrics by
 
 With a thrilling rock score, this powerful, Tony Award-winning musical invites us to look more closely at what a family hides between closed doors, allowing us to witness private lives from just beyond the threshold. 
 
+Reviews of *Next to Normal* on Broadway said:
+
 "It is much more than a feel-good musical; it is a feel everything musical. A brave, breathtaking musical!"\
 *The New York Times*
 
