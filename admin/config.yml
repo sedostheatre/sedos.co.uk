@@ -361,6 +361,22 @@ collections:
         description: Pages on the old site to redirect from
         widget: list
         required: false
+  - name: support
+    label: Support
+    folder: input/support
+    create: true
+    fields:
+      - {label: title, name: title, widget: string}
+      - {label: row, name: row, widget: number, value_type: int}
+      - {label: column, name: column, widget: number, value_type: int}
+      - {label: image, name: image, widget: image}
+      - {label: link, name: link, widget: string, required: false}
+      - {label: Details, name: body, widget: markdown, required: false}
+      - name: RedirectFrom
+        label: Redirect From
+        description: Pages on the old site to redirect from
+        widget: list
+        required: false
   - name: your-visit
     label: Your Visit
     folder: input/your-visit
