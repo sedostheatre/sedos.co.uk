@@ -1,11 +1,11 @@
 top-level-nav:
   - url: /whats-on
     name: What's on
-  - url: /news
-    name: News
   - url: /get-involved
     name: Get involved
   - url: /about
     name: About
   - url: /your-visit
     name: Your visit
+  - url: /support
+    name: Support

@@ -11,6 +11,7 @@ namespace Sedos.Pipelines
             var pipelinesToInclude = new[]
             {
                 nameof(AboutSections),
+                nameof(SupportSections),
                 nameof(AllShows),
                 nameof(News),
                 nameof(Events),

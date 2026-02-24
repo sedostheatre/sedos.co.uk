@@ -1,0 +1,49 @@
+---
+title: Support
+category: support
+---
+
+<div class="page-wrapper bg-light">
+    @{
+        Html.RenderPartial("Partials/_HeaderImage");
+
+        var sectionRows = Outputs.FromPipeline("SupportSections")
+            .GroupBy(section => section.Get<int>("row"))
+            .OrderBy(grouping => grouping.Key);
+    }
+
+    <div class="banner">
+        <div class="container">
+            <h1>Support</h1>
+        </div>
+    </div>
+
+    <div class="support-section">
+        @foreach(var sectionRow in sectionRows)
+        {
+            <div class="support-section">
+                <div class="container">
+                    <div class="row">
+                        @foreach(var supportSection in sectionRow.OrderBy(row => row.Get<int>("column")))
+                        {
+                            var link = supportSection.Get<string>("link", null) == null
+                                ? Context.GetLink(supportSection)
+                                : Context.GetLink(supportSection.Get<string>("link"));
+
+                            <div class="col-md">
+                                <a class="text-white" href="@link">
+                                    <div class="card border-0 text-white mb-3 mb-md-0 support-card">
+                                        <div class="card-header">
+                                            <h4 class="card-title">@supportSection["title"]</h4>
+                                        </div>
+                                        <img class="card-img-top" src="@Context.GetLink(supportSection.Get<IDocument>("image"))">
+                                    </div>
+                                </a>
+                            </div>
+                        }
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>
