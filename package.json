@@ -6,7 +6,7 @@
     "cypress": "15.10.0",
     "html-validate": "10.3.1",
     "postcss": "8.5.3",
-    "purgecss": "7.0.2",
+    "purgecss": "8.0.0",
     "serve": "14.2.5",
     "stylelint": "16.26.1",
     "stylelint-config-standard-scss": "16.0.0"
