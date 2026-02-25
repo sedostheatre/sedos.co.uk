@@ -107,4 +107,6 @@ Their journey through the desert introduces them to a variety of memorable chara
 
 Based on the Oscar-winning 1994 hit movie, the critically-acclaimed stage musical version of *Priscilla* has played to packed houses all over the world during its journey over the past 10 years.
 
+**Remembering Jeremy Lewis:** the costumes for *Priscilla Queen of the Desert* were made possible through a grant from the Jeremy Lewis Fund. [Find out more about Jeremy and how gifts in wills can benefit Sedos.](https://www.sedos.co.uk/support/support-sedos-in-your-will)
+
 *Priscilla Queen of the Desert The Musical* was first presented at the Lyric Theatre, Sydney, on 7 October 2006, directed by Simon Phillips.
