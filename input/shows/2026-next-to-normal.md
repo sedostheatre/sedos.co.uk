@@ -68,7 +68,7 @@ Director Jonny Harding-Cooper commented: "*Next to Normal* is the perfect blend 
 
 **Content warnings:** this show contains adult language and themes; depications of serious mental health conditions and medical treatments, including electroshock therapy; drug use/abuse; discussions of death, suicide, and loss of a child.
 
-**SPECIAL OFFER:** book any four shows (or more) in our 2026 season in one transaction and receive a 25% discount. [More info](<>). 
+**SPECIAL OFFER:** book any four shows (or more) in our 2026 season in one transaction and receive a 25% discount. [More info](https://www.sedos.co.uk/news/2025-11-19-2026-sedos-season-discount). 
 
 *Next To Normal* plays at the [Bridewell Theatre](https://www.sedos.co.uk/venues/bridewell) from 24-28 March 2026.
 
