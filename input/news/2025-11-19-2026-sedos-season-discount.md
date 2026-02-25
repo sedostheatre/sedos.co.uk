@@ -6,7 +6,7 @@ imageAlt: 2026 Sedos season discount
 metaTitle: 2026 Sedos season discount
 metaDescription: "2026 Sedos season discount: book four shows in our 2026 season for 25% off"
 ---
-*19 November 2026*
+*19 November 2026 (updated 25 February 2026)*
 
 **Receive a special discount when you book four or five shows in our 2026 season.** 
 
@@ -18,7 +18,7 @@ Perhaps you’d like to see all four of Sedos’ 2026 musicals? Or add a play to
 
 Note that we have one more play still to be announced and added to the season, so you may wish to wait to book and use the discount once this final show is on sale.
 
-Our final show of 2026, the two-part play *[Angels in America](https://www.sedos.co.uk/shows/2026-angels-in-america)* (19-28 November), is not included in the season discount and tickets will go on sale at a later date. 
+Our final show of 2026, the two-part play *[Angels in America](https://www.sedos.co.uk/shows/2026-angels-in-america)* (19-28 November), is not included in the season discount – [tickets for this are on sale as a package to include both Part One and Part Two](https://sedos.ticketsolve.com/ticketbooth/shows/1173671496). 
 
 Unfortunately there seems to be a gremlin in the box office system which means the multi-buy discount is not being automatically applied when combined with our standard Sedos membership ticket discount. To receive the discount, members should therefore make a booking for four (or more) shows online in a single transaction, then forward your confirmation email to [tickets@sedos.co.uk](<>) and we will organise you a refund of the relevant amount so that the discount is applied.
 
