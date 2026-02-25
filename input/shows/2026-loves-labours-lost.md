@@ -53,6 +53,8 @@ Director Owen Thomas James commented: “*Love’s Labour’s Lost* has always b
 
 **Content warnings:** none.
 
+**SPECIAL OFFER:** book any four shows (or more) in our 2026 season in one transaction and receive a 25% discount. [More info](<>).
+
 *Love's Labour's Lost* plays at the [Bridewell Theatre](https://www.sedos.co.uk/venues/bridewell) from 15-19 September 2026.
 
 **Love's Labour's Lost**
