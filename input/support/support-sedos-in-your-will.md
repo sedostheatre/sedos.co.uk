@@ -4,9 +4,7 @@ row: 1
 column: 3
 image: /assets/RememberSedosButton.jpg
 ---
-## Remember Sedos in your will
-
-### A lasting act of support
+## A lasting act of support
 
 Gifts in wills help us safeguard Sedos’s future and allow us to keep staging great shows in the years ahead. A bequest of any size is hugely valuable to us.
 
@@ -22,9 +20,9 @@ Sedos is a registered charity, so there may be tax advantages to leaving money t
 
 ### Considering remembering Sedos in your will?
 
-- Our legal name is The Stock Exchange Dramatic and Operatic Society and our charity number is 1173896
-- We encourage you not to restrict how a gift to Sedos can be used, so that the society Trustees can direct the money wherever the need is greatest 
-- We advise you to seek financial and legal professional advice when making a will and considering possible tax advantages of leaving money to Sedos
+* Our legal name is The Stock Exchange Dramatic and Operatic Society and our charity number is 1173896
+* We encourage you not to restrict how a gift to Sedos can be used, so that the society Trustees can direct the money wherever the need is greatest 
+* We advise you to seek financial and legal professional advice when making a will and considering possible tax advantages of leaving money to Sedos
 
 ### Remembering Jeremy Lewis
 
@@ -36,9 +34,9 @@ Jeremy Lewis had a long association with Sedos and served as a committee member 
 
 Jeremy died in 2011 and in his will, he left a generous bequest to Sedos. To honour Jeremy’s wishes, the money is to be used for something special, which we would not otherwise be able to afford, not for standard or administrative costs. 
 
-Three grants have been made from the Jeremy Lewis Fund. The first was to our 2017 production of Priscilla Queen of the Desert – the spectacular costumes were possible thanks to the fund. The second was for the set of Titanic in 2023, including rearranging the Bridewell seats to allow for a central entrance under the audience.
+Three grants have been made from the Jeremy Lewis Fund. The first was to our 2017 production of *[Priscilla Queen of the Desert](https://www.sedos.co.uk/shows/2017-priscilla)* – the spectacular costumes were possible thanks to the fund. The second was for the set of *[Titanic](https://www.sedos.co.uk/shows/2023-titanic)* in 2023, including rearranging the Bridewell seats to allow for a central entrance under the audience.
 
-Most recently, the Sedos Trustees have awarded a Jeremy Lewis grant for our upcoming production of Company (7-16 May 2026). The grant will allow the team to realise their vision of turning the Bridewell into Bobby’s apartment, with the audience right inside the action. 
+Most recently, the Sedos Trustees have awarded a Jeremy Lewis grant for our upcoming production of *[Company](https://www.sedos.co.uk/shows/2026-company)* (7-16 May 2026). The grant will allow the team to realise their vision of turning the Bridewell into Bobby’s apartment, with the audience right inside the action. 
 
 The Jeremy Lewis Fund is a brilliant example of how someone with a link to Sedos was able to continue their association with the society beyond their lifetime. Jeremy’s legacy allows Sedos to create imaginative theatre which pushes the boundaries beyond what amateur companies can typically achieve. 
 
@@ -53,4 +51,3 @@ We also respect that some people would prefer not to let us know about a gift in
 You can always contact us to discuss legacy giving or any aspect of our fundraising on [fundraising@sedos.co.uk](mailto:fundraising@sedos.co.uk). All conversations will be treated discreetly and in confidence.
 
 If you would like to be kept up to date with our fundraising activities, [you can join our “Supporters of Sedos” mailing list](/supporters).
-
