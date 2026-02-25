@@ -109,6 +109,8 @@ Director Emily Phillips commented: "*Company* is a dream show as a director who 
 
 **SPECIAL OFFER:** book any four shows (or more) in our 2026 season in one transaction and receive a 25% discount. [More info](<>). 
 
+**Remembering Jeremy Lewis:** the set for *Company* has been made possible through a grant from the Jeremy Lewis Fund. [Find out more about Jeremy and how gifts in wills can benefit Sedos.](https://www.sedos.co.uk/support/support-sedos-in-your-will) 
+
 *Company* plays at the [Bridewell Theatre](https://www.sedos.co.uk/venues/bridewell) from 7-16 May 2026.
 
 **Company**
