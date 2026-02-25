@@ -1,5 +1,5 @@
 ---
-title: Donate Now
+title: Donate now
 row: 1
 column: 1
 image: /assets/DonateNowButton.jpg
