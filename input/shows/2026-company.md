@@ -107,7 +107,7 @@ Director Emily Phillips commented: "*Company* is a dream show as a director who 
 
 **Content warnings:** this show contains scenes of alcohol consumption and intoxication, smoking, sexual content and innuendo, adult language, themes of infidelity, and emotional conflict.
 
-**SPECIAL OFFER:** book any four shows (or more) in our 2026 season in one transaction and receive a 25% discount. [More info](<>). 
+**SPECIAL OFFER:** book any four shows (or more) in our 2026 season in one transaction and receive a 25% discount. [More info](https://www.sedos.co.uk/news/2025-11-19-2026-sedos-season-discount). 
 
 **Remembering Jeremy Lewis:** the set for *Company* has been made possible through a grant from the Jeremy Lewis Fund. [Find out more about Jeremy and how gifts in wills can benefit Sedos.](https://www.sedos.co.uk/support/support-sedos-in-your-will) 
 
