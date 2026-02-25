@@ -6,7 +6,7 @@ imageAlt: 2026 Sedos season discount
 metaTitle: 2026 Sedos season discount
 metaDescription: "2026 Sedos season discount: book four shows in our 2026 season for 25% off"
 ---
-*19 November 2026 (updated 25 February 2026)*
+*19 November 2025 (updated 25 February 2026)*
 
 **Receive a special discount when you book four or five shows in our 2026 season.** 
 
