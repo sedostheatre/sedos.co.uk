@@ -217,6 +217,8 @@ The Third Class immigrants dream of a better life in America, the Second Class i
 
 The original Broadway production won five Tony Awards including Best Musical, Best Score and Best Book.
 
+**Remembering Jeremy Lewis:** the set for *Titanic* was made possible through a grant from the Jeremy Lewis Fund. [Find out more about Jeremy and how gifts in wills can benefit Sedos.](https://www.sedos.co.uk/support/support-sedos-in-your-will)
+
 *Titanic* plays at the [Bridewell Theatre](https://sedos.co.uk/venues/bridewell) from 23 November-2 December 2023.
 
 This amateur production of *Titanic* is presented by arrangement with Concord Theatricals Ltd. on behalf of Tams-Witmark LLC. [www.concordtheatricals.co.uk](http://www.concordtheatricals.co.uk/)
