@@ -4,9 +4,7 @@ row: 1
 column: 3
 image: /assets/RememberSedosButton.jpg
 ---
-## Remember Sedos in your will
-
-### A lasting act of support
+## A lasting act of support
 
 Gifts in wills help us safeguard Sedos’s future and allow us to keep staging great shows in the years ahead. A bequest of any size is hugely valuable to us.
 
@@ -22,9 +20,9 @@ Sedos is a registered charity, so there may be tax advantages to leaving money t
 
 ### Considering remembering Sedos in your will?
 
-- Our legal name is The Stock Exchange Dramatic and Operatic Society and our charity number is 1173896
-- We encourage you not to restrict how a gift to Sedos can be used, so that the society Trustees can direct the money wherever the need is greatest 
-- We advise you to seek financial and legal professional advice when making a will and considering possible tax advantages of leaving money to Sedos
+* Our legal name is The Stock Exchange Dramatic and Operatic Society and our charity number is 1173896
+* We encourage you not to restrict how a gift to Sedos can be used, so that the society Trustees can direct the money wherever the need is greatest 
+* We advise you to seek financial and legal professional advice when making a will and considering possible tax advantages of leaving money to Sedos
 
 ### Remembering Jeremy Lewis
 
@@ -53,4 +51,3 @@ We also respect that some people would prefer not to let us know about a gift in
 You can always contact us to discuss legacy giving or any aspect of our fundraising on [fundraising@sedos.co.uk](mailto:fundraising@sedos.co.uk). All conversations will be treated discreetly and in confidence.
 
 If you would like to be kept up to date with our fundraising activities, [you can join our “Supporters of Sedos” mailing list](/supporters).
-
