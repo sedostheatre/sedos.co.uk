@@ -34,9 +34,9 @@ Jeremy Lewis had a long association with Sedos and served as a committee member 
 
 Jeremy died in 2011 and in his will, he left a generous bequest to Sedos. To honour Jeremy’s wishes, the money is to be used for something special, which we would not otherwise be able to afford, not for standard or administrative costs. 
 
-Three grants have been made from the Jeremy Lewis Fund. The first was to our 2017 production of Priscilla Queen of the Desert – the spectacular costumes were possible thanks to the fund. The second was for the set of Titanic in 2023, including rearranging the Bridewell seats to allow for a central entrance under the audience.
+Three grants have been made from the Jeremy Lewis Fund. The first was to our 2017 production of *[Priscilla Queen of the Desert](https://www.sedos.co.uk/shows/2017-priscilla)* – the spectacular costumes were possible thanks to the fund. The second was for the set of *[Titanic](https://www.sedos.co.uk/shows/2023-titanic)* in 2023, including rearranging the Bridewell seats to allow for a central entrance under the audience.
 
-Most recently, the Sedos Trustees have awarded a Jeremy Lewis grant for our upcoming production of Company (7-16 May 2026). The grant will allow the team to realise their vision of turning the Bridewell into Bobby’s apartment, with the audience right inside the action. 
+Most recently, the Sedos Trustees have awarded a Jeremy Lewis grant for our upcoming production of *[Company](https://www.sedos.co.uk/shows/2026-company)* (7-16 May 2026). The grant will allow the team to realise their vision of turning the Bridewell into Bobby’s apartment, with the audience right inside the action. 
 
 The Jeremy Lewis Fund is a brilliant example of how someone with a link to Sedos was able to continue their association with the society beyond their lifetime. Jeremy’s legacy allows Sedos to create imaginative theatre which pushes the boundaries beyond what amateur companies can typically achieve. 
 
