@@ -1,5 +1,5 @@
 ---
-title: Financial Assistance Scheme
+title: Support a cast member in need
 row: 1
 column: 2
 image: /assets/fas-curtain-website.jpg
@@ -29,12 +29,13 @@ At Sedos, we believe in making taking part possible for everyone, no matter thei
 
 [Financial Assistance Scheme full policy](https://www.sedos.co.uk/assets/policies/financial-assistance-scheme.pdf)
 
-
 ### Beyond the Financial Assistance Scheme
 
 The money given to the Financial Assistance Scheme is used for the sole purpose of supporting cast members, as described above. 
 
 At Sedos, we also welcome gifts towards our general running costs, from costumes and sets to hiring of rehearsal rooms and the theatre. 
 
-- [Donate to Sedos now](/donate?utm_source=fas&utm_medium=button&utm_campaign=supportus)
-- [Share your passion for theatre beyond your lifetime – leave a gift to Sedos in your will](/support/support-sedos-in-your-will)
+* [Donate to Sedos now](/donate?utm_source=fas&utm_medium=button&utm_campaign=supportus)
+* [Share your passion for theatre beyond your lifetime – leave a gift to Sedos in your will](/support/support-sedos-in-your-will)
+
+If you would like to be kept up to date with our fundraising activities, [you can join our “Supporters of Sedos” mailing list](/supporters).
