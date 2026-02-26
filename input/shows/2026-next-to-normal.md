@@ -39,11 +39,13 @@ sections:
       **DIRECTOR** | Jonny Harding-Cooper (he/him)\
       **ASSOCIATE DIRECTOR** | Kim Barker (she/her)\
       **MUSICAL DIRECTOR** | Adrian Hau (he/him)\
+      **ASSISTANT MUSICAL DIRECTOR** | Charlie Nickels\
       **PRODUCER** | Lizzie Levett (she/her)\
       **STAGE MANAGER** | Emma Hunt (she/they)\
       **SET REALISATION** | Andrew Laidlaw (he/him)\
       **LIGHTING DESIGNER** | Ruth Luckins (she/they)\
       **SOUND DESIGNER** | Adam Coppard (he/him)\
+      **COSTUME DESIGNER** | Zoë Dobell\
       **SOCIAL MEDIA** | Antonia Kasoulidou (she/her)\
       **TECHNICAL PRODUCTION** | Ben Hussey (he/him)\
       **COMMITTEE LIAISON** | Annie Houseago
