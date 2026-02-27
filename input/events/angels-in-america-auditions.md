@@ -2,41 +2,61 @@
 title: Angels in America auditions
 times:
   - time: 2026-03-11 19:30
+  - time: 2026-04-07 19:00
+  - time: 2026-04-09 19:00
+  - time: 2026-04-11 11:00
 image: /assets/angelsinamerica.png
 imageAlt: Angels in America auditions
-venue: Wheatsheaf Hall
+venue: ""
 metaTitle: Angels in America auditions
 metaDescription: Find out about Angels in America auditions for Sedos’s
   production in November 2026
 ---
-Information about the *[Angels in America](https://www.sedos.co.uk/shows/2026-angels-in-america)* auditions is coming soon, with registration now open for the pre-audition workshop. 
+Information about the *[Angels in America](https://www.sedos.co.uk/shows/2026-angels-in-america)* auditions has now been released.
 
-**PRE-AUDITION WORKSHOP**
+**KEY DATES**
 
-**When:** 11 March, 7.30pm\
-**Where:** [Wheatsheaf Hall](https://www.sedos.co.uk/venues/wheatsheaf-hall), Wheatsheaf Lane, SW8 2UP\
-**Sign-up:** [membership.sedos.co.uk/signup/152](https://membership.sedos.co.uk/signup/152)
+* **Pre-audition workshop:** 11 March (sign up: [membership.sedos.co.uk/signup/152](<>))
+* **First round auditions:** Wednesday 7, Thursday 9 and Sunday 11 April
+* **Recalls (by invitation):** Saturday 18 April
 
-The creative team of *Angels In America* welcome you to the pre-audition workshop to discuss the vision for both Parts One and Two of this amazing piece of theatre.
+Various venues are being used for the workshop and auditions – please check the audition notice for details. [More info about the venues is available here.](https://www.sedos.co.uk/your-visit) 
 
-We hope to use this opportunity to detail how this production will be delivered from the audition process through to the show weeks, as well as giving you an opportunity to ask any questions you may have.
+### [LINK TO FULL AUDITION NOTICE](<>)
 
-The workshop is free to attend but please note that workshop attendance is not mandatory, and attendance does not affect whether you are cast in the show.
+**ABOUT SEDOS’S ANGELS IN AMERICA**
 
-**AUDITION DATES**
+As part of this unique and extraordinary experience, Sedos is presenting *Angels in America* in its entirety – giving actors the rare chance to perform in both parts in rep and audiences to experience the complete epic journey. Two parts. Same actors. Same creative team. An unparalleled experience for the creative team, actors, and audiences.
 
-**First round auditions:** Wednesday 7, Thursday 9 and Sunday 11 April\
-**Recalls (by invitation):** Saturday 18 April
+Staging such a monumentally iconic piece of theatre in an incredibly intimate space like the Bridewell Theatre will bring *Angels in America* face to face with our audience – physically and emotionally. This allows for a much more personal theatrical experience than is often seen in other larger-scale productions of Angels in America, as the emotional impact of the stories and the connections of its characters will be palpable from just a few feet away.
 
-Email [angelsinamerica@sedos.co.uk](mailto:angelsinamerica@sedos.co.uk) to be notified once the audition notice is released. 
+Our *Angels in America* embraces the 1980s setting of the play, while exploring theatrical conventions that bring to life the dramatically changing scenes, the alternate universes, and the emotional roller- coaster of our characters. A world that juxtaposes sterile and clinical expectations with the gritty realities of living during the height of AIDS. A world with more parallels to today than one might imagine. 
 
-**ABOUT THE SHOW**
+Our set, like the world of our characters, is a work-in-progress, with literal fragments and pieces in constant motion. And our soundscape of live musicians will tap into the nostalgic hearts of our audiences, while heightening emotional moments for our actors.
 
-Tony Kushner’s *Angels in America* is a sweeping, poetic two-part epic play about love, loss, and the search for meaning at the height of the 1980s AIDS crisis.
+Most importantly, *Angels in America* allows us to embrace a gay and queer history and culture that is so often hidden from the theatrical spotlight. For our actors, creative team, society, and audiences, this is a once-in-a-lifetime opportunity to be a part of a culturally-significant piece of theatrical history.
 
-Blending piercing political insight with flights of magic and imagination – and a nostalgic nod to the music of the era – it follows a group of New Yorkers whose lives collide in moments of heartbreak, revelation, and unexpected hope. At once intimate and vast, tragic and funny, the play asks timeless questions about identity, faith, and human resilience – reminding us that even in the darkest times, there is possibility, transformation, and the promise of more life.
+^^^
+![Angels in America auditions](/assets/screenshot-2026-02-27-at-09.18.32.png)
+^^^ 
 
-Following the international acclaim of the National Theatre revival and the celebrated HBO miniseries, Sedos takes a daring artistic leap with a boldly re-envisioned experience for the intimate stage, offering a fresh, immediate encounter with Kushner’s masterpiece.
+**DIVERSITY AND INCLUSION**
+
+Across the entire cast there are opportunities for actors of all ages, ethnicities and genders to be cast. Our primary consideration during the audition process is to witness the actorʼs authenticity and their understanding of the text in relation to the thematic content and cultural references. 
+
+Tony Kushnerʼs ingenious writing gives us some flexibility in casting, but the complexity and intricacies of his characters means there are many factors to consider during casting. 
+
+As such, all roles except Roy and Belize (more info in role profiles in [full audition notice](<LINK TO FULL AUDITION NOTICE>)) are open to actors of any race, and some casting decisions may be made based on character connections and relationships within the play. 
+
+Playing age and gender presentation requirements for all roles are detailed in the breakdown at the bottom of the notice.
+
+Sedos is committed to diversity and inclusion. Our commitment is to build and sustain a membership that is reflective of the diverse communities within London. We actively encourage all performers to audition for the roles which they feel best suit their skills.
+
+### [LINK TO FULL AUDITION NOTICE](https://drive.google.com/drive/folders/1d1THjmrD2dJr6-uLSCEm0lU56hBsiDr-?mc_cid=6756bdfae3&mc_eid=UNIQID)
+
+**WANT TO AUDITION?**
+
+Read the [full audition notice](https://drive.google.com/drive/folders/1d1THjmrD2dJr6-uLSCEm0lU56hBsiDr-?mc_cid=6756bdfae3&mc_eid=UNIQID) and then book a slot via the link in the notice. 
 
 **MORE AUDITIONS**
 
