@@ -2,6 +2,9 @@
 title: Angels in America auditions
 times:
   - time: 2026-03-11 19:30
+  - time: 2026-04-07 19:00
+  - time: 2026-04-09 19:00
+  - time: 2026-04-11 11:00
 image: /assets/angelsinamerica.png
 imageAlt: Angels in America auditions
 venue: Wheatsheaf Hall
