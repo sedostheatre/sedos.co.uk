@@ -7,7 +7,7 @@ times:
   - time: 2026-04-11 11:00
 image: /assets/angelsinamerica.png
 imageAlt: Angels in America auditions
-venue: Wheatsheaf Hall
+venue: ""
 metaTitle: Angels in America auditions
 metaDescription: Find out about Angels in America auditions for Sedos’s
   production in November 2026
@@ -19,6 +19,8 @@ Information about the *[Angels in America](https://www.sedos.co.uk/shows/2026-an
 * **Pre-audition workshop:** 11 March (sign up: [membership.sedos.co.uk/signup/152](<>))
 * **First round auditions:** Wednesday 7, Thursday 9 and Sunday 11 April
 * **Recalls (by invitation):** Saturday 18 April
+
+Various venues are being used for the workshop and auditions – please check the audition notice for details. [More info about the venues is available here.](https://www.sedos.co.uk/your-visit) 
 
 ### [LINK TO FULL AUDITION NOTICE](<>)
 
