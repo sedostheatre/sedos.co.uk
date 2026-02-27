@@ -38,11 +38,11 @@ Please note, Sedos is now a cashless operation so all bar sales at our socials a
 
 **Accessibility**
 
-Access to the hall and bar is over a threshold stone with a riser height ranging from 110-150mm from right to left.  
+Access to the hall and bar is over a threshold stone with a riser height ranging from 110-150mm from right to left.
 
 There is a gender neutral accessible toilet and ladies’ toilets on the main ground floor. The men’s toilets and urinals are down three steps. 
 
-There are 17 steps up to the balcony and a further short flight of stairs to the two upstairs rooms. 
+There are 17 steps up to the balcony and a further short flight of stairs to the small hall and the other upstairs room. 
 
 [Visit Wheatsheaf Hall’s website](https://www.wheatsheafhall.org.uk)
 
