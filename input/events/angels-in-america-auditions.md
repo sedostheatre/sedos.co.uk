@@ -16,13 +16,13 @@ Information about the *[Angels in America](https://www.sedos.co.uk/shows/2026-an
 
 **KEY DATES**
 
-* **Pre-audition workshop:** 11 March (sign up: [membership.sedos.co.uk/signup/152](<>))
+* **Pre-audition workshop:** 11 March (sign up: [membership.sedos.co.uk/signup/152](https://membership.sedos.co.uk/signup/152))
 * **First round auditions:** Wednesday 7, Thursday 9 and Sunday 11 April
 * **Recalls (by invitation):** Saturday 18 April
 
 Various venues are being used for the workshop and auditions – please check the audition notice for details. [More info about the venues is available here.](https://www.sedos.co.uk/your-visit) 
 
-### [LINK TO FULL AUDITION NOTICE](<>)
+### [LINK TO FULL AUDITION NOTICE](https://drive.google.com/drive/folders/1d1THjmrD2dJr6-uLSCEm0lU56hBsiDr-?mc_cid=6756bdfae3&mc_eid=UNIQID)
 
 **ABOUT SEDOS’S ANGELS IN AMERICA**
 
