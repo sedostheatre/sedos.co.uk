@@ -46,7 +46,7 @@ If you are considering leaving Sedos a gift in your will, please do feel free to
 
 If you have left a gift to Sedos in your will and feel comfortable telling us about it, we’d love to hear from you so we can thank you, whether publicly or privately, according to your wishes. You can of course alter your will at any time if your intentions or circumstances change. 
 
-We also respect that some people would prefer not to let us know about a gift in their will and you are under no obligation to tell us you are doing so. 
+We also respect that some people would prefer not to let us know they are leaving a gift in their will and you are under no obligation to tell us you are doing so. 
 
 You can always contact us to discuss legacy giving or any aspect of our fundraising on [fundraising@sedos.co.uk](mailto:fundraising@sedos.co.uk). All conversations will be treated discreetly and in confidence.
 
