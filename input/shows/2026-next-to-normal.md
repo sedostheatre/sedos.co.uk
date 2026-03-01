@@ -27,26 +27,27 @@ sections:
     body: |-
       **CAST**
 
-      **DIANA** | Jamie Lee Pike\
-      **DAN** | Dan Saunders\
-      **NATALIE** | Eleanor Morozow\
-      **GABE** | Jamie Cushion\
-      **HENRY** | Charlie Nicholas\
-      **DR MADDEN / DR FINE** | David Gregory
+      **DIANA** | Jamie Lee Pike (she/her)\
+      **DAN** | Dan Saunders (he/him)\
+      **NATALIE** | Eleanor Morozow (she/her)\
+      **GABE** | Jamie Cushion (he/him)\
+      **HENRY** | Charlie Nicholas (he/him)\
+      **DR MADDEN / DR FINE** | David Gregory (he/him)
 
       **CREATIVE TEAM**
 
       **DIRECTOR** | Jonny Harding-Cooper (he/him)\
       **ASSOCIATE DIRECTOR** | Kim Barker (she/her)\
       **MUSICAL DIRECTOR** | Adrian Hau (he/him)\
-      **ASSISTANT MUSICAL DIRECTOR** | Charlie Nickels\
+      **ASSISTANT MUSICAL DIRECTOR** | Charlie Nickels (he/him)\
       **PRODUCER** | Lizzie Levett (she/her)\
       **STAGE MANAGER** | Emma Hunt (she/they)\
       **SET REALISATION** | Andrew Laidlaw (he/him)\
       **LIGHTING DESIGNER** | Ruth Luckins (she/they)\
       **SOUND DESIGNER** | Adam Coppard (he/him)\
-      **COSTUME DESIGNER** | Zoë Dobell\
+      **COSTUME DESIGNER** | Zoë Dobell (she/her)\
       **SOCIAL MEDIA** | Antonia Kasoulidou (she/her)\
+      **GRAPHIC DESIGN** | Natalie Harding-Cooper (she/her)\
       **TECHNICAL PRODUCTION** | Ben Hussey (he/him)\
       **COMMITTEE LIAISON** | Annie Houseago
 metaTitle: Next to Normal plays at the Bridewell Theatre 24-28 March 2026
