@@ -33,15 +33,11 @@ Find out more about [Simprov](https://www.sedos.co.uk/regular-events/simprov).
 
 ## **Featuring Upcoming Acts...**
 
-
-
 **7 April 2026** | Simprov with guest acts Lobster Tango and Map of London
 
 ![](/assets/lobster-tango.jpg)
 
-
-**5 May 2026** | Simprov with guest to be announced
-
+**5 May 2026** | Simprov with guest acts to be announced
 
 ![](/assets/simprov-logo-800.jpg)
 
