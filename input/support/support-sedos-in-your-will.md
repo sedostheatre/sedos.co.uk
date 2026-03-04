@@ -3,6 +3,8 @@ title: Remember Sedos in your will
 row: 1
 column: 3
 image: /assets/RememberSedosButton.jpg
+redirectFrom:
+  - legacy
 ---
 ## A lasting act of support
 
