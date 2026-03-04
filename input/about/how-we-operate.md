@@ -64,7 +64,6 @@ Paul Caira \
 Lauren Clarke (she/her)\
 Sam Ferguson (she/her)\
 Tim Garrad (he/him)\
-George Langdown (he/him)\
 Conor Larkin (he/him)\
 Olly Levett (he/him)\
 Emma Miller (she/her)\
