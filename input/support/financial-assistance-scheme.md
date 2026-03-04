@@ -4,7 +4,7 @@ row: 1
 column: 2
 image: /assets/fas-curtain-website.jpg
 redirectFrom:
-  - fas/
+  - fas
   - about/financial-assistance-scheme
 ---
 ## Financial Assistance Scheme
