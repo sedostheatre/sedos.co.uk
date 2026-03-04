@@ -66,7 +66,7 @@ namespace Sedos.Pipelines
 
             ProcessModules = new ModuleList
             {
-                new ReplaceDocuments(nameof(AboutSections), nameof(AllShows), nameof(News), nameof(Index), nameof(RegularEvents), nameof(TopLevelPages), nameof(MarkdownPages)),
+                new ReplaceDocuments(nameof(AboutSections), nameof(AllShows), nameof(News), nameof(Index), nameof(RegularEvents), nameof(TopLevelPages), nameof(MarkdownPages), nameof(SupportSections)),
                 new GenerateRedirects()
                     .WithMetaRefreshPages(false)
                     .WithAdditionalOutput("_redirects", redirects =>
