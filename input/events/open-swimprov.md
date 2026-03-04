@@ -1,8 +1,8 @@
 ---
 title: Open Swimprov
 times:
-  - time: 2026-03-03 19:30
   - time: 2026-04-07 19:30
+  - time: 2026-05-05 19:30
 image: /assets/simprov-july-24-3.jpg
 venue: Shoreditch Balls
 recurrence: ""
@@ -33,15 +33,15 @@ Find out more about [Simprov](https://www.sedos.co.uk/regular-events/simprov).
 
 ## **Featuring Upcoming Acts...**
 
-**3 March 2026** | Simprov with guest acts A Likely Story and Unplanned 9
 
-![](/assets/a-likely-story.jpg)
-
-![](/assets/unplanned-9.jpg)
 
 **7 April 2026** | Simprov with guest acts Lobster Tango and Map of London
 
 ![](/assets/lobster-tango.jpg)
+
+
+**5 May 2026** | Simprov with guest to be announced
+
 
 ![](/assets/simprov-logo-800.jpg)
 
