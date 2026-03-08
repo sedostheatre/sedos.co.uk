@@ -9,7 +9,7 @@ metaDescription: Find out about the 2026 Sedos AGM on 19 May 2026 at the St Brid
 ---
 **The 2026 Sedos Annual General Meeting will take place on Tuesday 19 May 2026.**
 
-**When:** 7pm on Tuesday 19 May
+**When:** 7pm on Tuesday 19 May\
 **Venue:** Passmore Edwards room at the St Bride’s Institute (above the [Bridewell Theatre](https://www.sedos.co.uk/venues/bridewell))
 
 The AGM is a chance for members to:
