@@ -50,9 +50,17 @@ sections:
       **GRAPHIC DESIGN** | Natalie Harding-Cooper (she/her)\
       **TECHNICAL PRODUCTION** | Ben Hussey (he/him)\
       **COMMITTEE LIAISON** | Annie Houseago
-  - order: 2
+  - order: 3
     title: VIDEO
     body: <div class="video-responsive"><?# YouTube qUO439yZTXs /?></div>
+  - order: 2
+    title: GALLERY
+    body: <a data-flickr-embed="true"
+      href="https://www.flickr.com/photos/sedos/albums/72177720332488240"
+      title="Next to Normal - 2026"><img
+      src="https://live.staticflickr.com/65535/55144314896_a76906ccbe_c.jpg"
+      width="800" height="600" alt="Next to Normal - 2026"/></a><script async
+      src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 metaTitle: Next to Normal plays at the Bridewell Theatre 24-28 March 2026
 metaDescription: Next to Normal, with music by Tom Kitt and book & lyrics by
   Brian Yorkey. Everything is perfect. Nothing's real. It is part of Sedos’ 2026
