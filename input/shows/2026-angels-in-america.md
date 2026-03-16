@@ -9,13 +9,13 @@ subtitle: The Tony- and Pulitzer-winning masterpiece that defined a generation.
 showtimes:
   - time: 2026-11-19 19:00
   - time: 2026-11-20 19:00
-  - time: 2026-11-21 14:00
+  - time: 2026-11-21 13:00
   - time: 2026-11-21 19:00
   - time: 2026-11-24 19:00
   - time: 2026-11-25 19:00
   - time: 2026-11-26 19:00
   - time: 2026-11-27 19:00
-  - time: 2026-11-28 14:00
+  - time: 2026-11-28 13:00
   - time: 2026-11-28 19:00
 showtime-summary: 19-28 NOVEMBER 2026
 venue: Bridewell Theatre
