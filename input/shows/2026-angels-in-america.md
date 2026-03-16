@@ -66,10 +66,10 @@ Director David Gregory commented: "Directing *Angels in America* is both a chall
 Tickets for *Angels in America* are being sold as a package to see both *Part One: Millennium Approaches* and *Part Two: Perestroika*. When you book, you are selecting the show time for Part One, with Part Two following according to this schedule: 
 
 * Purchasers for Thursday 19 November will see Part One on Thursday 19 November at 7pm and Part Two on Friday 20 November at 7pm. 
-* Purchasers for Saturday 21 November will see Part One at 2pm and Part Two at 7pm, both on Saturday 21 November. 
+* Purchasers for Saturday 21 November will see Part One at 1pm and Part Two at 7pm, both on Saturday 21 November. 
 * Purchasers for Tuesday 24 November will see Part One on Tuesday 24 November at 7pm and Part Two on Wednesday 25 November at 7pm. 
 * Purchasers for Thursday 26 November will see Part One on Thursday 26 November at 7pm and Part Two on Friday 27 November at 7pm. 
-* Purchasers for Saturday 28 November will see Part One at 2pm and Part Two at 7pm, both on Saturday 28 November.
+* Purchasers for Saturday 28 November will see Part One at 1pm and Part Two at 7pm, both on Saturday 28 November.
 
 **AUDITIONS**
 
