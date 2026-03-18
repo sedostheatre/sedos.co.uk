@@ -52,7 +52,10 @@ sections:
       **COMMITTEE LIAISON** | Annie Houseago
   - order: 3
     title: VIDEO
-    body: <div class="video-responsive"><?# YouTube qUO439yZTXs /?></div>
+    body: |-
+      <div class="video-responsive"><?# YouTube TL3ZBpAnmc4 /?></div>
+
+      <div class="video-responsive"><?# YouTube qUO439yZTXs /?></div>
   - order: 2
     title: GALLERY
     body: <a data-flickr-embed="true"
