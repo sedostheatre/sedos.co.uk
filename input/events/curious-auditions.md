@@ -3,13 +3,15 @@ title: The Curious Incident of the Dog in the Night-Time auditions
 times:
   - time: 2026-03-18 19:00
   - time: 2026-03-18 20:30
+  - time: 2026-03-28 10:00
   - time: 2026-03-29 10:00
   - time: 2026-03-30 19:00
   - time: 2026-04-01 19:00
+  - time: 2026-04-02 19:00
   - time: 2026-03-18 20:30
 image: /assets/dogonly.png
 imageAlt: The Curious Incident of the Dog in the Night-Time auditions
-venue: King Square Community Centre
+venue: ""
 metaTitle: The Curious Incident of the Dog in the Night-Time auditions
 metaDescription: Information about The Curious Incident of the Dog in the
   Night-Time auditions and pre-audition workshop
@@ -19,12 +21,14 @@ Full information about *[The Curious Incident of the Dog in the Night-Time](http
 **AUDITION DATES**
 
 * Wednesday 18 March, 7-8.30pm and 8.30-10pm - non-compulsory pre-audition workshops
+* Saturday 28 March, 10am-2pm - first round auditions
 * Sunday 29 March, 10am-6pm - first round auditions
 * Monday 30 March, 7-10pm - first round auditions
 * Wednesday 1 April, 7-10pm - first round auditions
+* Thursday 2 April, 7-10pm - first round auditions
 * Sunday 12 April, 10am-6pm - recalls (by invitation)
 
-The workshop, auditions and recalls will all take place at [King Square Community Centre](https://www.sedos.co.uk/venues/king-square), Blackwell House, Pankhurst Terrace, London EC1Y 8DY
+The workshop, auditions and recalls will all take place at [King Square Community Centre](https://www.sedos.co.uk/venues/king-square), Blackwell House, Pankhurst Terrace, London EC1Y 8DY, except for the auditions on Thursday 2 April, which are at [Theatre Deli Leadenhall Studios](https://www.sedos.co.uk/venues/theatre-deli), 107 Leadenhall Street, London EC3A 4AF
 
 ## [LINK TO FULL AUDITION NOTICE](https://docs.google.com/document/d/1mt8-kHmY4eU6hT7ACNImZeC2YDP4Pm6K/edit?usp=sharing&ouid=102612811468465275522&rtpof=true&sd=true)
 
