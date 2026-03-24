@@ -54,6 +54,9 @@ sections:
       **ACCESSIBILITY CONSULTANT and RELAXED PERFORMANCE CO-ORDINATOR** | Ema-Mae West (she/her)\
 
       **COMMITTEE LIAISON** | Emma Miller (she/her)
+  - order: 2
+    title: VIDEO
+    body: <div class="video-responsive"><?# YouTube 2AAsSJTxz3U /?></div>
 metaTitle: The Curious Incident of the Dog in the Night-Time plays at the
   Bridewell Theatre 14-18 July 2026
 metaDescription: The Curious Incident of the Dog in the Night-Time brings a
