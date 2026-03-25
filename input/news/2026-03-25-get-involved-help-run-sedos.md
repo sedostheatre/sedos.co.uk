@@ -1,6 +1,7 @@
 ---
-title: "Get involved: help run Sedos"
+title: sedos trustees committee
 date: 2026-03-25
+image: /assets/joinwebsite.jpg
 ---
 *25 March 2026*
 
