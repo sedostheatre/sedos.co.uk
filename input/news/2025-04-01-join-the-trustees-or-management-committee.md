@@ -1,8 +1,8 @@
 ---
-title: Join the Trustees or Management Committee
+title: "Get involved: help run Sedos"
 date: 2025-04-01
-image: /assets/agmelections.jpg
-imageAlt: Sedos AGM elections 2025
+image: /assets/joinwebsite.jpg
+imageAlt: Sedos Trustees and Management Committee
 metaTitle: Join the Sedos Trustees or Management Committee
 metaDescription: Find out how to stand for election to become a Sedos Trustee or
   Management Committee member
@@ -13,17 +13,17 @@ metaDescription: Find out how to stand for election to become a Sedos Trustee or
 
 **Sedos elections**
 
-The AGM on 29 May 2025 from 7pm in the Passmore Edwards room at the St Bride’s Institute (above the [Bridewell Theatre](https://www.sedos.co.uk/venues/bridewell)) is a chance for members to:
+The [AGM on 19 May 2026](https://www.sedos.co.uk/events/2026-sedos-agm) from 7pm in the Passmore Edwards room at the St Bride’s Institute (above the [Bridewell Theatre](https://www.sedos.co.uk/venues/bridewell)) is a chance for members to:
 
-* Hear a report from the chair of the Board of Trustees (Matt Gould) and chair of the Management Committee (Adrian Hau) regarding the financial year ending 31 December 2024;
+* Hear a report from the chair of the Board of Trustees (Matt Gould) and chair of the Management Committee (Adrian Hau) regarding the financial year ending 31 December 2025;
 * Hear about upcoming plans for the society;
 * Ask questions of the leadership groups of the societies and have your say;
 * Elect members to the vacant positions on the Board of Trustees and Management Committee; and
 * Socialise with other members.
 
-This year we have a number of positions open for election on the Board of Trustees and Management Committee. We are always looking for new and diverse voices, different skill sets and people with the energy to take action on the behind-the-scenes administration of Sedos.  The most important thing, though, is the desire to take positive action to help administer the society and maintain its vibrancy!
+This year we have a number of positions open for election on the Board of Trustees and Management Committee. We are always looking for new and diverse voices, different skill sets and people with the energy to take action on the behind-the-scenes administration of Sedos. The most important thing, though, is the desire to take positive action to help administer the society and maintain its vibrancy!
 
-We want to have as broad a range as possible of our membership involved in the administrative leadership of the society – the wider the breadth of experience and different lived experience creates better decision-making and different voices ensure that all of our membership and stakeholders are properly represented. We want people who are willing to donate their time to making Sedos a better society for all of our members. While we welcome anybody to apply, we would particularly welcome 
+We want to have as broad a range as possible of our membership involved in the administrative leadership of the society – a wider breadth of experience and different lived experience creates better decision-making and different voices ensure that all of our membership and stakeholders are properly represented. We want people who are willing to donate their time to making Sedos a better society for all of our members. While we welcome anybody to apply, we would particularly welcome 
 
 * A greater degree of female and gender non-binary/fluid representation;
 * A greater degree of representation of people of minority ethnic backgrounds; and
@@ -62,7 +62,7 @@ Length of term
 
 Typically, the term for newly elected Trustees will be three years in the first instance, with the possibility of re-election for additional three-year terms without limit.
 
-At the 2025 AGM, at least five elected Trustee positions will be vacant.
+At the 2026 AGM, at least four elected Trustee positions will be vacant.
 
 Specific roles
 
@@ -99,6 +99,6 @@ If you want to run for any of the above positions, here’s what you need to do:
 
 * Candidates should send their application to [chair@sedos.co.uk](mailto:chair@sedos.co.uk) and [adrian@sedos.co.uk](mailto:adrian@sedos.co.uk). 
 * An application should clearly state what role or roles they are applying for.
-* Although you may apply for both Board of Trustee and Management Committee roles, please consider which of these best suits your particular skill set and only apply for the appropriate one.  If you are unsure as to where best your skill set may lie and where you could add most benefit, please contact Matt and Adrian to discuss.
+* Although you may apply for both Board of Trustee and Management Committee roles, please consider which of these best suits your particular skill set and only apply for the appropriate one. If you are unsure as to where best your skill set may lie and where you could add most benefit, please contact Matt and Adrian on the email addresses above to discuss.
 * An application should be accompanied by 50-75 words on your past involvement with Sedos and 50-75 words about why you want to apply and what you think they would bring to the role you are applying for (this is required for the AGM notice and will be publicised). You only need to do this once, regardless of the positions you are standing for. Should there be a contested election, you will also be granted the opportunity to speak briefly at the AGM.
-* Applications must be received by midnight on Thursday 1 May 2025 (four weeks before the AGM) so if there are multiple candidates we can properly advertise the candidates to members before the AGM. Applications after this date may be disregarded.
+* Applications must be received by midnight on Tuesday 21 April 2026 (four weeks before the AGM) so if there are multiple candidates we can properly advertise the candidates to members before the AGM. Applications after this date may be disregarded.
