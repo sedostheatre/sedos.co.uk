@@ -1,8 +1,8 @@
 ---
 title: "Get involved: help run Sedos"
 date: 2025-04-01
-image: /assets/agmelections.jpg
-imageAlt: Sedos AGM elections 2025
+image: /assets/joinwebsite.jpg
+imageAlt: Sedos Trustees and Management Committee
 metaTitle: Join the Sedos Trustees or Management Committee
 metaDescription: Find out how to stand for election to become a Sedos Trustee or
   Management Committee member
