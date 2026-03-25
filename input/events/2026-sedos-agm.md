@@ -20,7 +20,7 @@ The AGM is a chance for members to:
 * elect members to the vacant positions on the Board of Trustees and Management Committee
 * socialise with other members.
 
-More information will be posted in due course about how to stand for the Board of Trustees and Management Committee.
+Find out more about [how to stand for the Board of Trustees and Management Committee](https://www.sedos.co.uk/news/2026-03-25-get-involved-help-run-sedos).
 
 ^^^
 ![2026 Sedos AGM](/assets/agm2026-newslettersquare.jpg)
