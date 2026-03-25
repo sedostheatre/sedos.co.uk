@@ -1,5 +1,5 @@
 ---
-title: join trustees committee 2026
+title: "Get involved: help run Sedos"
 date: 2025-04-01
 image: /assets/agmelections.jpg
 imageAlt: Sedos AGM elections 2025
