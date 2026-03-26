@@ -34,6 +34,8 @@ The workshop, auditions and recalls will all take place at [King Square Communit
 
 **ABOUT THE SHOW**
 
+<div class="video-responsive"><?# YouTube 2AAsSJTxz3U /?></div>
+
 The neighbour’s dog shows up dead in her front garden. Fifteen-year-old Christopher Boone is determined to find out what happened through logical detective-work. But Christopher’s investigation uncovers more than he bargains for and leads him onto a journey outside his carefully ordered world.
 
 Curious Incident takes us inside Christopher’s unique and wonderful mind. He discovers not only who killed the dog but also that his mother, who he believed dead, is actually alive. This spurs Christopher on to take a terrifying solo journey to London to try and find her. 
