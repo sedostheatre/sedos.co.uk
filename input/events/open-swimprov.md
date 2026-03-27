@@ -3,6 +3,7 @@ title: Open Swimprov
 times:
   - time: 2026-04-07 19:30
   - time: 2026-05-05 19:30
+  - time: 2026-06-02 19:30
 image: /assets/simprov-july-24-3.jpg
 venue: Shoreditch Balls
 recurrence: ""
@@ -37,7 +38,18 @@ Find out more about [Simprov](https://www.sedos.co.uk/regular-events/simprov).
 
 ![](/assets/lobster-tango.jpg)
 
-**5 May 2026** | Simprov with guest acts to be announced
+**5 May 2026** | Simprov with guest acts Historyonics
+
+
+![](/assets/historyonics_logo.jpg)
+
+
+**2 June 2026** | Simprov with guest acts Burn the Script
+
+
+![](/assets/burnthescript-logo.jpg)
+
+
 
 ![](/assets/simprov-logo-800.jpg)
 
