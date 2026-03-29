@@ -6,7 +6,7 @@ key: "2026"
 # *Next to Normal*
 
 ^^^
-![Dress rehearsal photo of Next to Normal](/assets/reviewer1.jpg)
+![Dress rehearsal image of Sedos production of Next to Normal](/assets/reviewer1.jpg)
 ^^^ Next to Normal
 
 >This is a production that understands the responsibility of the material it holds. Sedos have not shied away from the darkness at the heart of Next to Normal, instead leaning into its rawness to create something that feels both intimate and quietly devastating. The strength of the performances and the emotional honesty at the core of the piece make it a deeply affecting evening at the theatre.
