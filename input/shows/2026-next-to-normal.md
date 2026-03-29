@@ -86,7 +86,7 @@ sections:
 
       >This rollercoaster of a show is performed with confidence and heart. Once again, Sedos deliver a bold, emotional, and thoroughly engaging production that deserves to be seen.  
 
-      ><footer><cite><a target="_blank" href="https://www.londontheatre1.com/reviews/next-to-normal-bridewell-theatre-review/">Next to Normal, 2026, London Theatre Review (****)</a></cite></footer>
+      ><footer><cite><a target="_blank" href="https://www.londontheatre1.com/reviews/next-to-normal-bridewell-theatre-review/">Next to Normal, 2026, London Theatre Reviews (****)</a></cite></footer>
 metaTitle: Next to Normal plays at the Bridewell Theatre 24-28 March 2026
 metaDescription: Next to Normal, with music by Tom Kitt and book & lyrics by
   Brian Yorkey. Everything is perfect. Nothing's real. It is part of Sedos’ 2026
