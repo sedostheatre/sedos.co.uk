@@ -13,7 +13,7 @@ country: GB
 ---
 ## The Bridewell Theatre
 
-Most of our [London musicals](https://sedos.co.uk/whats-on) and [London plays](https://sedos.co.uk/whats-on) take place at the Bridewell Theatre, where we are the resident theatre company. Our next shows at the Bridewell are *[Next to Normal](https://www.sedos.co.uk/shows/2026-next-to-normal)* (24-28 March 2026) and *[Company](https://www.sedos.co.uk/shows/2026-company)* (7-16 May 2026). 
+Most of our [London musicals](https://sedos.co.uk/whats-on) and [London plays](https://sedos.co.uk/whats-on) take place at the Bridewell Theatre, where we are the resident theatre company. Our next shows at the Bridewell are *[Company](https://www.sedos.co.uk/shows/2026-company)* (7-16 May 2026) and *[The Curious Incident of the Dog in the Night-Time](https://www.sedos.co.uk/shows/2026-the-curious-incident-of-the-dog-in-the-night-time)* (14-18 July 2026). 
 
 * #### [Sedos shows: what’s on at the Bridewell Theatre?](https://sedos.co.uk/whats-on)
 * #### [Buy tickets to our shows at the Bridewell Theatre](https://sedos.ticketsolve.com/shows)
