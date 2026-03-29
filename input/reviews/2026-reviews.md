@@ -1,7 +1,9 @@
 ---
 key: "2026"
 ---
-## *Next to Normal*
+# 2026
+
+# *Next to Normal*
 
 ^^^
 ![Dress rehearsal photo of Next to Normal](/assets/reviewer1.jpg)
