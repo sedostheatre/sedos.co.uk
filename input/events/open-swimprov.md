@@ -38,18 +38,15 @@ Find out more about [Simprov](https://www.sedos.co.uk/regular-events/simprov).
 
 ![](/assets/lobster-tango.jpg)
 
-**5 May 2026** | Simprov with guest acts Historyonics
+![](/assets/map-of-london.jpg)
 
+**5 May 2026** | Simprov with guest acts Historyonics
 
 ![](/assets/historyonics_logo.jpg)
 
-
 **2 June 2026** | Simprov with guest acts Burn the Script
 
-
 ![](/assets/burnthescript-logo.jpg)
-
-
 
 ![](/assets/simprov-logo-800.jpg)
 
