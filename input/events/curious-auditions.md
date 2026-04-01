@@ -8,7 +8,6 @@ times:
   - time: 2026-03-30 19:00
   - time: 2026-04-01 19:00
   - time: 2026-04-02 19:00
-  - time: 2026-03-18 20:30
 image: /assets/dogonly.png
 imageAlt: The Curious Incident of the Dog in the Night-Time auditions
 venue: ""
