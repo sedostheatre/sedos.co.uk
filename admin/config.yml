@@ -314,7 +314,7 @@ collections:
     create: true
     slug: "{{year}}-reviews"
     fields:
-      - {label: year, name: key, widget: string}
+      - {label: year, name: year, widget: number}
       - label: Details
         name: body
         widget: markdown
