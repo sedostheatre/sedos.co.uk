@@ -18,7 +18,7 @@ Sedos is a registered charity, so there may be tax advantages to leaving money t
 
 ^^^
 ![Our 2023 production of Titanic, which benefited from a grant from the Jeremy Lewis fund.](/assets/53359165638_3808b2fd06_c.jpg)
-^^^ Our 2023 production of Titanic, which benefited from a grant from the Jeremy Lewis fund.
+^^^ Our 2023 production of Titanic, which benefited from a grant from the Jeremy Lewis fund
 
 ### Considering remembering Sedos in your will?
 
@@ -30,7 +30,7 @@ Sedos is a registered charity, so there may be tax advantages to leaving money t
 
 ^^^
 ![ Jeremy Lewis and our 2017 production of Priscilla Queen of the Desert, with costumes funded by his bequest.](/assets/JeremyPriscilla.jpg)
-^^^ Jeremy Lewis and our 2017 production of Priscilla Queen of the Desert, with costumes funded by his bequest.
+^^^ Jeremy Lewis and our 2017 production of Priscilla Queen of the Desert, with costumes funded by his bequest
 
 Jeremy Lewis had a long association with Sedos and served as a committee member and chairman of the society, as well as being the honorary president of Sedos for the last few years of his life.
 
