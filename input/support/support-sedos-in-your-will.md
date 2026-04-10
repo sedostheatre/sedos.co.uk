@@ -17,7 +17,7 @@ If you would like to share your passion for theatre beyond your lifetime, you mi
 Sedos is a registered charity, so there may be tax advantages to leaving money to the society – we advise you to seek professional advice on this.
 
 ^^^
-![Our 2023 production of Titanic, which benefited from a grant from the Jeremy Lewis fund.](/assets/Titanic.jpg)
+![Our 2023 production of Titanic, which benefited from a grant from the Jeremy Lewis fund.](/assets/53359165638_3808b2fd06_c.jpg)
 ^^^ Our 2023 production of Titanic, which benefited from a grant from the Jeremy Lewis fund.
 
 ### Considering remembering Sedos in your will?
