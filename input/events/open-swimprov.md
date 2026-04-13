@@ -1,7 +1,6 @@
 ---
 title: Open Swimprov
 times:
-  - time: 2026-04-07 19:30
   - time: 2026-05-05 19:30
   - time: 2026-06-02 19:30
 image: /assets/simprov-july-24-3.jpg
@@ -34,17 +33,11 @@ Find out more about [Simprov](https://www.sedos.co.uk/regular-events/simprov).
 
 ## **Featuring Upcoming Acts...**
 
-**7 April 2026** | Simprov with guest acts Lobster Tango and Map of London
-
-![](/assets/lobster-tango.jpg)
-
-![](/assets/map-of-london.jpg)
-
-**5 May 2026** | Simprov with guest acts Historyonics
+**5 May 2026** | Simprov with guest acts Historyonics and Dead End
 
 ![](/assets/historyonics_logo.jpg)
 
-**2 June 2026** | Simprov with guest acts Burn the Script
+**2 June 2026** | Simprov with guest acts Burn the Script and Britney's Peers
 
 ![](/assets/burnthescript-logo.jpg)
 
