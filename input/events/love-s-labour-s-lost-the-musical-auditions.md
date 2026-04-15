@@ -95,6 +95,8 @@ A full cast breakdown is available in the audition notice including:
 
 All roles require confident singing and dancing ability.
 
+## [FULL AUDITION NOTICE AND MATERIALS](https://drive.google.com/drive/folders/174c0UCm2fp_W3vwIvZtV4bBnfKJ2U2uO?usp=drive_link)
+
 **CONTACT**
 
 For questions:
