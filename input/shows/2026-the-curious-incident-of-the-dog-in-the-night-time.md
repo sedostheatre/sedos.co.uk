@@ -97,10 +97,6 @@ Changes will include: 
 
 Any questions? Email [curious@sedos.co.uk](mailto:curious@sedos.co.uk)
 
-**AUDITIONS**
-
-Find out about [*The Curious Incident of the Dog in the Night-time* auditions](https://www.sedos.co.uk/events/curious-auditions) – the full audition notice has now been released and you can book a slot to audition. 
-
 **The Curious Incident of the Dog in the Night-Time**\
 Adapted by Simon Stephens\
 Based on the Novel by Mark Haddon
