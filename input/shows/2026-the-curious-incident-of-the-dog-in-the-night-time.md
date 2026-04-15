@@ -42,7 +42,7 @@ sections:
 
       **ROGER, DUTY SERGEANT AND OTHERS** | John Sandy (he/him)\
 
-      **POLICEMAN, MR THOMPSON AND OTHERS** | Livvy Perrett (she/they)\
+      **POLICEMAN, MR THOMPSON AND OTHERS** | Livvy Perrett \
 
       **NO 40, PUNK GIRL AND OTHERS** | Amy Hehir Curley (she/her)\
 
