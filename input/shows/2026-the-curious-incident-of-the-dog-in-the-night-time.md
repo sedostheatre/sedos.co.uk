@@ -34,17 +34,17 @@ sections:
 
       **ED** | Matt Tylianakis (he/him) \
 
-      **JUDY** | Sarah Berryman (she/her)
+      **JUDY** | Sarah Berryman (she/her)\
 
-      **MRS ALEXANDER AND OTHERS** | Jeryl Burgess (she/her)
+      **MRS ALEXANDER AND OTHERS** | Jeryl Burgess (she/her)\
 
-      **MRS SHEARS, MRS GASCOYNE AND OTHERS** | Scarlett Pannell (she/her)
+      **MRS SHEARS, MRS GASCOYNE AND OTHERS** | Scarlett Pannell (she/her)\
 
-      **ROGER, DUTY SERGEANT AND OTHERS** | John Sandy (he/him)
+      **ROGER, DUTY SERGEANT AND OTHERS** | John Sandy (he/him)\
 
-      **POLICEMAN, MR THOMPSON AND OTHERS** | Livvy Perrett (she/they)
+      **POLICEMAN, MR THOMPSON AND OTHERS** | Livvy Perrett (she/they)\
 
-      **NO 40, PUNK GIRL AND OTHERS** | Amy Hehir Curley (she/her)
+      **NO 40, PUNK GIRL AND OTHERS** | Amy Hehir Curley (she/her)\
 
       **REVEREND PETERS, UNCLE TERRY AND OTHERS** | Richard Evans (he/him)\
 
