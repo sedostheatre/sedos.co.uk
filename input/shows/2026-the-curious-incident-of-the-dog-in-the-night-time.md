@@ -23,8 +23,37 @@ box-office-link: https://sedos.ticketsolve.com/ticketbooth/shows/1173669359
 box-office-text: ""
 sections:
   - order: 1
-    title: CREATIVE TEAM
+    title: CAST & CREATIVE TEAM
     body: >-
+      **CAST**
+
+
+      **CHRISTOPHER** | Elspeth Reid (she/her)\
+
+      **SIOBHAN** | Elsa Gregori \
+
+      **ED** | Matt Tylianakis (he/him) \
+
+      **JUDY** | Sarah Berryman (she/her)
+
+      **MRS ALEXANDER AND OTHERS** | Jeryl Burgess (she/her)
+
+      **MRS SHEARS, MRS GASCOYNE AND OTHERS** | Scarlett Pannell (she/her)
+
+      **ROGER, DUTY SERGEANT AND OTHERS** | John Sandy (he/him)
+
+      **POLICEMAN, MR THOMPSON AND OTHERS** | Livvy Perrett (she/they)
+
+      **NO 40, PUNK GIRL AND OTHERS** | Amy Hehir Curley (she/her)
+
+      **REVEREND PETERS, UNCLE TERRY AND OTHERS** | Richard Evans (he/him)\
+
+      **MOVEMENT CHORUS** | Giulio Beltramo (he/him), Taylor Davidson (she/her), Amber Frizzell (she/her), Grace Harrison-Baker (she/her), Isabel Kirschbaum (she/her), Estella Shi (she/her)
+
+
+      **CREATIVE TEAM**
+
+
       **DIRECTOR** | Alice Bennett (she/her)\
 
       **MOVEMENT DIRECTOR and DIRECTOR** | Emma Bowker (she/her)\
