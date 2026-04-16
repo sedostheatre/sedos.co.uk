@@ -30,7 +30,7 @@ sections:
 
       **CHRISTOPHER** | Elspeth Reid (she/her)\
 
-      **SIOBHAN** | Elsa Gregori \
+      **SIOBHAN** | Elsa Gregori (she/her)\
 
       **ED** | Matt Tylianakis (he/him) \
 
