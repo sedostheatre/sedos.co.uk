@@ -76,7 +76,7 @@ sections:
 
       **LIGHTING DESIGNER** | Olly Levett (he/him)\
 
-      **STAGE MANAGER** | Emily Jupe (she/her)\
+      **STAGE MANAGER** | Emma Hunt (she/they)\
 
       **INTIMACY COORDINATOR** | Bella Chapman (she/her)\
 
