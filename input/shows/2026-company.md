@@ -34,31 +34,31 @@ sections:
       **CAST**
 
 
-      **BOBBY** | Will Garrood (he/him)
+      **BOBBY** | Will Garrood (he/him)\
 
-      **JOANNE** | Natalie Emden (she/her)
+      **JOANNE** | Natalie Emden (she/her)\
 
-      **LARRY** | Keith Walters (he/him)
+      **LARRY** | Keith Walters (he/him)\
 
-      **AMY** | Anna Toogood 
+      **AMY** | Anna Toogood\
 
-      **PAUL** | Adam Hargreaves (he/him)
+      **PAUL** | Adam Hargreaves (he/him)\
 
-      **SARAH** | Lauren Clarke (she/her)
+      **SARAH** | Lauren Clarke (she/her)\
 
-      **HARRY** | Ashton Charge (he/him)
+      **HARRY** | Ashton Charge (he/him)\
 
-      **SUSAN** | Amy Foden-Lloyd (she/her)
+      **SUSAN** | Amy Foden-Lloyd (she/her)\
 
-      **PETER** | Jacob Foden-Lloyd (he/him)
+      **PETER** | Jacob Foden-Lloyd (he/him)\
 
-      **JENNY** | Helen Parsons (she/her)
+      **JENNY** | Helen Parsons (she/her)\
 
-      **DAVID** | Tom Harper (he/him)
+      **DAVID** | Tom Harper (he/him)\
 
-      **APRIL** | Charlotte Field (she/her)
+      **APRIL** | Charlotte Field (she/her)\
 
-      **MARTA** | Adrianna Cordero-Marino (she/her)
+      **MARTA** | Adrianna Cordero-Marino (she/her)\
 
       **KATHY** | Yasmin Devlin-Dean (any)
 
