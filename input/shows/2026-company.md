@@ -31,6 +31,38 @@ sections:
   - order: 1
     title: CAST & CREATIVE TEAM
     body: >-
+      **CAST**
+
+
+      **BOBBY** | Will Garrood (he/him)
+
+      **JOANNE** | Natalie Emden (she/her)
+
+      **LARRY** | Keith Walters (he/him)
+
+      **AMY** | Anna Toogood 
+
+      **PAUL** | Adam Hargreaves (he/him)
+
+      **SARAH** | Lauren Clarke (she/her)
+
+      **HARRY** | Ashton Charge (he/him)
+
+      **SUSAN** | Amy Foden-Lloyd (she/her)
+
+      **PETER** | Jacob Foden-Lloyd (he/him)
+
+      **JENNY** | Helen Parsons (she/her)
+
+      **DAVID** | Tom Harper (he/him)
+
+      **APRIL** | Charlotte Field (she/her)
+
+      **MARTA** | Adrianna Cordero-Marino (she/her)
+
+      **KATHY** | Yasmin Devlin-Dean (any)
+
+
       **CREATIVE TEAM**
 
 
@@ -53,41 +85,6 @@ sections:
       **MARKETING ASSISTANTS** | Jacob Vellucci (he/him) and Hannah Sheppard (she/her)\
 
       **COMMITTEE LIAISON** | Sam Ferguson (she/her)
-
-
-      **CAST**
-
-
-      **BOBBY** | Will Garrood (he/him)\
-
-      **JOANNE** | Natalie Emden (she/her)\
-
-      **LARRY** | Keith Walters (he/him)\
-
-      **AMY** | Anna Toogood \
-
-      **PAUL** | Adam Hargreaves (he/him)\
-
-      **SARAH** | Lauren Clarke (she/her)\
-
-      **HARRY** | Ashton Charge (he/him)\
-
-      **SUSAN** | Amy Foden-Lloyd (she/her)\
-
-      **PETER** | Jacob Foden-Lloyd (he/him)\
-
-      **JENNY** | Helen Parsons (she/her)\
-
-      **DAVID** | Tom Harper (he/him)\
-
-      **APRIL** | Charlotte Field (she/her)\
-
-      **MARTA** | Adrianna Cordero-Marino (she/her)\
-
-      **KATHY** | Yasmin Devlin-Dean (any)
-
-
-      *Company* is currently looking for a **Costume Designer**. If you are interested, please email [production@sedos.co.uk](mailto:production@sedos.co.uk)
 metaTitle: Company plays at the Bridewell Theatre 7-16 May 2026
 metaDescription: Company - where there's one apartment, countless relationships,
   endless reasons to celebrate and you're on the guest list. It is part of
