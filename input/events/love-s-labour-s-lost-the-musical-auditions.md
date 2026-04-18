@@ -20,12 +20,10 @@ Sedos is delighted to announce registration is open for *[Love’s Labour’s Lo
 **KEY DATES**
 
 **Workshop (optional)**
-Sunday 17 May 2026 – 1pm
+Sunday 17 May 2026 – 2pm
 Vibast Community Centre, EC1V 9NH
 
 [Book to attend](https://membership.sedos.co.uk/signup/)
-
-
 
 **First round auditions**
 Dance call (all auditionees): Saturday 23 May 2026
