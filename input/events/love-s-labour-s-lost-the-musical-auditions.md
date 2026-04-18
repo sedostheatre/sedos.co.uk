@@ -1,7 +1,7 @@
 ---
 title: Love’s Labour’s Lost (the musical) auditions
 times:
-  - time: 2026-05-17 13:00
+  - time: 2026-05-17 14:00
   - time: 2026-05-23 11:15
   - time: 2026-05-31 21:00
 image: /assets/loveslabourslost.jpg
