@@ -17,9 +17,9 @@ showtime-summary: 15-19 SEPTEMBER 2026
 venue: Bridewell Theatre
 ticket-prices: Tickets from £14 (no booking fee)
 primary-color: "#5c8dac"
-header-image: /assets/website-homepage-image-loveslabourslost.jpg
+header-image: /assets/lll-website-header-image.png
 header-image-contain: false
-flyer: /assets/iggrid4x5-loveslabourslostnew.jpg
+flyer: /assets/lll-website-flyer-image.png
 box-office-open: true
 box-office-link: https://sedos.ticketsolve.com/ticketbooth/shows/1173669360
 box-office-text: ""
