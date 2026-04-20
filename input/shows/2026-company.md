@@ -70,6 +70,8 @@ sections:
 
       **MUSICAL DIRECTOR** | Thomas Marples (he/him)\
 
+      **ASSISTANT MUSICAL DIRECTOR** | Ellie Bell
+
       **CHOREOGRAPHER** | Lauren Williams (she/her)\
 
       **PRODUCER** | Adam Coppard (he/him)\
@@ -77,6 +79,8 @@ sections:
       **LIGHTING DESIGNER** | Olly Levett (he/him)\
 
       **STAGE MANAGER** | Emma Hunt (she/they)\
+
+      **COSTUME DESIGNER** | Laura Burman\
 
       **INTIMACY COORDINATOR** | Bella Chapman (she/her)\
 
