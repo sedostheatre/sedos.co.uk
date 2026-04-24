@@ -33,7 +33,7 @@ sections:
     body: |-
       **CAST**
 
-      **PRIOR WALTER |** Robert J. Stanex\
+      **PRIOR WALTER** | Robert J. Stanex\
       **LOUIS IRONSON** | Keith Ramsay\
       **JOE PITT** | Charlie O’Reardon\
       **HARPER PITT** | Natalie Harding-Cooper\
