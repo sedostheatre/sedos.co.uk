@@ -29,8 +29,21 @@ box-office-link: https://sedos.ticketsolve.com/ticketbooth/shows/1173671496
 box-office-text: Book tickets
 sections:
   - order: 1
-    title: CREATIVE TEAM
+    title: CAST & CREATIVE TEAM
     body: |-
+      **CAST**
+
+      **PRIOR WALTER | Robert J. Stanex**\
+      **LOUIS IRONSON** | Keith Ramsay\
+      **JOE PITT** | Charlie O’Reardon\
+      **HARPER PITT** | Natalie Harding-Cooper\
+      **HANNAH PITT** | Susan Booth\
+      **ROY COHN** | Eric Petrossian\
+      **BELIZE** | Tashan Nicholas\
+      **THE ANGEL** | Lillian Kennedy
+
+      **CREATIVE TEAM**
+
       **DIRECTOR** | David Gregory\
       **PRODUCER** | George Langdown\
       **TECHNICAL PRODUCER** | Adam Coppard\
