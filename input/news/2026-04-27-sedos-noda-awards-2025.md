@@ -1,5 +1,5 @@
 ---
-title: Sedos NODA awards 2025
+title: Sedos wins four 2025 NODA district awards
 date: 2026-04-28
 image: /assets/noda2025.jpg
 imageAlt: Sedos NODA awards 2025
