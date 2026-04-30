@@ -2,7 +2,7 @@
 title: Brighton Beach Memoirs
 year: "2026"
 authors: by NEIL SIMON
-subtitle: With his mind on girls, chores, and the Yankees, a pending war and the
+subtitle: With his mind on girls, chores and the Yankees, a pending war and the
   Great Depression are the least of Eugene’s worries.
 showtimes:
   - time: 2026-09-08 19:30
