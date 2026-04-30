@@ -17,6 +17,7 @@ ticket-prices: Tickets from £12.50 (no booking fee)
 primary-color: "#ac3e0b"
 header-image: /assets/brighton-beach-memoirs-baseball-image-800.jpg
 header-image-contain: false
+flyer: /assets/brighton-beach-memoirs-poster-holder.jpg
 box-office-open: false
 sections:
   - order: 1
