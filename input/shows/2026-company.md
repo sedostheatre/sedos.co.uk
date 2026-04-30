@@ -89,6 +89,14 @@ sections:
       **MARKETING ASSISTANTS** | Jacob Vellucci (he/him) and Hannah Sheppard (she/her)\
 
       **COMMITTEE LIAISON** | Sam Ferguson (she/her)
+  - order: 2
+    title: GALLERY
+    body: <a data-flickr-embed="true"
+      href="https://www.flickr.com/photos/sedos/albums/72177720333331643"
+      title="Company - 2026"><img
+      src="https://live.staticflickr.com/65535/55235214929_c7a350aace_z.jpg"
+      width="800" height="600" alt="Company - 2026"/></a><script async
+      src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 metaTitle: Company plays at the Bridewell Theatre 7-16 May 2026
 metaDescription: Company - where there's one apartment, countless relationships,
   endless reasons to celebrate and you're on the guest list. It is part of
