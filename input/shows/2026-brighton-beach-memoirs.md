@@ -50,4 +50,9 @@ Director Nick Mouton commented: “I’ve always been interested in life in Amer
 
 **SPECIAL OFFER:** book any four shows (or more) in our 2026 season in one transaction and receive a 25% discount. [More info](https://www.sedos.co.uk/news/2025-11-19-2026-sedos-season-discount).
 
+**Brighton Beach Memoirs**\
+by Neil Simon
+
 *Brighton Beach Memoirs* plays at the [Bridewell Theatre](https://www.sedos.co.uk/venues/bridewell) from 8-12 September 2026.
+
+*This amateur production of Brighton Beach Memoirs is presented by arrangement with Concord Theatricals Ltd. on behalf of Samuel French Ltd. [www.concordtheatricals.co.uk](http://www.concordtheatricals.co.uk)*
