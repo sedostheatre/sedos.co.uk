@@ -25,7 +25,7 @@ sections:
     body: |-
       **CREATIVE TEAM**
 
-      **DIRECTOR** | NickMouton\
+      **DIRECTOR** | Nick Mouton\
       **ASSISTANTDIRECTOR** | Sarah Berryman
 metaTitle: Brighton Beach Memoirs plays at the Bridewell Theatre 8-12 September 2026
 metaDescription: Brighton Beach Memoirs is a semi-autobiographical coming-of-age
