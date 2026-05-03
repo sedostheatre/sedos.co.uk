@@ -3,7 +3,7 @@ title: Brighton Beach Memoirs
 year: "2026"
 authors: By NEIL SIMON
 subtitle: With his mind on girls, chores and the Yankees, a pending war and the
-  Great Depression are the least of Eugene’s worries.
+  Great Depression are the least of Eugene’s worries
 showtimes:
   - time: 2026-09-08 19:30
   - time: 2026-09-09 19:30
@@ -34,7 +34,7 @@ metaDescription: Brighton Beach Memoirs is a semi-autobiographical coming-of-age
 ---
 **“How am I going to become a writer if I don’t know how to suffer? Actually, I’d give up writing if I could see a naked girl while I was eating ice cream.”**
 
-Set in New York City in 1937, Brighton Beach Memoirs is Neil Simon’s semi-autobiographical portrait of the writer as a young teen living with his family in a crowded, lower-middle-class Jewish Brooklyn household. 
+Set in New York City in 1937, *Brighton Beach Memoirs* is Neil Simon’s semi-autobiographical portrait of the writer as a young teen living with his family in a crowded, lower-middle-class Jewish Brooklyn household. 
 
 Eugene dreams of baseball and is trying to get his head around his new fondness for girls. But on top of that, he has to deal with the daily routine of his family life, which includes endless trips to the local store for his mom.
 
