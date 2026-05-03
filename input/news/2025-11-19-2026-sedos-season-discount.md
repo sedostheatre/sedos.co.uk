@@ -1,7 +1,7 @@
 ---
 title: Book four shows in our 2026 season and receive a 25% discount
 date: 2025-11-19
-image: /assets/discountnonames.jpg
+image: /assets/discount2026website.jpg
 imageAlt: 2026 Sedos season discount
 metaTitle: 2026 Sedos season discount
 metaDescription: "2026 Sedos season discount: book four shows in our 2026 season for 25% off"
@@ -34,5 +34,5 @@ The shows which are on sale and included in the discount are:
 We look forward to welcoming you to the Bridewell Theatre for our 2026 shows.
 
 ^^^
-![2026 Sedos season discount](/assets/discount2026newsletter.jpg)
+![2026 Sedos season discount](/assets/discount2026website.jpg)
 ^^^
