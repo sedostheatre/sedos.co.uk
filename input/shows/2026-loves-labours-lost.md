@@ -46,6 +46,8 @@ metaDescription: Love's Labour's Lost is a sun-drenched, contemporary musical
 
 Featuring a riot of vows, disguises, and romance gone wrong – the King and his friends renew a vow they made when they graduated to avoid all pleasures and all women. That plan unravels when the Princess and her companions arrive. This production will question what it means to promise something, and what it means to break it.  Smart, sexy, and gloriously silly, this is Shakespeare like you’ve never seen him before.
 
+Audition information can be found [HERE](https://www.sedos.co.uk/events/love-s-labour-s-lost-the-musical-auditions).
+
 “This gleeful riff on Shakespeare is a tall, fruity drink of intoxicating delight. Friedman finds the sweet spot between giddy pop grooves and bruised, ruminating lyrics, creating a dual sensation of silliness and heartache."
 *Time Out New York*
 
