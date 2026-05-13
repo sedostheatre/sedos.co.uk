@@ -1,8 +1,8 @@
 ---
 title: Open Swimprov
 times:
-  - time: 2026-05-05 19:30
   - time: 2026-06-02 19:30
+  - time: 2026-08-04 19:30
 image: /assets/simprov-july-24-3.jpg
 venue: Shoreditch Balls
 recurrence: ""
@@ -33,13 +33,13 @@ Find out more about [Simprov](https://www.sedos.co.uk/regular-events/simprov).
 
 ## **Featuring Upcoming Acts...**
 
-**5 May 2026** | Simprov with guest acts Historyonics and Dead End
-
-![](/assets/historyonics_logo.jpg)
-
 **2 June 2026** | Simprov with guest acts Burn the Script and Britney's Peers
 
 ![](/assets/burnthescript-logo.jpg)
+
+**July 2026** | There will be no Jam in July.
+
+**4 August 2026** | Simprov with guest acts tp be confirmed.
 
 ![](/assets/simprov-logo-800.jpg)
 
