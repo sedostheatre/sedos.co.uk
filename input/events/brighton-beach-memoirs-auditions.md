@@ -1,5 +1,5 @@
 ---
-title: Brighton Beach Memoirs auditions
+title: Brighton Beach Memoirs pre-audition workshop
 times:
   - time: 2026-05-24 14:00
 image: /assets/brightonbeachmemoirs.jpg
