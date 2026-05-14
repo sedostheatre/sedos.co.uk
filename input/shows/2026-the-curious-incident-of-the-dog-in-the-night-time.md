@@ -86,6 +86,8 @@ sections:
   - order: 2
     title: VIDEO
     body: |-
+      <div class="video-responsive"><?# YouTube 6FjRSPEg-q4 /?></div>
+
       <div class="video-responsive"><?# YouTube i8QXW3Fym4Q /?></div>
 
       <div class="video-responsive"><?# YouTube 2AAsSJTxz3U /?></div>
