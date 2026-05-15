@@ -20,7 +20,7 @@ Meet the creative team, explore the material and get a feel for the show ahead o
 **Where:** [King Square Community Centre,](https://www.sedos.co.uk/venues/king-square) Blackwell House, Pankhurst Terrace, London, EC1Y 8DY\
 **When:** Sunday 24 May, 2-4pm
 
-Sign up to attend at [membership.sedos.co.uk](http://membership.sedos.co.uk/).
+Sign up to attend at [membership.sedos.co.uk](https://membership.sedos.co.uk/signup/156).
 
 **ABOUT THE SHOW**
 
