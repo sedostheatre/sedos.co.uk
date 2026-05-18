@@ -33,9 +33,11 @@ Find out more about [Simprov](https://www.sedos.co.uk/regular-events/simprov).
 
 ## **Featuring Upcoming Acts...**
 
-**2 June 2026** | Simprov with guest acts Burn the Script and Britney's Peers
+**2 June 2026** | Simprov with guest acts Burn the Script and Hot Mess Express
 
 ![](/assets/burnthescript-logo.jpg)
+
+![](/assets/hotmessexpress-logo.jpg)
 
 **July 2026** | There will be no Jam in July.
 
