@@ -19,7 +19,7 @@ The society continued its commitment to welcoming new members – approximately 
 
 The good news was also shared that it has recently been confirmed that Sedos is eligible for Theatre Tax Relief – we have received £31,000 for this for 2024 and expect to receive it every year going forwards.
 
-Membership remained strong in 2025'26, new fundraising initiatives were launched and Sedos reinforced its long-term future through investment growth and a renewed commitment to accessibility and sustainability.
+Membership remained strong in 2025/26, new fundraising initiatives were launched and Sedos reinforced its long-term future through investment growth and a renewed commitment to accessibility and sustainability.
 
 Sedos continued strengthening access and future support through its [Financial Assistance Scheme](https://www.sedos.co.uk/support/financial-assistance-scheme), which helped eight members take part during 2025. The society also expanded its fundraising efforts, launching new initiatives including a fundraising committee, a “[Support Sedos](https://www.sedos.co.uk/support)” hub and a [legacy giving programme](https://www.sedos.co.uk/support/support-sedos-in-your-will) to support long-term sustainability.
 
