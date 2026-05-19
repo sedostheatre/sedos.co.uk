@@ -12,7 +12,9 @@ Three of our six Bridewell shows (Hairspray, Assassins and Dreamgirls) sold out,
 
 The society continued its commitment to welcoming new members – approximately half of cast members in every show are new to Sedos – and broadening representation on and off stage, while strong ticket sales across the season helped generate a major financial turnaround, with an operational profit of over £42,000. 
 
-Membership remained strong, new fundraising initiatives were launched and Sedos reinforced its long-term future through investment growth and a renewed commitment to accessibility and sustainability.
+The good news was also shared that it has recently been confirmed that Sedos is eligible for Theatre Tax Relief – we have received a considerable sum for this for 2024 and expect to receive it every year going forwards.
+
+Membership remained strong in 2025'26, new fundraising initiatives were launched and Sedos reinforced its long-term future through investment growth and a renewed commitment to accessibility and sustainability.
 
 Sedos continued strengthening access and future support through its Financial Assistance Scheme, which helped eight members take part during 2025. The society also expanded its fundraising efforts, launching new initiatives including a fundraising committee, a “Support Sedos” hub and a legacy giving programme to support long-term sustainability.
 
