@@ -11,9 +11,9 @@ metaDescription: Find out who has joined the management committee and trustees
 
 **Thank you to everyone who attended the Sedos Annual General Meeting last night in the Passmore Edwards room at the St Bride’s Institute. It was fantastic to meet people who were interested in the future of the society and to have the opportunity to reflect on all the great things that have been achieved in 2025/26 as well as looking forward to 2026/27 – we’ve an exciting year ahead!**
 
-Sedos enjoyed an exceptional 2025/26 year, delivering seven critically acclaimed productions (five musicals and two plays), returning triumphantly to the Minack Theatre in Cornwall with a sold-out run of The Pirate Queen (3,196 tickets sold) and earning four National Operatic and Dramatic Association (NODA) awards. 
+Sedos enjoyed an exceptional 2025/26 year, delivering seven critically acclaimed productions (five musicals and two plays), returning triumphantly to the Minack Theatre in Cornwall with a sold-out run of [The Pirate Queen](https://www.sedos.co.uk/shows/2025-the-pirate-queen) (3,196 tickets sold) and earning [four National Operatic and Dramatic Association (NODA) awards](https://www.sedos.co.uk/news/2026-04-27-sedos-noda-awards-2025). 
 
-Three of our six Bridewell shows (Hairspray, Assassins and Dreamgirls) sold out, while two others (Violet and The Crucible) performed above target. In total, we sold 554 more tickets to Bridewell shows than budgeted in 2025.
+Three of our six Bridewell shows (*[Hairspray](https://www.sedos.co.uk/shows/2025-hairspray-the-broadway-musical)*, *[Assassins](https://www.sedos.co.uk/shows/2025-assassins)* and *[Dreamgirl](https://www.sedos.co.uk/shows/2025-dreamgirls)*s) sold out, while two others (*[Violet](https://www.sedos.co.uk/shows/2025-violet)* and *[The Crucible](https://www.sedos.co.uk/shows/2025-the-crucible)*) performed above target. In total, we sold 554 more tickets to Bridewell shows than budgeted in 2025.
 
 The society continued its commitment to welcoming new members – approximately half of cast members in every show are new to Sedos – and broadening representation on and off stage, while strong ticket sales across the season helped generate a major financial turnaround, with an operational profit of over £42,000. 
 
@@ -21,7 +21,7 @@ The good news was also shared that it has recently been confirmed that Sedos is 
 
 Membership remained strong in 2025'26, new fundraising initiatives were launched and Sedos reinforced its long-term future through investment growth and a renewed commitment to accessibility and sustainability.
 
-Sedos continued strengthening access and future support through its Financial Assistance Scheme, which helped eight members take part during 2025. The society also expanded its fundraising efforts, launching new initiatives including a fundraising committee, a “Support Sedos” hub and a legacy giving programme to support long-term sustainability.
+Sedos continued strengthening access and future support through its [Financial Assistance Scheme](https://www.sedos.co.uk/support/financial-assistance-scheme), which helped eight members take part during 2025. The society also expanded its fundraising efforts, launching new initiatives including a fundraising committee, a “[Support Sedos](https://www.sedos.co.uk/support)” hub and a [legacy giving programme](https://www.sedos.co.uk/support/support-sedos-in-your-will) to support long-term sustainability.
 
 Members had a chance to ask questions about areas such as budgets, participation fees, venues and pitching and it was fantastic to see people show a passionate interest in the future of Sedos.
 
