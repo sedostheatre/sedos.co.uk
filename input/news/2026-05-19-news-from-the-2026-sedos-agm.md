@@ -1,6 +1,11 @@
 ---
 title: News from the 2026 Sedos AGM
 date: 2026-05-20
+imageAlt: Some of the attendees of the 2026 Sedos AGM, including members of the
+  Trustees and Management Committee
+metaTitle: "2026 Sedos AGM: new committee members and trustees elected"
+metaDescription: Find out who has joined the management committee and trustees
+  after last night’s 2026 Sedos AGM
 ---
 *20 May 2026*
 
