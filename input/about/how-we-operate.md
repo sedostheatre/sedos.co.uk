@@ -2,15 +2,17 @@
 title: How we operate
 row: 3
 column: 2
-image: /assets/sedos-agm-2025-landscape-w600-h300-crop.jpg
+image: /assets/2026-sedos-agm-some-of-trustees-and-committee.jpg
 RedirectFrom:
   - aboutus/howweoperate.htm
 ---
 ## How we operate
 
-^^^
-![](/assets/sedos-agm-2025-landscape.jpg)
-^^^ Some of the members of the 2024/25 Sedos Trustees and Management Committee along with Sedos members who attended the 2025 Sedos AGM
+![](/assets/2026-sedos-agm-some-of-trustees-and-committee.jpg "Some of the members of the 2026/27 Sedos Trustees and Management Committee")
+
+
+
+Some of the members of the 2024/25 Sedos Trustees and Management Committee along with Sedos members who attended the 2025 Sedos AGM
 
 Sedos is a Charitable Incorporated Organisation.
 
@@ -32,11 +34,10 @@ The trustees are elected by the members for three-year terms or co-opted in acco
 ### The trustees are:
 
 **Chair** | Matt Gould (he/him)\
-**Secretary** | Graham White (he/him)\
+**Secretary** | Pippa Kyle (she/her)\
 **Trustee with financial responsibilit**y | Nick Dore (he/him)\
 **ex officio, Chair of the management committee** | Adrian Hau (he/him)\
 Karen Braganza (she/her)\
-Pippa Kyle (she/her)\
 Eleena Misra KC
 
 [Minutes of trustees’ meetings can be found here](https://drive.google.com/drive/folders/13fa6XEho_8j5tAyxQX0wwuJ5HXOcRmjZ?usp=sharing)
@@ -60,16 +61,17 @@ The management committee meets monthly.
 **Chair** | Adrian Hau (he/him)\
 **Production group** | Adam Coppard (he/him)\
 Shylo Allen (he/him)\
-Paul Caira \
+Isaac Bartels (he/him)\
+Mary Briggs (she/her)\
+Paul Caira\
 Lauren Clarke (she/her)\
 Sam Ferguson (she/her)\
 Tim Garrad (he/him)\
-Conor Larkin (he/him)\
-Olly Levett (he/him)\
+Olly Levett (he/him\
 Emma Miller (she/her)\
 \
 **Groups**
 
 Sedos has a [marketing group](/groups/marketing), a [production group](/groups/production) and a [membership group](/groups/membership), all of which contribute to the day to day operations of the society. Anyone can volunteer to get involved in these groups.
 
-![](/assets/sedos-agm-2025-landscape.jpg "Some of the members of the 2024/25 Sedos Trustees and Management Committee along with Sedos members who attended the 2025 Sedos AGM")
+![](/assets/2026-sedos-agm-attendants.jpg "Some of the members of the 2026/27 Sedos Trustees and Management Committee along with Sedos members who attended the 2026 Sedos AGM")
