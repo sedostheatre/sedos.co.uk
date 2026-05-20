@@ -7,7 +7,7 @@ metaTitle: Sedos wins four NODA district awards for 2025 shows
 metaDescription: Sedos has won four NODA district awards for shows in our 2025
   season – find out who picked up prizes
 ---
-28 April 2025
+28 April 2026
 
 **Sedos has won four National Operatic and Dramatic Association (NODA) district awards for our 2025 shows.**
 
