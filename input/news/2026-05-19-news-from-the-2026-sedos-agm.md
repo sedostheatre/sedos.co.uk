@@ -15,7 +15,7 @@ Sedos enjoyed an exceptional 2025/26 year, delivering seven critically acclaimed
 
 Three of our six Bridewell shows (*[Hairspray](https://www.sedos.co.uk/shows/2025-hairspray-the-broadway-musical)*, *[Assassins](https://www.sedos.co.uk/shows/2025-assassins)* and *[Dreamgirl](https://www.sedos.co.uk/shows/2025-dreamgirls)*s) sold out, while two others (*[Violet](https://www.sedos.co.uk/shows/2025-violet)* and *[The Crucible](https://www.sedos.co.uk/shows/2025-the-crucible)*) performed above target. In total, we sold 554 more tickets to Bridewell shows than budgeted in 2025.
 
-The society continued its commitment to welcoming new members – approximately half of cast members in every show are new to Sedos – and broadening representation on and off stage, while strong ticket sales across the season helped generate a major financial turnaround, with an operating surplus of £12,000, plus an increase in the value of our investments of £44,500 (updated from the draft accounts due to revaluation of our investments at the end of 2025).
+The society continued its commitment to welcoming new members – approximately half of cast members in every show are new to Sedos – and broadening representation on and off stage, while strong ticket sales across the season helped generate a major financial turnaround, with an operating surplus of £10,000, plus an increase in the value of our investments of £44,500 (updated from the draft accounts due to revaluation of our investments at the end of 2025).
 
 The good news was also shared that it has recently been confirmed that Sedos is eligible for Theatre Tax Relief – we have received £31,000 for this for 2024 and expect to receive it every year going forwards.
 
