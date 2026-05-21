@@ -95,7 +95,13 @@ sections:
       <div class="video-responsive"><?# YouTube 2AAsSJTxz3U /?></div>
   - order: 2
     title: GALLERY
-    body: https://flic.kr/s/aHBqjCUrdT
+    body: <a data-flickr-embed="true"
+      href="https://www.flickr.com/photos/sedos/albums/72177720333774735"
+      title="The Curious Incident of the Dog in the Night-Time - 2026"><img
+      src="https://live.staticflickr.com/65535/55284878938_c223a5ba81_c.jpg"
+      width="800" height="600" alt="The Curious Incident of the Dog in the
+      Night-Time - 2026"/></a><script async
+      src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 metaTitle: The Curious Incident of the Dog in the Night-Time plays at the
   Bridewell Theatre 14-18 July 2026
 metaDescription: The Curious Incident of the Dog in the Night-Time brings a
