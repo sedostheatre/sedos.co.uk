@@ -12,7 +12,7 @@ metaTitle: Brighton Beach Memoirs auditions for Sedos’ September 2026 producti
 metaDescription: "Find out how to take part in Brighton Beach Memoirs auditions
   and the pre-audition workshop "
 ---
-*[Brighton Beach Memoirs](https://www.sedos.co.uk/shows/2026-brighton-beach-memoirs)* audition info has now been released – the pre-audition workshop is open for registration and you can sign up for an audition slot.
+Information about the *[Brighton Beach Memoirs](https://www.sedos.co.uk/shows/2026-brighton-beach-memoirs)* auditions has now been released – the pre-audition workshop is open for registration and you can sign up for an audition slot.
 
 The show plays 8-12 September at the [Bridewell Theatre](https://www.sedos.co.uk/venues/bridewell).
 
