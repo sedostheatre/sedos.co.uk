@@ -51,7 +51,7 @@ Director Nick Mouton commented: “I’ve always been interested in life in Amer
 >“An exquisite balance between comedy and pathos, its impeccable ensemble landing every laugh while exploring every emotional nuance to build a tremendously moving portrait of family life.” 
 ><footer><cite><a target="_blank" href="https://variety.com/2009/legit/reviews/the-neil-simon-plays-brighton-beach-memoirs-1200476694/">Variety</a></cite></footer>
 
-**AUDITIONS:** info coming very soon – meanwhile, find out about the [pre-audition workshop](https://www.sedos.co.uk/events/brighton-beach-memoirs-auditions). 
+**AUDITIONS:** find out about the [*Brighton Beach Memoirs* auditions](https://www.sedos.co.uk/events/brighton-beach-memoirs-auditions). 
 
 **SPECIAL OFFER:** book any four shows (or more) in our 2026 season in one transaction and receive a 25% discount. [More info](https://www.sedos.co.uk/news/2025-11-19-2026-sedos-season-discount).
 
