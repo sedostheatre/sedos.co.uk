@@ -2,7 +2,7 @@
 title: How we operate
 row: 3
 column: 2
-image: /assets/2026-sedos-agm-some-of-trustees-and-committee.jpg
+image: /assets/whatsapp-image-2026-05-19-at-22.12.15.jpeg
 RedirectFrom:
   - aboutus/howweoperate.htm
 ---
