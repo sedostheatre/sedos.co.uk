@@ -8,7 +8,9 @@ metaTitle: "2026 Sedos AGM: new committee members and trustees elected"
 metaDescription: Find out who has joined the management committee and trustees
   after last night’s 2026 Sedos AGM
 ---
-![](/assets/2026-sedos-agm-attendants.jpg "Some of the attendees of the 2026 Sedos AGM, including members of the Trustees and Management Committee")
+^^^
+![Some of the attendees of the 2026 Sedos AGM, including members of the Trustees and Management Committee](/assets/2026-sedos-agm-attendants.jpg)
+^^^ Some of the attendees of the 2026 Sedos AGM, including members of the Trustees and Management Committee
 
 *20 May 2026*
 
@@ -26,9 +28,9 @@ Membership remained strong in 2025/26, new fundraising initiatives were launched
 
 Sedos continued strengthening access and future support through its [Financial Assistance Scheme](https://www.sedos.co.uk/support/financial-assistance-scheme), which helped eight members take part during 2025. The society also expanded its fundraising efforts, launching new initiatives including a fundraising committee, a “[Support Sedos](https://www.sedos.co.uk/support)” hub and a [legacy giving programme](https://www.sedos.co.uk/support/support-sedos-in-your-will) to support long-term sustainability.
 
-Members had a chance to ask questions about areas such where Sedos’ money is invested, future financial projections, fundraising activities, the potential for Sedos to have a permanent home, the balance of the number of shows we performs and our build space.
+Members had a chance to ask questions about areas such where Sedos’ money is invested, future financial projections, fundraising activities, the potential for Sedos to have a permanent home, the balance of the number of shows we perform and our build space.
 
-The Trustees Annual report gives more information about the society’s activities in 2025/26 and [can be read her](<https://drive.google.com/file/d/1q-fluAGA_ANaY9qwpZufm77omnRDfKt-/view?usp=drive_link)>).
+The Trustees Annual report gives more information about the society’s activities in 2025/26 and [can be read here](<https://drive.google.com/file/d/1q-fluAGA_ANaY9qwpZufm77omnRDfKt-/view?usp=drive_link)>).
 
 Many thanks to Graham White who stepped down as a Trustee at the AGM after four years of service and to Conor Larkin and George Langdown, who stepped down from the Management Committee during the year - your contribution and hard work is very much appreciated!
 
@@ -67,4 +69,6 @@ Sedos is run by enthusiastic volunteers and a huge thank you was given to everyo
 
 If you were unable to attend the 2026 Sedos AGM or want a reminder of the accounts and annual return, you can [find those documents here](https://drive.google.com/drive/folders/15bRojEt5nXs40tBzCU_DmvpW-SefE4IL?mc_cid=1581d180a3&mc_eid=74edd08618).
 
+^^^
 ![Some of the 2026/27 members of the Sedos Trustees and Management Committee](/assets/2026-sedos-agm-some-of-trustees-and-committee.jpg)
+^^^ Some of the 2026/27 members of the Sedos Trustees and Management Committee
