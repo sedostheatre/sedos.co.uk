@@ -2,8 +2,8 @@
 title: Brighton Beach Memoirs auditions
 times:
   - time: 2026-05-24 14:00
-  - time: 2026-06-08 16:20
-  - time: 2026-06-10 16:20
+  - time: 2026-06-08 19:00
+  - time: 2026-06-10 19:00
   - time: 2026-06-14 13:00
 image: /assets/brightonbeachmemoirs.jpg
 imageAlt: Brighton Beach Memoirs auditions
