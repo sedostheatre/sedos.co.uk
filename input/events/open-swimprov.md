@@ -1,7 +1,6 @@
 ---
 title: Open Swimprov
 times:
-  - time: 2026-06-02 19:30
   - time: 2026-08-04 19:30
 image: /assets/simprov-july-24-3.jpg
 venue: Shoreditch Balls
@@ -32,12 +31,6 @@ Applications for guest acts in February and March will open at the beginning of 
 Find out more about [Simprov](https://www.sedos.co.uk/regular-events/simprov).
 
 ## **Featuring Upcoming Acts...**
-
-**2 June 2026** | Simprov with guest acts Burn the Script and Hot Mess Express
-
-![](/assets/burnthescript-logo.jpg)
-
-![](/assets/hotmessexpress-logo.jpg)
 
 **July 2026** | There will be no Jam in July.
 
