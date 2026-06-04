@@ -64,7 +64,7 @@ sections:
 
       **LIGHTING DESIGNER** | Olly Levett (he/him)\
 
-      **SOUND DESIGNERS** | Pranav Mahesh (he/him) and Omar Hussein (he/him)\
+      **SOUND DESIGNER** | Omar Hussein (he/him)\
 
       **COSTUMES** | Clare Harding (she/her)\
 
@@ -81,6 +81,12 @@ sections:
       **COMMUNITY CAPTIONER** | Emma Hunt (she/they)\
 
       **ACCESSIBILITY CONSULTANT and RELAXED PERFORMANCE CO-ORDINATOR** | Ema-Mae West (she/her)\
+
+      **PROGRAMME, MARKETING and REHEARSAL VIDEOS** | Pippa Kyle (she/her)\
+
+      **PHOTOGRAPHERS** | Emma Miller (she/her) and Liz Heinrichs (she/her)\
+
+      **VIDEOGRAPHER** | Adrian Hau (he/him)\
 
       **COMMITTEE LIAISON** | Emma Miller (she/her)
   - order: 3
