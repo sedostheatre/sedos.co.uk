@@ -116,6 +116,21 @@ sections:
       ><footer><cite><a target="_blank" href="https://musicaltheatremusings.co.uk/company-by-sedos/">Company, 2026, Musical Theatre Musings</a></cite></footer>
 
 
+      >Despite being rooted in real-world situations and relationships, I found myself so engrossed in proceedings I did a rare thing (for me, at least) in forgetting I was even in a theatre. Making allowances for a limited budget and this being amateur dramatics also went out of the proverbial window, in a production that had an overall quality that was equivalent to that of a West End show.
+
+      ><footer><cite><a target="_blank" href="https://www.londontheatre1.com/reviews/company-bridewell-theatre-review/">Company, 2026, London Theatre 1 (*****)</a></cite></footer>
+
+
+      >This is a fantastic production from Sedos… If you have the opportunity to catch it before it closes it is a brilliant interpretation of one of Stephen Sondheim’s most famous and engaging shows.
+
+      ><footer><cite><a target="_blank" href="https://everything-theatre.co.uk/2026/05/review-company-bridewell-theatre/#google_vignette">Company, 2026, Everything Theatre (*****)</a></cite></footer>
+
+
+      >This is a bold production, given fresh life by an exceptionally talented cast.
+
+      ><footer><cite><a target="_blank" href="https://northwestend.com/company-bridewell-theatre/">Company, 2026, North West End UK (****)</a></cite></footer>
+
+
       >I enjoyed this production. Clever choices, high energy, beautiful arrangements… It’s a remarkable show, sharp, chaotic, funny – and very real. I’m giving this four stars: well done again, Sedos. 
 
       ><footer><cite><a target="_blank" href="https://loureviews.blog/2026/05/09/musical-review-company-by-sedos/">Company, 2026, Lou Reviews (****)</a></cite></footer>
@@ -124,6 +139,11 @@ sections:
       >A show laced with enthusiasm and ingenuity… felt both faithful and yet fresh. 
 
       ><footer><cite><a target="_blank" href="https://www.londontheatrereviews.co.uk/post.cfm?p=27769">Company, 2026, London Theatre Reviews (****)</a></cite></footer>
+
+
+      >When it comes to the risks of immersive theatre, the effort is rarely worth the payoff… So it is with a refreshing sense of elation that I can say that in this respect and many, many others, Sedos’ ‘immersive’ production of Sondheim’s Company has got it just right.
+
+      ><footer><cite><a target="_blank" href="https://www.theamerican.co.uk/pr/rev-th-Company-Sondheim-Sedos">Company, 2026, The American</a></cite></footer>
 metaTitle: Company plays at the Bridewell Theatre 7-16 May 2026
 metaDescription: Company - where there's one apartment, countless relationships,
   endless reasons to celebrate and you're on the guest list. It is part of
