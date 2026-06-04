@@ -29,7 +29,21 @@ sections:
     body: >-
       **DIRECTOR** | Owen Thomas James (he/him)\
 
-      **CHOREOGRAPHER** | Mia Mann (she/her)\
+      **MUSICAL DIRECTOR** | Maria Hallows (she/her)\
+
+      **CHOREOGRAPHER** | Mia Mann (she/her)
+
+      **PRODUCER** | Adrian Hau (he/him)
+
+
+      **SOUND DESIGN** | Adam Coppard (he/him) & Adam Lockett (he/him)
+
+      **COSTUME DESIGN** | Annie Houseago (she/her)
+
+      **ARTWORK DESIGN** | Emma Miller (she/her)
+
+
+
 
       **COMMITTEE LIAISON** | Paul Caira and Shylo Allen (he/him)
 
