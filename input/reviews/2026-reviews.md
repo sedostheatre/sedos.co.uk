@@ -3,6 +3,15 @@ year: 2026
 ---
 # 2026
 
+# *Company*
+
+^^^
+![](/assets/55254205934_d61f5eecc7_c.jpg)
+^^^ Company
+
+>I enjoyed this production. Clever choices, high energy, beautiful arrangements… It’s a remarkable show, sharp, chaotic, funny – and very real. I’m giving this four stars: well done again, Sedos. 
+><footer><cite><a target="_blank" href="https://loureviews.blog/2026/05/09/musical-review-company-by-sedos/">Company, 2026, Lou Reviews (****)</a></cite></footer>
+
 # *Next to Normal*
 
 ^^^
