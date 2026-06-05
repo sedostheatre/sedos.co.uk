@@ -5,13 +5,13 @@ times:
   - time: 2026-06-24 19:00
   - time: 2026-06-25 19:00
   - time: 2026-06-28 10:00
-image: /assets/bemorechill.jpeg
+image: /assets/be-more-chill-audition-1791-x-1391-px-1-.png
 imageAlt: Be More Chill auditions
 metaTitle: Be More Chill auditions, for Sedos’s October 2026 production
 metaDescription: Find out about Be More Chill auditions if you’d like to be in
   Sedos’s production at the Bridewell Theatre in October 2026
 ---
-Registration is now open for *[Be More Chill](https://www.sedos.co.uk/shows/2026-be-more-chill)* auditions. 
+Information is now available about *[Be More Chill](https://www.sedos.co.uk/shows/2026-be-more-chill)* auditions. 
 
 **KEY DATES**
 
@@ -21,7 +21,8 @@ Registration is now open for *[Be More Chill](https://www.sedos.co.uk/shows/2026
 
 **SIGN UP**
 
-[Register for the workshop and sign up for an audition slot](https://membership.sedos.co.uk/signup/)
+**Workshop sign up live:** Monday 8 June\
+**Auditions sign up live:** Tuesday 16 June
 
 ## [FULL AUDITION NOTICE](https://drive.google.com/drive/folders/1fZJkHT3H3RS-Tdgdn3moJWYMTjZwUdYQ?usp=drive_link)
 
