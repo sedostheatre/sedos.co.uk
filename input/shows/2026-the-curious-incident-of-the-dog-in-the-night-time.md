@@ -74,9 +74,9 @@ sections:
 
       **STAGE MANAGER** | Harvey Dovell (he/him)\
 
-      **ASSISTANT STAGE MANAGER / PROPS** | Helen Wieland (she/her)\
+      **ASSISTANT STAGE MANAGER and PROPS** | Helen Wieland (she/her)\
 
-      **REHEARSAL ASSISTANT** | Azul Alysum (he/they)\
+      **REHEARSAL ASSISTANT and PROPS** | Azul Alysum (he/they)\
 
       **COMMUNITY CAPTIONER** | Emma Hunt (she/they)\
 
