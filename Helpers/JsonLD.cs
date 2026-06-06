@@ -18,34 +18,52 @@ namespace Sedos.Helpers
             }.Uri
         };
 
-        public static string Show(IDocument doc, IReadOnlyCollection<IDocument> venues)
+        // Rough running time used to derive an endDate for individual
+        // performances when none is provided in frontmatter.
+        private static readonly TimeSpan PerformanceDuration = TimeSpan.FromHours(2.5);
+
+        private static readonly PerformingGroup SedosPerformer = new()
         {
-            DateTimeOffset? startDate = doc.Get("showtimes", Enumerable.Empty<IDocument>()).Any()
-                ? doc.Get("showtimes", Enumerable.Empty<IDocument>()).Select(x => x.Get<DateTimeOffset>("time")).OrderBy(x => x).FirstOrDefault()
-                : null;
+            Name = Constants.Sedos
+        };
+
+        public static string Show(IDocument doc, IReadOnlyCollection<IDocument> venues, string url)
+        {
+            var showtimes = doc.Get("showtimes", Enumerable.Empty<IDocument>())
+                .Select(x => x.Get<DateTimeOffset>("time"))
+                .OrderBy(x => x)
+                .ToList();
+
+            DateTimeOffset? startDate = showtimes.Any() ? showtimes.First() : null;
+            DateTimeOffset? endDate = showtimes.Any() ? showtimes.Last() : null;
 
             var location = GeneratePlace(doc.GetString("venue"), venues);
             var flyer = GenerateImage(doc.GetString("flyer"));
+            var offer = GenerateOffer(doc);
 
+            var theaterEvent = BuildEvent(doc, url, startDate, endDate, location, flyer, offer);
+            theaterEvent.SubEvent = new OneOrMany<IEvent>(showtimes.Select(x =>
+                BuildEvent(doc, url, x, x + PerformanceDuration, location, flyer, offer)));
+
+            return theaterEvent.ToHtmlEscapedString();
+        }
+
+        private static TheaterEvent BuildEvent(IDocument doc, string url, DateTimeOffset? startDate, DateTimeOffset? endDate, Place location, Uri flyer, Offer offer)
+        {
             return new TheaterEvent()
             {
                 Name = doc.Get("title", ""),
+                Url = url != null ? new Uri(url) : null,
                 StartDate = startDate,
+                EndDate = endDate,
                 Location = location,
                 Description = doc.Get("metaDescription", ""),
                 Organizer = SedosOrganization,
+                Performer = SedosPerformer,
                 Image = flyer,
-                Offers = GenerateOffer(doc),
-                SubEvent = new OneOrMany<IEvent>(doc.Get("showtimes", Enumerable.Empty<IDocument>()).Select(x => x.Get<DateTimeOffset>("time")).Select(x => new TheaterEvent()
-                {
-                    Name = doc.GetString("title", ""),
-                    StartDate = x,
-                    Location = location,
-                    Description = doc.Get("metaDescription", ""),
-                    Organizer = SedosOrganization,
-                    Image = flyer
-                }))
-            }.ToHtmlEscapedString();
+                EventStatus = EventStatusType.EventScheduled,
+                Offers = offer
+            };
         }
 
         private static Place GeneratePlace(string venueName, IReadOnlyCollection<IDocument> venues)
@@ -90,11 +108,20 @@ namespace Sedos.Helpers
             if (endDate >= DateTime.Today && show.GetBool("box-office-open", false))
             {
                 var bookingLink = BoxOfficeUri.FromBoxOfficeLink(show.GetString("box-office-link"));
-                return new Offer
+                var offer = new Offer
                 {
                     Url = bookingLink,
-                    PriceCurrency = "GBP"
+                    PriceCurrency = "GBP",
+                    Availability = ItemAvailability.InStock
                 };
+
+                var price = show.GetString("price");
+                if (!string.IsNullOrWhiteSpace(price))
+                {
+                    offer.Price = price;
+                }
+
+                return offer;
             }
 
             return null;

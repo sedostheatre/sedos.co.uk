@@ -15,6 +15,7 @@ showtimes:
   - time: 2026-10-24 19:30
 showtime-summary: 20-24 OCTOBER 2026
 ticket-prices: Tickets from £14 (no booking fee)
+price: "14"
 primary-color: "#8a4b99"
 header-image: /assets/be-more-chill-1791-x-1391-px-1-.png
 header-image-contain: false

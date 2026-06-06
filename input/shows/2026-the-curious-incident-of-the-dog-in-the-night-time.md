@@ -14,6 +14,7 @@ showtimes:
 showtime-summary: 14-18 JULY 2026
 venue: Bridewell Theatre
 ticket-prices: Tickets from £12.50 (no booking fee)
+price: "12.50"
 primary-color: "#fed943"
 header-image: /assets/curious-incident-website.jpg
 header-image-contain: false

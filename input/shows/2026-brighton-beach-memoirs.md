@@ -14,6 +14,7 @@ showtimes:
 showtime-summary: 8-12 SEPTEMBER 2026
 venue: Bridewell Theatre
 ticket-prices: Tickets from £12.50 (no booking fee)
+price: "12.50"
 primary-color: "#ac3e0b"
 header-image: /assets/brighton-beach-memoirs-baseball-image-800.jpg
 header-image-contain: false
