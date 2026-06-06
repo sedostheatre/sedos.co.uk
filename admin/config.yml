@@ -83,6 +83,11 @@ collections:
         name: ticket-prices
         widget: text
         required: false
+      - label: Lowest ticket price (number only, GBP - used for search engine structured data)
+        name: price
+        widget: number
+        value_type: float
+        required: false
       - label: Additional Ticket Information
         name: additional-ticket-info
         widget: text
