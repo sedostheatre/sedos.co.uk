@@ -130,7 +130,7 @@ sections:
 
       ^^^
 
-      ![Two actors at a rehearsal for The Curious Incident of the Dog in the Night-Time](/assets/curiousincidentrehearsal-igsize-45-copy.png)
+      ![](/assets/curiousincidentrehearsal-igsize-45-copy.jpg)
 
       ^^^  Elspeth Reid as Christopher and Elsa Gregori as his teacher, Siobhan, in rehearsal
 
@@ -143,7 +143,7 @@ sections:
 
       ^^^
 
-      ![Two actors at a rehearsal for The Curious Incident of the Dog in the Night-Time](/assets/curiousincidentrehearsal-igsize-40.png)
+      ![](/assets/curiousincidentrehearsal-igsize-35.jpg)
 
       ^^^ Rehearsal photo of Elspeth Reid as Christopher and Sarah Berryman as his mother, Judy
 
@@ -156,7 +156,7 @@ sections:
 
       ^^^
 
-      ![A lift being performed at a rehearsal for The Curious Incident of the Dog in the Night-Time](/assets/curiousincidentrehearsal-igsize-7.png)
+      ![](/assets/curiousincidentrehearsal-igsize-7.jpg)
 
       ^^^ The Movement Chorus in rehearsal
 
@@ -174,7 +174,7 @@ sections:
 
       ^^^
 
-      ![Director Alice Bennett at a rehearsal for The Curious Incident of the Dog in the Night-Time](/assets/curiousincidentrehearsal-igsize-53.png)
+      ![](/assets/curiousincidentrehearsal-igsize-53.jpg)
 
       ^^^ Alice in rehearsal
     title: FROM THE DIRECTOR
