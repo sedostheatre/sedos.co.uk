@@ -143,7 +143,7 @@ sections:
 
       ^^^
 
-      ![](/assets/curiousincidentrehearsal-igsize-49.png)
+      ![](/assets/curiousincidentrehearsal-igsize-40.png)
 
       ^^^ Rehearsal photo of Elspeth Reid as Christopher and Sarah Berryman as his mother, Judy
 
