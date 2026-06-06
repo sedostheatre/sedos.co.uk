@@ -130,9 +130,9 @@ sections:
 
       ^^^
 
-      ![](/assets/curiousincidentrehearsal-igsize-45-copy.png)
+      ![Two actors at a rehearsal for The Curious Incident of the Dog in the Night-Time](/assets/curiousincidentrehearsal-igsize-45-copy.png)
 
-      ^^^ Elspeth Reid as Christopher and Elsa Gregori as his teacher, Siobhan, in rehearsal
+      ^^^  Elspeth Reid as Christopher and Elsa Gregori as his teacher, Siobhan, in rehearsal
 
 
       “Nothing about us without us” is a key slogan of the global disability movement. However, the first performances in London and New York had no autistic actors, directors, or producers (at least openly). As an autistic person with ADHD, dyslexia, and dyspraxia, I wanted this production to include people with experience of how Christopher is discriminated against. When neurotypical actors have played Christopher, their performances have sometimes come across as affected and inauthentic. Our production has an AuDHD performer, Elspeth, playing Christopher, who brings out her own experiences in this role and portrays a more physically expressive and excitable Christopher than in other productions. I also wanted to steer Christopher’s teacher Siobhan away from being a patronising figure to someone who has a real kinship with him. This sense of connection is something that Elsa, who plays Siobhan, can bring out partly because she is neurodivergent herself.
@@ -143,7 +143,7 @@ sections:
 
       ^^^
 
-      ![](/assets/curiousincidentrehearsal-igsize-40.png)
+      ![Two actors at a rehearsal for The Curious Incident of the Dog in the Night-Time](/assets/curiousincidentrehearsal-igsize-40.png)
 
       ^^^ Rehearsal photo of Elspeth Reid as Christopher and Sarah Berryman as his mother, Judy
 
@@ -156,7 +156,7 @@ sections:
 
       ^^^
 
-      ![](/assets/curiousincidentrehearsal-igsize-7.png)
+      ![A lift being performed at a rehearsal for The Curious Incident of the Dog in the Night-Time](/assets/curiousincidentrehearsal-igsize-7.png)
 
       ^^^ The Movement Chorus in rehearsal
 
@@ -174,7 +174,7 @@ sections:
 
       ^^^
 
-      ![](/assets/curiousincidentrehearsal-igsize-53.png)
+      ![Director Alice Bennett at a rehearsal for The Curious Incident of the Dog in the Night-Time](/assets/curiousincidentrehearsal-igsize-53.png)
 
       ^^^ Alice in rehearsal
     title: FROM THE DIRECTOR
