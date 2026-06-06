@@ -176,7 +176,7 @@ sections:
 
       ![](/assets/curiousincidentrehearsal-igsize-53.png)
 
-      ^^^ Alice Bennett in rehearsal
+      ^^^ Alice in rehearsal
     title: FROM THE DIRECTOR
 metaTitle: The Curious Incident of the Dog in the Night-Time plays at the
   Bridewell Theatre 14-18 July 2026
