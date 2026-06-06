@@ -16,6 +16,7 @@ showtimes:
 showtime-summary: 15-19 SEPTEMBER 2026
 venue: Bridewell Theatre
 ticket-prices: Tickets from £14 (no booking fee)
+price: "14"
 primary-color: "#5c8dac"
 header-image: /assets/lll-web-header.png
 header-image-contain: false

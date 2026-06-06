@@ -20,6 +20,7 @@ showtimes:
 showtime-summary: 19-28 NOVEMBER 2026
 venue: Bridewell Theatre
 ticket-prices: Tickets from £18 for both parts (no booking fee)
+price: "18"
 primary-color: "#567b85"
 header-image: /assets/website-homepage-image-angelsinamerica.jpg
 header-image-contain: false
