@@ -4,8 +4,8 @@ year: "2026"
 authors: Music and Lyrics by JOE ICONIS
 authors2: Book by JOE TRACZ
 authors3: Based on the Novel by NED VIZZINI
-subtitle: "Life is not unlike a video game. And in a video game success requires
-  just two things: good hand-eye coordination… and a cheat code"
+subtitle: "Success requires just two things: good hand-eye coordination… and a
+  cheat code"
 showtimes:
   - time: 2026-10-20 19:30
   - time: 2026-10-21 19:30
