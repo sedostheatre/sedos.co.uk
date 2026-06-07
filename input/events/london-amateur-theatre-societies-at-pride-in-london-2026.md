@@ -23,21 +23,21 @@ To help coordinate the large number of participants involved, societies have org
 
 Whilst participants have been organised into three geographically based contingents for administration and registration purposes, we are hopeful that Pride in London will place all three groups together in the final parade line-up. Marching side-by-side would create a significant amateur theatre presence within the parade and provide an opportunity for all participating societies to celebrate together.
 
-## Central Area
+## Central area
 
 * Sedos
 * Centre Stage London
 * Geoids Musical Theatre
 * Tower Theatre
 
-## South East Area
+## South East area
 
 * The Quay Players
 * The Phoenix Players
 * The Bromley Players
 * Bob Hope Actors Company
 
-## South West Area
+## South West area
 
 * Mayhem Theatre Company
 * Putney Light Operatic Society (PLOS)
@@ -49,7 +49,7 @@ Together, these societies represent hundreds of performers, creatives, volunteer
 
 Pride provides an opportunity not only to celebrate the LGBTQI+ members of our organisations, but also to demonstrate our shared commitment to creating welcoming, inclusive and supportive spaces for everyone who participates in amateur theatre.
 
-## Taking Part
+## Taking part
 
 A total of 150 places have been allocated across the three contingents. Each participating society has been given an initial allocation of places, with any unused spaces being reallocated between societies closer to the event to help ensure as many people as possible can take part.
 
@@ -59,7 +59,7 @@ To take part, you'll need to sign up through the society of which you are a memb
 
 We expect this event to be popular, so some societies may operate waiting lists initially. If that happens, don't be discouraged - societies will continue to work together in the lead-up to the event to make the best possible use of all available places across the three contingents.
 
-### Sedos Members
+### Sedos members
 
 Sedos sign-ups will open at **9am on Saturday 13 June 2026**.
 
