@@ -14,11 +14,11 @@ showtimes:
 showtime-summary: 14-18 JULY 2026
 venue: Bridewell Theatre
 ticket-prices: Tickets from £12.50 (no booking fee)
+price: "12.50"
 primary-color: "#fed943"
+header-image: /assets/curious-incident-website.jpg
 header-image-contain: false
 flyer: /assets/curious-incident-flyer-a5.jpg
-price: "12.50"
-header-image: /assets/curious-incident-website.jpg
 box-office-open: true
 box-office-link: https://sedos.ticketsolve.com/ticketbooth/shows/1173669359
 box-office-text: ""
@@ -138,7 +138,13 @@ sections:
       ^^^ Elspeth Reid as Christopher and Elsa Gregori as his teacher, Siobhan, in rehearsal
 
 
-      “Nothing about us without us” is a key slogan of the global disability movement. However, the first performances in London and New York had no autistic actors, directors, or producers (at least openly). As an autistic person with ADHD, dyslexia, and dyspraxia, I wanted this production to include people with experience of how Christopher is discriminated against. When neurotypical actors have played Christopher, their performances have sometimes come across as affected and inauthentic. Our production has an AuDHD performer, Elspeth, playing Christopher, who brings out her own experiences in this role and portrays a more physically expressive and excitable Christopher than in other productions. I also wanted to steer Christopher’s teacher Siobhan away from being a patronising figure to someone who has a real kinship with him. This sense of connection is something that Elsa, who plays Siobhan, can bring out partly because she is neurodivergent herself.
+      “Nothing about us without us” is a key slogan of the global disability movement. However, the first performances in London and New York had no autistic actors, directors, or producers (at least openly). As an autistic person with ADHD, dyslexia, and dyspraxia, I wanted this production to include people with experience of how Christopher is discriminated against. When neurotypical actors have played Christopher, their performances have sometimes come across as affected and inauthentic. Our production has an AuDHD performer, Elspeth, playing Christopher, who brings out her own experiences in this role and portrays a more physically expressive and excitable Christopher than in other productions. 
+
+
+      Christopher is often portrayed with a more restrained and deadpan presentation in productions of the play, and this is one autistic experience. However, there is no single autistic experience; as the saying goes, “if you have met one autistic person, you have met one autistic person”. I therefore wanted to create a version of Christopher that draws on Elspeth’s own lived experience of autism and reflects a different, equally authentic autistic perspective, so Elspeth portrays a more physically expressive and excitable Christopher than in other productions.
+
+
+      I also wanted to steer Christopher’s teacher Siobhan away from being a patronising figure to someone who has a real kinship with him. This sense of connection is something that Elsa, who plays Siobhan, can bring out partly because she is neurodivergent herself.
 
 
       Neurodivergent representation is not a panacea. The story as traditionally played can reinforce the harmful idea of disabled people being burdens on non-disabled people. This is in contrast with the “social model” of disability, which frames people as being disabled not by their impairments but by a society that does not accommodate or respect them. There is a tendency in productions of this show to frame Ed and Judy primarily as victims of circumstance – but, this production aims to bring out that while they love Christopher, this doesn’t excuse the harm they cause him. I hope to highlight in this production that Christopher is not the problem and instead it is the way he is treated, inspired by disability theatre which prioritises combating the oppression and erasure of disabled bodies in society.
@@ -155,6 +161,9 @@ sections:
 
 
       The play is told through Christopher’s memories that he has written in a book. It brings the audience inside Christopher’s brain, so they feel his passion for the things he is interested in, such as space and maths, and also understand the moments of distress and sensory overwhelm from Christopher’s point of view. Although I want audience members to experience sensory overwhelm, it is important that the neurodivergent community are not excluded. To allow people with sensory experiences similar to Christopher to enjoy this production, we have a relaxed performance – a first for Sedos. I also wanted every performance to be more inclusive, so we will provide a way for audience members to be aware of possible triggers through “timetables” that allow audiences to safely navigate the big sensory moments in the production.
+
+
+       As well as this, two performances of the production (including the relaxed performance) will be captioned, ensuring that D/deaf and hard of hearing audience members can fully engage with Christopher’s story. Captioning can also benefit audience members who process information differently, helping more people follow the dialogue and immerse themselves in the world of the play.
 
 
       ^^^
