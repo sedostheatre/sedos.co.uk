@@ -14,11 +14,11 @@ showtimes:
 showtime-summary: 14-18 JULY 2026
 venue: Bridewell Theatre
 ticket-prices: Tickets from £12.50 (no booking fee)
-price: "12.50"
 primary-color: "#fed943"
-header-image: /assets/curious-incident-website.jpg
 header-image-contain: false
 flyer: /assets/curious-incident-flyer-a5.jpg
+price: "12.50"
+header-image: /assets/curious-incident-website.jpg
 box-office-open: true
 box-office-link: https://sedos.ticketsolve.com/ticketbooth/shows/1173669359
 box-office-text: ""
@@ -133,7 +133,7 @@ sections:
 
       ![](/assets/curiousincidentrehearsal-igsize-45-copy.jpg)
 
-      ^^^  Elspeth Reid as Christopher and Elsa Gregori as his teacher, Siobhan, in rehearsal
+      ^^^ Elspeth Reid as Christopher and Elsa Gregori as his teacher, Siobhan, in rehearsal
 
 
       “Nothing about us without us” is a key slogan of the global disability movement. However, the first performances in London and New York had no autistic actors, directors, or producers (at least openly). As an autistic person with ADHD, dyslexia, and dyspraxia, I wanted this production to include people with experience of how Christopher is discriminated against. When neurotypical actors have played Christopher, their performances have sometimes come across as affected and inauthentic. Our production has an AuDHD performer, Elspeth, playing Christopher, who brings out her own experiences in this role and portrays a more physically expressive and excitable Christopher than in other productions. I also wanted to steer Christopher’s teacher Siobhan away from being a patronising figure to someone who has a real kinship with him. This sense of connection is something that Elsa, who plays Siobhan, can bring out partly because she is neurodivergent herself.
@@ -177,7 +177,7 @@ sections:
 
       ![](/assets/curiousincidentrehearsal-igsize-53.jpg)
 
-      ^^^ Alice in rehearsal
+      ^^^ The Movement Chorus in rehearsal
     title: FROM THE DIRECTOR
 metaTitle: The Curious Incident of the Dog in the Night-Time plays at the
   Bridewell Theatre 14-18 July 2026
