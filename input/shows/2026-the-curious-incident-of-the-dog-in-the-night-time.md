@@ -138,10 +138,13 @@ sections:
       ^^^ Elspeth Reid as Christopher and Elsa Gregori as his teacher, Siobhan, in rehearsal
 
 
-      “Nothing about us without us” is a key slogan of the global disability movement. However, the first performances in London and New York had no autistic actors, directors, or producers (at least openly). As an autistic person with ADHD, dyslexia, and dyspraxia, I wanted this production to include people with experience of how Christopher is discriminated against. When neurotypical actors have played Christopher, their performances have sometimes come across as affected and inauthentic. Our production has an AuDHD performer, Elspeth, playing Christopher, who brings out her own experiences in this role and portrays a more physically expressive and excitable Christopher than in other productions. 
+      “Nothing about us without us” is a key slogan of the global disability movement. However, the first performances in London and New York had no autistic actors, directors, or producers (at least openly). As an autistic person with ADHD, dyslexia, and dyspraxia, I wanted this production to include people with experience of how Christopher is discriminated against. 
 
 
-      Christopher is often portrayed with a more restrained and deadpan presentation in productions of the play, and this is one autistic experience. However, there is no single autistic experience; as the saying goes, “if you have met one autistic person, you have met one autistic person”. I therefore wanted to create a version of Christopher that draws on Elspeth’s own lived experience of autism and reflects a different, equally authentic autistic perspective, so Elspeth portrays a more physically expressive and excitable Christopher than in other productions.
+      When neurotypical actors have played Christopher, their performances have sometimes come across as affected and inauthentic. Our production has an AuDHD performer, Elspeth, playing Christopher, who brings her own experiences to this role. 
+
+
+      Christopher is often portrayed with a more restrained and deadpan presentation in productions of the play, and this is one autistic experience. However, there is no single autistic experience; as the saying goes, “if you have met one autistic person, you have met one autistic person.” I therefore wanted to create a version of Christopher that draws on Elspeth’s own lived experience of autism and reflects a different, equally authentic autistic perspective, so Elspeth portrays a more physically expressive and excitable Christopher than in other productions.
 
 
       I also wanted to steer Christopher’s teacher Siobhan away from being a patronising figure to someone who has a real kinship with him. This sense of connection is something that Elsa, who plays Siobhan, can bring out partly because she is neurodivergent herself.
