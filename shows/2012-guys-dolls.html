@@ -267,6 +267,37 @@ Terri Clarke</p>
     </div>
 </div>
 
+<script>
+    document.addEventListener("DOMContentLoaded", function () {
+        var tabList = document.getElementById("showDetailsTab");
+        if (!tabList) {
+            return;
+        }
+
+        function activateFromHash() {
+            var hash = window.location.hash;
+            if (!hash) {
+                return;
+            }
+            var trigger = tabList.querySelector('button[data-bs-target="' + hash + '"]');
+            if (trigger) {
+                bootstrap.Tab.getOrCreateInstance(trigger).show();
+            }
+        }
+
+        // Open the matching tab on load and when the hash changes.
+        activateFromHash();
+        window.addEventListener("hashchange", activateFromHash);
+
+        // Reflect the active tab in the URL so it can be shared/deep linked.
+        tabList.querySelectorAll('button[data-bs-toggle="tab"]').forEach(function (btn) {
+            btn.addEventListener("shown.bs.tab", function (e) {
+                history.replaceState(null, "", e.target.getAttribute("data-bs-target"));
+            });
+        });
+    });
+</script>
+
     </div>
 
     
