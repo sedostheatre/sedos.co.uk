@@ -34,9 +34,11 @@ Find out more about [Simprov](https://www.sedos.co.uk/regular-events/simprov).
 
 **July 2026** | There will be no Jam in July.
 
-**4 August 2026** | Simprov with guest act Sam and AJ.
+**4 August 2026** | Simprov with guest act Sam and AJ and George And Sam Are Lost.
 
 ![](/assets/eveningwithsamandaj.jpg)
+
+![](/assets/georgeandsamarelost-horizontal.jpg)
 
 ![](/assets/simprov-logo-800.jpg)
 
