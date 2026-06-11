@@ -28,7 +28,8 @@ sections:
   - order: 1
     title: CAST & CREATIVE TEAM
     body: >-
-      **CREATIVE TEAM**\
+      **CREATIVE TEAM**
+
 
       **DIRECTOR** | Owen Thomas James (he/him)\
 
@@ -36,10 +37,9 @@ sections:
 
       **CHOREOGRAPHER** | Mia Mann (she/her)\
 
-      **PRODUCER** | Adrian Hau (he/him)
+      **PRODUCER** | Adrian Hau (he/him)\
 
-
-      **SOUND DESIGN** | Adam Coppard (he/him) & Adam Lockett (he/him)\
+      **SOUND DESIGN** | Adam Coppard (he/him) and Adam Lockett (he/him)\
 
       **COSTUME DESIGN** | Annie Houseago (she/her)\
 
