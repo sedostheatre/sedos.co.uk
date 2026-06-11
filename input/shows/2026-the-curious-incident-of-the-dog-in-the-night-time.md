@@ -87,7 +87,7 @@ sections:
 
       **PHOTOGRAPHERS** | Emma Miller (she/her) and Liz Heinrichs (she/her)\
 
-      **VIDEOGRAPHER** | Adrian Hau (he/him)\
+      **VIDEOGRAPHER** | Adrian Hau (he/him) and Joby Blair (he/him)\
 
       **COMMITTEE LIAISON** | Emma Miller (she/her)
   - order: 3
