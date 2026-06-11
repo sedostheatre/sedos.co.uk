@@ -28,33 +28,26 @@ sections:
   - order: 1
     title: CAST & CREATIVE TEAM
     body: >-
-      **DIRECTOR** | Owen Thomas James (he/him)
+      **CREATIVE TEAM**\
 
+      **DIRECTOR** | Owen Thomas James (he/him)\
 
-      **MUSICAL DIRECTOR** | Maria Hallows (she/her)
+      **MUSICAL DIRECTOR** | Maria Hallows (she/her)\
 
-
-      **CHOREOGRAPHER** | Mia Mann (she/her)
-
+      **CHOREOGRAPHER** | Mia Mann (she/her)\
 
       **PRODUCER** | Adrian Hau (he/him)
 
 
-      **SOUND DESIGN** | Adam Coppard (he/him) & Adam Lockett (he/him)
+      **SOUND DESIGN** | Adam Coppard (he/him) & Adam Lockett (he/him)\
 
+      **COSTUME DESIGN** | Annie Houseago (she/her)\
 
-      **COSTUME DESIGN** | Annie Houseago (she/her)
+      **ARTWORK DESIGN** | Emma Miller (she/her)\
 
-
-      **ARTWORK DESIGN** | Emma Miller (she/her)
-
-
-      **MARKETING** | Mark Siddall (he/him)
-
+      **MARKETING** | Mark Siddall (he/him)\
 
       **COMMITTEE LIAISON** | Paul Caira and Shylo Allen (he/him)
-
-
 
 
       *Love's Labour's Lost* is looking for a Set Designer to join the team. If you are interested, please email production@sedos.co.uk
