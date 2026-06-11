@@ -187,6 +187,11 @@ sections:
       *Director*
 
 
+      **Captioned performance:** 15 July, 7.30pm\
+
+      **Captioned and relaxed performance:** 18 July, 1pm
+
+
       ^^^
 
       ![](/assets/curiousincidentrehearsal-igsize-53.jpg)
