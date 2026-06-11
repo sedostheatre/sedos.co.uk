@@ -141,7 +141,7 @@ sections:
       “Nothing about us without us” is a key slogan of the global disability movement. However, the first performances in London and New York had no autistic actors, directors, or producers (at least openly). As an autistic person with ADHD, dyslexia, and dyspraxia, I wanted this production to include people with experience of how Christopher is discriminated against. 
 
 
-      When neurotypical actors have played Christopher, their performances have sometimes come across as affected and inauthentic. Our production has an AuDHD performer, Elspeth, playing Christopher, who brings her own experiences to this role. 
+      When neurotypical actors have played Christopher, their performances have sometimes come across as affected and inauthentic. Our production has an AuDHD (AuDHD means someone who is autistic and has ADHD) performer, Elspeth, playing Christopher, who brings her own experiences to this role. 
 
 
       Christopher is often portrayed with a more restrained and deadpan presentation in productions of the play, and this is one autistic experience. However, there is no single autistic experience; as the saying goes, “if you have met one autistic person, you have met one autistic person.” I therefore wanted to create a version of Christopher that draws on Elspeth’s own lived experience of autism and reflects a different, equally authentic autistic perspective, so Elspeth portrays a more physically expressive and excitable Christopher than in other productions.
