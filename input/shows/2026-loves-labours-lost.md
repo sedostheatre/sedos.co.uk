@@ -28,6 +28,66 @@ sections:
   - order: 1
     title: CAST & CREATIVE TEAM
     body: >-
+      **CAST**
+
+
+      **THE KING** | Arthur James Page (he/him)
+
+      **BEROWNE** | Alex Stephenson (he/him)
+
+      **LONGAVILLE** | Joby Blair (he/him)
+
+      **DUMAINE** | Edward Horrocks (he/him)\
+
+      **THE PRINCESS** | Anna Colless (she/her)
+
+      **ROSALINE** | Rachel Clements (she/her)
+
+      **MARIA** | Emma Miller (she/her)
+
+      **KATHERINE** | Izzi Richardson (she/her)\
+
+      **BOYET** | Ciarán Ty (he/him)
+
+      **DON ARMADO** | Alvaro Blecua (he/him)
+
+      **MOTH** | Jess Treacy (she/her)
+
+      **JAQUENETTA** | Beth Dickson (she/her)\
+
+      **COSTARD** | Taylor Hooper (he/him)\
+
+      **DULL** | Mark Siddall (he/him)\
+
+      **HOLOFERNES** | Rob Wallis (he/him)\
+
+      **NATHANIEL** | Emma J Leaver (she/her)\
+
+      **MERCADE** | Ciara McGovern (she/her)\
+
+      **ENSEMBLE** | Angel Fagbola (she/her)\
+
+      **ENSEMBLE** | Ellie Lambrou (she/her)\
+
+      **ENSEMBLE** | Francesca Hayes (she/her)\
+
+      **ENSEMBLE** | Iris Leyi Wang (she/they)
+
+      **ENSEMBLE** | Jude Keeling (he/him)
+
+      **ENSEMBLE** | Phoebe Alice Pope (she/her)\
+
+      **ENSEMBLE** | Sarah Allen-Sutter (she/her)
+
+      **ENSEMBLE** | Shivani Desani (she/her)
+
+      **ENSEMBLE** | Tasmin Jones (she/her)\
+
+      **ENSEMBLE** | Taylor Davidson (she/her)
+
+
+
+
       **CREATIVE TEAM**
 
 
@@ -61,8 +121,6 @@ metaDescription: Love's Labour's Lost is a sun-drenched, contemporary musical
 *Love’s Labour’s Lost* is a sun-drenched musical that reimagines Shakespeare’s comedy as a bittersweet rock musical set at a university college reunion. Alex Timbers and Michael Friedman have combined pop-rock bangers, outrageous gags, and plenty of nods to the original. 
 
 Featuring a riot of vows, disguises, and romance gone wrong – the King and his friends renew a vow they made when they graduated to avoid all pleasures and all women. That plan unravels when the Princess and her companions arrive. This production will question what it means to promise something, and what it means to break it.  Smart, sexy, and gloriously silly, this is Shakespeare like you’ve never seen him before.
-
-**Audition information can be found [HERE](https://www.sedos.co.uk/events/love-s-labour-s-lost-the-musical-auditions).**
 
 “This gleeful riff on Shakespeare is a tall, fruity drink of intoxicating delight. Friedman finds the sweet spot between giddy pop grooves and bruised, ruminating lyrics, creating a dual sensation of silliness and heartache."
 *Time Out New York*
