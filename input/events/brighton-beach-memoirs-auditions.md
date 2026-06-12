@@ -31,7 +31,7 @@ Sign up to attend at [membership.sedos.co.uk](https://membership.sedos.co.uk/si
 [Vibast Community Centre](https://www.sedos.co.uk/venues/vibast), 167 Old Street, London EC1V 9NH
 
 **First rounds: Sunday 14 June, 1-7pm**\
-[King Square Community Centre,](<>) Blackwell House, Pankhurst Terrace, London, EC1Y 8DY\
+12 Bride Lane, London EC4Y 8JP\
 \
 **Recalls (by invitation): Wednesday 17 June, 7-10pm**\
 [King Square Community Centre,](<>) Blackwell House, Pankhurst Terrace, London, EC1Y 8DY
