@@ -31,27 +31,27 @@ sections:
       **CAST**
 
 
-      **THE KING** | Arthur James Page (he/him)
+      **THE KING** | Arthur James Page (he/him)\
 
-      **BEROWNE** | Alex Stephenson (he/him)
+      **BEROWNE** | Alex Stephenson (he/him)\
 
-      **LONGAVILLE** | Joby Blair (he/him)
+      **LONGAVILLE** | Joby Blair (he/him)\
 
       **DUMAINE** | Edward Horrocks (he/him)\
 
-      **THE PRINCESS** | Anna Colless (she/her)
+      **THE PRINCESS** | Anna Colless (she/her)\
 
-      **ROSALINE** | Rachel Clements (she/her)
+      **ROSALINE** | Rachel Clements (she/her)\
 
-      **MARIA** | Emma Miller (she/her)
+      **MARIA** | Emma Miller (she/her)\
 
       **KATHERINE** | Izzi Richardson (she/her)\
 
-      **BOYET** | Ciarán Ty (he/him)
+      **BOYET** | Ciarán Ty (he/him)\
 
-      **DON ARMADO** | Alvaro Blecua (he/him)
+      **DON ARMADO** | Alvaro Blecua (he/him)\
 
-      **MOTH** | Jess Treacy (she/her)
+      **MOTH** | Jess Treacy (she/her)\
 
       **JAQUENETTA** | Beth Dickson (she/her)\
 
@@ -71,21 +71,19 @@ sections:
 
       **ENSEMBLE** | Francesca Hayes (she/her)\
 
-      **ENSEMBLE** | Iris Leyi Wang (she/they)
+      **ENSEMBLE** | Iris Leyi Wang (she/they)\
 
-      **ENSEMBLE** | Jude Keeling (he/him)
+      **ENSEMBLE** | Jude Keeling (he/him)\
 
       **ENSEMBLE** | Phoebe Alice Pope (she/her)\
 
-      **ENSEMBLE** | Sarah Allen-Sutter (she/her)
+      **ENSEMBLE** | Sarah Allen-Sutter (she/her)\
 
-      **ENSEMBLE** | Shivani Desani (she/her)
+      **ENSEMBLE** | Shivani Desani (she/her)\
 
       **ENSEMBLE** | Tasmin Jones (she/her)\
 
       **ENSEMBLE** | Taylor Davidson (she/her)
-
-
 
 
       **CREATIVE TEAM**
