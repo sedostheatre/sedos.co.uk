@@ -22,7 +22,7 @@ Information is now available about *[Be More Chill](https://www.sedos.co.uk/show
 **SIGN UP**
 
 **Workshop sign up:** [live now](https://membership.sedos.co.uk/signup/160)\
-**Auditions sign up live:** Tuesday 16 June
+**Auditions sign up live:** [live now](https://membership.sedos.co.uk/signup/162)
 
 ## [FULL AUDITION NOTICE](https://drive.google.com/drive/folders/1fZJkHT3H3RS-Tdgdn3moJWYMTjZwUdYQ?usp=drive_link)
 
