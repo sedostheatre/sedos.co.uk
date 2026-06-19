@@ -24,8 +24,18 @@ box-office-link: https://sedos.ticketsolve.com/ticketbooth/shows/1173673247
 box-office-text: Book tickets
 sections:
   - order: 1
-    title: CREATIVE TEAM
+    title: CAST & CREATIVE TEAM
     body: |-
+      **CAST**
+
+      **EUGENE JEROME** | Daniel Cox\
+      **KATE JEROME** | Renée Foster\
+      **BLANCHE MORTON** | Carly Garrod\
+      **LAURIE MORTON** | Natasha Keith\
+      **NORA MORTON** | Isobel Lawson\
+      **STANLEY JEROME** | Barnaby Howe\
+      **JACK JEROME** | David Pearson
+
       **CREATIVE TEAM**
 
       **DIRECTOR** | Nick Mouton\
