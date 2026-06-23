@@ -200,6 +200,74 @@ sections:
 
       ^^^ Alice in rehearsal
     title: FROM THE DIRECTOR
+  - order: 5
+    title: FROM THE MOVEMENT DIRECTOR
+    body: >-
+      Like many people, my first experience with *The Curious Incident of the
+      Dog in the Night-Time* was watching the National Theatre production while
+      I was in high school. What I remember most vividly is the physical
+      storytelling throughout the piece, particularly the lifts and movement
+      sequences. Since then, I have become a competitive cheerleader and musical
+      theatre choreographer, often looking for opportunities to incorporate
+      lifts and physical theatre into my work. This production felt like the
+      perfect opportunity to bring together those experiences in a way that
+      serves the story.
+
+
+      Despite my love of movement, I am strongly against adding choreography or movement where it does not belong. Ironically, my last few productions have involved introducing movement into plays and musicals where it is not traditionally expected. However, I ensure every movement choice must have a clear purpose. Movement is only included when it serves the storytelling and deepens the audience’s understanding of the piece.
+
+
+      ^^^
+
+      ![](/assets/55284876983_a45abe9301_c.jpg)
+
+      ^^^ The Movement Chorus rehearse a lift
+
+
+      From the beginning, it was important to me that this production presented Christopher authentically and respectfully. Christopher’s perspective is at the heart of the play, and every creative decision was made with the intention of helping the audience understand and connect with his experience of the world.
+
+
+      One of the ways I explored this was through the inclusion of a Movement Chorus. Their role is not simply to decorate the action or provide visual spectacle. Instead, they represent Christopher’s inner world. While characters such as Ed and Judy are often able to express their emotions directly, Christopher experiences and processes the world differently. The Movement Chorus provides a physical representation of the thoughts, feelings, and sensory experiences that he does not always communicate through words.
+
+
+      Throughout the play, we see how the actions of others affect Christopher and shape his emotional state. The Movement Chorus highlights not only these external pressures but also the impact of his own thoughts and perceptions. They embody moments of confusion, anxiety, excitement, and joy, allowing the audience to experience the intensity of Christopher’s internal world alongside him.
+
+
+      For this reason, the Movement Chorus appears only when Christopher is not directly engaged in conversation with another character. Then, the audience is invited into his private experience, creating a visual and emotional language for what may otherwise remain unseen.
+
+
+      A particular highlight of the rehearsal process was developing the two train station sequences with the full company. 
+
+
+      Expanding beyond the Movement Chorus and involving a much larger ensemble allowed us to create bold visual images and intricate patterns of movement. I enjoy creating formations that transform and evolve, and these sequences provided an exciting opportunity to explore that on a larger scale while reflecting the overwhelming energy and complexity of Christopher’s journey.
+
+
+      ^^^
+
+      ![](/assets/55331986133_80eb38ecd5_c-1-.jpg)
+
+      ^^^ Rehearsal picture – blocks are used to create different locations
+
+
+      *The Curious Incident of the Dog in the Night-Time* is also a uniquely demanding play from a technical perspective. The story moves rapidly between locations, times, and perspectives, often changing from one scene to the next in an instant. 
+
+
+      As a result, every transition has been carefully considered and meticulously choreographed to ensure the production flows seamlessly, keeping the audience immersed in Christopher’s world while every performer arrives exactly where they need to be.
+
+
+      My hope is that this approach deepens the audience’s understanding of Christopher’s journey while remaining truthful to the story at the heart of the play.
+
+
+      *Emma Bowker 
+
+      Movement Director and Director*
+
+
+      ^^^
+
+      ![](/assets/55283815362_a363ba9e90_c.jpg)
+
+      ^^^ Emma in rehearsal
 metaTitle: The Curious Incident of the Dog in the Night-Time plays at the
   Bridewell Theatre 14-18 July 2026
 metaDescription: The Curious Incident of the Dog in the Night-Time brings a
