@@ -125,7 +125,7 @@ Featuring a riot of vows, disguises, and romance gone wrong – the King and his
 
 Director Owen Thomas James commented: “*Love’s Labour’s Lost* has always been my favourite play. It strikes such a charming balance between sarcastic wit and emotional poignancy, and naturally lends itself to musical accompaniment. This contemporary adaptation makes Shakespeare’s delightful comedy accessible for everyone, with a high energy pop-rock score that pokes fun at the original language and supercharges the silliness. I am absolutely delighted to be directing this for Sedos, who have a strong appetite for bold re-imaginings of the Bard. This is going to be luxurious, laugh-out-loud funny, and deeply relatable, celebrating all of love’s absurdity in the modern world. I can’t wait to get started.”
 
-**Content warnings:** none.
+**Content warnings:** some strong language and sexually suggestive content; recommended for ages 14+.
 
 **SPECIAL OFFER:** book any four shows (or more) in our 2026 season in one transaction and receive a 25% discount. [More info](<>).
 
