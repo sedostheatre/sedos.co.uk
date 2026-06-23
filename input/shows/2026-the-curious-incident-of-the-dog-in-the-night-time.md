@@ -258,9 +258,9 @@ sections:
       My hope is that this approach deepens the audience’s understanding of Christopher’s journey while remaining truthful to the story at the heart of the play.
 
 
-      *Emma Bowker 
+      *Emma Bowker* \
 
-      Movement Director and Director*
+      *Movement Director and Director*
 
 
       ^^^
