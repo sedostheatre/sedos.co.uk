@@ -54,14 +54,15 @@ namespace Sedos.Pipelines
                 { "assassins", "https://drive.google.com/file/d/12DOeIobdeed6B3TiWogfNJszH8hjpopu/view" },
                 { "assassins-auditions", "https://docs.google.com/document/d/1rKDpC4T8sxlielJKdqhDQDJT7ACg2a8Ex3MVxV-pyLQ/edit?usp=drivesdk" },
                 { "dreamgirls-auditions", "https://drive.google.com/drive/folders/1o5X6vaK-Kjs5HdBmaE8zSKWOUo_wTZhp" },
-		{ "piratequeenprog", "https://marvelapp.com/prototype/113gdcd4/screen/97257788" },
-		{ "cast-feedback", "https://forms.gle/kyikJLPRRffHGin26" },
-		{ "team-feedback", "https://forms.gle/9dKpokf16ZsdeuAD6" },
-		{ "newsletterform", "https://tinyurl.com/sedosnewslettersubmit" },
+                { "piratequeenprog", "https://marvelapp.com/prototype/113gdcd4/screen/97257788" },
+                { "cast-feedback", "https://forms.gle/kyikJLPRRffHGin26" },
+                { "team-feedback", "https://forms.gle/9dKpokf16ZsdeuAD6" },
+                { "newsletterform", "https://tinyurl.com/sedosnewslettersubmit" },
                 { "company/notice", "https://drive.google.com/file/d/17yGmQM4SB-53N7Piwm6aXLtQ65__J1PL/view?usp=drive_link" },
                 { "company/form", "https://docs.google.com/forms/d/e/1FAIpQLSeY1TSPU4Z3JtZTnznhSTTY-GLJebBX0JgfLV9z7MKYmlxdqg/viewform" },
                 { "company/material", "https://drive.google.com/drive/folders/1xjjA26fSEWj2QIHoaldDbzcrY3w9RdYy?usp=drive_link" },
                 { "supporters", "https://mailchi.mp/4c995b769355/supportersofsedos" },
+                { "alice", "https://www.sedos.co.uk/shows/2026-the-curious-incident-of-the-dog-in-the-night-time#fromthedirector" },
             };
 
             ProcessModules = new ModuleList
