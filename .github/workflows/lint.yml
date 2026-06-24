@@ -12,7 +12,7 @@ jobs:
       contents: write
     steps:
       - name: Checkout Repo
-        uses: actions/checkout@v6
+        uses: actions/checkout@v7
       - name: Node Install
         run: 'npm ci'
       - name: Lint Styles
