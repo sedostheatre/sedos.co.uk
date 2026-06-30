@@ -2,6 +2,8 @@
 title: How to pitch us a show for 2027
 date: 2026-07-03
 image: /assets/pitches2027websiteimage.jpeg
+metaTitle: Sedos pitch 2027 info
+metaDescription: Complete guidance on how to pitch a show for Sedos to stage in 2027
 ---
 *3 July 2026*
 
@@ -21,4 +23,4 @@ Pitch submitters will hear next steps by **end of the day on Thursday 6 August**
 
 Please note: we may ask you to come and share your vision with the Management Committee on **Saturday 15 August**, so please let us know if you are unavailable on this date. These meetings will be in person, however we are happy to meet you virtually if you are not able to attend in person.
 
-![](/assets/pitches2027websiteimage.jpeg)
+![Sedos pitch 2027](/assets/pitches2027websiteimage.jpeg)
