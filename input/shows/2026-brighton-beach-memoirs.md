@@ -63,7 +63,7 @@ Director Nick Mouton commented: “I’ve always been interested in life in Amer
 >“An exquisite balance between comedy and pathos, its impeccable ensemble landing every laugh while exploring every emotional nuance to build a tremendously moving portrait of family life.” 
 ><footer><cite><a target="_blank" href="https://variety.com/2009/legit/reviews/the-neil-simon-plays-brighton-beach-memoirs-1200476694/">Variety</a></cite></footer>
 
-**Content warnings:** this production is suitable for audiences aged 15+. Contains: language and attitudes reflective of 1930s America, which include racial terminologies; references to alcoholism, sexual fantasies and gambling; themes of family conflict, illness and bereavement.
+**Content warnings:** this production is suitable for audiences aged 15+. Contains: language and attitudes reflective of 1930s America, which include outmoded racial terminology, references to alcoholism and gambling, adolescent sexual behaviour including masturbation, incestuous fantasies and voyeurism; themes of family conflict, illness and bereavement.
 
 **AUDITIONS:** find out about the [*Brighton Beach Memoirs* auditions](https://www.sedos.co.uk/events/brighton-beach-memoirs-auditions). 
 
