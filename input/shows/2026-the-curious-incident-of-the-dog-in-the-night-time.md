@@ -287,7 +287,7 @@ The neighbour’s dog is found dead, speared with a garden fork. Fifteen-year-ol
 
 Director Alice Bennett commented: "As an autistic person, *The Curious Incident of the Dog in the Night-Time* has always felt personal to me. The show is sharp, moving, and unlike any other play you’ll see on stage. We want this production to be dynamic and bring the audience into Christopher’s world through sound, lighting and movement. I’m so excited to be a part of bringing it to the Sedos stage!"
 
-**Content warnings:** killing of an animal, death of a family member, violent behaviour including domestic violence, ableist language, strong language, loud noises and moments of visual intensity to reflect parts of the autistic experience (we will make a timetable of the show available to audience members, detailing when these things occur). Recommended for ages 10+
+**Content warnings:** killing of an animal, death of a family member, violent behaviour including domestic violence, ableist language, strong language, loud noises and moments of visual intensity to reflect parts of the autistic experience (we will make a timetable of the show available to audience members, detailing when these things occur). Electronic cigarettes are used on stage. Recommended for ages 10+
 
 **SPECIAL OFFER:** book any four shows (or more) in our 2026 season in one transaction and receive a 25% discount. [More info](https://www.sedos.co.uk/news/2025-11-19-2026-sedos-season-discount). 
 
