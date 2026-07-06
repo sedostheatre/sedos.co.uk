@@ -34,7 +34,7 @@ Find out more about [Simprov](https://www.sedos.co.uk/regular-events/simprov).
 
 **July 2026** | There will be no Jam in July.
 
-**4 August 2026** | Simprov with guest acts First Time Tales and George And Sam Are Lost.
+**4 August 2026** | Simprov with guest acts First Time Tales and George and Sam Are Lost.
 
 ![](/assets/georgeandsamarelost-horizontal.jpg)
 
