@@ -3,7 +3,7 @@ title: Simprov
 times: []
 image: /assets/simprov-july-24-2.jpg
 header-image: /assets/simprov-july-24-header.jpg
-venue: Theatre Deli
+venue: ""
 recurrence: Fridays, 7pm
 ticket-prices: "£8 per person (£5 for Sedos members) "
 metaTitle: "London improvisation group: Simprov is run by amateur theatre company Sedos"
@@ -24,7 +24,7 @@ Our open-to-all session! Join us every Friday night (7-9.30pm) for an evening of
 
 Perfect for the complete beginner as well as the hardened improv veteran, sessions with our London improvisation group will explore the fundamental principles of improv such as making bold choices, character development and finding your ‘game’.
 
-Simprov takes place at Theatre Deli, Studio 8, 107 Leadenhall Street, EC3A 4AF. \
+Simprov takes place at [12 Bride Lane](https://sbf.org.uk/venue-hire/12-bride-lane/), London EC4Y 8JP\
 \
 The cost is £8 per person (£5 for Sedos members) to pay for the room rental. See you there! 
 
