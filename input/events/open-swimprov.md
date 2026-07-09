@@ -36,6 +36,8 @@ Find out more about [Simprov](https://www.sedos.co.uk/regular-events/simprov).
 
 **4 August 2026** | Simprov with guest acts First Time Tales and George and Sam Are Lost.
 
+![](/assets/firsttimetakes.jpg)
+
 ![](/assets/georgeandsamarelost-horizontal.jpg)
 
 ![](/assets/simprov-logo-800.jpg)
