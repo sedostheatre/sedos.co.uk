@@ -25,8 +25,54 @@ box-office-link: https://sedos.ticketsolve.com/ticketbooth/shows/1173669361
 box-office-text: ""
 sections:
   - order: 1
-    title: CREATIVE TEAM
+    title: CAST & CREATIVE TEAM
     body: >-
+      **CAST**\
+
+      \
+
+      **JEREMY HEERE** | Tom Harper (he/him)\
+
+      **MICHAEL MELL** | Kenny Adegbola (he/him)\
+
+      **CHRISTINE CANIGULA** | Martha Khurshid (she/her)\
+
+      **THE SQUIP** | Joe McWilliam (he/him)\
+
+      **RICH GORANSKI** | Reece Donn (he/him)\
+
+      **JAKE DILLINGER** | Joshua Sanchez (he/him)\
+
+      **CHLOE VALENTINE** | Isabelle McFarlane (she/her)\
+
+      **BROOKE LOHST** | Hannah Smith (she/her)\
+
+      **JENNA ROLAN** | Lara Sweeney (she/they)\
+
+      **MR. HEERE / MR. REYES / SCARY STOCKBOY** | Simon Evison (he/him)\
+
+      **ENSEMBLE** | Aimee Dickinson (they/them)\
+
+      **ENSEMBLE** | Amina Haggen (she/her)\
+
+      **ENSEMBLE** | Bhawanni Kirkland (she/her)\
+
+      **ENSEMBLE** | Eli Oliver (he/him)\
+
+      **ENSEMBLE** | Kate Vidal-Hall (she/her)\
+
+      **ENSEMBLE / DANCE CAPTAIN** | Lissy Foyle (she/her)\
+
+      **ENSEMBLE** | Lottie Regan (she/her)\
+
+      **ENSEMBLE** | Tara Olawoye (she/her)\
+
+      \
+
+      **TEAM**\
+
+      \
+
       **DIRECTOR** | Miranda Evans (she/her)\
 
       **MUSICAL DIRECTOR** | Oscar Denihan (he/him)\
