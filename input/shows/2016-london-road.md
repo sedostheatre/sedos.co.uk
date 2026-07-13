@@ -34,7 +34,7 @@ sections:
       **RON** | Stephen Beeny\
       **ROSEMARY** | Charlotte Price\
       **TIM** | Tom Brennan\
-      **JAN** | Abigail Franci\
+      **JAN** | Abigail Francis\
       **GORDON** | Mark Londesborough\
       **HELEN** | Kate Gledhill\
       **DODGE** | Andrew Macpherson\
