@@ -93,6 +93,8 @@ sections:
   - order: 3
     title: VIDEO
     body: |-
+      <div class="video-responsive"><?# YouTube 2rJIf01oT7w /?></div>
+
       <div class="video-responsive"><?# YouTube 6QJedocXN3A /?></div>
 
       <div class="video-responsive"><?# YouTube eucHQ8msDns /?></div>
