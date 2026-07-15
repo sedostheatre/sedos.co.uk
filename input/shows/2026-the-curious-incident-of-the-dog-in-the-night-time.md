@@ -125,89 +125,6 @@ sections:
       width="800" height="600" alt="The Curious Incident of the Dog in the
       Night-Time - 2026"/></a><script async
       src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-  - order: 4
-    body: >-
-      *The Curious Incident of the Dog in the Night-Time* may be one of the
-      highest-profile examples of autistic representation in popular culture.
-      The story follows Christopher, a 15-year-old boy from Swindon setting out
-      to investigate the death of his neighbour’s dog. As his investigation
-      unfolds, he discovers more secrets than he expected. At a time when
-      autistic characters were rarely given centre stage in literature and
-      mainstream theatre, Curious Incident’s success demonstrated that autistic
-      narratives could resonate with broad audiences and occupy the cultural
-      mainstream.
-
-
-      However, some autistic activists have criticised the show for its depiction of autism and for excluding the autistic community from a phenomenon ostensibly about their experience. Despite its shortcomings, when I saw the West End revival of the show in 2019, I was able to celebrate seeing a character onstage who experienced some of the same difficulties I faced as an autistic person. The story of Curious Incident, at its core, is the coming-of-age story of an autistic teenager. His assertion of independence and determination in the face of an ableist society is something I thought about for a while after seeing the show. Nevertheless, I have a gently antagonistic relationship with the show text and how it is often performed, and that tension is exactly why I wanted to direct the show and why I am so excited for you to see our production. 
-
-
-      ^^^
-
-      ![](/assets/curiousincidentrehearsal-igsize-45-copy.jpg)
-
-      ^^^ Elspeth Reid as Christopher and Elsa Gregori as his teacher, Siobhan, in rehearsal
-
-
-      “Nothing about us without us” is a key slogan of the global disability movement. However, the first performances in London and New York had no autistic actors, directors, or producers (at least openly). As an autistic person with ADHD, dyslexia, and dyspraxia, I wanted this production to include people with experience of how Christopher is discriminated against. 
-
-
-      When neurotypical actors have played Christopher, their performances have sometimes come across as affected and inauthentic. Our production has an AuDHD (AuDHD means someone who is autistic and has ADHD) performer, Elspeth, playing Christopher, who brings her own experiences to this role. 
-
-
-      Christopher is often portrayed with a more restrained and deadpan presentation in productions of the play, and this is one autistic experience. However, there is no single autistic experience; as the saying goes, “if you have met one autistic person, you have met one autistic person.” I therefore wanted to create a version of Christopher that draws on Elspeth’s own lived experience of autism and reflects a different, equally authentic autistic perspective, so Elspeth portrays a more physically expressive and excitable Christopher than in other productions.
-
-
-      I also wanted to steer Christopher’s teacher Siobhan away from being a patronising figure to someone who has a real kinship with him. This sense of connection is something that Elsa, who plays Siobhan, can bring out partly because she is neurodivergent herself.
-
-
-      Neurodivergent representation is not a panacea. The story as traditionally played can reinforce the harmful idea of disabled people being burdens on non-disabled people. This is in contrast with the “social model” of disability, which frames people as being disabled not by their impairments but by a society that does not accommodate or respect them. There is a tendency in productions of this show to frame Ed and Judy primarily as victims of circumstance – but, this production aims to bring out that while they love Christopher, this doesn’t excuse the harm they cause him. I hope to highlight in this production that Christopher is not the problem and instead it is the way he is treated, inspired by disability theatre which prioritises combating the oppression and erasure of disabled bodies in society.
-
-
-      ^^^
-
-      ![](/assets/curiousincidentrehearsal-igsize-35.jpg)
-
-      ^^^ Rehearsal photo of Elspeth Reid as Christopher and Sarah Berryman as his mother, Judy
-
-
-      The original story is set in the 90s-early 2000s, contextualising its depiction of autism. Christopher’s experience in the world would hopefully be different now, with more evolved support systems, understandings and technology in place. There are many adjustments that could be made for Christopher, some as simple as wearing noise-cancelling headphones in loud environments or as fundamental as not touching him without his consent. 
-
-
-      The play is told through Christopher’s memories that he has written in a book. It brings the audience inside Christopher’s brain, so they feel his passion for the things he is interested in, such as space and maths, and also understand the moments of distress and sensory overwhelm from Christopher’s point of view. Although I want audience members to experience sensory overwhelm, it is important that the neurodivergent community are not excluded. To allow people with sensory experiences similar to Christopher to enjoy this production, we have a relaxed performance – a first for Sedos. I also wanted every performance to be more inclusive, so we will provide a way for audience members to be aware of possible triggers through “timetables” that allow audiences to safely navigate the big sensory moments in the production.
-
-
-       As well as this, two performances of the production (including the relaxed performance) will be captioned, ensuring that D/deaf and hard of hearing audience members can fully engage with Christopher’s story. Captioning can also benefit audience members who process information differently, helping more people follow the dialogue and immerse themselves in the world of the play.
-
-
-      ^^^
-
-      ![](/assets/curiousincidentrehearsal-igsize-7.jpg)
-
-      ^^^ The Movement Chorus in rehearsal
-
-
-      I also have to mention our wonderful Movement Chorus and multi-role Ensemble. The original National Theatre production worked with Frantic Assembly to create movement for the play. I thought this was a very effective story-telling tool, so I had the idea of increasing the movement further with a six-person Movement Chorus to accompany the underscored scenes, representing how he’s feeling and what he’s going through. Movement is not my area of expertise, so I was delighted to get Emma Bowker involved to make this vision a reality! Movement, alongside the original music composed by Ollie Jones and projections designed by Ellen Regrave, help the audience see into Christopher’s mind. Although the show brings to the forefront several hard-hitting themes such as discrimination and bereavement, it is at the end of the day a dramatic comedy and I have thoroughly enjoyed working with our hilarious multi-role Ensemble to bring out those comedic moments even more than I have seen in other productions. 
-
-
-      I hope that the audience feel like they understand Christopher, take a critical approach to how other characters treat him in the play, and think more widely about how disabled oppression can be combatted. Without including a spoiler, at one point in the play, Christopher is told by another person to stop speaking about something because the audience would find it too boring. I want audiences to ponder on the question: what kind of play would Christopher have made if he’d been in charge of telling his own story?
-
-
-      *Alice Bennett*\
-
-      *Director*
-
-
-      **Captioned performance:** 15 July, 7.30pm\
-
-      **Captioned and relaxed performance:** 18 July, 1pm
-
-
-      ^^^
-
-      ![](/assets/curiousincidentrehearsal-igsize-53.jpg)
-
-      ^^^ Alice in rehearsal
-    title: FROM THE DIRECTOR
   - order: 5
     title: FROM THE MOVEMENT DIRECTOR
     body: >-
@@ -289,7 +206,7 @@ The neighbour’s dog is found dead, speared with a garden fork. Fifteen-year-ol
 “The novel gets you inside Christopher's head, but the stage version does more, giving Christopher's internal response to the world an external manifestation. That world is often a surreal and scary place, but oddly beautiful and bizarre, too: I'll never look at a Battenberg cake in the same way again.”\
 *The Guardian*
 
-Director Alice Bennett commented: "As an autistic person, *The Curious Incident of the Dog in the Night-Time* has always felt personal to me. The show is sharp, moving, and unlike any other play you’ll see on stage. We want this production to be dynamic and bring the audience into Christopher’s world through sound, lighting and movement. I’m so excited to be a part of bringing it to the Sedos stage!"
+Director Alice Bennett commented: "The show is sharp, moving, and unlike any other play you’ll see on stage. We want this production to be dynamic and bring the audience into Christopher’s world through sound, lighting and movement. I’m so excited to be a part of bringing it to the Sedos stage!"
 
 **Content warnings:** killing of an animal, death of a family member, violent behaviour including domestic violence, ableist language, strong language, loud noises and moments of visual intensity to reflect parts of the autistic experience (we will make a timetable of the show available to audience members, detailing when these things occur). Electronic cigarettes are used on stage. Recommended for ages 10+
 
