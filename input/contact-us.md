@@ -27,4 +27,4 @@ For everything to do with the website: [webmaster@sedos.co.uk](mailto:webmaster@
 
 If you would like to raise any safeguarding or welfare issues please contact [safeguarding@sedos.co.uk](mailto:safeguarding@sedos.co.uk) or [welfare@sedos.co.uk](mailto:welfare@sedos.co.uk) 
 
-If you would like to make a formal complaint, email [complaints@sedos.co.uk](mailto:complaints@sedos.co.uk), these emails will go to our Secretary (Graham White) and Secretary of the Management Committee (Olly Levett).
+If you would like to make a formal complaint, email [complaints@sedos.co.uk](mailto:complaints@sedos.co.uk), these emails will go to the secretary of the Management Committee (Olly Levett).
