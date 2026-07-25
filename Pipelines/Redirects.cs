@@ -63,6 +63,7 @@ namespace Sedos.Pipelines
                 { "company/material", "https://drive.google.com/drive/folders/1xjjA26fSEWj2QIHoaldDbzcrY3w9RdYy?usp=drive_link" },
                 { "supporters", "https://mailchi.mp/4c995b769355/supportersofsedos" },
                 { "alice", "https://www.sedos.co.uk/shows/2026-the-curious-incident-of-the-dog-in-the-night-time#fromthedirector" },
+                { "curious/survey", "https://forms.gle/PiWnK8xX8ti1vv5N6" },
             };
 
             ProcessModules = new ModuleList
