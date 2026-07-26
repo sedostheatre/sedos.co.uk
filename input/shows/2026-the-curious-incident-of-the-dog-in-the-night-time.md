@@ -154,6 +154,16 @@ sections:
       >…a story told with clarity, warmth and good humour.
 
       ><footer><cite><a target="_blank" href="https://liamodell.com/2026/07/16/the-curious-incident-of-the-dog-in-the-night-time-sedos-london-bridewell-theatre-mark-haddon-simon-stephens-autism-neurodivergent/">The Curious Incident of the Dog in The Night-Time, 2026, Liam O’Dell (****)</a></cite></footer>
+
+
+      >…this often does feel very similar to a West End production, something which amateur group Sedos should be extremely proud of.
+
+      ><footer><cite><a target="_blank" href="https://everything-theatre.co.uk/2026/07/review-the-curious-incident-of-the-dog-in-the-night-time-bridewell-theatre/">The Curious Incident of the Dog in The Night-Time, 2026, Everything Theatre</a></cite></footer>
+
+
+      >Known for its high standard, Sedos has perhaps outdone themselves with this production and is a company well worth watching out for. 
+
+      ><footer><cite><a target="_blank" href="https://www.adventuresintheatreland.com/post/the-curious-incident-of-the-dog-in-the-night-time-bridewell-theatre">The Curious Incident of the Dog in The Night-Time, 2026, Adventures in Theatreland (****)</a></cite></footer>
 metaTitle: The Curious Incident of the Dog in the Night-Time plays at the
   Bridewell Theatre 14-18 July 2026
 metaDescription: The Curious Incident of the Dog in the Night-Time brings a
