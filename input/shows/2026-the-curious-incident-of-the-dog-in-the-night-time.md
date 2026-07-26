@@ -125,6 +125,35 @@ sections:
       width="800" height="600" alt="The Curious Incident of the Dog in the
       Night-Time - 2026"/></a><script async
       src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+  - order: 4
+    title: REVIEWS
+    body: >-
+      >…a moving and beautifully crafted production that captures both the
+      humour and heartbreak of Christopher Boone's extraordinary journey…
+      Powerfully performed, thoughtfully directed and deeply empathetic, this is
+      a production that deserves to be seen.
+
+      ><footer><cite><a target="_blank" href="https://www.londontheatrereviews.co.uk/post.cfm?p=28353">The Curious Incident of the Dog in The Night-Time, 2026, London Theatre Reviews (****)</a></cite></footer>
+
+
+      >This was an exceptional production, full of intelligence, compassion, and creative energy. Sedos have once again proven that they are one of London’s most exciting nonprofessional theatre companies, and The Curious Incident of the Dog in the Night-Time is a triumph well worth seeing.
+
+      ><footer><cite><a target="_blank" href="https://number9reviews.blogspot.com/2026/07/theatre-review-curious-incident-of-dog.html">The Curious Incident of the Dog in The Night-Time, 2026, Number 9 Reviews</a></cite></footer>
+
+
+      >This fresh interpretation by Sedos of the multi-award-winning play, that premiered in 2012 at the National Theatre, is playing for just five days. I can only say ‘Catch it’. Whether you have read Mark Haddon’s 2003 novel, or seen the original play – which takes a different viewpoint on the story – this is a sparkling version
+
+      ><footer><cite><a target="_blank" href="https://thespyinthestalls.com/2026/07/the-curious-incident/">The Curious Incident of the Dog in The Night-Time, 2026, The Spy in the Stalls (****)</a></cite></footer>
+
+
+      >Sedos have delivered far more than simply another strong production; they have created one that demonstrates what can be achieved when inclusivity is embedded into the creative journey from the beginning. Every artistic decision from the performances to the movement and technical design, feels rooted in a genuine understanding of the story they are telling.
+
+      ><footer><cite><a target="_blank" href="https://musicaltheatremusings.co.uk/the-curious-incident-of-the-dog-in-the-night-time-sedos/">The Curious Incident of the Dog in The Night-Time, 2026, Musical Theatre Musings</a></cite></footer>
+
+
+      >…a story told with clarity, warmth and good humour.
+
+      ><footer><cite><a target="_blank" href="https://liamodell.com/2026/07/16/the-curious-incident-of-the-dog-in-the-night-time-sedos-london-bridewell-theatre-mark-haddon-simon-stephens-autism-neurodivergent/">The Curious Incident of the Dog in The Night-Time, 2026, Liam O’Dell (****)</a></cite></footer>
 metaTitle: The Curious Incident of the Dog in the Night-Time plays at the
   Bridewell Theatre 14-18 July 2026
 metaDescription: The Curious Incident of the Dog in the Night-Time brings a
