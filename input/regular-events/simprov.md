@@ -3,7 +3,7 @@ title: Simprov
 times: []
 image: /assets/simprov-july-24-2.jpg
 header-image: /assets/simprov-july-24-header.jpg
-venue: ""
+venue: 12 Bride Lane
 recurrence: Fridays, 7pm
 ticket-prices: "£8 per person (£5 for Sedos members) "
 metaTitle: "London improvisation group: Simprov is run by amateur theatre company Sedos"
