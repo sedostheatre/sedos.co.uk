@@ -33,13 +33,13 @@ Find out more about [Simprov](https://www.sedos.co.uk/regular-events/simprov).
 
 ## **Featuring Upcoming Acts...**
 
-**1 September 2026** | Simprov with guest acts TBA
+**1 September 2026** | Simprov with guest acts Sam and AJ
 
-**6 October 2026** | Simprov with guest acts TBA
+![](/assets/eveningwithsamandaj.jpg)
 
-![](/assets/firsttimetakes.jpg)
+**6 October 2026** | Simprov with guest acts Passion Project
 
-![](/assets/georgeandsamarelost-horizontal.jpg)
+![](/assets/passionproject.jpg)
 
 ![](/assets/simprov-logo-800.jpg)
 
