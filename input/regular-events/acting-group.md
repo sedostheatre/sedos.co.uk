@@ -1,13 +1,12 @@
 ---
 title: Acting Group
 times:
-  - time: 2025-02-20 11:15
-  - time: 2025-03-20 11:15
-  - time: 2025-04-17 11:15
-  - time: 2025-05-22 11:15
-  - time: 2025-06-26 11:16
+  - time: 2026-08-20 19:30
+  - time: 2026-09-17 19:30
+  - time: 2026-10-15 19:30
+  - time: 2026-11-19 19:30
 image: /assets/acting-group-may-2024.jpg
-venue: Theatre Deli
+venue: Wheatsheaf Hall
 recurrence: Once a month on Thursdays
 ticket-prices: £6 for members; £8 for non-members
 metaTitle: London Acting Group with Sedos
