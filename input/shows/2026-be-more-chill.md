@@ -53,7 +53,7 @@ sections:
 
       **ENSEMBLE** | Aimee Dickinson (they/them)\
 
-      **ENSEMBLE** | Faith Blackden\
+      **ENSEMBLE** | Faith Blackden (she/Her)\
 
       **ENSEMBLE** | Bhawanni Kirkland (she/her)\
 
