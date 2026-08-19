@@ -33,9 +33,11 @@ Find out more about [Simprov](https://www.sedos.co.uk/regular-events/simprov).
 
 ## **Featuring Upcoming Acts...**
 
-**1 September 2026** | Simprov with guest acts Sam and AJ
+**1 September 2026** | Simprov with guest acts Sam and AJ and Shaggy Dog
 
 ![](/assets/eveningwithsamandaj.jpg)
+
+![](/assets/shaggydog.jpg)
 
 **6 October 2026** | Simprov with guest acts Passion Project
 
