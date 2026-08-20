@@ -41,6 +41,9 @@ sections:
       **DIRECTOR** | Nick Mouton\
       **ASSISTANT DIRECTOR** | Sarah Berryman\
       **PRODUCER** | Paul Caira
+  - order: 2
+    title: VIDEOS
+    body: <div class="video-responsive"><?# YouTube W_tp98u_Qfo /?></div>
 metaTitle: Brighton Beach Memoirs plays at the Bridewell Theatre 8-12 September 2026
 metaDescription: Brighton Beach Memoirs is a semi-autobiographical coming-of-age
   comedy by Neil Simon. It is part of Sedos’ 2026 season and plays at the
