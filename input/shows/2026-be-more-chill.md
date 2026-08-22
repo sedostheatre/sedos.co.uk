@@ -19,7 +19,7 @@ price: "14"
 primary-color: "#8a4b99"
 header-image: /assets/be-more-chill-1791-x-1391-px-1-.png
 header-image-contain: false
-flyer: /assets/iggrid4x5-bemorechillnew.jpg
+flyer: /assets/be-more-chill-flyer-front.png
 box-office-open: true
 box-office-link: https://sedos.ticketsolve.com/ticketbooth/shows/1173669361
 box-office-text: ""
