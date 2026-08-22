@@ -18,7 +18,7 @@ price: "12.50"
 primary-color: "#ac3e0b"
 header-image: /assets/brighton-beach-memoirs-baseball-image-800.jpg
 header-image-contain: false
-flyer: /assets/brightonbeachmemoirs.png
+flyer: /assets/brighton-beach-memoirs-flyer-800.png
 box-office-open: true
 box-office-link: https://sedos.ticketsolve.com/ticketbooth/shows/1173673247
 box-office-text: Book tickets
