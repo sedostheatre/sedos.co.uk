@@ -93,6 +93,12 @@ sections:
 
 
       Are you a *Be More Chill* superfan? Do you want to get involved with the production? If so, we’d love to hear from you - email [production@sedos.co.uk](mailto:production@sedos.co.uk)
+  - order: 2
+    title: FLYER
+    body: |-
+      ![](/assets/be-more-chill-flyer-front.png)
+
+      ![](/assets/be-more-chill-flyer-back.png)
 metaTitle: Be More Chill plays at the Bridewell Theatre 20-24 October 2026
 metaDescription: "Life is not unlike a video game. And in a video game success
   requires just two things: good hand-eye coordination… and a cheat code. Be
