@@ -44,6 +44,12 @@ sections:
   - order: 2
     title: VIDEOS
     body: <div class="video-responsive"><?# YouTube W_tp98u_Qfo /?></div>
+  - order: 3
+    title: FLYER
+    body: |-
+      ![](/assets/brighton-beach-memoirs-flyer-800.png)
+
+      ![](/assets/bbm-flyer-back-800.png)
 metaTitle: Brighton Beach Memoirs plays at the Bridewell Theatre 8-12 September 2026
 metaDescription: Brighton Beach Memoirs is a semi-autobiographical coming-of-age
   comedy by Neil Simon. It is part of Sedos’ 2026 season and plays at the
