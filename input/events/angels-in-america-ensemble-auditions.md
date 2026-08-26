@@ -6,7 +6,7 @@ times:
 image: /assets/angelsinamerica.png
 venue: 12 Bride Lane
 ---
-*Angels In America* are excited to add four singing ensemble members to the existing cast of eight. 
+*[Angels In America](https://www.sedos.co.uk/shows/2026-angels-in-america)* are excited to add four singing ensemble members to the existing cast of eight. 
 
 We are looking for four talented vocalists to add an a capella soundscape to the show as well as aiding in non-speaking roles throughout both parts of the play.
 
