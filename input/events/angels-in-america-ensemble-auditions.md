@@ -12,9 +12,9 @@ We are looking for four talented vocalists to add an a capella soundscape to the
 
 **KEY DATES**
 
-**Online Video Submission Due:** Sunday 6 September at 6pm
-**Recalls (by invitation):** Tuesday 15 September, 7-10pm (12 Bride Lane, EC4Y 8JP)
-First Group Meet: **Thursday 17 September, 7-10pm (12 Bride Lane, EC4Y 8JP)**
+**Online Video Submission Due:** Sunday 6 September at 6pm\
+**Recalls (by invitation):** Tuesday 15 September, 7-10pm (12 Bride Lane, EC4Y 8JP)\
+**First Group Meet:** Thursday 17 September, 7-10pm (12 Bride Lane, EC4Y 8JP)
 
 ## [FULL AUDITION NOTICE](https://drive.google.com/drive/folders/1bZygaV1KU7xcLW9QhL9HosCnCgqAHVm9?usp=sharing)
 
