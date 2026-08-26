@@ -29,3 +29,7 @@ This is not a traditional chorus or solely off-stage vocal role: the foursemble 
 You do not need to identify primarily as an actor or a singer or a dancer. We are looking for performers who relish the space between all of them.
 
 Full information in the [audition notice](https://drive.google.com/drive/folders/1bZygaV1KU7xcLW9QhL9HosCnCgqAHVm9?usp=sharing).
+
+**ANY QUESTIONS**
+
+Please email producer George Langdown at [angelsinamerica@sedos.co.uk](mailto:angelsinamerica@sedos.co.uk) if you have any questions.
