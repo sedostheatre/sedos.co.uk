@@ -4,6 +4,7 @@ times:
   - time: 2026-09-06 11:29
   - time: 2026-09-15 19:00
 image: /assets/angelsinamerica.png
+venue: 12 Bride Lane
 ---
 *Angels In America* are excited to add four singing ensemble members to the existing cast of eight. 
 
