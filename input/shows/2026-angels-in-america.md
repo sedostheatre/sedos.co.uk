@@ -87,7 +87,7 @@ Tickets for *Angels in America* are being sold as a package to see both *Part
 
 **AUDITIONS**
 
-Information about [*Angels in America* pre-audition workshop and auditions](https://www.sedos.co.uk/events/angels-in-america-auditions)[](https://www.sedos.co.uk/events/angels-in-america-auditions).
+Information about [*Angels in America* ensemble auditions](https://www.sedos.co.uk/events/angels-in-america-ensemble-auditions).
 
 **Content warnings:** contains strong language, sexual content/partial nudity, violence, references to illness and death, drug/alcohol use, homophobic/racist language, and scenes of supernatual intensity.
 
