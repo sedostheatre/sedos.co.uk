@@ -1,10 +1,13 @@
 ---
-title: Angels In America Ensemble Auditions
+title: Angels In America ensemble auditions
 times:
   - time: 2026-09-06 11:29
   - time: 2026-09-15 19:00
 image: /assets/angelsinamerica.png
 venue: 12 Bride Lane
+metaTitle: Angels In America ensemble auditions
+metaDescription: Find out how to take part in the ensemble auditions for Sedos’s
+  November 2026 production of Angels in America
 ---
 *[Angels In America](https://www.sedos.co.uk/shows/2026-angels-in-america)* are excited to add four singing ensemble members to the existing cast of eight. 
 
@@ -33,3 +36,7 @@ Full information in the [audition notice](https://drive.google.com/drive/folders
 **ANY QUESTIONS**
 
 Please email producer George Langdown at [angelsinamerica@sedos.co.uk](mailto:angelsinamerica@sedos.co.uk) if you have any questions.
+
+**MORE AUDITIONS**
+
+Information about all our [London auditions](https://www.sedos.co.uk/get-involved).
