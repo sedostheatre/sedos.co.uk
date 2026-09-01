@@ -6,7 +6,7 @@ times:
   - time: 2026-10-15 19:30
   - time: 2026-11-19 19:30
 image: /assets/acting-group-may-2024.jpg
-venue: Wheatsheaf Hall
+venue: 12 Bride Lane
 recurrence: Once a month on Thursdays
 ticket-prices: £6 for members; £8 for non-members
 metaTitle: London Acting Group with Sedos
