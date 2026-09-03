@@ -35,7 +35,7 @@ sections:
       **CAST**
 
       **PRIOR WALTER** | Robert J. Stanex\
-      **LOUIS IRONSON** | Keith Ramsay\
+      **LOUIS IRONSON** | Craig Gilchrist\
       **JOE PITT** | Charlie O’Reardon\
       **HARPER PITT** | Natalie Harding-Cooper\
       **HANNAH PITT** | Susan Booth\
@@ -53,6 +53,8 @@ sections:
       **COSTUME DESIGN** | Shannon M. Maddox\
       **LIGHTING DESIGN** | Martin Walton\
       **SOUND DESIGN** | Pranav Mahesh\
+      **STAGE MANAGER** | Gill Wood\
+      **ASSISTANT STAGE MANAGER** | Pippa Kyle\
       **MARKETING** | Ellen Redgrave\
       **DRAMATURG** | Oli Keene\
       **COMMITTEE LIAISON** | Olly Levett
