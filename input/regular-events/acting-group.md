@@ -1,10 +1,9 @@
 ---
 title: Acting Group
 times:
-  - time: 2026-08-20 19:30
-  - time: 2026-09-17 19:30
-  - time: 2026-10-15 19:30
-  - time: 2026-11-19 19:30
+  - time: 2026-09-24 19:00
+  - time: 2026-10-29 19:00
+  - time: 2026-11-26 19:00
 image: /assets/acting-group-may-2024.jpg
 venue: 12 Bride Lane
 recurrence: Once a month on Thursdays
