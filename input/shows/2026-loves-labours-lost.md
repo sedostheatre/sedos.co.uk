@@ -101,6 +101,8 @@ sections:
 
       **COSTUME DESIGN** | Annie Houseago (she/her)\
 
+      **SET DESIGN** | Mickey Dimitrova (she/her)\
+
       **ARTWORK DESIGN** | Emma Miller (she/her)\
 
       **MARKETING** | Mark Siddall (he/him)\
