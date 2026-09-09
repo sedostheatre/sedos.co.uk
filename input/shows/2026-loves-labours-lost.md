@@ -103,6 +103,8 @@ sections:
 
       **SET DESIGN** | Mickey Dimitrova (she/her)\
 
+      **SET REALISATION** | Stuart Massey (he/him)\
+
       **ARTWORK DESIGN** | Emma Miller (she/her)\
 
       **MARKETING** | Mark Siddall (he/him)\
