@@ -55,9 +55,9 @@ sections:
     body: <a data-flickr-embed="true"
       href="https://www.flickr.com/photos/sedos/albums/72177720335245651"
       title="Brighton Beach Memoirs - 2026"><img
-      src="https://live.staticflickr.com/65535/55480643713_c32602a5e2_h.jpg"
-      width="1600" height="1200" alt="Brighton Beach Memoirs -
-      2026"/></a><script async src="//embedr.flickr.com/assets/client-code.js"
+      src="https://live.staticflickr.com/65535/55480643713_c4b0dfc780.jpg"
+      width="640" height="480" alt="Brighton Beach Memoirs - 2026"/></a><script
+      async src="//embedr.flickr.com/assets/client-code.js"
       charset="utf-8"></script>
 metaTitle: Brighton Beach Memoirs plays at the Bridewell Theatre 8-12 September 2026
 metaDescription: Brighton Beach Memoirs is a semi-autobiographical coming-of-age
