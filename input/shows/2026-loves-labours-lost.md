@@ -101,7 +101,7 @@ sections:
 
       **COSTUME DESIGN** | Annie Houseago (she/her)\
 
-      **SET DESIGN** | Mickey Dimitrova \
+      **SET DESIGN** | Mickey Dimitrova (she/her)\
 
       **ARTWORK DESIGN** | Emma Miller (she/her)\
 
