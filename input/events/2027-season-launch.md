@@ -13,4 +13,4 @@ We’ll be revealing what’s coming up next year, and if you’re interested in
 
 We’d love to see you there!
 
-![](/assets/pitch_question_curtain.jpg)
+![](/assets/2027-season-launch.jpg)
