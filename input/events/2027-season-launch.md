@@ -12,3 +12,5 @@ Join us at the **Bridewell Theatre Bar** (Bride Lane, Fleet Street, London EC4Y 
 We’ll be revealing what’s coming up next year, and if you’re interested in joining a production team, it’s a great opportunity to meet the teams and find out more about getting involved. 
 
 We’d love to see you there!
+
+![](/assets/2027-season-launch.jpg)
