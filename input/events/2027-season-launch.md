@@ -2,7 +2,7 @@
 title: 2027 Season Launch
 times:
   - time: 2026-10-01 19:00
-image: /assets/pitch_question_curtain.jpg
+image: /assets/2027-season-launch.jpg
 venue: Bridewell Theatre
 ---
 **Want to be the first to find out what shows Sedos is putting on in 2027?** 
