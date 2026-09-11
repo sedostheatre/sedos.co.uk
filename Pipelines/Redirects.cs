@@ -64,6 +64,7 @@ namespace Sedos.Pipelines
                 { "supporters", "https://mailchi.mp/4c995b769355/supportersofsedos" },
                 { "alice", "https://www.sedos.co.uk/shows/2026-the-curious-incident-of-the-dog-in-the-night-time#fromthedirector" },
                 { "curious/survey", "https://forms.gle/PiWnK8xX8ti1vv5N6" },
+		{ "fasquote", "https://docs.google.com/forms/d/e/1FAIpQLSerUap2NezmIo0dw9rENXx8nS4sDXUx40ue0VTlOskmALx9Zw/viewform" },
             };
 
             ProcessModules = new ModuleList
