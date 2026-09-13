@@ -3,6 +3,15 @@ year: 2026
 ---
 # 2026
 
+# *Brighton Beach Memoirs*
+
+^^^
+![Dress rehearsal image of Brighton Beach Memoirs](/assets/55516382677_3bc87b7498_c.jpg)
+^^^ Brighton Beach Memoirs
+
+>Neil Simon's coming-of-age comedy gets a remarkably sharp production from Sedos, where great ensemble acting, tight character work, and clever staging lift the show far beyond typical amateur fare and straight into West End territory.
+><footer><cite><a target="_blank" href="https://www.londontheatrereviews.co.uk/post.cfm?p=28987">Brighton Beach Memoirs, 2026, London Theatre Reviews (*****)</a></cite></footer>
+
 # *The Curious Incident of the Dog in the Night-Time*
 
 ^^^
