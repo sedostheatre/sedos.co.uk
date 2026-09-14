@@ -47,7 +47,7 @@ sections:
       **SET DESIGN** | Nick Mouton\
       **SET REALISATION** | Adam Coppard\
       **LIGHTING DESIGN** | Saskia Van'T Hoff\
-      **LIGHTING** | Lloyd SMITH/PAUL CAIRA\
+      **LIGHTING** | Lloyd Smith and Paul Caira\
       **MARKETING and PROGRAMME** | Paul Caira\
       **FLYER** | Emma Miller\
       **PHOTOGRAPHY** | Adrian Hau and Sarah Berryman
