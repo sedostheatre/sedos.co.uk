@@ -39,7 +39,7 @@ Find out more about [Simprov](https://www.sedos.co.uk/regular-events/simprov).
 
 ![](/assets/snack-time.png)
 
-**3 September 2026** | Simprov with guest acts Unscriptulous
+**3 November 2026** | Simprov with guest acts Unscriptulous
 
 ![](/assets/unscriptulous_logo.png)
 
