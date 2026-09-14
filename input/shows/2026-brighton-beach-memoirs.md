@@ -40,7 +40,17 @@ sections:
 
       **DIRECTOR** | Nick Mouton\
       **ASSISTANT DIRECTOR** | Sarah Berryman\
-      **PRODUCER** | Paul Caira
+      **PRODUCER** | Paul Caira\
+      **STAGE MANAGER** | Isobel Williams\
+      **COSTUMES** | Azul Alysum\
+      **HAIR** | Candice Zen\
+      **SET DESIGN** | Nick Mouton\
+      **SET REALISATION** | Adam Coppard\
+      **LIGHTING DESIGN** | Saskia Van'T Hoff\
+      **LIGHTING** | Lloyd SMITH/PAUL CAIRA\
+      **MARKETING and PROGRAMME** | Paul Caira\
+      **FLYER** | Emma Miller\
+      **PHOTOGRAPHY** | Adrian Hau and Sarah Berryman
   - order: 4
     title: VIDEOS
     body: <div class="video-responsive"><?# YouTube W_tp98u_Qfo /?></div>
