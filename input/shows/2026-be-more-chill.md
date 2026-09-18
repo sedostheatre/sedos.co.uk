@@ -99,6 +99,9 @@ sections:
       ![](/assets/be-more-chill-flyer-front.png)
 
       ![](/assets/be-more-chill-flyer-back.png)
+  - order: 3
+    title: VIDEO
+    body: <div class="video-responsive"><?# YouTube GpTJYsLpWzQ /?></div>
 metaTitle: Be More Chill plays at the Bridewell Theatre 20-24 October 2026
 metaDescription: "Life is not unlike a video game. And in a video game success
   requires just two things: good hand-eye coordination… and a cheat code. Be
