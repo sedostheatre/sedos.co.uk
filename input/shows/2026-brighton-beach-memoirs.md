@@ -78,6 +78,11 @@ sections:
       West End territory
 
       ><footer><cite><a target="_blank" href="https://www.londontheatrereviews.co.uk/post.cfm?p=28987">Brighton Beach Memoirs, 2026, London Theatre Reviews (*****)</a></cite></footer>
+
+
+      >Ultimately, Brighton Beach Memoirs is a lovely example of what an amateur production can achieve when the cast genuinely feel like a family rather than simply a group of actors sharing a stage. The performances are assured, the period detail is thoughtfully considered and the direction allows both the humour and the more serious themes to breathe naturally. It may have been a play I knew very little about before arriving, but this production certainly left me understanding why Neil Simon’s family stories have endured.
+
+      ><footer><cite><a target="_blank" href="https://musicaltheatremusings.co.uk/brighton-beach-memoirs/">Brighton Beach Memoirs, 2026, Musical Theatre Musings</a></cite></footer>
 metaTitle: Brighton Beach Memoirs plays at the Bridewell Theatre 8-12 September 2026
 metaDescription: Brighton Beach Memoirs is a semi-autobiographical coming-of-age
   comedy by Neil Simon. It is part of Sedos’ 2026 season and plays at the
