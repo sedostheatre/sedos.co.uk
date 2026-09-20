@@ -41,54 +41,11 @@ Director Mark Siddall says: “I am so excited to be directing this show for Sed
 
 **CONTENT WARNINGS:** strong language, adult content, references to suicide, gunshots. Recommended for ages 14+
 
-WOMEN ON THE VERGE OF A
+***Women on the Verge of a Nervous Breakdown***\
+**A New Musical**
 
-NERVOUS BREAKDOWN
+Book by Jeffrey Lane\
+Music and Lyrics by David Yazbek\
+Based on the film by Pedro Almodóvar
 
-
-
-100%
-
-A New Musical
-
-
-
-Book by
-
-Jeffrey Lane
-
-50%
-
-
-
-Music and Lyrics by
-
-David Yazbek
-
-50%
-
-
-
-Based on the film by
-
-Pedro Almodóvar
-
-
-
-50%
-
-
-
-This amateur production is presented by arrangement with
-
-
-
-Music Theatre International
-
-
-
-All authorised performance materials are also supplied by MTI
-
-
-
-www.mtishows.co.uk
+*This amateur production is presented by arrangement with Music Theatre International. All authorised performance materials are also supplied by MTI. www.mtishows.co.uk*
