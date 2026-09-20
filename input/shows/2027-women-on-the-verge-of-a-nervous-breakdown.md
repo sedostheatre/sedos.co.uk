@@ -16,12 +16,23 @@ box-office-open: false
 sections:
   - order: 1
     title: CREATIVE TEAM
-    body: |-
-      Mark Siddall (he/him) – Director
+    body: >-
+      **CREATIVE TEAM**
 
-      Maria Hallows (she/her) – Musical Director
 
-      Taylor Davidson (she/her) – Choreographer
+      **DIRECTOR** | Mark Siddall (he/him)\
+
+      **MUSICAL DIRECTOR** | Maria Hallows (she/her) \
+
+      **CHOREOGRAPHER** | Taylor Davidson (she/her) 
+
+
+      The team are seeking a producer – please contact [production@sedos.co.uk](mailto:production@sedos.co.uk) if you are interested.
+metaTitle: Women on the Verge of a Nervous Breakdown plays at the Bridewell
+  Theatre from 13-17 July 2027
+metaDescription: Women on the Verge of a Nervous Breakdown, a zany musical
+  comedy, plays at the Bridewell Theatre from 13-17 July as part of Sedos’ 2027
+  season
 ---
 **“It’s murder on a hairdo when your head is underwater.”**
 
