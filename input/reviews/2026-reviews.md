@@ -13,7 +13,7 @@ year: 2026
 ><footer><cite><a target="_blank" href="https://number9reviews.blogspot.com/2026/09/theatre-review-loves-labours-lost-new.html">Love’s Labour’s Lost (The Musical), 2026, Number 9 Reviews</a></cite></footer>
 
 >Sedos delivers the musical with tremendous skill, commitment and imagination. It is colourful, physical, frequently hilarious and enormous fun. 
-><footer><cite><a target="_blank" href="https://www.londontheatrereviews.co.uk/post.cfm?p=29066"></a></cite></footer>
+><footer><cite><a target="_blank" href="https://www.londontheatrereviews.co.uk/post.cfm?p=29066">Love’s Labour’s Lost (The Musical), 2026, London Theatre Reviews</a></cite></footer>
 
 >Love’s Labour’s Lost: The Musical is a show that is extremely fun and full of youthful expression, with a lot of cheeky innuendos thrown in for good measure. One to watch and add to your musical theatre experience list.
 ><footer><cite><a target="_blank" href="https://www.londontheatre1.com/reviews/loves-labours-lost-bridewell-theatre/">Love’s Labour’s Lost (The Musical), 2026, London Theatre 1 (****)</a></cite></footer>
