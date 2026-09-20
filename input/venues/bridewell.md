@@ -13,7 +13,7 @@ country: GB
 ---
 ## The Bridewell Theatre
 
-Most of our [London musicals](https://sedos.co.uk/whats-on) and [London plays](https://sedos.co.uk/whats-on) take place at the Bridewell Theatre, where we are the resident theatre company. Our next shows at the Bridewell are *[Love‘s Labour’s Lost](https://www.sedos.co.uk/shows/2026-loves-labours-lost)* (15-19 September) and *[Be More Chill](https://www.sedos.co.uk/shows/2026-be-more-chill)* (20-24 October).
+Most of our [London musicals](https://sedos.co.uk/whats-on) and [London plays](https://sedos.co.uk/whats-on) take place at the Bridewell Theatre, where we are the resident theatre company. Our next shows at the Bridewell are *[Be More Chill](https://www.sedos.co.uk/shows/2026-be-more-chill)* (20-24 October) and *[Angels in America](https://www.sedos.co.uk/shows/2026-angels-in-america)* (19-28 November).
 
 * #### [Sedos shows: what’s on at the Bridewell Theatre?](https://sedos.co.uk/whats-on)
 * #### [Buy tickets to our shows at the Bridewell Theatre](https://sedos.ticketsolve.com/shows)
