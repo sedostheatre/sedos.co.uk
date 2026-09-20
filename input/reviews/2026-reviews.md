@@ -6,7 +6,7 @@ year: 2026
 # *Love’s Labour’s Lost (The Musical)*
 
 ^^^
-![Dress rehearsal photo from Sedos’ 2026 production of Love’s Labour’s Lost (The Musical)](/assets/55530769007_62198b32b8_k.jpg)
+![Dress rehearsal photo from Sedos’ 2026 production of Love’s Labour’s Lost (The Musical)](/assets/55530786082_0ec1bc3a55_c.jpg)
 ^^^ Love’s Labour’s Lost (The Musical)
 
 >This production is smart, sexy, gloriously silly, and full of heart, modern celebration of Shakespeare that feels both respectful and refreshingly irreverent. Sedos has once again proven that amateur theatre can be ambitious, polished, and deeply enjoyable. For lovers of Shakespeare, musicals, or simply a fun night out, Love’s Labour’s Lost at The Bridewell is absolutely worth seeing.
