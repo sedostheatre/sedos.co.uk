@@ -48,3 +48,5 @@ Emma J Leaver says: “I love comedy with real heart, and Nell Gwynn has both in
 Nell Gwynn pays at the [Bridewell Theatre](https://www.sedos.co.uk/venues/bridewell) from 16-20 March 2027.
 
 **CONTENT WARNINGS:** strong language; sexual references and innuendo; references to sex work/prostitution; misogynistic and discriminatory attitudes reflective of the period
+
+RIGHTS WORDING??
