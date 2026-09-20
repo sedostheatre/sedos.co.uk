@@ -45,4 +45,12 @@ Quote
 
 **CONTENT WARNINGS:** to come
 
-RIGHTS WORDING TO COME
+**Guys And Dolls**\
+A Musical Fable of Broadway
+
+Based on a Story and Characters of Damon Runyon\
+Music and Lyrics by FRANK LOESSER
+
+Book by JO SWERLING and ABE BURROWS
+
+*This amateur production is presented by arrangement with Music Theatre International. All authorised performance materials are also supplied by MTI. www.mtishows.co.uk*
