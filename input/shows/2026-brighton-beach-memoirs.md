@@ -107,8 +107,6 @@ Director Nick Mouton commented: “I’ve always been interested in life in Amer
 
 **Content warnings:** this production is suitable for audiences aged 15+. Contains: language and attitudes reflective of 1930s America, which include outmoded racial terminology, references to alcoholism and gambling, adolescent sexual behaviour including masturbation, incestuous fantasies and voyeurism; themes of family conflict, illness and bereavement.
 
-**AUDITIONS:** find out about the [*Brighton Beach Memoirs* auditions](https://www.sedos.co.uk/events/brighton-beach-memoirs-auditions). 
-
 **SPECIAL OFFER:** book any four shows (or more) in our 2026 season in one transaction and receive a 25% discount. [More info](https://www.sedos.co.uk/news/2025-11-19-2026-sedos-season-discount).
 
 *Brighton Beach Memoirs* plays at the [Bridewell Theatre](<>) from 8-12 September 2026.
