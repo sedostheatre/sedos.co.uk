@@ -3,6 +3,24 @@ year: 2026
 ---
 # 2026
 
+# *Love’s Labour’s Lost (The Musical)*
+
+^^^
+![Dress rehearsal photo from Sedos’ 2026 production of Love’s Labour’s Lost (The Musical)](/assets/55530769007_62198b32b8_k.jpg)
+^^^ Love’s Labour’s Lost (The Musical)
+
+>This production is smart, sexy, gloriously silly, and full of heart, modern celebration of Shakespeare that feels both respectful and refreshingly irreverent. Sedos has once again proven that amateur theatre can be ambitious, polished, and deeply enjoyable. For lovers of Shakespeare, musicals, or simply a fun night out, Love’s Labour’s Lost at The Bridewell is absolutely worth seeing.
+><footer><cite><a target="_blank" href="https://number9reviews.blogspot.com/2026/09/theatre-review-loves-labours-lost-new.html">Love’s Labour’s Lost (The Musical), 2026, Number 9 Reviews</a></cite></footer>
+
+>Sedos delivers the musical with tremendous skill, commitment and imagination. It is colourful, physical, frequently hilarious and enormous fun. 
+><footer><cite><a target="_blank" href="https://www.londontheatrereviews.co.uk/post.cfm?p=29066"></a></cite></footer>
+
+>Love’s Labour’s Lost: The Musical is a show that is extremely fun and full of youthful expression, with a lot of cheeky innuendos thrown in for good measure. One to watch and add to your musical theatre experience list.
+><footer><cite><a target="_blank" href="https://www.londontheatre1.com/reviews/loves-labours-lost-bridewell-theatre/">Love’s Labour’s Lost (The Musical), 2026, London Theatre 1 (****)</a></cite></footer>
+
+>The whole evening was such an explosion of FUN, highly professional “amateurs” giving us great singing, great performances, and great pizzazz. That’s what I call Entertainment!!
+><footer><cite><a target="_blank" href="https://everything-theatre.co.uk/2026/09/review-loves-labours-lost-bridewell-theatre/">Love’s Labour’s Lost (The Musical), 2026, Everything Theatre (****)</a></cite></footer>
+
 # *Brighton Beach Memoirs*
 
 ^^^
@@ -11,6 +29,9 @@ year: 2026
 
 >Neil Simon's coming-of-age comedy gets a remarkably sharp production from Sedos, where great ensemble acting, tight character work, and clever staging lift the show far beyond typical amateur fare and straight into West End territory.
 ><footer><cite><a target="_blank" href="https://www.londontheatrereviews.co.uk/post.cfm?p=28987">Brighton Beach Memoirs, 2026, London Theatre Reviews (*****)</a></cite></footer>
+
+>Ultimately, Brighton Beach Memoirs is a lovely example of what an amateur production can achieve when the cast genuinely feel like a family rather than simply a group of actors sharing a stage. The performances are assured, the period detail is thoughtfully considered and the direction allows both the humour and the more serious themes to breathe naturally. It may have been a play I knew very little about before arriving, but this production certainly left me understanding why Neil Simon’s family stories have endured.
+><footer><cite><a target="_blank" href="https://musicaltheatremusings.co.uk/brighton-beach-memoirs/">Brighton Beach Memoirs, 2026, Musical Theatre Musings</a></cite></footer>
 
 # *The Curious Incident of the Dog in the Night-Time*
 
