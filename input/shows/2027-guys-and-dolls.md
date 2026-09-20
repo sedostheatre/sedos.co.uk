@@ -30,6 +30,10 @@ sections:
 
       **DIRECTOR** | Emily Phillips\
       **CHOREOGRAPHERS** | Adrianna Cordero-Marino and Lauren Williams
+metaTitle: Guys And Dolls plays at the Bridewell Theatre from 5-15 May 2027
+metaDescription: Guys And Dolls, the award-winning, ever-popular, musical
+  comedy, plays at the Bridewell Theatre from 5-15 May as part of Sedos’ 2027
+  season
 ---
 Blurb
 
@@ -37,7 +41,7 @@ Quote
 
 **SPECIAL OFFER:** book any four shows (or more) in our 2027 season in one transaction and receive a 25% discount. More info. 
 
-*Guys And Dolls* pays at the Bridewell Theatre from 5-15 May 2027.
+*Guys And Dolls* plays at the Bridewell Theatre from 5-15 May 2027.
 
 **CONTENT WARNINGS:** to come
 
