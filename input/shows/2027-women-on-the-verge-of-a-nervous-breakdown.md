@@ -49,7 +49,7 @@ We meet her missing (possibly philandering) lover, Ivan; his ex-wife with a scor
 
 Both touching and hilarious, *Women on the Verge of a Nervous Breakdown* is a story about women and the men who pursue them... finding them, losing them, needing them, and rejecting them.
 
-Director Mark Siddall says: “I am so excited to be directing this show for Sedos. *Women On The Verge* is a zany comedy, full of strong characters, entangled relationships, passionate emotions and high stakes, coupled with a fantastic Latin-flavoured score. This musical brings the heightened style of Almodóvar to the stage, mixing farce comedy and larger-than-life plot twists with heartfelt ballads and evocative choreography.
+**Director Mark Siddall says:** “I am so excited to be directing this show for Sedos. *Women On The Verge* is a zany comedy, full of strong characters, entangled relationships, passionate emotions and high stakes, coupled with a fantastic Latin-flavoured score. This musical brings the heightened style of Almodóvar to the stage, mixing farce comedy and larger-than-life plot twists with heartfelt ballads and evocative choreography.
 
 “This is the kind of musical I really love: a small cast bringing a bold and entertaining story to life, layering laughs with genuine emotion. Audiences might not know what to expect from this cult show… take a chance and you will not be disappointed.”
 
