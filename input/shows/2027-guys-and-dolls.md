@@ -45,7 +45,7 @@ Quote
 
 **CONTENT WARNINGS:** to come
 
-**Guys And Dolls**\
+***Guys And Dolls***\
 A Musical Fable of Broadway
 
 Based on a Story and Characters of Damon Runyon\
