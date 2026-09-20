@@ -6,6 +6,13 @@ authors2: Music and Lyrics by DAVID YAZBEK
 authors3: Based on the film by PEDRO ALMODÓVAR
 subtitle: Nobody wants to find out a relationship is over via their answerphone.
   Just ask Pepa
+showtimes:
+  - time: 2027-07-13 19:30
+  - time: 2027-07-14 19:30
+  - time: 2027-07-15 19:30
+  - time: 2027-07-16 19:30
+  - time: 2027-07-20 14:30
+  - time: 2027-07-20 19:30
 showtime-summary: 13-17 JULY 2027
 venue: Bridewell Theatre
 ticket-prices: Tickets from £14 (no booking fee)
