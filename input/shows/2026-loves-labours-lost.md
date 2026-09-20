@@ -113,6 +113,25 @@ sections:
 
 
       *Love's Labour's Lost* is looking for a Set Designer to join the team. If you are interested, please email production@sedos.co.uk
+  - order: 2
+    title: GALLERY
+    body: <a data-flickr-embed="true"
+      href="https://www.flickr.com/photos/sedos/albums/72177720334575290"
+      title="Love&#x27;s Labour&#x27;s Lost - 2026"><img
+      src="https://live.staticflickr.com/65535/55531963804_7ee4604fc9_z.jpg"
+      width="640" height="480" alt="Love&#x27;s Labour&#x27;s Lost -
+      2026"/></a><script async src="//embedr.flickr.com/assets/client-code.js"
+      charset="utf-8"></script>
+  - order: 3
+    title: VIDEO
+    body: |-
+      <div class="video-responsive"><?# YouTube SwZ004tjfPE /?></div>
+
+      <div class="video-responsive"><?# YouTube wOIy5mbkA_4 /?></div>
+
+      <div class="video-responsive"><?# YouTube MBOoq-lECk /?></div>
+
+      <div class="video-responsive"><?# YouTube w28OJbAHx0A /?></div>
 metaTitle: Love's Labour's Lost plays at the Bridewell Theatre 15-19 September 2026
 metaDescription: Love's Labour's Lost is a sun-drenched, contemporary musical
   adaptation about love, language and letting go. It is part of Sedos’ 2026
