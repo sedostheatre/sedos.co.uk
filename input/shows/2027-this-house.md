@@ -6,6 +6,11 @@ subtitle: The award-winning political thriller voted play of the decade, from
   the author of Dear England
 showtimes:
   - time: 2027-09-07 19:30
+  - time: 2027-09-08 19:30
+  - time: 2027-09-09 19:30
+  - time: 2027-09-10 19:30
+  - time: 2027-09-11 14:30
+  - time: 2027-09-11 19:30
 showtime-summary: 7-11 SEPTEMBER 2027
 header-image-contain: false
 box-office-open: false
@@ -17,6 +22,9 @@ sections:
 
       **DIRECTOR** | Dan Edge (he/him)\
       **PRODUCER** | Clare Harding (she/her)
+metaTitle: This House plays at the Bridewell Theatre from 7-11 September 2027
+metaDescription: This House, James Graham’s thrilling political play, runs at
+  the Bridewell Theatre from 7-11 September, as part of Sedos’ 2027 season
 ---
 **“*Isn’t it funny how the Prime Minister of a country can just change like that, without an election?*”**
 
