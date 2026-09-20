@@ -31,6 +31,10 @@ sections:
 
 
       The team are seeking a producer and assistant musical director – email production@sedos.co.uk if you are interested.
+metaTitle: Songs For A New World plays at the Bridewell Theatre from 14-18 September 2027
+metaDescription: Songs For A New World, the contemporary song cycle from Tony
+  Award winner Jason Robert Brown, plays at the Bridewell Theatre from 14-18
+  September, as part of Sedos’ 2027 season
 ---
 ***“It's about one moment. It's about hitting the wall and having to make a choice, or take a stand, or turn around and go back.”***
 
@@ -43,3 +47,11 @@ These are the stories and characters of today, the *Songs For A New World*. The 
 *Songs For A New World* plays at the Bridewell Theatre from 14-18 September 2027.
 
 **CONTENT WARNINGS:** mild strong language and mature thematic elements including war, suicide, death and incarceration
+
+***Songs For A New World***
+
+Music and Lyrics by Jason Robert Brown\
+Originally Produced by the WPA Theatre, New York City, 1995 (Kyle Renick, Artistic Director)\
+Original Orchestration by Brian Besterman and Jason Robert Brown
+
+*This amateur production is presented by arrangement with Music Theatre International. All authorised performance materials are also supplied by MTI. www.mtishows.co.uk*
