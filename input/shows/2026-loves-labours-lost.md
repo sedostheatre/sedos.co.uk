@@ -132,6 +132,32 @@ sections:
       <div class="video-responsive"><?# YouTube MBOoq-lECk /?></div>
 
       <div class="video-responsive"><?# YouTube w28OJbAHx0A /?></div>
+  - order: 4
+    title: REVIEWS
+    body: >-
+      >This production is smart, sexy, gloriously silly, and full of heart,
+      modern celebration of Shakespeare that feels both respectful and
+      refreshingly irreverent. Sedos has once again proven that amateur theatre
+      can be ambitious, polished, and deeply enjoyable. For lovers of
+      Shakespeare, musicals, or simply a fun night out, Love’s Labour’s Lost at
+      The Bridewell is absolutely worth seeing.
+
+      ><footer><cite><a target="_blank" href="https://number9reviews.blogspot.com/2026/09/theatre-review-loves-labours-lost-new.html">Love’s Labour’s Lost (The Musical), 2026, Number 9 Reviews</a></cite></footer>
+
+
+      >Sedos delivers the musical with tremendous skill, commitment and imagination. It is colourful, physical, frequently hilarious and enormous fun. 
+
+      ><footer><cite><a target="_blank" href="https://www.londontheatrereviews.co.uk/post.cfm?p=29066">Love’s Labour’s Lost (The Musical), 2026, London Theatre Reviews</a></cite></footer>
+
+
+      >Love’s Labour’s Lost: The Musical is a show that is extremely fun and full of youthful expression, with a lot of cheeky innuendos thrown in for good measure. One to watch and add to your musical theatre experience list.
+
+      ><footer><cite><a target="_blank" href="https://www.londontheatre1.com/reviews/loves-labours-lost-bridewell-theatre/">Love’s Labour’s Lost (The Musical), 2026, London Theatre 1 (****)</a></cite></footer>
+
+
+      >The whole evening was such an explosion of FUN, highly professional “amateurs” giving us great singing, great performances, and great pizzazz. That’s what I call Entertainment!!
+
+      ><footer><cite><a target="_blank" href="https://everything-theatre.co.uk/2026/09/review-loves-labours-lost-bridewell-theatre/">Love’s Labour’s Lost (The Musical), 2026, Everything Theatre (****)</a></cite></footer>
 metaTitle: Love's Labour's Lost plays at the Bridewell Theatre 15-19 September 2026
 metaDescription: Love's Labour's Lost is a sun-drenched, contemporary musical
   adaptation about love, language and letting go. It is part of Sedos’ 2026
