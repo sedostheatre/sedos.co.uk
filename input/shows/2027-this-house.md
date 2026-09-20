@@ -18,16 +18,13 @@ sections:
       **DIRECTOR** | Dan Edge (he/him)\
       **PRODUCER** | Clare Harding (she/her)
 ---
-***"Isn’t it funny how the Prime Minister of a country can just change like that, without an election?"***
+**“*Isn’t it funny how the Prime Minister of a country can just change like that, without an election?*”**
 
 The year is 1974. A hung parliament in the UK faces an economic crisis and an uncertain future. Set in the engine rooms of Westminster, James Graham’s play strips politics down to the practical, behind-the-scenes realities of the whips who roll up their sleeves – and occasionally bend the rules – to pass legislation. As whips on both sides use every trick in the book to win votes, the Mother of all Parliaments creaks under its own idiosyncrasies and arcane traditions.
 
 *This House* by James Graham debuted in 2012 at the National Theatre, and made its West Debut in 2016. It was nominated for best new play at the Olivier Awards in 2013 and was voted play of decade by Bloomsbury Publishing in 2019.
 
-**Directors Quote:**
-
-I think what is really exciting about *This House* is, even though it was written almost 15 years ago, and is set in the 1970s, it is exceptionally relevant to our politics today.We have had five 'unelected' Prime Ministers in the last 10 years, and questions about the fairness, or even the functionality, of our political system are getting louder and louder. *This House* uses a particularly volatile period in British political history to explore these modern issues, and asks us the question -  is our government fit for purpose?
-
+**Director Dan Edge says:** “I think what is really exciting about *This House* is, even though it was written almost 15 years ago, and is set in the 1970s, it is exceptionally relevant to our politics today. We have had five 'unelected' Prime Ministers in the past 10 years, and questions about the fairness, or even the functionality, of our political system are getting louder and louder. *This House* uses a particularly volatile period in British political history to explore these modern issues, and asks us this question – is our government fit for purpose?”
 
 **SPECIAL OFFER:** book any four shows (or more) in our 2027 season in one transaction and receive a 25% discount. More info. 
 
