@@ -32,6 +32,11 @@ sections:
       **PRODUCERS** | Lizzie Levett (she/her) and Pippa Kyle (she/her)\
       **SOUND DESIGNER** | Adam Coppard (he/him)\
       **MARKETING/SOCIAL MEDIA** | Emma Miller (she/her)
+metaTitle: Dear Evan Hansen plays at the Bridewell Theatre from 24 November-4
+  December 2027
+metaDescription: Dear Evan Hansen, the award-winning coming-of-age hit musical,
+  plays at the Bridewell Theatre from 24 November-4 December, as part of Sedos’
+  2027 season
 ---
 ***“Today, at least you’re you – and that’s enough.”***
 
@@ -47,40 +52,9 @@ Director Rob Archibald says: “I’m thrilled to be directing *Dear Evan Hansen
 
 **CONTENT WARNINGS:** this production includes frequent discussion and reference to suicide attempts and death by suicide. It also features themes of mental health struggles, grief and bereavement, bullying and reference to substance abuse.
 
-DEAR EVAN HANSEN
+***Dear Evan Hansen***
 
+Book by Steven Levenson\
+Music and Lyrics by Benj Pasek & Justin Paul
 
-
-100%
-
-
-
-Book by
-
-Steven Levenson
-
-
-
-50%
-
-
-
-Music and Lyrics by
-
-Benj Pasek & Justin Paul
-
-
-
-50%
-
-
-
-This amateur production is presented by arrangement with Music Theatre International
-
-
-
-All authorised performance materials are also supplied by MTI
-
-
-
-www.mtishows.co.uk
+*This amateur production is presented by arrangement with Music Theatre International. All authorised performance materials are also supplied by MTI. www.mtishows.co.uk*
