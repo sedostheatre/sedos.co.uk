@@ -37,7 +37,7 @@ It’s 1660: the theatres have reopened after years of Puritan rule and, for the
 
 As Nell’s world expands, so does the stage she’s performing on – from the playhouse, surrounded by its actors, audiences, gossips and hangers-on, to the grandest stage of all, the court of King Charles II. Funny and saucy, it’s a celebration of theatre and the people who make it.
 
-Emma J Leaver says: “I love comedy with real heart, and Nell Gwynn has both in abundance. Nell is outrageous, quick-witted and gloriously unfiltered, but there’s a kindness and openness underneath all of that which I find incredibly appealing – she loves readily and genuinely, and you understand why people love her back.
+**Emma J Leaver says:** “I love comedy with real heart, and Nell Gwynn has both in abundance. Nell is outrageous, quick-witted and gloriously unfiltered, but there’s a kindness and openness underneath all of that which I find incredibly appealing – she loves readily and genuinely, and you understand why people love her back.
 
 “What also fascinates me is Nell’s constantly shifting sense of identity. She’s an orange seller, an actress, a sister, a lover and eventually part of the royal court, but she’s continually working out which of those roles define her and what she’s prepared to give up – or not give up – for the others. There’s something very modern in that tension, particularly for women: the expectation that we can somehow reconcile ambition, love, family and our own sense of self without compromising any of them.
 
