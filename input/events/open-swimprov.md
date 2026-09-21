@@ -41,7 +41,7 @@ Find out more about [Simprov](https://www.sedos.co.uk/regular-events/simprov).
 
 **3 November 2026** | Simprov with guest acts Big Questions and Unscriptulous
 
-![](/assets/big-questions-improv.png)
+![](/assets/bigquestionimprovjpg.jpg)
 
 ![](/assets/unscriptulous_logo.png)
 
