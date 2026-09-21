@@ -34,7 +34,7 @@ PRICES (card and contactless payments only):
 
 You can either pay a drop-in price each week or pay for a block of classes in advance, which works out cheaper. You do not need to use classes consecutively and you pay when you arrive – no need or way to book or pay in advance.
 
-**Sedos members**
+**Sedos members** 
 
 Drop-in price - £8 per class
 
