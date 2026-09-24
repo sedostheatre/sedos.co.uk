@@ -13,6 +13,8 @@ showtimes:
 showtime-summary: 16-20 MARCH 2027
 venue: Bridewell Theatre
 ticket-prices: Tickets from £12.50 (no booking fee)
+primary-color: "#e77213"
+header-image: /assets/nell-gwynn-orange-1-sb-preferrence.jpg
 header-image-contain: false
 box-office-open: false
 sections:
