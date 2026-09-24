@@ -2,6 +2,7 @@
 title: Sweat
 year: "2027"
 authors: By LYNN NOTTAGE
+subtitle: They built their lives on work. Then the work went away
 showtimes:
   - time: 2027-10-19 19:30
   - time: 2027-10-20 19:30
