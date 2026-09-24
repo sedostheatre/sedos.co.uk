@@ -11,6 +11,8 @@ showtimes:
   - time: 2027-10-23 19:30
 showtime-summary: 19-23 OCTOBER 2027
 ticket-prices: Tickets from £12.50 (no booking fee)
+primary-color: "#e48f3e"
+header-image: /assets/sweat-1.jpg
 header-image-contain: false
 box-office-open: false
 sections:
