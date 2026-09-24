@@ -19,6 +19,8 @@ showtimes:
 showtime-summary: 24 NOVEMBER-4 DECEMBER 2027
 venue: Bridewell Theatre
 ticket-prices: Tickets from £14 (no booking fee)
+primary-color: "#16bbfd"
+header-image: /assets/dear-evan-hanson-3.jpg
 header-image-contain: false
 box-office-open: false
 sections:
