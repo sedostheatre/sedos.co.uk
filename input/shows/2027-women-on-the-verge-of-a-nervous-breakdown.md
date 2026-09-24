@@ -17,7 +17,7 @@ showtime-summary: 13-17 JULY 2027
 venue: Bridewell Theatre
 ticket-prices: Tickets from £14 (no booking fee)
 primary-color: "#e4412e"
-header-image: /assets/womenontheverge_promo.png
+header-image: /assets/womenontheverge_promo_expanded.jpg
 header-image-contain: false
 box-office-open: false
 sections:
