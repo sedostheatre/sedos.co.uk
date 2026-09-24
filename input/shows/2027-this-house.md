@@ -12,6 +12,8 @@ showtimes:
   - time: 2027-09-11 14:30
   - time: 2027-09-11 19:30
 showtime-summary: 7-11 SEPTEMBER 2027
+primary-color: "#ffb93b"
+header-image: /assets/this-house-big-ben-1.jpg
 header-image-contain: false
 box-office-open: false
 sections:
