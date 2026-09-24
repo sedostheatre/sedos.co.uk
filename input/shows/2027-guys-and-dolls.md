@@ -20,6 +20,8 @@ showtimes:
 showtime-summary: 5-15 MAY 2027
 venue: Bridewell Theatre
 ticket-prices: Tickets from £14 (no booking fee)
+primary-color: "#ed270e"
+header-image: /assets/guys-and-dolls.jpg
 header-image-contain: false
 box-office-open: false
 sections:
