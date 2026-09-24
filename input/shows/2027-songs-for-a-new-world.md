@@ -14,6 +14,8 @@ showtimes:
 showtime-summary: 14-18 SEPTEMBER 2027
 venue: Bridewell Theatre
 ticket-prices: Tickets from £14 (no booking fee)
+primary-color: "#b8ce90"
+header-image: /assets/songs-for-a-new-world-1.jpg
 header-image-contain: false
 box-office-open: false
 sections:
