@@ -48,7 +48,7 @@ metaDescription: Guys And Dolls, the award-winning, ever-popular, musical
   comedy, plays at the Bridewell Theatre from 5-15 May as part of Sedos’ 2027
   season
 ---
-**"What made you think that I was one of those girls?"**
+***"What made you think that I was one of those girls?"***
 
 Step into the Hot Box.
 
