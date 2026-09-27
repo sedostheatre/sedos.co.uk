@@ -22,21 +22,26 @@ sections:
     body: |-
       **CREATIVE TEAM**
 
-      **DIRECTORS** | Roger Beaumont and Paula Robinson
+      **CO-DIRECTOR** | Roger Beaumont (he/him) \
+      **CO-DIRECTOR** | Paula Robinson (she/her)
 metaTitle: Sweat plays at the Bridewell Theatre from 19-23 October 2027
 metaDescription: Sweat, a Pulitzer Prize-winning play based on interviews with
   real people, plays at the Bridewell Theatre from 19-23 October as part of
   Sedos’ 2027 season
 ---
-**Blurb**
+***“It was back when if you worked with your hands people respected you for it.”***
 
-**Quote**
+Set in Reading, Pennsylvania, in the early 2000s, *Sweat* follows a group of factory workers whose lives are closely tied to the local steel and manufacturing industries. Most nights, they meet in the same bar to drink, joke, argue and unwind after work.
+
+When changes at the factory threaten jobs and long-standing friendships, tensions begin to rise. As some characters are offered opportunities that others are denied, questions of loyalty, race, class and resentment come to the surface.
+
+Lynn Nottage’s Pulitzer Prize-winning play is a powerful portrait of a community under pressure, exploring what happens when secure work disappears and people are forced to confront how quickly their lives — and relationships — can change.
 
 **SPECIAL OFFER:** book any four shows (or more) in our 2027 season in one transaction and receive a 25% discount. More info. 
 
 *Sweat* plays at the Bridewell Theatre from 19-23 October 2027.
 
-**CONTENT WARNINGS:** 
+**CONTENT WARNINGS:**  strong language, racial slurs and racist language, xenophobia, references to addiction, alcohol use, economic hardship, and scenes of physical violence.
 
 ***Sweat***\
 By Lynn Nottage
