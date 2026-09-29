@@ -33,7 +33,7 @@ sections:
 
       **DIRECTOR** | Emily Phillips (she/her)\
 
-      **MUSICAL DIRECTOR** | Freya Hartley (she/her)\
+      **MUSICAL DIRECTOR** | Luke Knowles\
 
       **CHOREOGRAPHER** | Adrianna Cordero-Marino (she/her)\
 
