@@ -9,15 +9,17 @@ showtimes:
   - time: 2027-09-15 19:30
   - time: 2027-09-16 19:30
   - time: 2027-09-17 19:30
-  - time: 2027-09-18 14:30
-  - time: 2027-09-18 19:30
+  - time: 2027-09-18 13:00
+  - time: 2027-09-18 18:00
 showtime-summary: 14-18 SEPTEMBER 2027
 venue: Bridewell Theatre
 ticket-prices: Tickets from £14 (no booking fee)
 primary-color: "#b8ce90"
 header-image: /assets/songs-for-a-new-world-1.jpg
 header-image-contain: false
-box-office-open: false
+box-office-open: true
+box-office-link: https://sedos.ticketsolve.com/shows/1173677278/events
+box-office-text: Book tickets
 sections:
   - order: 1
     title: CREATIVE TEAM
