@@ -8,15 +8,17 @@ showtimes:
   - time: 2027-03-17 19:30
   - time: 2027-03-18 19:30
   - time: 2027-03-19 19:30
-  - time: 2027-03-20 14:30
-  - time: 2027-03-20 19:30
+  - time: 2027-03-20 13:00
+  - time: 2027-03-20 18:00
 showtime-summary: 16-20 MARCH 2027
 venue: Bridewell Theatre
 ticket-prices: Tickets from £12.50 (no booking fee)
 primary-color: "#e77213"
 header-image: /assets/nell-gwynn-orange-1-sb-preferrence.jpg
 header-image-contain: false
-box-office-open: false
+box-office-open: true
+box-office-link: https://sedos.ticketsolve.com/shows/1173677274/events
+box-office-text: Book tickets
 sections:
   - order: 1
     title: CREATIVE TEAM
@@ -51,4 +53,4 @@ Nell Gwynn pays at the [Bridewell Theatre](https://www.sedos.co.uk/venues/bridew
 
 **CONTENT WARNINGS:** strong language; sexual references and innuendo; references to sex work/prostitution; misogynistic and discriminatory attitudes reflective of the period
 
-RIGHTS WORDING??
+*An amateur production by arrangement with Nick Hern Books*
