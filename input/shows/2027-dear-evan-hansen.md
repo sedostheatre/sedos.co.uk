@@ -22,7 +22,9 @@ ticket-prices: Tickets from £14 (no booking fee)
 primary-color: "#16bbfd"
 header-image: /assets/dear-evan-hanson-3.jpg
 header-image-contain: false
-box-office-open: false
+box-office-open: true
+box-office-link: https://sedos.ticketsolve.com/shows/1173677280/events
+box-office-text: Book tickets
 sections:
   - order: 1
     title: CREATIVE TEAM
