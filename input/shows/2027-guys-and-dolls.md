@@ -62,9 +62,9 @@ The guys might think they run the game.
 
 They have no idea what they’ve walked into.
 
-**Director Emily Phillips says:** “*Guys and Dolls* is packed with brilliant women, but I wanted to ask what happens when we stop treating them as characters orbiting the men and instead put their world at the centre of the story. The Hot Box feels like the perfect place to do that. It’s colourful, chaotic, glamorous and full of women who know exactly who they are.
+**Director Emily Phillips says:** “*Guys And Dolls* is packed with brilliant women, but I wanted to ask what happens when we stop treating them as characters orbiting the men and instead put their world at the centre of the story. The Hot Box feels like the perfect place to do that. It’s colourful, chaotic, glamorous and full of women who know exactly who they are.
 
-“We’re making a version of *Guys and Dolls* that feels joyous and contemporary while still celebrating everything we love about the original. We’re leaning into the camp, the comedy, the spectacle and the ridiculousness of it all, but underneath that is a story about friendship, community and women creating a space for themselves. This is *Guys and Dolls*, but the Hot Box is calling the shots.”
+“We’re making a version of *Guys And Dolls* that feels joyous and contemporary while still celebrating everything we love about the original. We’re leaning into the camp, the comedy, the spectacle and the ridiculousness of it all, but underneath that is a story about friendship, community and women creating a space for themselves. This is *Guys And Dolls*, but the Hot Box is calling the shots.”
 
 **SPECIAL OFFER:** book any four shows (or more) in our 2027 season in one transaction and receive a 25% discount. More info. 
 
