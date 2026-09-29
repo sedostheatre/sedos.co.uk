@@ -9,13 +9,15 @@ showtimes:
   - time: 2027-09-08 19:30
   - time: 2027-09-09 19:30
   - time: 2027-09-10 19:30
-  - time: 2027-09-11 14:30
-  - time: 2027-09-11 19:30
+  - time: 2027-09-11 13:00
+  - time: 2027-09-11 18:00
 showtime-summary: 7-11 SEPTEMBER 2027
 primary-color: "#ffb93b"
 header-image: /assets/this-house-big-ben-1.jpg
 header-image-contain: false
-box-office-open: false
+box-office-open: true
+box-office-link: https://sedos.ticketsolve.com/shows/1173677277/events
+box-office-text: Book tickets
 sections:
   - order: 1
     title: CREATIVE TEAM
