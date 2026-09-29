@@ -33,13 +33,13 @@ sections:
 
       **DIRECTOR** | Emily Phillips (she/her)\
 
-      **MUSICAL DIRECTOR** | Luke Knowles\
+      **MUSICAL DIRECTOR** | Luke Knowles (he/him)\
 
       **CHOREOGRAPHER** | Adrianna Cordero-Marino (she/her)\
 
       **ASSISTANT CHOREOGRAPHER and ASSISTANT PRODUCER** | Lauren Williams (she/her)\
 
-      **PRODUCER AND SOUND DESIGNER** | Adam Coppard (he/him)
+      **PRODUCER and SOUND DESIGNER** | Adam Coppard (he/him)
 
 
       The team are seeking an assistant director, assistant musical director, intimacy coordinator, costume designer, assistant costume designer and set designer. Email [production@sedos.co.uk](mailto:production@sedos.co.uk) if you are interested in any of these roles.
@@ -64,9 +64,7 @@ They have no idea what they’ve walked into.
 
 **Director Emily Phillips says:** “*Guys and Dolls* is packed with brilliant women, but I wanted to ask what happens when we stop treating them as characters orbiting the men and instead put their world at the centre of the story. The Hot Box feels like the perfect place to do that. It’s colourful, chaotic, glamorous and full of women who know exactly who they are.
 
-"I’m particularly excited that we have an incredibly talented all female creative team at the helm of this production. It feels important to have women shaping the world of the Hot Box from every angle, bringing our own perspectives, humour and experiences into a story that has traditionally been told through a male lens.
-
-"We’re making a version of *Guys and Dolls* that feels joyous and contemporary while still celebrating everything we love about the original. We’re leaning into the camp, the comedy, the spectacle and the ridiculousness of it all, but underneath that is a story about friendship, community and women creating a space for themselves. This is *Guys and Dolls*, but the Hot Box is calling the shots.”
+“We’re making a version of *Guys and Dolls* that feels joyous and contemporary while still celebrating everything we love about the original. We’re leaning into the camp, the comedy, the spectacle and the ridiculousness of it all, but underneath that is a story about friendship, community and women creating a space for themselves. This is *Guys and Dolls*, but the Hot Box is calling the shots.”
 
 **SPECIAL OFFER:** book any four shows (or more) in our 2027 season in one transaction and receive a 25% discount. More info. 
 
