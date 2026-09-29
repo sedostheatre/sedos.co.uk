@@ -11,15 +11,17 @@ showtimes:
   - time: 2027-07-14 19:30
   - time: 2027-07-15 19:30
   - time: 2027-07-16 19:30
-  - time: 2027-07-20 14:30
-  - time: 2027-07-20 19:30
+  - time: 2027-07-20 13:00
+  - time: 2027-07-20 18:00
 showtime-summary: 13-17 JULY 2027
 venue: Bridewell Theatre
 ticket-prices: Tickets from £14 (no booking fee)
 primary-color: "#e4412e"
 header-image: /assets/womenontheverge_promo_expanded.jpg
 header-image-contain: false
-box-office-open: false
+box-office-open: true
+box-office-link: https://sedos.ticketsolve.com/shows/1173677276/events
+box-office-text: Book tickets
 sections:
   - order: 1
     title: CREATIVE TEAM
