@@ -15,15 +15,17 @@ showtimes:
   - time: 2027-05-12 19:39
   - time: 2027-05-13 19:30
   - time: 2027-05-14 19:30
-  - time: 2027-05-15 14:30
-  - time: 2027-05-15 19:30
+  - time: 2027-05-15 13:00
+  - time: 2027-05-15 18:00
 showtime-summary: 5-15 MAY 2027
 venue: Bridewell Theatre
 ticket-prices: Tickets from £14 (no booking fee)
 primary-color: "#ed270e"
 header-image: /assets/guys-and-dolls.jpg
 header-image-contain: false
-box-office-open: false
+box-office-open: true
+box-office-link: https://sedos.ticketsolve.com/shows/1173677275/events
+box-office-text: Book tickets
 sections:
   - order: 1
     title: CREATIVE TEAM
