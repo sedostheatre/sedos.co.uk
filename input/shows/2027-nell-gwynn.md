@@ -53,4 +53,7 @@ Nell Gwynn pays at the [Bridewell Theatre](https://www.sedos.co.uk/venues/bridew
 
 **CONTENT WARNINGS:** strong language; sexual references and innuendo; references to sex work/prostitution; misogynistic and discriminatory attitudes reflective of the period
 
+***Nell Gwynn***\
+By Jessica Swale
+
 *An amateur production by arrangement with Nick Hern Books*
