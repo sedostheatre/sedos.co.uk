@@ -54,11 +54,11 @@ metaDescription: Guys And Dolls, the award-winning, ever-popular, musical
 
 Step into the Hot Box.
 
-Forget everything you thought you knew about *Guys and Dolls*. This time, the women are calling the shots.
+Forget everything you thought you knew about *Guys And Dolls*. This time, the women are calling the shots.
 
 Welcome to a world of glitter, gossip, glamour and girls who know exactly what they want. The Hot Box is more than a nightclub. It is a home, a sisterhood and the beating heart of this wild world. These women are not waiting around for their guys to decide what happens next. They have their own stories, their own ambitions and plenty to say about the men who keep getting in the way.
 
-Set against the neon lights and larger than life characters of 1950s New York, this fresh and playful *Guys and Dolls* puts the Hot Box centre stage. Expect outrageous glamour, huge musical numbers, sharp comedy, big personalities and a whole lot of sparkle.
+Set against the neon lights and larger than life characters of 1950s New York, this fresh and playful *Guys And Dolls* puts the Hot Box centre stage. Expect outrageous glamour, huge musical numbers, sharp comedy, big personalities and a whole lot of sparkle.
 
 The guys might think they run the game.
 
