@@ -11,8 +11,8 @@ showtimes:
   - time: 2027-07-14 19:30
   - time: 2027-07-15 19:30
   - time: 2027-07-16 19:30
-  - time: 2027-07-20 13:00
-  - time: 2027-07-20 18:00
+  - time: 2027-07-17 13:00
+  - time: 2027-07-17 18:00
 showtime-summary: 13-17 JULY 2027
 venue: Bridewell Theatre
 ticket-prices: Tickets from £14 (no booking fee)
