@@ -49,7 +49,7 @@ As Nell’s world expands, so does the stage she’s performing on – from the 
 
 **SPECIAL OFFER:** book any four shows (or more) in our 2027 season in one transaction and receive a 25% discount. More info. 
 
-Nell Gwynn pays at the [Bridewell Theatre](https://www.sedos.co.uk/venues/bridewell) from 16-20 March 2027.
+*Nell Gwynn* pays at the [Bridewell Theatre](https://www.sedos.co.uk/venues/bridewell) from 16-20 March 2027.
 
 **CONTENT WARNINGS:** strong language; sexual references and innuendo; references to sex work/prostitution; misogynistic and discriminatory attitudes reflective of the period
 
