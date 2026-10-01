@@ -17,6 +17,7 @@ ticket-prices: Tickets from £14 (no booking fee)
 primary-color: "#b8ce90"
 header-image: /assets/songs-for-a-new-world-1.jpg
 header-image-contain: false
+flyer: /assets/iggrid4x5-sfanw-noteam.png
 box-office-open: true
 box-office-link: https://sedos.ticketsolve.com/shows/1173677278/events
 box-office-text: Book tickets
@@ -46,7 +47,7 @@ These are the stories and characters of today, the *Songs For A New World*. The 
 
 **Director Luke Renwick says:** “I’m thrilled to be directing *Songs For A New World* because it captures the exact moment life shifts and forces us to make a choice – a feeling everyone can connect to. Jason Robert Brown’s extraordinary score gives these raw, human stories so much power, and I can't wait to support a cast to bring that emotional magic to the stage.”
 
-**SPECIAL OFFER:** book any four shows (or more) in our 2027 season in one transaction and receive a 25% discount. More info. 
+**SPECIAL OFFER:** book any four shows (or more) in our 2027 season in one transaction and receive a 25% discount. [More info.](https://www.sedos.co.uk/news/2026-10-01-2027-sedos-season) 
 
 *Songs For A New World* plays at the Bridewell Theatre from 14-18 September 2027.
 
