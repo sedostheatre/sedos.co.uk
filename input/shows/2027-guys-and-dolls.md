@@ -23,6 +23,7 @@ ticket-prices: Tickets from £14 (no booking fee)
 primary-color: "#ed270e"
 header-image: /assets/guys-and-dolls.jpg
 header-image-contain: false
+flyer: /assets/iggrid4x5-guys-dolls-noteam.png
 box-office-open: true
 box-office-link: https://sedos.ticketsolve.com/shows/1173677275/events
 box-office-text: Book tickets
@@ -68,7 +69,7 @@ They have no idea what they’ve walked into.
 
 “We’re making a version of *Guys And Dolls* that feels joyous and contemporary while still celebrating everything we love about the original. We’re leaning into the camp, the comedy, the spectacle and the ridiculousness of it all, but underneath that is a story about friendship, community and women creating a space for themselves. This is *Guys And Dolls*, but the Hot Box is calling the shots.”
 
-**SPECIAL OFFER:** book any four shows (or more) in our 2027 season in one transaction and receive a 25% discount. More info. 
+**SPECIAL OFFER:** book any four shows (or more) in our 2027 season in one transaction and receive a 25% discount. [More info.](https://www.sedos.co.uk/news/2026-10-01-2027-sedos-season) 
 
 *Guys And Dolls* plays at the Bridewell Theatre from 5-15 May 2027.
 
