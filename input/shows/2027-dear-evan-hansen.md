@@ -22,6 +22,7 @@ ticket-prices: Tickets from £14 (no booking fee)
 primary-color: "#16bbfd"
 header-image: /assets/dear-evan-hanson-3.jpg
 header-image-contain: false
+flyer: /assets/iggrid4x5-dearevanhansen-noteam.png
 box-office-open: true
 box-office-link: https://sedos.ticketsolve.com/shows/1173677280/events
 box-office-text: Book tickets
@@ -50,7 +51,7 @@ Featuring a memorable score by Benj Pasek and Justin Paul, the musical combines 
 
 Director Rob Archibald says: “I’m thrilled to be directing *Dear Evan Hansen*. I’ve loved the show for a long time, particularly how honest it is about our need to connect with other people. I can’t wait to get into the rehearsal room with the cast and fellow creatives and discover what our version of this brilliant show will be.”
 
-**SPECIAL OFFER:** book any four shows (or more) in our 2027 season in one transaction and receive a 25% discount. More info. 
+**SPECIAL OFFER:** book any four shows (or more) in our 2027 season in one transaction and receive a 25% discount. [More info. ](https://www.sedos.co.uk/news/2026-10-01-2027-sedos-season)
 
 *Dear Evan Hansen* plays at the Bridewell Theatre from 24 November-4 December 2027.
 
