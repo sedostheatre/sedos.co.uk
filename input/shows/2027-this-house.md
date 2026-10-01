@@ -15,6 +15,7 @@ showtime-summary: 7-11 SEPTEMBER 2027
 primary-color: "#ffb93b"
 header-image: /assets/this-house-big-ben-1.jpg
 header-image-contain: false
+flyer: /assets/iggrid4x5-thishouse-noteam.png
 box-office-open: true
 box-office-link: https://sedos.ticketsolve.com/shows/1173677277/events
 box-office-text: Book tickets
@@ -38,7 +39,7 @@ The year is 1974. A hung parliament in the UK faces an economic crisis and an un
 
 **Director Dan Edge says:** “I think what is really exciting about *This House* is, even though it was written almost 15 years ago, and is set in the 1970s, it is exceptionally relevant to our politics today. We have had five 'unelected' Prime Ministers in the past 10 years, and questions about the fairness, or even the functionality, of our political system are getting louder and louder. *This House* uses a particularly volatile period in British political history to explore these modern issues, and asks us this question – is our government fit for purpose?”
 
-**SPECIAL OFFER:** book any four shows (or more) in our 2027 season in one transaction and receive a 25% discount. More info. 
+**SPECIAL OFFER:** book any four shows (or more) in our 2027 season in one transaction and receive a 25% discount. [More info. ](https://www.sedos.co.uk/news/2026-10-01-2027-sedos-season)
 
 *This House* plays at the Bridewell Theatre from 7-11 September 2027.
 
