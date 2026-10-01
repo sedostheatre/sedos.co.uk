@@ -19,6 +19,7 @@ ticket-prices: Tickets from £14 (no booking fee)
 primary-color: "#e4412e"
 header-image: /assets/womenontheverge_promo_expanded.jpg
 header-image-contain: false
+flyer: /assets/iggrid4x5-womenontheverge-noteam.png
 box-office-open: true
 box-office-link: https://sedos.ticketsolve.com/shows/1173677276/events
 box-office-text: Book tickets
@@ -55,7 +56,7 @@ Both touching and hilarious, *Women on the Verge of a Nervous Breakdown* is a 
 
 “This is the kind of musical I really love: a small cast bringing a bold and entertaining story to life, layering laughs with genuine emotion. Audiences might not know what to expect from this cult show… take a chance and you will not be disappointed.”
 
-**SPECIAL OFFER:** book any four shows (or more) in our 2027 season in one transaction and receive a 25% discount. More info. 
+**SPECIAL OFFER:** book any four shows (or more) in our 2027 season in one transaction and receive a 25% discount. [More info.](https://www.sedos.co.uk/news/2026-10-01-2027-sedos-season) 
 
 *Women on the Verge of a Nervous Breakdown* plays at the Bridewell Theatre from 13-17 July 2027.
 
