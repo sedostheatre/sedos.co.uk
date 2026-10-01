@@ -15,6 +15,7 @@ ticket-prices: Tickets from £12.50 (no booking fee)
 primary-color: "#e48f3e"
 header-image: /assets/sweat-1.jpg
 header-image-contain: false
+flyer: /assets/iggrid4x5-sweat-noteam.png
 box-office-open: true
 box-office-link: https://sedos.ticketsolve.com/shows/1173677279/events
 box-office-text: Book tickets
@@ -39,7 +40,7 @@ When changes at the factory threaten jobs and long-standing friendships, tension
 
 Lynn Nottage’s Pulitzer Prize-winning play is a powerful portrait of a community under pressure, exploring what happens when secure work disappears and people are forced to confront how quickly their lives — and relationships — can change.
 
-**SPECIAL OFFER:** book any four shows (or more) in our 2027 season in one transaction and receive a 25% discount. More info. 
+**SPECIAL OFFER:** book any four shows (or more) in our 2027 season in one transaction and receive a 25% discount. [More info. ](https://www.sedos.co.uk/news/2026-10-01-2027-sedos-season)
 
 *Sweat* plays at the Bridewell Theatre from 19-23 October 2027.
 
