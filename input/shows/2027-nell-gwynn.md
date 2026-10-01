@@ -16,6 +16,7 @@ ticket-prices: Tickets from £12.50 (no booking fee)
 primary-color: "#e77213"
 header-image: /assets/nell-gwynn-orange-1-sb-preferrence.jpg
 header-image-contain: false
+flyer: /assets/iggrid4x5-nellgwynn-noteam.png
 box-office-open: true
 box-office-link: https://sedos.ticketsolve.com/shows/1173677274/events
 box-office-text: Book tickets
@@ -47,7 +48,7 @@ As Nell’s world expands, so does the stage she’s performing on – from the 
 
 “And I’m really excited by the play-within-a-play nature of the show. We move between performance, rehearsal and backstage, and I want to have fun letting the audience see some of the creativity, chaos and teamwork that goes into making theatre. That feels particularly lovely for a Sedos audience, because it’s a world so many of us know incredibly well.”
 
-**SPECIAL OFFER:** book any four shows (or more) in our 2027 season in one transaction and receive a 25% discount. More info. 
+**SPECIAL OFFER:** book any four shows (or more) in our 2027 season in one transaction and receive a 25% discount. [More info.](https://www.sedos.co.uk/news/2026-10-01-2027-sedos-season) 
 
 *Nell Gwynn* pays at the [Bridewell Theatre](https://www.sedos.co.uk/venues/bridewell) from 16-20 March 2027.
 
