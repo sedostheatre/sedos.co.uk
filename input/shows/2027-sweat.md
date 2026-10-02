@@ -27,6 +27,11 @@ sections:
 
       **CO-DIRECTOR** | Roger Beaumont (he/him) \
       **CO-DIRECTOR** | Paula Robinson (she/her)
+  - order: 2
+    title: CONTENT WARNINGS
+    body: This production includes strong language, racial slurs and racist
+      language, xenophobia, references to addiction, alcohol use, economic
+      hardship, and scenes of physical violence.
 metaTitle: Sweat plays at the Bridewell Theatre from 19-23 October 2027
 metaDescription: Sweat, a Pulitzer Prize-winning play based on interviews with
   real people, plays at the Bridewell Theatre from 19-23 October as part of
@@ -44,9 +49,7 @@ Lynn Nottage’s Pulitzer Prize-winning play is a powerful portrait of a communi
 
 **SPECIAL OFFER:** book any four shows (or more) in our 2027 season in one transaction and receive a 25% discount. [More info. ](https://www.sedos.co.uk/news/2026-10-01-2027-sedos-season)
 
-*Sweat* plays at the Bridewell Theatre from 19-23 October 2027.
-
-**CONTENT WARNINGS:**  strong language, racial slurs and racist language, xenophobia, references to addiction, alcohol use, economic hardship, and scenes of physical violence.
+*Sweat* plays at the [Bridewell Theatre](https://www.sedos.co.uk/venues/bridewell) from 19-23 October 2027.
 
 ***Sweat***\
 By Lynn Nottage
