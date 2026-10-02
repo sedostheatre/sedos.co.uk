@@ -29,12 +29,17 @@ sections:
       **DIRECTOR** | Emma J Leaver (she/her)\
       **PRODUCERS** | Clear Harding (she/her) and Ellen Redgrave (they/them)\
       **ASSISTANT DIRECTOR** | Livvy Perrett (she/they)
+  - order: 1
+    title: CONTENT WARNINGS
+    body: This production contains strong language; sexual references and innuendo;
+      references to sex work/prostitution; misogynistic and discriminatory
+      attitudes reflective of the period.
 metaTitle: Nell Gwynn plays at the Bridewell Theatre from 16-20 March 2027
 metaDescription: Nell Gwynn, a joyous, bawdy and big-hearted comedy about one of
   England’s first actresses, plays at the Bridewell from 16-20 March as part of
   Sedos’ 2027 season
 ---
-**“An actor-ess? It’ll never last...”** 
+***“An actor-ess? It’ll never last...”*** 
 
 Jessica Swale’s Nell Gwynn is a joyous, bawdy and big-hearted comedy about one of England’s first actresses.
 
@@ -51,8 +56,6 @@ As Nell’s world expands, so does the stage she’s performing on – from the 
 **SPECIAL OFFER:** book any four shows (or more) in our 2027 season in one transaction and receive a 25% discount. [More info.](https://www.sedos.co.uk/news/2026-10-01-2027-sedos-season) 
 
 *Nell Gwynn* pays at the [Bridewell Theatre](https://www.sedos.co.uk/venues/bridewell) from 16-20 March 2027.
-
-**CONTENT WARNINGS:** strong language; sexual references and innuendo; references to sex work/prostitution; misogynistic and discriminatory attitudes reflective of the period
 
 ***Nell Gwynn***\
 By Jessica Swale
