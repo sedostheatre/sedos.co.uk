@@ -27,6 +27,9 @@ sections:
 
       **DIRECTOR** | Dan Edge (he/him)\
       **PRODUCER** | Clare Harding (she/her)
+  - order: 2
+    title: CONTENT WARNINGS
+    body: This production includes strong language and references to suicide.
 metaTitle: This House plays at the Bridewell Theatre from 7-11 September 2027
 metaDescription: This House, James Graham’s thrilling political play, runs at
   the Bridewell Theatre from 7-11 September, as part of Sedos’ 2027 season
@@ -41,9 +44,7 @@ The year is 1974. A hung parliament in the UK faces an economic crisis and an un
 
 **SPECIAL OFFER:** book any four shows (or more) in our 2027 season in one transaction and receive a 25% discount. [More info. ](https://www.sedos.co.uk/news/2026-10-01-2027-sedos-season)
 
-*This House* plays at the Bridewell Theatre from 7-11 September 2027.
-
-**CONTENT WARNINGS:** strong language and references to suicide
+*This House* plays at the [Bridewell Theatre](https://www.sedos.co.uk/venues/bridewell) from 7-11 September 2027.
 
 ***This House***\
 By James Graham
