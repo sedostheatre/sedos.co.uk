@@ -36,6 +36,10 @@ sections:
 
 
       The team are seeking a producer and assistant musical director – email production@sedos.co.uk if you are interested.
+  - order: 2
+    title: CONTENT WARNINGS
+    body: This productioncontainsmild strong language and mature thematic elements
+      including war, suicide, death and incarceration.
 metaTitle: Songs For A New World plays at the Bridewell Theatre from 14-18 September 2027
 metaDescription: Songs For A New World, the contemporary song cycle from Tony
   Award winner Jason Robert Brown, plays at the Bridewell Theatre from 14-18
@@ -49,9 +53,7 @@ These are the stories and characters of today, the *Songs For A New World*. The 
 
 **SPECIAL OFFER:** book any four shows (or more) in our 2027 season in one transaction and receive a 25% discount. [More info.](https://www.sedos.co.uk/news/2026-10-01-2027-sedos-season) 
 
-*Songs For A New World* plays at the Bridewell Theatre from 14-18 September 2027.
-
-**CONTENT WARNINGS:** mild strong language and mature thematic elements including war, suicide, death and incarceration
+*Songs For A New World* plays at the [Bridewell Theatre](https://www.sedos.co.uk/venues/bridewell) from 14-18 September 2027.
 
 ***Songs For A New World***
 
