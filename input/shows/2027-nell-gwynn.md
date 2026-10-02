@@ -29,7 +29,7 @@ sections:
       **DIRECTOR** | Emma J Leaver (she/her)\
       **PRODUCERS** | Clear Harding (she/her) and Ellen Redgrave (they/them)\
       **ASSISTANT DIRECTOR** | Livvy Perrett (she/they)
-  - order: 1
+  - order: 2
     title: CONTENT WARNINGS
     body: This production contains strong language; sexual references and innuendo;
       references to sex work/prostitution; misogynistic and discriminatory
