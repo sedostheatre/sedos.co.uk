@@ -34,7 +34,7 @@ metaDescription: Nell Gwynn, a joyous, bawdy and big-hearted comedy about one of
   England’s first actresses, plays at the Bridewell from 16-20 March as part of
   Sedos’ 2027 season
 ---
-**“An actor-ess? It’ll never last...”** 
+***“An actor-ess? It’ll never last...”*** 
 
 Jessica Swale’s Nell Gwynn is a joyous, bawdy and big-hearted comedy about one of England’s first actresses.
 
