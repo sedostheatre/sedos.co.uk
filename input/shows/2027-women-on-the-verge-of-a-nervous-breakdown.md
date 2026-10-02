@@ -38,13 +38,17 @@ sections:
 
 
       The team are seeking a producer – please contact [production@sedos.co.uk](mailto:production@sedos.co.uk) if you are interested.
+  - order: 2
+    title: CONTENT WARNINGS
+    body: This production includes strong language, adult content, references to
+      suicide, gunshots. Recommended for ages 14+.
 metaTitle: Women on the Verge of a Nervous Breakdown plays at the Bridewell
   Theatre from 13-17 July 2027
 metaDescription: Women on the Verge of a Nervous Breakdown, a zany musical
   comedy, plays at the Bridewell Theatre from 13-17 July as part of Sedos’ 2027
   season
 ---
-**“It’s murder on a hairdo when your head is underwater.”**
+***“It’s murder on a hairdo when your head is underwater.”***
 
 Gazpacho, anyone? This musical adaptation of Pedro Almodóvar's beloved film centres on Pepa, an actress in 1980s Madrid having a relationship crisis. 
 
@@ -58,9 +62,7 @@ Both touching and hilarious, *Women on the Verge of a Nervous Breakdown* is a 
 
 **SPECIAL OFFER:** book any four shows (or more) in our 2027 season in one transaction and receive a 25% discount. [More info.](https://www.sedos.co.uk/news/2026-10-01-2027-sedos-season) 
 
-*Women on the Verge of a Nervous Breakdown* plays at the Bridewell Theatre from 13-17 July 2027.
-
-**CONTENT WARNINGS:** strong language, adult content, references to suicide, gunshots. Recommended for ages 14+
+*Women on the Verge of a Nervous Breakdown* plays at the [Bridewell Theatre](https://www.sedos.co.uk/venues/bridewell) from 13-17 July 2027.
 
 ***Women on the Verge of a Nervous Breakdown***\
 **A New Musical**
