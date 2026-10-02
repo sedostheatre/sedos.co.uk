@@ -37,6 +37,12 @@ sections:
       **PRODUCERS** | Lizzie Levett (she/her) and Pippa Kyle (she/her)\
       **SOUND DESIGNER** | Adam Coppard (he/him)\
       **MARKETING/SOCIAL MEDIA** | Emma Miller (she/her)
+  - order: 1
+    title: CONTENT WARNINGS
+    body: This production includes frequent discussion and reference to suicide
+      attempts and death by suicide. It also features themes of mental health
+      struggles, grief and bereavement, bullying and reference to substance
+      abuse.
 metaTitle: Dear Evan Hansen plays at the Bridewell Theatre from 24 November-4
   December 2027
 metaDescription: Dear Evan Hansen, the award-winning coming-of-age hit musical,
@@ -53,9 +59,7 @@ Director Rob Archibald says: “I’m thrilled to be directing *Dear Evan Hansen
 
 **SPECIAL OFFER:** book any four shows (or more) in our 2027 season in one transaction and receive a 25% discount. [More info. ](https://www.sedos.co.uk/news/2026-10-01-2027-sedos-season)
 
-*Dear Evan Hansen* plays at the Bridewell Theatre from 24 November-4 December 2027.
-
-**CONTENT WARNINGS:** this production includes frequent discussion and reference to suicide attempts and death by suicide. It also features themes of mental health struggles, grief and bereavement, bullying and reference to substance abuse.
+*Dear Evan Hansen* plays at the [Bridewell Theatre](https://www.sedos.co.uk/venues/bridewell) from 24 November-4 December 2027.
 
 ***Dear Evan Hansen***
 
