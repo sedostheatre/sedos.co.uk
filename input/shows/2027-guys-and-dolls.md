@@ -46,6 +46,11 @@ sections:
 
 
       The team are seeking an assistant director, assistant musical director, intimacy coordinator, costume designer, assistant costume designer and set designer. Email [production@sedos.co.uk](mailto:production@sedos.co.uk) if you are interested in any of these roles.
+  - order: 2
+    title: CONTENT WARNINGS
+    body: This production contains themes of gambling, alcohol, relationships,
+      marriage, sexism and sexual innuendo. It also contains references to
+      smoking and drug use.
 metaTitle: Guys And Dolls plays at the Bridewell Theatre from 5-15 May 2027
 metaDescription: Guys And Dolls, the award-winning, ever-popular, musical
   comedy, plays at the Bridewell Theatre from 5-15 May as part of Sedos’ 2027
@@ -71,9 +76,7 @@ They have no idea what they’ve walked into.
 
 **SPECIAL OFFER:** book any four shows (or more) in our 2027 season in one transaction and receive a 25% discount. [More info.](https://www.sedos.co.uk/news/2026-10-01-2027-sedos-season) 
 
-*Guys And Dolls* plays at the Bridewell Theatre from 5-15 May 2027.
-
-**CONTENT WARNINGS:** this production contains themes of gambling, alcohol, relationships, marriage, sexism and sexual innuendo. It also contains references to smoking and drug use.
+*Guys And Dolls* plays at the [Bridewell Theatre](https://www.sedos.co.uk/venues/bridewell) from 5-15 May 2027.
 
 ***Guys And Dolls***\
 A Musical Fable of Broadway
