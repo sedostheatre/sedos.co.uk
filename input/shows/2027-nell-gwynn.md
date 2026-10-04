@@ -27,7 +27,7 @@ sections:
       **CREATIVE TEAM**
 
       **DIRECTOR** | Emma J Leaver (she/her)\
-      **PRODUCERS** | Clear Harding (she/her) and Ellen Redgrave (they/them)\
+      **PRODUCERS** | Clare Harding (she/her) and Ellen Redgrave (they/them)\
       **ASSISTANT DIRECTOR** | Livvy Perrett (she/they)
   - order: 2
     title: CONTENT WARNINGS
