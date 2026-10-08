@@ -31,32 +31,56 @@ box-office-text: Book tickets
 sections:
   - order: 1
     title: CAST & CREATIVE TEAM
-    body: |-
+    body: >-
       **CAST**
 
+
       **PRIOR WALTER** | Robert J. Stanex\
+
       **LOUIS IRONSON** | Craig Gilchrist\
+
       **JOE PITT** | Charlie O’Reardon\
+
       **HARPER PITT** | Natalie Harding-Cooper\
+
       **HANNAH PITT** | Susan Booth\
+
       **ROY COHN** | Eric Petrossian\
+
       **BELIZE** | Tashan Nicholas\
-      **THE ANGEL** | Lillian Kennedy
+
+      **THE ANGEL** | Lillian Kennedy\
+
+      **THE FOURSEMBLE** | Johanna Weiss, Jim Moorton, Genivieve Wert, Melanie Timbou
+
 
       **CREATIVE TEAM**
 
+
       **DIRECTOR** | David Gregory\
+
       **PRODUCER** | George Langdown\
+
       **TECHNICAL PRODUCER** | Adam Coppard\
+
       **MUSIC SUPERVISOR** | Isaac Bartels\
+
       **ASSISTANT DIRECTOR** | Zahra Jennings-Grant\
+
       **COSTUME DESIGN** | Shannon M. Maddox\
+
       **LIGHTING DESIGN** | Martin Walton\
+
       **SOUND DESIGN** | Pranav Mahesh\
+
       **STAGE MANAGER** | Gill Wood\
+
       **ASSISTANT STAGE MANAGER** | Pippa Kyle\
+
       **MARKETING** | Ellen Redgrave\
+
       **DRAMATURG** | Oli Keene\
+
       **COMMITTEE LIAISON** | Olly Levett
 metaTitle: Angels in America plays at the Bridewell Theatre 19-28 November 2026
 metaDescription: Angels in America, the Tony- and Pulitzer-winning masterpiece
