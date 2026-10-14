@@ -2,7 +2,7 @@
 title: Nell Gwynn
 year: "2027"
 authors: By JESSICA SWALE
-subtitle: “Take the stage, find yourself.”
+subtitle: More than a royal squeeze
 showtimes:
   - time: 2027-03-16 19:30
   - time: 2027-03-17 19:30
@@ -33,7 +33,8 @@ sections:
     title: CONTENT WARNINGS
     body: This production contains strong language; sexual references and innuendo;
       references to sex work/prostitution; misogynistic and discriminatory
-      attitudes reflective of the period.
+      attitudes reflective of the period; references to the death of
+      family/significant other and alcohol dependency and addiction.
 metaTitle: Nell Gwynn plays at the Bridewell Theatre from 16-20 March 2027
 metaDescription: Nell Gwynn, a joyous, bawdy and big-hearted comedy about one of
   England’s first actresses, plays at the Bridewell from 16-20 March as part of
