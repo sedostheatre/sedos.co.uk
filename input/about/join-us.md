@@ -92,7 +92,7 @@ Weekday rehearsals (generally two per week, but not everyone is called to all re
 
 **Where are rehearsals held?**
 
-We try to find free/cheap rehearsal space within easy reach of central London. Most of our auditions and rehearsals are currently at Theatre Deli Leadenhall Studios, 107 Leadenhall Street, London EC3A 4AF.
+We try to find free/cheap rehearsal space within easy reach of central London. Most of our auditions and rehearsals are currently at 12 Bride Lane, next to the [Bridewell Theatre](https://www.sedos.co.uk/venues/bridewell) (EC4Y 8EQ) and we also use venues such as [Vibast](https://www.sedos.co.uk/venues/vibast) and [King Square](https://www.sedos.co.uk/venues/king-square). 
 
 **Where do performances take place?**
 
