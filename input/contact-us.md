@@ -23,6 +23,8 @@ Get involved backstage: [backstage@sedos.co.uk](mailto:backstage@sedos.co.uk)
 
 Membership group: [membership@sedos.co.uk](mailto:membership@sedos.co.uk)
 
+Volunteer to help with front of house or box office: [foh@sedos.co.uk](mailto:foh@sedos.co.uk)
+
 For everything to do with the website: [webmaster@sedos.co.uk](mailto:webmaster@sedos.co.uk)
 
 If you would like to raise any safeguarding or welfare issues please contact [safeguarding@sedos.co.uk](mailto:safeguarding@sedos.co.uk) or [welfare@sedos.co.uk](mailto:welfare@sedos.co.uk) 
