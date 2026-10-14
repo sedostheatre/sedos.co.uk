@@ -75,8 +75,6 @@ sections:
 
       **STAGE MANAGER** | Gill Wood\
 
-      **ASSISTANT STAGE MANAGER** | Pippa Kyle\
-
       **MARKETING** | Ellen Redgrave\
 
       **DRAMATURG** | Oli Keene\
