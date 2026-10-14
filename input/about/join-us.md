@@ -82,6 +82,8 @@ MUSICALS: You will be sent material to prepare in advance for both dialogue and 
 
 PLAYS: You will be sent dialogue to prepare in advance for the part(s) you are interested in. Recalls may take a workshop format interacting with other potential cast members or may be done individually.
 
+Some shows use video submissions for first-round auditions – again, all the details and what is required will be in the audition notice. 
+
 **How long is the rehearsal period?**
 
 We prefer a short but intensive rehearsal period of about 8-12 weeks.
