@@ -32,4 +32,24 @@ As Nell’s world expands, so does the stage she’s performing on, from the pla
 
 Funny and saucy, it’s a celebration of theatre and the people who make it.
 
+**OUR CASTING APPROACH**
+
+We are committed to building a cast that reflects the diversity of the world we live in. All roles in this production are open to performers of all genders, ethnicities, body types, and backgrounds unless explicitly stated otherwise.
+
+We are particularly keen to hear from performers who are currently underrepresented on our stages.
+
+Playing ages are indicative rather than strict casting requirements. Performers of all gender identities are welcome to audition, and character pronouns refer to the roles as written.
+
+Please note – when we refer to Nell’s family this does not have to be a biological family or assumed representations of this.
+
+Character inspirations are offered as creative reference points rather than performances to imitate.
+
+**WHAT TO DO NOW**
+
+Read the [full audition notice](https://drive.google.com/drive/folders/1vDN22ibQvRZegIWsGuC0-UufJp8dMYGm), then sign up for the pre-audition workshop and an audition slot.
+
 ### [CLICK FOR FULL AUDITION NOTICE](https://drive.google.com/drive/folders/1vDN22ibQvRZegIWsGuC0-UufJp8dMYGm)
+
+**MORE AUDITIONS**
+
+Information about all our [London auditions](https://www.sedos.co.uk/get-involved).
