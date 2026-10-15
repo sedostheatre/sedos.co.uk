@@ -19,3 +19,7 @@ Information about *[Nell Gwynn](https://www.sedos.co.uk/shows/2027-nell-gwynn)* 
 **Pre-audition workshop:** Sunday 1 November, 2-3.30pm\
 **First-round auditions:** Wednesday 18, Thursday 19 and Friday 20 November (45-minute slots from 6.45pm-9.15pm) and Saturday 21 November (45-minute slots from 10.30am-3pm)\
 **Recalls (by invitation):** Saturday 28 November
+
+### [LINK TO FULL AUDITION NOTICE](https://drive.google.com/drive/folders/1vDN22ibQvRZegIWsGuC0-UufJp8dMYGm)
+
+### [CLICK FOR FULL AUDITION NOTICE](https://drive.google.com/drive/folders/1vDN22ibQvRZegIWsGuC0-UufJp8dMYGm)
