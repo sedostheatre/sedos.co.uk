@@ -22,4 +22,14 @@ Information about *[Nell Gwynn](https://www.sedos.co.uk/shows/2027-nell-gwynn)* 
 
 ### [LINK TO FULL AUDITION NOTICE](https://drive.google.com/drive/folders/1vDN22ibQvRZegIWsGuC0-UufJp8dMYGm)
 
+**ABOUT THE SHOW**
+
+Jessica Swale’s *Nell Gwynn* is a joyous, bawdy and big-hearted comedy about one of England’s first actresses.
+
+It’s 1660: the theatres have reopened after years of Puritan rule and, for the first time, women are taking to the professional stage. Enter Nell, an orange seller with a quick wit, a natural gift for comedy and an irrepressible determination to make the most of every opportunity that comes her way. A woman who learns to command a stage, without losing the warmth and charm that makes people fall in love with her.
+
+As Nell’s world expands, so does the stage she’s performing on, from the playhouse, surrounded by its actors, audiences, gossips and hangers-on, to the grandest stage of all, the court of King Charles II.
+
+Funny and saucy, it’s a celebration of theatre and the people who make it.
+
 ### [CLICK FOR FULL AUDITION NOTICE](https://drive.google.com/drive/folders/1vDN22ibQvRZegIWsGuC0-UufJp8dMYGm)
