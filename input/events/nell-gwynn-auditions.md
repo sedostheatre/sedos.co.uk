@@ -9,6 +9,9 @@ times:
 image: /assets/nellgwynnauditions.jpg
 imageAlt: Nell Gwynn auditions
 venue: 12 Bride Lane
+metaTitle: Nell Gwynn auditions
+metaDescription: Find out how to register for Nell Gwynn auditions and try out
+  for Sedos’ first production of 2027
 ---
 Information about *[Nell Gwynn](https://www.sedos.co.uk/shows/2027-nell-gwynn)* auditions has now been released - read on to find out how to try out to be in Sedos’ first production of 2027.
 
