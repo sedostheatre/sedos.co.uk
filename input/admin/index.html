@@ -16,19 +16,25 @@
     CMS.registerEditorComponent({
       id: "youtube",
       label: "YouTube",
-      fields: [{name: 'id', label: 'Youtube Video ID', widget: 'string'}],
-      pattern: /^<div class="video-responsive"><\?# YouTube (\S+) \/\?><\/div>$/,
+      fields: [
+        {name: 'id', label: 'Youtube Video ID', widget: 'string'},
+        {name: 'vertical', label: 'Vertical video (e.g. YouTube Short)', widget: 'boolean', default: false}
+      ],
+      pattern: /^<div class="video-responsive( video-responsive-vertical)?"><\?# YouTube (\S+) \/\?><\/div>$/,
       fromBlock: function(match) {
         return {
-          id: match[1]
+          id: match[2],
+          vertical: !!match[1]
         };
       },
       toBlock: function(obj) {
-        return '<div class="video-responsive"><?# YouTube ' + obj.id + ' /?></div>';
+        var cls = obj.vertical ? 'video-responsive video-responsive-vertical' : 'video-responsive';
+        return '<div class="' + cls + '"><?# YouTube ' + obj.id + ' /?></div>';
       },
       toPreview: function(obj) {
+        var style = obj.vertical ? ' style="max-width:360px;aspect-ratio:9/16;object-fit:cover"' : '';
         return (
-          '<img src="https://img.youtube.com/vi/' + obj.id + '/maxresdefault.jpg" alt="Youtube Video"/>'
+          '<img src="https://img.youtube.com/vi/' + obj.id + '/maxresdefault.jpg" alt="Youtube Video"' + style + '/>'
         );
       }
     });
