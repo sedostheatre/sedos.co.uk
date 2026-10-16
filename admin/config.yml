@@ -438,6 +438,21 @@ collections:
         fields:
           - {label: key, name: key, widget: hidden}
           - {label: Image, name: image-source, widget: image}
+  - label: "Short Links"
+    name: "short-links"
+    files:
+      - label: "Short Links"
+        name: "short-links"
+        file: "input/short-links.yml"
+        description: "Quick links like sedos.co.uk/newsletter that redirect to another page or site"
+        fields:
+          - label: Links
+            name: links
+            widget: list
+            summary: "/{{fields.from}} → {{fields.to}}"
+            fields:
+              - {label: "Short link (the part after sedos.co.uk/, e.g. newsletter or titanic/form)", name: from, widget: string, pattern: ['^/?[A-Za-z0-9._~/-]+$', "Letters, numbers, dashes, dots and slashes only - no spaces"]}
+              - {label: "Destination URL", name: to, widget: string, pattern: ['^(https?://|/)\S+$', "Must be a full URL (https://...) or a site path starting with /"]}
   - label: "Pages"
     name: "pages"
     files:
