@@ -34,10 +34,12 @@ sections:
 
       **MUSICAL DIRECTOR** | Maria Hallows (she/her) \
 
-      **CHOREOGRAPHER** | Taylor Davidson (she/her) 
+      **CHOREOGRAPHER** | Taylor Davidson (she/her) \
+
+      **PRODUCER** | Izzi Richardson (she/her) 
 
 
-      The team are seeking a producer – please contact [production@sedos.co.uk](mailto:production@sedos.co.uk) if you are interested.
+      The team are seeking designers for set, sound, lighting, video production, costume and props – please contact [production@sedos.co.uk](mailto:production@sedos.co.uk) if you are interested.
   - order: 2
     title: CONTENT WARNINGS
     body: This production includes strong language, adult content, references to
