@@ -51,7 +51,7 @@ sections:
 
       **THE ANGEL** | Lillian Kennedy\
 
-      **THE FOURSEMBLE** | Johanna Weiss, Jim Moorton, Genivieve Wert, Melanie Timbou
+      **THE FOURSEMBLE** | Johanna Weiss, Jim Moorton, Genivieve Wert, Melanie Happi Timbou
 
 
       **CREATIVE TEAM**
