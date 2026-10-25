@@ -3,6 +3,21 @@ year: 2026
 ---
 # 2026
 
+# *Be More Chill*
+
+^^^
+![Dress rehearsal photo from Sedos’s production of Be More Chill](/assets/55605236199_621c127df9_c.jpg)
+^^^ Be More Chill
+
+>Ultimately, Be More Chill is a wonderfully bonkers show that thrives on energy, commitment and a willingness to embrace its more outrageous moments, and Sedos delivered plenty of all three.
+><footer><cite><a target="_blank" href="https://musicaltheatremusings.co.uk/be-more-chill-sedos/">Be More Chill, 2026, Musical Theatre Musings</a></cite></footer>
+
+>Be More Chill was a show that had a slick, professional quality to the detailed work involved from the whole team… This was a well-developed show that provides food for thought, entertainment and well-timed comedy.
+><footer><cite><a target="_blank" href="https://www.londontheatre1.com/reviews/be-more-chill-bridewell-theatre/">Be More Chill, 2026, London Theatre 1 (****)</a></cite></footer>
+
+>Overall, Sedos’ production of Be More Chill is a lot of fun, capturing the humour, heart, and chaotic charm of this wonderfully weird, high-energy musical. 
+><footer><cite><a target="_blank" href="https://www.londontheatrereviews.co.uk/post.cfm?p=29389">Be More Chill, 2026, London Theatre Reviews (****)</a></cite></footer>
+
 # *Love’s Labour’s Lost (The Musical)*
 
 ^^^
