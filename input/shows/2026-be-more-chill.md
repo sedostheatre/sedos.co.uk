@@ -99,10 +99,10 @@ sections:
       ![](/assets/be-more-chill-flyer-front.png)
 
       ![](/assets/be-more-chill-flyer-back.png)
-  - order: 3
+  - order: 4
     title: VIDEO
     body: <div class="video-responsive"><?# YouTube GpTJYsLpWzQ /?></div>
-  - order: 4
+  - order: 5
     title: REVIEWS
     body: >-
       >Ultimately, Be More Chill is a wonderfully bonkers show that thrives on
@@ -120,6 +120,14 @@ sections:
       >Overall, Sedos’ production of Be More Chill is a lot of fun, capturing the humour, heart, and chaotic charm of this wonderfully weird, high-energy musical. 
 
       ><footer><cite><a target="_blank" href="https://www.londontheatrereviews.co.uk/post.cfm?p=29389">Be More Chill, 2026, London Theatre Reviews (****)</a></cite></footer>
+  - order: 3
+    title: GALLERY
+    body: <a data-flickr-embed="true"
+      href="https://www.flickr.com/photos/sedos/albums/72177720335258368"
+      title="Be More Chill - 2026"><img
+      src="https://live.staticflickr.com/65535/55480555936_6e471009a2.jpg"
+      width="640" height="480" alt="Be More Chill - 2026"/></a><script async
+      src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 metaTitle: Be More Chill plays at the Bridewell Theatre 20-24 October 2026
 metaDescription: "Life is not unlike a video game. And in a video game success
   requires just two things: good hand-eye coordination… and a cheat code. Be
