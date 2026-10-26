@@ -40,7 +40,7 @@ St Paul’s (Central line), seven-minute walk
 
 **Bus**
 
-Fleet Street, 4, 11, I5, 23, 26, 76
+Fleet Street, 4, 11, 15, 23, 26, 76
 
 New Bridge Street, 45, 63, 172
 
