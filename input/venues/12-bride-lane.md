@@ -15,9 +15,9 @@ Sedos holds rehearsals, auditions, workshops and more at 12 Bride Lane, next to 
 
 **Address**
 
-12 Bride Lane
-Off Fleet Street
-London
+12 Bride Lane\
+Off Fleet Street\
+London\
 EC4Y 8EQ
 
 **Nearest tube stations**
