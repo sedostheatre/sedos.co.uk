@@ -1,8 +1,8 @@
 ---
 title: Open Swimprov
 times:
-  - time: 2026-10-06 19:30
   - time: 2026-11-03 19:30
+  - time: 2026-12-01 19:30
 image: /assets/simprov-july-24-3.jpg
 venue: Shoreditch Balls
 recurrence: ""
@@ -33,17 +33,13 @@ Find out more about [Simprov](https://www.sedos.co.uk/regular-events/simprov).
 
 ## **Featuring Upcoming Acts...**
 
-**6 October 2026** | Simprov with guest acts Passion Project and Snack Time
-
-![](/assets/passionproject.jpg)
-
-![](/assets/snack-time.png)
-
 **3 November 2026** | Simprov with guest acts Big Questions and Unscriptulous
 
 ![](/assets/bigquestionimprovjpg.jpg)
 
 ![](/assets/unscriptulous_logo.png)
+
+**1 December 2026** | Simprov with guest acts TBA
 
 ![](/assets/simprov-logo-800.jpg)
 
