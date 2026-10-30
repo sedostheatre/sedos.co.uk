@@ -74,7 +74,7 @@ They have no idea what they’ve walked into.
 
 “We’re making a version of *Guys And Dolls* that feels joyous and contemporary while still celebrating everything we love about the original. We’re leaning into the camp, the comedy, the spectacle and the ridiculousness of it all, but underneath that is a story about friendship, community and women creating a space for themselves. This is *Guys And Dolls*, but the Hot Box is calling the shots.”
 
-**AUDITIONS:** information about [Guys And Dolls auditions](https://www.sedos.co.uk/events/guys-and-dolls-auditions).
+**AUDITIONS:** information about [*Guys And Dolls* auditions](https://www.sedos.co.uk/events/guys-and-dolls-auditions).
 
 **SPECIAL OFFER:** book any four shows (or more) in our 2027 season in one transaction and receive a 25% discount. [More info.](https://www.sedos.co.uk/news/2026-10-01-2027-sedos-season) 
 
