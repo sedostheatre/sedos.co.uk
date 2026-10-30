@@ -5,7 +5,7 @@
   "devDependencies": {
     "cypress": "16.2.0",
     "html-validate": "11.17.0",
-    "postcss": "8.5.30",
+    "postcss": "8.5.32",
     "purgecss": "8.0.0",
     "serve": "14.2.6",
     "stylelint": "17.16.0",
