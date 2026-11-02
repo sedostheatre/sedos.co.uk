@@ -39,7 +39,11 @@ Find out more about [Simprov](https://www.sedos.co.uk/regular-events/simprov).
 
 ![](/assets/unscriptulous_logo.png)
 
-**1 December 2026** | Simprov with guest acts TBA
+**1 December 2026** | Simprov with guest acts Improper Improv and Whose Time Is It Anyway?
+
+![](/assets/improper_landscape.jpg)
+
+![](/assets/whose-time-is-it-anyway.jpg)
 
 ![](/assets/simprov-logo-800.jpg)
 
