@@ -10,7 +10,7 @@ metaDescription: Make sure you’re on the guest list for the London amdram 2026
 ---
 **Join us for our Christmas party!**
 
-**When:** Friday 18 December | 7pm ’til late 
+**When:** Friday 18 December | 7pm ’til late\
 **Where:** The Bridewell Bar, [Bridewell Theatre,](https://www.sedos.co.uk/venues/bridewell) Bride Lane, off Fleet Street, London EC4Y 8EQ
 
 Come and celebrate a fantastic 2026 with your cast, crew, classmates and fellow am-drammers! 
