@@ -17,11 +17,9 @@ Come and celebrate a fantastic 2026 with your cast, crew, classmates and fellow 
 
 We’re teaming up with Geoids and Centre Stage to bring everyone together for one big Christmas party. No clashing parties, no FOMO, just festive drinks, familiar faces and a chance to see out the year together.
 
-**Entry is free, but you have to be on the guest list so we can manage capacity!
+Entry is free, but you have to be on the guest list so we can manage capacity!
 
-Guest list link:** <https://forms.gle/fRtnvKKZeiym1dFXA>
-
-
+**Guest list link:** <https://forms.gle/fRtnvKKZeiym1dFXA>
 
 ^^^
 ![](/assets/christmas-party-landscape.jpg)
