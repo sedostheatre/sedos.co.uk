@@ -1,5 +1,5 @@
 ---
-title: Christmas party
+title: Christmas Party
 times:
   - time: 2026-12-18 19:00
 image: /assets/christmas-party-landscape.jpg
