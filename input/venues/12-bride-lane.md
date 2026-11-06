@@ -20,6 +20,10 @@ Off Fleet Street\
 London\
 EC4Y 8EQ
 
+^^^
+![](/assets/whatsapp-image-2026-11-06-at-10.17.39.jpeg)
+^^^ Entrance to 12 Bride Lane
+
 **Nearest tube stations**
 
 Blackfriars (District and Circle line), three-minute walk
@@ -35,6 +39,14 @@ New Bridge Street, 45, 63, 172
 **Rail**
 
 Thameslink, two-minute walk
+
+**Accessibility**
+
+There is a small step up at the entrance doors to 12 Bride Lane.
+
+There are six steps up to the kitchen and toilets (split into three and three steps).
+
+There are 11 steps up to the first floor rehearsal space (split into six and five steps). 
 
 ^^^
 ![The cast of The Curious Incident of the Dog in the Night-Time rehearsing at 12 Bride Lane in 2026](/assets/55360410221_1e4f12f069_c.jpg)
