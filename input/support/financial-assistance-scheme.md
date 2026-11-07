@@ -13,6 +13,8 @@ At Sedos, we understand that participating in a show can be financially challeng
 
 That’s why we offer a Financial Assistance Scheme for cast members who may not be able to take part without support. Thanks to the generosity of donors, the scheme helps cover membership and participation fees, either partially or fully, ensuring that financial constraints don’t hinder your opportunity to shine on stage.
 
+
+
 >I can truly say being part of that production, and Sedos more generally, had a significant positive impact on my mental health in a time it was difficult to ask for help
 ><footer><cite>Financial Assistance Scheme beneficiary</cite></footer>
 
@@ -23,6 +25,8 @@ The fund is supported by kind donations from members and friends of Sedos, helpi
 ### Want to donate?
 
 If you’d like to contribute to the Financial Assistance Scheme, you can donate by [filling in this form](https://docs.google.com/forms/d/e/1FAIpQLScK400q8HjQGP1tEelh-YF7EpzESkwT5DqPOb2YxikcjcGP-A/viewform) and making your donation directly to the Sedos bank account (details in the [full policy](https://www.sedos.co.uk/assets/policies/financial-assistance-scheme.pdf)). Your donation won’t influence casting decisions – it simply supports more people in accessing the Sedos experience. If you have any questions, please contact our Treasurer at [treasurer@sedos.co.uk](mailto:treasurer@sedos.co.uk).
+
+
 
 >The Financial Assistance Scheme genuinely makes theatre accessible to those who otherwise couldn’t take part
 ><footer><cite>Financial Assistance Scheme beneficiary</cite></footer>
@@ -41,9 +45,9 @@ At Sedos, we believe in making taking part possible for everyone, no matter thei
 *Financial Assistance Scheme beneficiary*
 
 "I have been a Sedos member for a long time, over a decade in fact. When I first moved to London it was one of the first places I made friends, a place that I found I fit in and felt less lonely. \
-"Last year, to my absolute delight I was cast in a show. It was following a recent redundancy and despite unstable work up until that point I was sure my situation would improve by the time show week - and all its other optional costs (Secret Santa / show merchandise, curry night, crew gifts and after-show pizza) - rolled around. But it didn’t. My unpaid show fee hung over me. I felt so embarrassed. I had always thought the FAS was really for younger people, or people just arriving to London, starting out, as I had been all those years ago. I felt Sedos had given me so much already. \
+"Last year, to my absolute delight I was cast in a show. It was following a recent redundancy and despite unstable work up until that point I was sure my situation would improve by the time show week – and all its other optional costs (Secret Santa / show merchandise, curry night, crew gifts and after-show pizza) – rolled around. But it didn’t. My unpaid show fee hung over me. I felt so embarrassed. I had always thought the FAS was really for younger people, or people just arriving to London, starting out, as I had been all those years ago. I felt Sedos had given me so much already. \
 "But production week came and I couldn’t put it off any longer. In a very simple, and kind, email exchange with the show producer and Sedos’ treasurer we agreed to a partial funding of my show fee. The relief was immense. I felt I could enjoy production week more, albeit more frugally than the past. \
-"I can truly say being part of that production, and Sedos more generally, had a significant positive impact on my mental health in a time it was difficult to ask for help. I’d encourage anyone struggling to make use of it, and a massive thank you to those who made the the scheme possible."\
+"I can truly say being part of that production, and Sedos more generally, had a significant positive impact on my mental health in a time it was difficult to ask for help. I’d encourage anyone struggling to make use of it, and a massive thank you to those who made the scheme possible."\
 *Financial Assistance Scheme beneficiary*
 
 ### Beyond the Financial Assistance Scheme
