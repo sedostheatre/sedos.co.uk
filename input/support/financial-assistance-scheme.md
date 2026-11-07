@@ -13,6 +13,8 @@ At Sedos, we understand that participating in a show can be financially challeng
 
 That’s why we offer a Financial Assistance Scheme for cast members who may not be able to take part without support. Thanks to the generosity of donors, the scheme helps cover membership and participation fees, either partially or fully, ensuring that financial constraints don’t hinder your opportunity to shine on stage.
 
+
+
 >I can truly say being part of that production, and Sedos more generally, had a significant positive impact on my mental health in a time it was difficult to ask for help
 ><footer><cite>Financial Assistance Scheme beneficiary</cite></footer>
 
@@ -23,6 +25,8 @@ The fund is supported by kind donations from members and friends of Sedos, helpi
 ### Want to donate?
 
 If you’d like to contribute to the Financial Assistance Scheme, you can donate by [filling in this form](https://docs.google.com/forms/d/e/1FAIpQLScK400q8HjQGP1tEelh-YF7EpzESkwT5DqPOb2YxikcjcGP-A/viewform) and making your donation directly to the Sedos bank account (details in the [full policy](https://www.sedos.co.uk/assets/policies/financial-assistance-scheme.pdf)). Your donation won’t influence casting decisions – it simply supports more people in accessing the Sedos experience. If you have any questions, please contact our Treasurer at [treasurer@sedos.co.uk](mailto:treasurer@sedos.co.uk).
+
+
 
 >The Financial Assistance Scheme genuinely makes theatre accessible to those who otherwise couldn’t take part
 ><footer><cite>Financial Assistance Scheme beneficiary</cite></footer>
