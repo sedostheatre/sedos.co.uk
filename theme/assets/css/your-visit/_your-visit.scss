@@ -12,6 +12,12 @@
         padding-bottom: 20px;
     }
 
+    // Uploaded images vary slightly in shape; force a consistent frame so cards line up.
+    .card-img-top {
+        aspect-ratio: 2 / 1;
+        object-fit: cover;
+    }
+
     .card-footer {
         a {
             color: $white;
