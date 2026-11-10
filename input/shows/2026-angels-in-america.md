@@ -88,6 +88,9 @@ sections:
       src="https://live.staticflickr.com/65535/55643895864_2ff2459b2a.jpg"
       width="640" height="480" alt="Angels in America"/></a><script async
       src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+  - order: 2
+    title: VIDEO
+    body: <div class="video-responsive"><?# YouTube wke300h86Ck /?></div>
 metaTitle: Angels in America plays at the Bridewell Theatre 19-28 November 2026
 metaDescription: Angels in America, the Tony- and Pulitzer-winning masterpiece
   that defined a generation. It is part of Sedos’ 2026 season and plays at the
