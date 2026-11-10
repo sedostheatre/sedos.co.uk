@@ -80,6 +80,14 @@ sections:
       **DRAMATURG** | Oli Keene\
 
       **COMMITTEE LIAISON** | Olly Levett
+  - order: 2
+    title: GALLERY
+    body: <a data-flickr-embed="true"
+      href="https://www.flickr.com/photos/sedos/albums/72177720336661241"
+      title="Angels in America"><img
+      src="https://live.staticflickr.com/65535/55643895864_2ff2459b2a.jpg"
+      width="640" height="480" alt="Angels in America"/></a><script async
+      src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 metaTitle: Angels in America plays at the Bridewell Theatre 19-28 November 2026
 metaDescription: Angels in America, the Tony- and Pulitzer-winning masterpiece
   that defined a generation. It is part of Sedos’ 2026 season and plays at the
