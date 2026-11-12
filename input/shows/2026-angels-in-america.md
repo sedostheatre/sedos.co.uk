@@ -108,6 +108,19 @@ Following the international acclaim of the National Theatre revival and the cele
 
 Both parts will be offered in a unique theatrical experience at the Bridewell in November 2026. Do not miss out on the event of the ‘Millennium’.
 
+**Performance schedule:**
+
+Thursday 19 November 7pm: Part One – Millennium Approaches\
+Friday 20 November 7pm: Part Two – Perestroika\
+Saturday 21 November 1pm: Part One – Millennium Approaches\
+Saturday 21 November 7pm: Part Two – Perestroika\
+Tuesday 24 November 7pm: Part One – Millennium Approaches\
+Wednesday 25 November 7pm: Part Two – Perestroika\
+Thursday 26 November 7pm: Part One – Millennium Approaches\
+Friday 27 November 7pm: Part Two – Perestroika\
+Saturday 28 November 1pm: Part One – Millennium Approaches\
+Saturday 28 November 7pm: Part Two – Perestroika
+
 Director David Gregory commented: "Directing *Angels in America* is both a challenge and a privilege… it’s like being handed a theatrical universe. Kushner’s writing is vast, poetic, and fiercely political, yet rooted in the most intimate human emotions. To stage it is to wrestle with angels and ghosts, with love and fear, with the very question of what theatre can do. Every scene asks for invention: conjuring visions, collapsing time, making the impossible suddenly real. 
 
 "It’s going to be exhilarating to guide actors through this landscape, to discover new layers in characters that feel endlessly alive, and to invite an audience into an experience that promises to be funny, devastating, and transcendent. This isn’t just another play – it’s a once-in-a-lifetime journey for all of us at Sedos and all of our audiences. And directing it feels like being at the helm of something truly extraordinary."
