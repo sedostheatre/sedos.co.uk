@@ -7,7 +7,7 @@
     "html-validate": "11.18.0",
     "postcss": "8.5.32",
     "purgecss": "8.0.0",
-    "serve": "14.2.6",
+    "serve": "14.2.7",
     "stylelint": "17.16.0",
     "stylelint-config-standard-scss": "17.0.0"
   },
