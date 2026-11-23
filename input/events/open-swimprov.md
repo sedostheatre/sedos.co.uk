@@ -1,7 +1,6 @@
 ---
 title: Open Swimprov
 times:
-  - time: 2026-11-03 19:30
   - time: 2026-12-01 19:30
 image: /assets/simprov-july-24-3.jpg
 venue: Shoreditch Balls
