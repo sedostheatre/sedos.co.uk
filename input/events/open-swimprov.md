@@ -32,12 +32,6 @@ Find out more about [Simprov](https://www.sedos.co.uk/regular-events/simprov).
 
 ## **Featuring Upcoming Acts...**
 
-**3 November 2026** | Simprov with guest acts Big Questions and Unscriptulous
-
-![](/assets/bigquestionimprovjpg.jpg)
-
-![](/assets/unscriptulous_logo.png)
-
 **1 December 2026** | Simprov with guest acts Improper Improv and Whose Time Is It Anyway?
 
 ![](/assets/improper_landscape.jpg)
